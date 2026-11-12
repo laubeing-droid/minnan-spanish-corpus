@@ -149,6 +149,19 @@ PDF 原件 ──slice──▶ 300dpi 横带+纵栏 ──▶ 精读员并行�
 递归自我改进在本项目中作为**方法论实验**运行，以人工守门为前提，此声明是对
 [SCOPE_AND_LIMITS.md](SCOPE_AND_LIMITS.md) 的补充。
 
+### 6.4 收官提交与灾备纪律（2026-11-12 用户裁定）
+
+1. **主会话执行**：git 提交与推送只由主会话（用户或现任施工方）执行；工作流与子代理永不碰 git。
+2. **收官必推**：每次工作流收官通知到达即执行提交推送，构成灾备闭环，无需用户催办。
+3. **提交粒度**：数据与文档各一笔——数据笔（封存件 + `BLIND_READ_MANIFEST.json` + raw 件 +
+   队列/登记账），文档笔（LESSONS / PROJECT_HISTORY / CHANGELOG / README 统计）。
+4. **失败收官照推并标注**：部分批次失败或门禁未全过时，已救回数据照常推送，提交信息标注
+   "部分失败待补"。
+5. **RSI 边界含引擎**：教训可编译进工作流脚本阶段/守卫**及其直接调用的确定性引擎**
+   （`literature/tools/`）；工作流永不自改脚本；编译步在主会话执行。
+6. **异常处置**：push 被拒先 rebase、审计发现残留先剔除——能安全处理就照推；
+   真冲突或可疑内容才停手向用户报告。
+
 ## 7. English Summary
 
 This repository preserves outputs from distinct construction stages—including reference-assisted baseline drafts (`baseline_all22_extracted/`), the M1 disambiguated/merged layer (`workspace_m1_dhs306/`), and the M2 pure visual blind-read records (`workspace_m2_dhs834/`)—which must not be conflated into a single uniform claim of completion. Under **Blind-Read Protocol v3.1 (M2)**:
