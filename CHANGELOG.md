@@ -6,6 +6,10 @@
 ## [0.2.0] — 2026-11-12 · 仓库门面与缺口补读启动
 
 ### Added
+- `docs/HISTORICAL_BACKGROUND.md`：历史背景——涧内（Parián）与 Sangley 社会场景、1593 圣加布里埃尔
+  印刷（龚容 Juan de Vera）、高母羡 Juan Cobo 与《明心宝鉴》、1603 涧内之变、北台湾时期定年证据
+  （鸡笼淡水词条）、「Vale muy poco」注记、现代学术接力（van der Loon → 韩可龙 Klöter →
+  周振鹤《中欧语言接触的先声》→ 李毓中团队丛刊 9 册与 2023 索里亚公爵奖）及历史/当代人物双表
 - 三语 README（汉/英/西）、方法论 METHODOLOGY、实际意义 SIGNIFICANCE（三语）、
   项目历史 PROJECT_HISTORY、使用方法 USAGE（三语）、CC BY-NC-SA 4.0 LICENSE
 - `docs/DATA_SCHEMA.md`：M1 主卷七层结构（含 layer_0 视觉锚点与 layer_5 关系标签 TAG-1~5

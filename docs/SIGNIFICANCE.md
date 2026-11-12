@@ -6,6 +6,16 @@
 
 ## 中文
 
+**历史场景与人物**（详见 [HISTORICAL_BACKGROUND.md](HISTORICAL_BACKGROUND.md)）：这批文献诞生于
+1571 年西班牙建马尼拉城后的**涧内（Parián）**华人区——多明我会圣玫瑰省为向闽南 Sangley 传教，
+与华人刻工**龚容（Juan de Vera）**合作刻出菲律宾最早的印刷书（1593《基督教教义》汉文版）；
+**高母羡（Juan Cobo）**译出已知最早的汉籍西译《明心宝鉴》；辞典中「鸡笼、淡水」词条与
+「教我𫢲唐人话」的注记，把编者拉回到 1626–1642 西占北台湾时期的学习现场。1603 年涧内之变的
+暴力转折，反而催生了更系统的辞书编纂。现代学术接力自 van der Loon 起，经韩可龙（Klöter）2011
+专著、周振鹤编《中欧语言接触的先声》（2018），至李毓中团队 2017 年在圣托马斯大学档案馆重新
+发现千页辞典、出版《闽南—西班牙历史文献丛刊》9 册，并于 2023 年获首届索里亚公爵国际
+西班牙语学研究讲座首奖。
+
 **语言学**：本库覆盖的《西班牙—华语辞典》《漳州话语法》《华语西班牙语辞典》巴黎本/罗马本等，
 是 17 世纪漳州系闽南语**最早且最大规模的共时字形—字音对勘记录**。声调几何标记、鼻化记号与入声
 交叉号提供了声调调类、鼻化元音与塞音韵尾的共时证据，可为闽南语史、声调演变定年与"漳州—泉州—
@@ -23,6 +33,15 @@
 **教育**：现代教育部台罗对照层为闽南语教学与研究提供现代拼音参照（仅作参照，不冒充历史音值）。
 
 ## English
+
+**Historical setting & people** (see [HISTORICAL_BACKGROUND.md](HISTORICAL_BACKGROUND.md)): the corpus
+was born in the Parián, the Chinese quarter of Manila, where Dominicans worked with the Chinese
+printer Juan de Vera (Keng Yong) to print the Philippines' first books (1593); Juan Cobo produced
+the earliest known Western translation of a Chinese book; the dictionary entries "Kelung, Tamsui"
+date its compilation to the Spanish occupation of north Taiwan (1626–1642). Modern scholarship runs
+from van der Loon through Henning Klöter's *The Language of the Sangleys* (Brill 2011) and Zhou
+Zhenhe's workshop volume (Fudan 2018) to Li Yu-chung's NTHU team, whose nine-volume source series
+won the first Premio Cátedra Duquesa de Soria (2023).
 
 **Linguistics**: the *Dictionario Hispánico Sinicum*, the *Arte de la Lengua Chio Chiu* and the
 Paris/Rome dictionary copies constitute the earliest and largest synchronic corpus pairing
@@ -47,6 +66,15 @@ historical-language NLP.
 Hokkien teaching and research (reference only — never a substitute for historical sound values).
 
 ## Español
+
+**Contexto histórico y personas** (véase [HISTORICAL_BACKGROUND.md](HISTORICAL_BACKGROUND.md)): el corpus
+nació en el Parián, el barrio chino de Manila, donde los dominicos colaboraron con el grabador chino
+Juan de Vera (Keng Yong) para imprimir los primeros libros de Filipinas (1593); Juan Cobo produjo la
+traducción occidental más antigua conocida de un libro chino; los lemas "Kelung, Tamsui" fechan el
+diccionario en la ocupación española del norte de Taiwán (1626–1642). La scholarship moderna va desde
+van der Loon hasta *The Language of the Sangleys* de Henning Klöter (Brill 2011) y el volumen del
+taller de Fudan (2018), hasta el equipo de Li Yu-chung (NTHU), cuya serie de nueve volúmenes ganó el
+primer Premio Cátedra Duquesa de Soria (2023).
 
 **Lingüística**: el *Dictionario Hispánico Sinicum*, el *Arte de la Lengua Chio Chiu* y las copias
 de París y Roma constituyen el corpus sincrónico más antiguo y extenso que empareja formas
