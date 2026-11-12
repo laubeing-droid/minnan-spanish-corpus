@@ -3,6 +3,31 @@
 > 版本沿革（进度细账与事故记录见 [docs/PROJECT_HISTORY.md](docs/PROJECT_HISTORY.md)）。
 > 语义化版本：0.x = 施工/校对期；1.0.0 = 首批书卷人工校对完成。
 
+## [0.2.3] — 2026-11-12 · 门禁 v1.1（覆盖不变量）+ 字节完整性修复 + RSI 编译（tools 层）
+
+### Added
+- `docs/GATE_AMENDMENT_PROTOCOL.md`：门禁修订协议——五标准（系统性缺陷门槛 / 只加严不放松 /
+  渐进启用回归门槛 / 版本化留痕 / 裁判与修复分离）+ 修订记录（v1.0–v2.0，v1.2/v1.3/v2.0 草案挂账
+  并注明启用条件）；门禁演化走架构师轨道，不在施工方 RSI 编译范围
+- **门禁 v1.1（已启用）**：新增覆盖不变量 `union(M2 封存页, M1 page_pdf 锚点) ⊇ 0030–1140 −
+  非辞典页登记`；收官实测 `[PASS] Coverage invariant v1.1: ... (1103/1103 pages ...)`；
+  文件头 changelog 留痕（动机 LESSONS L3/L20 + 0621–0630 静默缺页风险；只加严，回归通过）
+- tools RSI 编译：`commit` 调标全量白名单（`chun=T03 [疑:T03/T04]` 型非规范字面 commit 即拒收）；
+  `status` 增加缺口段账务；新增 `m1_hollow_audit.py`（空壳工作清单 → `M1_HOLLOW_BACKFILL_QUEUE.json`，
+  实测 5,108 条 / 305 页，重灾区 p1003/p1136/p847/p877/p918 各 22–23 条）
+
+### Fixed
+- **字节完整性事故（L26）**：git `core.autocrlf` 换行转换改写封存字节 → 门禁 SHA-256 失配
+  （p0905 磁盘 CRLF vs 清册 LF；p0041 反向）。`.gitattributes` 全库 `* -text` 永久禁止换行转换；
+  按清册 SHA 逆向重建 937 页真实封存字节（910 LF + 27 CRLF，0 不可恢复）；
+  `git add --renormalize` 把真实字节存回仓库
+- `docs/USAGE.md` / `docs/USAGE.en.md` FAQ：更正"CRLF 警告无害"为字节纪律说明
+
+### Verified
+- 门禁 v1.1 回归：`[PASS] M1 100%` + `[PASS] M2 Gate: 937` + `[PASS] Coverage invariant v1.1: 1103/1103`
+- 调标白名单测试：合法八代码通过、非规范字面拒收
+- 空壳审计：5,108 条 / 305 页（与 Gemini 自白及反查实测一致）
+
 ## [0.2.2] — 2026-11-12 · 缺口补读收官：全书 0030–1140 盲读封存贯通
 
 ### Added

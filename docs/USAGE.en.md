@@ -89,5 +89,7 @@ T06/T07 (交叉入聲號) / T99 (污損難辨)`. Empty column `[空]`, illegible
 * **Why no PDFs/images?** Rights: the modern facsimile belongs to the press/libraries. Corpus
   coordinates are PDF page numbers; with a lawful copy you can rebuild all tiles (§4).
 * **Encoding errors?** All JSON is UTF-8 (`ensure_ascii=False`); read with `encoding="utf-8"`.
-* **CRLF warnings?** Harmless `core.autocrlf` notices; seals are computed from the bytes of each
-  `blind_read` file as committed.
+* **Line-ending/CRLF warnings?** This repository is **byte-exact**: `.gitattributes` sets `* -text`,
+  so no line-ending conversion is ever applied — conversion would rewrite SHA-256-sealed bytes and
+  make the gate fail (measured incident, 0.2.3: git eol conversion broke the p0905/p0041 seals; all
+  937 pages were reconstructed from the manifest). Do not enable `core.autocrlf` for this repo.
