@@ -1,0 +1,17 @@
+{
+ "protocol": "LEGACY_DEFECT_AUDIT_v1",
+ "note": "存量复查：门禁修订动因缺陷类对全库 937 页回溯审计（2026-11-12）。括号外残留=0 与门禁 v1.0 正字法检查互相印证；四栏全空与括号内注记需校对线逐条目验。",
+ "segments": {
+  "supp": {},
+  "main": {
+   "tone_noncanon": 11,
+   "four_empty": 15,
+   "residue_in_brackets": 5
+  },
+  "gap": {
+   "four_empty": 9,
+   "residue_in_brackets": 5,
+   "tone_noncanon": 1796
+  }
+ }
+}
