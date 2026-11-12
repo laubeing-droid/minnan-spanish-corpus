@@ -1,0 +1,442 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 183,
+  "historical_folio": 154,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0183/pdf_0183_300dpi.png",
+  "page_header": "B. ante. O.",
+  "page_footer_printed": "- 154 -",
+  "page_footer_handwritten": "77",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Bordar.",
+      "source_H": "繡",
+      "source_M": "siû",
+      "source_R": "jiû",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bordar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siu³",
+        "tai_lo_standard": "siù",
+        "phonological_basis": "17c Dominican orthography conversion: siû (繡) -> siu³ / siù."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Bordar",
+      "source_H": "刺 綉",
+      "source_M": "chiá siû",
+      "source_R": "chý jiû",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bordar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsia¹ siu³",
+        "tai_lo_standard": "tsia-siù",
+        "phonological_basis": "17c Dominican orthography conversion: chiá (刺) -> tsia¹ / tsia; siû (綉) -> siu³ / siù."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Bordar",
+      "source_H": "綉 花",
+      "source_M": "siû huā",
+      "source_R": "jiû hōa",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bordar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siu³ hua⁵",
+        "tai_lo_standard": "siù-huâ",
+        "phonological_basis": "17c Dominican orthography conversion: siû (綉) -> siu³ / siù; huā (花) -> hua⁵ / huâ."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Bordador.",
+      "source_H": "納 綉 人",
+      "source_M": "Lāp siû lāng",
+      "source_R": "nâ jiû xīn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bordador.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lap⁷ siu³ laŋ⁵",
+        "tai_lo_standard": "lap-siù-lâng",
+        "phonological_basis": "17c Dominican orthography conversion: Lāp (納) -> lap⁷ / lap; siû (綉) -> siu³ / siù; lāng (人) -> laŋ⁵ / lâng."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Bordon.",
+      "source_H": "拐 仔",
+      "source_M": "cuāy yà",
+      "source_R": "cuāy chái",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bordon.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuai⁵ ia²",
+        "tai_lo_standard": "kuâi-iá",
+        "phonological_basis": "17c Dominican orthography conversion: cuāy (拐) -> kuai⁵ / kuâi; yà (仔) -> ia² / iá."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Bordon del mandarin con facyan;",
+      "source_H": "杖",
+      "source_M": "thiāng",
+      "source_R": "chiâng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bordon del mandarin con facyan;",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰiaŋ⁵",
+        "tai_lo_standard": "thiâng",
+        "phonological_basis": "17c Dominican orthography conversion: thiāng (杖) -> tʰiaŋ⁵ / thiâng."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Borona omijo; morona",
+      "source_H": "擺 仔",
+      "source_M": "ség sià",
+      "source_R": "chȳ chāy",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borona omijo; morona",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sek⁷ sia¹",
+        "tai_lo_standard": "sek-sia",
+        "phonological_basis": "17c Dominican orthography conversion: ség (擺) -> sek⁷ / sek; sià (仔) -> sia¹ / sia."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Borona limpia,",
+      "source_H": "擺 米",
+      "source_M": "ség bȳ limpia",
+      "source_R": "chȳ mī",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borona limpia,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sek⁷ bi⁵ limpia¹",
+        "tai_lo_standard": "sek-bî-limpia",
+        "phonological_basis": "17c Dominican orthography conversion: ség (擺) -> sek⁷ / sek; b (米) -> bi⁵ / bî; limpia (?) -> limpia¹ / limpia."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Borracho -",
+      "source_H": "醉",
+      "source_M": "chūy",
+      "source_R": "[残] chīū",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borracho -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui⁵",
+        "tai_lo_standard": "tsuî",
+        "phonological_basis": "17c Dominican orthography conversion: chūy (醉) -> tsui⁵ / tsuî."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Borrachos",
+      "source_H": "醉 酒",
+      "source_M": "chūy chiūn",
+      "source_R": "chūi chīn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borrachos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui⁵ tsiun⁵",
+        "tai_lo_standard": "tsuî-tsiûn",
+        "phonological_basis": "17c Dominican orthography conversion: chūy (醉) -> tsui⁵ / tsuî; chiūn (酒) -> tsiun⁵ / tsiûn."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Borracho",
+      "source_H": "食 酒 醉",
+      "source_M": "chiā chīn chūy",
+      "source_R": "chēy jīg chīn chīū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borracho",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsia⁵ tsin⁵ tsui⁵",
+        "tai_lo_standard": "tsiâ-tsîn-tsuî",
+        "phonological_basis": "17c Dominican orthography conversion: chiā (食) -> tsia⁵ / tsiâ; chīn (酒) -> tsin⁵ / tsîn; chūy (醉) -> tsui⁵ / tsuî."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Borracho",
+      "source_H": "醉 酒 [疑:漢/儓]",
+      "source_M": "chūy chīn hān",
+      "source_R": "(chūy chīn hān",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borracho",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui⁵ tsin⁵ han⁶",
+        "tai_lo_standard": "tsuî-tsîn-hān",
+        "phonological_basis": "17c Dominican orthography conversion: chūy (醉) -> tsui⁵ / tsuî; chīn (酒) -> tsin⁵ / tsîn; hān (?) -> han⁶ / hān."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Borrachos, hechos de vina joe",
+      "source_H": "臭 醋 不 臭 酒",
+      "source_M": "châu chíu pū châu chīū",
+      "source_R": "chīn chū pū chīn chīū",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borrachos, hechos de vina joe",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsau³ tsʰiu¹ pu⁵ tsau³ tsiu⁵",
+        "tai_lo_standard": "tsàu-tshiu-pû-tsàu-tsiû",
+        "phonological_basis": "17c Dominican orthography conversion: châu (臭) -> tsau³ / tsàu; chíu (醋) -> tsʰiu¹ / tshiu; pū (不) -> pu⁵ / pû; châu (臭) -> tsau³ / tsàu; chīū (酒) -> tsiu⁵ / tsiû."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Borrachos &c se cae -",
+      "source_H": "醉 倒",
+      "source_M": "chūy tò; go tuedaborra cho",
+      "source_R": "chūy tòu",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borrachos &c se cae -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui⁵ to² go¹ tuedaborra¹ tso¹",
+        "tai_lo_standard": "tsuî-tó-go-tuedaborra-tso",
+        "phonological_basis": "17c Dominican orthography conversion: chūy (醉) -> tsui⁵ / tsuî; tò (倒) -> to² / tó; go (?) -> go¹ / go; tuedaborra (?) -> tuedaborra¹ / tuedaborra; cho (?) -> tso¹ / tso."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Borracherias, palabras del borracho -",
+      "source_H": "醉 言",
+      "source_M": "chūy giēn palabras gīū,",
+      "source_R": "chīū ygmiēn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borracherias, palabras del borracho -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui⁵ gien⁵ palabras⁶ giu⁶",
+        "tai_lo_standard": "tsuî-giên-pālabras-giū",
+        "phonological_basis": "17c Dominican orthography conversion: chūy (醉) -> tsui⁵ / tsuî; giēn (言) -> gien⁵ / giên; palabras (?) -> palabras⁶ / pālabras; gīū (?) -> giu⁶ / giū."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Borrachos & otras piez",
+      "source_H": "醉 乱 颠",
+      "source_M": "chūi loān tiēn",
+      "source_R": "chūi loān xiēn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borrachos & otras piez",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui⁵ loan⁵ tien⁵",
+        "tai_lo_standard": "tsuî-loân-tiên",
+        "phonological_basis": "17c Dominican orthography conversion: chūi (醉) -> tsui⁵ / tsuî; loān (乱) -> loan⁵ / loân; tiēn (颠) -> tien⁵ / tiên."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Borrachos & adijerido la cara",
+      "source_H": "醉 醒 了",
+      "source_M": "chūi ché liāu",
+      "source_R": "chūi pēng liāo",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borrachos & adijerido la cara",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui⁵ tse¹ liau⁵",
+        "tai_lo_standard": "tsuî-tse-liâu",
+        "phonological_basis": "17c Dominican orthography conversion: chūi (醉) -> tsui⁵ / tsuî; ché (醒) -> tse¹ / tse; liāu (了) -> liau⁵ / liâu."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Borrachos & laGotio, y aun no la despierto -",
+      "source_H": "醉 未 醒",
+      "source_M": "chūy būe chē",
+      "source_R": "chūi būay sēng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borrachos & laGotio, y aun no la despierto -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui⁵ bue⁵ tse²",
+        "tai_lo_standard": "tsuî-buê-tsé",
+        "phonological_basis": "17c Dominican orthography conversion: chūy (醉) -> tsui⁵ / tsuî; būe (未) -> bue⁵ / buê; chē (醒) -> tse² / tsé."
+      }
+    }
+  ]
+}

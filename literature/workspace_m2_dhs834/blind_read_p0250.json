@@ -1,0 +1,416 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 250,
+  "historical_folio": 221,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0250/pdf_0250_300dpi.png",
+  "page_header": "C. ante. Fl.",
+  "page_footer_printed": "- 221 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 16,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Chancaca.",
+      "source_H": "漏 尾 糖",
+      "source_M": "lǎu bùi tēng: q.cor.",
+      "source_R": "lēiⁿ mȳ tāng",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Chancaca.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lau² bui² teŋ⁵ q¹ kor¹",
+        "tai_lo_standard": "láu-buí-têng-q-kor",
+        "phonological_basis": "17c Dominican orthography conversion: lǎu (漏) -> lau² / láu; bùi (尾) -> bui² / buí; tēng (糖) -> teŋ⁵ / têng; q (?) -> q¹ / q; cor (?) -> kor¹ / kor."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "chancaca mascacida",
+      "source_H": "糖 螺",
+      "source_M": "tēng lê",
+      "source_R": "tâng lô",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "chancaca mascacida",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teŋ⁵ le³",
+        "tai_lo_standard": "têng-lè",
+        "phonological_basis": "17c Dominican orthography conversion: tēng (糖) -> teŋ⁵ / têng; lê (螺) -> le³ / lè."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Chapa deper an.",
+      "source_H": "敕",
+      "source_M": "Jîr",
+      "source_R": "chỳ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Chapa deper an.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [
+          {
+            "term": "chapa",
+            "hanzi": "劄 / 牌照",
+            "tai_lo": "tsap / pâi",
+            "zh_note": "官府簽發之公文印信、居留許可或貿易牌照（Chapa）",
+            "en_note": "Official edict, seal, or trade/residency license"
+          }
+        ],
+        "reconstructed_17th_c_hokkien": "dzir³",
+        "tai_lo_standard": "jìr",
+        "phonological_basis": "17c Dominican orthography conversion: Jîr (敕) -> dzir³ / jìr."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "chapa būn in.",
+      "source_H": "文 引",
+      "source_M": "būn in",
+      "source_R": "bûn xìn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "chapa būn in.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [
+          {
+            "term": "chapa",
+            "hanzi": "劄 / 牌照",
+            "tai_lo": "tsap / pâi",
+            "zh_note": "官府簽發之公文印信、居留許可或貿易牌照（Chapa）",
+            "en_note": "Official edict, seal, or trade/residency license"
+          }
+        ],
+        "reconstructed_17th_c_hokkien": "bun⁵ in⁵",
+        "tai_lo_standard": "bûn-în",
+        "phonological_basis": "17c Dominican orthography conversion: būn (文) -> bun⁵ / bûn; in (引) -> in⁵ / în."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "chapa çe de lir del Reyno",
+      "source_H": "給 文 引",
+      "source_M": "gūip būn in",
+      "source_R": "gūi bûn xìn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "chapa çe de lir del Reyno",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [
+          {
+            "term": "chapa",
+            "hanzi": "劄 / 牌照",
+            "tai_lo": "tsap / pâi",
+            "zh_note": "官府簽發之公文印信、居留許可或貿易牌照（Chapa）",
+            "en_note": "Official edict, seal, or trade/residency license"
+          }
+        ],
+        "reconstructed_17th_c_hokkien": "guip⁷ bun⁵ in⁵",
+        "tai_lo_standard": "guip-bûn-în",
+        "phonological_basis": "17c Dominican orthography conversion: gūip (給) -> guip⁷ / guip; būn (文) -> bun⁵ / bûn; in (引) -> in⁵ / în."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "chapa del mandarin",
+      "source_H": "公 文",
+      "source_M": "cōng būn",
+      "source_R": "cōng xûn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "chapa del mandarin",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [
+          {
+            "term": "chapa",
+            "hanzi": "劄 / 牌照",
+            "tai_lo": "tsap / pâi",
+            "zh_note": "官府簽發之公文印信、居留許可或貿易牌照（Chapa）",
+            "en_note": "Official edict, seal, or trade/residency license"
+          }
+        ],
+        "reconstructed_17th_c_hokkien": "kɔŋ⁵ bun⁵",
+        "tai_lo_standard": "kông-bûn",
+        "phonological_basis": "17c Dominican orthography conversion: cōng (公) -> kɔŋ⁵ / kông; būn (文) -> bun⁵ / bûn."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "chapa del Rey.",
+      "source_H": "劄 付",
+      "source_M": "chiāp hū",
+      "source_R": "chā hū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "chapa del Rey.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [
+          {
+            "term": "chapa",
+            "hanzi": "劄 / 牌照",
+            "tai_lo": "tsap / pâi",
+            "zh_note": "官府簽發之公文印信、居留許可或貿易牌照（Chapa）",
+            "en_note": "Official edict, seal, or trade/residency license"
+          }
+        ],
+        "reconstructed_17th_c_hokkien": "tsiap⁷ hu⁵",
+        "tai_lo_standard": "tsiap-hû",
+        "phonological_basis": "17c Dominican orthography conversion: chiāp (劄) -> tsiap⁷ / tsiap; hū (付) -> hu⁵ / hû."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Chahan.",
+      "source_H": "漆",
+      "source_M": "chāt",
+      "source_R": "chē",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Chahan.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsat⁷",
+        "tai_lo_standard": "tsat",
+        "phonological_basis": "17c Dominican orthography conversion: chāt (漆) -> tsat⁷ / tsat."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "chahan amarillo",
+      "source_H": "金 黃 漆",
+      "source_M": "quīn nĝ chāt",
+      "source_R": "gūin vâng chē",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "chahan amarillo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kin⁵ ni³ tsat⁷",
+        "tai_lo_standard": "kîn-nì-tsat",
+        "phonological_basis": "17c Dominican orthography conversion: quīn (金) -> kin⁵ / kîn; n (黃) -> ni³ / nì; chāt (漆) -> tsat⁷ / tsat."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Charlatan. q. hablador.",
+      "source_H": "佞 [疑:佞/倿]",
+      "source_M": "lĕng [疑:leng/ley]",
+      "source_R": "nēng",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Charlatan. q. hablador.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "li² ŋi¹ leŋ¹ lei¹",
+        "tai_lo_standard": "lí-ngi-leng-lei",
+        "phonological_basis": "17c Dominican orthography conversion: l (佞) -> li² / lí; ng (?) -> ŋi¹ / ngi; leng (?) -> leŋ¹ / leng; ley (?) -> lei¹ / lei."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Chimenea.",
+      "source_H": "煙 捅 [疑:捅/筒]",
+      "source_M": "iên tāng",
+      "source_R": "yên tâng",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Chimenea.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ien³ taŋ⁵",
+        "tai_lo_standard": "ièn-tâng",
+        "phonological_basis": "17c Dominican orthography conversion: iên (煙) -> ien³ / ièn; tāng (捅) -> taŋ⁵ / tâng."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Ché gueray poroña",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ché gueray poroña",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "China.",
+      "source_H": "唐",
+      "source_M": "Tēng",
+      "source_R": "tâng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "China.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teŋ⁵",
+        "tai_lo_standard": "têng",
+        "phonological_basis": "17c Dominican orthography conversion: Tēng (唐) -> teŋ⁵ / têng."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "(China).",
+      "source_H": "唐 山",
+      "source_M": "tūng sŏa",
+      "source_R": "tâng sŏa",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(China).",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tuŋ⁵ si² a¹",
+        "tai_lo_standard": "tûng-sí-a",
+        "phonological_basis": "17c Dominican orthography conversion: tūng (唐) -> tuŋ⁵ / tûng; s (山) -> si² / sí; a (?) -> a¹ / a."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "china ᵐ Reyno della",
+      "source_H": "中 國",
+      "source_M": "tiōng côg",
+      "source_R": "chông cūa",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "china ᵐ Reyno della",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tioŋ⁵ kɔk⁷",
+        "tai_lo_standard": "tiông-kok",
+        "phonological_basis": "17c Dominican orthography conversion: tiōng (中) -> tioŋ⁵ / tiông; côg (國) -> kɔk⁷ / kok."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "china ᵐ Reyno della",
+      "source_H": "大 明 國",
+      "source_M": "tāy bēng côg",
+      "source_R": "tā mèng cūa",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "china ᵐ Reyno della",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tai⁵ beŋ⁵ kɔk⁷",
+        "tai_lo_standard": "tâi-bêng-kok",
+        "phonological_basis": "17c Dominican orthography conversion: tāy (大) -> tai⁵ / tâi; bēng (明) -> beŋ⁵ / bêng; côg (國) -> kɔk⁷ / kok."
+      }
+    }
+  ]
+}

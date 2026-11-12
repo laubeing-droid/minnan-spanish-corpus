@@ -1,0 +1,372 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 562,
+  "historical_folio": 528,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0562/pdf_0562_300dpi.png",
+  "page_header": "H. ante. L.",
+  "page_footer_printed": "- 528 -",
+  "page_footer_handwritten": "264",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Higos muy buenos",
+      "source_H": "重色柿棗[疑:棗/果]",
+      "source_M": "tēng seg quỹ cud.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Higos muy buenos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teŋ⁵ sek⁷ ki¹ kud¹",
+        "tai_lo_standard": "têng-sek-ki-kud",
+        "phonological_basis": "17c Dominican orthography conversion: tēng (重) -> teŋ⁵ / têng; seg (色) -> sek⁷ / sek; qu (柿) -> ki¹ / ki; cud (棗) -> kud¹ / kud."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "higos medi curados",
+      "source_H": "柿椌[疑:椌/榇]",
+      "source_M": "quỹ chȳ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "higos medi curados",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki² tsi⁵",
+        "tai_lo_standard": "kí-tsî",
+        "phonological_basis": "17c Dominican orthography conversion: qu (柿) -> ki² / kí; ch (椌) -> tsi⁵ / tsî."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "higos de castilla.",
+      "source_H": "無花棗[疑:棗/果]",
+      "source_M": "bô húa cuè.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "higos de castilla.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bo³ hua¹ kue²",
+        "tai_lo_standard": "bò-hua-kué",
+        "phonological_basis": "17c Dominican orthography conversion: bô (無) -> bo³ / bò; húa (花) -> hua¹ / hua; cuè (棗) -> kue² / kué."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Hiel~",
+      "source_H": "胆",
+      "source_M": "Tã",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Hiel~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tã²",
+        "tai_lo_standard": "tánn",
+        "phonological_basis": "17c Dominican orthography conversion: Tã (胆) -> tã² / tánn."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "hiel",
+      "source_H": "苦胆",
+      "source_M": "coũ tâ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hiel",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰõũ² ta³",
+        "tai_lo_standard": "khóunn-tà",
+        "phonological_basis": "17c Dominican orthography conversion: coũ (苦) -> kʰõũ² / khóunn; tâ (胆) -> ta³ / tà."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "hiel buena, ò los ojos.",
+      "source_H": "青魚胆",
+      "source_M": "cheñ hū tâ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hiel buena, ò los ojos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsẽn⁵ hu³ ta³",
+        "tai_lo_standard": "tsên-hù-tà",
+        "phonological_basis": "17c Dominican orthography conversion: cheñ (青) -> tsẽn⁵ / tsên; hū (魚) -> hu³ / hù; tâ (胆) -> ta³ / tà."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Hijada, hijare.",
+      "source_H": "胁[疑:胁/脥]",
+      "source_M": "hiap",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Hijada, hijare.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hiap⁷",
+        "tai_lo_standard": "hiap",
+        "phonological_basis": "17c Dominican orthography conversion: hiap (胁) -> hiap⁷ / hiap."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "hijado, hijaro.",
+      "source_H": "胁[疑:胁/脥]下",
+      "source_M": "hiap hē.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hijado, hijaro.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hiap⁷ he⁵",
+        "tai_lo_standard": "hiap-hê",
+        "phonological_basis": "17c Dominican orthography conversion: hiap (胁) -> hiap⁷ / hiap; hē (下) -> he⁵ / hê."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Hijo.",
+      "source_H": "子",
+      "source_M": "guiā: chù.",
+      "source_R": "cun",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Hijo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guia⁵ tsu²",
+        "tai_lo_standard": "guiâ-tsú",
+        "phonological_basis": "17c Dominican orthography conversion: guiā (子) -> guia⁵ / guiâ; chù (?) -> tsu² / tsú."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "hijo.",
+      "source_H": "兒",
+      "source_M": "guiā xỹ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hijo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guia⁵ dzi⁶",
+        "tai_lo_standard": "guiâ-jī",
+        "phonological_basis": "17c Dominican orthography conversion: guiā (兒) -> guia⁵ / guiâ; x (?) -> dzi⁶ / jī."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "hijo chiquito.",
+      "source_H": "[空]",
+      "source_M": "xỹ, hāy xī.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hijo chiquito.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzi⁶ hai⁶ dzi⁶",
+        "tai_lo_standard": "jī-hāi-jī",
+        "phonological_basis": "17c Dominican orthography conversion: x (?) -> dzi⁶ / jī; hāy (?) -> hai⁶ / hāi; xī (?) -> dzi⁶ / jī."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "hijo de mi hermana.",
+      "source_H": "甥",
+      "source_M": "sēng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hijo de mi hermana.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "seŋ⁵",
+        "tai_lo_standard": "sêng",
+        "phonological_basis": "17c Dominican orthography conversion: sēng (甥) -> seŋ⁵ / sêng."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Hija.",
+      "source_H": "女子",
+      "source_M": "chaū gìà.",
+      "source_R": "cun gēi",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Hija.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsau⁵ gia²",
+        "tai_lo_standard": "tsâu-giá",
+        "phonological_basis": "17c Dominican orthography conversion: chaū (女) -> tsau⁵ / tsâu; gìà (子) -> gia² / giá."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "hija.",
+      "source_H": "查某[疑:山/某]仔",
+      "source_M": "cha bōu gìà.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hija.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsa⁵ bou² gia²",
+        "tai_lo_standard": "tsâ-bóu-giá",
+        "phonological_basis": "17c Dominican orthography conversion: cha (查) -> tsa⁵ / tsâ; bōu (某) -> bou² / bóu; gìà (仔) -> gia² / giá."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "hijo prodigo.",
+      "source_H": "破家子",
+      "source_M": "pòa gìé gìà.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hijo prodigo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pʰoa² gie¹ gia²",
+        "tai_lo_standard": "phoá-gie-giá",
+        "phonological_basis": "17c Dominican orthography conversion: pòa (破) -> pʰoa² / phoá; gìé (家) -> gie¹ / gie; gìà (子) -> gia² / giá."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "hijo mayor.",
+      "source_H": "宗子",
+      "source_M": "chōng chù.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hijo mayor.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsɔŋ³ tsu²",
+        "tai_lo_standard": "tsòng-tsú",
+        "phonological_basis": "17c Dominican orthography conversion: chōng (宗) -> tsɔŋ³ / tsòng; chù (子) -> tsu² / tsú."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "hijo mayor.",
+      "source_H": "大宗",
+      "source_M": "tāy chōng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hijo mayor.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tai⁵ tsɔŋ³",
+        "tai_lo_standard": "tâi-tsòng",
+        "phonological_basis": "17c Dominican orthography conversion: tāy (大) -> tai⁵ / tâi; chōng (宗) -> tsɔŋ³ / tsòng."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "hijo menor.",
+      "source_H": "小宗",
+      "source_M": "siau chōng",
+      "source_R": "menor",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hijo menor.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siau³ tsɔŋ⁵",
+        "tai_lo_standard": "siàu-tsông",
+        "phonological_basis": "17c Dominican orthography conversion: siau (小) -> siau³ / siàu; chōng (宗) -> tsɔŋ⁵ / tsông."
+      }
+    }
+  ]
+}

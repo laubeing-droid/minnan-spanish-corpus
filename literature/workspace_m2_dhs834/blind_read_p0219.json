@@ -1,0 +1,369 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 219,
+  "historical_folio": 190,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0219/pdf_0219_300dpi.png",
+  "page_header": "C. ante [疑:Ch./H.]",
+  "page_footer_printed": "- 190 -",
+  "page_footer_handwritten": "95",
+  "total_positions_recorded": 16,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "candeleros",
+      "source_H": "臺",
+      "source_M": "tāy",
+      "source_R": "cheng hen tǎy",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "candeleros",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tai⁵",
+        "tai_lo_standard": "tâi",
+        "phonological_basis": "17c Dominican orthography conversion: tāy (臺) -> tai⁵ / tâi."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "candeleros",
+      "source_H": "燭臺",
+      "source_M": "cheg tāy",
+      "source_R": "chǒ tǎy",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "candeleros",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsek⁷ tai⁵",
+        "tai_lo_standard": "tsek-tâi",
+        "phonological_basis": "17c Dominican orthography conversion: cheg (燭) -> tsek⁷ / tsek; tāy (臺) -> tai⁵ / tâi."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Candil",
+      "source_H": "灯",
+      "source_M": "zeng",
+      "source_R": "teng",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Candil",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ¹",
+        "tai_lo_standard": "tseng",
+        "phonological_basis": "17c Dominican orthography conversion: zeng (灯) -> tseŋ¹ / tseng."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "candil",
+      "source_H": "灯火",
+      "source_M": "têng hūe",
+      "source_R": "teng ho",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "candil",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teŋ³ hue⁵",
+        "tai_lo_standard": "tèng-huê",
+        "phonological_basis": "17c Dominican orthography conversion: têng (灯) -> teŋ³ / tèng; hūe (火) -> hue⁵ / huê."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "candileja con hoz, o a en el candil",
+      "source_H": "灯臺",
+      "source_M": "tēng tāy",
+      "source_R": "teng tay",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "candileja con hoz, o a en el candil",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teŋ⁵ tai⁵",
+        "tai_lo_standard": "têng-tâi",
+        "phonological_basis": "17c Dominican orthography conversion: tēng (灯) -> teŋ⁵ / têng; tāy (臺) -> tai⁵ / tâi."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "candileja del candil",
+      "source_H": "灯花",
+      "source_M": "têng hūa",
+      "source_R": "teng hua",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "candileja del candil",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teŋ³ hua⁵",
+        "tai_lo_standard": "tèng-huâ",
+        "phonological_basis": "17c Dominican orthography conversion: têng (灯) -> teŋ³ / tèng; hūa (花) -> hua⁵ / huâ."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Canela",
+      "source_H": "桂",
+      "source_M": "cûý",
+      "source_R": "cūi",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Canela",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ku³",
+        "tai_lo_standard": "kù",
+        "phonological_basis": "17c Dominican orthography conversion: cû (桂) -> ku³ / kù."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Cangrejos",
+      "source_H": "蟳",
+      "source_M": "chīm",
+      "source_R": "chîm",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cangrejos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsim⁵",
+        "tai_lo_standard": "tsîm",
+        "phonological_basis": "17c Dominican orthography conversion: chīm (蟳) -> tsim⁵ / tsîm."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "cangrejos pequeños",
+      "source_H": "螃",
+      "source_M": "pon òa",
+      "source_R": "pòng",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cangrejos pequeños",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pon² oa²",
+        "tai_lo_standard": "pón-oá",
+        "phonological_basis": "17c Dominican orthography conversion: pon (螃) -> pon² / pón; òa (?) -> oa² / oá."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "cangrejos pin cados",
+      "source_H": "蠘膏",
+      "source_M": "chy cò",
+      "source_R": "chŷ cōn",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cangrejos pin cados",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiʔ⁷ ko²",
+        "tai_lo_standard": "tsih-kó",
+        "phonological_basis": "17c Dominican orthography conversion: chy (蠘) -> tsiʔ⁷ / tsih; cò (膏) -> ko² / kó."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "cangrejos bacios, flacos",
+      "source_H": "蟳有",
+      "source_M": "chīm pâ",
+      "source_R": "chîm pōng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cangrejos bacios, flacos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsim⁵ pa³",
+        "tai_lo_standard": "tsîm-pà",
+        "phonological_basis": "17c Dominican orthography conversion: chīm (蟳) -> tsim⁵ / tsîm; pâ (有) -> pa³ / pà."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "cangrejos pequeños",
+      "source_H": "螃蟹",
+      "source_M": "pon oa",
+      "source_R": "pòng hāy",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cangrejos pequeños",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pon¹ oa¹",
+        "tai_lo_standard": "pon-oa",
+        "phonological_basis": "17c Dominican orthography conversion: pon (螃) -> pon¹ / pon; oa (蟹) -> oa¹ / oa."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "cangrejos q tienen peg cañtos dientes",
+      "source_H": "有蟳",
+      "source_M": "těng chīm",
+      "source_R": "gūin chîm",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cangrejos q tienen peg cañtos dientes",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teŋ² tsim⁵",
+        "tai_lo_standard": "téng-tsîm",
+        "phonological_basis": "17c Dominican orthography conversion: těng (有) -> teŋ² / téng; chīm (蟳) -> tsim⁵ / tsîm."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Canicularis",
+      "source_H": "大暑[疑:暑/署]",
+      "source_M": "tòa zōa tāy fù",
+      "source_R": "tā sy",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Canicularis",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toa² tsoa⁵ tai⁶ fu²",
+        "tai_lo_standard": "toá-tsoâ-tāi-fú",
+        "phonological_basis": "17c Dominican orthography conversion: tòa (大) -> toa² / toá; zōa (暑) -> tsoa⁵ / tsoâ; tāy (?) -> tai⁶ / tāi; fù (?) -> fu² / fú."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Canico",
+      "source_H": "床簀",
+      "source_M": "chung te",
+      "source_R": "chàng chē",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Canico",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰuŋ¹ teʔ⁷",
+        "tai_lo_standard": "tshung-teh",
+        "phonological_basis": "17c Dominican orthography conversion: chung (床) -> tsʰuŋ¹ / tshung; te (簀) -> teʔ⁷ / teh."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "canico",
+      "source_H": "床簀",
+      "source_M": "chung te",
+      "source_R": "chàng chē",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "canico",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰuŋ¹ teʔ⁷",
+        "tai_lo_standard": "tshung-teh",
+        "phonological_basis": "17c Dominican orthography conversion: chung (床) -> tsʰuŋ¹ / tshung; te (簀) -> teʔ⁷ / teh."
+      }
+    }
+  ]
+}

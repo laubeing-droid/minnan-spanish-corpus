@@ -1,0 +1,440 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 671,
+  "historical_folio": 637,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0671/pdf_0671_300dpi.png",
+  "page_header": "M. ante. A.",
+  "page_footer_printed": "- 637 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 21,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Mina.",
+      "source_H": "鑛",
+      "source_M": "công.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mina.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ³",
+        "tai_lo_standard": "kòng",
+        "phonological_basis": "17c Dominican orthography conversion: công (鑛) -> kɔŋ³ / kòng."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "mina real.",
+      "source_H": "金山",
+      "source_M": "quîm côa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mina real.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kim³ koa³",
+        "tai_lo_standard": "kìm-koà",
+        "phonological_basis": "17c Dominican orthography conversion: quîm (金) -> kim³ / kìm; côa (山) -> koa³ / koà."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "mina general~",
+      "source_H": "銅山",
+      "source_M": "tăng cŏa gûn coān",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mina general~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti² ŋi² ki³ a⁶ gun³ koan⁶",
+        "tai_lo_standard": "tí-ngí-kì-ā-gùn-koān",
+        "phonological_basis": "17c Dominican orthography conversion: t (銅) -> ti² / tí; ng (山) -> ŋi² / ngí; c (?) -> ki³ / kì; a (?) -> a⁶ / ā; gûn (?) -> gun³ / gùn; coān (?) -> koan⁶ / koān."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Ministraría,",
+      "source_H": "滾地龍",
+      "source_M": "cûn tey lîong",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ministraría,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kun³ tei¹ lioŋ³",
+        "tai_lo_standard": "kùn-tei-liòng",
+        "phonological_basis": "17c Dominican orthography conversion: cûn (滾) -> kun³ / kùn; tey (地) -> tei¹ / tei; lîong (龍) -> lioŋ³ / liòng."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Ministrao~",
+      "source_H": "屬下",
+      "source_M": "sîog hê",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ministrao~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siok⁸ he³",
+        "tai_lo_standard": "sio̍k-hè",
+        "phonological_basis": "17c Dominican orthography conversion: sîog (屬) -> siok⁸ / sio̍k; hê (下) -> he³ / hè."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "ministros~",
+      "source_H": "手下",
+      "source_M": "chîu hê",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ministros~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiu³ he³",
+        "tai_lo_standard": "tsiù-hè",
+        "phonological_basis": "17c Dominican orthography conversion: chîu (手) -> tsiu³ / tsiù; hê (下) -> he³ / hè."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "ministro de justicia.",
+      "source_H": "役",
+      "source_M": "eg: ia chít ia officio.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)",
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ministro de justicia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ek⁷ iaʔ⁷ tsit⁷ ia¹ officio¹",
+        "tai_lo_standard": "ek-iah-tsit-ia-officio",
+        "phonological_basis": "17c Dominican orthography conversion: eg (役) -> ek⁷ / ek; ia (?) -> iaʔ⁷ / iah; chít (?) -> tsit⁷ / tsit; ia (?) -> ia¹ / ia; officio (?) -> officio¹ / officio."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "ministro de justicia~",
+      "source_H": "牌頭",
+      "source_M": "pāy tāu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ministro de justicia~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pai⁵ tʰau⁵",
+        "tai_lo_standard": "pâi-thâu",
+        "phonological_basis": "17c Dominican orthography conversion: pāy (牌) -> pai⁵ / pâi; tāu (頭) -> tʰau⁵ / thâu."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Mirar~",
+      "source_H": "省",
+      "source_M": "cîa cîa gî certificandose.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mirar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kia³ kia³ gi³ kertificandose¹",
+        "tai_lo_standard": "kià-kià-gì-kertificandose",
+        "phonological_basis": "17c Dominican orthography conversion: cîa (省) -> kia³ / kià; cîa (?) -> kia³ / kià; gî (?) -> gi³ / gì; certificandose (?) -> kertificandose¹ / kertificandose."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "mirar.",
+      "source_H": "觀",
+      "source_M": "cuân cûa leng gîn",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mirar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuan³ kua³ leŋ¹ gin³",
+        "tai_lo_standard": "kuàn-kuà-leng-gìn",
+        "phonological_basis": "17c Dominican orthography conversion: cuân (觀) -> kuan³ / kuàn; cûa (?) -> kua³ / kuà; leng (?) -> leŋ¹ / leng; gîn (?) -> gin³ / gìn."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "mirar.",
+      "source_H": "視",
+      "source_M": "sŷ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mirar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si³",
+        "tai_lo_standard": "sì",
+        "phonological_basis": "17c Dominican orthography conversion: s (視) -> si³ / sì."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "mirar.",
+      "source_H": "見",
+      "source_M": "qûy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mirar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki³",
+        "tai_lo_standard": "kì",
+        "phonological_basis": "17c Dominican orthography conversion: qûy (見) -> ki³ / kì."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "mirar de hito en hito~",
+      "source_H": "睛",
+      "source_M": "chăy: băy chây chây, con dividido:",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mirar de hito en hito~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi² i⁶ bi³ i³ tsai³ tsai³ kon¹ dividido¹",
+        "tai_lo_standard": "tsí-ī-bì-ì-tsài-tsài-kon-dividido",
+        "phonological_basis": "17c Dominican orthography conversion: ch (睛) -> tsi² / tsí; y (?) -> i⁶ / ī; b (?) -> bi³ / bì; y (?) -> i³ / ì; chây (?) -> tsai³ / tsài; chây (?) -> tsai³ / tsài; con (?) -> kon¹ / kon; dividido (?) -> dividido¹ / dividido."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "mirar esperando~",
+      "source_H": "望",
+      "source_M": "bǒng: bǒng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mirar esperando~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bɔŋ² bɔŋ⁶",
+        "tai_lo_standard": "bóng-bōng",
+        "phonological_basis": "17c Dominican orthography conversion: bǒng (望) -> bɔŋ² / bóng; bǒng (?) -> bɔŋ⁶ / bōng."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "mirar como el g espera",
+      "source_H": "瞻",
+      "source_M": "chiâm bǒng; ī-bǒng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mirar como el g espera",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiam³ bɔŋ⁶ i⁶ bɔŋ⁶",
+        "tai_lo_standard": "tsiàm-bōng-ī-bōng",
+        "phonological_basis": "17c Dominican orthography conversion: chiâm (瞻) -> tsiam³ / tsiàm; bǒng (?) -> bɔŋ⁶ / bōng; ī (?) -> i⁶ / ī; bǒng (?) -> bɔŋ⁶ / bōng."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "mirar el libro~",
+      "source_H": "覽",
+      "source_M": "lâm.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mirar el libro~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lam³",
+        "tai_lo_standard": "làm",
+        "phonological_basis": "17c Dominican orthography conversion: lâm (覽) -> lam³ / làm."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "mirar la luz",
+      "source_H": "照",
+      "source_M": "chiô: ta luz alumbrar mirar de reflejo chiôgia.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mirar la luz",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsio³ ta³ luz¹ alumbrar¹ mirar¹ de¹ reflejo¹ tsiogia³",
+        "tai_lo_standard": "tsiò-tà-luz-alumbrar-mirar-de-reflejo-tsiogià",
+        "phonological_basis": "17c Dominican orthography conversion: chiô (照) -> tsio³ / tsiò; ta (?) -> ta³ / tà; luz (?) -> luz¹ / luz; alumbrar (?) -> alumbrar¹ / alumbrar; mirar (?) -> mirar¹ / mirar; de (?) -> de¹ / de; reflejo (?) -> reflejo¹ / reflejo; chiôgia (?) -> tsiogia³ / tsiogià."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "mirar recreandose~",
+      "source_H": "相",
+      "source_M": "sîõ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mirar recreandose~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sĩõ³",
+        "tai_lo_standard": "siònn",
+        "phonological_basis": "17c Dominican orthography conversion: sîõ (相) -> sĩõ³ / siònn."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "mirar~",
+      "source_H": "省見",
+      "source_M": "cûa qûy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mirar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kua³ ki³",
+        "tai_lo_standard": "kuà-kì",
+        "phonological_basis": "17c Dominican orthography conversion: cûa (省) -> kua³ / kuà; qûy (見) -> ki³ / kì."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "mirar",
+      "source_H": "觀省",
+      "source_M": "cuân cûa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mirar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuan³ kua³",
+        "tai_lo_standard": "kuàn-kuà",
+        "phonological_basis": "17c Dominican orthography conversion: cuân (觀) -> kuan³ / kuàn; cûa (省) -> kua³ / kuà."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "mirar generos Lad~",
+      "source_H": "賭",
+      "source_M": "chiâu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mirar generos Lad~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiau³",
+        "tai_lo_standard": "tsiàu",
+        "phonological_basis": "17c Dominican orthography conversion: chiâu (賭) -> tsiau³ / tsiàu."
+      }
+    }
+  ]
+}

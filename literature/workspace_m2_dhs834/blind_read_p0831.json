@@ -1,0 +1,379 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 831,
+  "historical_folio": 793,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0831/pdf_0831_300dpi.png",
+  "page_header": "[疑:8/S]. ante. [疑:D/O].",
+  "page_footer_printed": "- 793 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Portada - [疑:o/y] puerta",
+      "source_H": "裴 [疑:裴/裳]",
+      "source_M": "bȳ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Portada - puerta",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bi⁵",
+        "tai_lo_standard": "bî",
+        "phonological_basis": "17c Dominican orthography conversion: b (裴) -> bi⁵ / bî."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "portada -",
+      "source_H": "裱 [疑:裱/表]",
+      "source_M": "piàu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "portada -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "piau²",
+        "tai_lo_standard": "piáu",
+        "phonological_basis": "17c Dominican orthography conversion: piàu (裱) -> piau² / piáu."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "portada ancha -",
+      "source_H": "閤 [疑:閤/闊]",
+      "source_M": "muāy āncha",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "portada ancha -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "muai⁵ ancha⁶",
+        "tai_lo_standard": "muâi-āncha",
+        "phonological_basis": "17c Dominican orthography conversion: muāy (閤) -> muai⁵ / muâi; āncha (?) -> ancha⁶ / āncha."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "portada -",
+      "source_H": "門口口",
+      "source_M": "mūi cāu cāu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "portada -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mui⁵ kau⁵ kau⁵",
+        "tai_lo_standard": "muî-kâu-kâu",
+        "phonological_basis": "17c Dominican orthography conversion: mūi (門) -> mui⁵ / muî; cāu (口) -> kau⁵ / kâu; cāu (口) -> kau⁵ / kâu."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "portada -",
+      "source_H": "門楣 [疑:楣/裱]",
+      "source_M": "būn bī : mūi bī",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "portada -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bun⁵ bi⁵ mui⁶ bi⁶",
+        "tai_lo_standard": "bûn-bî-muī-bī",
+        "phonological_basis": "17c Dominican orthography conversion: būn (門) -> bun⁵ / bûn; bī (楣) -> bi⁵ / bî; mūi (?) -> mui⁶ / muī; bī (?) -> bi⁶ / bī."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "portada del compas o port tal- [残]",
+      "source_H": "牌樓",
+      "source_M": "pāy lāū.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "portada del compas o port tal-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pai⁵ lau⁵",
+        "tai_lo_standard": "pâi-lâu",
+        "phonological_basis": "17c Dominican orthography conversion: pāy (牌) -> pai⁵ / pâi; lāū (樓) -> lau⁵ / lâu."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "portada de 3 puertas.",
+      "source_H": "三川門",
+      "source_M": "sām chūān mūi.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "portada de 3 puertas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sam⁵ tsuan⁵ mui⁵",
+        "tai_lo_standard": "sâm-tsuân-muî",
+        "phonological_basis": "17c Dominican orthography conversion: sām (三) -> sam⁵ / sâm; chūān (川) -> tsuan⁵ / tsuân; mūi (門) -> mui⁵ / muî."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "portada hermosayrica.",
+      "source_H": "華表",
+      "source_M": "huō piāū : hō piāū.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "portada hermosayrica.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huo⁵ piau⁵ ho⁶ piau⁶",
+        "tai_lo_standard": "huô-piâu-hō-piāu",
+        "phonological_basis": "17c Dominican orthography conversion: huō (華) -> huo⁵ / huô; piāū (表) -> piau⁵ / piâu; hō (?) -> ho⁶ / hō; piāū (?) -> piau⁶ / piāu."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "portada hermosa yrica . f. puerta",
+      "source_H": "碑坊",
+      "source_M": "pāy hūng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "portada hermosa yrica . f. puerta",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pai⁵ huŋ⁵",
+        "tai_lo_standard": "pâi-hûng",
+        "phonological_basis": "17c Dominican orthography conversion: pāy (碑) -> pai⁵ / pâi; hūng (坊) -> huŋ⁵ / hûng."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Portero [疑:Portero/Portillo]",
+      "source_H": "把門人",
+      "source_M": "pè mūy lang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Portero",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe² mui⁵ laŋ¹",
+        "tai_lo_standard": "pé-muî-lang",
+        "phonological_basis": "17c Dominican orthography conversion: pè (把) -> pe² / pé; mūy (門) -> mui⁵ / muî; lang (人) -> laŋ¹ / lang."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "por few -",
+      "source_H": "看門 [疑:看/睇]",
+      "source_M": "cuà mūy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "por few -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰua¹ mui⁵",
+        "tai_lo_standard": "khua-muî",
+        "phonological_basis": "17c Dominican orthography conversion: cuà (看) -> kʰua¹ / khua; mūy (門) -> mui⁵ / muî."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "por few -",
+      "source_H": "管門",
+      "source_M": "cuàn mūy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "por few -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuan² mui⁵",
+        "tai_lo_standard": "kuán-muî",
+        "phonological_basis": "17c Dominican orthography conversion: cuàn (管) -> kuan² / kuán; mūy (門) -> mui⁵ / muî."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "por few -",
+      "source_H": "守門",
+      "source_M": "chiù mūi,",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "por few -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiu² mui⁵",
+        "tai_lo_standard": "tsiú-muî",
+        "phonological_basis": "17c Dominican orthography conversion: chiù (守) -> tsiu² / tsiú; mūi (門) -> mui⁵ / muî."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Portillo-Byano",
+      "source_H": "牆隙 [疑:牆/撞]",
+      "source_M": "chio quia.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Portillo-Byano",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsio² kʰia¹",
+        "tai_lo_standard": "tsió-khia",
+        "phonological_basis": "17c Dominican orthography conversion: chio (牆) -> tsio² / tsió; quia (隙) -> kʰia¹ / khia."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "[空]",
+      "source_H": "[残]",
+      "source_M": "[残]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Potarse la aue-",
+      "source_H": "息",
+      "source_M": "goà : fít",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Potarse la aue-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "goa² fit⁷",
+        "tai_lo_standard": "goá-fit",
+        "phonological_basis": "17c Dominican orthography conversion: goà (息) -> goa² / goá; fít (?) -> fit⁷ / fit."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "posarse la aue -",
+      "source_H": "宿",
+      "source_M": "fioj.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "posarse la aue -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fioj¹",
+        "tai_lo_standard": "fioj",
+        "phonological_basis": "17c Dominican orthography conversion: fioj (宿) -> fioj¹ / fioj."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "posarse la aue -",
+      "source_H": "投宿",
+      "source_M": "tau zoā.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "posarse la aue -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tau¹ tsoa⁵",
+        "tai_lo_standard": "tau-tsoâ",
+        "phonological_basis": "17c Dominican orthography conversion: tau (投) -> tau¹ / tau; zoā (宿) -> tsoa⁵ / tsoâ."
+      }
+    }
+  ]
+}

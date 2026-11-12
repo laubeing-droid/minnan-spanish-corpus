@@ -1,0 +1,405 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 762,
+  "historical_folio": 728,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0762/pdf_0762_300dpi.png",
+  "page_header": "P. ante. A.",
+  "page_footer_printed": "- 728 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Parentesco~",
+      "source_H": "表",
+      "source_M": "piàu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Parentesco~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "piau²",
+        "tai_lo_standard": "piáu",
+        "phonological_basis": "17c Dominican orthography conversion: piàu (表) -> piau² / piáu."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Cares de la muger.",
+      "source_H": "臟",
+      "source_M": "cóy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cares de la muger.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "koi¹",
+        "tai_lo_standard": "koi",
+        "phonological_basis": "17c Dominican orthography conversion: cóy (臟) -> koi¹ / koi."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Cares de la muger",
+      "source_H": "臟 帶",
+      "source_M": "cóy tâ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cares de la muger",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "koi¹ ta³",
+        "tai_lo_standard": "koi-tà",
+        "phonological_basis": "17c Dominican orthography conversion: cóy (臟) -> koi¹ / koi; tâ (帶) -> ta³ / tà."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Parián .",
+      "source_H": "增",
+      "source_M": "cân.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Parián .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [
+          {
+            "term": "parián",
+            "hanzi": "澗內 / 八連",
+            "tai_lo": "kàn-lāi",
+            "zh_note": "馬尼拉城外華人聚居與貿易特區「八連 / 澗內」",
+            "en_note": "Parián; the designated Chinese quarter and market in Manila"
+          }
+        ],
+        "reconstructed_17th_c_hokkien": "kan³",
+        "tai_lo_standard": "kàn",
+        "phonological_basis": "17c Dominican orthography conversion: cân (增) -> kan³ / kàn."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "pariàn",
+      "source_H": "增 裡",
+      "source_M": "cân lý",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pariàn",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kan³ li¹",
+        "tai_lo_standard": "kàn-li",
+        "phonological_basis": "17c Dominican orthography conversion: cân (增) -> kan³ / kàn; l (裡) -> li¹ / li."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Paria ael Rey. y tributo.",
+      "source_H": "貢",
+      "source_M": "công",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Paria ael Rey. y tributo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ³",
+        "tai_lo_standard": "kòng",
+        "phonological_basis": "17c Dominican orthography conversion: công (貢) -> kɔŋ³ / kòng."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "paria ael Rey",
+      "source_H": "進 貢",
+      "source_M": "chín công",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "paria ael Rey",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin¹ kɔŋ³",
+        "tai_lo_standard": "tsin-kòng",
+        "phonological_basis": "17c Dominican orthography conversion: chín (進) -> tsin¹ / tsin; công (貢) -> kɔŋ³ / kòng."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "paria ael Rey~",
+      "source_H": "貢 獻",
+      "source_M": "công hîen",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "paria ael Rey~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ³ hien³",
+        "tai_lo_standard": "kòng-hièn",
+        "phonological_basis": "17c Dominican orthography conversion: công (貢) -> kɔŋ³ / kòng; hîen (獻) -> hien³ / hièn."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "paria ael Rey~",
+      "source_H": "貢 君",
+      "source_M": "công cún",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "paria ael Rey~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ³ kun¹",
+        "tai_lo_standard": "kòng-kun",
+        "phonological_basis": "17c Dominican orthography conversion: công (貢) -> kɔŋ³ / kòng; cún (君) -> kun¹ / kun."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "paria ael Rey~",
+      "source_H": "朝 貢",
+      "source_M": "tiâu công",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "paria ael Rey~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiau³ kɔŋ³",
+        "tai_lo_standard": "tiàu-kòng",
+        "phonological_basis": "17c Dominican orthography conversion: tiâu (朝) -> tiau³ / tiàu; công (貢) -> kɔŋ³ / kòng."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Parientes~",
+      "source_H": "戚",
+      "source_M": "chêg",
+      "source_R": "sam cham.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Parientes~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsek⁷",
+        "tai_lo_standard": "tsek",
+        "phonological_basis": "17c Dominican orthography conversion: chêg (戚) -> tsek⁷ / tsek."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "parientes~",
+      "source_H": "親",
+      "source_M": "chín.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "parientes~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰin¹",
+        "tai_lo_standard": "tshin",
+        "phonological_basis": "17c Dominican orthography conversion: chín (親) -> tsʰin¹ / tshin."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "parientes distantes~",
+      "source_H": "疎",
+      "source_M": "chín teý. çoú",
+      "source_R": "distantes. uy choy uy pāng iog",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "parientes distantes~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin¹ te¹ ou¹",
+        "tai_lo_standard": "tsin-te-ou",
+        "phonological_basis": "17c Dominican orthography conversion: chín (疎) -> tsin¹ / tsin; te (?) -> te¹ / te; oú (?) -> ou¹ / ou."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "parientes~",
+      "source_H": "親 戚",
+      "source_M": "chín chêg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "parientes~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰin¹ tsek⁷",
+        "tai_lo_standard": "tshin-tsek",
+        "phonological_basis": "17c Dominican orthography conversion: chín (親) -> tsʰin¹ / tshin; chêg (戚) -> tsek⁷ / tsek."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "parientes~",
+      "source_H": "散 親",
+      "source_M": "gy chín.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "parientes~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gi² tsʰin¹",
+        "tai_lo_standard": "gí-tshin",
+        "phonological_basis": "17c Dominican orthography conversion: gy (散) -> gi² / gí; chín (親) -> tsʰin¹ / tshin."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "parientes~",
+      "source_H": "表 親",
+      "source_M": "piàu chín.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "parientes~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "piau² tsʰin¹",
+        "tai_lo_standard": "piáu-tshin",
+        "phonological_basis": "17c Dominican orthography conversion: piàu (表) -> piau² / piáu; chín (親) -> tsʰin¹ / tshin."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "parientes~",
+      "source_H": "尊 戚",
+      "source_M": "chún chêg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "parientes~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsun¹ tsek⁷",
+        "tai_lo_standard": "tsun-tsek",
+        "phonological_basis": "17c Dominican orthography conversion: chún (尊) -> tsun¹ / tsun; chêg (戚) -> tsek⁷ / tsek."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "parientes~",
+      "source_H": "親 屬",
+      "source_M": "chín īog.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "parientes~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰin¹ iok⁸",
+        "tai_lo_standard": "tshin-io̍k",
+        "phonological_basis": "17c Dominican orthography conversion: chín (親) -> tsʰin¹ / tshin; īog (屬) -> iok⁸ / io̍k."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "parientes y por el se puede [残]",
+      "source_H": "服 親",
+      "source_M": "hóy chín.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "parientes y por el se puede",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hoi¹ tsʰin¹",
+        "tai_lo_standard": "hoi-tshin",
+        "phonological_basis": "17c Dominican orthography conversion: hóy (服) -> hoi¹ / hoi; chín (親) -> tsʰin¹ / tshin."
+      }
+    }
+  ]
+}

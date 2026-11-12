@@ -1,0 +1,174 @@
+{
+  "pdf_page": 14,
+  "source": "/workspace/shared/minnan_transcription/hab_91_2_extrav_06/visual_v1/pdf_014.md",
+  "source_sha256": "531d5e3639b944254fcdb924067434f8f9b85c950cb6c360415ba7b60a751ee7",
+  "image": "/workspace/shared/minnan_reference_catalog/hab06_official_max/00012.jpg",
+  "image_sha256": "af006c557631034b00b6f4f29da4357d6486dc4d7af68c00f0053328097d4012",
+  "body": "/workspace/shared/minnan_transcription/hab_91_2_extrav_06/method_transfer_v3/release/final_text/pdf_014.md",
+  "body_sha256": "6c9511f9e2589747c04bd660378c170d0d535fcb86cc4b433dd09cdadf9fa658",
+  "visually_reviewed": true,
+  "full_text_verified": false,
+  "finding": "实看180度大页与窄条。窄条只有折痕、转印状墨擦及淡影，无可确认正文。M06–08三列各有删划，不贯成单项。原像素M13局部看清金额首数字仅两横：旧乂三文三分→乂二文三分；下一个三的三横可就本列比较，不是账目推算。M03底部姓名下注仍未清。",
+  "changes": [
+    [
+      "M13 x32% 〔公?〕支〔批?〕布一疋　乂三文三分",
+      "M13 x32% 〔公?〕支〔批?〕布一疋　乂二文三分"
+    ]
+  ],
+  "source_lines": [
+    {
+      "source_line": 1,
+      "source_text": "# PDF 014 / MAX 00012",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    },
+    {
+      "source_line": 2,
+      "source_text": "",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    },
+    {
+      "source_line": 3,
+      "source_text": "纯视觉部分识读首稿，未核定全文。大页倒置，旋转180°阅读。x为main_rot180裁图近似列中心百分比，右到左。〔字?〕疑读、□单字未识，乂叉形记号。",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    },
+    {
+      "source_line": 4,
+      "source_text": "原图页码：104。原图左窄页未见可确定正文，见擦墨与浅透背，不拼写为文字。",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    },
+    {
+      "source_line": 5,
+      "source_text": "",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    },
+    {
+      "source_line": 6,
+      "source_text": "M01 x95% 〔公?〕支〔縀?〕一片五金〔紙?〕弍个　乂一文三分",
+      "body_line": 1,
+      "new_text": "M01 x95% 〔公?〕支〔縀?〕一片五金〔紙?〕弍个　乂一文三分",
+      "disposition": "manuscript_candidate_with_editorial_locator"
+    },
+    {
+      "source_line": 7,
+      "source_text": "M02 x89% 〔公?〕支〔批?〕布一疋　乂二文弍分半",
+      "body_line": 2,
+      "new_text": "M02 x89% 〔公?〕支〔批?〕布一疋　乂二文弍分半",
+      "disposition": "manuscript_candidate_with_editorial_locator"
+    },
+    {
+      "source_line": 8,
+      "source_text": "M03 x83% 〔公?〕支連青布一疋　乂一文半　入〔表?〕欠乂一分　陳〔芽?〕坐〔下细字〕",
+      "body_line": 3,
+      "new_text": "M03 x83% 〔公?〕支連青布一疋　乂一文半　入〔表?〕欠乂一分　陳〔芽?〕坐〔下细字〕",
+      "disposition": "manuscript_candidate_with_editorial_locator"
+    },
+    {
+      "source_line": 9,
+      "source_text": "M04 x78% 〔公?〕支〔批?〕布一疋　乂三文",
+      "body_line": 4,
+      "new_text": "M04 x78% 〔公?〕支〔批?〕布一疋　乂三文",
+      "disposition": "manuscript_candidate_with_editorial_locator"
+    },
+    {
+      "source_line": 10,
+      "source_text": "M05 x73% 〔公?〕支〔批?〕布二疋　乂六文",
+      "body_line": 5,
+      "new_text": "M05 x73% 〔公?〕支〔批?〕布二疋　乂六文",
+      "disposition": "manuscript_candidate_with_editorial_locator"
+    },
+    {
+      "source_line": 11,
+      "source_text": "M06 x69% 〔公?〕支思文一身　乂二分〔重划〕",
+      "body_line": 6,
+      "new_text": "M06 x69% 〔公?〕支思文一身　乂二分〔重划〕",
+      "disposition": "manuscript_candidate_with_editorial_locator"
+    },
+    {
+      "source_line": 12,
+      "source_text": "M07 x65% 〔疋?〕己青毛布一疋　乂三文〔重划〕",
+      "body_line": 7,
+      "new_text": "M07 x65% 〔疋?〕己青毛布一疋　乂三文〔重划〕",
+      "disposition": "manuscript_candidate_with_editorial_locator"
+    },
+    {
+      "source_line": 13,
+      "source_text": "M08 x60% 〔公?〕支〔批?〕布一疋　乂一文〔重划〕",
+      "body_line": 8,
+      "new_text": "M08 x60% 〔公?〕支〔批?〕布一疋　乂一文〔重划〕",
+      "disposition": "manuscript_candidate_with_editorial_locator"
+    },
+    {
+      "source_line": 14,
+      "source_text": "M09 x54% 〔公?〕支〔批?〕布六疋　乂十〔柒?〕○二分",
+      "body_line": 9,
+      "new_text": "M09 x54% 〔公?〕支〔批?〕布六疋　乂十〔柒?〕○二分",
+      "disposition": "manuscript_candidate_with_editorial_locator"
+    },
+    {
+      "source_line": 15,
+      "source_text": "M10 x48% 〔公?〕支連青布一疋　乂二文",
+      "body_line": 10,
+      "new_text": "M10 x48% 〔公?〕支連青布一疋　乂二文",
+      "disposition": "manuscript_candidate_with_editorial_locator"
+    },
+    {
+      "source_line": 16,
+      "source_text": "M11 x43% 〔公?〕支連青布一疋　乂一文○二分",
+      "body_line": 11,
+      "new_text": "M11 x43% 〔公?〕支連青布一疋　乂一文○二分",
+      "disposition": "manuscript_candidate_with_editorial_locator"
+    },
+    {
+      "source_line": 17,
+      "source_text": "M12 x37% 〔公?〕支〔批?〕布一疋　乂三文",
+      "body_line": 12,
+      "new_text": "M12 x37% 〔公?〕支〔批?〕布一疋　乂三文",
+      "disposition": "manuscript_candidate_with_editorial_locator"
+    },
+    {
+      "source_line": 18,
+      "source_text": "M13 x32% 〔公?〕支〔批?〕布一疋　乂三文三分",
+      "body_line": 13,
+      "new_text": "M13 x32% 〔公?〕支〔批?〕布一疋　乂二文三分",
+      "disposition": "manuscript_candidate_with_editorial_locator"
+    },
+    {
+      "source_line": 19,
+      "source_text": "M14 x27% 〔疋?〕己支〔蚶?〕　乂三分",
+      "body_line": 14,
+      "new_text": "M14 x27% 〔疋?〕己支〔蚶?〕　乂三分",
+      "disposition": "manuscript_candidate_with_editorial_locator"
+    },
+    {
+      "source_line": 20,
+      "source_text": "M15 x22% 〔疋?〕己白布一疋　乂三文",
+      "body_line": 15,
+      "new_text": "M15 x22% 〔疋?〕己白布一疋　乂三文",
+      "disposition": "manuscript_candidate_with_editorial_locator"
+    },
+    {
+      "source_line": 21,
+      "source_text": "M16 x18% 〔公?〕支連青布二疋　乂三文一分",
+      "body_line": 16,
+      "new_text": "M16 x18% 〔公?〕支連青布二疋　乂三文一分",
+      "disposition": "manuscript_candidate_with_editorial_locator"
+    },
+    {
+      "source_line": 22,
+      "source_text": "M17 x14% 〔公?〕支烏〔縀?〕一片　乂二分",
+      "body_line": 17,
+      "new_text": "M17 x14% 〔公?〕支烏〔縀?〕一片　乂二分",
+      "disposition": "manuscript_candidate_with_editorial_locator"
+    }
+  ]
+}

@@ -1,0 +1,495 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 326,
+  "historical_folio": 297,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0326/pdf_0326_300dpi.png",
+  "page_header": "C. ante. U.",
+  "page_footer_printed": "- 297 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "cuesta arriba y fragos[残]",
+      "source_H": "崎 斜",
+      "source_M": "quia sia",
+      "source_R": "guīn siē",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuesta arriba y fragos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kia¹ sia¹",
+        "tai_lo_standard": "kia-sia",
+        "phonological_basis": "17c Dominican orthography conversion: quia (崎) -> kia¹ / kia; sia (斜) -> sia¹ / sia."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Cuesta de[残] faos",
+      "source_H": "岩",
+      "source_M": "chiǒ săm.",
+      "source_R": "ngân",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cuesta de faos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsio² si³ mi¹",
+        "tai_lo_standard": "tsió-sì-mi",
+        "phonological_basis": "17c Dominican orthography conversion: chiǒ (岩) -> tsio² / tsió; s (?) -> si³ / sì; m (?) -> mi¹ / mi."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "cueba en los ricos.",
+      "source_H": "穴",
+      "source_M": "hiě.",
+      "source_R": "hiē",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cueba en los ricos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hie²",
+        "tai_lo_standard": "hié",
+        "phonological_basis": "17c Dominican orthography conversion: hiě (穴) -> hie² / hié."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "cuema en los ricos.",
+      "source_H": "峒",
+      "source_M": "lǒng.",
+      "source_R": "tōng",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuema en los ricos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lɔŋ²",
+        "tai_lo_standard": "lóng",
+        "phonological_basis": "17c Dominican orthography conversion: lǒng (峒) -> lɔŋ² / lóng."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "(cuena).",
+      "source_H": "石 岩",
+      "source_M": "chiǒ găm.",
+      "source_R": "sīg ngān",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(cuena).",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsio² gi³ mi¹",
+        "tai_lo_standard": "tsió-gì-mi",
+        "phonological_basis": "17c Dominican orthography conversion: chiǒ (石) -> tsio² / tsió; g (岩) -> gi³ / gì; m (?) -> mi¹ / mi."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "cuena en los montes.",
+      "source_H": "山 谷",
+      "source_M": "sān cog.",
+      "source_R": "sān cō",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuena en los montes.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "san³ kɔk⁷",
+        "tai_lo_standard": "sàn-kok",
+        "phonological_basis": "17c Dominican orthography conversion: sān (山) -> san³ / sàn; cog (谷) -> kɔk⁷ / kok."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "cueba en labrera, tirue las decar, el rigurosa -",
+      "source_H": "地 網",
+      "source_M": "těy bòng.",
+      "source_R": "tī vâng",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cueba en labrera, tirue las decar, el rigurosa -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tei² bɔŋ²",
+        "tai_lo_standard": "téi-bóng",
+        "phonological_basis": "17c Dominican orthography conversion: těy (地) -> tei² / téi; bòng (網) -> bɔŋ² / bóng."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Cuidar, pensar.",
+      "source_H": "想",
+      "source_M": "sio",
+      "source_R": "siàng",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cuidar, pensar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio¹",
+        "tai_lo_standard": "sio",
+        "phonological_basis": "17c Dominican orthography conversion: sio (想) -> sio¹ / sio."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "cuidar, con cuidado asechar.",
+      "source_H": "窺",
+      "source_M": "uiy.",
+      "source_R": "euì",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuidar, con cuidado asechar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "uii¹",
+        "tai_lo_standard": "uii",
+        "phonological_basis": "17c Dominican orthography conversion: uiy (窺) -> uii¹ / uii."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "cuidar de haçer bien y recatarse -",
+      "source_H": "謹",
+      "source_M": "quīn ìm.",
+      "source_R": "guiên",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuidar de haçer bien y recatarse -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kin⁵ im²",
+        "tai_lo_standard": "kîn-ím",
+        "phonological_basis": "17c Dominican orthography conversion: quīn (謹) -> kin⁵ / kîn; ìm (?) -> im² / ím."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "cuidar de haçer bien y recatarse.",
+      "source_H": "業",
+      "source_M": "giăp",
+      "source_R": "ngnūe",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuidar de haçer bien y recatarse.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gi² pi¹",
+        "tai_lo_standard": "gí-pi",
+        "phonological_basis": "17c Dominican orthography conversion: gi (業) -> gi² / gí; p (?) -> pi¹ / pi."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "cuidar ponderarr.",
+      "source_H": "斟[疑:勘]",
+      "source_M": "chím",
+      "source_R": "chǐn",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuidar ponderarr.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsim¹",
+        "tai_lo_standard": "tsim",
+        "phonological_basis": "17c Dominican orthography conversion: chím (斟) -> tsim¹ / tsim."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "cuidar de algum Oficio.",
+      "source_H": "獎",
+      "source_M": "chiāng,",
+      "source_R": "chiāng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuidar de algum Oficio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiaŋ⁵",
+        "tai_lo_standard": "tsiâng",
+        "phonological_basis": "17c Dominican orthography conversion: chiāng (獎) -> tsiaŋ⁵ / tsiâng."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "(cuidar de algo.)",
+      "source_H": "顧",
+      "source_M": "còu.",
+      "source_R": "cū",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(cuidar de algo.)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kou²",
+        "tai_lo_standard": "kóu",
+        "phonological_basis": "17c Dominican orthography conversion: còu (顧) -> kou² / kóu."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "cuidar de algo.",
+      "source_H": "應",
+      "source_M": "êng.",
+      "source_R": "êng",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuidar de algo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "eŋ³",
+        "tai_lo_standard": "èng",
+        "phonological_basis": "17c Dominican orthography conversion: êng (應) -> eŋ³ / èng."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "cuidar de algo, y tener razon. / gīn tām.",
+      "source_H": "勤",
+      "source_M": "quīn yīn, gīn ìm; gīn tīm.",
+      "source_R": "guiên",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuidar de algo, y tener razon. / gīn tām.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kin⁵ iin⁶ gin⁶ im² gin⁶ tim⁶",
+        "tai_lo_standard": "kîn-īin-gīn-ím-gīn-tīm",
+        "phonological_basis": "17c Dominican orthography conversion: quīn (勤) -> kin⁵ / kîn; yīn (?) -> iin⁶ / īin; gīn (?) -> gin⁶ / gīn; ìm (?) -> im² / ím; gīn (?) -> gin⁶ / gīn; tīm (?) -> tim⁶ / tīm."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "cuidar de algo. cuān còu.",
+      "source_H": "督",
+      "source_M": "tŏg.",
+      "source_R": "tō",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuidar de algo. cuān còu.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti² gi¹",
+        "tai_lo_standard": "tí-gi",
+        "phonological_basis": "17c Dominican orthography conversion: t (督) -> ti² / tí; g (?) -> gi¹ / gi."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "(cuidar de algo).",
+      "source_H": "謹",
+      "source_M": "(quīn).",
+      "source_R": "guièn",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(cuidar de algo).",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kin⁵",
+        "tai_lo_standard": "kîn",
+        "phonological_basis": "17c Dominican orthography conversion: quīn (謹) -> kin⁵ / kîn."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "cuidar: con diligencia",
+      "source_H": "勉",
+      "source_M": "gīn. biēn, laf siō.",
+      "source_R": "miěn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuidar: con diligencia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gin⁵ bien⁶ laf¹ sio⁶",
+        "tai_lo_standard": "gîn-biēn-laf-siō",
+        "phonological_basis": "17c Dominican orthography conversion: gīn (勉) -> gin⁵ / gîn; biēn (?) -> bien⁶ / biēn; laf (?) -> laf¹ / laf; siō (?) -> sio⁶ / siō."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "cuidar de algo, Bien [残] y [残]",
+      "source_H": "間",
+      "source_M": "cuān; razonar.",
+      "source_R": "cāy",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuidar de algo, Bien y",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuan⁵ razonar¹",
+        "tai_lo_standard": "kuân-razonar",
+        "phonological_basis": "17c Dominican orthography conversion: cuān (間) -> kuan⁵ / kuân; razonar (?) -> razonar¹ / razonar."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "cuidar de algo Bien.",
+      "source_H": "恖[疑:思]",
+      "source_M": "sū.",
+      "source_R": "zǔ",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuidar de algo Bien.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su⁵",
+        "tai_lo_standard": "sû",
+        "phonological_basis": "17c Dominican orthography conversion: sū (恖) -> su⁵ / sû."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "cuidar como superior.",
+      "source_H": "司",
+      "source_M": "sū.",
+      "source_R": "zū",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuidar como superior.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su⁵",
+        "tai_lo_standard": "sû",
+        "phonological_basis": "17c Dominican orthography conversion: sū (司) -> su⁵ / sû."
+      }
+    }
+  ]
+}

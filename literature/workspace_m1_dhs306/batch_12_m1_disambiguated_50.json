@@ -1,0 +1,2112 @@
+{
+  "batch_id": "batch_12_m1_disambiguated_50",
+  "provenance": "Certified v3.1 Final disambiguation for DHS entries 551 to 600",
+  "entries": [
+    {
+      "entry_id": "DHS1081.04",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1081,
+        "page_folio": 1043,
+        "position_in_page": 4,
+        "bounding_box_hint": "row 04, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "ver q̃ d vista &c. / auer lo visto",
+        "source_H": "經看過",
+        "source_M": "queng⟨升;/⟩ cua⟨重峰上z形;未决⟩ qua⟨重峰上m形;未决⟩",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "ver que de vista etcétera / haberlo visto",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          },
+          {
+            "abbr": "&c.",
+            "expansion": "etc[etera]"
+          }
+        ],
+        "zh_disambiguated": "親眼看過；已經見識過（經目睹、曾經看過）",
+        "en_disambiguated": "to have seen with one's own eyes; to have witnessed or experienced personally",
+        "syntactic_notes": "「經看過」為動補兼時態結構，表親身過目歷驗之意。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T02 (降斜)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "kiəŋ¹ kʰuan³ kue³",
+        "phonological_basis": "kiəŋ¹ upper level; kʰuan³ and kue³ upper departing tones."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "keng-khuànn-kuè",
+        "moe_code": "04642",
+        "hanzi_standard": "經看過"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Action verb-aspect compound of visual confirmation."
+      }
+    },
+    {
+      "entry_id": "DHS1081.05",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1081,
+        "page_folio": 1043,
+        "position_in_page": 5,
+        "bounding_box_hint": "row 05, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "ver lo [疑:Procesado] del supᵒʳ",
+        "source_H": "吊案",
+        "source_M": "tiau⟨重交笔;未决⟩ an⟨重峰;未决⟩",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "ver lo procesado del superior",
+        "abbreviations_expanded": [
+          {
+            "abbr": "supᵒʳ",
+            "expansion": "sup[eri]or"
+          }
+        ],
+        "zh_disambiguated": "調取案卷；調審卷宗（上級調閱訴訟卷宗審查）",
+        "en_disambiguated": "to call up legal case files or records for review by a superior court",
+        "syntactic_notes": "「吊案」乃官府行文調閱已決或待核案件卷宗之法律公文術語。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "tiau³ an³",
+        "phonological_basis": "tiau³ upper departing; an³ upper departing tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tiàu-àn",
+        "moe_code": "02534",
+        "hanzi_standard": "吊案"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Official administrative legal compound."
+      }
+    },
+    {
+      "entry_id": "DHS1081.13",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1081,
+        "page_folio": 1043,
+        "position_in_page": 13,
+        "bounding_box_hint": "row 13, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Verano Los q̃ meses de calor",
+        "source_H": "春",
+        "source_M": "chun⟨升附c;未决⟩",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Verano los que meses de calor",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "春（早期辭書用以對譯溫暖暑熱季候，引申為暖季）",
+        "en_disambiguated": "spring (used in early Spanish-Chinese glossary to denote the warm or hot season)",
+        "syntactic_notes": "早期辭書常將中西四時對轉，「春」在此記溫暄之季候。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰun¹",
+        "phonological_basis": "tsʰun¹ upper level tone, initial tsʰ-."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tshun",
+        "moe_code": "04829",
+        "hanzi_standard": "春"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Seasonal temporal noun."
+      }
+    },
+    {
+      "entry_id": "DHS1083.01",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1083,
+        "page_folio": 1045,
+        "position_in_page": 1,
+        "bounding_box_hint": "row 01, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Verdaderamente / q̃ [疑:ciertamente]",
+        "source_H": "直",
+        "source_M": "tit⟨降干附支;首反斜加短横⟩",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Verdaderamente / que ciertamente",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "實在；確實；直截（真正地、徑直地）",
+        "en_disambiguated": "truly; indeed; directly and straightforwardly",
+        "syntactic_notes": "閩南語「直」兼有徑直、質直與「實在（直恁）」之副詞用法。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T07 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "tit⁸",
+        "phonological_basis": "tit⁸ lower entering tone with dental stop -t."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "ti̍t",
+        "moe_code": "03831",
+        "hanzi_standard": "直"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Adverbial modifier of certainty."
+      }
+    },
+    {
+      "entry_id": "DHS1084.06",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1084,
+        "page_folio": 1046,
+        "position_in_page": 6,
+        "bounding_box_hint": "row 06, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Verdugo q̃ mata y no es a / frenta",
+        "source_H": "旗牌",
+        "source_M": "qui⟨横;—⟩ pay⟨横;—⟩",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Verdugo que mata y no es afrenta",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "旗牌官；行刑令旗差役（奉官府將命行刑之軍士）",
+        "en_disambiguated": "banner officer or military executioner acting under official command",
+        "syntactic_notes": "「旗牌」本指主將令旗令牌，引申指軍營執令行刑之軍旗手。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "ki² pai²",
+        "phonological_basis": "ki² and pai² both in lower level tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "kî-pâi",
+        "moe_code": "05781",
+        "hanzi_standard": "旗牌"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Military executive title."
+      }
+    },
+    {
+      "entry_id": "DHS1087-20",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1087,
+        "page_folio": 1049,
+        "position_in_page": 20,
+        "bounding_box_hint": "row 20, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Veta de tela, o como el [疑:末词]",
+        "source_H": "直紋",
+        "source_M": "tit⟨降干附支;首反斜加短横⟩ bun⟨横;—⟩",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Veta de tela, o como el hilo",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "直紋；經紋（布帛織品之縱向經紗紋理）",
+        "en_disambiguated": "straight grain; lengthwise warp texture or grain of woven fabric",
+        "syntactic_notes": "「直紋」指紡織品縱向平行之紋路與紗線理路。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T07 (交叉入聲號)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "tit⁸ bun²",
+        "phonological_basis": "tit⁸ lower entering tone sandhi; bun² lower level tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "ti̍t-bûn",
+        "moe_code": "03833",
+        "hanzi_standard": "直紋"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Textile grain noun compound."
+      }
+    },
+    {
+      "entry_id": "DHS1088-07",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1088,
+        "page_folio": 1050,
+        "position_in_page": 7,
+        "bounding_box_hint": "row 07, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Vete a esse lado",
+        "source_H": "行邊去",
+        "source_M": "quia⟨横上m形;未决⟩ py⟨升上m形;未决⟩ cu⟨重峰附c;未决⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Vete a ese lado",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "靠邊走；往那邊走（閃到一邊去）",
+        "en_disambiguated": "go to that side; step aside; walk along the edge",
+        "syntactic_notes": "「行邊去」為閩南語日常口語祈使句，令其移步讓道。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T05 (平橫)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "kĩã² pĩ¹ kʰi³",
+        "phonological_basis": "kĩã² nasal lower level; pĩ¹ nasal upper level; kʰi³ upper departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "kiânn-pinn-khì",
+        "moe_code": "01725",
+        "hanzi_standard": "行邊去"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Colloquial directional motion phrase."
+      }
+    },
+    {
+      "entry_id": "DHS1091-15-L",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1091,
+        "page_folio": 1053,
+        "position_in_page": 15,
+        "bounding_box_hint": "row 15, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "vieja noble, s.ʳᵃ vieja",
+        "source_H": "婦人媽",
+        "source_M": "hu⟨谷;v⟩ xin⟨横;—⟩ ma⟨降;反斜⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "vieja noble, señora vieja",
+        "abbreviations_expanded": [
+          {
+            "abbr": "s.ʳᵃ",
+            "expansion": "s[eño]ra"
+          }
+        ],
+        "zh_disambiguated": "老夫人；誥命夫人；尊貴之年長婦人",
+        "en_disambiguated": "venerable lady; noble elderly woman; matriarch",
+        "syntactic_notes": "「婦人媽」加綴詞尾「媽」，特指受人敬重尊崇之貴門年長女長輩。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)",
+          "T01 (升斜)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "hu⁶ dzin² ma³",
+        "phonological_basis": "hu⁶ lower departing; dzin² lower level; ma³ upper rising tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "hū-jîn-má",
+        "moe_code": "06718",
+        "hanzi_standard": "婦人媽"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Honorific kinship and status title."
+      }
+    },
+    {
+      "entry_id": "DHS1092-10-L",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1092,
+        "page_folio": 1054,
+        "position_in_page": 10,
+        "bounding_box_hint": "row 10, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Viejo, vno q se fue al cielo es / cabeca de santos, [未辨字:末段]",
+        "source_H": "古老",
+        "source_M": "cou⟨降;反斜⟩ lo⟨降;反斜⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Viejo, uno que se fue al cielo es cabeza de santos",
+        "abbreviations_expanded": [
+          {
+            "abbr": "vno",
+            "expansion": "uno"
+          },
+          {
+            "abbr": "q",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "古老；前代仙賢尊長（上古昇天之聖賢首領）",
+        "en_disambiguated": "ancient patriarch; venerable ancestor revered among celestial saints",
+        "syntactic_notes": "西文意指得道昇天之古聖宿老，閩南語用「古老」標識尊稱。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "kɔ³ lɔ³",
+        "phonological_basis": "kɔ³ upper rising tone; lɔ³ upper rising tone variant."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "kóo-nóo",
+        "moe_code": "02271",
+        "hanzi_standard": "古老"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Archaic venerated ancestor noun."
+      }
+    },
+    {
+      "entry_id": "DHS1093-05-L",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1093,
+        "page_folio": 1055,
+        "position_in_page": 5,
+        "bounding_box_hint": "row 05, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Viejo con muchos bienes",
+        "source_H": "福壽",
+        "source_M": "hog⟨升干附支;首/-，候^⟩ siu⟨重谷;未决⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Viejo con muchos bienes",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "福壽；福壽全備（多福多壽且家道豐實之長者）",
+        "en_disambiguated": "blessed with prosperity and longevity; prosperous elderly person",
+        "syntactic_notes": "「福壽」兼指壽命與資財兼備之福相老人。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06 (交叉入聲號)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "hɔk⁷ siu⁶",
+        "phonological_basis": "hɔk⁷ upper entering tone with velar -k; siu⁶ lower departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "hok-siū",
+        "moe_code": "05833",
+        "hanzi_standard": "福壽"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Auspicious condition compound."
+      }
+    },
+    {
+      "entry_id": "DHS1093-07-L",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1093,
+        "page_folio": 1055,
+        "position_in_page": 7,
+        "bounding_box_hint": "row 07, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "viento grande. Vagio",
+        "source_H": "颱",
+        "source_M": "〔窄栏〕hong⟨升;/⟩ tay⟨升附c;未决⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "viento grande, vagio / baguio",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "颱風；暴風狂飆（熱帶氣旋大風）",
+        "en_disambiguated": "typhoon; great gale or tropical cyclone (baguio)",
+        "syntactic_notes": "「颱」或作「風颱」，乃東南沿海特有熱帶氣旋暴風名稱。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "hɔŋ¹ tʰai²",
+        "phonological_basis": "hɔŋ¹ upper level tone; tʰai² lower level tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "hong-thai",
+        "moe_code": "04561",
+        "hanzi_standard": "颱"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Meteorological typhoon term."
+      }
+    },
+    {
+      "entry_id": "DHS1093-12-L",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1093,
+        "page_folio": 1055,
+        "position_in_page": 12,
+        "bounding_box_hint": "row 12, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Viento q pasa vt toruellino",
+        "source_H": "一陣風",
+        "source_M": "cheg⟨降干附支;首反斜加短横⟩ tin⟨重谷;未决⟩ hong⟨升;/⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Viento que pasa ut torbellino",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          },
+          {
+            "abbr": "vt",
+            "expansion": "ut"
+          }
+        ],
+        "zh_disambiguated": "一陣風；旋風（突如其來、驟起驟止之一陣大風）",
+        "en_disambiguated": "a gust of wind; a sudden squall or whirlwind",
+        "syntactic_notes": "「一陣風」指風勢倏忽而過之旋風或疾風。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06 (交叉入聲號)",
+          "T04 (凹角)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsit⁷ tsun⁶ hɔŋ¹",
+        "phonological_basis": "tsit⁷ entering tone; tsun⁶ lower departing; hɔŋ¹ upper level."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsi̍t-tsūn-hong",
+        "moe_code": "00001",
+        "hanzi_standard": "一陣風"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Meteorological gust quantifier noun."
+      }
+    },
+    {
+      "entry_id": "DHS1094-05-L",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1094,
+        "page_folio": 1056,
+        "position_in_page": 5,
+        "bounding_box_hint": "row 05, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "〔圈〕Viento Baguio",
+        "source_H": "風颱",
+        "source_M": "hong⟨升;/⟩ tay⟨升附c;未决⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Viento Baguio",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "風颱；颱風暴風（熱帶氣旋強風暴）",
+        "en_disambiguated": "typhoon wind; storm gale (baguio)",
+        "syntactic_notes": "閩南本土詞「風颱」即指西北太平洋及南海之颱風狂飆。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "hɔŋ¹ tʰai²",
+        "phonological_basis": "hɔŋ¹ upper level sandhi; tʰai² lower level base tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "hong-thai",
+        "moe_code": "04561",
+        "hanzi_standard": "風颱"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Compound term for typhoon."
+      }
+    },
+    {
+      "entry_id": "DHS1094-07-L",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1094,
+        "page_folio": 1056,
+        "position_in_page": 7,
+        "bounding_box_hint": "row 07, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Viga, arique",
+        "source_H": "柱",
+        "source_M": "tiau⟨谷附c;未决⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Viga, arique",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "柱子；楹柱（建築立柱或梁柱）",
+        "en_disambiguated": "pillar; wooden post; upright structural timber (harigi)",
+        "syntactic_notes": "菲律賓西文借他加祿語 arique（立柱），閩南語對譯為「柱（thiāu）」。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "tʰiau⁶",
+        "phonological_basis": "tʰiau⁶ lower departing tone, aspirate tʰ-."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "thiāu",
+        "moe_code": "02549",
+        "hanzi_standard": "柱"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Architectural column noun."
+      }
+    },
+    {
+      "entry_id": "DHS1094-08-L",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1094,
+        "page_folio": 1056,
+        "position_in_page": 8,
+        "bounding_box_hint": "row 08, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "viga llaues del edificio",
+        "source_H": "横樑",
+        "source_M": "hua⟨横上m形;未决⟩ nio⟨横上m形;未决⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "viga llaves del edificio",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "橫樑；棟樑（建築架構之橫向大梁骨幹）",
+        "en_disambiguated": "crossbeam; transverse tie-beam supporting the building frame",
+        "syntactic_notes": "「橫樑」為承載屋宇棟架重量之主橫木。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "huãĩ² niũ²",
+        "phonological_basis": "huãĩ² and niũ² both nasalized lower level tones."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "huâinn-niû",
+        "moe_code": "05971",
+        "hanzi_standard": "橫樑"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Architectural beam compound."
+      }
+    },
+    {
+      "entry_id": "DHS1094-09-L",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1094,
+        "page_folio": 1056,
+        "position_in_page": 9,
+        "bounding_box_hint": "row 09, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "viguetas o baraquilos del texado",
+        "source_H": "[疑:楹]",
+        "source_M": "e⟨横上m形;未决⟩ cag⟨升干附支;首/-，候^⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "viguetas o baraquillos del tejado",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "楹椽；屋椽（屋頂承瓦之屋桁椽木）",
+        "en_disambiguated": "rafters; small purlins or wooden roof battens",
+        "syntactic_notes": "西文 baraquillos 指小椽木，閩南語「楹（ênn）」與「桷（kak）」均為屋木。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T06 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "ẽ¹ kak⁷",
+        "phonological_basis": "ẽ¹ nasal upper level tone; kak⁷ upper entering tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "ênn-kak",
+        "moe_code": "06012",
+        "hanzi_standard": "楹桷"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-2",
+        "definition": "Near synonym / register or stylistic differentiation",
+        "rationale": "Architectural timber reconstruction from romanization."
+      }
+    },
+    {
+      "entry_id": "DHS1094-10-L",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1094,
+        "page_folio": 1056,
+        "position_in_page": 10,
+        "bounding_box_hint": "row 10, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "〔10–11合圈〕Viguetas o varaquilos",
+        "source_H": "[疑:桷]",
+        "source_M": "cag⟨升干附支;首/-，候^⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Viguetas o baraquillos",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "桷；椽子（屋面支撐桷木）",
+        "en_disambiguated": "rafter; roof batten",
+        "syntactic_notes": "單音節詞「桷」專指承瓦之方椽木條。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "kak⁷",
+        "phonological_basis": "kak⁷ upper entering tone with velar stop -k."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "kak",
+        "moe_code": "05021",
+        "hanzi_standard": "桷"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-2",
+        "definition": "Near synonym / register or stylistic differentiation",
+        "rationale": "Single roof rafter reconstructed from cag."
+      }
+    },
+    {
+      "entry_id": "DHS1094-11-L",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1094,
+        "page_folio": 1056,
+        "position_in_page": 11,
+        "bounding_box_hint": "row 11, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Viguetas o baraquilos",
+        "source_H": "[疑:楹桷]",
+        "source_M": "e⟨横上m形;未决⟩ cag⟨升干附支;首/-，候^⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Viguetas o baraquillos",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "楹桷；梁架椽木（屋面梁椽結構）",
+        "en_disambiguated": "roof timbering; rafters and purlins collectively",
+        "syntactic_notes": "「楹桷」為屋頂桁條與椽木之統稱。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T06 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "ẽ¹ kak⁷",
+        "phonological_basis": "ẽ¹ upper level; kak⁷ upper entering base tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "ênn-kak",
+        "moe_code": "06012",
+        "hanzi_standard": "楹桷"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-2",
+        "definition": "Near synonym / register or stylistic differentiation",
+        "rationale": "Collective roof timbering entry."
+      }
+    },
+    {
+      "entry_id": "DHS1094-15-L",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1094,
+        "page_folio": 1056,
+        "position_in_page": 15,
+        "bounding_box_hint": "row 15, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Viguela pequeña",
+        "source_H": "箏",
+        "source_M": "cheng⟨双升;未决⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Vigüela pequeña",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "箏；小古箏（多弦彈撥弦樂器）",
+        "en_disambiguated": "small zither; zheng",
+        "syntactic_notes": "西文以小號比維埃拉琴對比傳統多弦彈撥樂器「箏」。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsẽ¹",
+        "phonological_basis": "tsẽ¹ nasalized upper level tone, initial ts-."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsenn",
+        "moe_code": "05118",
+        "hanzi_standard": "箏"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Traditional Chinese musical instrument."
+      }
+    },
+    {
+      "entry_id": "DHS1094-16-L",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1094,
+        "page_folio": 1056,
+        "position_in_page": 16,
+        "bounding_box_hint": "row 16, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "viguela de arco",
+        "source_H": "琶",
+        "source_M": "pe⟨横上双点;未决⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "vigüela de arco",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "琶；琵琶彈弦（西文誤記為弓弦拉奏琴）",
+        "en_disambiguated": "pipa stringed instrument (noted in Spanish as bowed lute)",
+        "syntactic_notes": "西班牙修士將弦樂混為弓奏，此處「琶」為琵琶之省稱。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "pe²",
+        "phonological_basis": "pe² lower level tone, voiced bilabial stop p-."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "pê",
+        "moe_code": "04677",
+        "hanzi_standard": "琶"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Musical lute component noun."
+      }
+    },
+    {
+      "entry_id": "DHS1094-17-L",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1094,
+        "page_folio": 1056,
+        "position_in_page": 17,
+        "bounding_box_hint": "row 17, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "〔圈〕Viguela de arco",
+        "source_H": "琵琶",
+        "source_M": "py⟨升;/⟩ pe⟨横上双点;未决⟩",
+        "source_R": "de 4º ordenes L: py⟨升;/⟩ pe⟨横上双点;未决⟩ qim⟨横附c;未决⟩"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Vigüela de arco",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "琵琶（四弦彈撥傳統樂器）",
+        "en_disambiguated": "pipa (four-stringed Chinese plucked lute)",
+        "syntactic_notes": "「琵琶」乃四弦曲頸彈撥樂器。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "pi² pe²",
+        "phonological_basis": "pi² and pe² both lower level tone, voiced stops."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "pî-pê",
+        "moe_code": "04677",
+        "hanzi_standard": "琵琶"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Plucked string instrument compound."
+      }
+    },
+    {
+      "entry_id": "DHS1094-18-L",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1094,
+        "page_folio": 1056,
+        "position_in_page": 18,
+        "bounding_box_hint": "row 18, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "〔圈〕viguela de 4 ordenes",
+        "source_H": "琵",
+        "source_M": "py⟨升;/⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "vigüela de 4 órdenes",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "琵（琵琶前字，指四弦樂器）",
+        "en_disambiguated": "pi (first morpheme of pipa, representing a four-course stringed instrument)",
+        "syntactic_notes": "四弦樂器單稱「琵」，與「琶」對稱並舉。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "pi²",
+        "phonological_basis": "pi² lower level tone, initial p-."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "pî",
+        "moe_code": "04676",
+        "hanzi_standard": "琵"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Musical instrument morpheme."
+      }
+    },
+    {
+      "entry_id": "DHS1094-19-L",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1094,
+        "page_folio": 1056,
+        "position_in_page": 19,
+        "bounding_box_hint": "row 19, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "viguela de muchas ordenes",
+        "source_H": "瑟",
+        "source_M": "seg⟨升干附支;首/-，候^⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "vigüela de muchas órdenes",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "瑟（多弦彈撥弦樂器，通常具二十五弦）",
+        "en_disambiguated": "se (ancient Chinese 25-stringed plucked zither)",
+        "syntactic_notes": "「瑟」為多弦齊備之雅樂重器，弦數繁多。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "sik⁷",
+        "phonological_basis": "sik⁷ upper entering tone with stop -k."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sik",
+        "moe_code": "05244",
+        "hanzi_standard": "瑟"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Classical zither musical instrument."
+      }
+    },
+    {
+      "entry_id": "DHS1094-20-L",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1094,
+        "page_folio": 1056,
+        "position_in_page": 20,
+        "bounding_box_hint": "row 20, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "〔圈〕viguela de muchas ordenes",
+        "source_H": "琴瑟",
+        "source_M": "quim⟨横附c;未决⟩ seg⟨升干附支;首/-，候^⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "vigüela de muchas órdenes",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "琴瑟（古琴與古瑟，泛指雅樂弦鳴樂器）",
+        "en_disambiguated": "qin and se (traditional Chinese stringed musical instruments)",
+        "syntactic_notes": "「琴瑟」並稱，為古代雅樂弦樂器之代表名物。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T06 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "kʰim² sik⁷",
+        "phonological_basis": "kʰim² lower level tone; sik⁷ upper entering tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "khîm-sik",
+        "moe_code": "05245",
+        "hanzi_standard": "琴瑟"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Classical musical instrument pairing."
+      }
+    },
+    {
+      "entry_id": "1095.02",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1095,
+        "page_folio": 1057,
+        "position_in_page": 2,
+        "bounding_box_hint": "row 02, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Viguelas grandes y pequeñas / en array ponderaçion templa / das",
+        "source_H": "琴瑟和鳴",
+        "source_M": "quim⟨横附c;未决⟩ seg⟨升干附支;首/-，候^⟩ ho⟨横;—⟩ beng⟨横;—⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Vigüelas grandes y pequeñas en array ponderación templadas",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "琴瑟和鳴；比翼相和（弦樂協調和諧，多喻夫妻情深）",
+        "en_disambiguated": "qin and se playing together in harmony; marital concord",
+        "syntactic_notes": "四字成語「琴瑟和鳴」，本喻樂器調諧，典指婚姻美滿協和。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T06 (交叉入聲號)",
+          "T01 (升斜)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "kʰim² sik⁷ ho² biŋ²",
+        "phonological_basis": "kʰim² lower level; sik⁷ upper entering; ho² and biŋ² lower level."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "khîm-sik-hô-bîng",
+        "moe_code": "05246",
+        "hanzi_standard": "琴瑟和鳴"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Four-character idiom of musical and marital harmony."
+      }
+    },
+    {
+      "entry_id": "1095.12",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1095,
+        "page_folio": 1057,
+        "position_in_page": 12,
+        "bounding_box_hint": "row 12, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "vil, de baxos pensamientos / no tiene sangre en el ojo",
+        "source_H": "無志人",
+        "source_M": "bo⟨横;—⟩ chy⟨峰;^⟩ lang⟨横;—⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "vil, de bajos pensamientos, no tiene sangre en el ojo",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "無志人；卑鄙猥瑣之徒（無骨氣、無志向之人）",
+        "en_disambiguated": "base person devoid of ambition or shame; spiritless coward",
+        "syntactic_notes": "「無志人」指胸無大志且甘於下流無羞惡之心者。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T02 (降斜)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "bo² tsi³ laŋ²",
+        "phonological_basis": "bo² lower level; tsi³ upper departing; laŋ² lower level."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "bô-tsì-lâng",
+        "moe_code": "06312",
+        "hanzi_standard": "無志人"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Deprecatory personality noun phrase."
+      }
+    },
+    {
+      "entry_id": "1095.15",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1095,
+        "page_folio": 1057,
+        "position_in_page": 15,
+        "bounding_box_hint": "row 15, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Vilango",
+        "source_H": "狗脚",
+        "source_M": "cau⟨降;反斜⟩ ca⟨升附c;未决⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Vilango",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "狗腿子；爪牙差役（供役走卒、充當下僚鷹犬者）",
+        "en_disambiguated": "underling; henchman; lackey of official (bilango)",
+        "syntactic_notes": "借詞 bilango 意為差役走卒，閩南俗稱作惡走狗為「狗腳（狗腿）」。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "kau³ kʰa¹",
+        "phonological_basis": "kau³ upper rising; kʰa¹ upper level tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "káu-kha",
+        "moe_code": "02981",
+        "hanzi_standard": "狗腳"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Derogatory servant/lackey compound."
+      }
+    },
+    {
+      "entry_id": "1095.16",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1095,
+        "page_folio": 1057,
+        "position_in_page": 16,
+        "bounding_box_hint": "row 16, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Vilango. ʃ. alguacil",
+        "source_H": "狗 [未辨字:竹头字]",
+        "source_M": "cau⟨降;反斜⟩ chue⟨横附c;未决⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Vilango, saber alguacil",
+        "abbreviations_expanded": [
+          {
+            "abbr": "ʃ.",
+            "expansion": "s[aber]"
+          }
+        ],
+        "zh_disambiguated": "狗箠；捕快爪牙差役（手持竹棍之衙役卒捕）",
+        "en_disambiguated": "bailiff's henchman carrying a rod; constable's lackey",
+        "syntactic_notes": "「狗箠」指執持刑箠、為虎作倀之差役捕吏。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "kau³ tsʰue⁶",
+        "phonological_basis": "kau³ upper rising; tsʰue⁶ lower departing tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "káu-tshuē",
+        "moe_code": "02982",
+        "hanzi_standard": "狗箠"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-2",
+        "definition": "Near synonym / register or stylistic differentiation",
+        "rationale": "Reconstructed compound of canine rod henchman."
+      }
+    },
+    {
+      "entry_id": "1096.07",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1096,
+        "page_folio": 1058,
+        "position_in_page": 7,
+        "bounding_box_hint": "row 07, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "[疑:Vipindin] seco",
+        "source_H": "〔空〕",
+        "source_M": "yo⟨横附n;未决⟩ to⟨横;—⟩",
+        "source_R": "Verde o maduro: tu⟨横;—⟩ tag⟨降干附支;首反斜加短横⟩ guy⟨降;反斜⟩"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Vipindin seco",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "藥肚；乾制藥用魚鰾或肚腑",
+        "en_disambiguated": "dried medicinal maw or stomach belly",
+        "syntactic_notes": "底本西文殘寫，羅馬字 yo to 考定為「藥肚」，為乾製滋補藥料。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T07 (交叉入聲號)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "iɔk⁸ tɔ⁶",
+        "phonological_basis": "iɔk⁸ lower entering; tɔ⁶ lower departing tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "io̍h-tōo",
+        "moe_code": "06912",
+        "hanzi_standard": "藥肚"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-2",
+        "definition": "Near synonym / register or stylistic differentiation",
+        "rationale": "Medicinal fish belly reconstructed from romanization yo to."
+      }
+    },
+    {
+      "entry_id": "1096.17",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1096,
+        "page_folio": 1058,
+        "position_in_page": 17,
+        "bounding_box_hint": "row 17, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Vino de [未辨字:西文中段] mandarines",
+        "source_H": "荳肉酒",
+        "source_M": "tau⟨谷重改;未决⟩ xiog⟨降干附支;首反斜加短横⟩ chiu⟨降;反斜⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Vino de carnes mandarines",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "荳肉酒；肉荳蔻浸酒（官宦所飲滋補名酒）",
+        "en_disambiguated": "nutmeg liqueur; spiced medicinal wine for high officials",
+        "syntactic_notes": "「荳肉」即肉荳蔻仁，用以浸釀滋補之「荳肉酒」。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)",
+          "T07 (交叉入聲號)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "tau⁶ dziɔk⁸ tsiu³",
+        "phonological_basis": "tau⁶ lower departing; dziɔk⁸ lower entering; tsiu³ upper rising."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tāu-jio̍k-tsiú",
+        "moe_code": "04128",
+        "hanzi_standard": "荳肉酒"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Spiced herbal beverage compound."
+      }
+    },
+    {
+      "entry_id": "1096.18",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1096,
+        "page_folio": 1058,
+        "position_in_page": 18,
+        "bounding_box_hint": "row 18, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Vino de 〔划删：未辨字〕 tierra. de china. [未辨字:后细注]",
+        "source_H": "順酒",
+        "source_M": "sun⟨谷重改;未决⟩ chiu⟨降;反斜⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Vino de tierra de China",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "順酒；本色土產溫順米酒",
+        "en_disambiguated": "smooth traditional Chinese wine; local brewed rice wine",
+        "syntactic_notes": "「順酒」為入口甘醇和順之本土釀造酒品。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "sun⁶ tsiu³",
+        "phonological_basis": "sun⁶ lower departing; tsiu³ upper rising tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sūn-tsiú",
+        "moe_code": "04129",
+        "hanzi_standard": "順酒"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Colloquial term for smooth traditional liquor."
+      }
+    },
+    {
+      "entry_id": "1096.20",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1096,
+        "page_folio": 1058,
+        "position_in_page": 20,
+        "bounding_box_hint": "row 20, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "[疑:Virador] de çapatero",
+        "source_H": "脚胖",
+        "source_M": "ca⟨升附c;未决⟩ poa⟨峰上m形;未决⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Virador de zapatero",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "鞋幫；腳幫（鞋匠所製鞋幫面料）",
+        "en_disambiguated": "shoe upper; vamp; lasting strip used by shoemakers",
+        "syntactic_notes": "俗字借「胖」記鞋幫布面，為鞋履兩側包覆之皮面。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "kʰa¹ pʰuã³",
+        "phonological_basis": "kʰa¹ upper level; pʰuã³ nasalized upper departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "kha-phuann",
+        "moe_code": "03310",
+        "hanzi_standard": "腳幫"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Cobbler's craft terminology."
+      }
+    },
+    {
+      "entry_id": "1098.09",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1098,
+        "page_folio": 1060,
+        "position_in_page": 9,
+        "bounding_box_hint": "row 09, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Virulento",
+        "source_H": "班",
+        "source_M": "peng⟨升;/⟩. L: pan⟨升;/⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Virulento",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "斑；天花痘斑（臉面或皮膚瘢痕）",
+        "en_disambiguated": "spotted; scarred from smallpox or virulency; maculate",
+        "syntactic_notes": "「斑」在此特指天花痊癒後皮膚遺留之痘斑瘢疤。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "pan¹",
+        "phonological_basis": "pan¹ upper level tone, unaspirated bilabial p-."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "pan",
+        "moe_code": "01305",
+        "hanzi_standard": "斑"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Dermatological symptom noun."
+      }
+    },
+    {
+      "entry_id": "1098.10",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1098,
+        "page_folio": 1060,
+        "position_in_page": 10,
+        "bounding_box_hint": "row 10, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "〔10–11合圈〕virulento",
+        "source_H": "班皮",
+        "source_M": "peng⟨升;/⟩ pue⟨横附c;未决⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "virulento",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "斑皮；麻皮（帶有痘瘡瘢痕之皮膚）",
+        "en_disambiguated": "pox-scarred skin; pitted epidermis from smallpox",
+        "syntactic_notes": "「斑皮」形容膚質因生瘡害痘而凹凸不平粗糙。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "pan¹ pʰue²",
+        "phonological_basis": "pan¹ upper level; pʰue² lower level tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "pan-phuê",
+        "moe_code": "01306",
+        "hanzi_standard": "斑皮"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Dermatological scar noun compound."
+      }
+    },
+    {
+      "entry_id": "1098.11",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1098,
+        "page_folio": 1060,
+        "position_in_page": 11,
+        "bounding_box_hint": "row 11, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "virulento",
+        "source_H": "[疑:瘤] 跡",
+        "source_M": "lou⟨降;反斜⟩ chia⟨升干附支;首/-，候^⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "virulento",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "瘤跡；瘡痕痕跡（腫瘤或瘡癤癒後之瘢痕）",
+        "en_disambiguated": "scar of tumor or pustule; trace mark of lesion",
+        "syntactic_notes": "「瘤跡」指膿瘡腫毒退後遺留之凹痕瘢跡。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T06 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "liu² tsiaʔ⁷",
+        "phonological_basis": "liu² lower level; tsiaʔ⁷ glottal entering tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "liû-tsiah",
+        "moe_code": "06815",
+        "hanzi_standard": "瘤跡"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-2",
+        "definition": "Near synonym / register or stylistic differentiation",
+        "rationale": "Pustular scar lesion reconstructed from lou chia."
+      }
+    },
+    {
+      "entry_id": "1098.12",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1098,
+        "page_folio": 1060,
+        "position_in_page": 12,
+        "bounding_box_hint": "row 12, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Vissitar. Venir al [疑:principio]",
+        "source_H": "[疑:摯]",
+        "source_M": "chy⟨升干附支;首/-，候^⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Visitar, venir al principio",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "贄；拜謁見面禮（初次登門造訪持贄致敬）",
+        "en_disambiguated": "courtesy visit with gift; ceremonial greeting at audience",
+        "syntactic_notes": "古禮造訪持贄為信，閩南語以此字稱初會參見之禮儀。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsi³",
+        "phonological_basis": "tsi³ upper departing tone, affricate ts-."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsì",
+        "moe_code": "02148",
+        "hanzi_standard": "贄"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-2",
+        "definition": "Near synonym / register or stylistic differentiation",
+        "rationale": "Ceremonial visit gift reconstructed from chy."
+      }
+    },
+    {
+      "entry_id": "1099.22",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1099,
+        "page_folio": 1061,
+        "position_in_page": 22,
+        "bounding_box_hint": "row 22, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "〔圈〕visitar, rondar ut el [未辨字:缩写]",
+        "source_H": "巡按",
+        "source_M": "sun⟨横;—⟩ an⟨谷;v⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "visitar, rondar ut el censor",
+        "abbreviations_expanded": [
+          {
+            "abbr": "ut",
+            "expansion": "ut"
+          }
+        ],
+        "zh_disambiguated": "巡按；巡察督撫（奉旨出巡監察地方之御史）",
+        "en_disambiguated": "touring censor; imperial inspector conducting official circuit rounds",
+        "syntactic_notes": "明代「巡按御史」巡視考察郡縣吏治，官品崇重威嚴。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "sun² an³",
+        "phonological_basis": "sun² lower level; an³ upper departing tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sûn-àn",
+        "moe_code": "05391",
+        "hanzi_standard": "巡按"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Imperial surveillance commissioner title."
+      }
+    },
+    {
+      "entry_id": "DHS1103-06",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1103,
+        "page_folio": 1065,
+        "position_in_page": 6,
+        "bounding_box_hint": "row 06, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Vnguento oloroso q̃ conser- / bar y apretar [尾符?]",
+        "source_H": "蘇合油",
+        "source_M": "sou⟨右斜⟩ hap⟨v交短支⟩ iu⟨橫⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Ungüento oloroso que conservar y apretar",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "蘇合油；芳香藥膏（固護緊縮之芳香油脂藥料）",
+        "en_disambiguated": "liquid storax oil; fragrant medicinal aromatic balsam",
+        "syntactic_notes": "「蘇合油」為傳統外來名貴香藥，具開竅散寒收斂之功用。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T07 (交叉入聲號)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "sɔ¹ hap⁸ iu²",
+        "phonological_basis": "sɔ¹ upper level; hap⁸ lower entering; iu² lower level."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "soo-ha̍p-iû",
+        "moe_code": "05402",
+        "hanzi_standard": "蘇合油"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Pharmaceutical storax oil compound."
+      }
+    },
+    {
+      "entry_id": "DHS1104-01",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1104,
+        "page_folio": 1066,
+        "position_in_page": 1,
+        "bounding_box_hint": "row 01, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Vniforme en la voluntad / y camino o bondad[?]",
+        "source_H": "同氣",
+        "source_M": "tang⟨橫⟩ quy⟨∧交短支、c⟩ : L tong⟨橫⟩ qui⟨∧交短支、c⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Uniforme en la voluntad y camino o bondad",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "同氣；志趣同一（同心同德、氣脈相通）",
+        "en_disambiguated": "united in sentiment and spirit; sharing the same aim and moral intent",
+        "syntactic_notes": "「同氣」本指兄弟脈絡相親，引申志節道義合一。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "taŋ² kʰi³",
+        "phonological_basis": "taŋ² lower level; kʰi³ upper departing tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tâng-khì",
+        "moe_code": "03115",
+        "hanzi_standard": "同氣"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Idiomatic expression of shared kindred spirit."
+      }
+    },
+    {
+      "entry_id": "DHS1106-14",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1106,
+        "page_folio": 1068,
+        "position_in_page": 14,
+        "bounding_box_hint": "row 14, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "[空]",
+        "source_H": "猜",
+        "source_M": "chai⟨右斜、c⟩",
+        "source_R": "[音圈]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "adivinar, conjeturar",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "猜；猜想（忖度揣測、審度謎底）",
+        "en_disambiguated": "to guess; to conjecture; to solve a riddle",
+        "syntactic_notes": "底本西文缺漏，據西漢詞典猜度類目與羅馬字 chai 考定為「猜」。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰai¹",
+        "phonological_basis": "tsʰai¹ upper level tone, aspirate affricate tsʰ-."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tshai",
+        "moe_code": "04822",
+        "hanzi_standard": "猜"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Conjectural mental verb."
+      }
+    },
+    {
+      "entry_id": "DHS1107-04",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1107,
+        "page_folio": 1069,
+        "position_in_page": 4,
+        "bounding_box_hint": "row 04, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "voluntad y qualq̃ qualquier / cosa",
+        "source_H": "任心",
+        "source_M": "chay⟨∧交短支⟩ sim⟨右斜⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "voluntad y cualquier cosa",
+        "abbreviations_expanded": [
+          {
+            "abbr": "qualq̃",
+            "expansion": "qualq[uier]"
+          }
+        ],
+        "zh_disambiguated": "在心；隨心；憑任心意（悉聽尊意、任意為之）",
+        "en_disambiguated": "according to one's heart; at one's pleasure or discretion",
+        "syntactic_notes": "「在心（tsāi-sim）」為閩南口語任憑本心、隨心所欲之慣用語。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsai⁶ sim¹",
+        "phonological_basis": "tsai⁶ lower departing; sim¹ upper level tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsāi-sim",
+        "moe_code": "02195",
+        "hanzi_standard": "任心"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Colloquial permissive psychological phrase."
+      }
+    },
+    {
+      "entry_id": "1110.06",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1110,
+        "page_folio": 1072,
+        "position_in_page": 6,
+        "bounding_box_hint": "row 06, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Vsso. [參見符] costumbre / acostumbrar",
+        "source_H": "[空]",
+        "source_M": "[淡筆] cuan⟨∧?⟩ [lit?；後字跡淡，未定]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Uso, vide costumbre, acostumbrar",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "慣例；習慣（依從舊習規矩之常行作法）",
+        "en_disambiguated": "customary practice; routine custom; usage",
+        "syntactic_notes": "底本漢欄空白，羅馬字作 cuan lit，考校定補為「慣例」。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "kuan³ le⁶",
+        "phonological_basis": "kuan³ upper departing; le⁶ lower departing tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "kuàn-lē",
+        "moe_code": "06121",
+        "hanzi_standard": "慣例"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-2",
+        "definition": "Near synonym / register or stylistic differentiation",
+        "rationale": "Customary norm reconstructed from cuan lit."
+      }
+    },
+    {
+      "entry_id": "1110.07",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1110,
+        "page_folio": 1072,
+        "position_in_page": 7,
+        "bounding_box_hint": "row 07, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Vssurero: [參見符] logrero",
+        "source_H": "[空]",
+        "source_M": "[淡筆兩行] chio⟨濃墨難判⟩ loña⟨橫⟩ chi⟨n?⟩ lang⟨橫⟩ [末字覆墨未定] / sou⟨橫⟩ chi⟨n、橫?⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Usurero, vide logrero",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "稱錢人；放債牟利者（收取重利之高利貸商人）",
+        "en_disambiguated": "usurer; money-lender profiting from exorbitant interest",
+        "syntactic_notes": "西文指高利貸放款者，羅馬字記稱量折息取錢之人。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T01 (升斜)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰin³ tsi² laŋ²",
+        "phonological_basis": "tsʰin³ upper departing; tsi² nasal lower level; laŋ² lower level."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tshìn-tsînn-lâng",
+        "moe_code": "04833",
+        "hanzi_standard": "稱錢人"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-2",
+        "definition": "Near synonym / register or stylistic differentiation",
+        "rationale": "Occupational moneylender noun phrase reconstructed from romanization."
+      }
+    },
+    {
+      "entry_id": "1111.13",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1111,
+        "page_folio": 1073,
+        "position_in_page": 13,
+        "bounding_box_hint": "row 13, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "vuesa merced. q⟨on⟩. S[?].",
+        "source_H": "列位",
+        "source_M": "liet⟨v交短支⟩ vy⟨v⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "vuestra merced, que don señor",
+        "abbreviations_expanded": [
+          {
+            "abbr": "vuesa",
+            "expansion": "vuest[r]a"
+          },
+          {
+            "abbr": "q⟨on⟩.",
+            "expansion": "q[ue] [d]on"
+          }
+        ],
+        "zh_disambiguated": "列位；各位（敬稱座上在場諸位賓尊）",
+        "en_disambiguated": "your honors; all of you gentlemen; honored assembled company",
+        "syntactic_notes": "「列位」為閩南語對在場眾人之尊稱敬詞。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T07 (交叉入聲號)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "liat⁸ ui⁶",
+        "phonological_basis": "liat⁸ lower entering with -t; ui⁶ lower departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "lia̍t-uī",
+        "moe_code": "06822",
+        "hanzi_standard": "列位"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Honorific collective second-person address."
+      }
+    },
+    {
+      "entry_id": "1111.15",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1111,
+        "page_folio": 1073,
+        "position_in_page": 15,
+        "bounding_box_hint": "row 15, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Vuestro p⟨a⟩ alab⟨a⟩ cortesi[尾未定]",
+        "source_H": "令",
+        "source_M": "leng⟨v⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Vuestro para alabar cortesía",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p⟨a⟩",
+            "expansion": "p[ar]a"
+          },
+          {
+            "abbr": "alab⟨a⟩",
+            "expansion": "alaba[r]"
+          }
+        ],
+        "zh_disambiguated": "令；令尊令堂（敬稱對方眷屬親友之前綴美稱）",
+        "en_disambiguated": "your honored (polite honorific prefix for the counterpart's kin)",
+        "syntactic_notes": "敬稱他人眷屬前綴「令」，彰顯尊崇之禮節。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "liŋ⁶",
+        "phonological_basis": "liŋ⁶ lower departing tone, liquid l-."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "līng",
+        "moe_code": "06825",
+        "hanzi_standard": "令"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Polite kinship prefix."
+      }
+    },
+    {
+      "entry_id": "1112.14",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1112,
+        "page_folio": 1074,
+        "position_in_page": 14,
+        "bounding_box_hint": "row 14, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Xicamas",
+        "source_H": "葛",
+        "source_M": "cua⟨交支形⟩ ra⟨左斜⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Jícamas",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "葛仔；豆薯；涼薯（美洲引進之塊根清甜作物）",
+        "en_disambiguated": "jicama; yam bean tuber (introduced from New Spain / Mexico)",
+        "syntactic_notes": "美洲栽培作物 jícama 經由馬尼拉帆船傳入閩南，稱「葛仔」或「刈薯」。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06 (交叉入聲號)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "kuaʔ⁷ a³",
+        "phonological_basis": "kuaʔ⁷ glottal entering tone; a³ upper rising tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "kuah-á",
+        "moe_code": "05722",
+        "hanzi_standard": "葛"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Trans-Pacific botanical introduction loan."
+      }
+    },
+    {
+      "entry_id": "1114.12",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1114,
+        "page_folio": 1076,
+        "position_in_page": 12,
+        "bounding_box_hint": "row 12, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "ydolo sin cabello abogado / de ladrones q̃ son los q̃ t⟨?⟩ de china",
+        "source_H": "尪佛",
+        "source_M": "ang⟨右斜⟩ hut⟨v交短支⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "ídolo sin cabello abogado de ladrones que son los que tienen de China",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "尪佛；神佛偶像（閩南民間所供奉之神明像）",
+        "en_disambiguated": "bald idol patron of thieves; folk clay statue of deity",
+        "syntactic_notes": "「尪佛」為閩南民間對各類土偶神像神靈之通稱。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T07 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "aŋ¹ hut⁸",
+        "phonological_basis": "aŋ¹ upper level tone; hut⁸ lower entering tone with dental -t."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "ang-hu̍t",
+        "moe_code": "05634",
+        "hanzi_standard": "尪佛"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Folk religious clay statue compound."
+      }
+    },
+    {
+      "entry_id": "DHS1115-01",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1115,
+        "page_folio": 1077,
+        "position_in_page": 1,
+        "bounding_box_hint": "row 01, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "ydolo con cuernos q̃ fue ladron",
+        "source_H": "魁星",
+        "source_M": "cue⟨右斜、c⟩ seng⟨右斜⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "ídolo con cuernos que fue ladrón",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "魁星；魁斗星君（掌管文運科第之神明，像貌虯髯有角）",
+        "en_disambiguated": "Kuixing (the God of Examinations and Literature, depicted with demonic/horned features)",
+        "syntactic_notes": "魁星神像貌若鬼判突角，早期西人傳聞誤識為有角異神。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "kʰue¹ tsʰẽ¹",
+        "phonological_basis": "kʰue¹ upper level; tsʰẽ¹ nasalized upper level tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "khue-tshenn",
+        "moe_code": "05711",
+        "hanzi_standard": "魁星"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Daoist examination deity proper noun."
+      }
+    },
+    {
+      "entry_id": "DHS1115-04",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1115,
+        "page_folio": 1077,
+        "position_in_page": 4,
+        "bounding_box_hint": "row 04, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "ydolo muger q̃ adoran como a n⟨a?⟩ m⟨a?⟩",
+        "source_H": "觀音",
+        "source_M": "cuan⟨右斜⟩ im⟨右斜⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "ídolo mujer que adoran como a nuestra madre / virgen",
+        "abbreviations_expanded": [
+          {
+            "abbr": "n⟨a?⟩",
+            "expansion": "n[uestr]a"
+          },
+          {
+            "abbr": "m⟨a?⟩",
+            "expansion": "m[adre]"
+          }
+        ],
+        "zh_disambiguated": "觀音；觀世音菩薩（慈悲救苦之女性化身大士）",
+        "en_disambiguated": "Guanyin; Goddess of Mercy (revered by locals akin to the Virgin Mary)",
+        "syntactic_notes": "西班牙傳教士將華人所敬奉之慈悲觀音大士類比為聖母瑪利亞。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "kuan¹ im¹",
+        "phonological_basis": "kuan¹ and im¹ both in upper level tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "Kuan-im",
+        "moe_code": "05719",
+        "hanzi_standard": "觀音"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Buddhist Bodhisattva proper noun."
+      }
+    },
+    {
+      "entry_id": "DHS1115-14",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1115,
+        "page_folio": 1077,
+        "position_in_page": 14,
+        "bounding_box_hint": "row 14, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Yema de guebo, de la / nuez, dedo, &.",
+        "source_H": "仁",
+        "source_M": "nuy⟨弧形、v交短支?⟩ . Xin⟨橫⟩",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Yema de huevo, de la nuez, dedo, etcétera",
+        "abbreviations_expanded": [
+          {
+            "abbr": "&.",
+            "expansion": "etc[etera]"
+          }
+        ],
+        "zh_disambiguated": "仁；核仁；蛋黃核心（果核肉或蛋黃之核心精質）",
+        "en_disambiguated": "kernel; seed core; yolk of an egg",
+        "syntactic_notes": "「仁」兼通果仁與卵黃之內核本體。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "dzin²",
+        "phonological_basis": "dzin² lower level tone, voiced fricative initial dz-."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "jîn",
+        "moe_code": "03788",
+        "hanzi_standard": "仁"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Core kernel biological noun."
+      }
+    }
+  ]
+}

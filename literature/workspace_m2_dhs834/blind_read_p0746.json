@@ -1,0 +1,378 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 746,
+  "historical_folio": 712,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0746/pdf_0746_300dpi.png",
+  "page_header": "P. ante.",
+  "page_footer_printed": "- 712 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "(padre) -",
+      "source_H": "爹",
+      "source_M": "tiâ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(padre) -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tia³",
+        "tai_lo_standard": "tià",
+        "phonological_basis": "17c Dominican orthography conversion: tiâ (爹) -> tia³ / tià."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "padre de muchos hijos",
+      "source_H": "興",
+      "source_M": "hīn acncuntar.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "padre de muchos hijos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hin⁵ acncuntar¹",
+        "tai_lo_standard": "hîn-acncuntar",
+        "phonological_basis": "17c Dominican orthography conversion: hīn (興) -> hin⁵ / hîn; acncuntar (?) -> acncuntar¹ / acncuntar."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "padre muerto -",
+      "source_H": "考",
+      "source_M": "cò",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "padre muerto -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko²",
+        "tai_lo_standard": "kó",
+        "phonological_basis": "17c Dominican orthography conversion: cò (考) -> ko² / kó."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "padre muerto -",
+      "source_H": "祖考",
+      "source_M": "chòu cò",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "padre muerto -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsou² ko²",
+        "tai_lo_standard": "tsóu-kó",
+        "phonological_basis": "17c Dominican orthography conversion: chòu (祖) -> tsou² / tsóu; cò (考) -> ko² / kó."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "p. y m. criância s. 8.",
+      "source_H": "引",
+      "source_M": "ìn.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "p. y m. criância s. 8.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "in²",
+        "tai_lo_standard": "ín",
+        "phonological_basis": "17c Dominican orthography conversion: ìn (引) -> in² / ín."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "p. y m. criância s. 8.",
+      "source_H": "引爹",
+      "source_M": "ìn tiâ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "p. y m. criância s. 8.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "in² tia³",
+        "tai_lo_standard": "ín-tià",
+        "phonological_basis": "17c Dominican orthography conversion: ìn (引) -> in² / ín; tiâ (爹) -> tia³ / tià."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "padre de Mandarin.",
+      "source_H": "太老",
+      "source_M": "tây lāū lô",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "padre de Mandarin.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰai³ lau⁵ lo³",
+        "tai_lo_standard": "thài-lâu-lò",
+        "phonological_basis": "17c Dominican orthography conversion: tây (太) -> tʰai³ / thài; lāū (老) -> lau⁵ / lâu; lô (?) -> lo³ / lò."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "padre adoptivo.",
+      "source_H": "養父",
+      "source_M": "iā̃ng pē̃",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "padre adoptivo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ĩãŋ⁵ pẽ⁵",
+        "tai_lo_standard": "iâng-pênn",
+        "phonological_basis": "17c Dominican orthography conversion: iā̃ng (養) -> ĩãŋ⁵ / iâng; pē̃ (父) -> pẽ⁵ / pênn."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "padre p̃. y m̃. yparience",
+      "source_H": "手足",
+      "source_M": "siū chiôg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "padre p̃. y m̃. yparience",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siu⁵ tsiok⁷",
+        "tai_lo_standard": "siû-tsiok",
+        "phonological_basis": "17c Dominican orthography conversion: siū (手) -> siu⁵ / siû; chiôg (足) -> tsiok⁷ / tsiok."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "padre p̃. y m̃. y parientes",
+      "source_H": "双親",
+      "source_M": "siōng chīn: siāngchin.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "padre p̃. y m̃. y parientes",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sioŋ⁵ tsʰin⁵ siangchin⁶",
+        "tai_lo_standard": "siông-tshîn-siāngchin",
+        "phonological_basis": "17c Dominican orthography conversion: siōng (双) -> sioŋ⁵ / siông; chīn (親) -> tsʰin⁵ / tshîn; siāngchin (?) -> siangchin⁶ / siāngchin."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Padrino.",
+      "source_H": "契父",
+      "source_M": "guēy pē̃",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Padrino.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guei⁵ pẽ⁵",
+        "tai_lo_standard": "guêi-pênn",
+        "phonological_basis": "17c Dominican orthography conversion: guēy (契) -> guei⁵ / guêi; pē̃ (父) -> pẽ⁵ / pênn."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Padron, o compadro nar~",
+      "source_H": "報名",
+      "source_M": "pô mēa.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Padron, o compadro nar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "po³ mea⁵",
+        "tai_lo_standard": "pò-meâ",
+        "phonological_basis": "17c Dominican orthography conversion: pô (報) -> po³ / pò; mēa (名) -> mea⁵ / meâ."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Pagar.",
+      "source_H": "選仕 [疑:選仕/還伊]",
+      "source_M": "heng ī: hūan ī: gong.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Pagar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "heŋ⁵ i⁵ huan⁶ i⁶ gɔŋ¹",
+        "tai_lo_standard": "hêng-î-huān-ī-gong",
+        "phonological_basis": "17c Dominican orthography conversion: heng (選) -> heŋ⁵ / hêng; ī (仕) -> i⁵ / î; hūan (?) -> huan⁶ / huān; ī (?) -> i⁶ / ī; gong (?) -> gɔŋ¹ / gong."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "pagar ~ Aguita la vida auno, o otra cossa",
+      "source_H": "僧",
+      "source_M": "chiâng. [残] sān xīn chiāng mià.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar ~ Aguita la vida auno, o otra cossa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiaŋ³ san⁶ dzin⁶ tsiaŋ⁶ mia²",
+        "tai_lo_standard": "tsiàng-sān-jīn-tsiāng-miá",
+        "phonological_basis": "17c Dominican orthography conversion: chiâng (僧) -> tsiaŋ³ / tsiàng; sān (?) -> san⁶ / sān; xīn (?) -> dzin⁶ / jīn; chiāng (?) -> tsiaŋ⁶ / tsiāng; mià (?) -> mia² / miá."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "pagar el beneficio ~",
+      "source_H": "伴",
+      "source_M": "pōã hūan pōã",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar el beneficio ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "põã⁵ huan⁶ põã⁶",
+        "tai_lo_standard": "poânn-huān-poānn",
+        "phonological_basis": "17c Dominican orthography conversion: pōã (伴) -> põã⁵ / poânn; hūan (?) -> huan⁶ / huān; pōã (?) -> põã⁶ / poānn."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "pagar por Dtos, o por fiança ~",
+      "source_H": "賠",
+      "source_M": "puē",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar por Dtos, o por fiança ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pue⁵",
+        "tai_lo_standard": "puê",
+        "phonological_basis": "17c Dominican orthography conversion: puē (賠) -> pue⁵ / puê."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "pagar poco a poco ~",
+      "source_H": "賸 [疑:賸/賖還]",
+      "source_M": "sē hūan",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar poco a poco ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "se⁵ huan⁶",
+        "tai_lo_standard": "sê-huān",
+        "phonological_basis": "17c Dominican orthography conversion: sē (賸) -> se⁵ / sê; hūan (?) -> huan⁶ / huān."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "pagar con la vida",
+      "source_H": "選 [疑:選/還]",
+      "source_M": "hūan",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar con la vida",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan⁵",
+        "tai_lo_standard": "huân",
+        "phonological_basis": "17c Dominican orthography conversion: hūan (選) -> huan⁵ / huân."
+      }
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 404,
+  "historical_folio": 370,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0404/pdf_0404_300dpi.png",
+  "page_header": "D. ante. O.",
+  "page_footer_printed": "- 370 -",
+  "page_footer_handwritten": "185",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "dor mirle de cansado, anda se caiendo",
+      "source_H": "困 氣",
+      "source_M": "cuin quy",
+      "source_R": "cuin qui",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dor mirle de cansado, anda se caiendo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuin² kʰi²",
+        "tai_lo_standard": "kuín-khí",
+        "phonological_basis": "17c Dominican orthography conversion: cuin (困) -> kuin² / kuín; quy (氣) -> kʰi² / khí."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "dor mir el marido, y la muger",
+      "source_H": "行 房",
+      "source_M": "guia pang",
+      "source_R": "kieng pang",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dor mir el marido, y la muger",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guia³ paŋ³",
+        "tai_lo_standard": "guià-pàng",
+        "phonological_basis": "17c Dominican orthography conversion: guia (行) -> guia³ / guià; pang (房) -> paŋ³ / pàng."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "dor mir der echo",
+      "source_H": "張 死",
+      "source_M": "tio go",
+      "source_R": "chiang si",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dor mir der echo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tio² go²",
+        "tai_lo_standard": "tió-gó",
+        "phonological_basis": "17c Dominican orthography conversion: tio (張) -> tio² / tió; go (死) -> go² / gó."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "dor mitar . sonar.",
+      "source_H": "夢 寐",
+      "source_M": "bong go",
+      "source_R": "mong mi",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dor mitar . sonar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bɔŋ² go³",
+        "tai_lo_standard": "bóng-gò",
+        "phonological_basis": "17c Dominican orthography conversion: bong (夢) -> bɔŋ² / bóng; go (寐) -> go³ / gò."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "dor mirar.",
+      "source_H": "眠 遍[疑:遍/邊]",
+      "source_M": "bin py",
+      "source_R": "mien pien",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dor mirar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bin³ pi¹",
+        "tai_lo_standard": "bìn-pi",
+        "phonological_basis": "17c Dominican orthography conversion: bin (眠) -> bin³ / bìn; py (遍) -> pi¹ / pi."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "dor mitar, medio dormido y medio dispierto",
+      "source_H": "半 困 半 醒",
+      "source_M": "poa cun poa che",
+      "source_R": "puan cun puan feng",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dor mitar, medio dormido y medio dispierto",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "poa¹ kun⁵ poa¹ tse⁵",
+        "tai_lo_standard": "poa-kûn-poa-tsê",
+        "phonological_basis": "17c Dominican orthography conversion: poa (半) -> poa¹ / poa; cun (困) -> kun⁵ / kûn; poa (半) -> poa¹ / poa; che (醒) -> tse⁵ / tsê."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "dor mirar, aun no avenido el sueño.",
+      "source_H": "未 落 眠",
+      "source_M": "bue lo bin",
+      "source_R": "buey lo mien",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dor mirar, aun no avenido el sueño.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue² lo⁵ bin¹",
+        "tai_lo_standard": "bué-lô-bin",
+        "phonological_basis": "17c Dominican orthography conversion: bue (未) -> bue² / bué; lo (落) -> lo⁵ / lô; bin (眠) -> bin¹ / bin."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "dormitar.",
+      "source_H": "寤 寐",
+      "source_M": "goi gy",
+      "source_R": "gu mui",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dormitar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "goi⁵ gi³",
+        "tai_lo_standard": "gôi-gì",
+        "phonological_basis": "17c Dominican orthography conversion: goi (寤) -> goi⁵ / gôi; gy (寐) -> gi³ / gì."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Dormitorio",
+      "source_H": "臥 房",
+      "source_M": "go pang",
+      "source_R": "ngo fang",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dormitorio",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "go² paŋ⁵",
+        "tai_lo_standard": "gó-pâng",
+        "phonological_basis": "17c Dominican orthography conversion: go (臥) -> go² / gó; pang (房) -> paŋ⁵ / pâng."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Dos.",
+      "source_H": "二",
+      "source_M": "no",
+      "source_R": "iu",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "no¹",
+        "tai_lo_standard": "no",
+        "phonological_basis": "17c Dominican orthography conversion: no (二) -> no¹ / no."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "dos juntos.",
+      "source_H": "皆",
+      "source_M": "cay",
+      "source_R": "guiay",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dos juntos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kai¹",
+        "tai_lo_standard": "kai",
+        "phonological_basis": "17c Dominican orthography conversion: cay (皆) -> kai¹ / kai."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "dos horas poco mas.",
+      "source_H": "更",
+      "source_M": "gueng, i. gio",
+      "source_R": "gueng",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dos horas poco mas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gueŋ¹ i⁶ gio¹",
+        "tai_lo_standard": "gueng-ī-gio",
+        "phonological_basis": "17c Dominican orthography conversion: gueng (更) -> gueŋ¹ / gueng; i (?) -> i⁶ / ī; gio (?) -> gio¹ / gio."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "dos para contar por orden, el primero, el segundo &",
+      "source_H": "二",
+      "source_M": "xy",
+      "source_R": "ill",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dos para contar por orden, el primero, el segundo &",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzi¹",
+        "tai_lo_standard": "ji",
+        "phonological_basis": "17c Dominican orthography conversion: xy (二) -> dzi¹ / ji."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "dos, a las dos de media noche.",
+      "source_H": "丑",
+      "source_M": "Tiu",
+      "source_R": "chiu",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dos, a las dos de media noche.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiu²",
+        "tai_lo_standard": "tiú",
+        "phonological_basis": "17c Dominican orthography conversion: Tiu (丑) -> tiu² / tiú."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "dos de medio dia",
+      "source_H": "未",
+      "source_M": "Boy. eumiodia",
+      "source_R": "buey",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dos de medio dia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "boi³",
+        "tai_lo_standard": "bòi",
+        "phonological_basis": "17c Dominican orthography conversion: Boy (未) -> boi³ / bòi."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "dos diferencias de hombres.",
+      "source_H": "二 起 人",
+      "source_M": "no guy lãng",
+      "source_R": "ill gui xin",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dos diferencias de hombres.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "no² gui² lãŋ¹",
+        "tai_lo_standard": "nó-guí-lang",
+        "phonological_basis": "17c Dominican orthography conversion: no (二) -> no² / nó; guy (起) -> gui² / guí; lãng (人) -> lãŋ¹ / lang."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "dos cabezas en una almohada.",
+      "source_H": "枕[疑:枕/抳] 邊[疑:邊/遍] 話",
+      "source_M": "chin py oa",
+      "source_R": "chin gien hua",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dos cabezas en una almohada.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin¹ pi³ oa¹",
+        "tai_lo_standard": "tsin-pì-oa",
+        "phonological_basis": "17c Dominican orthography conversion: chin (枕) -> tsin¹ / tsin; py (邊) -> pi³ / pì; oa (話) -> oa¹ / oa."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "dos colores.",
+      "source_H": "双[疑:雙] 樣 色",
+      "source_M": "siang yo seg",
+      "source_R": "zoang yang se",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dos colores.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siaŋ⁵ io⁵ sek⁷",
+        "tai_lo_standard": "siâng-iô-sek",
+        "phonological_basis": "17c Dominican orthography conversion: siang (双) -> siaŋ⁵ / siâng; yo (樣) -> io⁵ / iô; seg (色) -> sek⁷ / sek."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "dos pies y dos manos.",
+      "source_H": "四 体",
+      "source_M": "su gey",
+      "source_R": "zu ty",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dos pies y dos manos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su¹ gei²",
+        "tai_lo_standard": "su-géi",
+        "phonological_basis": "17c Dominican orthography conversion: su (四) -> su¹ / su; gey (体) -> gei² / géi."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "dos pies y dos manos",
+      "source_H": "四 肢",
+      "source_M": "su chy",
+      "source_R": "zu chy",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dos pies y dos manos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su¹ tsi¹",
+        "tai_lo_standard": "su-tsi",
+        "phonological_basis": "17c Dominican orthography conversion: su (四) -> su¹ / su; chy (肢) -> tsi¹ / tsi."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "dos medios de una partida",
+      "source_H": "半 片",
+      "source_M": "poa peng",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dos medios de una partida",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "poa⁵ peŋ⁵",
+        "tai_lo_standard": "poâ-pêng",
+        "phonological_basis": "17c Dominican orthography conversion: poa (半) -> poa⁵ / poâ; peng (片) -> peŋ⁵ / pêng."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "dos veces",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dos veces",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 320,
+  "historical_folio": 291,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0320/pdf_0320_300dpi.png",
+  "page_header": "C. ante. R.",
+  "page_footer_printed": "- 291 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "criados de palacio.",
+      "source_H": "宮 婢",
+      "source_M": "quiong pi",
+      "source_R": "cong goy",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criados de palacio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kioŋ¹ pi²",
+        "tai_lo_standard": "kiong-pí",
+        "phonological_basis": "17c Dominican orthography conversion: quiong (宮) -> kioŋ¹ / kiong; pi (婢) -> pi² / pí."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "criados de palacio, las demas del Rey.",
+      "source_H": "宮 女",
+      "source_M": "quiong lu",
+      "source_R": "cong ny",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criados de palacio, las demas del Rey.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kioŋ¹ lu²",
+        "tai_lo_standard": "kiong-lú",
+        "phonological_basis": "17c Dominican orthography conversion: quiong (宮) -> kioŋ¹ / kiong; lu (女) -> lu² / lú."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Crica mulieris.",
+      "source_H": "之 之心 [疑:前二字难确证]",
+      "source_M": "chy bay sim.",
+      "source_R": "chii hao vay kon",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Crica mulieris.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi¹ bai⁵ sim¹",
+        "tai_lo_standard": "tsi-bâi-sim",
+        "phonological_basis": "17c Dominican orthography conversion: chy (之) -> tsi¹ / tsi; bay (之) -> bai⁵ / bâi; sim (心) -> sim¹ / sim."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Crisol, crisolar.",
+      "source_H": "碎 削 [疑:碎/砲]",
+      "source_M": "cue siag",
+      "source_R": "co sio",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Crisol, crisolar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kue² siak⁷",
+        "tai_lo_standard": "kué-siak",
+        "phonological_basis": "17c Dominican orthography conversion: cue (碎) -> kue² / kué; siag (削) -> siak⁷ / siak."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "crisol.",
+      "source_H": "碎 仔",
+      "source_M": "cue ia,",
+      "source_R": "co chag",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "crisol.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kue² ia²",
+        "tai_lo_standard": "kué-iá",
+        "phonological_basis": "17c Dominican orthography conversion: cue (碎) -> kue² / kué; ia (仔) -> ia² / iá."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "crisolar, pasar la plata.",
+      "source_H": "紋 銀",
+      "source_M": "bin gin.",
+      "source_R": "vin xin.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "crisolar, pasar la plata.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bin⁵ gin⁵",
+        "tai_lo_standard": "bîn-gîn",
+        "phonological_basis": "17c Dominican orthography conversion: bin (紋) -> bin⁵ / bîn; gin (銀) -> gin⁵ / gîn."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "crisolar la plata.",
+      "source_H": "鏨 銀 [疑:鏨/鐕]",
+      "source_M": "cho gin.",
+      "source_R": "chan xin.",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "crisolar la plata.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso¹ gin⁵",
+        "tai_lo_standard": "tso-gîn",
+        "phonological_basis": "17c Dominican orthography conversion: cho (鏨) -> tso¹ / tso; gin (銀) -> gin⁵ / gîn."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Cristal.",
+      "source_H": "水 晶",
+      "source_M": "chui chy",
+      "source_R": "zui cheng",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cristal.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui² tsi¹",
+        "tai_lo_standard": "tsuí-tsi",
+        "phonological_basis": "17c Dominican orthography conversion: chui (水) -> tsui² / tsuí; chy (晶) -> tsi¹ / tsi."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "cristal.",
+      "source_H": "水 晶 石 [疑:石/后]",
+      "source_M": "chui chy chio.",
+      "source_R": "zui cheng dy [疑:dy/sy]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cristal.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui² tsi¹ tsio³",
+        "tai_lo_standard": "tsuí-tsi-tsiò",
+        "phonological_basis": "17c Dominican orthography conversion: chui (水) -> tsui² / tsuí; chy (晶) -> tsi¹ / tsi; chio (石) -> tsio³ / tsiò."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Crudo, no cocido, ni maduro.",
+      "source_H": "腥",
+      "source_M": "chẽ",
+      "source_R": "gchi. jeng",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Crudo, no cocido, ni maduro.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsẽ¹",
+        "tai_lo_standard": "tsenn",
+        "phonological_basis": "17c Dominican orthography conversion: chẽ (腥) -> tsẽ¹ / tsenn."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Cruel, injusto.",
+      "source_H": "残",
+      "source_M": "chan lim qua",
+      "source_R": "chang",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cruel, injusto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsan⁵ lim¹ ka¹",
+        "tai_lo_standard": "tsân-lim-ka",
+        "phonological_basis": "17c Dominican orthography conversion: chan (残) -> tsan⁵ / tsân; lim (?) -> lim¹ / lim; qua (?) -> ka¹ / ka."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "cruel, injusto.",
+      "source_H": "酷",
+      "source_M": "cog cog bag",
+      "source_R": "co",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cruel, injusto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔk⁷ kɔk⁷ bak⁷",
+        "tai_lo_standard": "kok-kok-bak",
+        "phonological_basis": "17c Dominican orthography conversion: cog (酷) -> kɔk⁷ / kok; cog (?) -> kɔk⁷ / kok; bag (?) -> bak⁷ / bak."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "cruel. soberano [疑:soberano/roburno]",
+      "source_H": "残 忍",
+      "source_M": "chan xim",
+      "source_R": "chan xin.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cruel. soberano",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsan⁵ dzim²",
+        "tai_lo_standard": "tsân-jím",
+        "phonological_basis": "17c Dominican orthography conversion: chan (残) -> tsan⁵ / tsân; xim (忍) -> dzim² / jím."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "cruel injusto.",
+      "source_H": "酷 毒",
+      "source_M": "cog bag [疑:bag/tog]",
+      "source_R": "co to.",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cruel injusto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔk⁷ bak⁸ bak⁷ tɔk⁷",
+        "tai_lo_standard": "kok-ba̍k-bak-tok",
+        "phonological_basis": "17c Dominican orthography conversion: cog (酷) -> kɔk⁷ / kok; bag (毒) -> bak⁸ / ba̍k; bag (?) -> bak⁷ / bak; tog (?) -> tɔk⁷ / tok."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "cruel.",
+      "source_H": "残 心",
+      "source_M": "chan sim",
+      "source_R": "chan sim.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cruel.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsan⁵ sim⁵",
+        "tai_lo_standard": "tsân-sîm",
+        "phonological_basis": "17c Dominican orthography conversion: chan (残) -> tsan⁵ / tsân; sim (心) -> sim⁵ / sîm."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "cruel.",
+      "source_H": "残 心 肝",
+      "source_M": "chan sim coa",
+      "source_R": "chan sim can",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cruel.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsan⁵ sim⁵ koa⁵",
+        "tai_lo_standard": "tsân-sîm-koâ",
+        "phonological_basis": "17c Dominican orthography conversion: chan (残) -> tsan⁵ / tsân; sim (心) -> sim⁵ / sîm; coa (肝) -> koa⁵ / koâ."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "cruel en hacer mal.",
+      "source_H": "利 害",
+      "source_M": "li hay",
+      "source_R": "li hay",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cruel en hacer mal.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "li⁵ hai⁵",
+        "tai_lo_standard": "lî-hâi",
+        "phonological_basis": "17c Dominican orthography conversion: li (利) -> li⁵ / lî; hay (害) -> hai⁵ / hâi."
+      }
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 656,
+  "historical_folio": 622,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0656/pdf_0656_300dpi.png",
+  "page_header": "ante",
+  "page_footer_printed": "- 622 -",
+  "page_footer_handwritten": "Lo8 / 311",
+  "total_positions_recorded": 21,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "mediodia, o en-emediodia ~ [疑:antemediodia]",
+      "source_H": "日 小 午",
+      "source_M": "xit sio tau.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mediodia, o en-emediodia ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzit⁸ sioʔ⁷ tau¹",
+        "tai_lo_standard": "ji̍t-sioh-tau",
+        "phonological_basis": "17c Dominican orthography conversion: xit (日) -> dzit⁸ / ji̍t; sio (小) -> sioʔ⁷ / sioh; tau (午) -> tau¹ / tau."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Medir, medida.",
+      "source_H": "量",
+      "source_M": "nio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Medir, medida.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "nio²",
+        "tai_lo_standard": "nió",
+        "phonological_basis": "17c Dominican orthography conversion: nio (量) -> nio² / nió."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "medir medida ~",
+      "source_H": "管",
+      "source_M": "cuy:",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "medir medida ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kui²",
+        "tai_lo_standard": "kuí",
+        "phonological_basis": "17c Dominican orthography conversion: cuy (管) -> kui² / kuí."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "medir, medida ~",
+      "source_H": "推",
+      "source_M": "thuy:",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "medir, medida ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰui²",
+        "tai_lo_standard": "thuí",
+        "phonological_basis": "17c Dominican orthography conversion: thuy (推) -> tʰui² / thuí."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "medir, me didas",
+      "source_H": "准",
+      "source_M": "chun.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "medir, me didas",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsun²",
+        "tai_lo_standard": "tsún",
+        "phonological_basis": "17c Dominican orthography conversion: chun (准) -> tsun² / tsún."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "medir, ponderar.",
+      "source_H": "度",
+      "source_M": "tōu tòg ponderar",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "medir, ponderar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tou⁵ tɔk⁷ ponderar¹",
+        "tai_lo_standard": "tôu-tok-ponderar",
+        "phonological_basis": "17c Dominican orthography conversion: tōu (度) -> tou⁵ / tôu; tòg (?) -> tɔk⁷ / tok; ponderar (?) -> ponderar¹ / ponderar."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "medir, ajustar con travosa ~ tomar las medida ~",
+      "source_H": "比",
+      "source_M": "bỳ. comparar.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "medir, ajustar con travosa ~ tomar las medida ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bi²",
+        "tai_lo_standard": "bí",
+        "phonological_basis": "17c Dominican orthography conversion: b (比) -> bi² / bí."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "medir un braça, obara.",
+      "source_H": "辨",
+      "source_M": "pan.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "medir un braça, obara.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pan²",
+        "tai_lo_standard": "pán",
+        "phonological_basis": "17c Dominican orthography conversion: pan (辨) -> pan² / pán."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "medir con braça obara.",
+      "source_H": "掃 [疑:摻]",
+      "source_M": "siām.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "medir con braça obara.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siam⁵",
+        "tai_lo_standard": "siâm",
+        "phonological_basis": "17c Dominican orthography conversion: siām (掃) -> siam⁵ / siâm."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Medida ~",
+      "source_H": "度",
+      "source_M": "tou",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Medida ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tou²",
+        "tai_lo_standard": "tóu",
+        "phonological_basis": "17c Dominican orthography conversion: tou (度) -> tou² / tóu."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Medida de mas de 10. palmos.",
+      "source_H": "丈",
+      "source_M": "fung.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Medida de mas de 10. palmos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fuŋ¹",
+        "tai_lo_standard": "fung",
+        "phonological_basis": "17c Dominican orthography conversion: fung (丈) -> fuŋ¹ / fung."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "medida de una pulgada.",
+      "source_H": "寸",
+      "source_M": "chun chay chū̃ chit chō.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "medida de una pulgada.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰun¹ tsai¹ tsũ⁶ tsit⁷ tso⁶",
+        "tai_lo_standard": "tshun-tsai-tsūnn-tsit-tsō",
+        "phonological_basis": "17c Dominican orthography conversion: chun (寸) -> tsʰun¹ / tshun; chay (?) -> tsai¹ / tsai; chū̃ (?) -> tsũ⁶ / tsūnn; chit (?) -> tsit⁷ / tsit; chō (?) -> tso⁶ / tsō."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "medidas de 2 oras denoche.",
+      "source_H": "更",
+      "source_M": "guang: guẽ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "medidas de 2 oras denoche.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guaŋ² gũẽ⁶",
+        "tai_lo_standard": "guáng-guēnn",
+        "phonological_basis": "17c Dominican orthography conversion: guang (更) -> guaŋ² / guáng; guẽ (?) -> gũẽ⁶ / guēnn."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "medida pequeña.",
+      "source_H": "官",
+      "source_M": "guan: cuy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "medida pequeña.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guan² kui⁶",
+        "tai_lo_standard": "guán-kuī",
+        "phonological_basis": "17c Dominican orthography conversion: guan (官) -> guan² / guán; cuy (?) -> kui⁶ / kuī."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "medida de 10. gastos [疑:cantej].",
+      "source_H": "官 斗",
+      "source_M": "ua tau.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "medida de 10. gastos .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ua² tau¹",
+        "tai_lo_standard": "uá-tau",
+        "phonological_basis": "17c Dominican orthography conversion: ua (官) -> ua² / uá; tau (斗) -> tau¹ / tau."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "medida de sementera ~",
+      "source_H": "頃",
+      "source_M": "queeng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "medida de sementera ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "keeŋ²",
+        "tai_lo_standard": "kéeng",
+        "phonological_basis": "17c Dominican orthography conversion: queeng (頃) -> keeŋ² / kéeng."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "medidas las fuerzas.",
+      "source_H": "量 力",
+      "source_M": "liang leg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "medidas las fuerzas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liaŋ² lek⁸",
+        "tai_lo_standard": "liáng-le̍k",
+        "phonological_basis": "17c Dominican orthography conversion: liang (量) -> liaŋ² / liáng; leg (力) -> lek⁸ / le̍k."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "medir y santear lo que entra y sale ~",
+      "source_H": "量 入 而 出",
+      "source_M": "liang xip ay chur",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "medir y santear lo que entra y sale ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liaŋ² dzip⁸ ai¹ tsʰur¹",
+        "tai_lo_standard": "liáng-ji̍p-ai-tshur",
+        "phonological_basis": "17c Dominican orthography conversion: liang (量) -> liaŋ² / liáng; xip (入) -> dzip⁸ / ji̍p; ay (而) -> ai¹ / ai; chur (出) -> tsʰur¹ / tshur."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "medida entera y no falta.",
+      "source_H": "老 頭",
+      "source_M": "lo tau.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "medida entera y no falta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lo² tʰau¹",
+        "tai_lo_standard": "ló-thau",
+        "phonological_basis": "17c Dominican orthography conversion: lo (老) -> lo² / ló; tau (頭) -> tʰau¹ / thau."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "medida compuesta ~",
+      "source_H": "排 比",
+      "source_M": "pay py.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "medida compuesta ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pai⁵ pi²",
+        "tai_lo_standard": "pâi-pí",
+        "phonological_basis": "17c Dominican orthography conversion: pay (排) -> pai⁵ / pâi; py (比) -> pi² / pí."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "medida como cimientos ~",
+      "source_H": "陽 着 好",
+      "source_M": "gie cua ho.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "medida como cimientos ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gie³ kua³ ho³",
+        "tai_lo_standard": "giè-kuà-hò",
+        "phonological_basis": "17c Dominican orthography conversion: gie (陽) -> gie³ / giè; cua (着) -> kua³ / kuà; ho (好) -> ho³ / hò."
+      }
+    }
+  ]
+}

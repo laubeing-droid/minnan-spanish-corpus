@@ -1,0 +1,388 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 579,
+  "historical_folio": 545,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0579/pdf_0579_300dpi.png",
+  "page_header": "H. ante. U.",
+  "page_footer_printed": "- 545 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "huir estando se~",
+      "source_H": "走[疑:迌/近]去",
+      "source_M": "chaù quỹ cú",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir estando se~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsau² kʰi¹ ku¹",
+        "tai_lo_standard": "tsáu-khi-ku",
+        "phonological_basis": "17c Dominican orthography conversion: chaù (走) -> tsau² / tsáu; qu (去) -> kʰi¹ / khi; cú (?) -> ku¹ / ku."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "huir",
+      "source_H": "十[疑:正/疋]",
+      "source_M": "sip pit",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sip⁸ pit⁷",
+        "tai_lo_standard": "si̍p-pit",
+        "phonological_basis": "17c Dominican orthography conversion: sip (十) -> sip⁸ / si̍p; pit (?) -> pit⁷ / pit."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "huir el cuer pv a qualquiera~",
+      "source_H": "逃閃",
+      "source_M": "hō siām",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir el cuer pv a qualquiera~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho² siam⁵",
+        "tai_lo_standard": "hó-siâm",
+        "phonological_basis": "17c Dominican orthography conversion: hō (逃) -> ho² / hó; siām (閃) -> siam⁵ / siâm."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "huir el cuer pv a el trabaxo &~",
+      "source_H": "走閃",
+      "source_M": "chaù siam",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir el cuer pv a el trabaxo &~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsau² siam¹",
+        "tai_lo_standard": "tsáu-siam",
+        "phonological_basis": "17c Dominican orthography conversion: chaù (走) -> tsau² / tsáu; siam (閃) -> siam¹ / siam."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "huir el cuer pv~",
+      "source_H": "閃開",
+      "source_M": "siam cuĩ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir el cuer pv~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siam¹ kʰũĩ¹",
+        "tai_lo_standard": "siam-khuinn",
+        "phonological_basis": "17c Dominican orthography conversion: siam (閃) -> siam¹ / siam; cuĩ (開) -> kʰũĩ¹ / khuinn."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "huir el cuier pv &~",
+      "source_H": "閃僻",
+      "source_M": "siam pia ᶜ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir el cuier pv &~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siam¹ pʰia¹",
+        "tai_lo_standard": "siam-phia",
+        "phonological_basis": "17c Dominican orthography conversion: siam (閃) -> siam¹ / siam; pia (僻) -> pʰia¹ / phia."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "huir presto ⁿimp e huiu~",
+      "source_H": "相[疑:乙/之]走",
+      "source_M": "siang siang chaù",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir presto ⁿimp e huiu~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siaŋ¹ siaŋ¹ tsau²",
+        "tai_lo_standard": "siang-siang-tsáu",
+        "phonological_basis": "17c Dominican orthography conversion: siang (相) -> siaŋ¹ / siang; siang (走) -> siaŋ¹ / siang; chaù (?) -> tsau² / tsáu."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "huir p̂ esconder se~",
+      "source_H": "逃竄",
+      "source_M": "hō choān ᶜ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir p̂ esconder se~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho⁵ tsoan⁵",
+        "tai_lo_standard": "hô-tsoân",
+        "phonological_basis": "17c Dominican orthography conversion: hō (逃) -> ho⁵ / hô; choān (竄) -> tsoan⁵ / tsoân."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "huir p̂ esconder se~",
+      "source_H": "逃避",
+      "source_M": "hō pȳ ᶜ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir p̂ esconder se~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho⁵ pi⁵",
+        "tai_lo_standard": "hô-pî",
+        "phonological_basis": "17c Dominican orthography conversion: hō (逃) -> ho⁵ / hô; p (避) -> pi⁵ / pî."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "huir p̂ esconder se~",
+      "source_H": "逃走去",
+      "source_M": "hō chaù cu ᶜ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir p̂ esconder se~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho⁵ tsau² kʰu¹",
+        "tai_lo_standard": "hô-tsáu-khu",
+        "phonological_basis": "17c Dominican orthography conversion: hō (逃) -> ho⁵ / hô; chaù (走) -> tsau² / tsáu; cu (去) -> kʰu¹ / khu."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "huir p̂ esconder se~",
+      "source_H": "逃去[疑:珆/班]",
+      "source_M": "hō cū siam ᶜ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir p̂ esconder se~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho⁵ kʰu⁵ siam¹",
+        "tai_lo_standard": "hô-khû-siam",
+        "phonological_basis": "17c Dominican orthography conversion: hō (逃) -> ho⁵ / hô; cū (去) -> kʰu⁵ / khû; siam (?) -> siam¹ / siam."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "huir p̂ esconder se~",
+      "source_H": "逃僻",
+      "source_M": "hō pia ᶜ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir p̂ esconder se~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho⁵ pʰia¹",
+        "tai_lo_standard": "hô-phia",
+        "phonological_basis": "17c Dominican orthography conversion: hō (逃) -> ho⁵ / hô; pia (僻) -> pʰia¹ / phia."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "huir engañando vtal ga que- rer pretender, y se escapar",
+      "source_H": "縭[疑:縭/繼]脚走",
+      "source_M": "hva ca chaū ᶜ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir engañando vtal ga que- rer pretender, y se escapar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hva¹ ka¹ tsau⁵",
+        "tai_lo_standard": "hva-ka-tsâu",
+        "phonological_basis": "17c Dominican orthography conversion: hva (縭) -> hva¹ / hva; ca (脚) -> ka¹ / ka; chaū (走) -> tsau⁵ / tsâu."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "huir, esca bulirse~",
+      "source_H": "脱離",
+      "source_M": "hvã hŷ ᶜ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir, esca bulirse~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hvã³ hi¹",
+        "tai_lo_standard": "hvànn-hi",
+        "phonological_basis": "17c Dominican orthography conversion: hvã (脱) -> hvã³ / hvànn; h (離) -> hi¹ / hi."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "huir, esca bullirse~",
+      "source_H": "脱走",
+      "source_M": "hvã chaù ᶜ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir, esca bullirse~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hvã² tsau²",
+        "tai_lo_standard": "hvánn-tsáu",
+        "phonological_basis": "17c Dominican orthography conversion: hvã (脱) -> hvã² / hvánn; chaù (走) -> tsau² / tsáu."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "huir, esca bullirse-",
+      "source_H": "脱身",
+      "source_M": "hvã sín ᶜ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir, esca bullirse-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hvã¹ sin¹",
+        "tai_lo_standard": "hvann-sin",
+        "phonological_basis": "17c Dominican orthography conversion: hvã (脱) -> hvã¹ / hvann; sín (身) -> sin¹ / sin."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "huir, escabullirse-",
+      "source_H": "脱手",
+      "source_M": "hvã chiù ᶜ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir, escabullirse-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hvã² tsiu²",
+        "tai_lo_standard": "hvánn-tsiú",
+        "phonological_basis": "17c Dominican orthography conversion: hvã (脱) -> hvã² / hvánn; chiù (手) -> tsiu² / tsiú."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "huir, escabullirse~",
+      "source_H": "脱身行",
+      "source_M": "hvã sín guiã",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir, escabullirse~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hvã¹ sin¹ gũĩã¹",
+        "tai_lo_standard": "hvann-sin-guiann",
+        "phonological_basis": "17c Dominican orthography conversion: hvã (脱) -> hvã¹ / hvann; sín (身) -> sin¹ / sin; guiã (行) -> gũĩã¹ / guiann."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "huir de secres~",
+      "source_H": "私奔",
+      "source_M": "sū puēn ᶜ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huir de secres~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su⁵ puen⁵",
+        "tai_lo_standard": "sû-puên",
+        "phonological_basis": "17c Dominican orthography conversion: sū (私) -> su⁵ / sû; puēn (奔) -> puen⁵ / puên."
+      }
+    }
+  ]
+}

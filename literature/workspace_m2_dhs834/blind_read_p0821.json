@@ -1,0 +1,355 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 821,
+  "historical_folio": 783,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0821/pdf_0821_300dpi.png",
+  "page_header": "ante.",
+  "page_footer_printed": "- 783 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "podrido como palo ~",
+      "source_H": "朽",
+      "source_M": "hiù noã",
+      "source_R": "lam' noaⁿ.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "podrido como palo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hiu² nõã¹",
+        "tai_lo_standard": "hiú-noann",
+        "phonological_basis": "17c Dominican orthography conversion: hiù (朽) -> hiu² / hiú; noã (?) -> nõã¹ / noann."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "podrido medio podrido -",
+      "source_H": "餒 [疑:餒/餧]",
+      "source_M": "luè..",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "podrido medio podrido -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lue²",
+        "tai_lo_standard": "lué",
+        "phonological_basis": "17c Dominican orthography conversion: luè (餒) -> lue² / lué."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "podrido .",
+      "source_H": "朽爛",
+      "source_M": "hiù noã.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "podrido .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hiu² nõã¹",
+        "tai_lo_standard": "hiú-noann",
+        "phonological_basis": "17c Dominican orthography conversion: hiù (朽) -> hiu² / hiú; noã (爛) -> nõã¹ / noann."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "podrido -",
+      "source_H": "攬爛 [疑:攬/欖]",
+      "source_M": "lam noã",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "podrido -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lam¹ nõã²",
+        "tai_lo_standard": "lam-noánn",
+        "phonological_basis": "17c Dominican orthography conversion: lam (攬) -> lam¹ / lam; noã (爛) -> nõã² / noánn."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "podrido echado a perder -",
+      "source_H": "朽敗",
+      "source_M": "hiù pāy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "podrido echado a perder -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hiu² pai⁵",
+        "tai_lo_standard": "hiú-pâi",
+        "phonological_basis": "17c Dominican orthography conversion: hiù (朽) -> hiu² / hiú; pāy (敗) -> pai⁵ / pâi."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "podrido modo medianamente",
+      "source_H": "惡薌 [疑:薌/馨]",
+      "source_M": "áu pang.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "podrido modo medianamente",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "au¹ paŋ³",
+        "tai_lo_standard": "au-pàng",
+        "phonological_basis": "17c Dominican orthography conversion: áu (惡) -> au¹ / au; pang (薌) -> paŋ³ / pàng."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Podri[疑:r/x]se garrapentire.",
+      "source_H": "潰",
+      "source_M": "huê ,",
+      "source_R": "h⁓ing",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Podrise garrapentire.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hue³",
+        "tai_lo_standard": "huè",
+        "phonological_basis": "17c Dominican orthography conversion: huê (潰) -> hue³ / huè."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Poesia",
+      "source_H": "詩",
+      "source_M": "sy ´",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Poesia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si¹",
+        "tai_lo_standard": "si",
+        "phonological_basis": "17c Dominican orthography conversion: sy (詩) -> si¹ / si."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "poesia, y hacella -",
+      "source_H": "咏",
+      "source_M": "eng hacella.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poesia, y hacella -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "eŋ² hacella¹",
+        "tai_lo_standard": "éng-hacella",
+        "phonological_basis": "17c Dominican orthography conversion: eng (咏) -> eŋ² / éng; hacella (?) -> hacella¹ / hacella."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "poesia y hacella \\",
+      "source_H": "吟咏",
+      "source_M": "gim eng ioy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poesia y hacella \\",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gim⁵ eŋ² ioi¹",
+        "tai_lo_standard": "gîm-éng-ioi",
+        "phonological_basis": "17c Dominican orthography conversion: gim (吟) -> gim⁵ / gîm; eng (咏) -> eŋ² / éng; ioy (?) -> ioi¹ / ioi."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Poeta ..",
+      "source_H": "詩翁",
+      "source_M": "sy ang..",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Poeta ..",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si¹ aŋ¹",
+        "tai_lo_standard": "si-ang",
+        "phonological_basis": "17c Dominican orthography conversion: sy (詩) -> si¹ / si; ang (翁) -> aŋ¹ / ang."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "poesia en la banca de algunos ~",
+      "source_H": "贈詩",
+      "source_M": "cheng sy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poesia en la banca de algunos ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ² si¹",
+        "tai_lo_standard": "tséng-si",
+        "phonological_basis": "17c Dominican orthography conversion: cheng (贈) -> tseŋ² / tséng; sy (詩) -> si¹ / si."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Policia y criancia - costumbre.",
+      "source_H": "礼",
+      "source_M": "ley +",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Policia y criancia - costumbre.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lei¹",
+        "tai_lo_standard": "lei",
+        "phonological_basis": "17c Dominican orthography conversion: ley (礼) -> lei¹ / lei."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Polilla .",
+      "source_H": "註",
+      "source_M": "chû.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Polilla .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu³",
+        "tai_lo_standard": "tsù",
+        "phonological_basis": "17c Dominican orthography conversion: chû (註) -> tsu³ / tsù."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "polilla ~",
+      "source_H": "註絲",
+      "source_M": "chû sy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "polilla ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu³ si¹",
+        "tai_lo_standard": "tsù-si",
+        "phonological_basis": "17c Dominican orthography conversion: chû (註) -> tsu³ / tsù; sy (絲) -> si¹ / si."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "polilla ~",
+      "source_H": "註虫",
+      "source_M": "chû tang.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "polilla ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu³ taŋ⁵",
+        "tai_lo_standard": "tsù-tâng",
+        "phonological_basis": "17c Dominican orthography conversion: chû (註) -> tsu³ / tsù; tang (虫) -> taŋ⁵ / tâng."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Polla .",
+      "source_H": "雞雞 [疑:雞/卵]",
+      "source_M": "quey noã.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Polla .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kei¹ nõã¹",
+        "tai_lo_standard": "kei-noann",
+        "phonological_basis": "17c Dominican orthography conversion: quey (雞) -> kei¹ / kei; noã (雞) -> nõã¹ / noann."
+      }
+    }
+  ]
+}

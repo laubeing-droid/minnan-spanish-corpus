@@ -1,0 +1,417 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 198,
+  "historical_folio": 169,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0198/pdf_0198_300dpi.png",
+  "page_header": "C. ante. A.",
+  "page_footer_printed": "- 169 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "caballo de carga.",
+      "source_H": "夫 馬",
+      "source_M": "hú bè",
+      "source_R": "hùn mà",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "caballo de carga.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu¹ be²",
+        "tai_lo_standard": "hu-bé",
+        "phonological_basis": "17c Dominican orthography conversion: hú (夫) -> hu¹ / hu; bè (馬) -> be² / bé."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "caballo de posta.",
+      "source_H": "驛 馬",
+      "source_M": "yâ bè de posta.",
+      "source_R": "síg mà",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "caballo de posta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ia³ be² de¹ posta¹",
+        "tai_lo_standard": "ià-bé-de-posta",
+        "phonological_basis": "17c Dominican orthography conversion: yâ (驛) -> ia³ / ià; bè (馬) -> be² / bé; de (?) -> de¹ / de; posta (?) -> posta¹ / posta."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Caban",
+      "source_H": "斗",
+      "source_M": "taù",
+      "source_R": "teù",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Caban",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tau²",
+        "tai_lo_standard": "táu",
+        "phonological_basis": "17c Dominican orthography conversion: taù (斗) -> tau² / táu."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "caban.",
+      "source_H": "官 斗",
+      "source_M": "cuā taù",
+      "source_R": "cuān teù",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "caban.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kua⁵ tau²",
+        "tai_lo_standard": "kuâ-táu",
+        "phonological_basis": "17c Dominican orthography conversion: cuā (官) -> kua⁵ / kuâ; taù (斗) -> tau² / táu."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Cabaña",
+      "source_H": "寮",
+      "source_M": "liāu: [残]",
+      "source_R": "liào",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cabaña",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liau⁵",
+        "tai_lo_standard": "liâu",
+        "phonological_basis": "17c Dominican orthography conversion: liāu (寮) -> liau⁵ / liâu."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "cabaña Casta de ganad.s [疑:ganad.s/ganados]",
+      "source_H": "茅 芦",
+      "source_M": "bāu lū.",
+      "source_R": "maùn lù",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabaña Casta de ganad.s",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bau⁵ lu⁵",
+        "tai_lo_standard": "bâu-lû",
+        "phonological_basis": "17c Dominican orthography conversion: bāu (茅) -> bau⁵ / bâu; lū (芦) -> lu⁵ / lû."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Cabár. arar.",
+      "source_H": "犁 挖[疑:挖/挩]",
+      "source_M": "lēy chic",
+      "source_R": "lî",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cabár. arar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lei⁵ tsik⁷",
+        "tai_lo_standard": "lêi-tsik",
+        "phonological_basis": "17c Dominican orthography conversion: lēy (犁) -> lei⁵ / lêi; chic (挖) -> tsik⁷ / tsik."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "cabar.",
+      "source_H": "犁 挖[疑:挖/挩] 空",
+      "source_M": "lēy càng.",
+      "source_R": "lî cōng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lei⁵ kaŋ²",
+        "tai_lo_standard": "lêi-káng",
+        "phonological_basis": "17c Dominican orthography conversion: lēy (犁) -> lei⁵ / lêi; càng (挖) -> kaŋ² / káng."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "cabar.",
+      "source_H": "犁 挖[疑:挖/挩] 堀",
+      "source_M": "lēy cuì.",
+      "source_R": "lî cuit",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lei⁵ kui²",
+        "tai_lo_standard": "lêi-kuí",
+        "phonological_basis": "17c Dominican orthography conversion: lēy (犁) -> lei⁵ / lêi; cuì (挖) -> kui² / kuí."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "cabar la simentera.",
+      "source_H": "耕",
+      "source_M": "guēng: simentera.",
+      "source_R": "guěng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabar la simentera.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gueŋ⁵ simentera¹",
+        "tai_lo_standard": "guêng-simentera",
+        "phonological_basis": "17c Dominican orthography conversion: guēng (耕) -> gueŋ⁵ / guêng; simentera (?) -> simentera¹ / simentera."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "cabar la simentera.",
+      "source_H": "耕 作",
+      "source_M": "guēng chòj: gòj.",
+      "source_R": "guěng chô",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabar la simentera.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gueŋ⁵ tsoj² goj²",
+        "tai_lo_standard": "guêng-tsój-gój",
+        "phonological_basis": "17c Dominican orthography conversion: guēng (耕) -> gueŋ⁵ / guêng; chòj (作) -> tsoj² / tsój; gòj (?) -> goj² / gój."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "cabar con a cadau [疑:cadau/azadon]",
+      "source_H": "掘",
+      "source_M": "cuì: cabar con a cadau.",
+      "source_R": "cūrt",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabar con a cadau",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kui² kabar¹ kon¹ a¹ kadau¹",
+        "tai_lo_standard": "kuí-kabar-kon-a-kadau",
+        "phonological_basis": "17c Dominican orthography conversion: cuì (掘) -> kui² / kuí; cabar (?) -> kabar¹ / kabar; con (?) -> kon¹ / kon; a (?) -> a¹ / a; cadau (?) -> kadau¹ / kadau."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "cabar hacer hoyo.",
+      "source_H": "掘 開",
+      "source_M": "cuì cuì: hauer oio.",
+      "source_R": "cūit cuì",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabar hacer hoyo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kui² kʰui² hauer¹ oio¹",
+        "tai_lo_standard": "kuí-khuí-hauer-oio",
+        "phonological_basis": "17c Dominican orthography conversion: cuì (掘) -> kui² / kuí; cuì (開) -> kʰui² / khuí; hauer (?) -> hauer¹ / hauer; oio (?) -> oio¹ / oio."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "cabar hauer oio. [疑:hauer/hacer]",
+      "source_H": "掘 土",
+      "source_M": "cuì fū.",
+      "source_R": "cūrt fū",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabar hauer oio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kui² fu⁵",
+        "tai_lo_standard": "kuí-fû",
+        "phonological_basis": "17c Dominican orthography conversion: cuì (掘) -> kui² / kuí; fū (土) -> fu⁵ / fû."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "cabar.",
+      "source_H": "掘 堀",
+      "source_M": "cuì cuì: i dy",
+      "source_R": "cūrt cūrt",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kui² kʰui² i¹ di¹",
+        "tai_lo_standard": "kuí-khuí-i-di",
+        "phonological_basis": "17c Dominican orthography conversion: cuì (掘) -> kui² / kuí; cuì (堀) -> kʰui² / khuí; i (?) -> i¹ / i; dy (?) -> di¹ / di."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "cabar, trabajar.",
+      "source_H": "作 息",
+      "source_M": "chô sît.",
+      "source_R": "chô sè",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabar, trabajar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso³ sit⁷",
+        "tai_lo_standard": "tsò-sit",
+        "phonological_basis": "17c Dominican orthography conversion: chô (作) -> tso³ / tsò; sît (息) -> sit⁷ / sit."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "cabar vt los animales la tierra.",
+      "source_H": "椅 應",
+      "source_M": "güā ēng.",
+      "source_R": "yì ēng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabar vt los animales la tierra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gi⁵ a³ eŋ⁶",
+        "tai_lo_standard": "gî-à-ēng",
+        "phonological_basis": "17c Dominican orthography conversion: g (椅) -> gi⁵ / gî; ā (應) -> a³ / à; ēng (?) -> eŋ⁶ / ēng."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Cabeca.",
+      "source_H": "頭",
+      "source_M": "taū: dy",
+      "source_R": "cabel. [塗改] teù",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cabeca.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰau⁵ di¹",
+        "tai_lo_standard": "thâu-di",
+        "phonological_basis": "17c Dominican orthography conversion: taū (頭) -> tʰau⁵ / thâu; dy (?) -> di¹ / di."
+      }
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 475,
+  "historical_folio": 441,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0475/pdf_0475_300dpi.png",
+  "page_header": "E. ante. S.",
+  "page_footer_printed": "- 441 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Estrella.",
+      "source_H": "星",
+      "source_M": "chē: seng chu chē sengsin suy siû",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Estrella.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse⁵ seŋ¹ tsu³ tse⁶ sengsin⁶ sui¹ siu³",
+        "tai_lo_standard": "tsê-seng-tsù-tsē-sēngsin-sui-siù",
+        "phonological_basis": "17c Dominican orthography conversion: chē (星) -> tse⁵ / tsê; seng (?) -> seŋ¹ / seng; chu (?) -> tsu³ / tsù; chē (?) -> tse⁶ / tsē; sengsin (?) -> sengsin⁶ / sēngsin; suy (?) -> sui¹ / sui; siû (?) -> siu³ / siù."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "estrella del lucero.",
+      "source_H": "昴",
+      "source_M": "baù",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "estrella del lucero.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bau²",
+        "tai_lo_standard": "báu",
+        "phonological_basis": "17c Dominican orthography conversion: baù (昴) -> bau² / báu."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "estrella del lucero.",
+      "source_H": "昴宿.",
+      "source_M": "bàu siû",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "estrella del lucero.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bau² siu³",
+        "tai_lo_standard": "báu-siù",
+        "phonological_basis": "17c Dominican orthography conversion: bàu (昴) -> bau² / báu; siû (宿) -> siu³ / siù."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "estrella erratica.",
+      "source_H": "飛星",
+      "source_M": "pué chē",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "estrella erratica.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pue¹ tse⁵",
+        "tai_lo_standard": "pue-tsê",
+        "phonological_basis": "17c Dominican orthography conversion: pué (飛) -> pue¹ / pue; chē (星) -> tse⁵ / tsê."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "estrella de mala influencia.",
+      "source_H": "流孛星",
+      "source_M": "liû pur chē",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "estrella de mala influencia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liu³ purʔ⁷ tse⁵",
+        "tai_lo_standard": "liù-purh-tsê",
+        "phonological_basis": "17c Dominican orthography conversion: liû (流) -> liu³ / liù; pur (孛) -> purʔ⁷ / purh; chē (星) -> tse⁵ / tsê."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "estrella de mala influencia",
+      "source_H": "孛星",
+      "source_M": "pur chē",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "estrella de mala influencia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "purʔ⁷ tse⁵",
+        "tai_lo_standard": "purh-tsê",
+        "phonological_basis": "17c Dominican orthography conversion: pur (孛) -> purʔ⁷ / purh; chē (星) -> tse⁵ / tsê."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "estrella de mala influencia. dicenlo del mal enemigo:",
+      "source_H": "流孛",
+      "source_M": "liû pur pur chē",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "estrella de mala influencia. dicenlo del mal enemigo:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liu³ purʔ⁷ purʔ⁷ tse³",
+        "tai_lo_standard": "liù-purh-purh-tsè",
+        "phonological_basis": "17c Dominican orthography conversion: liû (流) -> liu³ / liù; pur (孛) -> purʔ⁷ / purh; pur (?) -> purʔ⁷ / purh; chē (?) -> tse³ / tsè."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "estrella buena, buen nacim̄to:",
+      "source_H": "八字好",
+      "source_M": "pe xy ho.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "estrella buena, buen nacim̄to:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "peʔ⁷ dzi¹ ho¹",
+        "tai_lo_standard": "peh-ji-ho",
+        "phonological_basis": "17c Dominican orthography conversion: pe (八) -> peʔ⁷ / peh; xy (字) -> dzi¹ / ji; ho (好) -> ho¹ / ho."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "estrella -",
+      "source_H": "朱星",
+      "source_M": "chū chē",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "estrella -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu⁵ tse⁵",
+        "tai_lo_standard": "tsû-tsê",
+        "phonological_basis": "17c Dominican orthography conversion: chū (朱) -> tsu⁵ / tsû; chē (星) -> tse⁵ / tsê."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "estrella -",
+      "source_H": "星辰",
+      "source_M": "Lēng sī̃",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "estrella -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "leŋ⁵ sĩ⁵",
+        "tai_lo_standard": "lêng-sînn",
+        "phonological_basis": "17c Dominican orthography conversion: Lēng (星) -> leŋ⁵ / lêng; sī̃ (辰) -> sĩ⁵ / sînn."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "estrella.",
+      "source_H": "星宿",
+      "source_M": "Lēng sīù",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "estrella.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "leŋ⁵ siu²",
+        "tai_lo_standard": "lêng-siú",
+        "phonological_basis": "17c Dominican orthography conversion: Lēng (星) -> leŋ⁵ / lêng; sīù (宿) -> siu² / siú."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "E,striuo de edificio. arigo [疑:arigo/avigo]",
+      "source_H": "柱",
+      "source_M": "tiāu chū [疑:tiāu/fiāu]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "E,striuo de edificio. arigo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiau⁵ tsu⁶ tiau⁶ fiau⁶",
+        "tai_lo_standard": "tiâu-tsū-tiāu-fiāu",
+        "phonological_basis": "17c Dominican orthography conversion: tiāu (柱) -> tiau⁵ / tiâu; chū (?) -> tsu⁶ / tsū; tiāu (?) -> tiau⁶ / tiāu; fiāu (?) -> fiau⁶ / fiāu."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "estriuo desilla.",
+      "source_H": "馬踏鐙",
+      "source_M": "Be tā tēng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "estriuo desilla.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "be¹ ta⁵ teŋ⁵",
+        "tai_lo_standard": "be-tâ-têng",
+        "phonological_basis": "17c Dominican orthography conversion: Be (馬) -> be¹ / be; tā (踏) -> ta⁵ / tâ; tēng (鐙) -> teŋ⁵ / têng."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "estriuo de silla.",
+      "source_H": "踏鐙",
+      "source_M": "tā tēng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "estriuo de silla.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ta⁵ teŋ⁵",
+        "tai_lo_standard": "tâ-têng",
+        "phonological_basis": "17c Dominican orthography conversion: tā (踏) -> ta⁵ / tâ; tēng (鐙) -> teŋ⁵ / têng."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "E.stropear. g. norat. [疑:norat/aorat]",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "E.stropear. g. norat.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "E.strupar la doncella",
+      "source_H": "奸情",
+      "source_M": "cañ chiẫ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "E.strupar la doncella",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kãn³ tsi¹",
+        "tai_lo_standard": "kàn-tsi",
+        "phonological_basis": "17c Dominican orthography conversion: cañ (奸) -> kãn³ / kàn; chi (情) -> tsi¹ / tsi."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "estrupar la doncella.",
+      "source_H": "開頭",
+      "source_M": "cuī thāu [疑:thāu/fāu]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "estrupar la doncella.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰui⁵ tʰau⁵ tʰau⁶ fau⁶",
+        "tai_lo_standard": "khuî-thâu-thāu-fāu",
+        "phonological_basis": "17c Dominican orthography conversion: cuī (開) -> kʰui⁵ / khuî; thāu (頭) -> tʰau⁵ / thâu; thāu (?) -> tʰau⁶ / thāu; fāu (?) -> fau⁶ / fāu."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "estruparala f. que eepus daen rambero — -",
+      "source_H": "梳朗",
+      "source_M": "sey lông",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "estruparala f. que eepus daen rambero — -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sei¹ lɔŋ³",
+        "tai_lo_standard": "sei-lòng",
+        "phonological_basis": "17c Dominican orthography conversion: sey (梳) -> sei¹ / sei; lông (朗) -> lɔŋ³ / lòng."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "E.Studente. [疑:Studente/Studiante]",
+      "source_H": "士",
+      "source_M": "su. su luy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "E.Studente.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su¹ su¹ lui³",
+        "tai_lo_standard": "su-su-luì",
+        "phonological_basis": "17c Dominican orthography conversion: su (士) -> su¹ / su; su (?) -> su¹ / su; luy (?) -> lui³ / luì."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "estudiante.",
+      "source_H": "讀冊人",
+      "source_M": "tag che lang / tag chē lang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "estudiante.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tak⁸ tsʰe³ laŋ³ tak⁷ tse⁶ laŋ¹",
+        "tai_lo_standard": "ta̍k-tshè-làng-tak-tsē-lang",
+        "phonological_basis": "17c Dominican orthography conversion: tag (讀) -> tak⁸ / ta̍k; che (冊) -> tsʰe³ / tshè; lang (人) -> laŋ³ / làng; tag (?) -> tak⁷ / tak; chē (?) -> tse⁶ / tsē; lang (?) -> laŋ¹ / lang."
+      }
+    }
+  ]
+}

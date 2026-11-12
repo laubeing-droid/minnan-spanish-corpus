@@ -1,0 +1,526 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 234,
+  "historical_folio": 205,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0234/pdf_0234_300dpi.png",
+  "page_header": "C. ante . H.",
+  "page_footer_printed": "- 205 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "casar se el p.qs. [残:词尾难辨]",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "casar se el p.qs.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": ". Casarse el Varon . he bou. (左栏小注: chū sīngmū [残])",
+      "source_H": "娶",
+      "source_M": "chu he chu chin : [残:其下有删涂字迹]",
+      "source_R": "chy.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": ". Casarse el Varon . he bou. (左栏小注: chū sīngmū )",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu⁵ he³ tsu³ tsin⁶",
+        "tai_lo_standard": "tsû-hè-tsù-tsīn",
+        "phonological_basis": "17c Dominican orthography conversion: chu (娶) -> tsu⁵ / tsû; he (?) -> he³ / hè; chu (?) -> tsu³ / tsù; chin (?) -> tsin⁶ / tsīn."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Casarse la mujer.",
+      "source_H": "嫁",
+      "source_M": "gue : ge chu : ge say.",
+      "source_R": "guina.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casarse la mujer.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue⁵ ge⁶ tsu⁶ ge⁶ sai¹",
+        "tai_lo_standard": "guê-gē-tsū-gē-sai",
+        "phonological_basis": "17c Dominican orthography conversion: gue (嫁) -> gue⁵ / guê; ge (?) -> ge⁶ / gē; chu (?) -> tsu⁶ / tsū; ge (?) -> ge⁶ / gē; say (?) -> sai¹ / sai."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Casamiento – hūy [残:后有上标小字不可辨].",
+      "source_H": "媒",
+      "source_M": "būe : m . [疑:ñ/in] Lāng coy.",
+      "source_R": "mūey.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casamiento – hūy .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue⁵ mi¹ nĩ⁶ in⁶ laŋ⁶ koi¹",
+        "tai_lo_standard": "buê-mi-nīnn-īn-lāng-koi",
+        "phonological_basis": "17c Dominican orthography conversion: būe (媒) -> bue⁵ / buê; m (?) -> mi¹ / mi; ñ (?) -> nĩ⁶ / nīnn; in (?) -> in⁶ / īn; Lāng (?) -> laŋ⁶ / lāng; coy (?) -> koi¹ / koi."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "casamiento – . (圈)",
+      "source_H": "冰人",
+      "source_M": "pēng xin.",
+      "source_R": "pēng xin.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "casamiento – . (圈)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "peŋ⁵ dzin⁵",
+        "tai_lo_standard": "pêng-jîn",
+        "phonological_basis": "17c Dominican orthography conversion: pēng (冰) -> peŋ⁵ / pêng; xin (人) -> dzin⁵ / jîn."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Casarse – .",
+      "source_H": "牽手",
+      "source_M": "can chiu.",
+      "source_R": "guien chin.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casarse – .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kan¹ tsiu¹",
+        "tai_lo_standard": "kan-tsiu",
+        "phonological_basis": "17c Dominican orthography conversion: can (牽) -> kan¹ / kan; chiu (手) -> tsiu¹ / tsiu."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "casarse el Varon . (圈)",
+      "source_H": "娶[疑:某/山]",
+      "source_M": "he bou. (圈)",
+      "source_R": "chy mon.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "casarse el Varon . (圈)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "he³ bou⁶",
+        "tai_lo_standard": "hè-bōu",
+        "phonological_basis": "17c Dominican orthography conversion: he (娶) -> he³ / hè; bou (?) -> bou⁶ / bōu."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "chu chin casarse el varon (首二字似有删涂, 词组带圈)",
+      "source_H": "娶親",
+      "source_M": "chu chin. (圈)",
+      "source_R": "chy chin.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "chu chin casarse el varon (首二字似有删涂, 词组带圈)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu⁵ tsʰin⁵",
+        "tai_lo_standard": "tsû-tshîn",
+        "phonological_basis": "17c Dominican orthography conversion: chu (娶) -> tsu⁵ / tsû; chin (親) -> tsʰin⁵ / tshîn."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "casarse el varon .",
+      "source_H": "娶媳婦",
+      "source_M": "hẽ sin pu.",
+      "source_R": "chy ie hu [疑:ie/ke].",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "casarse el varon .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hẽ⁵ sin⁵ pu¹",
+        "tai_lo_standard": "hênn-sîn-pu",
+        "phonological_basis": "17c Dominican orthography conversion: hẽ (娶) -> hẽ⁵ / hênn; sin (媳) -> sin⁵ / sîn; pu (婦) -> pu¹ / pu."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "casarse la mujer (圈)",
+      "source_H": "嫁出",
+      "source_M": "gue chun [疑:chun/chut]. (圈)",
+      "source_R": "guia chut [疑:chut/chuit].",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "casarse la mujer (圈)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue⁵ tsʰun⁵ tsun¹ tsut⁷",
+        "tai_lo_standard": "guê-tshûn-tsun-tsut",
+        "phonological_basis": "17c Dominican orthography conversion: gue (嫁) -> gue⁵ / guê; chun (出) -> tsʰun⁵ / tshûn; chun (?) -> tsun¹ / tsun; chut (?) -> tsut⁷ / tsut."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "casar dela mujer (圈)",
+      "source_H": "嫁婿",
+      "source_M": "gue Lay. (圈)",
+      "source_R": "guia by.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "casar dela mujer (圈)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue⁵ lai⁵",
+        "tai_lo_standard": "guê-lâi",
+        "phonological_basis": "17c Dominican orthography conversion: gue (嫁) -> gue⁵ / guê; Lay (婿) -> lai⁵ / lâi."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Casarse aespandidas [疑:aespandidas/aescondidas].",
+      "source_H": "暗相許",
+      "source_M": "am sio hu.",
+      "source_R": "angam siong hy [残].",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casarse aespandidas .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "am⁵ sio³ hu²",
+        "tai_lo_standard": "âm-siò-hú",
+        "phonological_basis": "17c Dominican orthography conversion: am (暗) -> am⁵ / âm; sio (相) -> sio³ / siò; hu (許) -> hu² / hú."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Casarse ala ueja.",
+      "source_H": "昵妻",
+      "source_M": "miy chey.",
+      "source_R": "ban chy.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casarse ala ueja.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mii⁵ tsʰei³",
+        "tai_lo_standard": "mîi-tshèi",
+        "phonological_basis": "17c Dominican orthography conversion: miy (昵) -> mii⁵ / mîi; chey (妻) -> tsʰei³ / tshèi."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "casar los p.es a su hija [疑:es/as 上标]",
+      "source_H": "嫁女子",
+      "source_M": "gue chau gia.",
+      "source_R": "guia nychü [残].",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "casar los p.es a su hija",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue⁵ tsau⁵ gia³",
+        "tai_lo_standard": "guê-tsâu-già",
+        "phonological_basis": "17c Dominican orthography conversion: gue (嫁) -> gue⁵ / guê; chau (女) -> tsau⁵ / tsâu; gia (子) -> gia³ / già."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "casar la hija viendo el yerno apu casa –",
+      "source_H": "進贅",
+      "source_M": "chin chue.",
+      "source_R": "chien chuy.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "casar la hija viendo el yerno apu casa –",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin⁵ tsue⁵",
+        "tai_lo_standard": "tsîn-tsuê",
+        "phonological_basis": "17c Dominican orthography conversion: chin (進) -> tsin⁵ / tsîn; chue (贅) -> tsue⁵ / tsuê."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "casarse la muger muerto el marido.",
+      "source_H": "改嫁",
+      "source_M": "guey gue.",
+      "source_R": "guiay guia.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "casarse la muger muerto el marido.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guei⁵ gue⁵",
+        "tai_lo_standard": "guêi-guê",
+        "phonological_basis": "17c Dominican orthography conversion: guey (改) -> guei⁵ / guêi; gue (嫁) -> gue⁵ / guê."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "casarse el biedos [疑:biedos/biedro] (圈)",
+      "source_H": "再[疑:再/冉]娶",
+      "source_M": "chay chu.",
+      "source_R": "chay chy.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "casarse el biedos (圈)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsai⁵ tsu⁵",
+        "tai_lo_standard": "tsâi-tsû",
+        "phonological_basis": "17c Dominican orthography conversion: chay (再) -> tsai⁵ / tsâi; chu (娶) -> tsu⁵ / tsû."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Casarse el biedos [疑:biedos/biedro] (框圈)",
+      "source_H": "續娶",
+      "source_M": "sio chu.",
+      "source_R": "zog chy.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casarse el biedos (框圈)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio³ tsu⁵",
+        "tai_lo_standard": "siò-tsû",
+        "phonological_basis": "17c Dominican orthography conversion: sio (續) -> sio³ / siò; chu (娶) -> tsu⁵ / tsû."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Casar segunda vez el Varon.",
+      "source_H": "娶後姐仔",
+      "source_M": "hẽ au chia ya.",
+      "source_R": "chy hen chie chay.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casar segunda vez el Varon.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hẽ² au² tsia² ia¹",
+        "tai_lo_standard": "hénn-áu-tsiá-ia",
+        "phonological_basis": "17c Dominican orthography conversion: hẽ (娶) -> hẽ² / hénn; au (後) -> au² / áu; chia (姐) -> tsia² / tsiá; ya (仔) -> ia¹ / ia."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Casarse dos con dos hermanas (her 后 nas 为上标补写).",
+      "source_H": "同襟",
+      "source_M": "tang quim.",
+      "source_R": "tong quin.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casarse dos con dos hermanas (her 后 nas 为上标补写).",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "taŋ⁵ kim⁵",
+        "tai_lo_standard": "tâng-kîm",
+        "phonological_basis": "17c Dominican orthography conversion: tang (同) -> taŋ⁵ / tâng; quim (襟) -> kim⁵ / kîm."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "Casose – .",
+      "source_H": "完親",
+      "source_M": "uan chin.",
+      "source_R": "guan chin.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casose – .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "uan⁵ tsʰin⁵",
+        "tai_lo_standard": "uân-tshîn",
+        "phonological_basis": "17c Dominican orthography conversion: uan (完) -> uan⁵ / uân; chin (親) -> tsʰin⁵ / tshîn."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "Casados. Juntarse [疑:Juntarse/Juritarse].",
+      "source_H": "做親",
+      "source_M": "cho pu.",
+      "source_R": "cho gan.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casados. Juntarse .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso³ pʰu⁵",
+        "tai_lo_standard": "tsò-phû",
+        "phonological_basis": "17c Dominican orthography conversion: cho (做) -> tso³ / tsò; pu (親) -> pʰu⁵ / phû."
+      }
+    }
+  ]
+}

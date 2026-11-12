@@ -1,0 +1,36 @@
+{
+  "pages": [
+    {
+      "pdf_page": 773,
+      "historical_folio": 735,
+      "page_header": "P. ante.",
+      "page_footer_printed": "- 735 -",
+      "page_footer_handwritten": "",
+      "notes": "页顶左侧花体大字为 P，中间 ante. 清晰，右端另有一花体字母（形似 A/Q/R）无法确证，未抄入 page_header。整页共 22 行；第 4 行（托通過）L 栏空、第 5 行（pasar desolpe ~）H/M 栏空；R 栏（官话）整页空。声调符在现有分辨率下几何形状难以逐一确证：leg 三行的小角形标按 T04 记，与 T02 降斜存在混淆风险；入聲行（tit/xit/tog/lap）按交叉号 T06/T07 记；第 7、18 行末音节的声调符悬于行线上方、形状难辨记 T99。存疑字母：第 3 行 M 首字母似 p（p/t 难分）；第 19、20 行 M 首音节为一带平横杠的字母，写为 tan./ty gou.（疑为遲 tī 之缩写式写法）；第 18 行 M 末音节抄 cu（疑 chu）；第 4 行 M 首词抄 tog（疑 thog，送气符号难辨）。汉字存疑照抄并附 [疑:A/B]。第 16 行西文 po co a poc o 疑为 poco a poco 的散置写法，照抄。第 17 行 m̄ 的平横杠按声调符 T05 计（亦可能属拼写的鼻化符号）。反复读图（三横带+三张放大图+整页，共 6 次）后仍有上述存疑，待人工校订。",
+      "entries": [
+        {"position": 1,  "source_L": "pasar el viento, o resuello", "source_H": "朝氣", "source_M": "tiān quy", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 2,  "source_L": "pasar la vida, puedese pasar", "source_H": "直過", "source_M": "tit cūe", "source_R": "[空]", "tone_marks_M": ["T06/T07 (交叉入聲號)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 3,  "source_L": "pasarla vida, puedese pasar.", "source_H": "渡日", "source_M": "poa xit.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T06/T07 (交叉入聲號)"], "tone_marks_R": []},
+        {"position": 4,  "source_L": "[空]", "source_H": "托通過", "source_M": "tog thong cue", "source_R": "[空]", "tone_marks_M": ["T06/T07 (交叉入聲號)", "T05 (平橫)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 5,  "source_L": "pasar desolpe ~", "source_H": "[空]", "source_M": "[空]", "source_R": "[空]", "tone_marks_M": [], "tone_marks_R": []},
+        {"position": 6,  "source_L": "pasar el libro leyendo de mano.", "source_H": "溫冊", "source_M": "vun chhe.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 7,  "source_L": "pasar la licion de memoria.", "source_H": "溫乞伊熟", "source_M": "vun quit yi seg.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)", "T05 (平橫)", "T02 (降斜)"], "tone_marks_R": []},
+        {"position": 8,  "source_L": "pasar por encima de algo ~", "source_H": "跌過去 [疑:跌/跋]", "source_M": "hua cue chu.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 9,  "source_L": "pasar el fuego ~", "source_H": "火焰過 [疑:焰/燄]", "source_M": "hue iam cue", "source_R": "[空]", "tone_marks_M": ["T02 (降斜)", "T05 (平橫)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 10, "source_L": "pasar por salto, pasar orden.", "source_H": "躐芋 [疑:芋/芧]", "source_M": "lap teng.", "source_R": "[空]", "tone_marks_M": ["T06/T07 (交叉入聲號)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 11, "source_L": "pasar edades ~", "source_H": "歷上 [疑:上/卜]", "source_M": "leg leg.", "source_R": "[空]", "tone_marks_M": ["T04 (凹角)", "T04 (凹角)"], "tone_marks_R": []},
+        {"position": 12, "source_L": "pasar edades, y mas edades ~", "source_H": "歷代", "source_M": "leg tay.", "source_R": "[空]", "tone_marks_M": ["T04 (凹角)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 13, "source_L": "pasar años y mas años.", "source_H": "歷年", "source_M": "leg ny.", "source_R": "[空]", "tone_marks_M": ["T04 (凹角)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 14, "source_L": "Pasarse la ocasion.", "source_H": "落后", "source_M": "lo au.", "source_R": "[空]", "tone_marks_M": ["T02 (降斜)", "T02 (降斜)"], "tone_marks_R": []},
+        {"position": 15, "source_L": "pasarse el tiempo del remedio.", "source_H": "過証", "source_M": "cue chin.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 16, "source_L": "pasarse los días po co a poc o.", "source_H": "漸渡日子", "source_M": "chiam toa xit chy.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)", "T06/T07 (交叉入聲號)", "T02 (降斜)"], "tone_marks_R": []},
+        {"position": 17, "source_L": "pasarse algo por algo no lo pre= venir ~", "source_H": "過頭", "source_M": "cue tau.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 18, "source_L": "pasarse algo por algo, no lo entender.", "source_H": "不知頭", "source_M": "m chay tau.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T01 (升斜)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 19, "source_L": "pasarse el papel ~", "source_H": "紙濡過去 [疑:濡/濕]", "source_M": "choa hu cue cu.", "source_R": "[空]", "tone_marks_M": ["T02 (降斜)", "T05 (平橫)", "T05 (平橫)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 20, "source_L": "pasarse el plazo ~", "source_H": "遲限", "source_M": "tan.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)"], "tone_marks_R": []},
+        {"position": 21, "source_L": "pa sarse el plazo.", "source_H": "遲誤", "source_M": "ty gou.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 22, "source_L": "Pasatiempo ~ j. hol= zar se, alegría, regalarse.", "source_H": "玩", "source_M": "Guan loy.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)"], "tone_marks_R": []}
+      ]
+    }
+  ]
+}

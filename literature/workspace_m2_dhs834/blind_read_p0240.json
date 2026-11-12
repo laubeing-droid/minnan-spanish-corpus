@@ -1,0 +1,412 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 240,
+  "historical_folio": 211,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0240/pdf_0240_300dpi.png",
+  "page_header": "C. ante. A.",
+  "page_footer_printed": "- 211 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Ca cate.",
+      "source_H": "草",
+      "source_M": "châū",
+      "source_R": "châin",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ca cate.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [
+          {
+            "term": "cate",
+            "hanzi": "斤",
+            "tai_lo": "kin / kun",
+            "zh_note": "中國與東南亞貿易衡制「斤」（Catty，十六兩為一斤）",
+            "en_note": "Catty weight unit (approx. 600g, 16 taels)"
+          }
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰau³",
+        "tai_lo_standard": "tshàu",
+        "phonological_basis": "17c Dominican orthography conversion: châū (草) -> tsʰau³ / tshàu."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "(Ca cate).",
+      "source_H": "草 木",
+      "source_M": "châū bo᷄.",
+      "source_R": "châin mō",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(Ca cate).",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [
+          {
+            "term": "cate",
+            "hanzi": "斤",
+            "tai_lo": "kin / kun",
+            "zh_note": "中國與東南亞貿易衡制「斤」（Catty，十六兩為一斤）",
+            "en_note": "Catty weight unit (approx. 600g, 16 taels)"
+          }
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰau³ bo¹",
+        "tai_lo_standard": "tshàu-bo",
+        "phonological_basis": "17c Dominican orthography conversion: châū (草) -> tsʰau³ / tshàu; bo (木) -> bo¹ / bo."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Ca catep casas.",
+      "source_H": "茅",
+      "source_M": "rnāū, bāū.",
+      "source_R": "mâin",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ca catep casas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "rnau⁵ bau⁶",
+        "tai_lo_standard": "rnâu-bāu",
+        "phonological_basis": "17c Dominican orthography conversion: rnāū (茅) -> rnau⁵ / rnâu; bāū (?) -> bau⁶ / bāu."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "(acate para casay).",
+      "source_H": "草 茅",
+      "source_M": "châū mau",
+      "source_R": "châin mâin",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(acate para casay).",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰau³ mau¹",
+        "tai_lo_standard": "tshàu-mau",
+        "phonological_basis": "17c Dominican orthography conversion: châū (草) -> tsʰau³ / tshàu; mau (茅) -> mau¹ / mau."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Calema, o penganas. mucho cabello y fulto en las obras:",
+      "source_H": "礼 多 人",
+      "source_M": "lèy pó xīn ià chē̃.",
+      "source_R": "lèy pó xîn",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Calema, o penganas. mucho cabello y fulto en las obras:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lei² po¹ dzin⁵ ia² tsẽ³",
+        "tai_lo_standard": "léi-po-jîn-iá-tsènn",
+        "phonological_basis": "17c Dominican orthography conversion: lèy (礼) -> lei² / léi; pó (多) -> po¹ / po; xīn (人) -> dzin⁵ / jîn; ià (?) -> ia² / iá; chē̃ (?) -> tsẽ³ / tsènn."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Canahoria.",
+      "source_H": "蘿",
+      "source_M": "lā",
+      "source_R": "lô",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Canahoria.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "la⁵",
+        "tai_lo_standard": "lâ",
+        "phonological_basis": "17c Dominican orthography conversion: lā (蘿) -> la⁵ / lâ."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "(canahoria).",
+      "source_H": "鑿[疑:鑿/鑒] 蘿 木",
+      "source_M": "hüān lā bo᷄",
+      "source_R": "chân lô᷄ mô",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(canahoria).",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi⁵ an⁵ la⁵ bo¹",
+        "tai_lo_standard": "hî-ân-lâ-bo",
+        "phonological_basis": "17c Dominican orthography conversion: h (鑿) -> hi⁵ / hî; ān (蘿) -> an⁵ / ân; lā (木) -> la⁵ / lâ; bo (?) -> bo¹ / bo."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Cancadilla.",
+      "source_H": "顛",
+      "source_M": "Tién.",
+      "source_R": "Tièn",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cancadilla.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tien¹",
+        "tai_lo_standard": "tien",
+        "phonological_basis": "17c Dominican orthography conversion: Tién (顛) -> tien¹ / tien."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "(cancadilla).",
+      "source_H": "顛 躡",
+      "source_M": "Tiēn cue.",
+      "source_R": "Tièn guē",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(cancadilla).",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tien⁵ kue¹",
+        "tai_lo_standard": "tiên-kue",
+        "phonological_basis": "17c Dominican orthography conversion: Tiēn (顛) -> tien⁵ / tiên; cue (躡) -> kue¹ / kue."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Cancajo.",
+      "source_H": "跟",
+      "source_M": "guín.",
+      "source_R": "guǐn",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cancajo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guin¹",
+        "tai_lo_standard": "guin",
+        "phonological_basis": "17c Dominican orthography conversion: guín (跟) -> guin¹ / guin."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "cancajos, esto es iracompa ñando aelamo, o᷉.",
+      "source_H": "跟 隨",
+      "source_M": "guīn tūy.",
+      "source_R": "guǐn zuêy",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cancajos, esto es iracompa ñando aelamo, o᷉.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guin⁵ tui⁵",
+        "tai_lo_standard": "guîn-tuî",
+        "phonological_basis": "17c Dominican orthography conversion: guīn (跟) -> guin⁵ / guîn; tūy (隨) -> tui⁵ / tuî."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Cancos.",
+      "source_H": "蹻",
+      "source_M": "guìau.",
+      "source_R": "guiāu",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cancos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guiau²",
+        "tai_lo_standard": "guiáu",
+        "phonological_basis": "17c Dominican orthography conversion: guìau (蹻) -> guiau² / guiáu."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "cancos.",
+      "source_H": "蹻 脚",
+      "source_M": "guìau [残]a.",
+      "source_R": "guiāu pio.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cancos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guiau² a¹",
+        "tai_lo_standard": "guiáu-a",
+        "phonological_basis": "17c Dominican orthography conversion: guìau (蹻) -> guiau² / guiáu; a (脚) -> a¹ / a."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Canja de agua estrecha:",
+      "source_H": "溝",
+      "source_M": "caú. cau hô᷄.",
+      "source_R": "guēn.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Canja de agua estrecha:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kau¹ kau¹ ho³",
+        "tai_lo_standard": "kau-kau-hò",
+        "phonological_basis": "17c Dominican orthography conversion: caú (溝) -> kau¹ / kau; cau (?) -> kau¹ / kau; hô (?) -> ho³ / hò."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "canja de agua grande",
+      "source_H": "河",
+      "source_M": "hō caú",
+      "source_R": "hô",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "canja de agua grande",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho⁵ kau¹",
+        "tai_lo_standard": "hô-kau",
+        "phonological_basis": "17c Dominican orthography conversion: hō (河) -> ho⁵ / hô; caú (?) -> kau¹ / kau."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "canja de agua.",
+      "source_H": "浚",
+      "source_M": "chûn.",
+      "source_R": "chūn.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "canja de agua.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsun³",
+        "tai_lo_standard": "tsùn",
+        "phonological_basis": "17c Dominican orthography conversion: chûn (浚) -> tsun³ / tsùn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Canja.",
+      "source_H": "溝 塹",
+      "source_M": "(caú hô᷄).",
+      "source_R": "guēn cō.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Canja.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kau¹ ho³",
+        "tai_lo_standard": "kau-hò",
+        "phonological_basis": "17c Dominican orthography conversion: caú (溝) -> kau¹ / kau; hô (塹) -> ho³ / hò."
+      }
+    }
+  ]
+}

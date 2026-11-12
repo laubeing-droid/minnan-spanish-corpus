@@ -1,0 +1,415 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 602,
+  "historical_folio": 568,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0602/pdf_0602_300dpi.png",
+  "page_header": "ante.",
+  "page_footer_printed": "- 568 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Leuadura~",
+      "source_H": "酵",
+      "source_M": "câ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Leuadura~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka³",
+        "tai_lo_standard": "kà",
+        "phonological_basis": "17c Dominican orthography conversion: câ (酵) -> ka³ / kà."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Leuadura",
+      "source_H": "正糄 [疑:糄/餅]",
+      "source_M": "chià căg",
+      "source_R": "mara g vino",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Leuadura",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsia² ki² gi¹",
+        "tai_lo_standard": "tsiá-kí-gi",
+        "phonological_basis": "17c Dominican orthography conversion: chià (正) -> tsia² / tsiá; c (糄) -> ki² / kí; g (?) -> gi¹ / gi."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "leuadura",
+      "source_H": "起酵",
+      "source_M": "gûy câ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "leuadura",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui³ ka³",
+        "tai_lo_standard": "guì-kà",
+        "phonological_basis": "17c Dominican orthography conversion: gûy (起) -> gui³ / guì; câ (酵) -> ka³ / kà."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "leuadura p̃ Bino",
+      "source_H": "糄 [疑:糄/麴]",
+      "source_M": "căg,",
+      "source_R": "q vino",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "leuadura p̃ Bino",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki² gi¹",
+        "tai_lo_standard": "kí-gi",
+        "phonological_basis": "17c Dominican orthography conversion: c (糄) -> ki² / kí; g (?) -> gi¹ / gi."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "leuadura p̃ Bino.",
+      "source_H": "白酒糄 [疑:糄/麴]",
+      "source_M": "pe chiu căg iof.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "leuadura p̃ Bino.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe¹ tsiu³ ki² gi¹ iof¹",
+        "tai_lo_standard": "pe-tsiù-kí-gi-iof",
+        "phonological_basis": "17c Dominican orthography conversion: pe (白) -> pe¹ / pe; chiu (酒) -> tsiu³ / tsiù; c (糄) -> ki² / kí; g (?) -> gi¹ / gi; iof (?) -> iof¹ / iof."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "leuadura p̃ tortillas~",
+      "source_H": "餅藥",
+      "source_M": "pia yǒ",
+      "source_R": "g a portillas",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "leuadura p̃ tortillas~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pia¹ io²",
+        "tai_lo_standard": "pia-ió",
+        "phonological_basis": "17c Dominican orthography conversion: pia (餅) -> pia¹ / pia; yǒ (藥) -> io² / ió."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "leuadura p̃ tamaiz",
+      "source_H": "餅藥覘 [疑:覘/起]",
+      "source_M": "pia yǒ gûy",
+      "source_R": "a tamaiz",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "leuadura p̃ tamaiz",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pia¹ io² gui³",
+        "tai_lo_standard": "pia-ió-guì",
+        "phonological_basis": "17c Dominican orthography conversion: pia (餅) -> pia¹ / pia; yǒ (藥) -> io² / ió; gûy (覘) -> gui³ / guì."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Leuantse el pan~",
+      "source_H": "麵發",
+      "source_M": "mÿ hues.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Leuantse el pan~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mi³ huesʔ⁷",
+        "tai_lo_standard": "mì-huesh",
+        "phonological_basis": "17c Dominican orthography conversion: m (麵) -> mi³ / mì; hues (發) -> huesʔ⁷ / huesh."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Leuantarse~",
+      "source_H": "起",
+      "source_M": "gûy, lûy",
+      "source_R": "lebanion g arriba vt langara.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Leuantarse~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui³ lui³",
+        "tai_lo_standard": "guì-luì",
+        "phonological_basis": "17c Dominican orthography conversion: gûy (起) -> gui³ / guì; lûy (?) -> lui³ / luì."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "leuantarse~",
+      "source_H": "立",
+      "source_M": "lip",
+      "source_R": "quia poner en pie.",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "leuantarse~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lip⁸",
+        "tai_lo_standard": "li̍p",
+        "phonological_basis": "17c Dominican orthography conversion: lip (立) -> lip⁸ / li̍p."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "leuantarse en pie.",
+      "source_H": "堅 [疑:堅/徛]",
+      "source_M": "guǐa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "leuantarse en pie.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guia²",
+        "tai_lo_standard": "guiá",
+        "phonological_basis": "17c Dominican orthography conversion: guǐa (堅) -> guia² / guiá."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "leuantar se.",
+      "source_H": "壘 [疑:壘/楞]",
+      "source_M": "lǔi",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "leuantar se.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lui²",
+        "tai_lo_standard": "luí",
+        "phonological_basis": "17c Dominican orthography conversion: lǔi (壘) -> lui² / luí."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "leuantar se, ser eminente entre lo damas~",
+      "source_H": "拔萃",
+      "source_M": "puah chǔi",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "leuantar se, ser eminente entre lo damas~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "puaʔ⁸ tsui²",
+        "tai_lo_standard": "pua̍h-tsuí",
+        "phonological_basis": "17c Dominican orthography conversion: puah (拔) -> puaʔ⁸ / pua̍h; chǔi (萃) -> tsui² / tsuí."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "leuantar la cabeça mirando~",
+      "source_H": "仰",
+      "source_M": "giàng. giang bõg chiam bõg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "leuantar la cabeça mirando~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "giaŋ²",
+        "tai_lo_standard": "giáng",
+        "phonological_basis": "17c Dominican orthography conversion: giàng (仰) -> giaŋ² / giáng."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "leuantar los pies para mirar.",
+      "source_H": "企起脚",
+      "source_M": "ne gûy câ",
+      "source_R": "c forçar ne un chiñ;",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "leuantar los pies para mirar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ne¹ gui³ ka³",
+        "tai_lo_standard": "ne-guì-kà",
+        "phonological_basis": "17c Dominican orthography conversion: ne (企) -> ne¹ / ne; gûy (起) -> gui³ / guì; câ (脚) -> ka³ / kà."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "leuantarse del suelo~",
+      "source_H": "拾",
+      "source_M": "quio: sip.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "leuantarse del suelo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kioʔ⁸ sip⁷",
+        "tai_lo_standard": "kio̍h-sip",
+        "phonological_basis": "17c Dominican orthography conversion: quio (拾) -> kioʔ⁸ / kio̍h; sip (?) -> sip⁷ / sip."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "leuantar a dignidad~",
+      "source_H": "陞",
+      "source_M": "Leng tàng cô chīn:",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "leuantar a dignidad~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "leŋ¹ taŋ² ko³ tsin⁶",
+        "tai_lo_standard": "leng-táng-kò-tsīn",
+        "phonological_basis": "17c Dominican orthography conversion: Leng (陞) -> leŋ¹ / leng; tàng (?) -> taŋ² / táng; cô (?) -> ko³ / kò; chīn (?) -> tsin⁶ / tsīn."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "leuantar, subtuir~",
+      "source_H": "託",
+      "source_M": "ta",
+      "source_R": "ta mi solbin algo. ta gio lui leuantarlo:",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "leuantar, subtuir~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰaʔ⁷",
+        "tai_lo_standard": "thah",
+        "phonological_basis": "17c Dominican orthography conversion: ta (託) -> tʰaʔ⁷ / thah."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "leuantar el caido~",
+      "source_H": "接",
+      "source_M": "soân",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "leuantar el caido~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "soan³",
+        "tai_lo_standard": "soàn",
+        "phonological_basis": "17c Dominican orthography conversion: soân (接) -> soan³ / soàn."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "leuantar empujando de abajo.",
+      "source_H": "竅 [疑:竅/竊]",
+      "source_M": "guian",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "leuantar empujando de abajo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guian¹",
+        "tai_lo_standard": "guian",
+        "phonological_basis": "17c Dominican orthography conversion: guian (竅) -> guian¹ / guian."
+      }
+    }
+  ]
+}

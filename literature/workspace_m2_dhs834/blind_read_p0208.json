@@ -1,0 +1,417 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 208,
+  "historical_folio": 179,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0208/pdf_0208_300dpi.png",
+  "page_header": "C. ante. A.",
+  "page_footer_printed": "- 179 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Calças e botes.",
+      "source_H": "襪",
+      "source_M": "bue.",
+      "source_R": "va.",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Calças e botes.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue²",
+        "tai_lo_standard": "bué",
+        "phonological_basis": "17c Dominican orthography conversion: bue (襪) -> bue² / bué."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "calças anchas conpiaies.",
+      "source_H": "襪[疑:靊/罋]",
+      "source_M": "bue añ.",
+      "source_R": "va oñ.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "calças anchas conpiaies.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue² ãn³",
+        "tai_lo_standard": "bué-àn",
+        "phonological_basis": "17c Dominican orthography conversion: bue (襪) -> bue² / bué; añ (?) -> ãn³ / àn."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "calças de manta o de outra qualsiasi tela.",
+      "source_H": "布靴",
+      "source_M": "pun bue hia.",
+      "source_R": "puo hie.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "calças de manta o de outra qualsiasi tela.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pun² bue² hia¹",
+        "tai_lo_standard": "pún-bué-hia",
+        "phonological_basis": "17c Dominican orthography conversion: pun (布) -> pun² / pún; bue (靴) -> bue² / bué; hia (?) -> hia¹ / hia."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "calças de mujer.",
+      "source_H": "錦褲[疑:褲/裙]",
+      "source_M": "seg cuñ.",
+      "source_R": "kij cu.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "calças de mujer.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sek⁷ kũn⁵",
+        "tai_lo_standard": "sek-kûn",
+        "phonological_basis": "17c Dominican orthography conversion: seg (錦) -> sek⁷ / sek; cuñ (褲) -> kũn⁵ / kûn."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Calçong.",
+      "source_H": "袴",
+      "source_M": "coñ.",
+      "source_R": "cuñ.",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Calçong.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kõn¹",
+        "tai_lo_standard": "kon",
+        "phonological_basis": "17c Dominican orthography conversion: coñ (袴) -> kõn¹ / kon."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "calcones para interior.",
+      "source_H": "袴腳",
+      "source_M": "coñ ca. interior.",
+      "source_R": "cuñ quio.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "calcones para interior.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kõn¹ ka¹",
+        "tai_lo_standard": "kon-ka",
+        "phonological_basis": "17c Dominican orthography conversion: coñ (袴) -> kõn¹ / kon; ca (腳) -> ka¹ / ka."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "calçones largos de qualsiasi tela.",
+      "source_H": "長腳褲",
+      "source_M": "tng ca con.",
+      "source_R": "châng quio cuñ.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "calçones largos de qualsiasi tela.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiŋ² ka¹ kon³",
+        "tai_lo_standard": "tíng-ka-kòn",
+        "phonological_basis": "17c Dominican orthography conversion: tng (長) -> tiŋ² / tíng; ca (腳) -> ka¹ / ka; con (褲) -> kon³ / kòn."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Calcarse.",
+      "source_H": "穿",
+      "source_M": "cheng",
+      "source_R": "pac subec cheng chièn.",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Calcarse.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ²",
+        "tai_lo_standard": "tséng",
+        "phonological_basis": "17c Dominican orthography conversion: cheng (穿) -> tseŋ² / tséng."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Caldear el metal.",
+      "source_H": "煉",
+      "source_M": "lien",
+      "source_R": "lien.",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Caldear el metal.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lien²",
+        "tai_lo_standard": "lién",
+        "phonological_basis": "17c Dominican orthography conversion: lien (煉) -> lien² / lién."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "caldear el metal.",
+      "source_H": "煉丹",
+      "source_M": "lien tan",
+      "source_R": "lien tan.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "caldear el metal.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lien² tan¹",
+        "tai_lo_standard": "lién-tan",
+        "phonological_basis": "17c Dominican orthography conversion: lien (煉) -> lien² / lién; tan (丹) -> tan¹ / tan."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Calderilla de japon para cha.",
+      "source_H": "銅茶古",
+      "source_M": "tang te con.",
+      "source_R": "tong cha cun.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Calderilla de japon para cha.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "taŋ⁵ tʰe³ kon²",
+        "tai_lo_standard": "tâng-thè-kón",
+        "phonological_basis": "17c Dominican orthography conversion: tang (銅) -> taŋ⁵ / tâng; te (茶) -> tʰe³ / thè; con (古) -> kon² / kón."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Caldo.",
+      "source_H": "羹",
+      "source_M": "gue.",
+      "source_R": "gueng.",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Caldo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue¹",
+        "tai_lo_standard": "gue",
+        "phonological_basis": "17c Dominican orthography conversion: gue (羹) -> gue¹ / gue."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "caldo.",
+      "source_H": "羹汁",
+      "source_M": "gue chiap.",
+      "source_R": "gueng chi.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "caldo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue¹ tsiap⁷",
+        "tai_lo_standard": "gue-tsiap",
+        "phonological_basis": "17c Dominican orthography conversion: gue (羹) -> gue¹ / gue; chiap (汁) -> tsiap⁷ / tsiap."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "caldo.",
+      "source_H": "汁",
+      "source_M": "chiap.",
+      "source_R": "chi.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "caldo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiap⁷",
+        "tai_lo_standard": "tsiap",
+        "phonological_basis": "17c Dominican orthography conversion: chiap (汁) -> tsiap⁷ / tsiap."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "caldo.",
+      "source_H": "湯汁",
+      "source_M": "tung chiap.",
+      "source_R": "tang chi.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "caldo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tuŋ¹ tsiap⁷",
+        "tai_lo_standard": "tung-tsiap",
+        "phonological_basis": "17c Dominican orthography conversion: tung (湯) -> tuŋ¹ / tung; chiap (汁) -> tsiap⁷ / tsiap."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "caldo.",
+      "source_H": "湯",
+      "source_M": "tung.",
+      "source_R": "tang.",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "caldo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tuŋ¹",
+        "tai_lo_standard": "tung",
+        "phonological_basis": "17c Dominican orthography conversion: tung (湯) -> tuŋ¹ / tung."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "caldo de morisqueta.",
+      "source_H": "黯[疑:黯/點]",
+      "source_M": "am.",
+      "source_R": "am.",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "caldo de morisqueta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "am¹",
+        "tai_lo_standard": "am",
+        "phonological_basis": "17c Dominican orthography conversion: am (黯) -> am¹ / am."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "caldo de morisqueta.",
+      "source_H": "黯湯",
+      "source_M": "am tung.",
+      "source_R": "am tang.",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "caldo de morisqueta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "am¹ tuŋ¹",
+        "tai_lo_standard": "am-tung",
+        "phonological_basis": "17c Dominican orthography conversion: am (黯) -> am¹ / am; tung (湯) -> tuŋ¹ / tung."
+      }
+    }
+  ]
+}

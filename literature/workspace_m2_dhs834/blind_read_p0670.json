@@ -1,0 +1,293 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 670,
+  "historical_folio": 636,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0670/pdf_0670_300dpi.png",
+  "page_header": "M. ante. L.",
+  "page_footer_printed": "- 636 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 14,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "miembro viril del hombre.",
+      "source_H": "生鳥",
+      "source_M": "lăn chiàu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "miembro viril del hombre.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "li² ni² tsiau²",
+        "tai_lo_standard": "lí-ní-tsiáu",
+        "phonological_basis": "17c Dominican orthography conversion: l (生) -> li² / lí; n (鳥) -> ni² / ní; chiàu (?) -> tsiau² / tsiáu."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "miembro viril del hombre.",
+      "source_H": "生骨",
+      "source_M": "lăn cúi",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "miembro viril del hombre.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "li² ni¹ kui¹",
+        "tai_lo_standard": "lí-ni-kui",
+        "phonological_basis": "17c Dominican orthography conversion: l (生) -> li² / lí; n (骨) -> ni¹ / ni; cúi (?) -> kui¹ / kui."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "miembro viril del niño.",
+      "source_H": "鳥仔",
+      "source_M": "chiàu jiá. [疑:del niño/el lunino]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "miembro viril del niño.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiau² dzia¹ del¹ nĩnõ¹ el¹ lunino¹",
+        "tai_lo_standard": "tsiáu-jia-del-ninonn-el-lunino",
+        "phonological_basis": "17c Dominican orthography conversion: chiàu (鳥) -> tsiau² / tsiáu; jiá (仔) -> dzia¹ / jia; del (?) -> del¹ / del; niño (?) -> nĩnõ¹ / ninonn; el (?) -> el¹ / el; lunino (?) -> lunino¹ / lunino."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "miembro del Venado.",
+      "source_H": "鹿鞭",
+      "source_M": "lo[残] piên del venado.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "miembro del Venado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "loʔ⁸ pien³ del¹ venado¹",
+        "tai_lo_standard": "lo̍h-pièn-del-venado",
+        "phonological_basis": "17c Dominican orthography conversion: lo (鹿) -> loʔ⁸ / lo̍h; piên (鞭) -> pien³ / pièn; del (?) -> del¹ / del; venado (?) -> venado¹ / venado."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Mientras, o entonces de q̄ [残].",
+      "source_H": "惇 [疑:惇/情]",
+      "source_M": "chûn",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mientras, o entonces de q̄ .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsun³",
+        "tai_lo_standard": "tsùn",
+        "phonological_basis": "17c Dominican orthography conversion: chûn (惇) -> tsun³ / tsùn."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Mierda. asly edice.",
+      "source_H": "尿",
+      "source_M": "saî. pûn basura:",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mierda. asly edice.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sai³ pun³ basura¹",
+        "tai_lo_standard": "sài-pùn-basura",
+        "phonological_basis": "17c Dominican orthography conversion: saî (尿) -> sai³ / sài; pûn (?) -> pun³ / pùn; basura (?) -> basura¹ / basura."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Migajas, de pan &c. -",
+      "source_H": "碎",
+      "source_M": "chuî.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Migajas, de pan &c. -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui³",
+        "tai_lo_standard": "tsuì",
+        "phonological_basis": "17c Dominican orthography conversion: chuî (碎) -> tsui³ / tsuì."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Mil~.",
+      "source_H": "千",
+      "source_M": "chéng: chán.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mil~.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰeŋ¹ tsan¹",
+        "tai_lo_standard": "tsheng-tsan",
+        "phonological_basis": "17c Dominican orthography conversion: chéng (千) -> tsʰeŋ¹ / tsheng; chán (?) -> tsan¹ / tsan."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Milagro~",
+      "source_H": "聖跡",
+      "source_M": "sêng chêt.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Milagro~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "seŋ³ tset⁷",
+        "tai_lo_standard": "sèng-tset",
+        "phonological_basis": "17c Dominican orthography conversion: sêng (聖) -> seŋ³ / sèng; chêt (跡) -> tset⁷ / tset."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "milagro~",
+      "source_H": "變化",
+      "source_M": "piên huâ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "milagro~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pien³ hua³",
+        "tai_lo_standard": "pièn-huà",
+        "phonological_basis": "17c Dominican orthography conversion: piên (變) -> pien³ / pièn; huâ (化) -> hua³ / huà."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "milagro falso~",
+      "source_H": "假法",
+      "source_M": "què huàt. falso.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "milagro falso~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ke² huat⁷",
+        "tai_lo_standard": "ké-huat",
+        "phonological_basis": "17c Dominican orthography conversion: què (假) -> ke² / ké; huàt (法) -> huat⁷ / huat."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "milagro falso~",
+      "source_H": "有法能變",
+      "source_M": "ǔ huàt ey[残] piên.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "milagro falso~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "u² huat⁷ ei¹ pien³",
+        "tai_lo_standard": "ú-huat-ei-pièn",
+        "phonological_basis": "17c Dominican orthography conversion: ǔ (有) -> u² / ú; huàt (法) -> huat⁷ / huat; ey (能) -> ei¹ / ei; piên (變) -> pien³ / pièn."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Milano~",
+      "source_H": "鵝鷂 [疑:鵝鷂/鵝鶘]",
+      "source_M": "lǎy hiǒ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Milano~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lai² hio²",
+        "tai_lo_standard": "lái-hió",
+        "phonological_basis": "17c Dominican orthography conversion: lǎy (鵝) -> lai² / lái; hiǒ (鷂) -> hio² / hió."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Millon~",
+      "source_H": "兆",
+      "source_M": "Giàu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Millon~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "giau²",
+        "tai_lo_standard": "giáu",
+        "phonological_basis": "17c Dominican orthography conversion: Giàu (兆) -> giau² / giáu."
+      }
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 666,
+  "historical_folio": 632,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0666/pdf_0666_300dpi.png",
+  "page_header": "M. ante. E.",
+  "page_footer_printed": "- 632 -",
+  "page_footer_handwritten": "LL3 / 916",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Meson.",
+      "source_H": "班",
+      "source_M": "Pân",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Meson.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pan³",
+        "tai_lo_standard": "pàn",
+        "phonological_basis": "17c Dominican orthography conversion: Pân (班) -> pan³ / pàn."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "meson~",
+      "source_H": "店",
+      "source_M": "tiăm",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "meson~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti² mi¹",
+        "tai_lo_standard": "tí-mi",
+        "phonological_basis": "17c Dominican orthography conversion: ti (店) -> ti² / tí; m (?) -> mi¹ / mi."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "meson~",
+      "source_H": "客館",
+      "source_M": "gue cūan.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "meson~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gueʔ⁷ kuan⁵",
+        "tai_lo_standard": "gueh-kuân",
+        "phonological_basis": "17c Dominican orthography conversion: gue (客) -> gueʔ⁷ / gueh; cūan (館) -> kuan⁵ / kuân."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "meson~",
+      "source_H": "客店",
+      "source_M": "gue tiăm.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "meson~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gueʔ⁷ ti² mi¹",
+        "tai_lo_standard": "gueh-tí-mi",
+        "phonological_basis": "17c Dominican orthography conversion: gue (客) -> gueʔ⁷ / gueh; ti (店) -> ti² / tí; m (?) -> mi¹ / mi."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "meson obrador",
+      "source_H": "飯店",
+      "source_M": "pn̄y tiăm.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "meson obrador",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pni⁵ ti² mi¹",
+        "tai_lo_standard": "pnî-tí-mi",
+        "phonological_basis": "17c Dominican orthography conversion: pn̄y (飯) -> pni⁵ / pnî; ti (店) -> ti² / tí; m (?) -> mi¹ / mi."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Mesonero~",
+      "source_H": "店主",
+      "source_M": "tiăm chù.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mesonero~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti² mi² tsu²",
+        "tai_lo_standard": "tí-mí-tsú",
+        "phonological_basis": "17c Dominican orthography conversion: ti (店) -> ti² / tí; m (主) -> mi² / mí; chù (?) -> tsu² / tsú."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Mexico~",
+      "source_H": "土生子",
+      "source_M": "thôu se quīa chūa ī.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mexico~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰou³ se⁵ kia⁵ tsua⁶ i⁶",
+        "tai_lo_standard": "thòu-sê-kiâ-tsuā-ī",
+        "phonological_basis": "17c Dominican orthography conversion: thôu (土) -> tʰou³ / thòu; se (生) -> se⁵ / sê; quīa (子) -> kia⁵ / kiâ; chūa (?) -> tsua⁶ / tsuā; ī (?) -> i⁶ / ī."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Metal.",
+      "source_H": "銅",
+      "source_M": "tāng",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Metal.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "taŋ⁵",
+        "tai_lo_standard": "tâng",
+        "phonological_basis": "17c Dominican orthography conversion: tāng (銅) -> taŋ⁵ / tâng."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "metal uno sale del fuego.",
+      "source_H": "煉銅",
+      "source_M": "liē̃ tāng",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "metal uno sale del fuego.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lĩẽ⁵ taŋ⁵",
+        "tai_lo_standard": "liênn-tâng",
+        "phonological_basis": "17c Dominican orthography conversion: liē̃ (煉) -> lĩẽ⁵ / liênn; tāng (銅) -> taŋ⁵ / tâng."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Meter en el seno~",
+      "source_H": "捽 [疑:插]",
+      "source_M": "cūy cūy hoā una hoja asī llaman [残]",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Meter en el seno~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kui⁵ kui⁶ hoa⁶ una⁶ hoja¹ asi⁶ llaman¹",
+        "tai_lo_standard": "kuî-kuī-hoā-unā-hoja-āsi-llaman",
+        "phonological_basis": "17c Dominican orthography conversion: cūy (捽) -> kui⁵ / kuî; cūy (?) -> kui⁶ / kuī; hoā (?) -> hoa⁶ / hoā; una (?) -> una⁶ / unā; hoja (?) -> hoja¹ / hoja; asī (?) -> asi⁶ / āsi; llaman (?) -> llaman¹ / llaman."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "meter donde no le llaman~",
+      "source_H": "捽 [疑:插]",
+      "source_M": "chap",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "meter donde no le llaman~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsap⁷",
+        "tai_lo_standard": "tsap",
+        "phonological_basis": "17c Dominican orthography conversion: chap (捽) -> tsap⁷ / tsap."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "meter donde le llaman.",
+      "source_H": "凹",
+      "source_M": "tap.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "meter donde le llaman.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tap⁷",
+        "tai_lo_standard": "tap",
+        "phonological_basis": "17c Dominican orthography conversion: tap (凹) -> tap⁷ / tap."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "meterse donde le llaman~",
+      "source_H": "捽凹 [疑:插凹]",
+      "source_M": "chap tap.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "meterse donde le llaman~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsap⁷ tap⁷",
+        "tai_lo_standard": "tsap-tap",
+        "phonological_basis": "17c Dominican orthography conversion: chap (捽) -> tsap⁷ / tsap; tap (凹) -> tap⁷ / tap."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "meterse donde le llaman~.",
+      "source_H": "捽腳捽手 [疑:插腳插手]",
+      "source_M": "chap cā chap chīu.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "meterse donde le llaman~.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsap⁷ ka⁵ tsap⁷ tsiu⁵",
+        "tai_lo_standard": "tsap-kâ-tsap-tsiû",
+        "phonological_basis": "17c Dominican orthography conversion: chap (捽) -> tsap⁷ / tsap; cā (腳) -> ka⁵ / kâ; chap (捽) -> tsap⁷ / tsap; chīu (手) -> tsiu⁵ / tsiû."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "meterse donde le llaman.",
+      "source_H": "捽口 [疑:插口]",
+      "source_M": "chap chūy.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "meterse donde le llaman.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsap⁷ tsui⁵",
+        "tai_lo_standard": "tsap-tsuî",
+        "phonological_basis": "17c Dominican orthography conversion: chap (捽) -> tsap⁷ / tsap; chūy (口) -> tsui⁵ / tsuî."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "meterse ento del hablador.",
+      "source_H": "諂口人",
+      "source_M": "chām chūy lāng.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "meterse ento del hablador.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsam⁵ tsui⁵ laŋ⁵",
+        "tai_lo_standard": "tsâm-tsuî-lâng",
+        "phonological_basis": "17c Dominican orthography conversion: chām (諂) -> tsam⁵ / tsâm; chūy (口) -> tsui⁵ / tsuî; lāng (人) -> laŋ⁵ / lâng."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "meterse entodo~",
+      "source_H": "凹口",
+      "source_M": "tap chūy / tap chūy.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "meterse entodo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tap⁷ tsui⁵ tap⁷ tsui⁶",
+        "tai_lo_standard": "tap-tsuî-tap-tsuī",
+        "phonological_basis": "17c Dominican orthography conversion: tap (凹) -> tap⁷ / tap; chūy (口) -> tsui⁵ / tsuî; tap (?) -> tap⁷ / tap; chūy (?) -> tsui⁶ / tsuī."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "meterse entodo.",
+      "source_H": "凹舌",
+      "source_M": "tap chy.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "meterse entodo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tap⁷ tsi¹",
+        "tai_lo_standard": "tap-tsi",
+        "phonological_basis": "17c Dominican orthography conversion: tap (凹) -> tap⁷ / tap; chy (舌) -> tsi¹ / tsi."
+      }
+    }
+  ]
+}

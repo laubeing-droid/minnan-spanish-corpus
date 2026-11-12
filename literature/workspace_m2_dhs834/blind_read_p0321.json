@@ -1,0 +1,441 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 321,
+  "historical_folio": 292,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0321/pdf_0321_300dpi.png",
+  "page_header": "C. ante. U.",
+  "page_footer_printed": "- 292 -",
+  "page_footer_handwritten": "146",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "cruel, codicioso.",
+      "source_H": "貪酷",
+      "source_M": "Tam cò",
+      "source_R": "tām cō",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cruel, codicioso.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tam⁵ ko²",
+        "tai_lo_standard": "tâm-kó",
+        "phonological_basis": "17c Dominican orthography conversion: Tam (貪) -> tam⁵ / tâm; cò (酷) -> ko² / kó."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "cruel, agravia sin temor.",
+      "source_H": "残暴",
+      "source_M": "chān pō̃",
+      "source_R": "chân pōn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cruel, agravia sin temor.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsan⁵ põ⁵",
+        "tai_lo_standard": "tsân-pônn",
+        "phonological_basis": "17c Dominican orthography conversion: chān (残) -> tsan⁵ / tsân; pō̃ (暴) -> põ⁵ / pônn."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Cruz. hazer la señal",
+      "source_H": "打十字號",
+      "source_M": "pa chāp xy hō.",
+      "source_R": "cà sīp chī hōn",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cruz. hazer la señal",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paʔ⁷ tsap⁸ dzi¹ ho⁵",
+        "tai_lo_standard": "pah-tsa̍p-ji-hô",
+        "phonological_basis": "17c Dominican orthography conversion: pa (打) -> paʔ⁷ / pah; chāp (十) -> tsap⁸ / tsa̍p; xy (字) -> dzi¹ / ji; hō (號) -> ho⁵ / hô."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "de la cruz persegnarse",
+      "source_H": "畫十字號",
+      "source_M": "Vā chap xy hō.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "de la cruz persegnarse",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "va⁵ tsap⁸ dzi¹ ho³",
+        "tai_lo_standard": "vâ-tsa̍p-ji-hò",
+        "phonological_basis": "17c Dominican orthography conversion: Vā (畫) -> va⁵ / vâ; chap (十) -> tsap⁸ / tsa̍p; xy (字) -> dzi¹ / ji; hō (號) -> ho³ / hò."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "[残]",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "poh.",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Cubierta de carta.",
+      "source_H": "封皮",
+      "source_M": "hōng pūe",
+      "source_R": "fông pî",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cubierta de carta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ⁵ pue⁵",
+        "tai_lo_standard": "hông-puê",
+        "phonological_basis": "17c Dominican orthography conversion: hōng (封) -> hɔŋ⁵ / hông; pūe (皮) -> pue⁵ / puê."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "cubrir la vista el rostro con.",
+      "source_H": "蔽",
+      "source_M": "Pēy. l. pē",
+      "source_R": "pȳ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cubrir la vista el rostro con.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pei⁵ li⁶ pe⁶",
+        "tai_lo_standard": "pêi-lī-pē",
+        "phonological_basis": "17c Dominican orthography conversion: Pēy (蔽) -> pei⁵ / pêi; l (?) -> li⁶ / lī; pē (?) -> pe⁶ / pē."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "cubrir, cubierta pᵃ papas.",
+      "source_H": "被",
+      "source_M": "Pūe",
+      "source_R": "pȳ",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cubrir, cubierta p[ar]a papas.",
+        "abbreviations_expanded": [
+          {
+            "abbr": "pᵃ",
+            "expansion": "p[ar]a"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pue⁵",
+        "tai_lo_standard": "puê",
+        "phonological_basis": "17c Dominican orthography conversion: Pūe (被) -> pue⁵ / puê."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "cubierta pᵃ papel.",
+      "source_H": "蓋仔",
+      "source_M": "cāy ā. l. cūayà.",
+      "source_R": "guiāy chày",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cubierta p[ar]a papel.",
+        "abbreviations_expanded": [
+          {
+            "abbr": "pᵃ",
+            "expansion": "p[ar]a"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kai⁵ a⁵ li⁶ kuaia²",
+        "tai_lo_standard": "kâi-â-lī-kuáia",
+        "phonological_basis": "17c Dominican orthography conversion: cāy (蓋) -> kai⁵ / kâi; ā (仔) -> a⁵ / â; l (?) -> li⁶ / lī; cūayà (?) -> kuaia² / kuáia."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "cubierta de carta.",
+      "source_H": "囊",
+      "source_M": "lōng",
+      "source_R": "nâng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cubierta de carta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lɔŋ⁵",
+        "tai_lo_standard": "lông",
+        "phonological_basis": "17c Dominican orthography conversion: lōng (囊) -> lɔŋ⁵ / lông."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "cubierta de carta",
+      "source_H": "棒",
+      "source_M": "hōng.",
+      "source_R": "pāng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cubierta de carta",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ⁵",
+        "tai_lo_standard": "hông",
+        "phonological_basis": "17c Dominican orthography conversion: hōng (棒) -> hɔŋ⁵ / hông."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "cubierta de carta.",
+      "source_H": "書囊",
+      "source_M": "sū lōng",
+      "source_R": "zȳ nâng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cubierta de carta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su⁵ lɔŋ⁵",
+        "tai_lo_standard": "sû-lông",
+        "phonological_basis": "17c Dominican orthography conversion: sū (書) -> su⁵ / sû; lōng (囊) -> lɔŋ⁵ / lông."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "cubierta de carta",
+      "source_H": "批皮",
+      "source_M": "pey pūe.",
+      "source_R": "pȳ pȳ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cubierta de carta",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pʰei⁵ pue⁵",
+        "tai_lo_standard": "phêi-puê",
+        "phonological_basis": "17c Dominican orthography conversion: pey (批) -> pʰei⁵ / phêi; pūe (皮) -> pue⁵ / puê."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Cubierta cota, xel[残划] ernestuer ynauras:",
+      "source_H": "包",
+      "source_M": "Páu.",
+      "source_R": "pāu",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cubierta cota, xel ernestuer ynauras:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pau¹",
+        "tai_lo_standard": "pau",
+        "phonological_basis": "17c Dominican orthography conversion: Páu (包) -> pau¹ / pau."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "cubrir tapar.",
+      "source_H": "蓋",
+      "source_M": "cay",
+      "source_R": "guiāy",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cubrir tapar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kai¹",
+        "tai_lo_standard": "kai",
+        "phonological_basis": "17c Dominican orthography conversion: cay (蓋) -> kai¹ / kai."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "cubrir, tapar.",
+      "source_H": "掩 [疑:掩/揜]",
+      "source_M": "iam",
+      "source_R": "yēn",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cubrir, tapar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iam¹",
+        "tai_lo_standard": "iam",
+        "phonological_basis": "17c Dominican orthography conversion: iam (掩) -> iam¹ / iam."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "cubrir, tapar.",
+      "source_H": "罩",
+      "source_M": "tâ",
+      "source_R": "chāu",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cubrir, tapar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ta³",
+        "tai_lo_standard": "tà",
+        "phonological_basis": "17c Dominican orthography conversion: tâ (罩) -> ta³ / tà."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "cubrir tapar.",
+      "source_H": "蔽",
+      "source_M": "pē. l. pey",
+      "source_R": "pȳ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cubrir tapar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe⁵ li⁶ pei¹",
+        "tai_lo_standard": "pê-lī-pei",
+        "phonological_basis": "17c Dominican orthography conversion: pē (蔽) -> pe⁵ / pê; l (?) -> li⁶ / lī; pey (?) -> pei¹ / pei."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "[空]",
+      "source_H": "船帆",
+      "source_M": "chūn pāng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰun⁵ paŋ⁵",
+        "tai_lo_standard": "tshûn-pâng",
+        "phonological_basis": "17c Dominican orthography conversion: chūn (船) -> tsʰun⁵ / tshûn; pāng (帆) -> paŋ⁵ / pâng."
+      }
+    }
+  ]
+}

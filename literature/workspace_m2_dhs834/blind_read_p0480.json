@@ -1,0 +1,409 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 480,
+  "historical_folio": 446,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0480/pdf_0480_300dpi.png",
+  "page_header": "E. ante. X.",
+  "page_footer_printed": "- 446 -",
+  "page_footer_handwritten": "223",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Executar el mandamiento Real -",
+      "source_H": "欽奉聖旨",
+      "source_M": "quīm hỗ fēng chy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Executar el mandamiento Real -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kim⁵ hi³ feŋ⁵ tsi¹",
+        "tai_lo_standard": "kîm-hì-fêng-tsi",
+        "phonological_basis": "17c Dominican orthography conversion: quīm (欽) -> kim⁵ / kîm; h (奉) -> hi³ / hì; fēng (聖) -> feŋ⁵ / fêng; chy (旨) -> tsi¹ / tsi."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Exceder, sobrepujar .",
+      "source_H": "勝",
+      "source_M": "sêng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Exceder, sobrepujar .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "seŋ³",
+        "tai_lo_standard": "sèng",
+        "phonological_basis": "17c Dominican orthography conversion: sêng (勝) -> seŋ³ / sèng."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "exçeder sobrepujar .",
+      "source_H": "勝尽",
+      "source_M": "sêng chīn . sêng cō",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "exçeder sobrepujar .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "seŋ³ tsin⁵ seŋ³ ko⁶",
+        "tai_lo_standard": "sèng-tsîn-sèng-kō",
+        "phonological_basis": "17c Dominican orthography conversion: sêng (勝) -> seŋ³ / sèng; chīn (尽) -> tsin⁵ / tsîn; sêng (?) -> seŋ³ / sèng; cō (?) -> ko⁶ / kō."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "exçeder demasiado mente -",
+      "source_H": "[疑:忝/泰]",
+      "source_M": "tiām. ty",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "exçeder demasiado mente -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiam⁶ ti¹",
+        "tai_lo_standard": "tiām-ti",
+        "phonological_basis": "17c Dominican orthography conversion: tiām (?) -> tiam⁶ / tiām; ty (?) -> ti¹ / ti."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "exçeder, sobrepujar .",
+      "source_H": "勝過",
+      "source_M": "sêng cuē",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "exçeder, sobrepujar .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "seŋ³ kue⁵",
+        "tai_lo_standard": "sèng-kuê",
+        "phonological_basis": "17c Dominican orthography conversion: sêng (勝) -> seŋ³ / sèng; cuē (過) -> kue⁵ / kuê."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "exçeder en la vengança .",
+      "source_H": "[疑:忝/泰]打",
+      "source_M": "tiām pa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "exçeder en la vengança .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiam⁵ paʔ⁷",
+        "tai_lo_standard": "tiâm-pah",
+        "phonological_basis": "17c Dominican orthography conversion: tiām (打) -> tiam⁵ / tiâm; pa (?) -> paʔ⁷ / pah."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Exemplo, modelo .",
+      "source_H": "樣",
+      "source_M": "yõ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Exemplo, modelo .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ĩõ²",
+        "tai_lo_standard": "iónn",
+        "phonological_basis": "17c Dominican orthography conversion: yõ (樣) -> ĩõ² / iónn."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "exemplo, modelo -",
+      "source_H": "導",
+      "source_M": "to.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "exemplo, modelo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to²",
+        "tai_lo_standard": "tó",
+        "phonological_basis": "17c Dominican orthography conversion: to (導) -> to² / tó."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "exemplo, comparacion. V.g.",
+      "source_H": "譬",
+      "source_M": "pi.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "exemplo, comparacion. V.g.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pʰi²",
+        "tai_lo_standard": "phí",
+        "phonological_basis": "17c Dominican orthography conversion: pi (譬) -> pʰi² / phí."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "exemplar, dechado .",
+      "source_H": "範",
+      "source_M": "huān. huān",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "exemplar, dechado .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan⁵ huan⁶",
+        "tai_lo_standard": "huân-huān",
+        "phonological_basis": "17c Dominican orthography conversion: huān (範) -> huan⁵ / huân; huān (?) -> huan⁶ / huān."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "exemplar, p̃a ymitar .",
+      "source_H": "倡",
+      "source_M": "chiāng chiāng cū. hún hoy y buenos sposos / ℒ Cubs initar",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "exemplar, p[ara]a ymitar .",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p̃",
+            "expansion": "p̃"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰiaŋ⁵ tsiaŋ⁶ ku⁶ hun¹ hoi¹ i¹ buenos¹ sposos¹ kubs¹ initar¹",
+        "tai_lo_standard": "tshiâng-tsiāng-kū-hun-hoi-i-buenos-sposos-kubs-initar",
+        "phonological_basis": "17c Dominican orthography conversion: chiāng (倡) -> tsʰiaŋ⁵ / tshiâng; chiāng (?) -> tsiaŋ⁶ / tsiāng; cū (?) -> ku⁶ / kū; hún (?) -> hun¹ / hun; hoy (?) -> hoi¹ / hoi; y (?) -> i¹ / i; buenos (?) -> buenos¹ / buenos; sposos (?) -> sposos¹ / sposos; Cubs (?) -> kubs¹ / kubs; initar (?) -> initar¹ / initar."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "exemplo, comparacion. V.g.",
+      "source_H": "譬論",
+      "source_M": "pi lūn",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "exemplo, comparacion. V.g.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pʰi² lun⁶",
+        "tai_lo_standard": "phí-lūn",
+        "phonological_basis": "17c Dominican orthography conversion: pi (譬) -> pʰi² / phí; lūn (論) -> lun⁶ / lūn."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "exemplo, como. V.g.",
+      "source_H": "譬諭",
+      "source_M": "pi. u",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "exemplo, como. V.g.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pʰi² u¹",
+        "tai_lo_standard": "phí-u",
+        "phonological_basis": "17c Dominican orthography conversion: pi (譬) -> pʰi² / phí; u (諭) -> u¹ / u."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "exemplo p̃a explicarse .",
+      "source_H": "接譬",
+      "source_M": "van pi",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "exemplo p[ara]a explicarse .",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p̃",
+            "expansion": "p̃"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "van² pʰi²",
+        "tai_lo_standard": "ván-phí",
+        "phonological_basis": "17c Dominican orthography conversion: van (接) -> van² / ván; pi (譬) -> pʰi² / phí."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "exemplo bueno p̃ ṽ y mitar .",
+      "source_H": "倡隨",
+      "source_M": "chiāng chūy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "exemplo bueno p̃ ṽ y mitar .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰiaŋ³ tsui⁵",
+        "tai_lo_standard": "tshiàng-tsuî",
+        "phonological_basis": "17c Dominican orthography conversion: chiāng (倡) -> tsʰiaŋ³ / tshiàng; chūy (隨) -> tsui⁵ / tsuî."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "exemplo bueno g̃ p̃ ymitar .",
+      "source_H": "芬芳",
+      "source_M": "hūn hong",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "exemplo bueno g̃ p̃ ymitar .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hun⁵ hɔŋ¹",
+        "tai_lo_standard": "hûn-hong",
+        "phonological_basis": "17c Dominican orthography conversion: hūn (芬) -> hun⁵ / hûn; hong (芳) -> hɔŋ¹ / hong."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "exemplo, dechado .",
+      "source_H": "[疑:趟/範]樣",
+      "source_M": "fān yõ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "exemplo, dechado .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fan⁵ ĩõ⁶",
+        "tai_lo_standard": "fân-iōnn",
+        "phonological_basis": "17c Dominican orthography conversion: fān (樣) -> fan⁵ / fân; yõ (?) -> ĩõ⁶ / iōnn."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "exemplo p̃ los uenidos .",
+      "source_H": "法則",
+      "source_M": "huan chē",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "exemplo p̃ los uenidos .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huaʔ⁷ tse⁵",
+        "tai_lo_standard": "huah-tsê",
+        "phonological_basis": "17c Dominican orthography conversion: huan (法) -> huaʔ⁷ / huah; chē (則) -> tse⁵ / tsê."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "exemplo, dechado -",
+      "source_H": "範式",
+      "source_M": "huān sē",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "exemplo, dechado -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan⁵ se⁵",
+        "tai_lo_standard": "huân-sê",
+        "phonological_basis": "17c Dominican orthography conversion: huān (範) -> huan⁵ / huân; sē (式) -> se⁵ / sê."
+      }
+    }
+  ]
+}

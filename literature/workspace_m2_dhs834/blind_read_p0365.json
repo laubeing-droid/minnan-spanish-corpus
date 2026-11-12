@@ -1,0 +1,449 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 365,
+  "historical_folio": 336,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0365/pdf_0365_300dpi.png",
+  "page_header": "D. ante. F.",
+  "page_footer_printed": "- 336 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Desonrrar. sia.",
+      "source_H": "舍",
+      "source_M": "siâ. dison q[残]",
+      "source_R": "siè",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desonrrar. sia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sia³",
+        "tai_lo_standard": "sià",
+        "phonological_basis": "17c Dominican orthography conversion: siâ (舍) -> sia³ / sià."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Desonrrar de palabra.",
+      "source_H": "尿[疑:屎/尿]",
+      "source_M": "xioŋ",
+      "source_R": "xio",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desonrrar de palabra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzio¹",
+        "tai_lo_standard": "jio",
+        "phonological_basis": "17c Dominican orthography conversion: xio (尿) -> dzio¹ / jio."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Desonrrar su linaje.",
+      "source_H": "不長進[疑:長/掌]",
+      "source_M": "+pur chiàng chīn",
+      "source_R": "pîn chiàng chīn",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desonrrar su linaje.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pur¹ tsiaŋ² tsin⁵",
+        "tai_lo_standard": "pur-tsiáng-tsîn",
+        "phonological_basis": "17c Dominican orthography conversion: pur (不) -> pur¹ / pur; chiàng (長) -> tsiaŋ² / tsiáng; chīn (進) -> tsin⁵ / tsîn."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Desonrrar su linaje",
+      "source_H": "舍人面皮",
+      "source_M": "+siâ xīn bī̃ puē̃",
+      "source_R": "siè xīn mièn pg",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desonrrar su linaje",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sia³ dzin⁵ bĩ⁵ pũẽ⁵",
+        "tai_lo_standard": "sià-jîn-bînn-puênn",
+        "phonological_basis": "17c Dominican orthography conversion: siâ (舍) -> sia³ / sià; xīn (人) -> dzin⁵ / jîn; bī̃ (面) -> bĩ⁵ / bînn; puē̃ (皮) -> pũẽ⁵ / puênn."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Desonrrar a su Padre.",
+      "source_H": "父頭母骨",
+      "source_M": "+pē tāu bó cut",
+      "source_R": "fù téu mū cut",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desonrrar a su Padre.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe⁵ tʰau⁵ bo¹ kut⁸",
+        "tai_lo_standard": "pê-thâu-bo-ku̍t",
+        "phonological_basis": "17c Dominican orthography conversion: pē (父) -> pe⁵ / pê; tāu (頭) -> tʰau⁵ / thâu; bó (母) -> bo¹ / bo; cut (骨) -> kut⁸ / ku̍t."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Desonrrar, dar de [残] enel rostro",
+      "source_H": "舍面皮",
+      "source_M": "siâ bī̃ puē̃",
+      "source_R": "siè mièn pg",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desonrrar, dar de enel rostro",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sia³ bĩ⁵ pũẽ⁵",
+        "tai_lo_standard": "sià-bînn-puênn",
+        "phonological_basis": "17c Dominican orthography conversion: siâ (舍) -> sia³ / sià; bī̃ (面) -> bĩ⁵ / bînn; puē̃ (皮) -> pũẽ⁵ / puênn."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Desierto campo.",
+      "source_H": "郊",
+      "source_M": "caú ià, hóng ià.",
+      "source_R": "guiòia",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desierto campo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kau¹ ia² hɔŋ¹ ia²",
+        "tai_lo_standard": "kau-iá-hong-iá",
+        "phonological_basis": "17c Dominican orthography conversion: caú (郊) -> kau¹ / kau; ià (?) -> ia² / iá; hóng (?) -> hɔŋ¹ / hong; ià (?) -> ia² / iá."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Desierto.",
+      "source_H": "野",
+      "source_M": "(ia) hōng ia",
+      "source_R": "yè",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desierto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ia¹ hɔŋ⁶ ia²",
+        "tai_lo_standard": "ia-hōng-iá",
+        "phonological_basis": "17c Dominican orthography conversion: ia (野) -> ia¹ / ia; hōng (?) -> hɔŋ⁶ / hōng; ia (?) -> ia² / iá."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "+Desierto do nadie llega.",
+      "source_H": "偏僻",
+      "source_M": "+pièn piā.",
+      "source_R": "pièn pg",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "+Desierto do nadie llega.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pʰien² pʰia⁵",
+        "tai_lo_standard": "phién-phiâ",
+        "phonological_basis": "17c Dominican orthography conversion: pièn (偏) -> pʰien² / phién; piā (僻) -> pʰia⁵ / phiâ."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Desierto campo.",
+      "source_H": "偏處",
+      "source_M": "+pièn chu",
+      "source_R": "pièn chū",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desierto campo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pʰien² tsʰu¹",
+        "tai_lo_standard": "phién-tshu",
+        "phonological_basis": "17c Dominican orthography conversion: pièn (偏) -> pʰien² / phién; chu (處) -> tsʰu¹ / tshu."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Desierto lugar.",
+      "source_H": "荒野",
+      "source_M": "(hōng ia)",
+      "source_R": "huāng yè",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desierto lugar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ⁵ ia²",
+        "tai_lo_standard": "hông-iá",
+        "phonological_basis": "17c Dominican orthography conversion: hōng (荒) -> hɔŋ⁵ / hông; ia (野) -> ia² / iá."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "+Desierto lugar -",
+      "source_H": "野所在",
+      "source_M": "+ia soi chai",
+      "source_R": "yè zo chai",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "+Desierto lugar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iaʔ⁷ soiʔ⁷ tsai⁶",
+        "tai_lo_standard": "iah-soih-tsāi",
+        "phonological_basis": "17c Dominican orthography conversion: ia (野) -> iaʔ⁷ / iah; soi (所) -> soiʔ⁷ / soih; chai (在) -> tsai⁶ / tsāi."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "+Desierto, lejos.",
+      "source_H": "塞外",
+      "source_M": "+sây guā",
+      "source_R": "sè guāy",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "+Desierto, lejos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sai³ gua⁵",
+        "tai_lo_standard": "sài-guâ",
+        "phonological_basis": "17c Dominican orthography conversion: sây (塞) -> sai³ / sài; guā (外) -> gua⁵ / guâ."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Desigual, largo y cort[残]",
+      "source_H": "長短",
+      "source_M": "tāng toān, gng tay",
+      "source_R": "chiàng coān",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desigual, largo y cort",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "taŋ⁵ toan⁵ giŋ¹ tai¹",
+        "tai_lo_standard": "tâng-toân-ging-tai",
+        "phonological_basis": "17c Dominican orthography conversion: tāng (長) -> taŋ⁵ / tâng; toān (短) -> toan⁵ / toân; gng (?) -> giŋ¹ / ging; tay (?) -> tai¹ / tai."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Desigual peso.",
+      "source_H": "重輕頭",
+      "source_M": "tang quín tāu",
+      "source_R": "chōng quín teu",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desigual peso.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "taŋ² kin¹ tʰau⁵",
+        "tai_lo_standard": "táng-kin-thâu",
+        "phonological_basis": "17c Dominican orthography conversion: tang (重) -> taŋ² / táng; quín (輕) -> kin¹ / kin; tāu (頭) -> tʰau⁵ / thâu."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Desigual, de partes desiguald.",
+      "source_H": "大細片",
+      "source_M": "tuâ sêy pēng, lit tēy",
+      "source_R": "tā sy piēn",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desigual, de partes desiguald.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tua³ sei³ peŋ⁵ lit⁷ tei⁶",
+        "tai_lo_standard": "tuà-sèi-pêng-lit-tēi",
+        "phonological_basis": "17c Dominican orthography conversion: tuâ (大) -> tua³ / tuà; sêy (細) -> sei³ / sèi; pēng (片) -> peŋ⁵ / pêng; lit (?) -> lit⁷ / lit; tēy (?) -> tei⁶ / tēi."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Desigual enel animo, usar aco[残]",
+      "source_H": "大細心",
+      "source_M": "tuâ sêy sīm.",
+      "source_R": "tā sy sim",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desigual enel animo, usar aco",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tua³ sei³ sim⁵",
+        "tai_lo_standard": "tuà-sèi-sîm",
+        "phonological_basis": "17c Dominican orthography conversion: tuâ (大) -> tua³ / tuà; sêy (細) -> sei³ / sèi; sīm (心) -> sim⁵ / sîm."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Desinteresad.",
+      "source_H": "廉潔",
+      "source_M": "+liām quier.",
+      "source_R": "liên gūe",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desinteresad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liam⁵ kier¹",
+        "tai_lo_standard": "liâm-kier",
+        "phonological_basis": "17c Dominican orthography conversion: liām (廉) -> liam⁵ / liâm; quier (潔) -> kier¹ / kier."
+      }
+    }
+  ]
+}

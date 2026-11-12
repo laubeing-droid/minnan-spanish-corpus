@@ -1,0 +1,355 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 333,
+  "historical_folio": 304,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0333/pdf_0333_300dpi.png",
+  "page_header": "D. ante. A.",
+  "page_footer_printed": "- 304 -",
+  "page_footer_handwritten": "152",
+  "total_positions_recorded": 15,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Curiosa cosa.",
+      "source_H": "精",
+      "source_M": "cheñg",
+      "source_R": "chěng",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Curiosa cosa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsẽŋ¹",
+        "tai_lo_standard": "tseng",
+        "phonological_basis": "17c Dominican orthography conversion: cheñg (精) -> tsẽŋ¹ / tseng."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Curiosa cosa.",
+      "source_H": "精微",
+      "source_M": "cheñg bȳ.",
+      "source_R": "chěng mŷ",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Curiosa cosa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsẽŋ⁵ bi¹",
+        "tai_lo_standard": "tsêng-bi",
+        "phonological_basis": "17c Dominican orthography conversion: cheñg (精) -> tsẽŋ⁵ / tsêng; b (微) -> bi¹ / bi."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "curiosa cosa, limpia.",
+      "source_H": "精潔",
+      "source_M": "cheñg güien.",
+      "source_R": "chěng guīe.",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "curiosa cosa, limpia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsẽʔ⁷ gi¹ ien¹",
+        "tai_lo_standard": "tseh-gi-ien",
+        "phonological_basis": "17c Dominican orthography conversion: cheñg (精) -> tsẽʔ⁷ / tseh; g (潔) -> gi¹ / gi; ien (?) -> ien¹ / ien."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Curiosa Mense. [疑:Mense/Mente]",
+      "source_H": "精細",
+      "source_M": "cheñg sēy.",
+      "source_R": "chěng sēy.",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Curiosa Mense.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsẽŋ⁵ sei⁵",
+        "tai_lo_standard": "tsêng-sêi",
+        "phonological_basis": "17c Dominican orthography conversion: cheñg (精) -> tsẽŋ⁵ / tsêng; sēy (細) -> sei⁵ / sêi."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Curtir. [疑:Curtir/Curio]",
+      "source_H": "歐 [疑:歐/毆]",
+      "source_M": "aú",
+      "source_R": "ěu",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Curtir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "au¹",
+        "tai_lo_standard": "au",
+        "phonological_basis": "17c Dominican orthography conversion: aú (歐) -> au¹ / au."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "curtir cueros.",
+      "source_H": "熟皮",
+      "source_M": "seg pūe.",
+      "source_R": "so pŷ",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "curtir cueros.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sek⁷ pue⁵",
+        "tai_lo_standard": "sek-puê",
+        "phonological_basis": "17c Dominican orthography conversion: seg (熟) -> sek⁷ / sek; pūe (皮) -> pue⁵ / puê."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "curtir con humo.",
+      "source_H": "薰皮",
+      "source_M": "hūn pūe.",
+      "source_R": "hûn pŷ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "curtir con humo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hun⁵ pue⁵",
+        "tai_lo_standard": "hûn-puê",
+        "phonological_basis": "17c Dominican orthography conversion: hūn (薰) -> hun⁵ / hûn; pūe (皮) -> pue⁵ / puê."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Zueco. [疑:Zueco/Cueco]",
+      "source_H": "屐 [疑:屐/瘦]",
+      "source_M": "gia. [疑:gia/ly]",
+      "source_R": "gŷ [疑:gŷ/lŷ]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Zueco.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gia¹ gia¹ li¹",
+        "tai_lo_standard": "gia-gia-li",
+        "phonological_basis": "17c Dominican orthography conversion: gia (屐) -> gia¹ / gia; gia (?) -> gia¹ / gia; ly (?) -> li¹ / li."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "zueco.",
+      "source_H": "木屐",
+      "source_M": "bag guīa.",
+      "source_R": "mō guī",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "zueco.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bak⁸ guia⁵",
+        "tai_lo_standard": "ba̍k-guiâ",
+        "phonological_basis": "17c Dominican orthography conversion: bag (木) -> bak⁸ / ba̍k; guīa (屐) -> guia⁵ / guiâ."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "zueco con capatos.",
+      "source_H": "鞋屐",
+      "source_M": "ēy guīa.",
+      "source_R": "hyây guī",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "zueco con capatos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ei⁵ guia⁵",
+        "tai_lo_standard": "êi-guiâ",
+        "phonological_basis": "17c Dominican orthography conversion: ēy (鞋) -> ei⁵ / êi; guīa (屐) -> guia⁵ / guiâ."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "zueco sin cuero.",
+      "source_H": "木屐臍 [疑:臍/蹄]",
+      "source_M": "bag guīa chey.",
+      "source_R": "mō guī chŷ.",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "zueco sin cuero.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bak⁸ guia⁵ tsei¹",
+        "tai_lo_standard": "ba̍k-guiâ-tsei",
+        "phonological_basis": "17c Dominican orthography conversion: bag (木) -> bak⁸ / ba̍k; guīa (屐) -> guia⁵ / guiâ; chey (臍) -> tsei¹ / tsei."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Dado caso ~.",
+      "source_H": "倘",
+      "source_M": "Tong [疑:Tong/Jong] Aú xien xū.",
+      "source_R": "tang",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T01 (升斜)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dado caso ~.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tɔŋ¹ tɔŋ¹ dzɔŋ¹ au¹ dzien¹ dzu⁶",
+        "tai_lo_standard": "tong-tong-jong-au-jien-jū",
+        "phonological_basis": "17c Dominican orthography conversion: Tong (倘) -> tɔŋ¹ / tong; Tong (?) -> tɔŋ¹ / tong; Jong (?) -> dzɔŋ¹ / jong; Aú (?) -> au¹ / au; xien (?) -> dzien¹ / jien; xū (?) -> dzu⁶ / jū."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Dado caso.",
+      "source_H": "倘然",
+      "source_M": "tong xien bān it.",
+      "source_R": "tang xîn",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dado caso.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tɔŋ¹ dzien⁵ ban⁶ it⁷",
+        "tai_lo_standard": "tong-jiên-bān-it",
+        "phonological_basis": "17c Dominican orthography conversion: tong (倘) -> tɔŋ¹ / tong; xien (然) -> dzien⁵ / jiên; bān (?) -> ban⁶ / bān; it (?) -> it⁷ / it."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Dado caso.",
+      "source_H": "若",
+      "source_M": "xiē tong xiē. to cān.",
+      "source_R": "xû.",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dado caso.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzie⁵ tɔŋ¹ dzie⁶ to⁶ kan⁶",
+        "tai_lo_standard": "jiê-tong-jiē-tō-kān",
+        "phonological_basis": "17c Dominican orthography conversion: xiē (若) -> dzie⁵ / jiê; tong (?) -> tɔŋ¹ / tong; xiē (?) -> dzie⁶ / jiē; to (?) -> to⁶ / tō; cān (?) -> kan⁶ / kān."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Dado caso.",
+      "source_H": "假如",
+      "source_M": "guē xū gē xiē.",
+      "source_R": "guià xū [疑:guià/guin]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dado caso.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue⁵ dzu⁵ ge⁶ dzie⁶",
+        "tai_lo_standard": "guê-jû-gē-jiē",
+        "phonological_basis": "17c Dominican orthography conversion: guē (假) -> gue⁵ / guê; xū (如) -> dzu⁵ / jû; gē (?) -> ge⁶ / gē; xiē (?) -> dzie⁶ / jiē."
+      }
+    }
+  ]
+}

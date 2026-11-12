@@ -1,0 +1,481 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 123,
+  "historical_folio": 94,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0123/pdf_0123_300dpi.png",
+  "page_header": "A. ante. R.",
+  "page_footer_printed": "- 94 -",
+  "page_footer_handwritten": "47",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "aquel, ó aquellos.",
+      "source_H": "許",
+      "source_M": "hū",
+      "source_R": "hù",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aquel, ó aquellos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu³",
+        "tai_lo_standard": "hù",
+        "phonological_basis": "17c Dominican orthography conversion: hū (許) -> hu³ / hù."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "aquel día",
+      "source_H": "許一日",
+      "source_M": "hū cheᵗ xīt",
+      "source_R": "hù ī xïē",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aquel día",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu³ tseʔ⁷ dzit⁸",
+        "tai_lo_standard": "hù-tseh-ji̍t",
+        "phonological_basis": "17c Dominican orthography conversion: hū (許) -> hu³ / hù; che (一) -> tseʔ⁷ / tseh; xīt (日) -> dzit⁸ / ji̍t."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "aquel año",
+      "source_H": "許一年",
+      "source_M": "hū chīt añ.",
+      "source_R": "hù it nién",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aquel año",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu³ tsit⁷ ãn¹",
+        "tai_lo_standard": "hù-tsit-an",
+        "phonological_basis": "17c Dominican orthography conversion: hū (許) -> hu³ / hù; chīt (一) -> tsit⁷ / tsit; añ (年) -> ãn¹ / an."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "aquel hombre &c.",
+      "source_H": "許一个人",
+      "source_M": "hū chey gēē lāng",
+      "source_R": "hù it cō xīn",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aquel hombre &c.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu³ tseiʔ⁷ gee⁵ laŋ⁵",
+        "tai_lo_standard": "hù-tseih-gêe-lâng",
+        "phonological_basis": "17c Dominican orthography conversion: hū (許) -> hu³ / hù; chey (一) -> tseiʔ⁷ / tseih; gēē (个) -> gee⁵ / gêe; lāng (人) -> laŋ⁵ / lâng."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "aquello y algo juntam.te",
+      "source_H": "無又",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aquello y algo juntam.te",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Aquy",
+      "source_H": "咫 [疑:咫/咇]",
+      "source_M": "guiām ùi;",
+      "source_R": "guiām iēn.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Aquy",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guiam⁵ ui²",
+        "tai_lo_standard": "guiâm-uí",
+        "phonological_basis": "17c Dominican orthography conversion: guiām (咫) -> guiam⁵ / guiâm; ùi (?) -> ui² / uí."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "aqui vb.",
+      "source_H": "只个",
+      "source_M": "chū̃",
+      "source_R": "chù",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aqui vb.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsũ⁵",
+        "tai_lo_standard": "tsûnn",
+        "phonological_basis": "17c Dominican orthography conversion: chū̃ (只) -> tsũ⁵ / tsûnn."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "aqui",
+      "source_H": "只處",
+      "source_M": "chȳ gūe",
+      "source_R": "chȳ cō",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aqui",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi⁵ gueʔ⁷",
+        "tai_lo_standard": "tsî-gueh",
+        "phonological_basis": "17c Dominican orthography conversion: ch (只) -> tsi⁵ / tsî; gūe (處) -> gueʔ⁷ / gueh."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "aqui presente",
+      "source_H": "現在",
+      "source_M": "chȳ fè [疑:fè/tè]",
+      "source_R": "chī chài",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aqui presente",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiʔ⁷ fe² fe² te²",
+        "tai_lo_standard": "tsih-fé-fé-té",
+        "phonological_basis": "17c Dominican orthography conversion: ch (現) -> tsiʔ⁷ / tsih; fè (在) -> fe² / fé; fè (?) -> fe² / fé; tè (?) -> te² / té."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "aqui agora.",
+      "source_H": "拴咫 [疑:拴/栓；咫/咇]",
+      "source_M": "hiēn chaȳ.",
+      "source_R": "hiēn chāy",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aqui agora.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hien⁵ tsa⁵",
+        "tai_lo_standard": "hiên-tsâ",
+        "phonological_basis": "17c Dominican orthography conversion: hiēn (拴) -> hien⁵ / hiên; cha (咫) -> tsa⁵ / tsâ."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "aqui arriba escripto por lo. dho=",
+      "source_H": "已上",
+      "source_M": "ǐ chū̃. / ẏ siāng",
+      "source_R": "ý chūⁿ / gūi siāng; i siāng",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aqui arriba escripto por lo. d[ic]ho=",
+        "abbreviations_expanded": [
+          {
+            "abbr": "dho",
+            "expansion": "d[ic]ho"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "i³ tsũ⁵ siaʔ⁷",
+        "tai_lo_standard": "ì-tsûnn-siah",
+        "phonological_basis": "17c Dominican orthography conversion: ǐ (已) -> i³ / ì; chū̃ (上) -> tsũ⁵ / tsûnn; siāng (?) -> siaʔ⁷ / siah."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "A ladr, axar.",
+      "source_H": "犁",
+      "source_M": "lē:gēng:chô:",
+      "source_R": "l̂î",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A ladr, axar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "le⁵ geŋ⁶ tso³",
+        "tai_lo_standard": "lê-gēng-tsò",
+        "phonological_basis": "17c Dominican orthography conversion: lē (犁) -> le⁵ / lê; gēng (?) -> geŋ⁶ / gēng; chô (?) -> tso³ / tsò."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "arar",
+      "source_H": "犁田",
+      "source_M": "lē:chāñ.",
+      "source_R": "ł̂ién",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "le⁵ tsʰãn⁵",
+        "tai_lo_standard": "lê-tshân",
+        "phonological_basis": "17c Dominican orthography conversion: lē (犁) -> le⁵ / lê; chāñ (田) -> tsʰãn⁵ / tshân."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "ararla guesa",
+      "source_H": "犁园",
+      "source_M": "lē:hūñ.",
+      "source_R": "ł̂ién",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ararla guesa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "le⁵ hũn⁵",
+        "tai_lo_standard": "lê-hûn",
+        "phonological_basis": "17c Dominican orthography conversion: lē (犁) -> le⁵ / lê; hūñ (园) -> hũn⁵ / hûn."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "arar",
+      "source_H": "耕",
+      "source_M": "quēng:hūñ.",
+      "source_R": "guēng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "keŋ⁵ hũn⁶",
+        "tai_lo_standard": "kêng-hūn",
+        "phonological_basis": "17c Dominican orthography conversion: quēng (耕) -> keŋ⁵ / kêng; hūñ (?) -> hũn⁶ / hūn."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "arar.",
+      "source_H": "耕作 [疑:作/儂]",
+      "source_M": "quēng:chô̂.",
+      "source_R": "guēng chô̂",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "keŋ⁵ tso³",
+        "tai_lo_standard": "kêng-tsò",
+        "phonological_basis": "17c Dominican orthography conversion: quēng (耕) -> keŋ⁵ / kêng; chô̂ (作) -> tso³ / tsò."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "arar lasementera",
+      "source_H": "耕田",
+      "source_M": "quēng chō̂ chāñ.",
+      "source_R": "guēng tièn [疑:tièn/rièn]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arar lasementera",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "keŋ⁵ tsʰo³ tsãn⁶",
+        "tai_lo_standard": "kêng-tshò-tsān",
+        "phonological_basis": "17c Dominican orthography conversion: quēng (耕) -> keŋ⁵ / kêng; chō̂ (田) -> tsʰo³ / tshò; chāñ (?) -> tsãn⁶ / tsān."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Arador, arador & comen.",
+      "source_H": "疽 [疑:疽/瘡]",
+      "source_M": "chū̃,",
+      "source_R": "chūⁿ",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Arador, arador & comen.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsũ⁵",
+        "tai_lo_standard": "tsûnn",
+        "phonological_basis": "17c Dominican orthography conversion: chū̃ (疽) -> tsũ⁵ / tsûnn."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "aradores en las manos,",
+      "source_H": "手疽 [疑:疽/瘡]",
+      "source_M": "chiū̃ chū̃",
+      "source_R": "chiūⁿ chūⁿ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aradores en las manos,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsĩũ⁵ tsũ⁵",
+        "tai_lo_standard": "tsiûnn-tsûnn",
+        "phonological_basis": "17c Dominican orthography conversion: chiū̃ (手) -> tsĩũ⁵ / tsiûnn; chū̃ (疽) -> tsũ⁵ / tsûnn."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "aradores en los pies.",
+      "source_H": "脚疽 [疑:疽/瘡]",
+      "source_M": "cā chū̃",
+      "source_R": "guā chūⁿ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aradores en los pies.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka⁵ tsũ⁵",
+        "tai_lo_standard": "kâ-tsûnn",
+        "phonological_basis": "17c Dominican orthography conversion: cā (脚) -> ka⁵ / kâ; chū̃ (疽) -> tsũ⁵ / tsûnn."
+      }
+    }
+  ]
+}

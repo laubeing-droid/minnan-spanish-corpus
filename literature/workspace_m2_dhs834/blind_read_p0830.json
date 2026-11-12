@@ -1,0 +1,347 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 830,
+  "historical_folio": 792,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0830/pdf_0830_300dpi.png",
+  "page_header": "ante . O.",
+  "page_footer_printed": "- 792 -",
+  "page_footer_handwritten": "793",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "porfiar vencandolos",
+      "source_H": "強辯",
+      "source_M": "quiang pien",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "porfiar vencandolos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiaŋ² pien²",
+        "tai_lo_standard": "kiáng-pién",
+        "phonological_basis": "17c Dominican orthography conversion: quiang (強) -> kiaŋ² / kiáng; pien (辯) -> pien² / pién."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "porfiar sobre la dignidad",
+      "source_H": "缺位",
+      "source_M": "uie ui",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "porfiar sobre la dignidad",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "uie¹ ui²",
+        "tai_lo_standard": "uie-uí",
+        "phonological_basis": "17c Dominican orthography conversion: uie (缺) -> uie¹ / uie; ui (位) -> ui² / uí."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "porfiar mas no [残] veclar",
+      "source_H": "諍無聲",
+      "source_M": "chie bo sia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "porfiar mas no veclar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsie³ bo⁵ sia²",
+        "tai_lo_standard": "tsiè-bô-siá",
+        "phonological_basis": "17c Dominican orthography conversion: chie (諍) -> tsie³ / tsiè; bo (無) -> bo⁵ / bô; sia (聲) -> sia² / siá."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "porfiar sobre arrancar el [疑:pan/pabit] de pelear~",
+      "source_H": "拏梶",
+      "source_M": "he fuy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "porfiar sobre arrancar el de pelear~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "he² fui⁵",
+        "tai_lo_standard": "hé-fuî",
+        "phonological_basis": "17c Dominican orthography conversion: he (拏) -> he² / hé; fuy (梶) -> fui⁵ / fuî."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "porfiar cuio Lera~",
+      "source_H": "混占",
+      "source_M": "hun chiam",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "porfiar cuio Lera~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hun² tsiam³",
+        "tai_lo_standard": "hún-tsiàm",
+        "phonological_basis": "17c Dominican orthography conversion: hun (混) -> hun² / hún; chiam (占) -> tsiam³ / tsiàm."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "porfiar sobre qual es mejor~",
+      "source_H": "拏做大",
+      "source_M": "he cho toa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "porfiar sobre qual es mejor~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "he² tso⁵ toa²",
+        "tai_lo_standard": "hé-tsô-toá",
+        "phonological_basis": "17c Dominican orthography conversion: he (拏) -> he² / hé; cho (做) -> tso⁵ / tsô; toa (大) -> toa² / toá."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Porfiar",
+      "source_H": "吁 [疑:吁/呼]",
+      "source_M": "chien.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Porfiar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsien²",
+        "tai_lo_standard": "tsién",
+        "phonological_basis": "17c Dominican orthography conversion: chien (吁) -> tsien² / tsién."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "porfiado",
+      "source_H": "推",
+      "source_M": "de esmusasi",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "porfiado",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "de¹ esmusasi¹",
+        "tai_lo_standard": "de-esmusasi",
+        "phonological_basis": "17c Dominican orthography conversion: de (推) -> de¹ / de; esmusasi (?) -> esmusasi¹ / esmusasi."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "porfiado, avoces negociar",
+      "source_H": "強",
+      "source_M": "quiang.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "porfiado, avoces negociar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiaŋ²",
+        "tai_lo_standard": "kiáng",
+        "phonological_basis": "17c Dominican orthography conversion: quiang (強) -> kiaŋ² / kiáng."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Porfigo",
+      "source_H": "瑚石",
+      "source_M": "hou chio.",
+      "source_R": "+",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Porfigo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hou³ tsio²",
+        "tai_lo_standard": "hòu-tsió",
+        "phonological_basis": "17c Dominican orthography conversion: hou (瑚) -> hou³ / hòu; chio (石) -> tsio² / tsió."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Poros",
+      "source_H": "毛管",
+      "source_M": "mo cuiy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Poros",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mo⁵ kuii²",
+        "tai_lo_standard": "mô-kuíi",
+        "phonological_basis": "17c Dominican orthography conversion: mo (毛) -> mo⁵ / mô; cuiy (管) -> kuii² / kuíi."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "poros",
+      "source_H": "毛管開",
+      "source_M": "mo cuiy cuy",
+      "source_R": "abrirse los poros.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poros",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mo⁵ kuii² kʰui⁵",
+        "tai_lo_standard": "mô-kuíi-khuî",
+        "phonological_basis": "17c Dominican orthography conversion: mo (毛) -> mo⁵ / mô; cuiy (管) -> kuii² / kuíi; cuy (開) -> kʰui⁵ / khuî."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Porquer~",
+      "source_H": "飼猪人",
+      "source_M": "chy tu lang.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Porquer~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi² tu¹ laŋ¹",
+        "tai_lo_standard": "tsí-tu-lang",
+        "phonological_basis": "17c Dominican orthography conversion: chy (飼) -> tsi² / tsí; tu (猪) -> tu¹ / tu; lang (人) -> laŋ¹ / lang."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Porcelana.",
+      "source_H": "砵[残]",
+      "source_M": "poa vo.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Porcelana.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "poa³ vo¹",
+        "tai_lo_standard": "poà-vo",
+        "phonological_basis": "17c Dominican orthography conversion: poa (砵) -> poa³ / poà; vo (?) -> vo¹ / vo."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "campanilla pequeña. [疑:campanilla/porcelanilla]",
+      "source_H": "鐘仔",
+      "source_M": "cheng nia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "campanilla pequeña.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ³ nia²",
+        "tai_lo_standard": "tsèng-niá",
+        "phonological_basis": "17c Dominican orthography conversion: cheng (鐘) -> tseŋ³ / tsèng; nia (仔) -> nia² / niá."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "porcelanilla pequeña",
+      "source_H": "甎器 [疑:甎/碗]",
+      "source_M": "xiau quy",
+      "source_R": "g urculilla",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "porcelanilla pequeña",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dziau³ ki²",
+        "tai_lo_standard": "jiàu-kí",
+        "phonological_basis": "17c Dominican orthography conversion: xiau (甎) -> dziau³ / jiàu; quy (器) -> ki² / kí."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "P. Escadilla~",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "P. Escadilla~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    }
+  ]
+}

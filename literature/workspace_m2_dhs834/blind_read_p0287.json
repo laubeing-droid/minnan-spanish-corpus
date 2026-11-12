@@ -1,0 +1,514 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 287,
+  "historical_folio": 258,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0287/pdf_0287_300dpi.png",
+  "page_header": "C. ante. O.",
+  "page_footer_printed": "- 258 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 21,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "+Condenado a muerte.",
+      "source_H": "因",
+      "source_M": "fū ī jū.",
+      "source_R": "chein",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "+Condenado a muerte.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fu⁵ i¹ dzu⁶",
+        "tai_lo_standard": "fû-i-jū",
+        "phonological_basis": "17c Dominican orthography conversion: fū (因) -> fu⁵ / fû; ī (?) -> i¹ / i; jū (?) -> dzu⁶ / jū."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "condenado a serbir 3 años",
+      "source_H": "解軍徒",
+      "source_M": "gūey cūn fōū,",
+      "source_R": "gūēy cūn fū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "condenado a serbir 3 años",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guei⁵ kun⁵ fou⁵",
+        "tai_lo_standard": "guêi-kûn-fôu",
+        "phonological_basis": "17c Dominican orthography conversion: gūey (解) -> guei⁵ / guêi; cūn (軍) -> kun⁵ / kûn; fōū (徒) -> fou⁵ / fôu."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "condenado a trabajos persosal",
+      "source_H": "流徒",
+      "source_M": "liū fōū.",
+      "source_R": "līū fū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "condenado a trabajos persosal",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liu⁵ fou⁵",
+        "tai_lo_standard": "liû-fôu",
+        "phonological_basis": "17c Dominican orthography conversion: liū (流) -> liu⁵ / liû; fōū (徒) -> fou⁵ / fôu."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "condenado a trabajos personal.",
+      "source_H": "發徒",
+      "source_M": "huāt fōū",
+      "source_R": "fā fū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "condenado a trabajos personal.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huat⁷ fou⁵",
+        "tai_lo_standard": "huat-fôu",
+        "phonological_basis": "17c Dominican orthography conversion: huāt (發) -> huat⁷ / huat; fōū (徒) -> fou⁵ / fôu."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Condenar a muerte.",
+      "source_H": "問死罪",
+      "source_M": "mūy sy chūē.",
+      "source_R": "mūn zū chuī",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Condenar a muerte.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mui⁵ si¹ tsue⁵",
+        "tai_lo_standard": "muî-si-tsuê",
+        "phonological_basis": "17c Dominican orthography conversion: mūy (問) -> mui⁵ / muî; sy (死) -> si¹ / si; chūē (罪) -> tsue⁵ / tsuê."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Condenar a azotes.",
+      "source_H": "問打皮鞭",
+      "source_M": "mūy pa pūe pý:",
+      "source_R": "mūn tā pý píñ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Condenar a azotes.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mui⁵ pa¹ pue⁵ pi¹",
+        "tai_lo_standard": "muî-pa-puê-pi",
+        "phonological_basis": "17c Dominican orthography conversion: mūy (問) -> mui⁵ / muî; pa (打) -> pa¹ / pa; pūe (皮) -> pue⁵ / puê; p (鞭) -> pi¹ / pi."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "condenar por sentencia.",
+      "source_H": "問罪贖",
+      "source_M": "mūy chūē sïōg,",
+      "source_R": "mūn chuī zū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "condenar por sentencia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mui⁵ tsue⁵ si⁵ ɔk⁷",
+        "tai_lo_standard": "muî-tsuê-sî-ok",
+        "phonological_basis": "17c Dominican orthography conversion: mūy (問) -> mui⁵ / muî; chūē (罪) -> tsue⁵ / tsuê; s (贖) -> si⁵ / sî; ōg (?) -> ɔk⁷ / ok."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "condenar como galera.",
+      "source_H": "擺站",
+      "source_M": "pāy chām..",
+      "source_R": "pāy chān",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "condenar como galera.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pai⁵ tsam⁵",
+        "tai_lo_standard": "pâi-tsâm",
+        "phonological_basis": "17c Dominican orthography conversion: pāy (擺) -> pai⁵ / pâi; chām (站) -> tsam⁵ / tsâm."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Condenar a galeras.",
+      "source_H": "問軋船",
+      "source_M": "mūy vār chuñ",
+      "source_R": "mūn vān chuên",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Condenar a galeras.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mui⁵ var⁵ tsʰũn⁵",
+        "tai_lo_standard": "muî-vâr-tshûn",
+        "phonological_basis": "17c Dominican orthography conversion: mūy (問) -> mui⁵ / muî; vār (軋) -> var⁵ / vâr; chuñ (船) -> tsʰũn⁵ / tshûn."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "condenar a soldado perpetuo",
+      "source_H": "終世軍",
+      "source_M": "chiōng sy cūn.",
+      "source_R": "chòng sy cūn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "condenar a soldado perpetuo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsioŋ⁵ si¹ kun⁵",
+        "tai_lo_standard": "tsiông-si-kûn",
+        "phonological_basis": "17c Dominican orthography conversion: chiōng (終) -> tsioŋ⁵ / tsiông; sy (世) -> si¹ / si; cūn (軍) -> kun⁵ / kûn."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "condenado a muerte",
+      "source_H": "死囚",
+      "source_M": "sy fū",
+      "source_R": "zǔ chêñ",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "condenado a muerte",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si¹ fu⁵",
+        "tai_lo_standard": "si-fû",
+        "phonological_basis": "17c Dominican orthography conversion: sy (死) -> si¹ / si; fū (囚) -> fu⁵ / fû."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "condenado culpado.",
+      "source_H": "犯罪 [疑:犯罪/紀罪]",
+      "source_M": "huān chūē.",
+      "source_R": "fān chuī",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "condenado culpado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan⁵ tsue⁵",
+        "tai_lo_standard": "huân-tsuê",
+        "phonological_basis": "17c Dominican orthography conversion: huān (犯) -> huan⁵ / huân; chūē (罪) -> tsue⁵ / tsuê."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Condición natural.",
+      "source_H": "氣",
+      "source_M": "gūy",
+      "source_R": "gùi",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Condición natural.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui³",
+        "tai_lo_standard": "guì",
+        "phonological_basis": "17c Dominican orthography conversion: gūy (氣) -> gui³ / guì."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Condición natural.",
+      "source_H": "性",
+      "source_M": "sīm fē: [残]",
+      "source_R": "sēng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Condición natural.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sim⁵ fe⁶",
+        "tai_lo_standard": "sîm-fē",
+        "phonological_basis": "17c Dominican orthography conversion: sīm (性) -> sim⁵ / sîm; fē (?) -> fe⁶ / fē."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "condición.",
+      "source_H": "情",
+      "source_M": "chēng.",
+      "source_R": "chêng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "condición.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ⁵",
+        "tai_lo_standard": "tsêng",
+        "phonological_basis": "17c Dominican orthography conversion: chēng (情) -> tseŋ⁵ / tsêng."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "condicion terible.",
+      "source_H": "強",
+      "source_M": "guīo.",
+      "source_R": "quàng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "condicion terible.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guio⁵",
+        "tai_lo_standard": "guiô",
+        "phonological_basis": "17c Dominican orthography conversion: guīo (強) -> guio⁵ / guiô."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "condicion feuera.",
+      "source_H": "狂",
+      "source_M": "ciōng",
+      "source_R": "cuàng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "condicion feuera.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kioŋ⁵",
+        "tai_lo_standard": "kiông",
+        "phonological_basis": "17c Dominican orthography conversion: ciōng (狂) -> kioŋ⁵ / kiông."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "condicion buena.",
+      "source_H": "閏 [疑:閏/潤]",
+      "source_M": "xūn",
+      "source_R": "xūn",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "condicion buena.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzun⁵",
+        "tai_lo_standard": "jûn",
+        "phonological_basis": "17c Dominican orthography conversion: xūn (閏) -> dzun⁵ / jûn."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "condicion natural.",
+      "source_H": "心性",
+      "source_M": "sīm fē",
+      "source_R": "sīm fēng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "condicion natural.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sim⁵ fe⁵",
+        "tai_lo_standard": "sîm-fê",
+        "phonological_basis": "17c Dominican orthography conversion: sīm (心) -> sim⁵ / sîm; fē (性) -> fe⁵ / fê."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "condicion, natural.",
+      "source_H": "性氣",
+      "source_M": "fēng gūy",
+      "source_R": "sēng gùi",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "condicion, natural.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "feŋ⁵ gui⁵",
+        "tai_lo_standard": "fêng-guî",
+        "phonological_basis": "17c Dominican orthography conversion: fēng (性) -> feŋ⁵ / fêng; gūy (氣) -> gui⁵ / guî."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "¶condicion mala, se enoza -",
+      "source_H": "拗怒 [疑:拗怒/拘怒]",
+      "source_M": "àu nàu",
+      "source_R": "an nū",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "¶condicion mala, se enoza -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "au² nau²",
+        "tai_lo_standard": "áu-náu",
+        "phonological_basis": "17c Dominican orthography conversion: àu (拗) -> au² / áu; nàu (怒) -> nau² / náu."
+      }
+    }
+  ]
+}

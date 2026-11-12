@@ -1,0 +1,110 @@
+[
+  {
+    "label": "Paris052_upper",
+    "source": "/workspace/scratch/3ee2b91a8980/minnan_continuation/paris_chinois9276/images/pdf_052_render_300dpi.png",
+    "source_size": [
+      2464,
+      3509
+    ],
+    "box": [
+      630,
+      60,
+      1650,
+      510
+    ],
+    "crop": "/workspace/scratch/3ee2b91a8980/minnan_continuation/dhs_hispanico_sinicum/external_collation/Paris052_upper_recheck_v1.png",
+    "source_sha256": "301f615c24865819f6b7a459acc6610a11574f8eb8c11a77da61f67b74881c20",
+    "crop_sha256": "d890e02903f524b33d0e6f88a755328cbdcfc0e9e915c1b502dbe3bf3c256de2",
+    "resampled": false
+  },
+  {
+    "label": "Paris052_lang",
+    "source": "/workspace/scratch/3ee2b91a8980/minnan_continuation/paris_chinois9276/images/pdf_052_render_300dpi.png",
+    "source_size": [
+      2464,
+      3509
+    ],
+    "box": [
+      1650,
+      200,
+      2400,
+      1000
+    ],
+    "crop": "/workspace/scratch/3ee2b91a8980/minnan_continuation/dhs_hispanico_sinicum/external_collation/Paris052_lang_recheck_v1.png",
+    "source_sha256": "301f615c24865819f6b7a459acc6610a11574f8eb8c11a77da61f67b74881c20",
+    "crop_sha256": "7d4c8ae5e1938e6c00d701ad58a5b75ca020b502d47cb9e734bd03deb5418460",
+    "resampled": false
+  },
+  {
+    "label": "Mingxin105_A03",
+    "source": "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_mss6040/images/pdf_105_render_300dpi.png",
+    "source_size": [
+      1773,
+      2387
+    ],
+    "box": [
+      830,
+      245,
+      1390,
+      365
+    ],
+    "crop": "/workspace/scratch/3ee2b91a8980/minnan_continuation/dhs_hispanico_sinicum/external_collation/Mingxin105_A03_recheck_v1.png",
+    "source_sha256": "8974ba9b5c3d6afcf79e705a17f196a2a072d9c27dc2d550a659b67e185df4e1",
+    "crop_sha256": "e370cfe6c285c51f83b1282dc5983db13b86b318beb7897d8aa177bfff28092a",
+    "resampled": false
+  },
+  {
+    "label": "Grammar027_layers",
+    "source": "/workspace/shared/minnan_transcription/grammar/blind_v1/pdf_027.png",
+    "source_size": [
+      2635,
+      3509
+    ],
+    "box": [
+      1010,
+      2010,
+      1760,
+      2860
+    ],
+    "crop": "/workspace/scratch/3ee2b91a8980/minnan_continuation/dhs_hispanico_sinicum/external_collation/Grammar027_layers_recheck_v1.png",
+    "source_sha256": "a5f813abf520a8dfebbb98f95d77b299a118a0802efbec60ecbbb057795b39fd",
+    "crop_sha256": "536934a888fa84055e08d3327a13941b70b1fc91f345ffc78b5da8f699ab3fe1",
+    "resampled": false
+  },
+  {
+    "label": "Grammar028_layers",
+    "source": "/workspace/shared/minnan_transcription/grammar/blind_v1/pdf_028.png",
+    "source_size": [
+      2622,
+      3509
+    ],
+    "box": [
+      950,
+      680,
+      1540,
+      1410
+    ],
+    "crop": "/workspace/scratch/3ee2b91a8980/minnan_continuation/dhs_hispanico_sinicum/external_collation/Grammar028_layers_recheck_v1.png",
+    "source_sha256": "5aab36ea9334fd1d7c569692bb0f03b29b2886fb48fa4633c7fc11adc4f17f3e",
+    "crop_sha256": "c47178bd348a22e0dd9cfe19c402b7a5a4c3be64f0fcd841e85127a7a39465b4",
+    "resampled": false
+  },
+  {
+    "label": "HAB04_006_day",
+    "source": "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/evidence/hab04_006_R09.png",
+    "source_size": [
+      350,
+      2500
+    ],
+    "box": [
+      25,
+      260,
+      280,
+      620
+    ],
+    "crop": "/workspace/scratch/3ee2b91a8980/minnan_continuation/dhs_hispanico_sinicum/external_collation/HAB04_006_day_recheck_v1.png",
+    "source_sha256": "733c58f3f9e4c7cb3572b978f0d80c01d0c3649e2aa528a654e7575179d71852",
+    "crop_sha256": "0439ea9089141d68f38027e95ba936962fb3d6450e83584dafb856ae888b2a1f",
+    "resampled": false
+  }
+]

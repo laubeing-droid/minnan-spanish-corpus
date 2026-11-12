@@ -1,0 +1,400 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 79,
+  "historical_folio": 50,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0079/pdf_0079_300dpi.png",
+  "page_header": "A ante.",
+  "page_footer_printed": "- 50 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Al fin, finalmte.",
+      "source_H": "終須",
+      "source_M": "chióng sú",
+      "source_R": "chǒng sŷ",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Al fin, finalmte.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsioŋ¹ su¹",
+        "tai_lo_standard": "tsiong-su",
+        "phonological_basis": "17c Dominican orthography conversion: chióng (終) -> tsioŋ¹ / tsiong; sú (須) -> su¹ / su."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "algún ay.",
+      "source_H": "終有",
+      "source_M": "chióng ǔ.",
+      "source_R": "chǒng iěu",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "algún ay.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsioŋ¹ u²",
+        "tai_lo_standard": "tsiong-ú",
+        "phonological_basis": "17c Dominican orthography conversion: chióng (終) -> tsioŋ¹ / tsiong; ǔ (有) -> u² / ú."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Alfonbra.",
+      "source_H": "單",
+      "source_M": "Tǒã.",
+      "source_R": "tǎn",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Alfonbra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tõã²",
+        "tai_lo_standard": "toánn",
+        "phonological_basis": "17c Dominican orthography conversion: Tǒã (單) -> tõã² / toánn."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "alfonbra",
+      "source_H": "氊條",
+      "source_M": "chý hau.",
+      "source_R": "chǐn tiâu",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alfonbra",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi¹ hau¹",
+        "tai_lo_standard": "tsi-hau",
+        "phonological_basis": "17c Dominican orthography conversion: ch (氊) -> tsi¹ / tsi; hau (條) -> hau¹ / hau."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "alfonbra.",
+      "source_H": "氊單",
+      "source_M": "chỹ toá̃",
+      "source_R": "chǐn tǎn",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alfonbra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi¹ tõã¹",
+        "tai_lo_standard": "tsi-toann",
+        "phonological_basis": "17c Dominican orthography conversion: ch (氊) -> tsi¹ / tsi; toá̃ (單) -> tõã¹ / toann."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Alforjas.",
+      "source_H": "搭連",
+      "source_M": "hǒa liẽ",
+      "source_R": "tā liên",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Alforjas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hoa² lĩẽ²",
+        "tai_lo_standard": "hoá-liénn",
+        "phonological_basis": "17c Dominican orthography conversion: hǒa (搭) -> hoa² / hoá; liẽ (連) -> lĩẽ² / liénn."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Al galápagos.",
+      "source_H": "麗猫",
+      "source_M": "fiǎ bã gat.",
+      "source_R": "liē miaor",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Al galápagos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fia² bã¹ gat⁷",
+        "tai_lo_standard": "fiá-bann-gat",
+        "phonological_basis": "17c Dominican orthography conversion: fiǎ (麗) -> fia² / fiá; bã (猫) -> bã¹ / bann; gat (?) -> gat⁷ / gat."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "algalià.",
+      "source_H": "梨猫麗",
+      "source_M": "lāy Bõ fiá",
+      "source_R": "lȳ miǎn jiē",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "algalià.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lai⁵ bõ¹ fia¹",
+        "tai_lo_standard": "lâi-bonn-fia",
+        "phonological_basis": "17c Dominican orthography conversion: lāy (梨) -> lai⁵ / lâi; Bõ (猫) -> bõ¹ / bonn; fiá (麗) -> fia¹ / fia."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Al gibe de agua enel Orauio.",
+      "source_H": "匱",
+      "source_M": "chuy cuy. chun cuy",
+      "source_R": "cūy",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Al gibe de agua enel Orauio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui² kui⁶",
+        "tai_lo_standard": "tsuí-kuī",
+        "phonological_basis": "17c Dominican orthography conversion: chuy (匱) -> tsui² / tsuí; cuy (?) -> kui⁶ / kuī."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Algodon",
+      "source_H": "貝",
+      "source_M": "Puê",
+      "source_R": "carbah pūi",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Algodon",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pue³",
+        "tai_lo_standard": "puè",
+        "phonological_basis": "17c Dominican orthography conversion: Puê (貝) -> pue³ / puè."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "algodon-",
+      "source_H": "貝花",
+      "source_M": "pûe huá",
+      "source_R": "pūi hǔa",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "algodon-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pue³ hua¹",
+        "tai_lo_standard": "puè-hua",
+        "phonological_basis": "17c Dominican orthography conversion: pûe (貝) -> pue³ / puè; huá (花) -> hua¹ / hua."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "algodon.",
+      "source_H": "苦貝",
+      "source_M": "gúi pûe",
+      "source_R": "gūi gūi",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "algodon.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui¹ pue³",
+        "tai_lo_standard": "gui-puè",
+        "phonological_basis": "17c Dominican orthography conversion: gúi (苦) -> gui¹ / gui; pûe (貝) -> pue³ / puè."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "algodon en capullo",
+      "source_H": "吉",
+      "source_M": "cá",
+      "source_R": "gūie",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "algodon en capullo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka¹",
+        "tai_lo_standard": "ka",
+        "phonological_basis": "17c Dominican orthography conversion: cá (吉) -> ka¹ / ka."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "algodon en capullo.",
+      "source_H": "吉貝",
+      "source_M": "cá pôa",
+      "source_R": "gūie gūi",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "algodon en capullo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka¹ poa³",
+        "tai_lo_standard": "ka-poà",
+        "phonological_basis": "17c Dominican orthography conversion: cá (吉) -> ka¹ / ka; pôa (貝) -> poa³ / poà."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "algodonlimpio por hilar",
+      "source_H": "吉貝綿",
+      "source_M": "cá pôa mȳ",
+      "source_R": "gūie gūy miên",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "algodonlimpio por hilar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka¹ poa³ mi⁵",
+        "tai_lo_standard": "ka-poà-mî",
+        "phonological_basis": "17c Dominican orthography conversion: cá (吉) -> ka¹ / ka; pôa (貝) -> poa³ / poà; m (綿) -> mi⁵ / mî."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "algodonhilado sencillo.",
+      "source_H": "吉貝紗",
+      "source_M": "cá pôa sé",
+      "source_R": "gūie gūy sǎ",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "algodonhilado sencillo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka¹ poa³ se¹",
+        "tai_lo_standard": "ka-poà-se",
+        "phonological_basis": "17c Dominican orthography conversion: cá (吉) -> ka¹ / ka; pôa (貝) -> poa³ / poà; sé (紗) -> se¹ / se."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "algodon por hilar.",
+      "source_H": "綿",
+      "source_M": "my",
+      "source_R": "miên",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "algodon por hilar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mi²",
+        "tai_lo_standard": "mí",
+        "phonological_basis": "17c Dominican orthography conversion: my (綿) -> mi² / mí."
+      }
+    }
+  ]
+}

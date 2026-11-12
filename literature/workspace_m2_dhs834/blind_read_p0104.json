@@ -1,0 +1,505 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 104,
+  "historical_folio": 75,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0104/pdf_0104_300dpi.png",
+  "page_header": "A. ante. N.",
+  "page_footer_printed": "- 75 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "animo, animas, precipitar [疑:precipitar/pnitar].",
+      "source_H": "悟 [疑:悟/蒲]",
+      "source_M": "Pouyz",
+      "source_R": "pû",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo, animas, precipitar .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pouiz¹",
+        "tai_lo_standard": "pouiz",
+        "phonological_basis": "17c Dominican orthography conversion: Pouyz (悟) -> pouiz¹ / pouiz."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "animo g",
+      "source_H": "悟伊 [疑:悟/蒲]",
+      "source_M": "[残]",
+      "source_R": "pû y",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo g",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "animo y Chin[残]sy grande. sabio",
+      "source_H": "軒",
+      "source_M": "hien",
+      "source_R": "hièn",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo y Chinsy grande. sabio",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hien¹",
+        "tai_lo_standard": "hien",
+        "phonological_basis": "17c Dominican orthography conversion: hien (軒) -> hien¹ / hien."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "animo y emprender assy grande. sabio y gran pretencion",
+      "source_H": "軒昂 [疑:昂/昇]",
+      "source_M": "hién gāng.",
+      "source_R": "hièn ngàng",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo y emprender assy grande. sabio y gran pretencion",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hien¹ gaŋ⁵",
+        "tai_lo_standard": "hien-gâng",
+        "phonological_basis": "17c Dominican orthography conversion: hién (軒) -> hien¹ / hien; gāng (昂) -> gaŋ⁵ / gâng."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "animo y balor.",
+      "source_H": "軒冕 [疑:冕/晃]",
+      "source_M": "hién Bièn [残]",
+      "source_R": "hièn mièn",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo y balor.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hien¹ bien²",
+        "tai_lo_standard": "hien-bién",
+        "phonological_basis": "17c Dominican orthography conversion: hién (軒) -> hien¹ / hien; Bièn (冕) -> bien² / bién."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "animo soberbio.",
+      "source_H": "昂 [疑:昂/昇]",
+      "source_M": "gāng.",
+      "source_R": "ngàng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo soberbio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gaŋ⁵",
+        "tai_lo_standard": "gâng",
+        "phonological_basis": "17c Dominican orthography conversion: gāng (昂) -> gaŋ⁵ / gâng."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "animo blando, nada turbada",
+      "source_H": "裕",
+      "source_M": "im̂ xū. xiù yǒ",
+      "source_R": "xij",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo blando, nada turbada",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "im³ dzu⁶ dziu¹ io⁶",
+        "tai_lo_standard": "ìm-jū-jiu-iō",
+        "phonological_basis": "17c Dominican orthography conversion: im̂ (裕) -> im³ / ìm; xū (?) -> dzu⁶ / jū; xiù (?) -> dziu¹ / jiu; yǒ (?) -> io⁶ / iō."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "animo piadoso, zelador.",
+      "source_H": "慰 [疑:慰/慇]",
+      "source_M": "Vn̄:",
+      "source_R": "yěn",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo piadoso, zelador.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "vn⁵",
+        "tai_lo_standard": "v̂n",
+        "phonological_basis": "17c Dominican orthography conversion: Vn̄ (慰) -> vn⁵ / v̂n."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "animo piadoso, seruicial.",
+      "source_H": "慇懃 [疑:慇/慰]",
+      "source_M": "Vn̄ quīn",
+      "source_R": "yěn quîen",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo piadoso, seruicial.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "vn⁵ kin⁵",
+        "tai_lo_standard": "v̂n-kîn",
+        "phonological_basis": "17c Dominican orthography conversion: Vn̄ (慇) -> vn⁵ / v̂n; quīn (懃) -> kin⁵ / kîn."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "animo piadoso",
+      "source_H": "懃意",
+      "source_M": "quīn y",
+      "source_R": "quīen y",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo piadoso",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kin⁵ i¹",
+        "tai_lo_standard": "kîn-i",
+        "phonological_basis": "17c Dominican orthography conversion: quīn (懃) -> kin⁵ / kîn; y (意) -> i¹ / i."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "animo y emprender aunque cansados.",
+      "source_H": "効劳 [疑:劳/勞]",
+      "source_M": "hau lō",
+      "source_R": "hiān lôi",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo y emprender aunque cansados.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hau² lo⁵",
+        "tai_lo_standard": "háu-lô",
+        "phonological_basis": "17c Dominican orthography conversion: hau (効) -> hau² / háu; lō (劳) -> lo⁵ / lô."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "animoss sin temor -",
+      "source_H": "亡命",
+      "source_M": "bōng bengy.",
+      "source_R": "bāng mēng",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animoss sin temor -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bɔŋ² bengi¹",
+        "tai_lo_standard": "bóng-bengi",
+        "phonological_basis": "17c Dominican orthography conversion: bōng (亡) -> bɔŋ² / bóng; bengy (命) -> bengi¹ / bengi."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "animoss esforçados fuerts de hierro",
+      "source_H": "硬骨",
+      "source_M": "nge cūt",
+      "source_R": "ngūeng cūt",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animoss esforçados fuerts de hierro",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ŋe¹ kut⁸",
+        "tai_lo_standard": "nge-ku̍t",
+        "phonological_basis": "17c Dominican orthography conversion: nge (硬) -> ŋe¹ / nge; cūt (骨) -> kut⁸ / ku̍t."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "animoss de gran pretencion",
+      "source_H": "惺惺志氣",
+      "source_M": "seng seng chī guī,",
+      "source_R": "sèng sèng chŷ guī.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animoss de gran pretencion",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "seŋ¹ seŋ¹ tsi⁵ gui⁵",
+        "tai_lo_standard": "seng-seng-tsî-guî",
+        "phonological_basis": "17c Dominican orthography conversion: seng (惺) -> seŋ¹ / seng; seng (惺) -> seŋ¹ / seng; chī (志) -> tsi⁵ / tsî; guī (氣) -> gui⁵ / guî."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "animoss de gran valor y capacidad.",
+      "source_H": "力量",
+      "source_M": "lēy liàng.",
+      "source_R": "līt liāng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animoss de gran valor y capacidad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lei⁵ liaŋ²",
+        "tai_lo_standard": "lêi-liáng",
+        "phonological_basis": "17c Dominican orthography conversion: lēy (力) -> lei⁵ / lêi; liàng (量) -> liaŋ² / liáng."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "animo grande para todos, liberal y dadivoso",
+      "source_H": "大方",
+      "source_M": "tāy hōy.",
+      "source_R": "tā fañg.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo grande para todos, liberal y dadivoso",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tai⁵ hoi⁵",
+        "tai_lo_standard": "tâi-hôi",
+        "phonological_basis": "17c Dominican orthography conversion: tāy (大) -> tai⁵ / tâi; hōy (方) -> hoi⁵ / hôi."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "animo vastül, cufridos -",
+      "source_H": "大量",
+      "source_M": "tāy liàng.",
+      "source_R": "tā liāng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo vastül, cufridos -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tai⁵ liaŋ²",
+        "tai_lo_standard": "tâi-liáng",
+        "phonological_basis": "17c Dominican orthography conversion: tāy (大) -> tai⁵ / tâi; liàng (量) -> liaŋ² / liáng."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "animo grande ₸ prender.",
+      "source_H": "大志",
+      "source_M": "tāy chŷ",
+      "source_R": "tā chŷ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo grande ₸ prender.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tai⁵ tsi³",
+        "tai_lo_standard": "tâi-tsì",
+        "phonological_basis": "17c Dominican orthography conversion: tāy (大) -> tai⁵ / tâi; ch (志) -> tsi³ / tsì."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "animo grande, fuerte, honrado-",
+      "source_H": "大气 [疑:气/氣]",
+      "source_M": "tāy quī.",
+      "source_R": "tā guī.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo grande, fuerte, honrado-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tai⁵ ki⁵",
+        "tai_lo_standard": "tâi-kî",
+        "phonological_basis": "17c Dominican orthography conversion: tāy (大) -> tai⁵ / tâi; quī (气) -> ki⁵ / kî."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "A til, idov para venit [疑:A til, idov para venit/Añil, color para teñir]",
+      "source_H": "菁 [疑:菁/青]",
+      "source_M": "che.",
+      "source_R": "chëng",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A til, idov para venit",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse¹",
+        "tai_lo_standard": "tse",
+        "phonological_basis": "17c Dominican orthography conversion: che (菁) -> tse¹ / tse."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "anil para venir [疑:venir/teñir] y la frutita de aquello ha cã -",
+      "source_H": "子菁 [疑:菁/青]",
+      "source_M": "che chŷ",
+      "source_R": "chī chëng",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "anil para venir y la frutita de aquello ha cã -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse³ tsi¹",
+        "tai_lo_standard": "tsè-tsi",
+        "phonological_basis": "17c Dominican orthography conversion: che (子) -> tse³ / tsè; ch (菁) -> tsi¹ / tsi."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "A nocher ——",
+      "source_H": "暮",
+      "source_M": "mon it būe lô là-",
+      "source_R": "mūn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A nocher ——",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mon⁵ it⁷ bue² lo³ la²",
+        "tai_lo_standard": "môn-it-bué-lò-lá",
+        "phonological_basis": "17c Dominican orthography conversion: mon (暮) -> mon⁵ / môn; it (?) -> it⁷ / it; būe (?) -> bue² / bué; lô (?) -> lo³ / lò; là (?) -> la² / lá."
+      }
+    }
+  ]
+}

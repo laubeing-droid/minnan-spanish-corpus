@@ -1,0 +1,399 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 576,
+  "historical_folio": 542,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0576/pdf_0576_300dpi.png",
+  "page_header": "H. ante. U.",
+  "page_footer_printed": "- 542 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Humedo~",
+      "source_H": "濕",
+      "source_M": "sip",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Humedo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sip⁷",
+        "tai_lo_standard": "sip",
+        "phonological_basis": "17c Dominican orthography conversion: sip (濕) -> sip⁷ / sip."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "(humedo)",
+      "source_H": "淡",
+      "source_M": "tam tam ip.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(humedo)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tam⁵ tam⁶ ip⁷",
+        "tai_lo_standard": "tâm-tām-ip",
+        "phonological_basis": "17c Dominican orthography conversion: tam (淡) -> tam⁵ / tâm; tam (?) -> tam⁶ / tām; ip (?) -> ip⁷ / ip."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "humedo del rocio~",
+      "source_H": "潤",
+      "source_M": "xun",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "humedo del rocio~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzun²",
+        "tai_lo_standard": "jún",
+        "phonological_basis": "17c Dominican orthography conversion: xun (潤) -> dzun² / jún."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "(humedo del rocio)",
+      "source_H": "濕潤",
+      "source_M": "sip xun",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(humedo del rocio)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sip⁷ dzun²",
+        "tai_lo_standard": "sip-jún",
+        "phonological_basis": "17c Dominican orthography conversion: sip (濕) -> sip⁷ / sip; xun (潤) -> dzun² / jún."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "humedo p.a sembrar~",
+      "source_H": "澤",
+      "source_M": "teg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "humedo p.a sembrar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tek⁷",
+        "tai_lo_standard": "tek",
+        "phonological_basis": "17c Dominican orthography conversion: teg (澤) -> tek⁷ / tek."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "(humedo)",
+      "source_H": "淡濕",
+      "source_M": "(tam sip)",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(humedo)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tam⁵ sip⁷",
+        "tai_lo_standard": "tâm-sip",
+        "phonological_basis": "17c Dominican orthography conversion: tam (淡) -> tam⁵ / tâm; sip (濕) -> sip⁷ / sip."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "humedo sehar aelserens, oael agua~",
+      "source_H": "陰濕 [疑:陰/儉]",
+      "source_M": "im sip.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "humedo sehar aelserens, oael agua~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "im¹ sip⁷",
+        "tai_lo_standard": "im-sip",
+        "phonological_basis": "17c Dominican orthography conversion: im (陰) -> im¹ / im; sip (濕) -> sip⁷ / sip."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Humedo, erafo~",
+      "source_H": "沽",
+      "source_M": "tiam.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Humedo, erafo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiam¹",
+        "tai_lo_standard": "tiam",
+        "phonological_basis": "17c Dominican orthography conversion: tiam (沽) -> tiam¹ / tiam."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Humillarse~",
+      "source_H": "度",
+      "source_M": "quien",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Humillarse~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kien²",
+        "tai_lo_standard": "kién",
+        "phonological_basis": "17c Dominican orthography conversion: quien (度) -> kien² / kién."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "(humillarse)",
+      "source_H": "度誠",
+      "source_M": "quien seng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(humillarse)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kien² seŋ⁵",
+        "tai_lo_standard": "kién-sêng",
+        "phonological_basis": "17c Dominican orthography conversion: quien (度) -> kien² / kién; seng (誠) -> seŋ⁵ / sêng."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "humillarse para engañar",
+      "source_H": "諂 [疑:諂/謟]",
+      "source_M": "tiam tiam mi adular.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "humillarse para engañar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiam² tiam⁶ mi⁶ adular¹",
+        "tai_lo_standard": "tiám-tiām-mī-adular",
+        "phonological_basis": "17c Dominican orthography conversion: tiam (諂) -> tiam² / tiám; tiam (?) -> tiam⁶ / tiām; mi (?) -> mi⁶ / mī; adular (?) -> adular¹ / adular."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "humillar adro~ corui cargat, y.",
+      "source_H": "押",
+      "source_M": "a. a lo tau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "humillar adro~ corui cargat, y.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "a¹ a¹ lo³ tau⁶",
+        "tai_lo_standard": "a-a-lò-tāu",
+        "phonological_basis": "17c Dominican orthography conversion: a (押) -> a¹ / a; a (?) -> a¹ / a; lo (?) -> lo³ / lò; tau (?) -> tau⁶ / tāu."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Humillar.",
+      "source_H": "治到善",
+      "source_M": "ti cau sien a taglua so.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T00 (無標號)",
+        "T00 (無標號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Humillar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti² kau³ sien² a¹ taglua¹ so¹",
+        "tai_lo_standard": "tí-kàu-sién-a-taglua-so",
+        "phonological_basis": "17c Dominican orthography conversion: ti (治) -> ti² / tí; cau (到) -> kau³ / kàu; sien (善) -> sien² / sién; a (?) -> a¹ / a; taglua (?) -> taglua¹ / taglua; so (?) -> so¹ / so."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "humillar",
+      "source_H": "教導",
+      "source_M": "cau co.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "humillar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kau³ ko²",
+        "tai_lo_standard": "kàu-kó",
+        "phonological_basis": "17c Dominican orthography conversion: cau (教) -> kau³ / kàu; co (導) -> ko² / kó."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "humillar~",
+      "source_H": "治到服",
+      "source_M": "ti cau hog.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "humillar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti² kau³ hɔk⁸",
+        "tai_lo_standard": "tí-kàu-ho̍k",
+        "phonological_basis": "17c Dominican orthography conversion: ti (治) -> ti² / tí; cau (到) -> kau³ / kàu; hog (服) -> hɔk⁸ / ho̍k."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "(humillar castigando)",
+      "source_H": "押落頭",
+      "source_M": "(a lo tau)",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(humillar castigando)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "a³ lo² tʰau⁵",
+        "tai_lo_standard": "à-ló-thâu",
+        "phonological_basis": "17c Dominican orthography conversion: a (押) -> a³ / à; lo (落) -> lo² / ló; tau (頭) -> tʰau⁵ / thâu."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "humillar casobervia",
+      "source_H": "摧志 [疑:摧/屈]",
+      "source_M": "cui chy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "humillar casobervia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kui⁵ tsi³",
+        "tai_lo_standard": "kuî-tsì",
+        "phonological_basis": "17c Dominican orthography conversion: cui (摧) -> kui⁵ / kuî; chy (志) -> tsi³ / tsì."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Humo~",
+      "source_H": "燻",
+      "source_M": "hun",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Humo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hun¹",
+        "tai_lo_standard": "hun",
+        "phonological_basis": "17c Dominican orthography conversion: hun (燻) -> hun¹ / hun."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "(humo)~",
+      "source_H": "煙",
+      "source_M": "ien",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(humo)~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ien¹",
+        "tai_lo_standard": "ien",
+        "phonological_basis": "17c Dominican orthography conversion: ien (煙) -> ien¹ / ien."
+      }
+    }
+  ]
+}

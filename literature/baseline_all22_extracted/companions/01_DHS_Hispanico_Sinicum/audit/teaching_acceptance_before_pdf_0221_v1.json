@@ -1,0 +1,76 @@
+{
+  "method_version": "DHS_reader_method_only_v1",
+  "method_text_read_at_utc": "2026-10-16T08:44:37Z",
+  "all_seven_teaching_images_visually_read_at_utc": "2026-10-16T08:44:55Z",
+  "accepted_at_utc": "2026-10-16T08:45:53.529910+00:00",
+  "applies_from_pdf_page": 221,
+  "new_assigned_range": [
+    221,
+    240
+  ],
+  "prior_frozen_ranges_unchanged": [
+    [
+      41,
+      60
+    ],
+    [
+      106,
+      125
+    ],
+    [
+      171,
+      190
+    ]
+  ],
+  "teaching_prior_scope": "只读取指定去答案方法页及T01–T07七幅公开调号示例图，学习斜干/附支与7种作者编码；未读原论文、定位参考报告、A/B/C/D答案/结果或其他读者稿。",
+  "teaching_assets": [
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/DHS_reader_method_only_v1.md",
+      "sha256": "9f0f81825b74ddf084e6ab9f08290bafb3d8a132bd0d1a99f64f68727e0b77df",
+      "bytes": 1912
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/T01_published_tone_example.jpeg",
+      "sha256": "fbb8591cd2c1a0d52bfcac7f1d01bacfd56687aa18985f31dac7722a54ec22b0",
+      "bytes": 3813
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/T02_published_tone_example.jpeg",
+      "sha256": "53b2fe9999906ae55c65ad92a78740547910876a4353dccf05016236051b7496",
+      "bytes": 3953
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/T03_published_tone_example.jpeg",
+      "sha256": "fc22dcfce7fe44f4498d7a8e171d511e61cb4442566a98c5366877b778c77f0c",
+      "bytes": 4076
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/T04_published_tone_example.jpeg",
+      "sha256": "3206b8411f1ae26a56322efd44fea3ebcf1c55a41c330478517d57015fd6440a",
+      "bytes": 3401
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/T05_published_tone_example.jpeg",
+      "sha256": "acabe80a9a3b415d828549115e3d82ad61de19a7086c515cf0d6593fcdc5e955",
+      "bytes": 3865
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/T06_published_tone_example.jpeg",
+      "sha256": "8e4444b5a22889a4549761ae5ee6152830ab59733e020409330ee016294414e9",
+      "bytes": 3895
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/T07_published_tone_example.jpeg",
+      "sha256": "b4a1e273a658fc506dab6854abc9f6622dcab3fa1ada6062b0513da98f95eb32",
+      "bytes": 3663
+    }
+  ],
+  "method_delta": [
+    "音节字母主干与上方记号分开记录。",
+    "写原笔形状，再给作者码首选/候选；不把粗叉一律归帽号。",
+    "不能区分时保留未决，不由汉字现代调类反推。",
+    "音值解释另层；七号不能未经验证迁移DSH/HAB/Arte。"
+  ],
+  "limits": "接受一般教学先验后，后续不能称完全无先验盲读；未证明教学提升准确率。",
+  "phase": "teaching_prior_received_after_pdf_0186_0190_frozen_before_pdf_0221_visual_read"
+}

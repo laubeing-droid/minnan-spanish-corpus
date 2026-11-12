@@ -1,0 +1,488 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 440,
+  "historical_folio": 406,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0440/pdf_0440_300dpi.png",
+  "page_header": "E. ante. G.",
+  "page_footer_printed": "- 406 -",
+  "page_footer_handwritten": "203",
+  "total_positions_recorded": 21,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "entonces . y do entonces.",
+      "source_H": "許卒 [疑:卒/悖]",
+      "source_M": "hù chŭn",
+      "source_R": "hý chūnⁿ",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entonces . y do entonces.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu² tsi² ni¹",
+        "tai_lo_standard": "hú-tsí-ni",
+        "phonological_basis": "17c Dominican orthography conversion: hù (許) -> hu² / hú; ch (卒) -> tsi² / tsí; n (?) -> ni¹ / ni."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "entonces.",
+      "source_H": "許時",
+      "source_M": "hù sȳ",
+      "source_R": "hý zź",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entonces.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu² si⁵",
+        "tai_lo_standard": "hú-sî",
+        "phonological_basis": "17c Dominican orthography conversion: hù (許) -> hu² / hú; s (時) -> si⁵ / sî."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "entronces",
+      "source_H": "時莭",
+      "source_M": "hōusy chiĕ",
+      "source_R": "zź chiè",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entronces",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "housi⁵ tsi²",
+        "tai_lo_standard": "hôusi-tsí",
+        "phonological_basis": "17c Dominican orthography conversion: hōusy (時) -> housi⁵ / hôusi; chi (莭) -> tsi² / tsí."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "entronces",
+      "source_H": "[空]",
+      "source_M": "hú sȳ [疑:hú/fiu]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entronces",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu¹ si⁶ hu¹ fiu¹",
+        "tai_lo_standard": "hu-sī-hu-fiu",
+        "phonological_basis": "17c Dominican orthography conversion: hú (?) -> hu¹ / hu; s (?) -> si⁶ / sī; hú (?) -> hu¹ / hu; fiu (?) -> fiu¹ / fiu."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Entrañas.",
+      "source_H": "腸",
+      "source_M": "Jūng",
+      "source_R": "chiàng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Entrañas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzuŋ⁵",
+        "tai_lo_standard": "jûng",
+        "phonological_basis": "17c Dominican orthography conversion: Jūng (腸) -> dzuŋ⁵ / jûng."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "entrañas.",
+      "source_H": "襟懷",
+      "source_M": "quĭm huāy",
+      "source_R": "quĭn huây",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entrañas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki² mi⁵ huai⁶",
+        "tai_lo_standard": "kí-mî-huāi",
+        "phonological_basis": "17c Dominican orthography conversion: qu (襟) -> ki² / kí; m (懷) -> mi⁵ / mî; huāy (?) -> huai⁶ / huāi."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "en franas",
+      "source_H": "心肝",
+      "source_M": "sĭm cua",
+      "source_R": "ſĭm cŭa",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "en franas",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si² mi¹ kua¹",
+        "tai_lo_standard": "sí-mi-kua",
+        "phonological_basis": "17c Dominican orthography conversion: s (心) -> si² / sí; m (肝) -> mi¹ / mi; cua (?) -> kua¹ / kua."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Entriar-",
+      "source_H": "入",
+      "source_M": "xip, xip laj bahal.",
+      "source_R": "xīp",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Entriar-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzip⁸ dzip⁷ laj¹ bahal¹",
+        "tai_lo_standard": "ji̍p-jip-laj-bahal",
+        "phonological_basis": "17c Dominican orthography conversion: xip (入) -> dzip⁸ / ji̍p; xip (?) -> dzip⁷ / jip; laj (?) -> laj¹ / laj; bahal (?) -> bahal¹ / bahal."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "entrar . amojandose utalagua",
+      "source_H": "投",
+      "source_M": "tau.",
+      "source_R": "tēu",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entrar . amojandose utalagua",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tau¹",
+        "tai_lo_standard": "tau",
+        "phonological_basis": "17c Dominican orthography conversion: tau (投) -> tau¹ / tau."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "entravagra por el bordo del navio",
+      "source_H": "湏 [疑:湏/涵]",
+      "source_M": "hām",
+      "source_R": "hān",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entravagra por el bordo del navio",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ham⁵",
+        "tai_lo_standard": "hâm",
+        "phonological_basis": "17c Dominican orthography conversion: hām (湏) -> ham⁵ / hâm."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "entrar delante.",
+      "source_H": "進",
+      "source_M": "chîn.",
+      "source_R": "chīnⁿ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entrar delante.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin³",
+        "tai_lo_standard": "tsìn",
+        "phonological_basis": "17c Dominican orthography conversion: chîn (進) -> tsin³ / tsìn."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "entrar ut sic.",
+      "source_H": "入耒 [疑:耒/來]",
+      "source_M": "xip lāy",
+      "source_R": "xīp lāy",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entrar ut sic.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzip⁸ lai⁵",
+        "tai_lo_standard": "ji̍p-lâi",
+        "phonological_basis": "17c Dominican orthography conversion: xip (入) -> dzip⁸ / ji̍p; lāy (耒) -> lai⁵ / lâi."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "entrar dentro.",
+      "source_H": "入内",
+      "source_M": "xip lāy dentro.",
+      "source_R": "xīp nī",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entrar dentro.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzip⁸ lai⁵ dentro¹",
+        "tai_lo_standard": "ji̍p-lâi-dentro",
+        "phonological_basis": "17c Dominican orthography conversion: xip (入) -> dzip⁸ / ji̍p; lāy (内) -> lai⁵ / lâi; dentro (?) -> dentro¹ / dentro."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "entray.",
+      "source_H": "射入",
+      "source_M": "choh xip",
+      "source_R": "ſiē xīp",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entray.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsoʔ⁷ dzip⁸",
+        "tai_lo_standard": "tsoh-ji̍p",
+        "phonological_basis": "17c Dominican orthography conversion: choh (射) -> tsoʔ⁷ / tsoh; xip (入) -> dzip⁸ / ji̍p."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "entrar en la yglesia",
+      "source_H": "落礼拜",
+      "source_M": "lo lēy pây",
+      "source_R": "lō lĭ pāy",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entrar en la yglesia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lo⁵ lei³ pai³",
+        "tai_lo_standard": "lô-lèi-pài",
+        "phonological_basis": "17c Dominican orthography conversion: lo (落) -> lo⁵ / lô; lēy (礼) -> lei³ / lèi; pây (拜) -> pai³ / pài."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "entrar de rondon",
+      "source_H": "妥進 [疑:妥/安]",
+      "source_M": "bōrj chîn.",
+      "source_R": "vāng chīn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entrar de rondon",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "borj⁵ tsin³",
+        "tai_lo_standard": "bôrj-tsìn",
+        "phonological_basis": "17c Dominican orthography conversion: bōrj (妥) -> borj⁵ / bôrj; chîn (進) -> tsin³ / tsìn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "entrar en la cuenta urgando.",
+      "source_H": "甲裡筭",
+      "source_M": "cab lĭ qŭy",
+      "source_R": "gira lĭ zūan",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entrar en la cuenta urgando.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kabʔ⁷ li² q² i¹",
+        "tai_lo_standard": "kabh-lí-q́-i",
+        "phonological_basis": "17c Dominican orthography conversion: cab (甲) -> kabʔ⁷ / kabh; l (裡) -> li² / lí; q (筭) -> q² / q́; y (?) -> i¹ / i."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "entrar en la cuenta con los demas -",
+      "source_H": "上筭",
+      "source_M": "chiŏ qŭy",
+      "source_R": "ſiāng zūan",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entrar en la cuenta con los demas -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi² q² i¹",
+        "tai_lo_standard": "tsí-q́-i",
+        "phonological_basis": "17c Dominican orthography conversion: chi (上) -> tsi² / tsí; q (筭) -> q² / q́; y (?) -> i¹ / i."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "entrar en la tierra agena y tomalla -",
+      "source_H": "奪出去",
+      "source_M": "hun chŭr cŭ",
+      "source_R": "hūn chŭr guī",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entrar en la tierra agena y tomalla -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huʔ⁷ tsʰi² r² ki¹",
+        "tai_lo_standard": "huh-tshí-ŕ-ki",
+        "phonological_basis": "17c Dominican orthography conversion: hun (奪) -> huʔ⁷ / huh; ch (出) -> tsʰi² / tshí; r (去) -> r² / ŕ; c (?) -> ki¹ / ki."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "entrar en el Reyno enemigo sin pelealla, sin vinela -",
+      "source_H": "失幾 [疑:失/矢]",
+      "source_M": "fit qŭy.",
+      "source_R": "fit gŭi",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T06/T07 (交叉入聲號)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entrar en el Reyno enemigo sin pelealla, sin vinela -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fit⁷ q² i¹",
+        "tai_lo_standard": "fit-q́-i",
+        "phonological_basis": "17c Dominican orthography conversion: fit (失) -> fit⁷ / fit; q (幾) -> q² / q́; y (?) -> i¹ / i."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "entrar el agua el navio",
+      "source_H": "投宿",
+      "source_M": "tāu zôa",
+      "source_R": "tēn zō",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "entrar el agua el navio",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tau⁵ tsoa³",
+        "tai_lo_standard": "tâu-tsoà",
+        "phonological_basis": "17c Dominican orthography conversion: tāu (投) -> tau⁵ / tâu; zôa (宿) -> tsoa³ / tsoà."
+      }
+    }
+  ]
+}

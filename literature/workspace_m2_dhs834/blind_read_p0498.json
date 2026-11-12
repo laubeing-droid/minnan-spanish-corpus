@@ -1,0 +1,379 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 498,
+  "historical_folio": 464,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0498/pdf_0498_300dpi.png",
+  "page_header": "F. ante. O.",
+  "page_footer_printed": "- 464 -",
+  "page_footer_handwritten": "29 232",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Fondo, suelo -",
+      "source_H": "痣",
+      "source_M": "Fey.",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fondo, suelo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fei¹",
+        "tai_lo_standard": "fei",
+        "phonological_basis": "17c Dominican orthography conversion: Fey (痣) -> fei¹ / fei."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Forajido",
+      "source_H": "野候[疑:候/侯]",
+      "source_M": "yà hân",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Forajido",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ia² han³",
+        "tai_lo_standard": "iá-hàn",
+        "phonological_basis": "17c Dominican orthography conversion: yà (野) -> ia² / iá; hân (候) -> han³ / hàn."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Forcar.",
+      "source_H": "強",
+      "source_M": "guiāng giāng ngǐn",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Forcar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guiaŋ⁵ giaŋ⁶ ŋin³",
+        "tai_lo_standard": "guiâng-giāng-ngìn",
+        "phonological_basis": "17c Dominican orthography conversion: guiāng (強) -> guiaŋ⁵ / guiâng; giāng (?) -> giaŋ⁶ / giāng; ngǐn (?) -> ŋin³ / ngìn."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "forcar.",
+      "source_H": "過",
+      "source_M": "âr",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "forcar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ar³",
+        "tai_lo_standard": "àr",
+        "phonological_basis": "17c Dominican orthography conversion: âr (過) -> ar³ / àr."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "forcar.",
+      "source_H": "梗",
+      "source_M": "N.n nge dunger hinaż",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "forcar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ni¹ ni¹ ŋe¹ dunger¹ hina¹",
+        "tai_lo_standard": "ni-ni-nge-dunger-hina",
+        "phonological_basis": "17c Dominican orthography conversion: N (梗) -> ni¹ / ni; n (?) -> ni¹ / ni; nge (?) -> ŋe¹ / nge; dunger (?) -> dunger¹ / dunger; hina (?) -> hina¹ / hina."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "forcar, echandolo fuera.",
+      "source_H": "返",
+      "source_M": "Siǒg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "forcar, echandolo fuera.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siok⁷",
+        "tai_lo_standard": "siok",
+        "phonological_basis": "17c Dominican orthography conversion: Siǒg (返) -> siok⁷ / siok."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "forcar, lleballo por fuerza.",
+      "source_H": "力",
+      "source_M": "eĝ. leĝ. eĝ Ly.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "forcar, lleballo por fuerza.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "e³ le³ e³ li¹",
+        "tai_lo_standard": "è-lè-è-li",
+        "phonological_basis": "17c Dominican orthography conversion: e (力) -> e³ / è; le (?) -> le³ / lè; e (?) -> e³ / è; Ly (?) -> li¹ / li."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "forcar a que se vaya.",
+      "source_H": "革",
+      "source_M": "gueĝ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "forcar a que se vaya.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue³",
+        "tai_lo_standard": "guè",
+        "phonological_basis": "17c Dominican orthography conversion: gue (革) -> gue³ / guè."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "forcar, lleuandle caprivo.",
+      "source_H": "拏[疑:拏/挐]",
+      "source_M": "chŷ. chǐlú",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "forcar, lleuandle caprivo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi³ tsilu¹",
+        "tai_lo_standard": "tsì-tsilu",
+        "phonological_basis": "17c Dominican orthography conversion: ch (拏) -> tsi³ / tsì; chǐlú (?) -> tsilu¹ / tsilu."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "forcar, in le alamand.",
+      "source_H": "抑",
+      "source_M": "eĝ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "forcar, in le alamand.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "e³",
+        "tai_lo_standard": "è",
+        "phonological_basis": "17c Dominican orthography conversion: e (抑) -> e³ / è."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "forcar, hacer la fuerza ez sin mora libgz",
+      "source_H": "抑勒",
+      "source_M": "eĝ 2eĝ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "forcar, hacer la fuerza ez sin mora libgz",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "e³ e³",
+        "tai_lo_standard": "è-è",
+        "phonological_basis": "17c Dominican orthography conversion: e (抑) -> e³ / è; e (勒) -> e³ / è."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "forcar como arnastrand.",
+      "source_H": "拗.",
+      "source_M": "ge, goa.",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "forcar como arnastrand.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ge¹ goa¹",
+        "tai_lo_standard": "ge-goa",
+        "phonological_basis": "17c Dominican orthography conversion: ge (拗) -> ge¹ / ge; goa (?) -> goa¹ / goa."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "forcar.",
+      "source_H": "強硬",
+      "source_M": "quiāng nge",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "forcar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiaŋ⁵ ŋe¹",
+        "tai_lo_standard": "kiâng-nge",
+        "phonological_basis": "17c Dominican orthography conversion: quiāng (強) -> kiaŋ⁵ / kiâng; nge (硬) -> ŋe¹ / nge."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "forcar. que yennis",
+      "source_H": "追迫",
+      "source_M": "tui peg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "forcar. que yennis",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tui¹ pek⁷",
+        "tai_lo_standard": "tui-pek",
+        "phonological_basis": "17c Dominican orthography conversion: tui (追) -> tui¹ / tui; peg (迫) -> pek⁷ / pek."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "forcar la Uoluntad.",
+      "source_H": "拂意",
+      "source_M": "huny",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "forcar la Uoluntad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huni¹",
+        "tai_lo_standard": "huni",
+        "phonological_basis": "17c Dominican orthography conversion: huny (拂) -> huni¹ / huni."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "forcar a la muger.",
+      "source_H": "強姦",
+      "source_M": "quiāng can.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "forcar a la muger.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiaŋ⁵ kan¹",
+        "tai_lo_standard": "kiâng-kan",
+        "phonological_basis": "17c Dominican orthography conversion: quiāng (強) -> kiaŋ⁵ / kiâng; can (姦) -> kan¹ / kan."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "forcar le aque beba.",
+      "source_H": "灌水",
+      "source_M": "cûan chûy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "forcar le aque beba.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuan³ tsui³",
+        "tai_lo_standard": "kuàn-tsuì",
+        "phonological_basis": "17c Dominican orthography conversion: cûan (灌) -> kuan³ / kuàn; chûy (水) -> tsui³ / tsuì."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "forcar como a el g cautivar",
+      "source_H": "掣扭",
+      "source_M": "chý liù",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "forcar como a el g cautivar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi¹ liu²",
+        "tai_lo_standard": "tsi-liú",
+        "phonological_basis": "17c Dominican orthography conversion: ch (掣) -> tsi¹ / tsi; liù (扭) -> liu² / liú."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "forcar a hacer algo, anona Cān?",
+      "source_H": "作威福",
+      "source_M": "chōg uy hōg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "forcar a hacer algo, anona Cān?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsɔk⁷ ui¹ hɔk⁷",
+        "tai_lo_standard": "tsok-ui-hok",
+        "phonological_basis": "17c Dominican orthography conversion: chōg (作) -> tsɔk⁷ / tsok; uy (威) -> ui¹ / ui; hōg (福) -> hɔk⁷ / hok."
+      }
+    }
+  ]
+}

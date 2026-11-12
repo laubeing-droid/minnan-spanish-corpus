@@ -1,0 +1,31 @@
+{
+  "pages": [
+    {
+      "pdf_page": 736,
+      "historical_folio": 702,
+      "page_header": "O. ante. R.",
+      "page_footer_printed": "- 702 -",
+      "page_footer_handwritten": "351",
+      "notes": "仅据三张横带各读一次抄录，未读分栏图，未复核。手写页码 351 为页右上角铅笔字（非页脚），其上另有墨笔 \"L218\"(?) 字样，首字符与中间数字有涂改，存疑。页左上角纸张撕损，未伤及文字；左缘有现代印刷检索字母 \"O\"。第4栏（官话）全页未见墨迹，仅有背面透印（镜像大字 Ordenar 等），一律记 [空]；第17行右侧有一极淡的疑似汉字痕迹，未抄。第6行与第7行之间、第12行与第13行之间有空白格行，未立条。第1行 L 与 M 均被墨圈圈出；第9行 L 被墨圈圈出；第15-17行 L 被一大方括线框住。M 栏字母右上角的小 c 形钩抄作 ʿ（见于 pin、tau、chy），性质待人工判定。存疑处：第1行 L \"cosas\" 或作 \"costa\"；第2行 chiong 上方有粗黑墨团，pin 上方小符号不辨，均记 T99；第3行 liet 上符号在凹角与交叉号之间不能定，记 T99；第5、6行 pin/chy 上除小钩外是否另有调符不能定，记 T99；第8行 tio 上方小曲线疑为鼻化钩（抄作 ⁿ），是否兼含调符不能定，记 T99，pan 与第9行 yong 上符号为带引笔的凹角形；第9行 y 字母经重墨改写；第10行 M 栏罗马字后接写西文旁注并横跨入右栏，整句照抄于 source_M，hue 上横画与 cuy 上升斜均存疑；第12行汉字难辨，M 首音节尾字母 t/r 存疑、次音节首字母 s/l 存疑；第14行汉字疑为 疾 或 捷，M 栏 chiap 后为西文缩写（m 上有缩写号）；第17行 M 字母难辨，调符似尖顶帽，亦可能为交叉入声号。以上待人工校订。",
+      "entries": [
+        {"position": 1, "source_L": "orden decosas como por numero ~", "source_H": "條序", "source_M": "Tiāu sǔ", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T04 (凹角)"], "tone_marks_R": []},
+        {"position": 2, "source_L": "orden de estado, ut matrimonio, milicia &a", "source_H": "品從", "source_M": "pinʿ chiong", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 3, "source_L": "orden primero dequalquier cosa", "source_H": "頭列", "source_M": "tāuʿ liet.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 4, "source_L": "orden degente q̃ haçe reuerencia ael Rey ~", "source_H": "朝班", "source_M": "tiāu pán.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T01 (升斜)"], "tone_marks_R": []},
+        {"position": 5, "source_L": "orden primero ypostrero .", "source_H": "人品", "source_M": "xīn pinʿ.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 6, "source_L": "orden primero ypostrero.", "source_H": "序齒", "source_M": "sǔ chyʿ.", "source_R": "[空]", "tone_marks_M": ["T04 (凹角)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 7, "source_L": "Ordenar, loq̃ letoca -", "source_H": "序", "source_M": "sǔ.", "source_R": "[空]", "tone_marks_M": ["T04 (凹角)"], "tone_marks_R": []},
+        {"position": 8, "source_L": "ordenar, poner por orden.", "source_H": "張辦[疑:辦/辨]", "source_M": "tioⁿ pǎn", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T04 (凹角)"], "tone_marks_R": []},
+        {"position": 9, "source_L": "ordenar poner por orden", "source_H": "運用", "source_M": "ǔn yǒng", "source_R": "[空]", "tone_marks_M": ["T04 (凹角)", "T04 (凹角)"], "tone_marks_R": []},
+        {"position": 10, "source_L": "ordenar, corregir ~", "source_H": "會規", "source_M": "hūe cuý - ordenanças ut de cofradias, delamilicia &.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T01 (升斜)"], "tone_marks_R": []},
+        {"position": 11, "source_L": "ordenar uno tras otro ~", "source_H": "職管", "source_M": "chit cuān .", "source_R": "[空]", "tone_marks_M": ["T06/T07 (交叉入聲號)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 12, "source_L": "Ordeñar.", "source_H": "甩[疑:甩/电]", "source_M": "lut[疑:lut/lur] seńg[疑:seng/leng]", "source_R": "[空]", "tone_marks_M": ["T06/T07 (交叉入聲號)", "T01 (升斜)"], "tone_marks_R": []},
+        {"position": 13, "source_L": "ordinaria mente, de ordinario.", "source_H": "常", "source_M": "siāng : chiap", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T06/T07 (交叉入聲號)"], "tone_marks_R": []},
+        {"position": 14, "source_L": "ordinariamᵗᵉ. o muchas veçes.", "source_H": "疾[疑:疾/捷]", "source_M": "chiap. m̃ veçes", "source_R": "[空]", "tone_marks_M": ["T06/T07 (交叉入聲號)"], "tone_marks_R": []},
+        {"position": 15, "source_L": "ordinaria mente.", "source_H": "累", "source_M": "lùy", "source_R": "[空]", "tone_marks_M": ["T02 (降斜)"], "tone_marks_R": []},
+        {"position": 16, "source_L": "ordinaria mente ~", "source_H": "屢", "source_M": "lùy", "source_R": "[空]", "tone_marks_M": ["T02 (降斜)"], "tone_marks_R": []},
+        {"position": 17, "source_L": "ordinaria mente.", "source_H": "數", "source_M": "soc[疑:soc/sog]", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)"], "tone_marks_R": []}
+      ]
+    }
+  ]
+}

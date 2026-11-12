@@ -1,0 +1,418 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 255,
+  "historical_folio": 226,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0255/pdf_0255_300dpi.png",
+  "page_header": "C. ante. L.",
+  "page_footer_printed": "- 226 -",
+  "page_footer_handwritten": "113",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "cierta mente.",
+      "source_H": "果必",
+      "source_M": "cò pit",
+      "source_R": "cuò pit",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cierta mente.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko² pit⁷",
+        "tai_lo_standard": "kó-pit",
+        "phonological_basis": "17c Dominican orthography conversion: cò (果) -> ko² / kó; pit (必) -> pit⁷ / pit."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "cierta mente.",
+      "source_H": "果然",
+      "source_M": "cò xiēn",
+      "source_R": "cuò xiên",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cierta mente.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko² dzien⁵",
+        "tai_lo_standard": "kó-jiên",
+        "phonological_basis": "17c Dominican orthography conversion: cò (果) -> ko² / kó; xiēn (然) -> dzien⁵ / jiên."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "cierta mente.",
+      "source_H": "决然",
+      "source_M": "cuat xiēn.",
+      "source_R": "guie xiên",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cierta mente.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuat⁷ dzien⁵",
+        "tai_lo_standard": "kuat-jiên",
+        "phonological_basis": "17c Dominican orthography conversion: cuat (决) -> kuat⁷ / kuat; xiēn (然) -> dzien⁵ / jiên."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "cierta mente.",
+      "source_H": "必然",
+      "source_M": "pit xiēn",
+      "source_R": "pit xiên",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cierta mente.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pit⁷ dzien⁵",
+        "tai_lo_standard": "pit-jiên",
+        "phonological_basis": "17c Dominican orthography conversion: pit (必) -> pit⁷ / pit; xiēn (然) -> dzien⁵ / jiên."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "cierta mente.",
+      "source_H": "的的",
+      "source_M": "tic tic.",
+      "source_R": "tī tī: tī tī",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cierta mente.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tik⁷ tik⁷",
+        "tai_lo_standard": "tik-tik",
+        "phonological_basis": "17c Dominican orthography conversion: tic (的) -> tik⁷ / tik; tic (的) -> tik⁷ / tik."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "cierta mente.",
+      "source_H": "實實",
+      "source_M": "sit sit",
+      "source_R": "sī sī",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cierta mente.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sit⁸ sit⁸",
+        "tai_lo_standard": "si̍t-si̍t",
+        "phonological_basis": "17c Dominican orthography conversion: sit (實) -> sit⁸ / si̍t; sit (實) -> sit⁸ / si̍t."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "cierta mente.",
+      "source_H": "宿信",
+      "source_M": "sog sin: [疑:sog/siog]",
+      "source_R": "zog siên",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cierta mente.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sɔk⁷ sin⁵ sɔk⁷ siok⁷",
+        "tai_lo_standard": "sok-sîn-sok-siok",
+        "phonological_basis": "17c Dominican orthography conversion: sog (宿) -> sɔk⁷ / sok; sin (信) -> sin⁵ / sîn; sog (?) -> sɔk⁷ / sok; siog (?) -> siok⁷ / siok."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Cierto seguro y voz.",
+      "source_H": "寧",
+      "source_M": "lēng [疑:lēng/bēng]",
+      "source_R": "nêng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cierto seguro y voz.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "leŋ⁵ leŋ⁶ beŋ⁶",
+        "tai_lo_standard": "lêng-lēng-bēng",
+        "phonological_basis": "17c Dominican orthography conversion: lēng (寧) -> leŋ⁵ / lêng; lēng (?) -> leŋ⁶ / lēng; bēng (?) -> beŋ⁶ / bēng."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "cierto, y firme.",
+      "source_H": "定",
+      "source_M": "Tiã",
+      "source_R": "tīng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cierto, y firme.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tĩã⁶",
+        "tai_lo_standard": "tiānn",
+        "phonological_basis": "17c Dominican orthography conversion: Tiã (定) -> tĩã⁶ / tiānn."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "cierto, fijo, y firme.",
+      "source_H": "堅實",
+      "source_M": "guien sit",
+      "source_R": "guien jia",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cierto, fijo, y firme.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guien¹ sit⁸",
+        "tai_lo_standard": "guien-si̍t",
+        "phonological_basis": "17c Dominican orthography conversion: guien (堅) -> guien¹ / guien; sit (實) -> sit⁸ / si̍t."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "cierto verdadero.",
+      "source_H": "大下明",
+      "source_M": "toã ē bēng",
+      "source_R": "ta hia meng",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cierto verdadero.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tõã² e⁵ beŋ⁵",
+        "tai_lo_standard": "toánn-ê-bêng",
+        "phonological_basis": "17c Dominican orthography conversion: toã (大) -> tõã² / toánn; ē (下) -> e⁵ / ê; bēng (明) -> beŋ⁵ / bêng."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "cierto sin [残] por filas / ael guarifio",
+      "source_H": "可定餅",
+      "source_M": "ca tia piã",
+      "source_R": "co teng peng",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cierto sin por filas / ael guarifio",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kaʔ⁷ tia⁶ pĩã⁵",
+        "tai_lo_standard": "kah-tiā-piânn",
+        "phonological_basis": "17c Dominican orthography conversion: ca (可) -> kaʔ⁷ / kah; tia (定) -> tia⁶ / tiā; piã (餅) -> pĩã⁵ / piânn."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "cierto, y penetrar la razon.",
+      "source_H": "通透",
+      "source_M": "thong thau",
+      "source_R": "tong tou",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cierto, y penetrar la razon.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰɔŋ⁵ tʰau²",
+        "tai_lo_standard": "thông-tháu",
+        "phonological_basis": "17c Dominican orthography conversion: thong (通) -> tʰɔŋ⁵ / thông; thau (透) -> tʰau² / tháu."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Cieruo. Vinado:",
+      "source_H": "鹿",
+      "source_M": "loc",
+      "source_R": "lō",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cieruo. Vinado:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lɔk⁸",
+        "tai_lo_standard": "lo̍k",
+        "phonological_basis": "17c Dominican orthography conversion: loc (鹿) -> lɔk⁸ / lo̍k."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "cieruo pigurño.",
+      "source_H": "璋",
+      "source_M": "guio",
+      "source_R": "chiang",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cieruo pigurño.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guio¹",
+        "tai_lo_standard": "guio",
+        "phonological_basis": "17c Dominican orthography conversion: guio (璋) -> guio¹ / guio."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Cifra de escritura",
+      "source_H": "省",
+      "source_M": "sẽ",
+      "source_R": "seng",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cifra de escritura",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sẽ¹",
+        "tai_lo_standard": "senn",
+        "phonological_basis": "17c Dominican orthography conversion: sẽ (省) -> sẽ¹ / senn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "ifra de escritura",
+      "source_H": "省寫",
+      "source_M": "sẽ sia",
+      "source_R": "seng sia",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ifra de escritura",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sẽ¹ sia¹",
+        "tai_lo_standard": "senn-sia",
+        "phonological_basis": "17c Dominican orthography conversion: sẽ (省) -> sẽ¹ / senn; sia (寫) -> sia¹ / sia."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Cigarra.",
+      "source_H": "蟬",
+      "source_M": "sien.",
+      "source_R": "siên",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cigarra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sien⁵",
+        "tai_lo_standard": "siên",
+        "phonological_basis": "17c Dominican orthography conversion: sien (蟬) -> sien⁵ / siên."
+      }
+    }
+  ]
+}

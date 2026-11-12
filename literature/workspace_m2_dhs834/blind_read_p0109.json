@@ -1,0 +1,512 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 109,
+  "historical_folio": 80,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0109/pdf_0109_300dpi.png",
+  "page_header": "A. ante. P.",
+  "page_footer_printed": "- 80 -",
+  "page_footer_handwritten": "40",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Ancuelo -",
+      "source_H": "釣 [疑:釣/鉤]",
+      "source_M": "Tió",
+      "source_R": "kāū",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ancuelo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tio¹",
+        "tai_lo_standard": "tio",
+        "phonological_basis": "17c Dominican orthography conversion: Tió (釣) -> tio¹ / tio."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "ancelo -",
+      "source_H": "釣仔 [疑:釣仔/鉤仔]",
+      "source_M": "tiô ià.",
+      "source_R": "kāū chaŷ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ancelo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tio³ ia²",
+        "tai_lo_standard": "tiò-iá",
+        "phonological_basis": "17c Dominican orthography conversion: tiô (釣) -> tio³ / tiò; ià (仔) -> ia² / iá."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "ancuelo con cabo -",
+      "source_H": "餌釣魚",
+      "source_M": "xy tiô hū;",
+      "source_R": "xūn kiān sīn",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ancuelo con cabo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzi² tio³ hu⁵",
+        "tai_lo_standard": "jí-tiò-hû",
+        "phonological_basis": "17c Dominican orthography conversion: xy (餌) -> dzi² / jí; tiô (釣) -> tio³ / tiò; hū (魚) -> hu⁵ / hû."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "A. ante. P.",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A. ante. P.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "A Baijvar.",
+      "source_H": "安插 [疑:插/掛]",
+      "source_M": "ān châ.",
+      "source_R": "ngaīn chāⁿ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A Baijvar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "an⁵ tsa³",
+        "tai_lo_standard": "ân-tsà",
+        "phonological_basis": "17c Dominican orthography conversion: ān (安) -> an⁵ / ân; châ (插) -> tsa³ / tsà."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "A padrinar.",
+      "source_H": "契",
+      "source_M": "gûey",
+      "source_R": "gǔi",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A padrinar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guei³",
+        "tai_lo_standard": "guèi",
+        "phonological_basis": "17c Dominican orthography conversion: gûey (契) -> guei³ / guèi."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "apadrinar, interceder - aparat:",
+      "source_H": "艋 [疑:艋/蜢/鴨]",
+      "source_M": "ā;",
+      "source_R": "yà",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "apadrinar, interceder - aparat:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "a⁵",
+        "tai_lo_standard": "â",
+        "phonological_basis": "17c Dominican orthography conversion: ā (艋) -> a⁵ / â."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "A pagar.",
+      "source_H": "滅",
+      "source_M": "Bie⁄.",
+      "source_R": "miē",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A pagar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bie¹",
+        "tai_lo_standard": "bie",
+        "phonological_basis": "17c Dominican orthography conversion: Bie (滅) -> bie¹ / bie."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "apagar el fuego con el viendo ceros onde à piedra É",
+      "source_H": "搧火",
+      "source_M": "tê huè",
+      "source_R": "quīe hò",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "apagar el fuego con el viendo ceros onde à piedra É",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "te³ hue²",
+        "tai_lo_standard": "tè-hué",
+        "phonological_basis": "17c Dominican orthography conversion: tê (搧) -> te³ / tè; huè (火) -> hue² / hué."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "apagar",
+      "source_H": "打火",
+      "source_M": "pea huè",
+      "source_R": "tà hò [旁注圈注: Lor pleng.]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "apagar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "peaʔ⁷ hue²",
+        "tai_lo_standard": "peah-hué",
+        "phonological_basis": "17c Dominican orthography conversion: pea (打) -> peaʔ⁷ / peah; huè (火) -> hue² / hué."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "appagar",
+      "source_H": "打花",
+      "source_M": "pa huà",
+      "source_R": "tà hūa",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "appagar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paʔ⁷ hua²",
+        "tai_lo_standard": "pah-huá",
+        "phonological_basis": "17c Dominican orthography conversion: pa (打) -> paʔ⁷ / pah; huà (花) -> hua² / huá."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "apagar.",
+      "source_H": "打失",
+      "source_M": "pa sít.",
+      "source_R": "tà siē",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "apagar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paʔ⁷ sit⁷",
+        "tai_lo_standard": "pah-sit",
+        "phonological_basis": "17c Dominican orthography conversion: pa (打) -> paʔ⁷ / pah; sít (失) -> sit⁷ / sit."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "apagar la Vela.",
+      "source_H": "打失燭",
+      "source_M": "pa sít chê",
+      "source_R": "tà siē [残] chō",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "apagar la Vela.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paʔ⁷ sit⁷ tse³",
+        "tai_lo_standard": "pah-sit-tsè",
+        "phonological_basis": "17c Dominican orthography conversion: pa (打) -> paʔ⁷ / pah; sít (失) -> sit⁷ / sit; chê (燭) -> tse³ / tsè."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "apagar boplard.",
+      "source_H": "吹失",
+      "source_M": "chǔe sìt.",
+      "source_R": "chǔi siē",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "apagar boplard.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰue² sit⁷",
+        "tai_lo_standard": "tshué-sit",
+        "phonological_basis": "17c Dominican orthography conversion: chǔe (吹) -> tsʰue² / tshué; sìt (失) -> sit⁷ / sit."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "apagar, apagote.",
+      "source_H": "火花了",
+      "source_M": "hùe huá liaù",
+      "source_R": "hò hǔa liǎo",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "apagar, apagote.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hue² hua¹ liau²",
+        "tai_lo_standard": "hué-hua-liáu",
+        "phonological_basis": "17c Dominican orthography conversion: hùe (火) -> hue² / hué; huá (花) -> hua¹ / hua; liaù (了) -> liau² / liáu."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "apagar, apagaseya",
+      "source_H": "火失勝 [疑:勝/啦]",
+      "source_M": "hùe sít là,",
+      "source_R": "hò siē là",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "apagar, apagaseya",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hue² sit⁷ la²",
+        "tai_lo_standard": "hué-sit-lá",
+        "phonological_basis": "17c Dominican orthography conversion: hùe (火) -> hue² / hué; sít (失) -> sit⁷ / sit; là (勝) -> la² / lá."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "apagar el fuego en q. seque ma la cara &",
+      "source_H": "救火",
+      "source_M": "quîn huè",
+      "source_R": "guīn hò",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "apagar el fuego en q. seque ma la cara &",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kin³ hue²",
+        "tai_lo_standard": "kìn-hué",
+        "phonological_basis": "17c Dominican orthography conversion: quîn (救) -> kin³ / kìn; huè (火) -> hue² / hué."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "—Apalear.",
+      "source_H": "打.",
+      "source_M": "pâ.",
+      "source_R": "tā cua teñ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "—Apalear.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pa³",
+        "tai_lo_standard": "pà",
+        "phonological_basis": "17c Dominican orthography conversion: pâ (打) -> pa³ / pà."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "apalear, darle mui buenos palos -",
+      "source_H": "打骨頭",
+      "source_M": "pa cūr tâu",
+      "source_R": "tā cua têñ",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "apalear, darle mui buenos palos -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paʔ⁷ kur⁵ tʰau³",
+        "tai_lo_standard": "pah-kûr-thàu",
+        "phonological_basis": "17c Dominican orthography conversion: pa (打) -> paʔ⁷ / pah; cūr (骨) -> kur⁵ / kûr; tâu (頭) -> tʰau³ / thàu."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "—Aparador.",
+      "source_H": "佔 [疑:佔/櫃]",
+      "source_M": "Tiām;",
+      "source_R": "chièn:",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "—Aparador.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiam⁵",
+        "tai_lo_standard": "tiâm",
+        "phonological_basis": "17c Dominican orthography conversion: Tiām (佔) -> tiam⁵ / tiâm."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "Apareador. ŷ. paread.",
+      "source_H": "相人",
+      "source_M": "fiāng lâng:",
+      "source_R": "siàng xīn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Apareador. ŷ. paread.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fiaŋ⁵ laŋ³",
+        "tai_lo_standard": "fiâng-làng",
+        "phonological_basis": "17c Dominican orthography conversion: fiāng (相) -> fiaŋ⁵ / fiâng; lâng (人) -> laŋ³ / làng."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "Aparecer, el espíritu de algun q. it. de s. hijo -",
+      "source_H": "英烈",
+      "source_M": "ẽg lie",
+      "source_R": "ǐng līe",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Aparecer, el espíritu de algun q. it. de s. hijo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ẽk⁷ lie¹",
+        "tai_lo_standard": "ek-lie",
+        "phonological_basis": "17c Dominican orthography conversion: ẽg (英) -> ẽk⁷ / ek; lie (烈) -> lie¹ / lie."
+      }
+    }
+  ]
+}

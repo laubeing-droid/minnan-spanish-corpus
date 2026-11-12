@@ -1,0 +1,375 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 600,
+  "historical_folio": 566,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0600/pdf_0600_300dpi.png",
+  "page_header": "L. ante.",
+  "page_footer_printed": "- 566 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "lejos mucho",
+      "source_H": "遠 渉",
+      "source_M": "van siap",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lejos mucho",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "van¹ siap⁷",
+        "tai_lo_standard": "van-siap",
+        "phonological_basis": "17c Dominican orthography conversion: van (遠) -> van¹ / van; siap (渉) -> siap⁷ / siap."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "lejos mucho",
+      "source_H": "懸 [疑:偶/隔]",
+      "source_M": "hiēn quěg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lejos mucho",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hien⁵ kek⁷",
+        "tai_lo_standard": "hiên-kek",
+        "phonological_basis": "17c Dominican orthography conversion: hiēn (懸) -> hien⁵ / hiên; quěg (?) -> kek⁷ / kek."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Lengua~",
+      "source_H": "[空] 古",
+      "source_M": "chỳ : siẽ",
+      "source_R": "not.",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Lengua~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi² sĩẽ¹",
+        "tai_lo_standard": "tsí-sienn",
+        "phonological_basis": "17c Dominican orthography conversion: ch (古) -> tsi² / tsí; siẽ (?) -> sĩẽ¹ / sienn."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "lengua",
+      "source_H": "口 古",
+      "source_M": "chui chỳ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lengua",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui¹ tsi²",
+        "tai_lo_standard": "tsui-tsí",
+        "phonological_basis": "17c Dominican orthography conversion: chui (口) -> tsui¹ / tsui; ch (古) -> tsi² / tsí."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "lengua gí de habla de china",
+      "source_H": "白 話",
+      "source_M": "pe oã",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lengua gí de habla de china",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe¹ õã¹",
+        "tai_lo_standard": "pe-oann",
+        "phonological_basis": "17c Dominican orthography conversion: pe (白) -> pe¹ / pe; oã (話) -> õã¹ / oann."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "lengua mandarina .",
+      "source_H": "官 話",
+      "source_M": "cuā oã",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lengua mandarina .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kua⁵ õã¹",
+        "tai_lo_standard": "kuâ-oann",
+        "phonological_basis": "17c Dominican orthography conversion: cuā (官) -> kua⁵ / kuâ; oã (話) -> õã¹ / oann."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "lengua mandarina ~",
+      "source_H": "正 字",
+      "source_M": "chià xy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lengua mandarina ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsia² dzi¹",
+        "tai_lo_standard": "tsiá-ji",
+        "phonological_basis": "17c Dominican orthography conversion: chià (正) -> tsia² / tsiá; xy (字) -> dzi¹ / ji."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "lengua , pro palabra",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "scarzi .",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lengua , pro palabra",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Lenguado pesado .",
+      "source_H": "纇[疑:纇/鰳] 沙 魚",
+      "source_M": "tōa sé hū : cōa çoà hū",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Lenguado pesado .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toa⁵ se¹ hu⁵ koa⁶ oa² hu⁶",
+        "tai_lo_standard": "toâ-se-hû-koā-oá-hū",
+        "phonological_basis": "17c Dominican orthography conversion: tōa (纇) -> toa⁵ / toâ; sé (沙) -> se¹ / se; hū (魚) -> hu⁵ / hû; cōa (?) -> koa⁶ / koā; oà (?) -> oa² / oá; hū (?) -> hu⁶ / hū."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Lengueta del allaue .",
+      "source_H": "鎖 [疑:椵/鉸]",
+      "source_M": "hò niō ; çera jo cheyçon",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Lengueta del allaue .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho² nio⁶ era¹ dzo¹ tsei¹ on¹",
+        "tai_lo_standard": "hó-niō-era-jo-tsei-on",
+        "phonological_basis": "17c Dominican orthography conversion: hò (鎖) -> ho² / hó; niō (?) -> nio⁶ / niō; era (?) -> era¹ / era; jo (?) -> dzo¹ / jo; chey (?) -> tsei¹ / tsei; on (?) -> on¹ / on."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Lengueta del allaue",
+      "source_H": "鎖 鬚",
+      "source_M": "cò chiu la lenguaeta çen caja .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Lengueta del allaue",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko² tsiu¹ la¹ lenguaeta¹ en¹ kaja¹",
+        "tai_lo_standard": "kó-tsiu-la-lenguaeta-en-kaja",
+        "phonological_basis": "17c Dominican orthography conversion: cò (鎖) -> ko² / kó; chiu (鬚) -> tsiu¹ / tsiu; la (?) -> la¹ / la; lenguaeta (?) -> lenguaeta¹ / lenguaeta; en (?) -> en¹ / en; caja (?) -> kaja¹ / kaja."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Leña ~",
+      "source_H": "柴",
+      "source_M": "chā",
+      "source_R": "A.",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Leña ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰa⁵",
+        "tai_lo_standard": "tshâ",
+        "phonological_basis": "17c Dominican orthography conversion: chā (柴) -> tsʰa⁵ / tshâ."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "lena .",
+      "source_H": "[空] 樵",
+      "source_M": "chiāu cō°tāz la .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lena .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiau⁵ ko⁶ taz⁶ la⁶",
+        "tai_lo_standard": "tsiâu-kō-tāz-lā",
+        "phonological_basis": "17c Dominican orthography conversion: chiāu (樵) -> tsiau⁵ / tsiâu; cō (?) -> ko⁶ / kō; tāz (?) -> taz⁶ / tāz; la (?) -> la⁶ / lā."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "leña",
+      "source_H": "柴 火",
+      "source_M": "chā huè p° guemar .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "leña",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰa⁵ hue² pi¹ guemar¹",
+        "tai_lo_standard": "tshâ-hué-pi-guemar",
+        "phonological_basis": "17c Dominican orthography conversion: chā (柴) -> tsʰa⁵ / tshâ; huè (火) -> hue² / hué; p (?) -> pi¹ / pi; guemar (?) -> guemar¹ / guemar."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Leñador ~",
+      "source_H": "樵 夫",
+      "source_M": "chiāu hú / chiāu chū muchacho leñador :",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Leñador ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiau⁵ hu¹ tsiau⁶ tsu⁶ muchacho¹ lẽnãdõr¹",
+        "tai_lo_standard": "tsiâu-hu-tsiāu-tsū-muchacho-lenadornn",
+        "phonological_basis": "17c Dominican orthography conversion: chiāu (樵) -> tsiau⁵ / tsiâu; hú (夫) -> hu¹ / hu; chiāu (?) -> tsiau⁶ / tsiāu; chū (?) -> tsu⁶ / tsū; muchacho (?) -> muchacho¹ / muchacho; leñador (?) -> lẽnãdõr¹ / lenadornn."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "León ~",
+      "source_H": "獅",
+      "source_M": "sáy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "León ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sai¹",
+        "tai_lo_standard": "sai",
+        "phonological_basis": "17c Dominican orthography conversion: sáy (獅) -> sai¹ / sai."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Lepra, leproso ~",
+      "source_H": "瘌[疑:瘌/癩]",
+      "source_M": "tai° : naỹ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Lepra, leproso ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tai¹ na¹",
+        "tai_lo_standard": "tai-na",
+        "phonological_basis": "17c Dominican orthography conversion: tai (瘌) -> tai¹ / tai; na (?) -> na¹ / na."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "lepra, leproso",
+      "source_H": "瘌[疑:瘌/癩] 膏",
+      "source_M": "tai° cō naỹ chit° [残] / tai° cóng° .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lepra, leproso",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tai¹ ko⁵ na¹ tsit⁷ tai¹ kɔŋ¹",
+        "tai_lo_standard": "tai-kô-na-tsit-tai-kong",
+        "phonological_basis": "17c Dominican orthography conversion: tai (瘌) -> tai¹ / tai; cō (膏) -> ko⁵ / kô; na (?) -> na¹ / na; chit (?) -> tsit⁷ / tsit; tai (?) -> tai¹ / tai; cóng (?) -> kɔŋ¹ / kong."
+      }
+    }
+  ]
+}

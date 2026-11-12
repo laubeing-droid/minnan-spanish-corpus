@@ -1,0 +1,531 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 152,
+  "historical_folio": 123,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0152/pdf_0152_300dpi.png",
+  "page_header": "A. ante",
+  "page_footer_printed": "- 123 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 23,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "aun se puede aprouechar -",
+      "source_H": "句 退 使[疑:退/迴/返]",
+      "source_M": "cū̃ táng sāy",
+      "source_R": "gūi ròng zǐ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aun se puede aprouechar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kũ⁵ tʰaŋ¹ sai⁵",
+        "tai_lo_standard": "kûnn-thang-sâi",
+        "phonological_basis": "17c Dominican orthography conversion: cū̃ (句) -> kũ⁵ / kûnn; táng (退) -> tʰaŋ¹ / thang; sāy (使) -> sai⁵ / sâi."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "aun. mas aun -",
+      "source_H": "更",
+      "source_M": "guē̃g.",
+      "source_R": "guēng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aun. mas aun -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gũẽk⁷",
+        "tai_lo_standard": "guek",
+        "phonological_basis": "17c Dominican orthography conversion: guē̃g (更) -> gũẽk⁷ / guek."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "aunq maximo. un no sienpre danado -",
+      "source_H": "或",
+      "source_M": "hēg",
+      "source_R": "kè",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aunq maximo. un no sienpre danado -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hek⁷",
+        "tai_lo_standard": "hek",
+        "phonological_basis": "17c Dominican orthography conversion: hēg (或) -> hek⁷ / hek."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "aunque. que aunque.",
+      "source_H": "雖",
+      "source_M": "zūy",
+      "source_R": "zǔi",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aunque. que aunque.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui⁵",
+        "tai_lo_standard": "tsuî",
+        "phonological_basis": "17c Dominican orthography conversion: zūy (雖) -> tsui⁵ / tsuî."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "aunque sea assy.",
+      "source_H": "雖 然",
+      "source_M": "zūy xiēn.",
+      "source_R": "zǔi xiēn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aunque sea assy.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui⁵ dzien⁵",
+        "tai_lo_standard": "tsuî-jiên",
+        "phonological_basis": "17c Dominican orthography conversion: zūy (雖) -> tsui⁵ / tsuî; xiēn (然) -> dzien⁵ / jiên."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "aunque sea assy",
+      "source_H": "雖 是",
+      "source_M": "zūy sī.",
+      "source_R": "zǔi zǔi",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aunque sea assy",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui⁵ si⁵",
+        "tai_lo_standard": "tsuî-sî",
+        "phonological_basis": "17c Dominican orthography conversion: zūy (雖) -> tsui⁵ / tsuî; sī (是) -> si⁵ / sî."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "aun no -",
+      "source_H": "不 曾",
+      "source_M": "m̄ chē̃g.",
+      "source_R": "pūn chēng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aun no -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mi⁵ tsẽk⁷",
+        "tai_lo_standard": "mî-tsek",
+        "phonological_basis": "17c Dominican orthography conversion: m̄ (不) -> mi⁵ / mî; chē̃g (曾) -> tsẽk⁷ / tsek."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "aunnoesta perfeçionad -",
+      "source_H": "不 空",
+      "source_M": "m̄ cãg.",
+      "source_R": "pūn cōng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aunnoesta perfeçionad -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mi⁵ kʰãk⁷",
+        "tai_lo_standard": "mî-khak",
+        "phonological_basis": "17c Dominican orthography conversion: m̄ (不) -> mi⁵ / mî; cãg (空) -> kʰãk⁷ / khak."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "aunnoesta perfeçionado.",
+      "source_H": "膠 羅 成",
+      "source_M": "cá lō chîã.",
+      "source_R": "gūiao lo chēng",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aunnoesta perfeçionado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka¹ lo⁵ tsĩã³",
+        "tai_lo_standard": "ka-lô-tsiànn",
+        "phonological_basis": "17c Dominican orthography conversion: cá (膠) -> ka¹ / ka; lō (羅) -> lo⁵ / lô; chîã (成) -> tsĩã³ / tsiànn."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "aun finalmente -",
+      "source_H": "終 有",
+      "source_M": "chiōng ū",
+      "source_R": "chōng ièu",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aun finalmente -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsioŋ⁵ u⁵",
+        "tai_lo_standard": "tsiông-û",
+        "phonological_basis": "17c Dominican orthography conversion: chiōng (終) -> tsioŋ⁵ / tsiông; ū (有) -> u⁵ / û."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Aurora. g. mañana -",
+      "source_H": "卯",
+      "source_M": "Baù.",
+      "source_R": "maù",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Aurora. g. mañana -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bau²",
+        "tai_lo_standard": "báu",
+        "phonological_basis": "17c Dominican orthography conversion: Baù (卯) -> bau² / báu."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "aurora -",
+      "source_H": "卯 時",
+      "source_M": "Baù sī.",
+      "source_R": "maù zǔ",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aurora -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bau² si⁵",
+        "tai_lo_standard": "báu-sî",
+        "phonological_basis": "17c Dominican orthography conversion: Baù (卯) -> bau² / báu; sī (時) -> si⁵ / sî."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "aurora, el crepusculo -",
+      "source_H": "天 坪 白",
+      "source_M": "Tī̃ pē̃g pe",
+      "source_R": "tīēn pēng pē",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aurora, el crepusculo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰĩ⁵ pẽk⁷ peʔ⁸",
+        "tai_lo_standard": "thînn-pek-pe̍h",
+        "phonological_basis": "17c Dominican orthography conversion: Tī̃ (天) -> tʰĩ⁵ / thînn; pē̃g (坪) -> pẽk⁷ / pek; pe (白) -> peʔ⁸ / pe̍h."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Ausencia de mucho tiempo -",
+      "source_H": "疎 濶",
+      "source_M": "sō̃ cuà̃.",
+      "source_R": "zū cuor.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ausencia de mucho tiempo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sõ⁵ kũã²",
+        "tai_lo_standard": "sônn-kuánn",
+        "phonological_basis": "17c Dominican orthography conversion: sō̃ (疎) -> sõ⁵ / sônn; cuà̃ (濶) -> kũã² / kuánn."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "ausencia, no estar ay -",
+      "source_H": "不 在 處",
+      "source_M": "m̄ tī tê.",
+      "source_R": "pūn chāy chŷ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ausencia, no estar ay -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mi⁵ ti⁵ tʰe³",
+        "tai_lo_standard": "mî-tî-thè",
+        "phonological_basis": "17c Dominican orthography conversion: m̄ (不) -> mi⁵ / mî; tī (在) -> ti⁵ / tî; tê (處) -> tʰe³ / thè."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "ausencia, detras del -",
+      "source_H": "後 面",
+      "source_M": "aū bī̃",
+      "source_R": "hēūn miēn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ausencia, detras del -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "au⁵ bĩ⁵",
+        "tai_lo_standard": "âu-bînn",
+        "phonological_basis": "17c Dominican orthography conversion: aū (後) -> au⁵ / âu; bī̃ (面) -> bĩ⁵ / bînn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "ausencia de mucho tiempo fuese, y no parecio -",
+      "source_H": "斷 風 箏",
+      "source_M": "tuṇg hoṉg che va.",
+      "source_R": "tōan fōng chēng",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ausencia de mucho tiempo fuese, y no parecio -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tu¹ gi¹ ho¹ gi¹ tse¹ va¹",
+        "tai_lo_standard": "tu-gi-ho-gi-tse-va",
+        "phonological_basis": "17c Dominican orthography conversion: tu (斷) -> tu¹ / tu; g (風) -> gi¹ / gi; ho (箏) -> ho¹ / ho; g (?) -> gi¹ / gi; che (?) -> tse¹ / tse; va (?) -> va¹ / va."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Auctoridad del hombre. g. grave respecto -",
+      "source_H": "威",
+      "source_M": "Vī.",
+      "source_R": "ǔy",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Auctoridad del hombre. g. grave respecto -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "vi⁵",
+        "tai_lo_standard": "vî",
+        "phonological_basis": "17c Dominican orthography conversion: Vī (威) -> vi⁵ / vî."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "autoridad yfama del hombre -",
+      "source_H": "名 公",
+      "source_M": "Bē̃g cō̃g.",
+      "source_R": "meòng cōng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "autoridad yfama del hombre -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bẽk⁷ kɔ̃k⁷",
+        "tai_lo_standard": "bek-kok",
+        "phonological_basis": "17c Dominican orthography conversion: Bē̃g (名) -> bẽk⁷ / bek; cō̃g (公) -> kɔ̃k⁷ / kok."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "autoridad & da el Rey. g. mandar -",
+      "source_H": "敕",
+      "source_M": "Sīt.",
+      "source_R": "chīg",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "autoridad & da el Rey. g. mandar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sit⁷",
+        "tai_lo_standard": "sit",
+        "phonological_basis": "17c Dominican orthography conversion: Sīt (敕) -> sit⁷ / sit."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "A. ante.",
+      "source_H": "[空]",
+      "source_M": "X.",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A. ante.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzi¹",
+        "tai_lo_standard": "ji",
+        "phonological_basis": "17c Dominican orthography conversion: X (?) -> dzi¹ / ji."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "A. Xedres.",
+      "source_H": "弈[疑:弈/奕]",
+      "source_M": "eg liōs.",
+      "source_R": "xīg",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A. Xedres.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ek⁷ lios⁶",
+        "tai_lo_standard": "ek-liōs",
+        "phonological_basis": "17c Dominican orthography conversion: eg (弈) -> ek⁷ / ek; liōs (?) -> lios⁶ / liōs."
+      }
+    },
+    {
+      "position": 23,
+      "source_L": "axedres",
+      "source_H": "棋",
+      "source_M": "gūy.",
+      "source_R": "gūi",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "axedres",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui⁵",
+        "tai_lo_standard": "guî",
+        "phonological_basis": "17c Dominican orthography conversion: gūy (棋) -> gui⁵ / guî."
+      }
+    }
+  ]
+}

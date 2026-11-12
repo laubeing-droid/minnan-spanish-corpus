@@ -1,0 +1,441 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 848,
+  "historical_folio": 810,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0848/pdf_0848_300dpi.png",
+  "page_header": "P. ante. [残]",
+  "page_footer_printed": "- 810 -",
+  "page_footer_handwritten": "405",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "pr̃incipio, g̃uera- / pr̃incipio de la luna hasta l̃o. chin",
+      "source_H": "雜今月初 [疑:雜/維]",
+      "source_M": "co g̃im / g̃ue chey..",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pr̃incipio, g̃uera- / pr̃incipio de la luna hasta l̃o. chin",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko¹ gĩm² gũẽ¹ tsei¹",
+        "tai_lo_standard": "ko-gím-guenn-tsei",
+        "phonological_basis": "17c Dominican orthography conversion: co (雜) -> ko¹ / ko; g̃im (今) -> gĩm² / gím; g̃ue (月) -> gũẽ¹ / guenn; chey (初) -> tsei¹ / tsei."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "P. Prisones. / carcel, grillos, encarcerar, Kelar [疑:K/c], prender. &a",
+      "source_H": "鐵脚軍 [疑:軍/車]",
+      "source_M": "ty ca cu .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "P. Prisones. / carcel, grillos, encarcerar, Kelar , prender. &a",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰi² ka¹ ku²",
+        "tai_lo_standard": "thí-ka-kú",
+        "phonological_basis": "17c Dominican orthography conversion: ty (鐵) -> tʰi² / thí; ca (脚) -> ka¹ / ka; cu (軍) -> ku² / kú."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Privado del Rey-",
+      "source_H": "勅.",
+      "source_M": "fit",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Privado del Rey-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fit⁷",
+        "tai_lo_standard": "fit",
+        "phonological_basis": "17c Dominican orthography conversion: fit (勅) -> fit⁷ / fit."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "privado del Rey-",
+      "source_H": "罷.",
+      "source_M": "piong dy Hong quey fin py / espresio, privado-",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "privado del Rey-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pioŋ² di¹ hɔŋ³ kei⁶ fin⁶ pi⁶ espresio¹ privado¹",
+        "tai_lo_standard": "pióng-di-hòng-kēi-fīn-pī-espresio-privado",
+        "phonological_basis": "17c Dominican orthography conversion: piong (罷) -> pioŋ² / pióng; dy (?) -> di¹ / di; Hong (?) -> hɔŋ³ / hòng; quey (?) -> kei⁶ / kēi; fin (?) -> fin⁶ / fīn; py (?) -> pi⁶ / pī; espresio (?) -> espresio¹ / espresio; privado (?) -> privado¹ / privado."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Pruilegio-",
+      "source_H": "詔",
+      "source_M": "chiau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Pruilegio-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiau³",
+        "tai_lo_standard": "tsiàu",
+        "phonological_basis": "17c Dominican orthography conversion: chiau (詔) -> tsiau³ / tsiàu."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "pruilegio Real-",
+      "source_H": "詔書",
+      "source_M": "chiau cu; chiau chu ;",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pruilegio Real-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiau³ ku¹ tsiau³ tsu¹",
+        "tai_lo_standard": "tsiàu-ku-tsiàu-tsu",
+        "phonological_basis": "17c Dominican orthography conversion: chiau (詔) -> tsiau³ / tsiàu; cu (書) -> ku¹ / ku; chiau (?) -> tsiau³ / tsiàu; chu (?) -> tsu¹ / tsu."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Pruilegios. [疑:ʃ/7] esempa.",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Pruilegios. esempa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Prouar cualquier cosa.",
+      "source_H": "試",
+      "source_M": "chy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Prouar cualquier cosa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi²",
+        "tai_lo_standard": "tsí",
+        "phonological_basis": "17c Dominican orthography conversion: chy (試) -> tsi² / tsí."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "prouar de palabra si dice verdad [疑:die/dice]",
+      "source_H": "測",
+      "source_M": "cheg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prouar de palabra si dice verdad",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsek⁷",
+        "tai_lo_standard": "tsek",
+        "phonological_basis": "17c Dominican orthography conversion: cheg (測) -> tsek⁷ / tsek."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "prouar la comida-",
+      "source_H": "嘗",
+      "source_M": "ſiang tchy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prouar la comida-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iaŋ⁵ tchi⁶",
+        "tai_lo_standard": "iâng-tchī",
+        "phonological_basis": "17c Dominican orthography conversion: iang (嘗) -> iaŋ⁵ / iâng; tchy (?) -> tchi⁶ / tchī."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "prouar con el ſeo-",
+      "source_H": "慍",
+      "source_M": "un",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prouar con el ſeo-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "un³",
+        "tai_lo_standard": "ùn",
+        "phonological_basis": "17c Dominican orthography conversion: un (慍) -> un³ / ùn."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "prouar de palabra auerlog die.",
+      "source_H": "諷",
+      "source_M": "hong ..",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prouar de palabra auerlog die.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ²",
+        "tai_lo_standard": "hóng",
+        "phonological_basis": "17c Dominican orthography conversion: hong (諷) -> hɔŋ² / hóng."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "prouar de palabra auerlog ſdice- [疑:ʃdice/ʃoice]",
+      "source_H": "諷諫",
+      "source_M": "hong can",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prouar de palabra auerlog ſdice-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ² kan³",
+        "tai_lo_standard": "hóng-kàn",
+        "phonological_basis": "17c Dominican orthography conversion: hong (諷) -> hɔŋ² / hóng; can (諫) -> kan³ / kàn."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "prouarle por log dice-",
+      "source_H": "話試卽樣 [疑:卽/伊]",
+      "source_M": "oa chy chay yo",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prouarle por log dice-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "oa² tsi¹ tsai³ io²",
+        "tai_lo_standard": "oá-tsi-tsài-ió",
+        "phonological_basis": "17c Dominican orthography conversion: oa (話) -> oa² / oá; chy (試) -> tsi¹ / tsi; chay (卽) -> tsai³ / tsài; yo (樣) -> io² / ió."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "prouarle si es bueno, o malo-",
+      "source_H": "省心腹",
+      "source_M": "uia ſim pag.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T00 (無標號)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prouarle si es bueno, o malo-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "uia² im¹ pak⁷",
+        "tai_lo_standard": "uiá-im-pak",
+        "phonological_basis": "17c Dominican orthography conversion: uia (省) -> uia² / uiá; im (心) -> im¹ / im; pag (腹) -> pak⁷ / pak."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "prouar sier bueno sier verdad [疑:sier/si es]",
+      "source_H": "知話刺 [疑:刺/莉]",
+      "source_M": "chay oa chy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prouar sier bueno sier verdad",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsai¹ oa² tsi²",
+        "tai_lo_standard": "tsai-oá-tsí",
+        "phonological_basis": "17c Dominican orthography conversion: chay (知) -> tsai¹ / tsai; oa (話) -> oa² / oá; chy (刺) -> tsi² / tsí."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "prouar la basija si es sale-",
+      "source_H": "激着漏 [疑:着/省]",
+      "source_M": "queg cua lau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prouar la basija si es sale-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kek⁷ kua² lau²",
+        "tai_lo_standard": "kek-kuá-láu",
+        "phonological_basis": "17c Dominican orthography conversion: queg (激) -> kek⁷ / kek; cua (着) -> kua² / kuá; lau (漏) -> lau² / láu."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "prouar quanto pesa-",
+      "source_H": "都秤省幾多 [疑:都/載]",
+      "source_M": "chay chin cua i chey",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T01 (升斜)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prouar quanto pesa-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsai¹ tsin³ kua¹ i² tsei²",
+        "tai_lo_standard": "tsai-tsìn-kua-í-tséi",
+        "phonological_basis": "17c Dominican orthography conversion: chay (都) -> tsai¹ / tsai; chin (秤) -> tsin³ / tsìn; cua (省) -> kua¹ / kua; i (幾) -> i² / í; chey (多) -> tsei² / tséi."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "prouar sier de prouecho. [疑:sier/si es]",
+      "source_H": "試用",
+      "source_M": "chy iong",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prouar sier de prouecho.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi² ioŋ²",
+        "tai_lo_standard": "tsí-ióng",
+        "phonological_basis": "17c Dominican orthography conversion: chy (試) -> tsi² / tsí; iong (用) -> ioŋ² / ióng."
+      }
+    }
+  ]
+}

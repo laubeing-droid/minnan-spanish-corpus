@@ -1,0 +1,9 @@
+# 代码来源与运行验证边界
+
+AUST的原临时路径/tmp/save_aust_v3.py当前失效。原21源handoff内small_code_snapshots/save_aust_v3.py仍在，5043 bytes，SHA256为4a0d344a8ae125651cbd8d97f8efe0240dd5c0f77a46dd9ff2e4dfdac82b1023，与既存代码索引记录完全相同。本包从此快照复制，未创建或改写原临时路径。
+
+已核查的WORK_RECORD_existing_artifact_verification_v1.md只证明当时保存快照和文件核验；actual_code_index_v1.json提供路径、用途、大小及SHA。未定位到足以核验该脚本实际成功运行的日志。因此AUST保存脚本在本包中定为“历史源代码资料，运行未核”，不得列为已验证可执行工具。本次没有运行它。
+
+所有历史项目脚本均保留原文和路径；本次对它们的SHA检查不是运行验证。DHS原包所述tested_project_scripts仅继承该包的既有声明，本次未重跑。真正本轮运行的装配脚本为build_review_snapshot_v2_current12.py、v3、v4及最终成功的v5；早期尝试因页标格式或过期临时路径主动停止，原文件均未覆盖，最后只复用已逐字节核对的部分复制件。finalize_review_current_v2.py生成本运行边界说明和当前清单。
+
+不要直接在新的工作目录运行历史保存／合并脚本；应先审查其中的绝对路径、输入和输出行为。原PDF、图像和依赖不随本包提供，不能把文本打包成功理解为全套项目可直接复现。

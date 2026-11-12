@@ -1,0 +1,491 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 379,
+  "historical_folio": 350,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0379/pdf_0379_300dpi.png",
+  "page_header": "D. ante. II.",
+  "page_footer_printed": "- 350 -",
+  "page_footer_handwritten": "175",
+  "total_positions_recorded": 21,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Día, el dia, iang",
+      "source_H": "日",
+      "source_M": "xǐt. ngay.",
+      "source_R": "xīt",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Día, el dia, iang",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzit⁸",
+        "tai_lo_standard": "ji̍t",
+        "phonological_basis": "17c Dominican orthography conversion: xǐt (日) -> dzit⁸ / ji̍t."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Día primero del mes.",
+      "source_H": "朔",
+      "source_M": "Zǒẏ.",
+      "source_R": "zō",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Día primero del mes.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso²",
+        "tai_lo_standard": "tsó",
+        "phonological_basis": "17c Dominican orthography conversion: Zǒ (朔) -> tso² / tsó."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Día primero del año.",
+      "source_H": "旦",
+      "source_M": "tan,",
+      "source_R": "tān",
+      "tone_marks_M": [
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Día primero del año.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tan¹",
+        "tai_lo_standard": "tan",
+        "phonological_basis": "17c Dominican orthography conversion: tan (旦) -> tan¹ / tan."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Día del nacimiento.",
+      "source_H": "誕",
+      "source_M": "tān.",
+      "source_R": "tān",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Día del nacimiento.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tan⁵",
+        "tai_lo_standard": "tân",
+        "phonological_basis": "17c Dominican orthography conversion: tān (誕) -> tan⁵ / tân."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Día fin noche. Fiiⁿ",
+      "source_H": "晝[疑:晝/書]",
+      "source_M": "chiūp̈ĩ",
+      "source_R": "chiū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Día fin noche. Fiiⁿ",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsĩũpĩ⁵",
+        "tai_lo_standard": "tsîupinn",
+        "phonological_basis": "17c Dominican orthography conversion: chiūp̈ĩ (晝) -> tsĩũpĩ⁵ / tsîupinn."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Día, de día.",
+      "source_H": "陽",
+      "source_M": "iāng",
+      "source_R": "yâng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Día, de día.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iaŋ⁵",
+        "tai_lo_standard": "iâng",
+        "phonological_basis": "17c Dominican orthography conversion: iāng (陽) -> iaŋ⁵ / iâng."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Dias los primeros del mes.",
+      "source_H": "旬",
+      "source_M": "Zūn.",
+      "source_R": "zûn",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dias los primeros del mes.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsun⁵",
+        "tai_lo_standard": "tsûn",
+        "phonological_basis": "17c Dominican orthography conversion: Zūn (旬) -> tsun⁵ / tsûn."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Día cena lados, pal dia.",
+      "source_H": "卯日",
+      "source_M": "baù xǐt.",
+      "source_R": "mān xǐt",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Día cena lados, pal dia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bau² dzit⁸",
+        "tai_lo_standard": "báu-ji̍t",
+        "phonological_basis": "17c Dominican orthography conversion: baù (卯) -> bau² / báu; xǐt (日) -> dzit⁸ / ji̍t."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Dias, los dias pasados.",
+      "source_H": "查暮",
+      "source_M": "cha bǒu",
+      "source_R": "châ mū",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dias, los dias pasados.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsaʔ⁷ bou²",
+        "tai_lo_standard": "tsah-bóu",
+        "phonological_basis": "17c Dominican orthography conversion: cha (查) -> tsaʔ⁷ / tsah; bǒu (暮) -> bou² / bóu."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Dias, los dias pasados.",
+      "source_H": "查暮恃[疑:恃/春]",
+      "source_M": "cha bǒu chùn",
+      "source_R": "châ mūn chīn",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dias, los dias pasados.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsaʔ⁷ bou² tsun²",
+        "tai_lo_standard": "tsah-bóu-tsún",
+        "phonological_basis": "17c Dominican orthography conversion: cha (查) -> tsaʔ⁷ / tsah; bǒu (暮) -> bou² / bóu; chùn (恃) -> tsun² / tsún."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Dias pasados.",
+      "source_H": "早日",
+      "source_M": "cha xǐt",
+      "source_R": "châun xǐt",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dias pasados.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsaʔ⁷ dzit⁸",
+        "tai_lo_standard": "tsah-ji̍t",
+        "phonological_basis": "17c Dominican orthography conversion: cha (早) -> tsaʔ⁷ / tsah; xǐt (日) -> dzit⁸ / ji̍t."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Dias pasados.",
+      "source_H": "前日",
+      "source_M": "chèng xǐt",
+      "source_R": "chèng xǐt",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dias pasados.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ² dzit⁸",
+        "tai_lo_standard": "tséng-ji̍t",
+        "phonological_basis": "17c Dominican orthography conversion: chèng (前) -> tseŋ² / tséng; xǐt (日) -> dzit⁸ / ji̍t."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Dias pasados.",
+      "source_H": "前凿[疑:凿/番]",
+      "source_M": "chèng huān.",
+      "source_R": "chieng fǎn",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dias pasados.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ² huan⁵",
+        "tai_lo_standard": "tséng-huân",
+        "phonological_basis": "17c Dominican orthography conversion: chèng (前) -> tseŋ² / tséng; huān (凿) -> huan⁵ / huân."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Día y noche.",
+      "source_H": "夙夜",
+      "source_M": "siōg ià.",
+      "source_R": "zōg xiē",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Día y noche.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siok⁷ ia²",
+        "tai_lo_standard": "siok-iá",
+        "phonological_basis": "17c Dominican orthography conversion: siōg (夙) -> siok⁷ / siok; ià (夜) -> ia² / iá."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Día y noche.",
+      "source_H": "昼夜",
+      "source_M": "tiü ià.",
+      "source_R": "chiū xiē",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Día y noche.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti¹ ia²",
+        "tai_lo_standard": "ti-iá",
+        "phonological_basis": "17c Dominican orthography conversion: ti (昼) -> ti¹ / ti; ià (夜) -> ia² / iá."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Dias, los 15. dias que siguen alos dias depp. difuntos.",
+      "source_H": "穀雨",
+      "source_M": "cǒẏ v:z. cǒh ūn.",
+      "source_R": "cō xǔi",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T04 (凹角)",
+        "T99 (污損難辨)",
+        "T06/T07 (交叉入聲號)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dias, los 15. dias que siguen alos dias depp. difuntos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "koʔ⁷ v² tsi¹ koʔ⁷ un⁶",
+        "tai_lo_standard": "koh-v́-tsi-koh-ūn",
+        "phonological_basis": "17c Dominican orthography conversion: cǒ (穀) -> koʔ⁷ / koh; v (雨) -> v² / v́; z (?) -> tsi¹ / tsi; cǒh (?) -> koʔ⁷ / koh; ūn (?) -> un⁶ / ūn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Dia del nacimiento.",
+      "source_H": "誕產",
+      "source_M": "tān sàn",
+      "source_R": "tān sàn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dia del nacimiento.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tan⁵ san²",
+        "tai_lo_standard": "tân-sán",
+        "phonological_basis": "17c Dominican orthography conversion: tān (誕) -> tan⁵ / tân; sàn (產) -> san² / sán."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Dia del nacimiento.",
+      "source_H": "壽生",
+      "source_M": "siù seng.",
+      "source_R": "sīn sèng.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dia del nacimiento.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siu² seŋ¹",
+        "tai_lo_standard": "siú-seng",
+        "phonological_basis": "17c Dominican orthography conversion: siù (壽) -> siu² / siú; seng (生) -> seŋ¹ / seng."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Dia del nacimiento.",
+      "source_H": "壽產",
+      "source_M": "siù sàn.",
+      "source_R": "sīn sàn.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dia del nacimiento.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siu² san²",
+        "tai_lo_standard": "siú-sán",
+        "phonological_basis": "17c Dominican orthography conversion: siù (壽) -> siu² / siú; sàn (產) -> san² / sán."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Dia claro.",
+      "source_H": "白日",
+      "source_M": "pe xǐt.",
+      "source_R": "pē xǐt",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dia claro.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe¹ dzit⁸",
+        "tai_lo_standard": "pe-ji̍t",
+        "phonological_basis": "17c Dominican orthography conversion: pe (白) -> pe¹ / pe; xǐt (日) -> dzit⁸ / ji̍t."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "Dias, los primeros del mes.",
+      "source_H": "初旬",
+      "source_M": "chè zūn",
+      "source_R": "chǒ zûn",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dias, los primeros del mes.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse² tsun⁵",
+        "tai_lo_standard": "tsé-tsûn",
+        "phonological_basis": "17c Dominican orthography conversion: chè (初) -> tse² / tsé; zūn (旬) -> tsun⁵ / tsûn."
+      }
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 820,
+  "historical_folio": 782,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0820/pdf_0820_300dpi.png",
+  "page_header": "P. ante. Q.",
+  "page_footer_printed": "- 782 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 21,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Poder; ey[疑:ey/cy]",
+      "source_H": "會",
+      "source_M": "ey",
+      "source_R": "che'",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Poder; ey",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ei¹",
+        "tai_lo_standard": "ei",
+        "phonological_basis": "17c Dominican orthography conversion: ey (會) -> ei¹ / ei."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "poder -",
+      "source_H": "能",
+      "source_M": "leng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poder -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "leŋ⁵",
+        "tai_lo_standard": "lêng",
+        "phonological_basis": "17c Dominican orthography conversion: leng (能) -> leŋ⁵ / lêng."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "poder hazer se - cycho it.[疑:cycho it/vycho it]",
+      "source_H": "克",
+      "source_M": "queg.",
+      "source_R": "su hay.",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poder hazer se - cycho it.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰek⁷",
+        "tai_lo_standard": "khek",
+        "phonological_basis": "17c Dominican orthography conversion: queg (克) -> kʰek⁷ / khek."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "poder hazer se -",
+      "source_H": "勝",
+      "source_M": "seng.",
+      "source_R": "sobxuyuya.[疑:sobxuyuya/sobrequya]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poder hazer se -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "seŋ³",
+        "tai_lo_standard": "sèng",
+        "phonological_basis": "17c Dominican orthography conversion: seng (勝) -> seŋ³ / sèng."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "poder ser de provechos.[疑:词尾s]",
+      "source_H": "堪",
+      "source_M": "cam.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poder ser de provechos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kam¹",
+        "tai_lo_standard": "kam",
+        "phonological_basis": "17c Dominican orthography conversion: cam (堪) -> kam¹ / kam."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "poder ser de provecho es -",
+      "source_H": "堪用",
+      "source_M": "cam ioyg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poder ser de provecho es -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kam¹ ioik⁷",
+        "tai_lo_standard": "kam-ioik",
+        "phonological_basis": "17c Dominican orthography conversion: cam (堪) -> kam¹ / kam; ioyg (用) -> ioik⁷ / ioik."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "poder ser de provecho -",
+      "source_H": "堪為",
+      "source_M": "cam uy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poder ser de provecho -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kam¹ ui⁵",
+        "tai_lo_standard": "kam-uî",
+        "phonological_basis": "17c Dominican orthography conversion: cam (堪) -> kam¹ / kam; uy (為) -> ui⁵ / uî."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "poder se hazer -",
+      "source_H": "會做得",
+      "source_M": "ey cho ter.[疑:ter/tit]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poder se hazer -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ei¹ tso³ ter⁵ ter¹ tit⁷",
+        "tai_lo_standard": "ei-tsò-têr-ter-tit",
+        "phonological_basis": "17c Dominican orthography conversion: ey (會) -> ei¹ / ei; cho (做) -> tso³ / tsò; ter (得) -> ter⁵ / têr; ter (?) -> ter¹ / ter; tit (?) -> tit⁷ / tit."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "poder hazer se -",
+      "source_H": "事諧",
+      "source_M": "su hay.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poder hazer se -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su¹ hai¹",
+        "tai_lo_standard": "su-hai",
+        "phonological_basis": "17c Dominican orthography conversion: su (事) -> su¹ / su; hay (諧) -> hai¹ / hai."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "poder con algunos -",
+      "source_H": "有法伊奈何",
+      "source_M": "u huarg tay oa.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poder con algunos -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "u¹ huark⁷ tai⁵ oa⁵",
+        "tai_lo_standard": "u-huark-tâi-oâ",
+        "phonological_basis": "17c Dominican orthography conversion: u (有) -> u¹ / u; huarg (法) -> huark⁷ / huark; tay (伊) -> tai⁵ / tâi; oa (奈) -> oa⁵ / oâ."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "poder menospreciar -",
+      "source_H": "貌過[疑:貌/藐]",
+      "source_M": "bian cue.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poder menospreciar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bian⁵ kue³",
+        "tai_lo_standard": "biân-kuè",
+        "phonological_basis": "17c Dominican orthography conversion: bian (貌) -> bian⁵ / biân; cue (過) -> kue³ / kuè."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "poder lo desear -",
+      "source_H": "乞得",
+      "source_M": "guit quit.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poder lo desear -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guit⁷ kit⁷",
+        "tai_lo_standard": "guit-kit",
+        "phonological_basis": "17c Dominican orthography conversion: guit (乞) -> guit⁷ / guit; quit (得) -> kit⁷ / kit."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Poderoso -",
+      "source_H": "財力",
+      "source_M": "chay leg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Poderoso -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsai³ lek⁸",
+        "tai_lo_standard": "tsài-le̍k",
+        "phonological_basis": "17c Dominican orthography conversion: chay (財) -> tsai³ / tsài; leg (力) -> lek⁸ / le̍k."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "poderoso -",
+      "source_H": "欺過",
+      "source_M": "guy cue.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poderoso -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui¹ kue³",
+        "tai_lo_standard": "gui-kuè",
+        "phonological_basis": "17c Dominican orthography conversion: guy (欺) -> gui¹ / gui; cue (過) -> kue³ / kuè."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Pode -",
+      "source_H": "膿[疑:膿/腴]",
+      "source_M": "lang.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Pode -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "laŋ⁵",
+        "tai_lo_standard": "lâng",
+        "phonological_basis": "17c Dominican orthography conversion: lang (膿) -> laŋ⁵ / lâng."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "podre de pies y manos -",
+      "source_H": "濕疹[疑:疹/疢]",
+      "source_M": "sip sien.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "podre de pies y manos -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sip⁷ sien³",
+        "tai_lo_standard": "sip-sièn",
+        "phonological_basis": "17c Dominican orthography conversion: sip (濕) -> sip⁷ / sip; sien (疹) -> sien³ / sièn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Podrido -",
+      "source_H": "爛",
+      "source_M": "noa.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Podrido -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "noa¹",
+        "tai_lo_standard": "noa",
+        "phonological_basis": "17c Dominican orthography conversion: noa (爛) -> noa¹ / noa."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "podrido -",
+      "source_H": "厭",
+      "source_M": "aihu.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "podrido -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "aihu²",
+        "tai_lo_standard": "áihu",
+        "phonological_basis": "17c Dominican orthography conversion: aihu (厭) -> aihu² / áihu."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "podrido -",
+      "source_H": "攬[疑:攬/覽]",
+      "source_M": "lam.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "podrido -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lam²",
+        "tai_lo_standard": "lám",
+        "phonological_basis": "17c Dominican orthography conversion: lam (攬) -> lam² / lám."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "podrido",
+      "source_H": "殕[疑:殕/殠]",
+      "source_M": "au chau.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "podrido",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "au³ tsau³",
+        "tai_lo_standard": "àu-tsàu",
+        "phonological_basis": "17c Dominican orthography conversion: au (殕) -> au³ / àu; chau (?) -> tsau³ / tsàu."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "podrido -",
+      "source_H": "靡[疑:靡/縻]",
+      "source_M": "by.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "podrido -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bi¹",
+        "tai_lo_standard": "bi",
+        "phonological_basis": "17c Dominican orthography conversion: by (靡) -> bi¹ / bi."
+      }
+    }
+  ]
+}

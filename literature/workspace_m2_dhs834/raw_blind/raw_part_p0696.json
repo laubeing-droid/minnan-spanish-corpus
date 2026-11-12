@@ -1,0 +1,35 @@
+{
+  "pages": [
+    {
+      "pdf_page": 696,
+      "historical_folio": 662,
+      "page_header": "N. ante. A.",
+      "page_footer_printed": "- 662 -",
+      "page_footer_handwritten": "331",
+      "damaged": false,
+      "notes": "三横带（band_y0_top / band_y1_mid / band_y2_bot）各恰好读一次，互相衔接锁定20行，未重读任何图。页左上角烧损污渍，页顶部与右半多处背面透印残影（红划线底纹），均未计入正文。页顶手写段标记 N. ante. A.（大写字母潦草，辨认度中等）；右上角铅笔手写页码 331 位于页顶非页脚，为不丢失数据填入 footer_handwritten 并在此说明；印刷页脚 - 662 -，historical_folio=662 无需估算。M栏调号细小，凡形状难辨处一律 T99；入声号按样板只记 tone_marks 不入拼写（第8行 tit、第12行 chip）。存疑待校订：第1-2行汉字（体度/本寺）及 M 拼写均存疑（第1行第二音节疑 ūⁿ/tō 之辨）；第5行 M 栏右侧另有旁注 1pīen.（行外补注）未计入任何字段；第7行首音节 j̄ 之 j/i 难辨；第9行左字忄旁似慷；第10行 M 栏内混有西文 malo 系照抄所见；第11行末音节之后似另有小字（iz 类）未敢定；第13行尾 azauna 拼写存疑；第14-15行（剃头刀）M 拼写与调号均存疑（第15行尾笔形似 40；t 上钩形未作 th 还原，按样板作 t）；第16行汉字婁疑屢，调号形状难辨；第17行 R 栏 cun pou. 与船行对齐存疑（位于船/艇行之间偏右），L 栏圈注 naue, nauio~ 归属行难定未入 source_L；第18-19行调号形状难辨；第20行汉字鳥疑舃、末音节 chis 疑 chìṡ/chíṡ（s 上似加点）。【覆盖披露】写入时发现本路径已存在一份先前盲读稿（23条，将圈注单独立行；14行 L 作 almanço、R 作 几，17行汉字作隻，R 栏多行作[残]，调号多记尖頂帽，M 作 t'îan/t'îaū tō/gūn peñ 等），与本次独立盲读多有出入；本次按本次三横带读法原样覆盖，两稿宜对照人工校订。以上为一次读图最可信读法，多处待人工校订。",
+      "entries": [
+        {"position": 1,  "source_L": "natural dela cosa~", "source_H": "体 度", "source_M": "tey ūⁿ.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T00 (無標號)"], "tone_marks_R": []},
+        {"position": 2,  "source_L": "natural dela cosa", "source_H": "本 寺", "source_M": "pūn sīⁿ.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 3,  "source_L": "natural dela cosa~", "source_H": "体 能", "source_M": "tey ēng.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 4,  "source_L": "natural dela cosa~", "source_H": "心 体", "source_M": "sīm tey.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 5,  "source_L": "natural inclinacion~", "source_H": "性 地 偏", "source_M": "sēng tey pīen.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T99 (污損難辨)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 6,  "source_L": "natural, afectos, y pasiones.", "source_H": "性 情", "source_M": "sēng chēng.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 7,  "source_L": "natural propio~", "source_H": "依 然", "source_M": "j̄ xien.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 8,  "source_L": "natural bueno~", "source_H": "性 直", "source_M": "sēⁿ tit.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T06/T07 (交叉入聲號)"], "tone_marks_R": []},
+        {"position": 9,  "source_L": "natural bueno~", "source_H": "慷 慨", "source_M": "cong cāy.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 10, "source_L": "natural malo~", "source_H": "使 性", "source_M": "say se malo.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 11, "source_L": "natural malo~", "source_H": "不 本 分", "source_M": "m̄ pūn hūn.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 12, "source_L": "natural malo auieso~", "source_H": "執 偏", "source_M": "chip pīen.", "source_R": "[空]", "tone_marks_M": ["T06/T07 (交叉入聲號)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 13, "source_L": "natural malo, agrauia~", "source_H": "使 僥 倖", "source_M": "say hiau hēng azauna.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)", "T05 (平橫)", "T00 (無標號)"], "tone_marks_R": []},
+        {"position": 14, "source_L": "Nauaja, o barbezo.", "source_H": "剃 頭[疑:頭/刀]", "source_M": "ti kian.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 15, "source_L": "nauaja~", "source_H": "剃 頭 刀", "source_M": "ti tau to.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 16, "source_L": "Naue, nauio, numeral~", "source_H": "婁", "source_M": "chia.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 17, "source_L": "[空]", "source_H": "船", "source_M": "chūn.", "source_R": "cun pou.", "tone_marks_M": ["T05 (平橫)"], "tone_marks_R": ["T00 (無標號)"]},
+        {"position": 18, "source_L": "nave~ Nauio~", "source_H": "艇", "source_M": "teng.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 19, "source_L": "Nauio grande~", "source_H": "艦", "source_M": "lam.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 20, "source_L": "nauio pequeno, o embarcacion~", "source_H": "鳥[疑:鳥/舃]", "source_M": "chiàu chūn chīn chis.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T05 (平橫)", "T05 (平橫)", "T99 (污損難辨)"], "tone_marks_R": []}
+      ]
+    }
+  ]
+}

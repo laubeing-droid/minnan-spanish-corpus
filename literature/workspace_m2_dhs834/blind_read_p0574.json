@@ -1,0 +1,292 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 574,
+  "historical_folio": 540,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0574/pdf_0574_300dpi.png",
+  "page_header": "H. ante. U.",
+  "page_footer_printed": "- 540 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 14,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "hospederia-",
+      "source_H": "大 所",
+      "source_M": "foa fia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hospederia-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "foa² fia¹",
+        "tai_lo_standard": "foá-fia",
+        "phonological_basis": "17c Dominican orthography conversion: foa (大) -> foa² / foá; fia (所) -> fia¹ / fia."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "hospederia, y hospedanse solo en algun lugar~",
+      "source_H": "单 歇",
+      "source_M": "foa he",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hospederia, y hospedanse solo en algun lugar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "foa² he¹",
+        "tai_lo_standard": "foá-he",
+        "phonological_basis": "17c Dominican orthography conversion: foa (单) -> foa² / foá; he (歇) -> he¹ / he."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Hospital~",
+      "source_H": "病 厝",
+      "source_M": "pe chu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Hospital~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe² tsu¹",
+        "tai_lo_standard": "pé-tsu",
+        "phonological_basis": "17c Dominican orthography conversion: pe (病) -> pe² / pé; chu (厝) -> tsu¹ / tsu."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "hospital de Suriento del Rey.",
+      "source_H": "养 濟 院 [疑:养/卷]",
+      "source_M": "iang chey",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hospital de Suriento del Rey.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iaŋ² tsei²",
+        "tai_lo_standard": "iáng-tséi",
+        "phonological_basis": "17c Dominican orthography conversion: iang (养) -> iaŋ² / iáng; chey (濟) -> tsei² / tséi."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Hoyo-",
+      "source_H": "掘",
+      "source_M": "cur",
+      "source_R": "vendao. [疑:vendao/venjao]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Hoyo-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kurʔ⁸",
+        "tai_lo_standard": "ku̍rh",
+        "phonological_basis": "17c Dominican orthography conversion: cur (掘) -> kurʔ⁸ / ku̍rh."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "hoyo~",
+      "source_H": "掘 開",
+      "source_M": "cur uy haul le",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hoyo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kurʔ⁸ ui¹ haul¹ le¹",
+        "tai_lo_standard": "ku̍rh-ui-haul-le",
+        "phonological_basis": "17c Dominican orthography conversion: cur (掘) -> kurʔ⁸ / ku̍rh; uy (開) -> ui¹ / ui; haul (?) -> haul¹ / haul; le (?) -> le¹ / le."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "hoyo~",
+      "source_H": "掘 堀",
+      "source_M": "cur cur iog [疑:iog/ioc]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hoyo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kurʔ⁸ kʰur¹ iok⁷ iok⁷ iok⁷",
+        "tai_lo_standard": "ku̍rh-khur-iok-iok-iok",
+        "phonological_basis": "17c Dominican orthography conversion: cur (掘) -> kurʔ⁸ / ku̍rh; cur (堀) -> kʰur¹ / khur; iog (?) -> iok⁷ / iok; iog (?) -> iok⁷ / iok; ioc (?) -> iok⁷ / iok."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "hoyo trampa~",
+      "source_H": "阱",
+      "source_M": "cheng ham chun",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hoyo trampa~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ² ham¹ tsun¹",
+        "tai_lo_standard": "tséng-ham-tsun",
+        "phonological_basis": "17c Dominican orthography conversion: cheng (阱) -> tseŋ² / tséng; ham (?) -> ham¹ / ham; chun (?) -> tsun¹ / tsun."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Hoz de segar~",
+      "source_H": "鈇 [疑:鈇/缺]",
+      "source_M": "que",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Hoz de segar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ke³",
+        "tai_lo_standard": "kè",
+        "phonological_basis": "17c Dominican orthography conversion: que (鈇) -> ke³ / kè."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "hoz de segar ·",
+      "source_H": "鎌",
+      "source_M": "liam",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hoz de segar ·",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liam⁵",
+        "tai_lo_standard": "liâm",
+        "phonological_basis": "17c Dominican orthography conversion: liam (鎌) -> liam⁵ / liâm."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "hoz de segar~",
+      "source_H": "鎌 刀",
+      "source_M": "liam zo",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hoz de segar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liam⁵ tso¹",
+        "tai_lo_standard": "liâm-tso",
+        "phonological_basis": "17c Dominican orthography conversion: liam (鎌) -> liam⁵ / liâm; zo (刀) -> tso¹ / tso."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "H. ante. U.",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "H. ante. U.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Huelgo de la boca.",
+      "source_H": "哮",
+      "source_M": "ha",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Huelgo de la boca.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ha¹",
+        "tai_lo_standard": "ha",
+        "phonological_basis": "17c Dominican orthography conversion: ha (哮) -> ha¹ / ha."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "huelgo de la boca~",
+      "source_H": "哮 氣",
+      "source_M": "ha guiy [疑:guiy/gui]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "huelgo de la boca~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ha¹ guii³ guii¹ gui¹",
+        "tai_lo_standard": "ha-guìi-guii-gui",
+        "phonological_basis": "17c Dominican orthography conversion: ha (哮) -> ha¹ / ha; guiy (氣) -> guii³ / guìi; guiy (?) -> guii¹ / guii; gui (?) -> gui¹ / gui."
+      }
+    }
+  ]
+}

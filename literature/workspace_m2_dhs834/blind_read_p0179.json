@@ -1,0 +1,545 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 179,
+  "historical_folio": 150,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0179/pdf_0179_300dpi.png",
+  "page_header": "SS. ante. O.",
+  "page_footer_printed": "- 150 -",
+  "page_footer_handwritten": "75",
+  "total_positions_recorded": 23,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Boluer pagando -",
+      "source_H": "還",
+      "source_M": "huān chīng.",
+      "source_R": "huân",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluer pagando -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan⁵ tsiŋ⁶",
+        "tai_lo_standard": "huân-tsīng",
+        "phonological_basis": "17c Dominican orthography conversion: huān (還) -> huan⁵ / huân; chīng (?) -> tsiŋ⁶ / tsīng."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Boluer, dar lo que en comen daron -",
+      "source_H": "銷",
+      "source_M": "śiau.",
+      "source_R": "siào",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluer, dar lo que en comen daron -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iau¹",
+        "tai_lo_standard": "iau",
+        "phonological_basis": "17c Dominican orthography conversion: iau (銷) -> iau¹ / iau."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Boluer a el que lo mandam.",
+      "source_H": "銷票",
+      "source_M": "siáu piô.",
+      "source_R": "siào piào",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluer a el que lo mandam.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siau¹ pio³",
+        "tai_lo_standard": "siau-piò",
+        "phonological_basis": "17c Dominican orthography conversion: siáu (銷) -> siau¹ / siau; piô (票) -> pio³ / piò."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Boluer el mandam.t ael que",
+      "source_H": "銷[疑:拴/挲]",
+      "source_M": "siáu pèy.",
+      "source_R": "siào pỳ",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluer el mandam.t ael que",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siau¹ pei²",
+        "tai_lo_standard": "siau-péi",
+        "phonological_basis": "17c Dominican orthography conversion: siáu (銷) -> siau¹ / siau; pèy (?) -> pei² / péi."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Boluer al reuer, Boluer a ha cer Boluenze -",
+      "source_H": "到",
+      "source_M": "[残]",
+      "source_R": "tōn",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluer al reuer, Boluer a ha cer Boluenze -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Boluerse el Rānio.",
+      "source_H": "到船",
+      "source_M": "tô chūn.",
+      "source_R": "tôn chuēn",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluerse el Rānio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to³ tsʰun⁵",
+        "tai_lo_standard": "tò-tshûn",
+        "phonological_basis": "17c Dominican orthography conversion: tô (到) -> to³ / tò; chūn (船) -> tsʰun⁵ / tshûn."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Boluer la cabeça .",
+      "source_H": "到頭",
+      "source_M": "tô taū la cabeça",
+      "source_R": "tôn keû",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluer la cabeça .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to³ tʰau⁵ la¹ kabe¹ a¹",
+        "tai_lo_standard": "tò-thâu-la-kabe-a",
+        "phonological_basis": "17c Dominican orthography conversion: tô (到) -> to³ / tò; taū (頭) -> tʰau⁵ / thâu; la (?) -> la¹ / la; cabe (?) -> kabe¹ / kabe; a (?) -> a¹ / a."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Boluerse air",
+      "source_H": "到去",
+      "source_M": "tô cû airé.",
+      "source_R": "tôn gùi",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluerse air",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to³ kʰu³ aire¹",
+        "tai_lo_standard": "tò-khù-aire",
+        "phonological_basis": "17c Dominican orthography conversion: tô (到) -> to³ / tò; cû (去) -> kʰu³ / khù; airé (?) -> aire¹ / aire."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Boluerse uenir",
+      "source_H": "到來",
+      "source_M": "tô lāy auenir",
+      "source_R": "tôn lây",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluerse uenir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to³ lai⁵ auenir¹",
+        "tai_lo_standard": "tò-lâi-auenir",
+        "phonological_basis": "17c Dominican orthography conversion: tô (到) -> to³ / tò; lāy (來) -> lai⁵ / lâi; auenir (?) -> auenir¹ / auenir."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Boluer aluemi, darclon cado rado ..",
+      "source_H": "到屏.",
+      "source_M": "tô pễ.",
+      "source_R": "tôn pìn",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluer aluemi, darclon cado rado ..",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to³ pi³",
+        "tai_lo_standard": "tò-pì",
+        "phonological_basis": "17c Dominican orthography conversion: tô (到) -> to³ / tò; p (屏) -> pi³ / pì."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Boluer dando le una y otra buelta -",
+      "source_H": "到[疑:蓮/連]轉",
+      "source_M": "tô liên tïy,",
+      "source_R": "tôn liê chüen",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluer dando le una y otra buelta -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to³ lien³ ti⁶ i¹",
+        "tai_lo_standard": "tò-lièn-tī-i",
+        "phonological_basis": "17c Dominican orthography conversion: tô (到) -> to³ / tò; liên (轉) -> lien³ / lièn; t (?) -> ti⁶ / tī; y (?) -> i¹ / i."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Boluerse uiend sempesado a caminar -",
+      "source_H": "到行",
+      "source_M": "tô guiā.",
+      "source_R": "tôn hêñ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluerse uiend sempesado a caminar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to³ guia⁵",
+        "tai_lo_standard": "tò-guiâ",
+        "phonological_basis": "17c Dominican orthography conversion: tô (到) -> to³ / tò; guiā (行) -> guia⁵ / guiâ."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Boluerse la aguia ne presan dola -",
+      "source_H": "到流",
+      "source_M": "tô laū.",
+      "source_R": "tôn [残] hì",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluerse la aguia ne presan dola -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to³ lau⁵",
+        "tai_lo_standard": "tò-lâu",
+        "phonological_basis": "17c Dominican orthography conversion: tô (到) -> to³ / tò; laū (流) -> lau⁵ / lâu."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Boluer lo a ha cer -",
+      "source_H": "到做",
+      "source_M": "tô chô.",
+      "source_R": "tôn chô",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluer lo a ha cer -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to³ tso³",
+        "tai_lo_standard": "tò-tsò",
+        "phonological_basis": "17c Dominican orthography conversion: tô (到) -> to³ / tò; chô (做) -> tso³ / tsò."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Boluer aotra par la cabeça -",
+      "source_H": "翻",
+      "source_M": "huān.",
+      "source_R": "fān",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluer aotra par la cabeça -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan⁵",
+        "tai_lo_standard": "huân",
+        "phonological_basis": "17c Dominican orthography conversion: huān (翻) -> huan⁵ / huân."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "la cabeça muiando de Boluer [残] aribo al a cabeça",
+      "source_H": "翻轉頭",
+      "source_M": "huān chūĩ taū.",
+      "source_R": "fân chüen keû",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "la cabeça muiando de Boluer aribo al a cabeça",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan⁵ tsũĩ⁵ tʰau⁵",
+        "tai_lo_standard": "huân-tsuînn-thâu",
+        "phonological_basis": "17c Dominican orthography conversion: huān (翻) -> huan⁵ / huân; chūĩ (轉) -> tsũĩ⁵ / tsuînn; taū (頭) -> tʰau⁵ / thâu."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Boluerse todo el cuerpo aotra parte como en la dança -",
+      "source_H": "翻轉身",
+      "source_M": "huān chūĩ sīn el cuerpo",
+      "source_R": "fân chüen sîn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluerse todo el cuerpo aotra parte como en la dança -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan⁵ tsũĩ⁵ sin⁵ el¹ kuerpo¹",
+        "tai_lo_standard": "huân-tsuînn-sîn-el-kuerpo",
+        "phonological_basis": "17c Dominican orthography conversion: huān (翻) -> huan⁵ / huân; chūĩ (轉) -> tsũĩ⁵ / tsuînn; sīn (身) -> sin⁵ / sîn; el (?) -> el¹ / el; cuerpo (?) -> kuerpo¹ / kuerpo."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Boluer la cabeça a una y otra parte -",
+      "source_H": "翻[疑:蓮/薛]轉",
+      "source_M": "huān chīn chūy dando bueltas",
+      "source_R": "fân liên chüen",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluer la cabeça a una y otra parte -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan⁵ tsin⁵ tsui⁶ dando¹ bueltas¹",
+        "tai_lo_standard": "huân-tsîn-tsuī-dando-bueltas",
+        "phonological_basis": "17c Dominican orthography conversion: huān (翻) -> huan⁵ / huân; chīn (轉) -> tsin⁵ / tsîn; chūy (?) -> tsui⁶ / tsuī; dando (?) -> dando¹ / dando; bueltas (?) -> bueltas¹ / bueltas."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Boluer atras mirando -",
+      "source_H": "翻轉來",
+      "source_M": "huān chūy lāy.",
+      "source_R": "fân chüen lây",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluer atras mirando -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan⁵ tsui⁵ lai⁵",
+        "tai_lo_standard": "huân-tsuî-lâi",
+        "phonological_basis": "17c Dominican orthography conversion: huān (翻) -> huan⁵ / huân; chūy (轉) -> tsui⁵ / tsuî; lāy (來) -> lai⁵ / lâi."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Boluer pagando la deuda.",
+      "source_H": "回",
+      "source_M": "Hūe. līn chūy.:",
+      "source_R": "hûy",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluer pagando la deuda.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hue⁵ lin⁶ tsui⁶",
+        "tai_lo_standard": "huê-līn-tsuī",
+        "phonological_basis": "17c Dominican orthography conversion: Hūe (回) -> hue⁵ / huê; līn (?) -> lin⁶ / līn; chūy (?) -> tsui⁶ / tsuī."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "Boluer.",
+      "source_H": "回來",
+      "source_M": "hūe lāy.:",
+      "source_R": "hûy lây",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluer.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hue⁵ lai⁵",
+        "tai_lo_standard": "huê-lâi",
+        "phonological_basis": "17c Dominican orthography conversion: hūe (回) -> hue⁵ / huê; lāy (來) -> lai⁵ / lâi."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "Boluer, Boluerse -",
+      "source_H": "回歸",
+      "source_M": "hūe cūy.:",
+      "source_R": "hùi cùi",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluer, Boluerse -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hue⁵ kui⁵",
+        "tai_lo_standard": "huê-kuî",
+        "phonological_basis": "17c Dominican orthography conversion: hūe (回) -> hue⁵ / huê; cūy (歸) -> kui⁵ / kuî."
+      }
+    },
+    {
+      "position": 23,
+      "source_L": "Boluerse delo quaia dichos determinados",
+      "source_H": "反",
+      "source_M": "huān.",
+      "source_R": "fân",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Boluerse delo quaia dichos determinados",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan⁵",
+        "tai_lo_standard": "huân",
+        "phonological_basis": "17c Dominican orthography conversion: huān (反) -> huan⁵ / huân."
+      }
+    }
+  ]
+}

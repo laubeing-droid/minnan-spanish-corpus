@@ -1,0 +1,420 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 552,
+  "historical_folio": 518,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0552/pdf_0552_300dpi.png",
+  "page_header": "H. ante. F.",
+  "page_footer_printed": "- 518 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "hechar siⁿ dar lo nada.",
+      "source_H": "絕人太甚",
+      "source_M": "chuā̃ lāy tāy sīm",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hechar siⁿ dar lo nada.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsũã³ lai⁵ tʰai⁵ sim⁵",
+        "tai_lo_standard": "tsuànn-lâi-thâi-sîm",
+        "phonological_basis": "17c Dominican orthography conversion: chuā̃ (絕) -> tsũã³ / tsuànn; lāy (人) -> lai⁵ / lâi; tāy (太) -> tʰai⁵ / thâi; sīm (甚) -> sim⁵ / sîm."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "hechar el nauio a el agua.",
+      "source_H": "船落水",
+      "source_M": "chū̃ lò̃ chùy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hechar el nauio a el agua.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰũ⁵ lõ² tsui²",
+        "tai_lo_standard": "tshûnn-lónn-tsuí",
+        "phonological_basis": "17c Dominican orthography conversion: chū̃ (船) -> tsʰũ⁵ / tshûnn; lò̃ (落) -> lõ² / lónn; chùy (水) -> tsui² / tsuí."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "hechar el ancla del nauio al agua.",
+      "source_H": "抛柁",
+      "source_M": "pvà hã",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hechar el ancla del nauio al agua.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pva² hã¹",
+        "tai_lo_standard": "pvá-hann",
+        "phonological_basis": "17c Dominican orthography conversion: pvà (抛) -> pva² / pvá; hã (柁) -> hã¹ / hann."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "hechar el ancla a el agua.",
+      "source_H": "抛落水",
+      "source_M": "pvà lò̃ chùy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hechar el ancla a el agua.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pva² lõ² tsui²",
+        "tai_lo_standard": "pvá-lónn-tsuí",
+        "phonological_basis": "17c Dominican orthography conversion: pvà (抛) -> pva² / pvá; lò̃ (落) -> lõ² / lónn; chùy (水) -> tsui² / tsuí."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "hechar la suerte, auenturança.",
+      "source_H": "完柸[疑:柸/杯]",
+      "source_M": "van pūé",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hechar la suerte, auenturança.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "van⁵ pue¹",
+        "tai_lo_standard": "vân-pue",
+        "phonological_basis": "17c Dominican orthography conversion: van (完) -> van⁵ / vân; pūé (柸) -> pue¹ / pue."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "hechar sal en la comida -",
+      "source_H": "宿鹽",
+      "source_M": "chôa iām",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hechar sal en la comida -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsoa³ iam⁵",
+        "tai_lo_standard": "tsoà-iâm",
+        "phonological_basis": "17c Dominican orthography conversion: chôa (宿) -> tsoa³ / tsoà; iām (鹽) -> iam⁵ / iâm."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "hechar sal en la comida",
+      "source_H": "落鹽",
+      "source_M": "lò̃ iām",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hechar sal en la comida",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lõ² iam⁵",
+        "tai_lo_standard": "lónn-iâm",
+        "phonological_basis": "17c Dominican orthography conversion: lò̃ (落) -> lõ² / lónn; iām (鹽) -> iam⁵ / iâm."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "hecharse, accostarse.",
+      "source_H": "倒",
+      "source_M": "tò",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hecharse, accostarse.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to²",
+        "tai_lo_standard": "tó",
+        "phonological_basis": "17c Dominican orthography conversion: tò (倒) -> to² / tó."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "hecharse de lado.",
+      "source_H": "傍",
+      "source_M": "Pōng pē lado",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hecharse de lado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pɔŋ⁵ pe⁶ lado¹",
+        "tai_lo_standard": "pông-pē-lado",
+        "phonological_basis": "17c Dominican orthography conversion: Pōng (傍) -> pɔŋ⁵ / pông; pē (?) -> pe⁶ / pē; lado (?) -> lado¹ / lado."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "hecharse accostarse.",
+      "source_H": "舒倒堤",
+      "source_M": "chū̃ tò tē accostarse - tò tē cūn",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hecharse accostarse.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsũ⁵ to² te⁵ accostarse² to² te⁶ kun⁶",
+        "tai_lo_standard": "tsûnn-tó-tê-áccostarse-tó-tē-kūn",
+        "phonological_basis": "17c Dominican orthography conversion: chū̃ (舒) -> tsũ⁵ / tsûnn; tò (倒) -> to² / tó; tē (堤) -> te⁵ / tê; accostarse (?) -> accostarse² / áccostarse; tò (?) -> to² / tó; tē (?) -> te⁶ / tē; cūn (?) -> kun⁶ / kūn."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "hecharse a el hombro afa",
+      "source_H": "下許育[疑:育/有]頭",
+      "source_M": "hè hù quēy tāu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hecharse a el hombro afa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "he² hu² kei⁵ tʰau⁵",
+        "tai_lo_standard": "hé-hú-kêi-thâu",
+        "phonological_basis": "17c Dominican orthography conversion: hè (下) -> he² / hé; hù (許) -> hu² / hú; quēy (育) -> kei⁵ / kêi; tāu (頭) -> tʰau⁵ / thâu."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "hecharse, ynose bolvir, como el enfermo apuerta agena",
+      "source_H": "倒蓿賴仜[疑:仜/佢]",
+      "source_M": "tò hvà lūaỹ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hecharse, ynose bolvir, como el enfermo apuerta agena",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to² hva² lua⁵",
+        "tai_lo_standard": "tó-hvá-luâ",
+        "phonological_basis": "17c Dominican orthography conversion: tò (倒) -> to² / tó; hvà (蓿) -> hva² / hvá; lūa (賴) -> lua⁵ / luâ."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "hecharse adormir.",
+      "source_H": "倒堤困",
+      "source_M": "tò tē cūn",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hecharse adormir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to² te⁵ kun⁵",
+        "tai_lo_standard": "tó-tê-kûn",
+        "phonological_basis": "17c Dominican orthography conversion: tò (倒) -> to² / tó; tē (堤) -> te⁵ / tê; cūn (困) -> kun⁵ / kûn."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "hecharse a el agua ~",
+      "source_H": "倒落水",
+      "source_M": "tò lò̃ chùy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hecharse a el agua ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to² lõ² tsui²",
+        "tai_lo_standard": "tó-lónn-tsuí",
+        "phonological_basis": "17c Dominican orthography conversion: tò (倒) -> to² / tó; lò̃ (落) -> lõ² / lónn; chùy (水) -> tsui² / tsuí."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "hecharse a el agua",
+      "source_H": "落水",
+      "source_M": "lò̃ chùy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hecharse a el agua",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lõ² tsui²",
+        "tai_lo_standard": "lónn-tsuí",
+        "phonological_basis": "17c Dominican orthography conversion: lò̃ (落) -> lõ² / lónn; chùy (水) -> tsui² / tsuí."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "hecharse a perder nonoadoy, uel aman [疑:cebado/odoy]",
+      "source_H": "敗",
+      "source_M": "Pây",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hecharse a perder nonoadoy, uel aman",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pai³",
+        "tai_lo_standard": "pài",
+        "phonological_basis": "17c Dominican orthography conversion: Pây (敗) -> pai³ / pài."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Hecho perficionado, acabado.",
+      "source_H": "竟",
+      "source_M": "queng",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Hecho perficionado, acabado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "keŋ¹",
+        "tai_lo_standard": "keng",
+        "phonological_basis": "17c Dominican orthography conversion: queng (竟) -> keŋ¹ / keng."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Hecho, perficionado, acabado ~",
+      "source_H": "做了",
+      "source_M": "chô liàu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Hecho, perficionado, acabado ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso³ liau²",
+        "tai_lo_standard": "tsò-liáu",
+        "phonological_basis": "17c Dominican orthography conversion: chô (做) -> tso³ / tsò; liàu (了) -> liau² / liáu."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "hecho deprestado.",
+      "source_H": "權[疑:權/榷]且",
+      "source_M": "cuān chià̃",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hecho deprestado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuan⁵ tsĩã²",
+        "tai_lo_standard": "kuân-tsiánn",
+        "phonological_basis": "17c Dominican orthography conversion: cuān (權) -> kuan⁵ / kuân; chià̃ (且) -> tsĩã² / tsiánn."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "hecho deprestado ~",
+      "source_H": "權[疑:權/榷]時",
+      "source_M": "cuān sȳ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "hecho deprestado ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuan⁵ si⁵",
+        "tai_lo_standard": "kuân-sî",
+        "phonological_basis": "17c Dominican orthography conversion: cuān (權) -> kuan⁵ / kuân; s (時) -> si⁵ / sî."
+      }
+    }
+  ]
+}

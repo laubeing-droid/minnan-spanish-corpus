@@ -1,0 +1,519 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 92,
+  "historical_folio": 63,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0092/pdf_0092_300dpi.png",
+  "page_header": "H. ante. JUL.",
+  "page_footer_printed": "- 63 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "amigo y amistad.",
+      "source_H": "雍",
+      "source_M": "y óng",
+      "source_R": "ŏng",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigo y amistad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "i¹ ɔŋ¹",
+        "tai_lo_standard": "i-ong",
+        "phonological_basis": "17c Dominican orthography conversion: y (雍) -> i¹ / i; óng (?) -> ɔŋ¹ / ong."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "amistad y amigos grandes",
+      "source_H": "結交",
+      "source_M": "guiêr caú.",
+      "source_R": "guīe guiăn",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amistad y amigos grandes",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guier³ kau¹",
+        "tai_lo_standard": "guièr-kau",
+        "phonological_basis": "17c Dominican orthography conversion: guiêr (結) -> guier³ / guièr; caú (交) -> kau¹ / kau."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "amigos ut dos heranos.",
+      "source_H": "結義兄弟",
+      "source_M": "guiêrgĭ hiã tĭ",
+      "source_R": "guīe guī siŏng tī",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos ut dos heranos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guierk⁷ hĩã⁶ ti²",
+        "tai_lo_standard": "guierk-hiānn-tí",
+        "phonological_basis": "17c Dominican orthography conversion: guiêrg (結) -> guierk⁷ / guierk; hiã (義) -> hĩã⁶ / hiānn; t (兄) -> ti² / tí."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "amigos de buens respeito-",
+      "source_H": "結拜",
+      "source_M": "guiêr pây",
+      "source_R": "guīe pāy",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos de buens respeito-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guier³ pai³",
+        "tai_lo_standard": "guièr-pài",
+        "phonological_basis": "17c Dominican orthography conversion: guiêr (結) -> guier³ / guièr; pây (拜) -> pai³ / pài."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Amistad y compañia",
+      "source_H": "會",
+      "source_M": "hŭe",
+      "source_R": "hūe",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Amistad y compañia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi² e¹",
+        "tai_lo_standard": "hí-e",
+        "phonological_basis": "17c Dominican orthography conversion: h (會) -> hi² / hí; e (?) -> e¹ / e."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "amigos",
+      "source_H": "會合",
+      "source_M": "hŭe hăp.",
+      "source_R": "hūe hāp",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi² e² hi¹ pi¹",
+        "tai_lo_standard": "hí-é-hi-pi",
+        "phonological_basis": "17c Dominican orthography conversion: h (會) -> hi² / hí; e (合) -> e² / é; h (?) -> hi¹ / hi; p (?) -> pi¹ / pi."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "amigos",
+      "source_H": "會友",
+      "source_M": "hŭe iù",
+      "source_R": "hūe ièn",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi² e² iu²",
+        "tai_lo_standard": "hí-é-iú",
+        "phonological_basis": "17c Dominican orthography conversion: h (會) -> hi² / hí; e (友) -> e² / é; iù (?) -> iu² / iú."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "amigos ut los hijos de unas mo.",
+      "source_H": "會兄弟",
+      "source_M": "hŭe hiã tĭ",
+      "source_R": "hūe hiŏng tī",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos ut los hijos de unas mo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi² e² hĩã¹ ti¹",
+        "tai_lo_standard": "hí-é-hiann-ti",
+        "phonological_basis": "17c Dominican orthography conversion: h (會) -> hi² / hí; e (兄) -> e² / é; hiã (弟) -> hĩã¹ / hiann; t (?) -> ti¹ / ti."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "amigos ut los q̃ uien juntos",
+      "source_H": "會館",
+      "source_M": "hŭe cŭan.",
+      "source_R": "hūe cuàn",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos ut los q̃ uien juntos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi² e² ki¹ an¹",
+        "tai_lo_standard": "hí-é-ki-an",
+        "phonological_basis": "17c Dominican orthography conversion: h (會) -> hi² / hí; e (館) -> e² / é; c (?) -> ki¹ / ki; an (?) -> an¹ / an."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "amigos",
+      "source_H": "友",
+      "source_M": "iù.",
+      "source_R": "ièn",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu²",
+        "tai_lo_standard": "iú",
+        "phonological_basis": "17c Dominican orthography conversion: iù (友) -> iu² / iú."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "amigos buens",
+      "source_H": "友義重",
+      "source_M": "iù gŷ̆ tiŏng.",
+      "source_R": "ièn gỳ chōng",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos buens",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu² gi⁶ i² ti¹ ŋi¹",
+        "tai_lo_standard": "iú-gī-í-ti-ngi",
+        "phonological_basis": "17c Dominican orthography conversion: iù (友) -> iu² / iú; g (義) -> gi⁶ / gī; ̆ (重) -> i² / í; ti (?) -> ti¹ / ti; ng (?) -> ŋi¹ / ngi."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "amigos buens",
+      "source_H": "友情厚",
+      "source_M": "iù chēng hŏu. (caũ.",
+      "source_R": "ièn chêng hōu",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos buens",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu² tseŋ⁵ hi² u¹ kãũ¹",
+        "tai_lo_standard": "iú-tsêng-hí-u-kaunn",
+        "phonological_basis": "17c Dominican orthography conversion: iù (友) -> iu² / iú; chēng (情) -> tseŋ⁵ / tsêng; h (厚) -> hi² / hí; u (?) -> u¹ / u; caũ (?) -> kãũ¹ / kaunn."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Amigos",
+      "source_H": "睦",
+      "source_M": "hō Bŏg:",
+      "source_R": "mō",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Amigos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho⁵ bi⁶ gi¹",
+        "tai_lo_standard": "hô-bī-gi",
+        "phonological_basis": "17c Dominican orthography conversion: hō (睦) -> ho⁵ / hô; B (?) -> bi⁶ / bī; g (?) -> gi¹ / gi."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Amigos. amistad buena y limpia",
+      "source_H": "交",
+      "source_M": "caú.",
+      "source_R": "guiăn",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Amigos. amistad buena y limpia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kau¹",
+        "tai_lo_standard": "kau",
+        "phonological_basis": "17c Dominican orthography conversion: caú (交) -> kau¹ / kau."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Amistad buena-",
+      "source_H": "交情",
+      "source_M": "caú chēng.",
+      "source_R": "guiăn chêng",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Amistad buena-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kau¹ tseŋ⁵",
+        "tai_lo_standard": "kau-tsêng",
+        "phonological_basis": "17c Dominican orthography conversion: caú (交) -> kau¹ / kau; chēng (情) -> tseŋ⁵ / tsêng."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "amigos desda fuerte",
+      "source_H": "朋",
+      "source_M": "Pēng.",
+      "source_R": "pêng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos desda fuerte",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "peŋ⁵",
+        "tai_lo_standard": "pêng",
+        "phonological_basis": "17c Dominican orthography conversion: Pēng (朋) -> peŋ⁵ / pêng."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "amigos absolutamente",
+      "source_H": "朋友",
+      "source_M": "Pēng iù.",
+      "source_R": "pêng ièn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos absolutamente",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "peŋ⁵ iu²",
+        "tai_lo_standard": "pêng-iú",
+        "phonological_basis": "17c Dominican orthography conversion: Pēng (朋) -> peŋ⁵ / pêng; iù (友) -> iu² / iú."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Amigos antiguos -",
+      "source_H": "舊",
+      "source_M": "guiŭ pōng iù",
+      "source_R": "guiū",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Amigos antiguos -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui² pɔŋ⁶ iu²",
+        "tai_lo_standard": "guí-pōng-iú",
+        "phonological_basis": "17c Dominican orthography conversion: gui (舊) -> gui² / guí; pōng (?) -> pɔŋ⁶ / pōng; iù (?) -> iu² / iú."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "amigos q tienen corresponden-cia en el amor -",
+      "source_H": "相惜",
+      "source_M": "sio siô.",
+      "source_R": "siăng dȳ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos q tienen corresponden-cia en el amor -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio³ sio³",
+        "tai_lo_standard": "siò-siò",
+        "phonological_basis": "17c Dominican orthography conversion: sio (相) -> sio³ / siò; siô (惜) -> sio³ / siò."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "amigos q se aman -",
+      "source_H": "相好",
+      "source_M": "sió hò.",
+      "source_R": "siăng hòu",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos q se aman -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio¹ ho²",
+        "tai_lo_standard": "sio-hó",
+        "phonological_basis": "17c Dominican orthography conversion: sió (相) -> sio¹ / sio; hò (好) -> ho² / hó."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "amigos q no tienen cosa particular -",
+      "source_H": "忘尔我",
+      "source_M": "bōng nì ngò̃,",
+      "source_R": "bâng ìtt ngòⁿ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos q no tienen cosa particular -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bɔŋ⁵ ni² ŋõ²",
+        "tai_lo_standard": "bông-ní-ngónn",
+        "phonological_basis": "17c Dominican orthography conversion: bōng (忘) -> bɔŋ⁵ / bông; nì (尔) -> ni² / ní; ngò̃ (我) -> ŋõ² / ngónn."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "Amigos q estan juntos con la camisa -",
+      "source_H": "搭肉衫",
+      "source_M": "tá bá sã,",
+      "source_R": "tā gô să",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Amigos q estan juntos con la camisa -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ta¹ ba¹ sã¹",
+        "tai_lo_standard": "ta-ba-sann",
+        "phonological_basis": "17c Dominican orthography conversion: tá (搭) -> ta¹ / ta; bá (肉) -> ba¹ / ba; sã (衫) -> sã¹ / sann."
+      }
+    }
+  ]
+}

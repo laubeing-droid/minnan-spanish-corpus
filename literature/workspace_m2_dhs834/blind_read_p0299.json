@@ -1,0 +1,514 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 299,
+  "historical_folio": 270,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0299/pdf_0299_300dpi.png",
+  "page_header": "C. ante. O.",
+  "page_footer_printed": "- 270 -",
+  "page_footer_handwritten": "185",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Continuarse, ut pasando sîn casar [刪除線:casar]",
+      "source_H": "綿 續",
+      "source_M": "bīen siôg.",
+      "source_R": "miên zōg. [刪除線:zōg]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Continuarse, ut pasando sîn casar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bien⁵ siok⁷",
+        "tai_lo_standard": "biên-siok",
+        "phonological_basis": "17c Dominican orthography conversion: bīen (綿) -> bien⁵ / biên; siôg (續) -> siok⁷ / siok."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Contra. p̃. [疑:p̃/q]",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contra. p̃.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Contra racøn",
+      "source_H": "非 理",
+      "source_M": "hūy lȳ.",
+      "source_R": "fúi lý.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contra racøn",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hui⁵ li⁵",
+        "tai_lo_standard": "huî-lî",
+        "phonological_basis": "17c Dominican orthography conversion: hūy (非) -> hui⁵ / huî; l (理) -> li⁵ / lî."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Contradecir.",
+      "source_H": "忤",
+      "source_M": "ngóu giē̃.",
+      "source_R": "ngû.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ŋou¹ gĩẽ³",
+        "tai_lo_standard": "ngou-giènn",
+        "phonological_basis": "17c Dominican orthography conversion: ngóu (忤) -> ŋou¹ / ngou; giē̃ (?) -> gĩẽ³ / giènn."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Contradecir segun subo entendido;",
+      "source_H": "縱",
+      "source_M": "chión [残]",
+      "source_R": "chōⁿg.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecir segun subo entendido;",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsion¹",
+        "tai_lo_standard": "tsion",
+        "phonological_basis": "17c Dominican orthography conversion: chión (縱) -> tsion¹ / tsion."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Contradecir",
+      "source_H": "逆",
+      "source_M": "giēg",
+      "source_R": "ngūe.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "giek⁸",
+        "tai_lo_standard": "gie̍k",
+        "phonological_basis": "17c Dominican orthography conversion: giēg (逆) -> giek⁸ / gie̍k."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Contradecir.",
+      "source_H": "橫",
+      "source_M": "hēng: hūā̃: giēg;",
+      "source_R": "hāng.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "heŋ³ hũã⁶ giek⁷",
+        "tai_lo_standard": "hèng-huānn-giek",
+        "phonological_basis": "17c Dominican orthography conversion: hēng (橫) -> heŋ³ / hèng; hūā̃ (?) -> hũã⁶ / huānn; giēg (?) -> giek⁷ / giek."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Contradecir ael superior.",
+      "source_H": "徇",
+      "source_M": "zūn.",
+      "source_R": "zûn.",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecir ael superior.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsun⁶",
+        "tai_lo_standard": "tsūn",
+        "phonological_basis": "17c Dominican orthography conversion: zūn (徇) -> tsun⁶ / tsūn."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Contradecir",
+      "source_H": "忤 逆",
+      "source_M": "ngóu giēg",
+      "source_R": "ngû ngûe.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ŋou¹ giek⁸",
+        "tai_lo_standard": "ngou-gie̍k",
+        "phonological_basis": "17c Dominican orthography conversion: ngóu (忤) -> ŋou¹ / ngou; giēg (逆) -> giek⁸ / gie̍k."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Contradecir, reboluer.",
+      "source_H": "悖 逆",
+      "source_M": "pūe giēg.",
+      "source_R": "pūi ngūe.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecir, reboluer.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pue⁵ giek⁸",
+        "tai_lo_standard": "puê-gie̍k",
+        "phonological_basis": "17c Dominican orthography conversion: pūe (悖) -> pue⁵ / puê; giēg (逆) -> giek⁸ / gie̍k."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Contradecir, reboluer gunon [刪除線]",
+      "source_H": "悖 謬",
+      "source_M": "pūe bīū.",
+      "source_R": "pūi ngūe.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecir, reboluer gunon",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pue⁵ biu⁵",
+        "tai_lo_standard": "puê-biû",
+        "phonological_basis": "17c Dominican orthography conversion: pūe (悖) -> pue⁵ / puê; bīū (謬) -> biu⁵ / biû."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Contradecir de admonicion",
+      "source_H": "相 反",
+      "source_M": "siàng huān.",
+      "source_R": "siāng fàn.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecir de admonicion",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siaŋ¹ huan⁵",
+        "tai_lo_standard": "siang-huân",
+        "phonological_basis": "17c Dominican orthography conversion: siàng (相) -> siaŋ¹ / siang; huān (反) -> huan⁵ / huân."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Contradecir de ad invicem.",
+      "source_H": "相 背",
+      "source_M": "siō pūe.",
+      "source_R": "siāng pùi.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecir de ad invicem.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio⁵ pue⁵",
+        "tai_lo_standard": "siô-puê",
+        "phonological_basis": "17c Dominican orthography conversion: siō (相) -> sio⁵ / siô; pūe (背) -> pue⁵ / puê."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Contradecirse -contradici [刪除線]- alq̃ hablá:",
+      "source_H": "抵 撞",
+      "source_M": "tī tūng; L quy quy:",
+      "source_R": "tì chòang.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecirse -contradici - alq̃ hablá:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti² tuŋ⁵ li¹ ki¹ ki¹",
+        "tai_lo_standard": "tí-tûng-li-ki-ki",
+        "phonological_basis": "17c Dominican orthography conversion: tī (抵) -> ti² / tí; tūng (撞) -> tuŋ⁵ / tûng; L (?) -> li¹ / li; quy (?) -> ki¹ / ki; quy (?) -> ki¹ / ki."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Contradecirse -",
+      "source_H": "違 禁",
+      "source_M": "ûi gìm.",
+      "source_R": "ûi gìn.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecirse -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ui³ gim²",
+        "tai_lo_standard": "uì-gím",
+        "phonological_basis": "17c Dominican orthography conversion: ûi (違) -> ui³ / uì; gìm (禁) -> gim² / gím."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Contradecirse",
+      "source_H": "違 逆",
+      "source_M": "ûi giēg.",
+      "source_R": "ûi ngūe.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecirse",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ui³ giek⁸",
+        "tai_lo_standard": "uì-gie̍k",
+        "phonological_basis": "17c Dominican orthography conversion: ûi (違) -> ui³ / uì; giēg (逆) -> giek⁸ / gie̍k."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Contradecir de palabra.",
+      "source_H": "抵 口",
+      "source_M": "tī chūĩ.",
+      "source_R": "tì gūen.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecir de palabra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti² tsũĩ⁵",
+        "tai_lo_standard": "tí-tsuînn",
+        "phonological_basis": "17c Dominican orthography conversion: tī (抵) -> ti² / tí; chūĩ (口) -> tsũĩ⁵ / tsuînn."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Contradecir p̃ el begay cõ Diablo.",
+      "source_H": "忤 鬼",
+      "source_M": "ngòu cūĩ.",
+      "source_R": "ngû cùi.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecir p̃ el begay cõ Diablo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ŋou² kũĩ⁵",
+        "tai_lo_standard": "ngóu-kuînn",
+        "phonological_basis": "17c Dominican orthography conversion: ngòu (忤) -> ŋou² / ngóu; cūĩ (鬼) -> kũĩ⁵ / kuînn."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Contradecir la virtud.",
+      "source_H": "橫 逆",
+      "source_M": "hēng giēg",
+      "source_R": "hēng ngūe.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecir la virtud.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "heŋ⁵ giek⁸",
+        "tai_lo_standard": "hêng-gie̍k",
+        "phonological_basis": "17c Dominican orthography conversion: hēng (橫) -> heŋ⁵ / hêng; giēg (逆) -> giek⁸ / gie̍k."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Contradecir, pleytear",
+      "source_H": "[残] 鵬 刁",
+      "source_M": "tiáu.",
+      "source_R": "tiāu.",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecir, pleytear",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiau¹",
+        "tai_lo_standard": "tiau",
+        "phonological_basis": "17c Dominican orthography conversion: tiáu (鵬) -> tiau¹ / tiau."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "Contradecir ael q̃ habla.",
+      "source_H": "抵 撞",
+      "source_M": "tēy tūng",
+      "source_R": "tì chòang.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contradecir ael q̃ habla.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tei² tuŋ⁵",
+        "tai_lo_standard": "téi-tûng",
+        "phonological_basis": "17c Dominican orthography conversion: tēy (抵) -> tei² / téi; tūng (撞) -> tuŋ⁵ / tûng."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "Contrario en natural.",
+      "source_H": "激",
+      "source_M": "quēg.",
+      "source_R": "gūig.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contrario en natural.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kek⁷",
+        "tai_lo_standard": "kek",
+        "phonological_basis": "17c Dominican orthography conversion: quēg (激) -> kek⁷ / kek."
+      }
+    }
+  ]
+}

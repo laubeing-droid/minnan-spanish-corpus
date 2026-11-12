@@ -1,0 +1,546 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 233,
+  "historical_folio": 204,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0233/pdf_0233_300dpi.png",
+  "page_header": "C. ante. H.",
+  "page_footer_printed": "- 204 -",
+  "page_footer_handwritten": "162",
+  "total_positions_recorded": 23,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Casa q lleua en cima el elefante -",
+      "source_H": "象 亭",
+      "source_M": "chiô tēng.",
+      "source_R": "chiàng tēng",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casa q lleua en cima el elefante -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsio³ teŋ⁵",
+        "tai_lo_standard": "tsiò-têng",
+        "phonological_basis": "17c Dominican orthography conversion: chiô (象) -> tsio³ / tsiò; tēng (亭) -> teŋ⁵ / têng."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Casa de cacate.",
+      "source_H": "草 芦",
+      "source_M": "chàu lū.",
+      "source_R": "chān lū",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casa de cacate.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰau² lu⁵",
+        "tai_lo_standard": "tsháu-lû",
+        "phonological_basis": "17c Dominican orthography conversion: chàu (草) -> tsʰau² / tsháu; lū (芦) -> lu⁵ / lû."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Casa despoblada.",
+      "source_H": "兵 营",
+      "source_M": "pèngiã.",
+      "source_R": "pēng xièn",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casa despoblada.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pẽngĩã²",
+        "tai_lo_standard": "pengiánn",
+        "phonological_basis": "17c Dominican orthography conversion: pèngiã (兵) -> pẽngĩã² / pengiánn."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Casa de mucha familia",
+      "source_H": "家 口 大",
+      "source_M": "güe caû trà",
+      "source_R": "giò guèn tā",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casa de mucha familia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gi³ e² kau³ tra²",
+        "tai_lo_standard": "gì-é-kàu-trá",
+        "phonological_basis": "17c Dominican orthography conversion: g (家) -> gi³ / gì; e (口) -> e² / é; caû (大) -> kau³ / kàu; trà (?) -> tra² / trá."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "[空]",
+      "source_H": "殿",
+      "source_M": "tièn.",
+      "source_R": "tiēn",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tien²",
+        "tai_lo_standard": "tién",
+        "phonological_basis": "17c Dominican orthography conversion: tièn (殿) -> tien² / tién."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "[空]",
+      "source_H": "祖 厝",
+      "source_M": "chòichû.",
+      "source_R": "chù chû",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsoichu²",
+        "tai_lo_standard": "tsóichu",
+        "phonological_basis": "17c Dominican orthography conversion: chòichû (祖) -> tsoichu² / tsóichu."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "(casa de sus padres)",
+      "source_H": "祖 家",
+      "source_M": "chòi gúe.",
+      "source_R": "chùn gìia",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(casa de sus padres)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsoi² gue¹",
+        "tai_lo_standard": "tsói-gue",
+        "phonological_basis": "17c Dominican orthography conversion: chòi (祖) -> tsoi² / tsói; gúe (家) -> gue¹ / gue."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Casa de recreacion [疑:sobre/de lae] el agua.",
+      "source_H": "水 閣",
+      "source_M": "chùỹ cỗ.",
+      "source_R": "güi cō",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casa de recreacion el agua.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu² ki³",
+        "tai_lo_standard": "tsú-kì",
+        "phonological_basis": "17c Dominican orthography conversion: chù (水) -> tsu² / tsú; c (閣) -> ki³ / kì."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "casa de mandarin despues de la audiencia -",
+      "source_H": "後 衙",
+      "source_M": "aū güẽ.",
+      "source_R": "hēn yá",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "casa de mandarin despues de la audiencia -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "au⁵ gi³ ẽ¹",
+        "tai_lo_standard": "âu-gì-enn",
+        "phonological_basis": "17c Dominican orthography conversion: aū (後) -> au⁵ / âu; g (衙) -> gi³ / gì; ẽ (?) -> ẽ¹ / enn."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Casa Rica.",
+      "source_H": "成 家",
+      "source_M": "sēng güẽ.",
+      "source_R": "chēng güia",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casa Rica.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "seŋ⁵ gi¹ ẽ¹",
+        "tai_lo_standard": "sêng-gi-enn",
+        "phonological_basis": "17c Dominican orthography conversion: sēng (成) -> seŋ⁵ / sêng; g (家) -> gi¹ / gi; ẽ (?) -> ẽ¹ / enn."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Casa de Bonços.",
+      "source_H": "寺 觀",
+      "source_M": "su cùã",
+      "source_R": "zū cuān",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casa de Bonços.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "suʔ⁷ kũã²",
+        "tai_lo_standard": "suh-kuánn",
+        "phonological_basis": "17c Dominican orthography conversion: su (寺) -> suʔ⁷ / suh; cùã (觀) -> kũã² / kuánn."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Casa, muy pobre, casa -",
+      "source_H": "寒 舍",
+      "source_M": "hān siẫ",
+      "source_R": "hān siē",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casa, muy pobre, casa -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "han⁵ si³",
+        "tai_lo_standard": "hân-sì",
+        "phonological_basis": "17c Dominican orthography conversion: hān (寒) -> han⁵ / hân; si (舍) -> si³ / sì."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Casa interior de las mujeres.",
+      "source_H": "繡 閨",
+      "source_M": "siù têy.",
+      "source_R": "siù ûy",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casa interior de las mujeres.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siu² tei³",
+        "tai_lo_standard": "siú-tèi",
+        "phonological_basis": "17c Dominican orthography conversion: siù (繡) -> siu² / siú; têy (閨) -> tei³ / tèi."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Casa del medico del Rey.",
+      "source_H": "太 醫 院",
+      "source_M": "tāy y yūn.",
+      "source_R": "tāy y yēn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casa del medico del Rey.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰai⁵ i⁵ iun⁵",
+        "tai_lo_standard": "thâi-î-iûn",
+        "phonological_basis": "17c Dominican orthography conversion: tāy (太) -> tʰai⁵ / thâi; y (醫) -> i⁵ / î; yūn (院) -> iun⁵ / iûn."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Casa, de q casa -",
+      "source_H": "人 家",
+      "source_M": "xīn gûẽ.",
+      "source_R": "xìn güia",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casa, de q casa -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzin⁵ gũẽ³",
+        "tai_lo_standard": "jîn-guènn",
+        "phonological_basis": "17c Dominican orthography conversion: xīn (人) -> dzin⁵ / jîn; gûẽ (家) -> gũẽ³ / guènn."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Casa de tapías.",
+      "source_H": "土 庫",
+      "source_M": "tōu cūĩ.",
+      "source_R": "tù cū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casa de tapías.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tou⁵ kũĩ⁵",
+        "tai_lo_standard": "tôu-kuînn",
+        "phonological_basis": "17c Dominican orthography conversion: tōu (土) -> tou⁵ / tôu; cūĩ (庫) -> kũĩ⁵ / kuînn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "(casa grande.)",
+      "source_H": "廈 屋",
+      "source_M": "he og",
+      "source_R": "hia ō",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(casa grande.)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "he¹ ɔk⁷",
+        "tai_lo_standard": "he-ok",
+        "phonological_basis": "17c Dominican orthography conversion: he (廈) -> he¹ / he; og (屋) -> ɔk⁷ / ok."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "casa grande.",
+      "source_H": "廣 厦",
+      "source_M": "(onghe)",
+      "source_R": "cuang hia",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "casa grande.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "onghe¹",
+        "tai_lo_standard": "onghe",
+        "phonological_basis": "17c Dominican orthography conversion: onghe (廣) -> onghe¹ / onghe."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Casa y familia.",
+      "source_H": "家 後",
+      "source_M": "gûe aū.",
+      "source_R": "gùia hēn",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casa y familia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue³ au⁵",
+        "tai_lo_standard": "guè-âu",
+        "phonological_basis": "17c Dominican orthography conversion: gûe (家) -> gue³ / guè; aū (後) -> au⁵ / âu."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "casa de po[残] gente, pobre.",
+      "source_H": "家 裏",
+      "source_M": "gûe sûe",
+      "source_R": "gùia zūey",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "casa de po gente, pobre.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue³ sue³",
+        "tai_lo_standard": "guè-suè",
+        "phonological_basis": "17c Dominican orthography conversion: gûe (家) -> gue³ / guè; sûe (裏) -> sue³ / suè."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "Casilla.",
+      "source_H": "廠 頭 仔",
+      "source_M": "chiô taū gía",
+      "source_R": "gī sēn chàg",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casilla.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsio³ tʰau⁵ gia¹",
+        "tai_lo_standard": "tsiò-thâu-gia",
+        "phonological_basis": "17c Dominican orthography conversion: chiô (廠) -> tsio³ / tsiò; taū (頭) -> tʰau⁵ / thâu; gía (仔) -> gia¹ / gia."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "Casa de Aruida.",
+      "source_H": "厝 地 散 了",
+      "source_M": "chù tēy tōa liāu",
+      "source_R": "chū tī sān liāo",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casa de Aruida.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu² tei⁵ toa⁵ liau⁵",
+        "tai_lo_standard": "tsú-têi-toâ-liâu",
+        "phonological_basis": "17c Dominican orthography conversion: chù (厝) -> tsu² / tsú; tēy (地) -> tei⁵ / têi; tōa (散) -> toa⁵ / toâ; liāu (了) -> liau⁵ / liâu."
+      }
+    },
+    {
+      "position": 23,
+      "source_L": "Casarse de[残]",
+      "source_H": "婚 書",
+      "source_M": "hūn yū chù.",
+      "source_R": "hùn zǔ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Casarse de",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hun⁵ iu⁵ tsu²",
+        "tai_lo_standard": "hûn-iû-tsú",
+        "phonological_basis": "17c Dominican orthography conversion: hūn (婚) -> hun⁵ / hûn; yū (書) -> iu⁵ / iû; chù (?) -> tsu² / tsú."
+      }
+    }
+  ]
+}

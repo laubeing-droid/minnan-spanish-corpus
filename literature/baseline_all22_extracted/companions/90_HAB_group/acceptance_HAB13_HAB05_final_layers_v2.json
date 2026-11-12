@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "part": 13,
+      "pages": 168,
+      "physical_rows": 3116,
+      "all_hashes_and_mapping_sequence_pass": true,
+      "errors": []
+    },
+    {
+      "part": 5,
+      "pages": 43,
+      "physical_rows": 651,
+      "all_hashes_and_mapping_sequence_pass": true,
+      "errors": []
+    }
+  ],
+  "correction_to_previous_audit": "HAB13 v1 compared legacy text_sha256 to final_text. Correct comparison uses final_text_sha256. Prior mismatch was audit-layer selection error, not file change.",
+  "content_accuracy_not_implied": true
+}

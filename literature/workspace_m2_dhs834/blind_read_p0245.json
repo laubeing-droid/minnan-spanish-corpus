@@ -1,0 +1,395 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 245,
+  "historical_folio": 216,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0245/pdf_0245_300dpi.png",
+  "page_header": "C. ante. E.",
+  "page_footer_printed": "- 216 -",
+  "page_footer_handwritten": "108",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Centen",
+      "source_H": "[空]",
+      "source_M": "ceñg.",
+      "source_R": "lŷ",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Centen",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kẽŋ¹",
+        "tai_lo_standard": "keng",
+        "phonological_basis": "17c Dominican orthography conversion: ceñg (?) -> kẽŋ¹ / keng."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Centessima parte de un real.",
+      "source_H": "厘",
+      "source_M": "lŷ.",
+      "source_R": "lŷ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Centessima parte de un real.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "li³",
+        "tai_lo_standard": "lì",
+        "phonological_basis": "17c Dominican orthography conversion: l (厘) -> li³ / lì."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Centinela, atalaya-",
+      "source_H": "瞭望[疑:瞭望/察涅]",
+      "source_M": "liāu bâng",
+      "source_R": "liâu vâng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Centinela, atalaya-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liau⁵ baŋ³",
+        "tai_lo_standard": "liâu-bàng",
+        "phonological_basis": "17c Dominican orthography conversion: liāu (瞭) -> liau⁵ / liâu; bâng (望) -> baŋ³ / bàng."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Centinela y hazello",
+      "source_H": "把",
+      "source_M": "pè.",
+      "source_R": "pà",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Centinela y hazello",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe²",
+        "tai_lo_standard": "pé",
+        "phonological_basis": "17c Dominican orthography conversion: pè (把) -> pe² / pé."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Centinela",
+      "source_H": "守把",
+      "source_M": "chiù pễ",
+      "source_R": "chiùⁿ pâ",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Centinela",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiu² pi³",
+        "tai_lo_standard": "tsiú-pì",
+        "phonological_basis": "17c Dominican orthography conversion: chiù (守) -> tsiu² / tsiú; p (把) -> pi³ / pì."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Centinela de noche.",
+      "source_H": "守更",
+      "source_M": "chiù̃ gūe.",
+      "source_R": "chiù guēng",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Centinela de noche.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsĩũ² gue⁵",
+        "tai_lo_standard": "tsiúnn-guê",
+        "phonological_basis": "17c Dominican orthography conversion: chiù̃ (守) -> tsĩũ² / tsiúnn; gūe (更) -> gue⁵ / guê."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Centinela de noche",
+      "source_H": "更夫",
+      "source_M": "gūe hù.",
+      "source_R": "guēng hù",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Centinela de noche",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue⁵ hu²",
+        "tai_lo_standard": "guê-hú",
+        "phonological_basis": "17c Dominican orthography conversion: gūe (更) -> gue⁵ / guê; hù (夫) -> hu² / hú."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Centinela q̃ seletran pero no venga",
+      "source_H": "守看[疑:看/省]",
+      "source_M": "chiù cûã",
+      "source_R": "chiùⁿ cōa",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Centinela q̃ seletran pero no venga",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiu² kʰũã³",
+        "tai_lo_standard": "tsiú-khuànn",
+        "phonological_basis": "17c Dominican orthography conversion: chiù (守) -> tsiu² / tsiú; cûã (看) -> kʰũã³ / khuànn."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Centro.",
+      "source_H": "獄",
+      "source_M": "giõg lēy sīm",
+      "source_R": "ñiô",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Centro.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gĩõk⁷ lei⁶ sim⁶",
+        "tai_lo_standard": "giok-lēi-sīm",
+        "phonological_basis": "17c Dominican orthography conversion: giõg (獄) -> gĩõk⁷ / giok; lēy (?) -> lei⁶ / lēi; sīm (?) -> sim⁶ / sīm."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "centro |. inferno",
+      "source_H": "地獄",
+      "source_M": "lēy giõg",
+      "source_R": "tŷ ṇiô",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "centro |. inferno",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lei⁵ gĩõk⁷",
+        "tai_lo_standard": "lêi-giok",
+        "phonological_basis": "17c Dominican orthography conversion: lēy (地) -> lei⁵ / lêi; giõg (獄) -> gĩõk⁷ / giok."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "centro |.",
+      "source_H": "地心",
+      "source_M": "lēy sīm",
+      "source_R": "tȳ sīm",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "centro |.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lei⁵ sim⁵",
+        "tai_lo_standard": "lêi-sîm",
+        "phonological_basis": "17c Dominican orthography conversion: lēy (地) -> lei⁵ / lêi; sīm (心) -> sim⁵ / sîm."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "centro del mar.",
+      "source_H": "海心",
+      "source_M": "hāy sīm",
+      "source_R": "hāy sīm",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "centro del mar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hai⁵ sim⁵",
+        "tai_lo_standard": "hâi-sîm",
+        "phonological_basis": "17c Dominican orthography conversion: hāy (海) -> hai⁵ / hâi; sīm (心) -> sim⁵ / sîm."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Centurion.",
+      "source_H": "哨官",
+      "source_M": "sāu cûa",
+      "source_R": "sāu cuān",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Centurion.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sau⁵ kua³",
+        "tai_lo_standard": "sâu-kuà",
+        "phonological_basis": "17c Dominican orthography conversion: sāu (哨) -> sau⁵ / sâu; cûa (官) -> kua³ / kuà."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Cenirse.",
+      "source_H": "携",
+      "source_M": "Hā.",
+      "source_R": "Hŷ",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cenirse.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ha⁵",
+        "tai_lo_standard": "hâ",
+        "phonological_basis": "17c Dominican orthography conversion: Hā (携) -> ha⁵ / hâ."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Cenirse el mandarin",
+      "source_H": "圖",
+      "source_M": "tŷ",
+      "source_R": "tŷ",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cenirse el mandarin",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti⁵",
+        "tai_lo_standard": "tî",
+        "phonological_basis": "17c Dominican orthography conversion: t (圖) -> ti⁵ / tî."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Cenirse el mandarin el cinto.",
+      "source_H": "圖角帶",
+      "source_M": "tŷ cag ħôa",
+      "source_R": "tŷ cō ṇŷ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cenirse el mandarin el cinto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti⁵ kak⁷ oa³",
+        "tai_lo_standard": "tî-kak-oà",
+        "phonological_basis": "17c Dominican orthography conversion: t (圖) -> ti⁵ / tî; cag (角) -> kak⁷ / kak; ôa (帶) -> oa³ / oà."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Cepillo ya cepillar.",
+      "source_H": "敲刀",
+      "source_M": "càu ṇý.",
+      "source_R": "gniaù cōⁿ",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cepillo ya cepillar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kau²",
+        "tai_lo_standard": "káu",
+        "phonological_basis": "17c Dominican orthography conversion: càu (敲) -> kau² / káu."
+      }
+    }
+  ]
+}

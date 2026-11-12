@@ -1,0 +1,13 @@
+{
+  "status": "HOLD_PENDING_READABILITY_REVIEW",
+  "created_utc": "2026-10-16T17:58:59.522977+00:00",
+  "target": "DHS PDF259 L116",
+  "issue": "正文含cheng升斜小c／song降斜等内部式符号说明；待原像素核验与可读性规范。",
+  "affected_body": "body/01_DHS_Hispanico_Sinicum__DHS_full_first_draft_body_v2.md",
+  "instruction": "Preserve all assembled files. Do not finalize, compress, upload, or apply a body correction until the coordinating task provides the verified decision.",
+  "candidate_inventory": "manifest_all22_CURRENT_v2.json",
+  "candidate_readme": "00_README_CURRENT_v2.md",
+  "candidate_snapshot_bytes_before_this_hold_notice": 32469381,
+  "candidate_manifest_does_not_cover_this_later_hold_notice": true,
+  "next_step": "After readability decision, create a new version or supplement and a new full manifest; do not overwrite the frozen first draft."
+}

@@ -1,0 +1,533 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 147,
+  "historical_folio": 118,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0147/pdf_0147_300dpi.png",
+  "page_header": "A. ante. U",
+  "page_footer_printed": "- 118 -",
+  "page_footer_handwritten": "59",
+  "total_positions_recorded": 23,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Aue",
+      "source_H": "禽",
+      "source_M": "guīn",
+      "source_R": "guîn",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Aue",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guin⁵",
+        "tai_lo_standard": "guîn",
+        "phonological_basis": "17c Dominican orthography conversion: guīn (禽) -> guin⁵ / guîn."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "ave qualquiera especie",
+      "source_H": "禽鳥",
+      "source_M": "guīn chiān",
+      "source_R": "guîn niān",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ave qualquiera especie",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guin⁵ tsian⁵",
+        "tai_lo_standard": "guîn-tsiân",
+        "phonological_basis": "17c Dominican orthography conversion: guīn (禽) -> guin⁵ / guîn; chiān (鳥) -> tsian⁵ / tsiân."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "ave qualquiera",
+      "source_H": "鳥",
+      "source_M": "chiān",
+      "source_R": "niān",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ave qualquiera",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsian⁵",
+        "tai_lo_standard": "tsiân",
+        "phonological_basis": "17c Dominican orthography conversion: chiān (鳥) -> tsian⁵ / tsiân."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "ave de rapiña",
+      "source_H": "鶖",
+      "source_M": "chŏ",
+      "source_R": "kiă[残]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ave de rapiña",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi²",
+        "tai_lo_standard": "tsí",
+        "phonological_basis": "17c Dominican orthography conversion: ch (鶖) -> tsi² / tsí."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "ave g llaman del sol, espemacho",
+      "source_H": "鳳",
+      "source_M": "hŏng",
+      "source_R": "hōng",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ave g llaman del sol, espemacho",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi² ŋi¹",
+        "tai_lo_standard": "hí-ngi",
+        "phonological_basis": "17c Dominican orthography conversion: h (鳳) -> hi² / hí; ng (?) -> ŋi¹ / ngi."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "ave del agua uspados &",
+      "source_H": "鴛",
+      "source_M": "noān",
+      "source_R": "yěn",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ave del agua uspados &",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "noan⁵",
+        "tai_lo_standard": "noân",
+        "phonological_basis": "17c Dominican orthography conversion: noān (鴛) -> noan⁵ / noân."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "ave g maza asuspadres",
+      "source_H": "鵜鶘 [疑:鵃鶘]",
+      "source_M": "pîr lỗ",
+      "source_R": "pîr lôⁿ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ave g maza asuspadres",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pir³ li³",
+        "tai_lo_standard": "pìr-lì",
+        "phonological_basis": "17c Dominican orthography conversion: pîr (鵜) -> pir³ / pìr; l (鶘) -> li³ / lì."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "ave g baxa del cielo y la come el Rey de china fotte",
+      "source_H": "天鵝",
+      "source_M": "thiāngō",
+      "source_R": "thiēn ngô",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ave g baxa del cielo y la come el Rey de china fotte",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰiango⁵",
+        "tai_lo_standard": "thiângo",
+        "phonological_basis": "17c Dominican orthography conversion: thiāngō (天) -> tʰiango⁵ / thiângo."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "[残] ave g nellas llaman del sol a Di[残]ra caya fla y granghaca dreme[残]gencia eia henbra",
+      "source_H": "[残]鳥",
+      "source_M": "loān",
+      "source_R": "loân",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ave g nellas llaman del sol a Dira caya fla y granghaca dremegencia eia henbra",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "loan⁵",
+        "tai_lo_standard": "loân",
+        "phonological_basis": "17c Dominican orthography conversion: loān (鳥) -> loan⁵ / loân."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Yquierda de agua g crecer",
+      "source_H": "水災 [疑:尖]",
+      "source_M": "chǔy chāy",
+      "source_R": "zǔy chǎy",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Yquierda de agua g crecer",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui² tsai⁵",
+        "tai_lo_standard": "tsuí-tsâi",
+        "phonological_basis": "17c Dominican orthography conversion: chǔy (水) -> tsui² / tsuí; chāy (災) -> tsai⁵ / tsâi."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "A. uentajase. g. subrepuyar. ex ceder",
+      "source_H": "勝",
+      "source_M": "sêng",
+      "source_R": "sēng",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A. uentajase. g. subrepuyar. ex ceder",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "seŋ³",
+        "tai_lo_standard": "sèng",
+        "phonological_basis": "17c Dominican orthography conversion: sêng (勝) -> seŋ³ / sèng."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "auentajarse, subrepuyar",
+      "source_H": "勝過",
+      "source_M": "sêng chūe",
+      "source_R": "sēng cō",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "auentajarse, subrepuyar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "seŋ³ tsue⁵",
+        "tai_lo_standard": "sèng-tsuê",
+        "phonological_basis": "17c Dominican orthography conversion: sêng (勝) -> seŋ³ / sèng; chūe (過) -> tsue⁵ / tsuê."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "auentajarse a los demas",
+      "source_H": "出萃",
+      "source_M": "chǔy chǔy",
+      "source_R": "chǔi chǔi",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "auentajarse a los demas",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰui² tsui²",
+        "tai_lo_standard": "tshuí-tsuí",
+        "phonological_basis": "17c Dominican orthography conversion: chǔy (出) -> tsʰui² / tshuí; chǔy (萃) -> tsui² / tsuí."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "auentajada cosa",
+      "source_H": "非常",
+      "source_M": "hǔy siāng",
+      "source_R": "hǔy fiāng",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "auentajada cosa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hui² siaŋ⁵",
+        "tai_lo_standard": "huí-siâng",
+        "phonological_basis": "17c Dominican orthography conversion: hǔy (非) -> hui² / huí; siāng (常) -> siaŋ⁵ / siâng."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "auentajarse alos demas",
+      "source_H": "出類",
+      "source_M": "chǔy lǔy",
+      "source_R": "chǔy lǔy",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "auentajarse alos demas",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰui² lui²",
+        "tai_lo_standard": "tshuí-luí",
+        "phonological_basis": "17c Dominican orthography conversion: chǔy (出) -> tsʰui² / tshuí; lǔy (類) -> lui² / luí."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "A. uergoncan g. uerguença afrentar.",
+      "source_H": "耻",
+      "source_M": "Bŷ",
+      "source_R": "chŷ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A. uergoncan g. uerguença afrentar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bi³",
+        "tai_lo_standard": "bì",
+        "phonological_basis": "17c Dominican orthography conversion: B (耻) -> bi³ / bì."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "auerponcarça, auerponcança",
+      "source_H": "恥辱",
+      "source_M": "Bŷ xiǒg",
+      "source_R": "chŷ ngǒ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "auerponcarça, auerponcança",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bi³ dziok⁷",
+        "tai_lo_standard": "bì-jiok",
+        "phonological_basis": "17c Dominican orthography conversion: B (恥) -> bi³ / bì; xiǒg (辱) -> dziok⁷ / jiok."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "auergoncarse",
+      "source_H": "受辱",
+      "source_M": "sīn xiǒg",
+      "source_R": "sīn ngǒ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "auergoncarse",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sin⁶ dziok⁷",
+        "tai_lo_standard": "sīn-jiok",
+        "phonological_basis": "17c Dominican orthography conversion: sīn (受) -> sin⁶ / sīn; xiǒg (辱) -> dziok⁷ / jiok."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "auergoncarse",
+      "source_H": "受耻",
+      "source_M": "sīn Bŷ",
+      "source_R": "jīn chŷ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "auergoncarse",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sin⁶ bi³",
+        "tai_lo_standard": "sīn-bì",
+        "phonological_basis": "17c Dominican orthography conversion: sīn (受) -> sin⁶ / sīn; B (耻) -> bi³ / bì."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "auerponcarçe, notave lo que de hazer",
+      "source_H": "無意思",
+      "source_M": "bô yī sù",
+      "source_R": "bû î zū",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "auerponcarçe, notave lo que de hazer",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bo³ ii⁵ su²",
+        "tai_lo_standard": "bò-îi-sú",
+        "phonological_basis": "17c Dominican orthography conversion: bô (無) -> bo³ / bò; yī (意) -> ii⁵ / îi; sù (思) -> su² / sú."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "auerponcarse sanscrahere aleuantar los ojos",
+      "source_H": "落尽面皮",
+      "source_M": "lô chǐn bǐn pūe",
+      "source_R": "lô chhǐn miēn pī",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "auerponcarse sanscrahere aleuantar los ojos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lo³ tsin² bin² pue⁵",
+        "tai_lo_standard": "lò-tsín-bín-puê",
+        "phonological_basis": "17c Dominican orthography conversion: lô (落) -> lo³ / lò; chǐn (尽) -> tsin² / tsín; bǐn (面) -> bin² / bín; pūe (皮) -> pue⁵ / puê."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "auerponcarçe con poco",
+      "source_H": "素面 [疑:白]",
+      "source_M": "chǒu bīn",
+      "source_R": "zū miēn",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "auerponcarçe con poco",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsou² bin⁵",
+        "tai_lo_standard": "tsóu-bîn",
+        "phonological_basis": "17c Dominican orthography conversion: chǒu (素) -> tsou² / tsóu; bīn (面) -> bin⁵ / bîn."
+      }
+    },
+    {
+      "position": 23,
+      "source_L": "auergoncarse algo",
+      "source_H": "薄面 [疑:溥]",
+      "source_M": "pǒg bǐn",
+      "source_R": "pōg miēn",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "auergoncarse algo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pɔk⁷ bin²",
+        "tai_lo_standard": "pok-bín",
+        "phonological_basis": "17c Dominican orthography conversion: pǒg (薄) -> pɔk⁷ / pok; bǐn (面) -> bin² / bín."
+      }
+    }
+  ]
+}

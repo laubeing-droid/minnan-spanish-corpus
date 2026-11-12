@@ -1,0 +1,372 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 487,
+  "historical_folio": 453,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0487/pdf_0487_300dpi.png",
+  "page_header": "fi. ante. fi.",
+  "page_footer_printed": "- 453 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "fiar assos endimen. [疑]",
+      "source_H": "仁 義 錢",
+      "source_M": "xīn gy chy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fiar assos endimen.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzin⁵ gi⁶ tsʰi¹",
+        "tai_lo_standard": "jîn-gī-tshi",
+        "phonological_basis": "17c Dominican orthography conversion: xīn (仁) -> dzin⁵ / jîn; gy (義) -> gi⁶ / gī; chy (錢) -> tsʰi¹ / tshi."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "fiar assos. [疑]",
+      "source_H": "代 認",
+      "source_M": "tāy xin tāy xin.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fiar assos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tai⁵ dzin² tai⁶ dzin⁶",
+        "tai_lo_standard": "tâi-jín-tāi-jīn",
+        "phonological_basis": "17c Dominican orthography conversion: tāy (代) -> tai⁵ / tâi; xin (認) -> dzin² / jín; tāy (?) -> tai⁶ / tāi; xin (?) -> dzin⁶ / jīn."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "fiar assos. [疑]",
+      "source_H": "擔 認",
+      "source_M": "tām xin.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fiar assos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tam⁵ dzin²",
+        "tai_lo_standard": "tâm-jín",
+        "phonological_basis": "17c Dominican orthography conversion: tām (擔) -> tam⁵ / tâm; xin (認) -> dzin² / jín."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "fiar del hombre y no de la prenda -",
+      "source_H": "當 人不當物",
+      "source_M": "tûng lāng m tūng my.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fiar del hombre y no de la prenda -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tuŋ³ laŋ⁵ mi¹ tuŋ⁵ mi²",
+        "tai_lo_standard": "tùng-lâng-mi-tûng-mí",
+        "phonological_basis": "17c Dominican orthography conversion: tûng (當) -> tuŋ³ / tùng; lāng (人) -> laŋ⁵ / lâng; m (不) -> mi¹ / mi; tūng (當) -> tuŋ⁵ / tûng; my (物) -> mi² / mí."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "fiar en la prudencia, y no en la fuerza -",
+      "source_H": "圖智不圖力",
+      "source_M": "tû xi pû tū lēg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fiar en la prudencia, y no en la fuerza -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tu³ dzi² pu³ tu⁵ lek⁸",
+        "tai_lo_standard": "tù-jí-pù-tû-le̍k",
+        "phonological_basis": "17c Dominican orthography conversion: tû (圖) -> tu³ / tù; xi (智) -> dzi² / jí; pû (不) -> pu³ / pù; tū (圖) -> tu⁵ / tû; lēg (力) -> lek⁸ / le̍k."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "fiar y cobrar con dificultad.",
+      "source_H": "賒 難 討",
+      "source_M": "siá ô cô.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fiar y cobrar con dificultad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sia¹ o³ ko³",
+        "tai_lo_standard": "sia-ò-kò",
+        "phonological_basis": "17c Dominican orthography conversion: siá (賒) -> sia¹ / sia; ô (難) -> o³ / ò; cô (討) -> ko³ / kò."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "fiar o dar fianza -",
+      "source_H": "保 領",
+      "source_M": "pò nià.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fiar o dar fianza -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "po² nia²",
+        "tai_lo_standard": "pó-niá",
+        "phonological_basis": "17c Dominican orthography conversion: pò (保) -> po² / pó; nià (領) -> nia² / niá."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "fiador. [残] de esso. [疑]",
+      "source_H": "保 家",
+      "source_M": "pò gue. [疑:gue/gie]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fiador. de esso.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "po² gue² gue¹ gie¹",
+        "tai_lo_standard": "pó-gué-gue-gie",
+        "phonological_basis": "17c Dominican orthography conversion: pò (保) -> po² / pó; gue (家) -> gue² / gué; gue (?) -> gue¹ / gue; gie (?) -> gie¹ / gie."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "fiador",
+      "source_H": "管 領",
+      "source_M": "uān nià. haour. [疑]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fiador",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "uan⁵ nia²",
+        "tai_lo_standard": "uân-niá",
+        "phonological_basis": "17c Dominican orthography conversion: uān (管) -> uan⁵ / uân; nià (領) -> nia² / niá."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "fiador.",
+      "source_H": "領 認 人",
+      "source_M": "nià xin lāng iòg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fiador.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "nia² dzin² laŋ⁵ iok⁷",
+        "tai_lo_standard": "niá-jín-lâng-iok",
+        "phonological_basis": "17c Dominican orthography conversion: nià (領) -> nia² / niá; xin (認) -> dzin² / jín; lāng (人) -> laŋ⁵ / lâng; iòg (?) -> iok⁷ / iok."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "fiador.",
+      "source_H": "認 錢 人",
+      "source_M": "xin chȳ lāng iòg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fiador.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzin² tsʰi⁵ laŋ⁵ iok⁷",
+        "tai_lo_standard": "jín-tshî-lâng-iok",
+        "phonological_basis": "17c Dominican orthography conversion: xin (認) -> dzin² / jín; ch (錢) -> tsʰi⁵ / tshî; lāng (人) -> laŋ⁵ / lâng; iòg (?) -> iok⁷ / iok."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Fideos.",
+      "source_H": "粉",
+      "source_M": "hùn by hùn de carne. [疑:carne/carno]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fideos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hun² bi⁶ hun² de¹ karne¹ karne¹ karno¹",
+        "tai_lo_standard": "hún-bī-hún-de-karne-karne-karno",
+        "phonological_basis": "17c Dominican orthography conversion: hùn (粉) -> hun² / hún; by (?) -> bi⁶ / bī; hùn (?) -> hun² / hún; de (?) -> de¹ / de; carne (?) -> karne¹ / karne; carne (?) -> karne¹ / karne; carno (?) -> karno¹ / karno."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "fideos de arroz.",
+      "source_H": "粉 湯",
+      "source_M": "hùn tung con caldo.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fideos de arroz.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hun² tuŋ² kon¹ kaldo¹",
+        "tai_lo_standard": "hún-túng-kon-kaldo",
+        "phonological_basis": "17c Dominican orthography conversion: hùn (粉) -> hun² / hún; tung (湯) -> tuŋ² / túng; con (?) -> kon¹ / kon; caldo (?) -> kaldo¹ / kaldo."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "fideos de harina.",
+      "source_H": "賁 麵 [疑:賁/賣]",
+      "source_M": "līen my de arina",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fideos de harina.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lien⁵ mi² de¹ arina¹",
+        "tai_lo_standard": "liên-mí-de-arina",
+        "phonological_basis": "17c Dominican orthography conversion: līen (賁) -> lien⁵ / liên; my (麵) -> mi² / mí; de (?) -> de¹ / de; arina (?) -> arina¹ / arina."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "fideos de harina.",
+      "source_H": "麵 線",
+      "source_M": "līen huá mi iog. my coa [残] umenbo loa pulos. [疑]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fideos de harina.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lien⁵ hua¹ mi⁶ iok⁷ mi¹ koa¹ umenbo¹ loa¹ pulos¹",
+        "tai_lo_standard": "liên-hua-mī-iok-mi-koa-umenbo-loa-pulos",
+        "phonological_basis": "17c Dominican orthography conversion: līen (麵) -> lien⁵ / liên; huá (線) -> hua¹ / hua; mi (?) -> mi⁶ / mī; iog (?) -> iok⁷ / iok; my (?) -> mi¹ / mi; coa (?) -> koa¹ / koa; umenbo (?) -> umenbo¹ / umenbo; loa (?) -> loa¹ / loa; pulos (?) -> pulos¹ / pulos."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "fideos del mar.",
+      "source_H": "海 粉",
+      "source_M": "háy hùn.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fideos del mar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hai¹ hun²",
+        "tai_lo_standard": "hai-hún",
+        "phonological_basis": "17c Dominican orthography conversion: háy (海) -> hai¹ / hai; hùn (粉) -> hun² / hún."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Fiel, fidelidad del hombre a la mujer - f. viuded. cumplix. justa. recta. veracador — [疑]",
+      "source_H": "操 節",
+      "source_M": "chô chièr.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fiel, fidelidad del hombre a la mujer - f. viuded. cumplix. justa. recta. veracador —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso³ tsier²",
+        "tai_lo_standard": "tsò-tsiér",
+        "phonological_basis": "17c Dominican orthography conversion: chô (操) -> tso³ / tsò; chièr (節) -> tsier² / tsiér."
+      }
+    }
+  ]
+}

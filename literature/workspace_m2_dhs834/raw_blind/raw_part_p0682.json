@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "pdf_page": 682,
+      "historical_folio": 648,
+      "page_header": "M.",
+      "page_footer_printed": "- 648 -",
+      "page_footer_handwritten": "121",
+      "notes": "盲读版本。页顶左有大写字母段标记 M.，顶中有一涂划不可辨词，顶中偏右一大圈 O 记号；右上角深色手写页码 121，其下另有铅笔淡写数字（似 324/374，旋转难辨，未抄入字段）。左缘灰底 M 为影印版栏外字母标记，非手稿内容。行1 M 栏末尾小撇（cale'）或为符号或为入声记号，仅按两处元上声调符记 T01。行3 第二声调符带小钩，T01/T06 难分，记 T99。行5 汉字栏不可辨；M/R 栏首字母存疑。行7 M 栏一词仅见 do（或为首字母缺失），待校。行8 R 栏大部分被墨渍覆盖，仅见 vuy。行13 L 栏下方另有一划掉重复行 mosquito-gusanos，未单列。行14 首词 yutaider 存疑（或 yntubir 等）。行15 L 栏 mostaca 末字母 c/z 难分，各行同。行12/13 第二词首字母 f/t 难分，照所见抄 f。反复读图后仍有多处存疑，均以 [疑] / [残] / T99 标注，待人工校订。",
+      "entries": [
+        {"position": 1,  "source_L": "morrion de cañas", "source_H": "竹甲笠", "source_M": "teg cále'", "source_R": "[空]", "tone_marks_M": ["T01 (升斜)", "T01 (升斜)"], "tone_marks_R": []},
+        {"position": 2,  "source_L": "Moruero~ [疑:Moruero/Mortero]", "source_H": "白 [疑:白/臼]", "source_M": "cu~", "source_R": "[空]", "tone_marks_M": [], "tone_marks_R": []},
+        {"position": 3,  "source_L": "moruero p̃ arrord~ [疑:arrord/arroẓ]", "source_H": "碓白 [疑:碓/確;白/臼]", "source_M": "tuyliù", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 4,  "source_L": "moruero p̃ colrey~ [疑:Moruero/Mortero]", "source_H": "擂鉢 [疑:鉢/体]", "source_M": "lūy pòa.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T02 (降斜)"], "tone_marks_R": []},
+        {"position": 5,  "source_L": "Morona omijo [疑:Morona/Moriona]", "source_H": "[残]", "source_M": "teg già bí [疑:t/s]", "source_R": "già gì", "tone_marks_M": ["T01 (升斜)", "T01 (升斜)"], "tone_marks_R": ["T01 (升斜)", "T01 (升斜)"]},
+        {"position": 6,  "source_L": "Mortandad grande.", "source_H": "遭瘟", "source_M": "chiōn:", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 7,  "source_L": "Mortificarse, p̃ penitencia.", "source_H": "[空]", "source_M": "do", "source_R": "keg ki", "tone_marks_M": ["T03 (尖頂帽)"], "tone_marks_R": ["T01 (升斜)", "T01 (升斜)"]},
+        {"position": 8,  "source_L": "Mosca.", "source_H": "蝇", "source_M": "sīn", "source_R": "[残] vuy", "tone_marks_M": ["T05 (平橫)"], "tone_marks_R": ["T05 (平橫)"]},
+        {"position": 9,  "source_L": "mosca~", "source_H": "蝴 [疑:蝴/胡]", "source_M": "hōu", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)"], "tone_marks_R": []},
+        {"position": 10, "source_L": "mosca~", "source_H": "蝴蝇 [疑:蝴/胡]", "source_M": "hōu sīn", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 11, "source_L": "Mosquitor~ [疑:Mosquitor/Mosquito]", "source_H": "蚊", "source_M": "bang", "source_R": "may.", "tone_marks_M": ["T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 12, "source_L": "mosquitor.", "source_H": "蚊虫", "source_M": "bang fang", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 13, "source_L": "mosquitor-gusanos", "source_H": "虫蟷 [疑:蟷/蟥/蝗]", "source_M": "fang hoa", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 14, "source_L": "yutaider algo vino [疑:yutaider/yntubir]", "source_H": "酒虫 [疑:次字蚣/蛆/虹]", "source_M": "chiù gì", "source_R": "[空]", "tone_marks_M": ["T01 (升斜)", "T01 (升斜)"], "tone_marks_R": []},
+        {"position": 15, "source_L": "mostaca [疑:mostaca/mostaza]", "source_H": "芥", "source_M": "cuà: cay", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 16, "source_L": "mostaca.", "source_H": "芥辣", "source_M": "cay loa", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T02 (降斜)"], "tone_marks_R": []},
+        {"position": 17, "source_L": "mostaca.", "source_H": "芥菜", "source_M": "cuà chay", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 18, "source_L": "mostaca.", "source_H": "姜菜 [疑:姜/萎]", "source_M": "vè chay.", "source_R": "[空]", "tone_marks_M": ["T02 (降斜)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 19, "source_L": "mostaca engxam.", "source_H": "菜子", "source_M": "chay chy.", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 20, "source_L": "mostaca engxam", "source_H": "菜種", "source_M": "chay cheng.", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T03 (尖頂帽)"], "tone_marks_R": []}
+      ]
+    }
+  ]
+}

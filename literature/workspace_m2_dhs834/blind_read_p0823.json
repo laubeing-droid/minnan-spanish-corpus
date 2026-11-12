@@ -1,0 +1,395 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 823,
+  "historical_folio": 785,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0823/pdf_0823_300dpi.png",
+  "page_header": "P. ante. Q.",
+  "page_footer_printed": "- 785 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Polucion voluntaria.",
+      "source_H": "打鳥銃",
+      "source_M": "pa chiẫ chèng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Polucion voluntaria.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pa³ tsi³ tsʰeŋ²",
+        "tai_lo_standard": "pà-tsì-tshéng",
+        "phonological_basis": "17c Dominican orthography conversion: pa (打) -> pa³ / pà; chi (鳥) -> tsi³ / tsì; chèng (銃) -> tsʰeŋ² / tshéng."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Pompear el vano [疑:vano/vanc]",
+      "source_H": "搖擺",
+      "source_M": "yō pày",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Pompear el vano",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "io⁵ pai²",
+        "tai_lo_standard": "iô-pái",
+        "phonological_basis": "17c Dominican orthography conversion: yō (搖) -> io⁵ / iô; pày (擺) -> pai² / pái."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "pompear el vano [疑:vano/vans]",
+      "source_H": "搖〻擺〻",
+      "source_M": "yō yō pày pày",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pompear el vano",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "io⁵ io⁵ pai² pai²",
+        "tai_lo_standard": "iô-iô-pái-pái",
+        "phonological_basis": "17c Dominican orthography conversion: yō (搖) -> io⁵ / iô; yō (擺) -> io⁵ / iô; pày (?) -> pai² / pái; pày (?) -> pai² / pái."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Ponderar~",
+      "source_H": "度",
+      "source_M": "tôy [疑:tôy/tō]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ponderar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toi³ toi³ to⁶",
+        "tai_lo_standard": "tòi-tòi-tō",
+        "phonological_basis": "17c Dominican orthography conversion: tôy (度) -> toi³ / tòi; tôy (?) -> toi³ / tòi; tō (?) -> to⁶ / tō."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "ponderar af cuyidandv dello. gomodohit",
+      "source_H": "甚斟 [疑:甚/基]",
+      "source_M": "chīm.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ponderar af cuyidandv dello. gomodohit",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsim¹",
+        "tai_lo_standard": "tsim",
+        "phonological_basis": "17c Dominican orthography conversion: chīm (甚) -> tsim¹ / tsim."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "ponderar cuyidando com hano~",
+      "source_H": "斟酌 [疑:酌/酹]",
+      "source_M": "chīm chiēg..",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ponderar cuyidando com hano~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsim¹ tsiek⁷",
+        "tai_lo_standard": "tsim-tsiek",
+        "phonological_basis": "17c Dominican orthography conversion: chīm (斟) -> tsim¹ / tsim; chiēg (酌) -> tsiek⁷ / tsiek."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "ponderar las cosas~",
+      "source_H": "識時勢",
+      "source_M": "bât sy sy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ponderar las cosas~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bat⁷ si³ si³",
+        "tai_lo_standard": "bat-sì-sì",
+        "phonological_basis": "17c Dominican orthography conversion: bât (識) -> bat⁷ / bat; sy (時) -> si³ / sì; sy (勢) -> si³ / sì."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "ponderar las cosas~",
+      "source_H": "識輕重",
+      "source_M": "bât quyīn tang.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ponderar las cosas~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bat⁷ kiin¹ taŋ⁵",
+        "tai_lo_standard": "bat-kiin-tâng",
+        "phonological_basis": "17c Dominican orthography conversion: bât (識) -> bat⁷ / bat; quyīn (輕) -> kiin¹ / kiin; tang (重) -> taŋ⁵ / tâng."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "ponderar las cosas~",
+      "source_H": "格物",
+      "source_M": "quee but",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ponderar las cosas~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kee³ but⁸",
+        "tai_lo_standard": "kèe-bu̍t",
+        "phonological_basis": "17c Dominican orthography conversion: quee (格) -> kee³ / kèe; but (物) -> but⁸ / bu̍t."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "ponderar reyprehendier [残:涂改]",
+      "source_H": "[空]",
+      "source_M": "quēe cān fēi hōi",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ponderar reyprehendier",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kee³ kan³ fei³ hoi³",
+        "tai_lo_standard": "kèe-kàn-fèi-hòi",
+        "phonological_basis": "17c Dominican orthography conversion: quēe (?) -> kee³ / kèe; cān (?) -> kan³ / kàn; fēi (?) -> fei³ / fèi; hōi (?) -> hoi³ / hòi."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "sonuna.",
+      "source_H": "毒",
+      "source_M": "tâg: tôg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sonuna.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tak⁸ tɔk⁷",
+        "tai_lo_standard": "ta̍k-tok",
+        "phonological_basis": "17c Dominican orthography conversion: tâg (毒) -> tak⁸ / ta̍k; tôg (?) -> tɔk⁷ / tok."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "pon cona.",
+      "source_H": "[疑:嗫/喋]毒",
+      "source_M": "tâu.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pon cona.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tau³",
+        "tai_lo_standard": "tàu",
+        "phonological_basis": "17c Dominican orthography conversion: tâu (毒) -> tau³ / tàu."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "pon coña.",
+      "source_H": "[疑:癈/瘢][疑:廣/狂]",
+      "source_M": "huân cong.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pon coña.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan³ kɔŋ¹",
+        "tai_lo_standard": "huàn-kong",
+        "phonological_basis": "17c Dominican orthography conversion: huân (?) -> huan³ / huàn; cong (?) -> kɔŋ¹ / kong."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "poncoña de mafrosa",
+      "source_H": "馬蜞 [疑:蜞/槌]",
+      "source_M": "bē chȳ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poncoña de mafrosa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "be⁵ tsi⁵",
+        "tai_lo_standard": "bê-tsî",
+        "phonological_basis": "17c Dominican orthography conversion: bē (馬) -> be⁵ / bê; ch (蜞) -> tsi⁵ / tsî."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "pon coña~",
+      "source_H": "毒藥",
+      "source_M": "tôg iô. medicina",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pon coña~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tɔk⁸ io³",
+        "tai_lo_standard": "to̍k-iò",
+        "phonological_basis": "17c Dominican orthography conversion: tôg (毒) -> tɔk⁸ / to̍k; iô (藥) -> io³ / iò."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "pon coña.",
+      "source_H": "潰起",
+      "source_M": "hông qûy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pon coña.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ³ kʰi³",
+        "tai_lo_standard": "hòng-khì",
+        "phonological_basis": "17c Dominican orthography conversion: hông (潰) -> hɔŋ³ / hòng; qûy (起) -> kʰi³ / khì."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "pon coña.",
+      "source_H": "蠱毒",
+      "source_M": "cût tôg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pon coña.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kut⁷ tɔk⁸",
+        "tai_lo_standard": "kut-to̍k",
+        "phonological_basis": "17c Dominican orthography conversion: cût (蠱) -> kut⁷ / kut; tôg (毒) -> tɔk⁸ / to̍k."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Poner, dejar en alguna parte~",
+      "source_H": "放",
+      "source_M": "pâng: hôg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Poner, dejar en alguna parte~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paŋ³ hɔk⁷",
+        "tai_lo_standard": "pàng-hok",
+        "phonological_basis": "17c Dominican orthography conversion: pâng (放) -> paŋ³ / pàng; hôg (?) -> hɔk⁷ / hok."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "poner, ponerse~",
+      "source_H": "置",
+      "source_M": "bŷ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poner, ponerse~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bi³",
+        "tai_lo_standard": "bì",
+        "phonological_basis": "17c Dominican orthography conversion: b (置) -> bi³ / bì."
+      }
+    }
+  ]
+}

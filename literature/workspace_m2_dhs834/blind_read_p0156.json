@@ -1,0 +1,516 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 156,
+  "historical_folio": 127,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0156/pdf_0156_300dpi.png",
+  "page_header": "A. ante. R.",
+  "page_footer_printed": "- 127 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 23,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "A Ladon., [圈注:chop.]",
+      "source_H": "鋤",
+      "source_M": "tū",
+      "source_R": "chìû",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A Ladon.,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tu⁵",
+        "tai_lo_standard": "tû",
+        "phonological_basis": "17c Dominican orthography conversion: tū (鋤) -> tu⁵ / tû."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "(a Ladon)",
+      "source_H": "鋤頭",
+      "source_M": "tū thāu,",
+      "source_R": "chìû çhù",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(a Ladon)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tu⁵ tʰau⁵",
+        "tai_lo_standard": "tû-thâu",
+        "phonological_basis": "17c Dominican orthography conversion: tū (鋤) -> tu⁵ / tû; thāu (頭) -> tʰau⁵ / thâu."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "A Japan. [疑:Açafram]",
+      "source_H": "紅花",
+      "source_M": "ang húa",
+      "source_R": "hông húa",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A Japan.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "aŋ⁵ hua¹",
+        "tai_lo_standard": "âng-hua",
+        "phonological_basis": "17c Dominican orthography conversion: ang (紅) -> aŋ⁵ / âng; húa (花) -> hua¹ / hua."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "A Zedo, agrio., [圈注:chū.]",
+      "source_H": "酸",
+      "source_M": "tū̃y.",
+      "source_R": "zūvar [疑:zūan]",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A Zedo, agrio.,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tũĩ⁵",
+        "tai_lo_standard": "tuînn",
+        "phonological_basis": "17c Dominican orthography conversion: tū̃y (酸) -> tũĩ⁵ / tuînn."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "a Zedo.",
+      "source_H": "酸澁",
+      "source_M": "tū̃y Siāp",
+      "source_R": "zūir đī",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "a Zedo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tũĩ³ siap⁷",
+        "tai_lo_standard": "tuìnn-siap",
+        "phonological_basis": "17c Dominican orthography conversion: tū̃y (酸) -> tũĩ³ / tuìnn; Siāp (澁) -> siap⁷ / siap."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "A Zeyte., [圈注:pring]",
+      "source_H": "油",
+      "source_M": "yū.",
+      "source_R": "yên",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A Zeyte.,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu⁵",
+        "tai_lo_standard": "iû",
+        "phonological_basis": "17c Dominican orthography conversion: yū (油) -> iu⁵ / iû."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "aceytera mediana [疑:de Olāa], [圈注:gua lën]",
+      "source_H": "油種",
+      "source_M": "iū zāy.",
+      "source_R": "yên chōng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aceytera mediana ,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu⁵ tsai⁵",
+        "tai_lo_standard": "iû-tsâi",
+        "phonological_basis": "17c Dominican orthography conversion: iū (油) -> iu⁵ / iû; zāy (種) -> tsai⁵ / tsâi."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "[删:aceite ꞥato ani mal]",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "aceite gebela de laze landil [疑:aceite de bela de laço candil]",
+      "source_H": "灯蕊 [疑:芯/尿]",
+      "source_M": "tēng xū.",
+      "source_R": "tēng zùi",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aceite gebela de laze landil",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teŋ⁵ dzu²",
+        "tai_lo_standard": "têng-jú",
+        "phonological_basis": "17c Dominican orthography conversion: tēng (灯) -> teŋ⁵ / têng; xū (蕊) -> dzu² / jú."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "A Zeytunas.",
+      "source_H": "梅",
+      "source_M": "Būe.",
+      "source_R": "mūy",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A Zeytunas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue⁵",
+        "tai_lo_standard": "buê",
+        "phonological_basis": "17c Dominican orthography conversion: Būe (梅) -> bue⁵ / buê."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "aZeytunas.",
+      "source_H": "梅子",
+      "source_M": "Būe chý.",
+      "source_R": "mūy çüi",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aZeytunas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue⁵ tsi¹",
+        "tai_lo_standard": "buê-tsi",
+        "phonological_basis": "17c Dominican orthography conversion: Būe (梅) -> bue⁵ / buê; ch (子) -> tsi¹ / tsi."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "aZeitunas: bubas",
+      "source_H": "楊梅",
+      "source_M": "iāng Būe.",
+      "source_R": "yâng mūy",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aZeitunas: bubas",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iaŋ⁵ bue⁵",
+        "tai_lo_standard": "iâng-buê",
+        "phonological_basis": "17c Dominican orthography conversion: iāng (楊) -> iaŋ⁵ / iâng; Būe (梅) -> bue⁵ / buê."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "A Zepillar., [圈注:col.]",
+      "source_H": "敲",
+      "source_M": "L càu. [疑:k càu]",
+      "source_R": "guiào",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A Zepillar.,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "li² kau² ik⁷ kau²",
+        "tai_lo_standard": "lí-káu-ik-káu",
+        "phonological_basis": "17c Dominican orthography conversion: L (敲) -> li² / lí; càu (?) -> kau² / káu; k (?) -> ik⁷ / ik; càu (?) -> kau² / káu."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "A Zerro.",
+      "source_H": "鋼",
+      "source_M": "quōy. [疑:quāng]",
+      "source_R": "cāng [疑:caūg]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A Zerro.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "koi⁵ kaŋ⁶",
+        "tai_lo_standard": "kôi-kāng",
+        "phonological_basis": "17c Dominican orthography conversion: quōy (鋼) -> koi⁵ / kôi; quāng (?) -> kaŋ⁶ / kāng."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "aZerro colado.",
+      "source_H": "鉎 [疑:鍟]",
+      "source_M": "sẽ. [疑:sñe]",
+      "source_R": "señg [疑:feñg]",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aZerro colado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sẽ¹ snẽ¹",
+        "tai_lo_standard": "senn-snenn",
+        "phonological_basis": "17c Dominican orthography conversion: sẽ (鉎) -> sẽ¹ / senn; sñe (?) -> snẽ¹ / snenn."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "aZerro colado.",
+      "source_H": "鉎盤 [疑:鍟盤]",
+      "source_M": "sẽ guã [疑:se guoa]",
+      "source_R": "señg pōān [疑:feñg pōān]",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aZerro colado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sẽ¹ gũã¹ se¹ guoa¹",
+        "tai_lo_standard": "senn-guann-se-guoa",
+        "phonological_basis": "17c Dominican orthography conversion: sẽ (鉎) -> sẽ¹ / senn; guã (盤) -> gũã¹ / guann; se (?) -> se¹ / se; guoa (?) -> guoa¹ / guoa."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "aZinxados deluetido -",
+      "source_H": "相紐",
+      "source_M": "sīo liū.",
+      "source_R": "chiāng niū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aZinxados deluetido -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio⁵ liu⁵",
+        "tai_lo_standard": "siô-liû",
+        "phonological_basis": "17c Dominican orthography conversion: sīo (相) -> sio⁵ / siô; liū (紐) -> liu⁵ / liû."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "aZirze deluetido",
+      "source_H": "扭勒",
+      "source_M": "liū leq.",
+      "source_R": "niū lij",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aZirze deluetido",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liu⁵ leq²",
+        "tai_lo_standard": "liû-léq",
+        "phonological_basis": "17c Dominican orthography conversion: liū (扭) -> liu⁵ / liû; leq (勒) -> leq² / léq."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "aZir, prender, maolepraas.",
+      "source_H": "擒來",
+      "source_M": "guīm lāy.",
+      "source_R": "guim laī",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aZir, prender, maolepraas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guim⁵ lai⁵",
+        "tai_lo_standard": "guîm-lâi",
+        "phonological_basis": "17c Dominican orthography conversion: guīm (擒) -> guim⁵ / guîm; lāy (來) -> lai⁵ / lâi."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "aZir. y tomar. prender, ζe nbrar, ζgemdo mano -",
+      "source_H": "操",
+      "source_M": "chō.",
+      "source_R": "choû",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aZir. y tomar. prender, ζe nbrar, ζgemdo mano -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso¹",
+        "tai_lo_standard": "tso",
+        "phonological_basis": "17c Dominican orthography conversion: chō (操) -> tso¹ / tso."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "aZir como pescados -",
+      "source_H": "捕",
+      "source_M": "Boū hū.",
+      "source_R": "pū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aZir como pescados -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bou⁵ hu⁶",
+        "tai_lo_standard": "bôu-hū",
+        "phonological_basis": "17c Dominican orthography conversion: Boū (捕) -> bou⁵ / bôu; hū (?) -> hu⁶ / hū."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "aZirse deuaño, ζolgarse.",
+      "source_H": "捍",
+      "source_M": "hūa ūa. [疑:hūã]",
+      "source_R": "hān o",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aZirse deuaño, ζolgarse.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hua⁵ ua⁶ hũã⁶",
+        "tai_lo_standard": "huâ-uā-huānn",
+        "phonological_basis": "17c Dominican orthography conversion: hūa (捍) -> hua⁵ / huâ; ūa (?) -> ua⁶ / uā; hūã (?) -> hũã⁶ / huānn."
+      }
+    },
+    {
+      "position": 23,
+      "source_L": "aZirse elgō de caz. -",
+      "source_H": "捍着",
+      "source_M": "hūa çio.",
+      "source_R": "hān chio",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aZirse elgō de caz. -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hua⁵ io²",
+        "tai_lo_standard": "huâ-ió",
+        "phonological_basis": "17c Dominican orthography conversion: hūa (捍) -> hua⁵ / huâ; io (着) -> io² / ió."
+      }
+    }
+  ]
+}

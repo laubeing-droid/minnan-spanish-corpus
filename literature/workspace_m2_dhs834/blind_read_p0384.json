@@ -1,0 +1,507 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 384,
+  "historical_folio": 355,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0384/pdf_0384_300dpi.png",
+  "page_header": "D. ante. 1.",
+  "page_footer_printed": "- 355 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 21,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Dificil cosa.",
+      "source_H": "難",
+      "source_M": "lān lān ūy",
+      "source_R": "nān : nân",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dificil cosa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lan⁵ lan⁶ ui⁶",
+        "tai_lo_standard": "lân-lān-uī",
+        "phonological_basis": "17c Dominican orthography conversion: lān (難) -> lan⁵ / lân; lān (?) -> lan⁶ / lān; ūy (?) -> ui⁶ / uī."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Dificil cosa, con mal fin. entrà y no sale -",
+      "source_H": "有入無出",
+      "source_M": "ǔ xip bō chûr",
+      "source_R": "ièn xip bîn chûrt",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dificil cosa, con mal fin. entrà y no sale -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "u² dzip⁸ bo⁵ tsʰur³",
+        "tai_lo_standard": "ú-ji̍p-bô-tshùr",
+        "phonological_basis": "17c Dominican orthography conversion: ǔ (有) -> u² / ú; xip (入) -> dzip⁸ / ji̍p; bō (無) -> bo⁵ / bô; chûr (出) -> tsʰur³ / tshùr."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Dificil, profunda cosa.",
+      "source_H": "深難",
+      "source_M": "chîm ô.",
+      "source_R": "chīn nân",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dificil, profunda cosa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsim³ o³",
+        "tai_lo_standard": "tsìm-ò",
+        "phonological_basis": "17c Dominican orthography conversion: chîm (深) -> tsim³ / tsìm; ô (難) -> o³ / ò."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Dificil cosa.",
+      "source_H": "難為",
+      "source_M": "lān ūy",
+      "source_R": "nân ūy",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dificil cosa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lan⁵ ui⁵",
+        "tai_lo_standard": "lân-uî",
+        "phonological_basis": "17c Dominican orthography conversion: lān (難) -> lan⁵ / lân; ūy (為) -> ui⁵ / uî."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Dificil cosa, profunda.",
+      "source_H": "深",
+      "source_M": "chīm",
+      "source_R": "chīn",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dificil cosa, profunda.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsim⁵",
+        "tai_lo_standard": "tsîm",
+        "phonological_basis": "17c Dominican orthography conversion: chīm (深) -> tsim⁵ / tsîm."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Dificil, agrio desubir",
+      "source_H": "崎",
+      "source_M": "gǔia quiá",
+      "source_R": "gǔi",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dificil, agrio desubir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guia² kia¹",
+        "tai_lo_standard": "guiá-kia",
+        "phonological_basis": "17c Dominican orthography conversion: gǔia (崎) -> guia² / guiá; quiá (?) -> kia¹ / kia."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Dificil, dificultosa",
+      "source_H": "難",
+      "source_M": "ô.",
+      "source_R": "nân",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dificil, dificultosa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "o³",
+        "tai_lo_standard": "ò",
+        "phonological_basis": "17c Dominican orthography conversion: ô (難) -> o³ / ò."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Dificil cosa, q no se puede deçir.",
+      "source_H": "難開口",
+      "source_M": "ô cǔy chûy",
+      "source_R": "nân cǔy guêm",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dificil cosa, q no se puede deçir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "o³ kʰui² tsui³",
+        "tai_lo_standard": "ò-khuí-tsuì",
+        "phonological_basis": "17c Dominican orthography conversion: ô (難) -> o³ / ò; cǔy (開) -> kʰui² / khuí; chûy (口) -> tsui³ / tsuì."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Dificil de aguardar, porque enfada -",
+      "source_H": "難待",
+      "source_M": "ô tāy",
+      "source_R": "nân tāy",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dificil de aguardar, porque enfada -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "o³ tai⁵",
+        "tai_lo_standard": "ò-tâi",
+        "phonological_basis": "17c Dominican orthography conversion: ô (難) -> o³ / ò; tāy (待) -> tai⁵ / tâi."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Dificil, agrio desubir.",
+      "source_H": "崎斜",
+      "source_M": "gǔia quiâ",
+      "source_R": "gǔi kiê",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dificil, agrio desubir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guia² kia³",
+        "tai_lo_standard": "guiá-kià",
+        "phonological_basis": "17c Dominican orthography conversion: gǔia (崎) -> guia² / guiá; quiâ (斜) -> kia³ / kià."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Dificil desubir, en pared.",
+      "source_H": "崎成壁",
+      "source_M": "gǔia chiâ pià",
+      "source_R": "gǔi chêng pī",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dificil desubir, en pared.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guia² tsia³ pia²",
+        "tai_lo_standard": "guiá-tsià-piá",
+        "phonological_basis": "17c Dominican orthography conversion: gǔia (崎) -> guia² / guiá; chiâ (成) -> tsia³ / tsià; pià (壁) -> pia² / piá."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Dificil de remediar.",
+      "source_H": "難處",
+      "source_M": "ô chu: 1. lân chûy",
+      "source_R": "nân chūy",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dificil de remediar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "o³ tsʰu³ lan³ tsui³",
+        "tai_lo_standard": "ò-tshù-làn-tsuì",
+        "phonological_basis": "17c Dominican orthography conversion: ô (難) -> o³ / ò; chu (處) -> tsʰu³ / tshù; lân (?) -> lan³ / làn; chûy (?) -> tsui³ / tsuì."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Dificil cosa es callar, en hermoso lo nezesario.",
+      "source_H": "難用人",
+      "source_M": "ô iōng lâng",
+      "source_R": "nân yōng zîn",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dificil cosa es callar, en hermoso lo nezesario.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "o³ ioŋ⁶ laŋ³",
+        "tai_lo_standard": "ò-iōng-làng",
+        "phonological_basis": "17c Dominican orthography conversion: ô (難) -> o³ / ò; iōng (用) -> ioŋ⁶ / iōng; lâng (人) -> laŋ³ / làng."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Dificil cosa esconder vs la asnitad -",
+      "source_H": "難相處",
+      "source_M": "ô siâng chû",
+      "source_R": "nân siâng chû",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dificil cosa esconder vs la asnitad -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "o³ siaŋ³ tsʰu³",
+        "tai_lo_standard": "ò-siàng-tshù",
+        "phonological_basis": "17c Dominican orthography conversion: ô (難) -> o³ / ò; siâng (相) -> siaŋ³ / siàng; chû (處) -> tsʰu³ / tshù."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Difunto, muerte.",
+      "source_H": "死人",
+      "source_M": "sī lâng",
+      "source_R": "zǐn xîn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Difunto, muerte.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si⁵ laŋ³",
+        "tai_lo_standard": "sî-làng",
+        "phonological_basis": "17c Dominican orthography conversion: sī (死) -> si⁵ / sî; lâng (人) -> laŋ³ / làng."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Difunto metido en el ataud",
+      "source_H": "抵棺厝",
+      "source_M": "těy cūân chú",
+      "source_R": "tǐy cūân chū",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Difunto metido en el ataud",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tei² kuan³ tsu¹",
+        "tai_lo_standard": "téi-kuàn-tsu",
+        "phonological_basis": "17c Dominican orthography conversion: těy (抵) -> tei² / téi; cūân (棺) -> kuan³ / kuàn; chú (厝) -> tsu¹ / tsu."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Digesis",
+      "source_H": "硝",
+      "source_M": "siāu",
+      "source_R": "siāu",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Digesis",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siau⁵",
+        "tai_lo_standard": "siâu",
+        "phonological_basis": "17c Dominican orthography conversion: siāu (硝) -> siau⁵ / siâu."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Digesis",
+      "source_H": "化",
+      "source_M": "hûa",
+      "source_R": "huā",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Digesis",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hua³",
+        "tai_lo_standard": "huà",
+        "phonological_basis": "17c Dominican orthography conversion: hûa (化) -> hua³ / huà."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Digesis",
+      "source_H": "消化",
+      "source_M": "siāu hûa",
+      "source_R": "siân huā",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Digesis",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siau⁵ hua³",
+        "tai_lo_standard": "siâu-huà",
+        "phonological_basis": "17c Dominican orthography conversion: siāu (消) -> siau⁵ / siâu; hûa (化) -> hua³ / huà."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Dignidad, y numerales de dignidades -",
+      "source_H": "位",
+      "source_M": "ûy",
+      "source_R": "ūy",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dignidad, y numerales de dignidades -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ui³",
+        "tai_lo_standard": "uì",
+        "phonological_basis": "17c Dominican orthography conversion: ûy (位) -> ui³ / uì."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "Dignidad —",
+      "source_H": "欽位",
+      "source_M": "cūe ūy chêuy",
+      "source_R": "gǔin ūy",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dignidad —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kue⁵ ui² tseui³",
+        "tai_lo_standard": "kuê-uí-tsèui",
+        "phonological_basis": "17c Dominican orthography conversion: cūe (欽) -> kue⁵ / kuê; ūy (位) -> ui² / uí; chêuy (?) -> tseui³ / tsèui."
+      }
+    }
+  ]
+}

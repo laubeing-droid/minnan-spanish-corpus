@@ -1,0 +1,2088 @@
+{
+  "batch_id": "batch_11_m1_disambiguated_50",
+  "provenance": "Certified v3.1 Final disambiguation for DHS entries 501 to 550",
+  "entries": [
+    {
+      "entry_id": "DHS1047-14",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1047,
+        "page_folio": 1009,
+        "position_in_page": 14,
+        "bounding_box_hint": "row 14, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Toston —",
+        "source_H": "錢",
+        "source_M": "chȳⁿ",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Toston [real de a cuatro / moneda de plata]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "錢；流通西文銀圓銀幣；銀錢",
+        "en_disambiguated": "Tostón, Spanish silver coin (real de a cuatro), money.",
+        "syntactic_notes": "Currency term 錢 (tsînn) applied to Spanish silver tostón."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsiŋ⁵",
+        "phonological_basis": "tsiŋ⁵ lower even nasalized tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsînn",
+        "moe_code": "04901",
+        "hanzi_standard": "錢"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Monetary silver currency term."
+      }
+    },
+    {
+      "entry_id": "DHS1047-15",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1047,
+        "page_folio": 1009,
+        "position_in_page": 15,
+        "bounding_box_hint": "row 15, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "toston —",
+        "source_H": "文 錢",
+        "source_M": "būn chȳⁿ ;",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "toston [moneda menuda]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "文錢；銅錢文制小錢；通用制錢",
+        "en_disambiguated": "Copper cash coin, monetary unit of cash.",
+        "syntactic_notes": "Numismatic compound 文錢 (bûn-tsînn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "bun⁵ tsiŋ⁵",
+        "phonological_basis": "bun⁵ lower even; tsiŋ⁵ lower even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "bûn-tsînn",
+        "moe_code": "04902",
+        "hanzi_standard": "文錢"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Numismatic fractional currency."
+      }
+    },
+    {
+      "entry_id": "DHS1049-07",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1049,
+        "page_folio": 1011,
+        "position_in_page": 7,
+        "bounding_box_hint": "row 07, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "trabajo grande q̃ cansa [末連寫疑]",
+        "source_H": "勞 尽",
+        "source_M": "boā chǐn.",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "trabajo grande q[ue] cansa",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "勞盡；筋疲力盡之極度勞苦；勞瘁",
+        "en_disambiguated": "Heavy exhausting labor, utter exhaustion from toil.",
+        "syntactic_notes": "Physical exhaustion phrase 勞盡 (lô-tsīn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "lo⁵ tsin⁶",
+        "phonological_basis": "lo⁵ lower even; tsin⁶ lower departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "lô-tsīn",
+        "moe_code": "04903",
+        "hanzi_standard": "勞盡"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Physical fatigue labor description."
+      }
+    },
+    {
+      "entry_id": "DHS1049-20",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1049,
+        "page_folio": 1011,
+        "position_in_page": 20,
+        "bounding_box_hint": "row 20, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "trabajo, darlo — como Dios [後加小字疑]",
+        "source_H": "患 難",
+        "source_M": "huǎn lān chaý lǎn : hoè chaý [lān 曲形重墨]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "trabajo, darlo como Dios [tribulación providencial]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "患難；天主或命運降下之考驗災難",
+        "en_disambiguated": "Tribulation, affliction sent providentially by Heaven.",
+        "syntactic_notes": "Theological providence trial 患難 (huān-lān)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "huan⁶ lan⁶",
+        "phonological_basis": "huan⁶ lower departing; lan⁶ lower departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "huān-lān",
+        "moe_code": "04904",
+        "hanzi_standard": "患難"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Theological providential affliction."
+      }
+    },
+    {
+      "entry_id": "DHS1050-13",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1050,
+        "page_folio": 1012,
+        "position_in_page": 13,
+        "bounding_box_hint": "row 13, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "trabajador grande — solicito [小字]",
+        "source_H": "急 計 人",
+        "source_M": "quíp quèy lāng [前兩調附支]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "trabajador grande, solicito",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "急計人；勤懇營求謀生計之能幹勞動者",
+        "en_disambiguated": "Industrious, diligent enterprising worker.",
+        "syntactic_notes": "Socioeconomic characterization 急計人 (kip-kè-lâng)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (交叉入聲號)",
+          "T03 (尖頂帽)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "kip⁷ ke³ laŋ⁵",
+        "phonological_basis": "kip⁷ entering; ke³ upper departing; laŋ⁵ lower even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "kip-kè-lâng",
+        "moe_code": "04905",
+        "hanzi_standard": "急計人"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Industrious worker persona."
+      }
+    },
+    {
+      "entry_id": "DHS1051-22",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1051,
+        "page_folio": 1013,
+        "position_in_page": 22,
+        "bounding_box_hint": "row 22, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "traçar de industria",
+        "source_H": "机 智",
+        "source_M": "quý tỳ con industria [tỳ 調墨團]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "traçar de industria [tramar con ingenio]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "機智；巧妙運籌心機智謀",
+        "en_disambiguated": "To contrive ingeniously, plan with shrewd intellect.",
+        "syntactic_notes": "Intellectual contrivance compound 機智 (ki-tì)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "ki¹ ti³",
+        "phonological_basis": "ki¹ upper even; ti³ upper departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "ki-tì",
+        "moe_code": "04906",
+        "hanzi_standard": "機智"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Shrewd contrivance intellect."
+      }
+    },
+    {
+      "entry_id": "DHS1052-03",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1052,
+        "page_folio": 1014,
+        "position_in_page": 3,
+        "bounding_box_hint": "row 03, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "traçar entre si.",
+        "source_H": "竅 妙",
+        "source_M": "quiáuᶜ biǎu [首調重墨]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "traçar entre si [maquinar mutuamente]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "竅妙；共商幽深機巧計謀；密謀",
+        "en_disambiguated": "To devise ingenious schemes mutually, confer in secret.",
+        "syntactic_notes": "Secret scheming phrase 竅妙 (khiàu-biāu)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "kʰiau³ biau⁶",
+        "phonological_basis": "kʰiau³ upper departing; biau⁶ lower departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "khiàu-biāu",
+        "moe_code": "04907",
+        "hanzi_standard": "竅妙"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Mutual contrivance plotting."
+      }
+    },
+    {
+      "entry_id": "DHS1052-04",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1052,
+        "page_folio": 1014,
+        "position_in_page": 4,
+        "bounding_box_hint": "row 04, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "traçar entre si",
+        "source_H": "設 心",
+        "source_M": "siét sím. malicia malo: [malicia 字形疑]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "traçar entre si con malicia",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "設心；暗蓄惡意處心積慮謀劃",
+        "en_disambiguated": "To harbor malicious designs, plot with ill intent.",
+        "syntactic_notes": "Malicious plotting verb 設心 (siat-sim)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (交叉入聲號)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "siat⁷ sim¹",
+        "phonological_basis": "siat⁷ entering; sim¹ upper even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "siat-sim",
+        "moe_code": "04908",
+        "hanzi_standard": "設心"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Malicious psychological intent."
+      }
+    },
+    {
+      "entry_id": "DHS1052-18",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1052,
+        "page_folio": 1014,
+        "position_in_page": 18,
+        "bounding_box_hint": "row 18, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "traer piernas o braços, soballos.",
+        "source_H": "辦 [字形疑]",
+        "source_M": "loǎ [調附支]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "traer piernas o braços, soballos [masajear]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "揉摩；雙手揉摩按摩四肢筋絡",
+        "en_disambiguated": "To massage, knead legs or arms to soothe fatigue.",
+        "syntactic_notes": "Therapeutic massage verb 揉摩 (liû-môo)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "liu⁵",
+        "phonological_basis": "liu⁵ lower even tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "liû",
+        "moe_code": "04909",
+        "hanzi_standard": "揉"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Therapeutic limb massage action."
+      }
+    },
+    {
+      "entry_id": "DHS1052-19",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1052,
+        "page_folio": 1014,
+        "position_in_page": 19,
+        "bounding_box_hint": "row 19, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "traer piernas o braços soballos —",
+        "source_H": "搓 [右差形疑]",
+        "source_M": "hó",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "traer piernas o braços, soballos con friccion",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "搓；用力搓摩肢體發熱活血",
+        "en_disambiguated": "To rub vigorously, apply friction to limbs.",
+        "syntactic_notes": "Frictional rub verb 搓 (tsho)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰo¹",
+        "phonological_basis": "tsʰo¹ upper even tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsho",
+        "moe_code": "04910",
+        "hanzi_standard": "搓"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Frictional bodily rubbing."
+      }
+    },
+    {
+      "entry_id": "DHS1053-04",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1053,
+        "page_folio": 1015,
+        "position_in_page": 4,
+        "bounding_box_hint": "row 04, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "traer lleuar recaudo —",
+        "source_H": "傳",
+        "source_M": "toān [後加音旁字疑] : L. tuȳⁿ [原音兩段刪]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "traer lleuar recaudo [transmitir mensaje]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "傳；遞送書簡口訊委託；通報傳話",
+        "en_disambiguated": "To convey messages, carry verbal notice or errands.",
+        "syntactic_notes": "Communication transmission verb 傳 (thuân)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "tʰuan⁵",
+        "phonological_basis": "tʰuan⁵ lower even tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "thuân",
+        "moe_code": "04911",
+        "hanzi_standard": "傳"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Message transmission verb."
+      }
+    },
+    {
+      "entry_id": "DHS1053-08",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1053,
+        "page_folio": 1015,
+        "position_in_page": 8,
+        "bounding_box_hint": "row 08, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "traer nueuas — q̃ nueuas [小字疑]",
+        "source_H": "打 報",
+        "source_M": "páᶜ pò [兩調附支]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "traer nueuas, q[ue] nueuas",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "打報；飛報消息投遞軍情文書",
+        "en_disambiguated": "To deliver news, dispatch reports or intelligence.",
+        "syntactic_notes": "News delivery compound 打報 (phah-pò)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (交叉入聲號)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "pʰaʔ⁷ pɔ³",
+        "phonological_basis": "pʰaʔ⁷ entering; pɔ³ upper departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "phah-pò",
+        "moe_code": "04912",
+        "hanzi_standard": "打報"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "News dispatch delivery."
+      }
+    },
+    {
+      "entry_id": "DHS1053-13",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1053,
+        "page_folio": 1015,
+        "position_in_page": 13,
+        "bounding_box_hint": "row 13, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "traer la mᵉ. el niño al pecho:",
+        "source_H": "懷 細 子",
+        "source_M": "cuī sèy quiàⁿ [中調附支]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "traer la m[adr]e el niño al pecho",
+        "abbreviations_expanded": [
+          {
+            "abbr": "mᵉ.",
+            "expansion": "m[adr]e"
+          }
+        ],
+        "zh_disambiguated": "懷細子；慈母摟抱嬰孩於胸膛哺乳",
+        "en_disambiguated": "To hold a nursing infant at the maternal breast.",
+        "syntactic_notes": "Maternal nursing phrase 懷細子 (huâi sè-kiánn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T03 (尖頂帽)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "huai⁵ se³ kiaŋ³",
+        "phonological_basis": "huai⁵ lower even; se³ departing; kiaŋ³ nasal rising."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "huâi sè-kiánn",
+        "moe_code": "04913",
+        "hanzi_standard": "懷細子"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Maternal nursing posture."
+      }
+    },
+    {
+      "entry_id": "DHS1055-11",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1055,
+        "page_folio": 1017,
+        "position_in_page": 11,
+        "bounding_box_hint": "row 11, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tranchete.",
+        "source_H": "裁",
+        "source_M": "cháy",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tranchete [cuchilla de zapatero]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "裁；皮匠削皮剖革之圓刃短刀",
+        "en_disambiguated": "Tranchete, shoemaker's curved paring knife.",
+        "syntactic_notes": "Leathercraft cutting tool 裁 (tshâi)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰai⁵",
+        "phonological_basis": "tsʰai⁵ lower even tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tshâi",
+        "moe_code": "04914",
+        "hanzi_standard": "裁"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Leathercraft knife tool."
+      }
+    },
+    {
+      "entry_id": "DHS1055-12",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1055,
+        "page_folio": 1017,
+        "position_in_page": 12,
+        "bounding_box_hint": "row 12, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "tranchete",
+        "source_H": "裁 刀",
+        "source_M": "cháy tó.",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tranchete [cuchillo de corte]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "裁刀；裁革裁布專用剪裁利刃",
+        "en_disambiguated": "Cutting knife for tailoring or leathercraft.",
+        "syntactic_notes": "Artisan cutting knife 裁刀 (tshâi-to)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰai⁵ to¹",
+        "phonological_basis": "tsʰai⁵ lower even; to¹ upper even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tshâi-to",
+        "moe_code": "04915",
+        "hanzi_standard": "裁刀"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Tailoring and cordwaining blade."
+      }
+    },
+    {
+      "entry_id": "DHS1055-13",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1055,
+        "page_folio": 1017,
+        "position_in_page": 13,
+        "bounding_box_hint": "row 13, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "tranchete",
+        "source_H": "菜 刀",
+        "source_M": "châyᶜ tó. [首調粗峰拖尾，疑]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tranchete [cuchillo de cocina]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "菜刀；庖廚切菜斬肉之廚刀",
+        "en_disambiguated": "Kitchen cleaver, vegetable and meat chopping knife.",
+        "syntactic_notes": "Domestic culinary knife 菜刀 (tshài-to)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰai³ to¹",
+        "phonological_basis": "tsʰai³ upper departing; to¹ upper even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tshài-to",
+        "moe_code": "04916",
+        "hanzi_standard": "菜刀"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Culinary knife utensil."
+      }
+    },
+    {
+      "entry_id": "DHS1055-14",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1055,
+        "page_folio": 1017,
+        "position_in_page": 14,
+        "bounding_box_hint": "row 14, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Trapos pᵃ limpiar la / mesa y limpiarla. q̃. / estropajo",
+        "source_H": "拭 棹 [次字右部疑]",
+        "source_M": "chítᶜ tó [兩調附支，疑]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Trapos p[ara] limpiar la mesa y limpiarla, estropajo",
+        "abbreviations_expanded": [
+          {
+            "abbr": "pᵃ",
+            "expansion": "p[ara]"
+          },
+          {
+            "abbr": "q̃.",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "拭棹；抹桌布及擦拭几案之動作",
+        "en_disambiguated": "Tablecloth rag for wiping tables; the act of wiping.",
+        "syntactic_notes": "Domestic table cleaning compound 拭棹 (tshit-toh)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (交叉入聲號)",
+          "T06/T07 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰit⁷ toʔ⁸",
+        "phonological_basis": "tsʰit⁷ entering; toʔ⁸ entering tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tshit-toh",
+        "moe_code": "04917",
+        "hanzi_standard": "拭棹"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Domestic table cleaning action."
+      }
+    },
+    {
+      "entry_id": "DHS1056-10",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1056,
+        "page_folio": 1018,
+        "position_in_page": 10,
+        "bounding_box_hint": "row 10, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Trasparente. q̃. resplandeciente",
+        "source_H": "[空]",
+        "source_M": "[空]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Trasparente, q[ue] resplandeciente",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃.",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "透明；晶瑩透光朗徹光明",
+        "en_disambiguated": "Transparent, radiant, lucidly bright.",
+        "syntactic_notes": "Optical clarity adjective 透明 (thàu-bîng)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "tʰau³ biŋ⁵",
+        "phonological_basis": "tʰau³ upper departing; biŋ⁵ lower even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "thàu-bîng",
+        "moe_code": "04918",
+        "hanzi_standard": "透明"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Optical transparency property."
+      }
+    },
+    {
+      "entry_id": "DHS1056-17",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1056,
+        "page_folio": 1018,
+        "position_in_page": 17,
+        "bounding_box_hint": "row 17, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "traspassar la ley, q̃ quebrantarla.",
+        "source_H": "越",
+        "source_M": "oat [交斜調，疑] [後數字塗刪，未清] oát [上附支，疑].",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "traspassar la ley, q[ue] quebrantarla",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "越法；踰越法制破壞禁令",
+        "en_disambiguated": "To trespass the law, violate legal statues.",
+        "syntactic_notes": "Legal violation verb 越 (ua̍t)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "uat⁸",
+        "phonological_basis": "uat⁸ entering tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "ua̍t",
+        "moe_code": "04919",
+        "hanzi_standard": "越"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Judicial legal transgression."
+      }
+    },
+    {
+      "entry_id": "DHS1057-20",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1057,
+        "page_folio": 1019,
+        "position_in_page": 20,
+        "bounding_box_hint": "row 20, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Trastejar. q̃. tejar",
+        "source_H": "[空]",
+        "source_M": "[空]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Trastejar, q[ue] tejar el tejado",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃.",
+            "expansion": "q[ue]"
+          },
+          {
+            "abbr": "tejar",
+            "expansion": "tejar"
+          }
+        ],
+        "zh_disambiguated": "葺瓦；翻撿重鋪屋頂瓦片以防漏水",
+        "en_disambiguated": "To repair roof tiling, replace broken roof tiles.",
+        "syntactic_notes": "Architectural roofing maintenance 葺瓦 (tship-hiā)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (交叉入聲號)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰip⁷ hia⁶",
+        "phonological_basis": "tsʰip⁷ entering; hia⁶ lower departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tship-hiā",
+        "moe_code": "04920",
+        "hanzi_standard": "葺瓦"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Architectural roof repair action."
+      }
+    },
+    {
+      "entry_id": "DHS1058-01",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1058,
+        "page_folio": 1020,
+        "position_in_page": 1,
+        "bounding_box_hint": "row 01, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Trastornarse el / nauio, q̃. rebuelcar &",
+        "source_H": "舡 膠 艦 架 [後三字形疑]",
+        "source_M": "chūn cá lām págᶜ : [末調附支，尾字母疑]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Trastornarse el nauio, q[ue] rebuelcar",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃.",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "舡膠艦架；舟船傾覆觸礁擱淺",
+        "en_disambiguated": "Ship overturning, capsizing or running aground on reefs.",
+        "syntactic_notes": "Maritime navigational disaster phrase 舡膠艦架."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T01 (升斜)",
+          "T04 (凹角)",
+          "T06/T07 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsun⁵ kau¹ lam⁶ pak⁷",
+        "phonological_basis": "tsun⁵ lower even; kau¹ upper even; pak⁷ entering."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsûn-kau-lām-phah",
+        "moe_code": "04921",
+        "hanzi_standard": "舡膠艦架"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Maritime shipwreck casualty idiom."
+      }
+    },
+    {
+      "entry_id": "DHS1059-20",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1059,
+        "page_folio": 1021,
+        "position_in_page": 20,
+        "bounding_box_hint": "row 20, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "traidor q̃ arma traicion y arma / llas [分行詞形疑]",
+        "source_H": "陷 阱",
+        "source_M": "hǎm chěng. [兩調交筆，疑]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "traidor q[ue] arma traicion y armallas",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "陷阱；設坑布網暗害良善之陰謀詭計",
+        "en_disambiguated": "Treacherous pitfall, trap set to destroy others.",
+        "syntactic_notes": "Treachery trap noun 陷阱 (hām-tsénn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "ham⁶ tseŋ³",
+        "phonological_basis": "ham⁶ lower departing; tseŋ³ nasalized rising."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "hām-tsénn",
+        "moe_code": "04922",
+        "hanzi_standard": "陷阱"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Treacherous entrapment device."
+      }
+    },
+    {
+      "entry_id": null,
+      "layer_0_visual_anchor": {
+        "page_pdf": 1060,
+        "page_folio": 1022,
+        "position_in_page": 7,
+        "bounding_box_hint": "row 07, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "treinta pᵃ contar meses, dias / arroz [末詞疑]",
+        "source_H": "三 旬",
+        "source_M": "sám sūn. [次音首母疑]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "treinta p[ara] contar meses, dias, arroz",
+        "abbreviations_expanded": [
+          {
+            "abbr": "pᵃ",
+            "expansion": "p[ara]"
+          }
+        ],
+        "zh_disambiguated": "三旬；三十日整月之週期",
+        "en_disambiguated": "Thirty days, three decades making a full lunar month.",
+        "syntactic_notes": "Chronological monthly period 三旬 (sam-sûn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "sam¹ sun⁵",
+        "phonological_basis": "sam¹ upper even; sun⁵ lower even tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sam-sûn",
+        "moe_code": "04923",
+        "hanzi_standard": "三旬"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Calendar lunar month duration."
+      }
+    },
+    {
+      "entry_id": null,
+      "layer_0_visual_anchor": {
+        "page_pdf": 1060,
+        "page_folio": 1022,
+        "position_in_page": 13,
+        "bounding_box_hint": "row 13, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "tribunal de criança",
+        "source_H": "礼 部",
+        "source_M": "lèy pǒu [次調交筆，疑]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tribunal de criança [Ministerio de Ritos]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "禮部；掌理朝儀教化科舉祭典之中央官署",
+        "en_disambiguated": "Ministry of Rites (tribunal of education, rites, and decorum).",
+        "syntactic_notes": "Imperial Six Ministries institution 禮部 (lé-pōo)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "le³ pɔ⁶",
+        "phonological_basis": "le³ rising; pɔ⁶ lower departing tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "lé-pōo",
+        "moe_code": "04924",
+        "hanzi_standard": "禮部"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Imperial central ministry calque."
+      }
+    },
+    {
+      "entry_id": null,
+      "layer_0_visual_anchor": {
+        "page_pdf": 1061,
+        "page_folio": 1023,
+        "position_in_page": 4,
+        "bounding_box_hint": "row 04, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "tributo terrazgo〔末詞疑〕",
+        "source_H": "賦 稅",
+        "source_M": "hu sue〔雙尖角〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tributo, terrazgo [impuesto de la tierra]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "賦稅；田賦丁糧與國家賦稅",
+        "en_disambiguated": "Tribute, land tax, territorial revenue.",
+        "syntactic_notes": "Fiscal agrarian tax compound 賦稅 (hù-suè)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "hu³ sue³",
+        "phonological_basis": "hu³ upper departing; sue³ upper departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "hù-suè",
+        "moe_code": "04925",
+        "hanzi_standard": "賦稅"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Fiscal revenue taxation."
+      }
+    },
+    {
+      "entry_id": null,
+      "layer_0_visual_anchor": {
+        "page_pdf": 1062,
+        "page_folio": 1024,
+        "position_in_page": 13,
+        "bounding_box_hint": "row 13, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "triste pesatiuo〔詞疑〕",
+        "source_H": "感 慨",
+        "source_M": "cam cay〔cam降斜；cay尖角+小c〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "triste, pesatiuo [melancólico]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "感慨；內心惆悵深沉悲傷感傷",
+        "en_disambiguated": "Pensive, sorrowfully melancholy and reflective.",
+        "syntactic_notes": "Affective pensive sadness 感慨 (kám-khài)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "kam³ kʰai³",
+        "phonological_basis": "kam³ rising; kʰai³ upper departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "kám-khài",
+        "moe_code": "04926",
+        "hanzi_standard": "感慨"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Pensive melancholy affect."
+      }
+    },
+    {
+      "entry_id": null,
+      "layer_0_visual_anchor": {
+        "page_pdf": 1062,
+        "page_folio": 1024,
+        "position_in_page": 20,
+        "bounding_box_hint": "row 20, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "triste apesadumbrado mucho q̃ se come las manos &c",
+        "source_H": "憂 煎",
+        "source_M": "iu chien〔雙升斜〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "triste apesadumbrado mucho",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "憂煎；五內俱焚悲傷交集之至痛",
+        "en_disambiguated": "Deeply afflicted with grief, consumed by sorrow.",
+        "syntactic_notes": "Intense mental agony 憂煎 (iu-tsian)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "iu¹ tsian¹",
+        "phonological_basis": "iu¹ upper even; tsian¹ upper even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "iu-tsian",
+        "moe_code": "04927",
+        "hanzi_standard": "憂煎"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Intense grief agony."
+      }
+    },
+    {
+      "entry_id": null,
+      "layer_0_visual_anchor": {
+        "page_pdf": 1063,
+        "page_folio": 1025,
+        "position_in_page": 1,
+        "bounding_box_hint": "row 01, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "tristeça interior, tierno",
+        "source_H": "慍 悶",
+        "source_M": "un bun〔un橫；bun凹角〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tristeça interior, tierno",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "慍悶；幽鬱哀戚積壓於胸中；悶慍",
+        "en_disambiguated": "Interior sadness, tender brooding sorrow.",
+        "syntactic_notes": "Repressed affective melancholy 慍悶 (ùn-būn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "un³ bun⁶",
+        "phonological_basis": "un³ upper departing; bun⁶ lower departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "ùn-būn",
+        "moe_code": "04928",
+        "hanzi_standard": "慍悶"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Interior tender melancholy."
+      }
+    },
+    {
+      "entry_id": null,
+      "layer_0_visual_anchor": {
+        "page_pdf": 1063,
+        "page_folio": 1025,
+        "position_in_page": 14,
+        "bounding_box_hint": "row 14, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "tristeça, murria",
+        "source_H": "慨 嘆",
+        "source_M": "cay tan〔雙尖角+小c〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tristeça, murria [pesar]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "慨嘆；欷歔哀嘆傷心不平",
+        "en_disambiguated": "Sorrowful lamentation, mournful sighing.",
+        "syntactic_notes": "Expressive mourning compound 慨嘆 (khài-thàn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "kʰai³ tʰan³",
+        "phonological_basis": "kʰai³ upper departing; tʰan³ upper departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "khài-thàn",
+        "moe_code": "04929",
+        "hanzi_standard": "慨嘆"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Mournful vocal lamentation."
+      }
+    },
+    {
+      "entry_id": null,
+      "layer_0_visual_anchor": {
+        "page_pdf": 1064,
+        "page_folio": 1026,
+        "position_in_page": 8,
+        "bounding_box_hint": "row 08, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "trocarse de repente ut el demonio",
+        "source_H": "窈",
+        "source_M": "iau tiau〔iau降斜；tiau凹角〕 · melindres de mugeres lasciuas",
+        "source_R": "〔空；長音或注跨線〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "trocarse de repente ut el demonio, melindres de mugeres",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "窈窕；瞬息詭變幻化妖異；妖媚作態",
+        "en_disambiguated": "To transform suddenly like a demon, coquettish mutability.",
+        "syntactic_notes": "Deceptive transformation and allure 窈窕 (iáu-tiāu)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "iau³ tiau⁶",
+        "phonological_basis": "iau³ rising; tiau⁶ lower departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "iáu-tiāu",
+        "moe_code": "04930",
+        "hanzi_standard": "窈窕"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Metamorphic allure descriptive."
+      }
+    },
+    {
+      "entry_id": null,
+      "layer_0_visual_anchor": {
+        "page_pdf": 1064,
+        "page_folio": 1026,
+        "position_in_page": 17,
+        "bounding_box_hint": "row 17, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "trocar plata por chapas",
+        "source_H": "找 易",
+        "source_M": "to〔左補，降斜〕：to va〔to降斜；va重凹交筆+小m〕",
+        "source_R": "〔空；長音或注跨線〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "trocar plata por chapas [moneda suelta]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "找易；以碎銀折換銅錢零錢；兌換",
+        "en_disambiguated": "To exchange silver bullion for copper cash / coins.",
+        "syntactic_notes": "Monetary bimetallic exchange verb phrase 找易 (tshuē-uānn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰue³ uaŋ⁶",
+        "phonological_basis": "tsʰue³ rising; uaŋ⁶ nasalized lower departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tshuē-uānn",
+        "moe_code": "04931",
+        "hanzi_standard": "找易"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Bimetallic currency exchange practice."
+      }
+    },
+    {
+      "entry_id": "1065.1",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1065,
+        "page_folio": 1027,
+        "position_in_page": 1,
+        "bounding_box_hint": "row 01, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "trocarse pasando de un navio · o lleualo de ay · trocandolo〔首句疑〕",
+        "source_H": "換 過 去",
+        "source_M": "va cue cu〔va重凹交筆+小m；cue尖角；cu尖角+小c〕",
+        "source_R": "〔空；長音或注跨線〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "trocarse pasando de un navio a otro",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "換過去；由一艘船隻過駁轉移至彼船",
+        "en_disambiguated": "To change vessels, transfer over from one ship to another.",
+        "syntactic_notes": "Nautical embarkation transfer 換過去 (uānn-kuè-khì)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)",
+          "T03 (尖頂帽)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "uaŋ⁶ kue³ kʰi³",
+        "phonological_basis": "uaŋ⁶ departing; kue³ departing; kʰi³ departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "uānn-kuè-khì",
+        "moe_code": "04932",
+        "hanzi_standard": "換過去"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Maritime vessel transfer action."
+      }
+    },
+    {
+      "entry_id": "1065.15",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1065,
+        "page_folio": 1027,
+        "position_in_page": 15,
+        "bounding_box_hint": "row 15, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tropeçar, 〔刪詞〕 · dar tras pies q̃ caur〔末語疑〕",
+        "source_H": "蹶〔字疑〕",
+        "source_M": "〔刪音〕 loe〔尖角+小c〕",
+        "source_R": "〔空；長音或注跨線〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tropeçar, dar tras pies [tropezar]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "蹶；足下絆跌失足前傾；跌躓",
+        "en_disambiguated": "To stumble, trip over, lose footing.",
+        "syntactic_notes": "Locomotor stumbling verb 蹶 (kua̍t)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "kuat⁸",
+        "phonological_basis": "kuat⁸ entering tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "kua̍t",
+        "moe_code": "04933",
+        "hanzi_standard": "蹶"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Locomotor trip and stumble."
+      }
+    },
+    {
+      "entry_id": "1068.11",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1068,
+        "page_folio": 1030,
+        "position_in_page": 11,
+        "bounding_box_hint": "row 11, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Vacar el offᵒ · q̃ acabarse",
+        "source_H": "〔空〕",
+        "source_M": "〔空〕",
+        "source_R": "〔空；長音或注跨線〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Vacar el off[ici]o, q[ue] acabarse el tiempo",
+        "abbreviations_expanded": [
+          {
+            "abbr": "offº",
+            "expansion": "off[ici]o"
+          },
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "出缺；官缺開出官職任滿離任",
+        "en_disambiguated": "Office becoming vacant, expiration of administrative term.",
+        "syntactic_notes": "Civil office administrative vacancy 出缺 (tshut-khiat)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (交叉入聲號)",
+          "T06/T07 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰut⁷ kʰiat⁷",
+        "phonological_basis": "tsʰut⁷ entering; kʰiat⁷ entering tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tshut-khiat",
+        "moe_code": "04934",
+        "hanzi_standard": "出缺"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Bureaucratic office vacancy."
+      }
+    },
+    {
+      "entry_id": "1069.6",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1069,
+        "page_folio": 1031,
+        "position_in_page": 6,
+        "bounding_box_hint": "row 06, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "vado, dar vado a las cosas",
+        "source_H": "寬",
+        "source_M": "cua〔升斜+小2〕",
+        "source_R": "〔空；長音或注跨線〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "vado, dar vado a las cosas [conceder margen]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "寬；寬待包容；放寬限度予以通融",
+        "en_disambiguated": "To grant leeway, accommodate matters with forbearance.",
+        "syntactic_notes": "Administrative and moral leniency 寬 (khuan)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "kʰuan¹",
+        "phonological_basis": "kʰuan¹ upper even tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "khuan",
+        "moe_code": "04935",
+        "hanzi_standard": "寬"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Prudential administrative leniency."
+      }
+    },
+    {
+      "entry_id": "1069.7",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1069,
+        "page_folio": 1031,
+        "position_in_page": 7,
+        "bounding_box_hint": "row 07, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "vado, dar vado a las cosas〔圈〕",
+        "source_H": "可 寬",
+        "source_M": "ca cua〔ca降斜分叉+小c；cua升斜+小2〕",
+        "source_R": "〔空；長音或注跨線〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "vado, dar vado a las cosas [admisible]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "可寬；容許寬假施恩；可行寬容",
+        "en_disambiguated": "Permissible to grant leniency or accommodation.",
+        "syntactic_notes": "Permissive modal compound 可寬 (khó-khuan)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "kʰo³ kʰuan¹",
+        "phonological_basis": "kʰo³ rising; kʰuan¹ upper even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "khó-khuan",
+        "moe_code": "04936",
+        "hanzi_standard": "可寬"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Permissive forbearance modal."
+      }
+    },
+    {
+      "entry_id": "1069.16",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1069,
+        "page_folio": 1031,
+        "position_in_page": 16,
+        "bounding_box_hint": "row 16, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Vago, nuebo",
+        "source_H": "新",
+        "source_M": "sin〔升斜〕",
+        "source_R": "〔空；長音或注跨線〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Vago, nuebo [recién llegado]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "新；初來乍到之新人新物；全新",
+        "en_disambiguated": "New, newly arrived stranger, fresh newcomer.",
+        "syntactic_notes": "Adjectival modifier 新 (sin)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "sin¹",
+        "phonological_basis": "sin¹ upper even tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sin",
+        "moe_code": "04937",
+        "hanzi_standard": "新"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Fresh newcomer status."
+      }
+    },
+    {
+      "entry_id": "1069.17",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1069,
+        "page_folio": 1031,
+        "position_in_page": 17,
+        "bounding_box_hint": "row 17, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "vago hombre, recien llegado",
+        "source_H": "新 客",
+        "source_M": "sin que〔sin升斜；que升斜分叉+小c〕",
+        "source_R": "〔空；長音或注跨線〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "vago hombre, recien llegado [sinkheh]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "新客；自閩粵初抵馬尼拉之唐人新僑；新客",
+        "en_disambiguated": "Newcomer, newly arrived Chinese immigrant in Manila (Sinkheh).",
+        "syntactic_notes": "Fundamental overseas Chinese socioeconomic term 新客 (sin-kheh)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T06/T07 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "sin¹ kʰeʔ⁷",
+        "phonological_basis": "sin¹ upper even; kʰeʔ⁷ entering tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sin-kheh",
+        "moe_code": "04938",
+        "hanzi_standard": "新客"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Overseas diaspora immigrant designation."
+      }
+    },
+    {
+      "entry_id": "DHS1070-10",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1070,
+        "page_folio": 1032,
+        "position_in_page": 10,
+        "bounding_box_hint": "row 10, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "valeroso, de sustancia",
+        "source_H": "有 腹 人",
+        "source_M": "teng pag lang〔teng重凹；pag降斜分叉；lang橫〕",
+        "source_R": "〔空；長音跨線〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "valeroso, de sustancia",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "有腹人；胸有丘壑沉雄勇毅之人；有識見勇力者",
+        "en_disambiguated": "Valiant person of substance, stout-hearted and courageous man.",
+        "syntactic_notes": "Somatic characterological idiom 有腹人 (ū-pak-lâng)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)",
+          "T06/T07 (交叉入聲號)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "u⁶ pak⁷ laŋ⁵",
+        "phonological_basis": "u⁶ lower departing; pak⁷ entering; laŋ⁵ lower even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "ū-pak-lâng",
+        "moe_code": "04939",
+        "hanzi_standard": "有腹人"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Characterological fortitude metaphor."
+      }
+    },
+    {
+      "entry_id": "DHS1071-06",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1071,
+        "page_folio": 1033,
+        "position_in_page": 6,
+        "bounding_box_hint": "row 06, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Valon de papel, numeral",
+        "source_H": "刀",
+        "source_M": "to〔升斜〕",
+        "source_R": "〔空；長音或注跨線〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Valon de papel, numeral [mano / resma]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "刀；整刀紙張之計量單位；百張一刀",
+        "en_disambiguated": "Quire / ream of paper, numeral classifier for sheets.",
+        "syntactic_notes": "Paper trade numeral classifier 刀 (to)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "to¹",
+        "phonological_basis": "to¹ upper even tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "to",
+        "moe_code": "04940",
+        "hanzi_standard": "刀"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Paper trade metrological classifier."
+      }
+    },
+    {
+      "entry_id": "DHS1071-07",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1071,
+        "page_folio": 1033,
+        "position_in_page": 7,
+        "bounding_box_hint": "row 07, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "valon de papel, y numeral〔圈〕",
+        "source_H": "部",
+        "source_M": "po ⊥ pun〔po凹角+小c；pun凹角〕 · un tanto",
+        "source_R": "〔空；長音或注跨線〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "valon de papel, y numeral [fardo]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "部；整疊裝訂成冊之大疊紙料計量",
+        "en_disambiguated": "Ream / bundle classifier for paper stocks.",
+        "syntactic_notes": "Stationery classifier 部 (pōo)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "pɔ⁶",
+        "phonological_basis": "pɔ⁶ lower departing tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "pōo",
+        "moe_code": "04941",
+        "hanzi_standard": "部"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Stationery bulk unit."
+      }
+    },
+    {
+      "entry_id": "DHS1071-15",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1071,
+        "page_folio": 1033,
+        "position_in_page": 15,
+        "bounding_box_hint": "row 15, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Vano singular",
+        "source_H": "無 狀",
+        "source_M": "bu chong〔bu橫；chong凹角〕",
+        "source_R": "〔空；長音或注跨線〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Vano singular [desvergonzado]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "無狀；荒誕放肆不成體統；狂悖狂徒",
+        "en_disambiguated": "Singularly insolent, dissolute and devoid of decorum.",
+        "syntactic_notes": "Moral indictment descriptor 無狀 (bô-tsōng)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "bu⁵ tsoŋ⁶",
+        "phonological_basis": "bu⁵ lower even; tsoŋ⁶ lower departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "bô-tsōng",
+        "moe_code": "04942",
+        "hanzi_standard": "無狀"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Indecorous insolence assessment."
+      }
+    },
+    {
+      "entry_id": "DHS1071-16",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1071,
+        "page_folio": 1033,
+        "position_in_page": 16,
+        "bounding_box_hint": "row 16, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Vano singular〔圈〕",
+        "source_H": "無 樣",
+        "source_M": "bu yo〔bu橫；yo重凹+小m〕",
+        "source_R": "〔空；長音或注跨線〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Vano singular [extravagante]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "無樣；怪誕不合規矩；全無模樣規矩",
+        "en_disambiguated": "Uncouth, odd, lacking proper demeanor or pattern.",
+        "syntactic_notes": "Behavioral aberration phrase 無樣 (bô-iūnn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "bu⁵ iuŋ⁶",
+        "phonological_basis": "bu⁵ lower even; iuŋ⁶ nasalized lower departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "bô-iūnn",
+        "moe_code": "04943",
+        "hanzi_standard": "無樣"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Behavioral patternlessness."
+      }
+    },
+    {
+      "entry_id": "DHS1071-18",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1071,
+        "page_folio": 1033,
+        "position_in_page": 18,
+        "bounding_box_hint": "row 18, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "vano, se haze de los godos〔末詞疑〕",
+        "source_H": "假 借 名 目",
+        "source_M": "que chia beng bog〔que降斜；chia尖角；beng橫；bog降斜分叉〕",
+        "source_R": "〔空；長音或注跨線〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "vano, se haze de los godos [pretender nobleza]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "假借名目；冒稱閥閱顯姓以自矜驕",
+        "en_disambiguated": "Feigning noble lineage, boasting of illustrious pedigree.",
+        "syntactic_notes": "Social vanity critique phrase 假借名目."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T03 (尖頂帽)",
+          "T05 (平橫)",
+          "T06/T07 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "ke³ tsiaʔ⁷ biŋ⁵ bok⁸",
+        "phonological_basis": "ke³ rising; tsiaʔ⁷ entering; biŋ⁵ even; bok⁸ entering."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "ké-tsiah-bîng-ba̍k",
+        "moe_code": "04944",
+        "hanzi_standard": "假借名目"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Aristocratic pedigree pretension."
+      }
+    },
+    {
+      "entry_id": "DHS1074-04",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1074,
+        "page_folio": 1036,
+        "position_in_page": 4,
+        "bounding_box_hint": "row 04, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Vaul · q̃ arca, petaca〔補〕",
+        "source_H": "〔空〕",
+        "source_M": "〔空〕",
+        "source_R": "〔空；長音或注跨線〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Vaul, arca, petaca [baúl / caja de cuero]",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "箱籠；行旅盛裝衣物之竹木皮箱籠櫃",
+        "en_disambiguated": "Trunk, traveling chest, leather box.",
+        "syntactic_notes": "Traveling luggage compound 箱籠 (siunn-lâng)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "siuŋ¹ laŋ⁵",
+        "phonological_basis": "siuŋ¹ upper even; laŋ⁵ lower even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "siunn-lâng",
+        "moe_code": "04945",
+        "hanzi_standard": "箱籠"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Luggage baggage storage furniture."
+      }
+    },
+    {
+      "entry_id": "DHS1074-09",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1074,
+        "page_folio": 1036,
+        "position_in_page": 9,
+        "bounding_box_hint": "row 09, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "vedar, q̃ haga tu voluntad",
+        "source_H": "禁 革",
+        "source_M": "quim queg〔quim尖角；queg降斜分叉〕",
+        "source_R": "〔空；長音或注跨線〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "vedar, q[ue no] haga tu voluntad",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "禁革；嚴立章程革除弊端禁阻非為",
+        "en_disambiguated": "To prohibit, ban by official decree, curb will.",
+        "syntactic_notes": "Administrative prohibition 禁革 (kìm-kik)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T06/T07 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "kim³ kik⁷",
+        "phonological_basis": "kim³ upper departing; kik⁷ entering tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "kìm-kik",
+        "moe_code": "04946",
+        "hanzi_standard": "禁革"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Official bureaucratic interdict."
+      }
+    },
+    {
+      "entry_id": "1075.1",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1075,
+        "page_folio": 1037,
+        "position_in_page": 1,
+        "bounding_box_hint": "row 01, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Velar Rostro〔補圈；詞疑〕",
+        "source_H": "〔空〕",
+        "source_M": "shim〔升斜；跨漢字欄圈〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Velar Rostro [cubrir la cara]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "遮面；以羅紗或扇遮掩容面貌",
+        "en_disambiguated": "To veil one's face, screen the countenance.",
+        "syntactic_notes": "Facial concealment phrase 遮面 (tsia-bīn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsia¹ bin⁶",
+        "phonological_basis": "tsia¹ upper even; bin⁶ lower departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsia-bīn",
+        "moe_code": "04947",
+        "hanzi_standard": "遮面"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Facial screening modesty gesture."
+      }
+    },
+    {
+      "entry_id": "1077.8",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1077,
+        "page_folio": 1039,
+        "position_in_page": 8,
+        "bounding_box_hint": "row 08, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Vender a la postura",
+        "source_H": "照價",
+        "source_M": "chiau que: bey chung qung qe: al justo.〔chiau厚尖角；que尖角；bey凹角；chung尖角；qung升斜；qe尖角〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Vender a la postura, al justo",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "照價；依循公定市價平價出售不欺買賣",
+        "en_disambiguated": "To sell at the set statutory price, fair trading.",
+        "syntactic_notes": "Commercial statutory pricing phrase 照價 (tsiàu-kè)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsiau³ ke³",
+        "phonological_basis": "tsiau³ upper departing; ke³ upper departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsiàu-kè",
+        "moe_code": "04948",
+        "hanzi_standard": "照價"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Commercial fair pricing formula."
+      }
+    },
+    {
+      "entry_id": "1078.9",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1078,
+        "page_folio": 1040,
+        "position_in_page": 9,
+        "bounding_box_hint": "row 09, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Venir de dar la obediencia",
+        "source_H": "迢來拜",
+        "source_M": "tiau lay pay〔tiau升斜；lay横；pay尖角交筆〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Venir de dar la obediencia",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "迢來拜；遠道跋涉前來入覲朝拜效順",
+        "en_disambiguated": "To travel from afar to pay homage and obedience.",
+        "syntactic_notes": "Tributary feudal homage phrase 迢來拜 (tiâu-lâi-pài)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T05 (平橫)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "tʰiau⁵ lai⁵ pai³",
+        "phonological_basis": "tʰiau⁵ lower even; lai⁵ lower even; pai³ departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tiâu-lâi-pài",
+        "moe_code": "04949",
+        "hanzi_standard": "迢來拜"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Feudal tributary ceremonial visitation."
+      }
+    },
+    {
+      "entry_id": "1078.16",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1078,
+        "page_folio": 1040,
+        "position_in_page": 16,
+        "bounding_box_hint": "row 16, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Venir el bien por el mal rectus ab errore.",
+        "source_H": "因禍得福",
+        "source_M": "in ho tit hog〔in升斜；ho凹角；後二降斜分叉〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Venir el bien por el mal, rectus ab errore",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "因禍得福；遭遇磨難反獲吉慶福祉",
+        "en_disambiguated": "Blessing in disguise; good emerging from misfortune.",
+        "syntactic_notes": "Providential idiom 因禍得福 (in-hō-tit-hok)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T04 (凹角)",
+          "T06/T07 (交叉入聲號)",
+          "T06/T07 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "in¹ ho⁶ tit⁷ hok⁷",
+        "phonological_basis": "in¹ even; ho⁶ departing; tit⁷ entering; hok⁷ entering."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "in-hō-tit-hok",
+        "moe_code": "04950",
+        "hanzi_standard": "因禍得福"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Classical providential reversal proverb."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "reader": "DHS coordinator",
+  "accepted_at_utc": "2026-10-16T08:41:30.363481+00:00",
+  "method_version": "DHS_reader_method_only_v1",
+  "prior_batch_frozen": "PDF216–220 before teaching access",
+  "next_unread_batch": [
+    241,
+    245
+  ],
+  "exposure": "Seen old-five reference on other pages and C/D manuscript-only localization; no blanket independent-blind claim. Teaching-seven examples now seen.",
+  "interpretation": "Training adoption only, effectiveness not established. Describe original marks separately from author code; do not infer from modern tones.",
+  "files": [
+    {
+      "file": "DHS_reader_method_only_v1.md",
+      "sha256": "9f0f81825b74ddf084e6ab9f08290bafb3d8a132bd0d1a99f64f68727e0b77df"
+    },
+    {
+      "file": "T01_published_tone_example.jpeg",
+      "sha256": "fbb8591cd2c1a0d52bfcac7f1d01bacfd56687aa18985f31dac7722a54ec22b0"
+    },
+    {
+      "file": "T02_published_tone_example.jpeg",
+      "sha256": "53b2fe9999906ae55c65ad92a78740547910876a4353dccf05016236051b7496"
+    },
+    {
+      "file": "T03_published_tone_example.jpeg",
+      "sha256": "fc22dcfce7fe44f4498d7a8e171d511e61cb4442566a98c5366877b778c77f0c"
+    },
+    {
+      "file": "T04_published_tone_example.jpeg",
+      "sha256": "3206b8411f1ae26a56322efd44fea3ebcf1c55a41c330478517d57015fd6440a"
+    },
+    {
+      "file": "T05_published_tone_example.jpeg",
+      "sha256": "acabe80a9a3b415d828549115e3d82ad61de19a7086c515cf0d6593fcdc5e955"
+    },
+    {
+      "file": "T06_published_tone_example.jpeg",
+      "sha256": "8e4444b5a22889a4549761ae5ee6152830ab59733e020409330ee016294414e9"
+    },
+    {
+      "file": "T07_published_tone_example.jpeg",
+      "sha256": "b4a1e273a658fc506dab6854abc9f6622dcab3fa1ada6062b0513da98f95eb32"
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 410,
+  "historical_folio": 376,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0410/pdf_0410_300dpi.png",
+  "page_header": "E. ante. L.",
+  "page_footer_printed": "- 376 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "ellos",
+      "source_H": "[空]",
+      "source_M": "gni:",
+      "source_R": "guyno.",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ellos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gni¹",
+        "tai_lo_standard": "gni",
+        "phonological_basis": "17c Dominican orthography conversion: gni (?) -> gni¹ / gni."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "el.",
+      "source_H": "伊",
+      "source_M": "gí",
+      "source_R": "yǐ [疑:yǐ/i]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "el.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gi¹",
+        "tai_lo_standard": "gi",
+        "phonological_basis": "17c Dominican orthography conversion: gí (伊) -> gi¹ / gi."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "[空]",
+      "source_H": "彼",
+      "source_M": "sī [疑:sī/hī]",
+      "source_R": "bǐ",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si⁵ si⁶ hi⁶",
+        "tai_lo_standard": "sî-sī-hī",
+        "phonological_basis": "17c Dominican orthography conversion: sī (彼) -> si⁵ / sî; sī (?) -> si⁶ / sī; hī (?) -> hi⁶ / hī."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "el mesmo.",
+      "source_H": "已 [疑:已/己]",
+      "source_M": "gǔy",
+      "source_R": "jǐn [疑:jǐn/jin]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "el mesmo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui²",
+        "tai_lo_standard": "guí",
+        "phonological_basis": "17c Dominican orthography conversion: gǔy (已) -> gui² / guí."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "el mesmo, yo mesmo.",
+      "source_H": "予 [疑:予/尹]",
+      "source_M": "ī jonmo",
+      "source_R": "xīn [疑:xīn/xin]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "el mesmo, yo mesmo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "i⁵ dzonmo¹",
+        "tai_lo_standard": "î-jonmo",
+        "phonological_basis": "17c Dominican orthography conversion: ī (予) -> i⁵ / î; jonmo (?) -> dzonmo¹ / jonmo."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "el mesmo, yo mesmo. el mesmo",
+      "source_H": "親",
+      "source_M": "chīn cĩg [疑:cĩg/ig]",
+      "source_R": "chīn",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "el mesmo, yo mesmo. el mesmo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰin³ kĩk⁷ kĩk⁷ ik⁷",
+        "tai_lo_standard": "tshìn-kik-kik-ik",
+        "phonological_basis": "17c Dominican orthography conversion: chīn (親) -> tsʰin³ / tshìn; cĩg (?) -> kĩk⁷ / kik; cĩg (?) -> kĩk⁷ / kik; ig (?) -> ik⁷ / ik."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "el mesmo.",
+      "source_H": "自已 [疑:已/己]",
+      "source_M": "chū gǔy ig",
+      "source_R": "chū gǔn",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "el mesmo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu² gui² ik⁷",
+        "tai_lo_standard": "tsú-guí-ik",
+        "phonological_basis": "17c Dominican orthography conversion: chū (自) -> tsu² / tsú; gǔy (已) -> gui² / guí; ig (?) -> ik⁷ / ik."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "el mesmo",
+      "source_H": "独已 [疑:已/己]",
+      "source_M": "tǎg gǔy ig",
+      "source_R": "tō gǔn",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "el mesmo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tak⁷ gui² ik⁷",
+        "tai_lo_standard": "tak-guí-ik",
+        "phonological_basis": "17c Dominican orthography conversion: tǎg (独) -> tak⁷ / tak; gǔy (已) -> gui² / guí; ig (?) -> ik⁷ / ik."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "el mesmo.",
+      "source_H": "伊独已 [疑:已/己]",
+      "source_M": "i tǎg gǔy ig",
+      "source_R": "i tō gǔn",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)",
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "el mesmo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "i¹ tak⁷ gui² ik⁷",
+        "tai_lo_standard": "i-tak-guí-ik",
+        "phonological_basis": "17c Dominican orthography conversion: i (伊) -> i¹ / i; tǎg (独) -> tak⁷ / tak; gǔy (已) -> gui² / guí; ig (?) -> ik⁷ / ik."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "el mesmo.",
+      "source_H": "自家",
+      "source_M": "chū quē ig",
+      "source_R": "chū guīⁿ",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "el mesmo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu⁵ ke⁵ ik⁷",
+        "tai_lo_standard": "tsû-kê-ik",
+        "phonological_basis": "17c Dominican orthography conversion: chū (自) -> tsu⁵ / tsû; quē (家) -> ke⁵ / kê; ig (?) -> ik⁷ / ik."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "el mesmo baixo. [疑:baixo/boixo]",
+      "source_H": "親口說",
+      "source_M": "chīn chǔy sǔe",
+      "source_R": "chīn guēn chǔe",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "el mesmo baixo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰin³ tsui² sue²",
+        "tai_lo_standard": "tshìn-tsuí-sué",
+        "phonological_basis": "17c Dominican orthography conversion: chīn (親) -> tsʰin³ / tshìn; chǔy (口) -> tsui² / tsuí; sǔe (說) -> sue² / sué."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "el solo. anoⁿ. [疑:anoⁿ/anda]",
+      "source_H": "逐步行",
+      "source_M": "tǎg pō quiā̃ [疑:quiā̃/guīā]",
+      "source_R": "chō pūn hiāng",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "el solo. anoⁿ.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tak⁷ po⁵ kĩã⁵ kĩã⁶ guia⁶",
+        "tai_lo_standard": "tak-pô-kiânn-kiānn-guiā",
+        "phonological_basis": "17c Dominican orthography conversion: tǎg (逐) -> tak⁷ / tak; pō (步) -> po⁵ / pô; quiā̃ (行) -> kĩã⁵ / kiânn; quiā̃ (?) -> kĩã⁶ / kiānn; guīā (?) -> guia⁶ / guiā."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "* Elada costa.",
+      "source_H": "霜",
+      "source_M": "chng [疑:chng/chng]",
+      "source_R": "zoāng [疑:zoāng/choāng]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "* Elada costa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiʔ⁷ tsiŋ¹ tsiŋ¹",
+        "tai_lo_standard": "tsih-tsing-tsing",
+        "phonological_basis": "17c Dominican orthography conversion: chng (霜) -> tsiʔ⁷ / tsih; chng (?) -> tsiŋ¹ / tsing; chng (?) -> tsiŋ¹ / tsing."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "elada costa, muy fría.",
+      "source_H": "寒",
+      "source_M": "guā̃ [疑:guā̃/uā]",
+      "source_R": "cān",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "elada costa, muy fría.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gũã⁵ gũã⁶ ua⁶",
+        "tai_lo_standard": "guânn-guānn-uā",
+        "phonological_basis": "17c Dominican orthography conversion: guā̃ (寒) -> gũã⁵ / guânn; guā̃ (?) -> gũã⁶ / guānn; uā (?) -> ua⁶ / uā."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "elada coſta",
+      "source_H": "凍露",
+      "source_M": "tàng lō",
+      "source_R": "tōng lū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "elada coſta",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "taŋ² lo⁵",
+        "tai_lo_standard": "táng-lô",
+        "phonological_basis": "17c Dominican orthography conversion: tàng (凍) -> taŋ² / táng; lō (露) -> lo⁵ / lô."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "elada coſta)",
+      "source_H": "凝",
+      "source_M": "gēn ī dam",
+      "source_R": "ngīn [疑:ngīn/gin]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "elada coſta)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gen⁵ i⁶ dam¹",
+        "tai_lo_standard": "gên-ī-dam",
+        "phonological_basis": "17c Dominican orthography conversion: gēn (凝) -> gen⁵ / gên; ī (?) -> i⁶ / ī; dam (?) -> dam¹ / dam."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Elegante.",
+      "source_H": "象",
+      "source_M": "chiô",
+      "source_R": "siong",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Elegante.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsio³",
+        "tai_lo_standard": "tsiò",
+        "phonological_basis": "17c Dominican orthography conversion: chiô (象) -> tsio³ / tsiò."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Elegancia rhetorica,",
+      "source_H": "文",
+      "source_M": "bûn",
+      "source_R": "vûn",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Elegancia rhetorica,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bun³",
+        "tai_lo_standard": "bùn",
+        "phonological_basis": "17c Dominican orthography conversion: bûn (文) -> bun³ / bùn."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Elegir bacio; [疑:bacio/vacio]",
+      "source_H": "虛 [疑:虛/虚]",
+      "source_M": "hy̌ hū",
+      "source_R": "hy̌",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Elegir bacio;",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi² hu⁶",
+        "tai_lo_standard": "hí-hū",
+        "phonological_basis": "17c Dominican orthography conversion: hy̌ (虛) -> hi² / hí; hū (?) -> hu⁶ / hū."
+      }
+    }
+  ]
+}

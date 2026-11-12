@@ -1,0 +1,368 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 695,
+  "historical_folio": 661,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0695/pdf_0695_300dpi.png",
+  "page_header": "N. ante. A.",
+  "page_footer_printed": "661",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Nanca~",
+      "source_H": "楠羅密[疑:楠/波]",
+      "source_M": "pō pō bīt.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Nanca~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "po⁵ po⁵ bit⁷",
+        "tai_lo_standard": "pô-pô-bit",
+        "phonological_basis": "17c Dominican orthography conversion: pō (楠) -> po⁵ / pô; pō (羅) -> po⁵ / pô; bīt (密) -> bit⁷ / bit."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Naranjas~",
+      "source_H": "柑",
+      "source_M": "cám",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Naranjas~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kam¹",
+        "tai_lo_standard": "kam",
+        "phonological_basis": "17c Dominican orthography conversion: cám (柑) -> kam¹ / kam."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "[空]",
+      "source_H": "柚",
+      "source_M": "iū.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu¹",
+        "tai_lo_standard": "iu",
+        "phonological_basis": "17c Dominican orthography conversion: iū (柚) -> iu¹ / iu."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "naranjas grandes~",
+      "source_H": "仙柑",
+      "source_M": "siēn cám.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "naranjas grandes~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sien⁵ kam¹",
+        "tai_lo_standard": "siên-kam",
+        "phonological_basis": "17c Dominican orthography conversion: siēn (仙) -> sien⁵ / siên; cám (柑) -> kam¹ / kam."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "naranjas dulces buenas~",
+      "source_H": "雪柑",
+      "source_M": "sê cám.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "naranjas dulces buenas~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "se³ kam¹",
+        "tai_lo_standard": "sè-kam",
+        "phonological_basis": "17c Dominican orthography conversion: sê (雪) -> se³ / sè; cám (柑) -> kam¹ / kam."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "naranjas de cierta especie amargas villas~",
+      "source_H": "橘",
+      "source_M": "guít.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "naranjas de cierta especie amargas villas~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guit⁷",
+        "tai_lo_standard": "guit",
+        "phonological_basis": "17c Dominican orthography conversion: guít (橘) -> guit⁷ / guit."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "naranjas pequeñas dulces~",
+      "source_H": "柑橘",
+      "source_M": "cám guít",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "naranjas pequeñas dulces~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kam¹ guit⁷",
+        "tai_lo_standard": "kam-guit",
+        "phonological_basis": "17c Dominican orthography conversion: cám (柑) -> kam¹ / kam; guít (橘) -> guit⁷ / guit."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Nariz~",
+      "source_H": "鼻",
+      "source_M": "pȳ̃",
+      "source_R": "choromot.[疑:choromot/chorosnot]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Nariz~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pi⁵ ĩ¹",
+        "tai_lo_standard": "pî-inn",
+        "phonological_basis": "17c Dominican orthography conversion: p (鼻) -> pi⁵ / pî; ̃ (?) -> ĩ¹ / inn."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "nariz chata~",
+      "source_H": "鼻凹膀[疑:膀/胼]",
+      "source_M": "pȳ̃ lā̃p cā",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "nariz chata~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pi⁵ ĩ⁵ lãp⁷ ka⁶",
+        "tai_lo_standard": "pî-înn-lap-kā",
+        "phonological_basis": "17c Dominican orthography conversion: p (鼻) -> pi⁵ / pî; ̃ (凹) -> ĩ⁵ / înn; lā̃p (膀) -> lãp⁷ / lap; cā (?) -> ka⁶ / kā."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "narices tapadas deveronatico.",
+      "source_H": "童鼻",
+      "source_M": "rāng pȳ̃",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "narices tapadas deveronatico.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "raŋ⁵ pi⁵ ĩ¹",
+        "tai_lo_standard": "râng-pî-inn",
+        "phonological_basis": "17c Dominican orthography conversion: rāng (童) -> raŋ⁵ / râng; p (鼻) -> pi⁵ / pî; ̃ (?) -> ĩ¹ / inn."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Natura mulieris~",
+      "source_H": "之",
+      "source_M": "chý",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Natura mulieris~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi¹",
+        "tai_lo_standard": "tsi",
+        "phonological_basis": "17c Dominican orthography conversion: ch (之) -> tsi¹ / tsi."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "[空]",
+      "source_H": "[空]",
+      "source_M": "sía ho",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sia¹ ho¹",
+        "tai_lo_standard": "sia-ho",
+        "phonological_basis": "17c Dominican orthography conversion: sía (?) -> sia¹ / sia; ho (?) -> ho¹ / ho."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "[空]",
+      "source_H": "之腘[疑:腘/膣]",
+      "source_M": "chý bāy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi¹ bai⁵",
+        "tai_lo_standard": "tsi-bâi",
+        "phonological_basis": "17c Dominican orthography conversion: ch (之) -> tsi¹ / tsi; bāy (腘) -> bai⁵ / bâi."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "[空]",
+      "source_H": "陰門",
+      "source_M": "ím mūy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "im¹ mui⁵",
+        "tai_lo_standard": "im-muî",
+        "phonological_basis": "17c Dominican orthography conversion: ím (陰) -> im¹ / im; mūy (門) -> mui⁵ / muî."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "[空]",
+      "source_H": "下陰",
+      "source_M": "hē iḿ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "he⁵ i¹",
+        "tai_lo_standard": "hê-i",
+        "phonological_basis": "17c Dominican orthography conversion: hē (下) -> he⁵ / hê; i (陰) -> i¹ / i."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Natural, naturaleza delas cosas, o propiedad~",
+      "source_H": "姓",
+      "source_M": "Sē̃. [残]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Natural, naturaleza delas cosas, o propiedad~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sẽ⁵",
+        "tai_lo_standard": "sênn",
+        "phonological_basis": "17c Dominican orthography conversion: Sē̃ (姓) -> sẽ⁵ / sênn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "[空]",
+      "source_H": "氏",
+      "source_M": "Sī.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si⁵",
+        "tai_lo_standard": "sî",
+        "phonological_basis": "17c Dominican orthography conversion: Sī (氏) -> si⁵ / sî."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "[空]",
+      "source_H": "本姓",
+      "source_M": "pūn Sē̃",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pun⁵ sẽ⁵",
+        "tai_lo_standard": "pûn-sênn",
+        "phonological_basis": "17c Dominican orthography conversion: pūn (本) -> pun⁵ / pûn; Sē̃ (姓) -> sẽ⁵ / sênn."
+      }
+    }
+  ]
+}

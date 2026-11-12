@@ -1,0 +1,27 @@
+{
+  "frozen_utc": "2026-10-16T08:37:37.012998+00:00",
+  "source": "Takata2009 p671/PDF9 https://www.zinbun.kyoto-u.ac.jp/~takata/sangley.pdf",
+  "items": [
+    {
+      "id": "S01",
+      "character": "熱",
+      "romanization": "tziet",
+      "coverage": "published exact letter sequence; tone not covered; manuscript Calor only visually checked, not quoted by paper"
+    },
+    {
+      "id": "S02",
+      "character": "五",
+      "romanization": "gou",
+      "coverage": "published letters only; uppercase/lowercase editorial normalization not error; numeral5 visually checked"
+    },
+    {
+      "id": "S03",
+      "character": "雪",
+      "romanization": "se",
+      "translation": "piedra",
+      "coverage": "both explicitly discussed by scholar as semantic mismatch; do not correct original translation to snow"
+    }
+  ],
+  "rubric": "Primary match vs unresolved alternatives separately; no tone score, no modern normalization; compare historical spelling not sound reconstruction. Source does not provide full-page diplomatic edition.",
+  "exposure": "All images have prior project transcription; reader must be fresh context. This is reader-new independent rereading, not globally untouched book pages."
+}

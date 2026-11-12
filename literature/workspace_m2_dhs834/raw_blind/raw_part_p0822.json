@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "pdf_page": 822,
+      "historical_folio": 784,
+      "page_header": "P. ante. O.",
+      "page_footer_printed": "- 784 -",
+      "page_footer_handwritten": "389",
+      "notes": "正常四栏手稿辞典页（P 字母段，polvo/polvora/polucion 条）。右栏（第4栏官话）整栏空白，仅背面透字残影，source_R 全部 [空]（已核对 pdf_0822_subcol4_mandarin_right.png）。右上角另有墨写编号疑为 \"1205\"（潦草存疑）与铅笔 \"389\"（已记入 page_footer_handwritten，实际位于右上角而非页脚）。第4、5条之间有数行空白横线未计条目；三横带重叠行（銃藥行等）已去重，共 18 条。存疑待人工校订：pos1 L 尾词 [疑:gos/plumas]；pos2 M 末音节 \"cag\" 之小声调符形状难辨标 T99（可能为入声交叉号或鼻化钩）；pos5 L 中段 \"qaiuo\" 潦草存疑，H 栏仅见 \"埃\"，其前可能有 \"塵\" 被西文笔迹压盖；pos6 \"eng\" 声调符按升斜 T01 抄，或为平橫；pos10 L \"appartede\" 拼写存疑（或 apparede/aparede）；pos11-13 藥/火藥/銃藥之 \"yo\" 声调符（T02/T04）及 pos14 \"cheng\" 是否带鼻化钩待复核；pos16-17 氵旁字按 \"泄\" 抄 [疑:泄/洩]；pos18 M 末音节按所见抄 \"sy\"，可能实为 \"ui\"（夢遺）；pos9/pos18 \"sy\" 字形亦可能为 \"se\"。上述小声调符均按当前最可信几何形状填写，建议用 pdf_0822_subcol3_minnan.png 人工复核。",
+      "entries": [
+        {"position": 1,  "source_L": "Polla~", "source_H": "未成雞母", "source_M": "bue chia quey bo", "tone_marks_M": ["T04 (凹角)", "T05 (平橫)", "T01 (升斜)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 2,  "source_L": "Pollow~", "source_H": "未成雞角", "source_M": "bue chia quey cag", "tone_marks_M": ["T04 (凹角)", "T05 (平橫)", "T01 (升斜)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 3,  "source_L": "pollo", "source_H": "雞仔", "source_M": "quey ia", "tone_marks_M": ["T01 (升斜)", "T02 (降斜)"], "tone_marks_R": []},
+        {"position": 4,  "source_L": "pollito q sale de la carcara no tiene [疑:gos/plumas]~", "source_H": "眩雞仔", "source_M": "hin quey ia", "tone_marks_M": ["T05 (平橫)", "T01 (升斜)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 5,  "source_L": "Poluo~ qaiuo o paredes:", "source_H": "埃[疑:埃/塵埃]", "source_M": "tin ay", "tone_marks_M": ["T05 (平橫)", "T01 (升斜)"], "tone_marks_R": []},
+        {"position": 6,  "source_L": "poluo~", "source_H": "膺", "source_M": "eng", "tone_marks_M": ["T01 (升斜)"], "tone_marks_R": []},
+        {"position": 7,  "source_L": "poluo~", "source_H": "塵", "source_M": "tin", "tone_marks_M": ["T05 (平橫)"], "tone_marks_R": []},
+        {"position": 8,  "source_L": "poluo~", "source_H": "粉", "source_M": "hun", "tone_marks_M": ["T02 (降斜)"], "tone_marks_R": []},
+        {"position": 9,  "source_L": "poluo menudo del suelo", "source_H": "塵世", "source_M": "tin sy", "tone_marks_M": ["T05 (平橫)", "T02 (降斜)"], "tone_marks_R": []},
+        {"position": 10, "source_L": "poluo del aire, o del appartede", "source_H": "塵埃", "source_M": "tin ay", "tone_marks_M": ["T05 (平橫)", "T01 (升斜)"], "tone_marks_R": []},
+        {"position": 11, "source_L": "Poluora~", "source_H": "藥", "source_M": "yo", "tone_marks_M": ["T02 (降斜)"], "tone_marks_R": []},
+        {"position": 12, "source_L": "poluora~", "source_H": "火藥", "source_M": "hue yo", "tone_marks_M": ["T02 (降斜)", "T04 (凹角)"], "tone_marks_R": []},
+        {"position": 13, "source_L": "poluora", "source_H": "銃藥", "source_M": "cheng yo", "tone_marks_M": ["T05 (平橫)", "T04 (凹角)"], "tone_marks_R": []},
+        {"position": 14, "source_L": "Poluuar, como agucar", "source_H": "掺", "source_M": "sam", "tone_marks_M": ["T02 (降斜)"], "tone_marks_R": []},
+        {"position": 15, "source_L": "poluuar la llaga~", "source_H": "掺藥末", "source_M": "sam yo moa", "tone_marks_M": ["T02 (降斜)", "T04 (凹角)", "T02 (降斜)"], "tone_marks_R": []},
+        {"position": 16, "source_L": "Polucion nocturna.", "source_H": "泄[疑:泄/洩]", "source_M": "siet", "tone_marks_M": ["T01 (升斜)"], "tone_marks_R": []},
+        {"position": 17, "source_L": "polucion nocturna.", "source_H": "夢泄[疑:泄/洩]", "source_M": "bong siet", "tone_marks_M": ["T04 (凹角)", "T01 (升斜)"], "tone_marks_R": []},
+        {"position": 18, "source_L": "polucion nocturna", "source_H": "夢遺", "source_M": "bong sy", "tone_marks_M": ["T04 (凹角)", "T05 (平橫)"], "tone_marks_R": []}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1172 @@
+{
+  "record_type": "non_destructive_metadata_correction_sidecar",
+  "created_at": "2026-10-16T17:13:25.205845+00:00",
+  "scope": "Only own assigned manifests; existing frozen artifacts remain byte-identical. No external comparison.",
+  "inspected_manifests": [
+    "manifest_pdf_0011_0015_visual_first_v1.json",
+    "manifest_pdf_0016_0020_visual_first_v1.json",
+    "manifest_pdf_0021_0025_visual_first_v1.json",
+    "manifest_pdf_0026_0030_visual_first_v1.json",
+    "manifest_pdf_0031_0035_visual_first_v1.json",
+    "manifest_pdf_0036_0040_visual_first_v1.json",
+    "manifest_pdf_0126_0130_visual_first_v1.json",
+    "manifest_pdf_0131_0135_visual_first_v1.json",
+    "manifest_pdf_0136_0140_visual_first_v1.json",
+    "manifest_pdf_0141_0145_visual_first_v1.json",
+    "manifest_pdf_0191_0195_visual_first_v1.json",
+    "manifest_pdf_0196_0200_visual_first_v1.json",
+    "manifest_pdf_0201_0205_visual_first_v1.json",
+    "manifest_pdf_0206_0210_visual_first_v1.json",
+    "manifest_pdf_0281_0285_visual_first_v1.json",
+    "manifest_pdf_0286_0290_visual_first_v1.json",
+    "manifest_pdf_0291_0295_visual_first_v1.json",
+    "manifest_pdf_0296_0300_visual_first_v1.json",
+    "manifest_pdf_0361_0365_visual_first_v1.json",
+    "manifest_pdf_0366_0370_visual_first_v1.json",
+    "manifest_pdf_0371_0375_visual_first_v1.json",
+    "manifest_pdf_0376_0380_visual_first_v1.json",
+    "manifest_pdf_0441_0445_visual_first_v1.json",
+    "manifest_pdf_0446_0450_visual_first_v1.json",
+    "manifest_pdf_0451_0455_visual_first_v1.json",
+    "manifest_pdf_0456_0460_visual_first_v1.json",
+    "manifest_pdf_0521_0525_visual_first_v1.json",
+    "manifest_pdf_0526_0530_visual_first_v1.json",
+    "manifest_pdf_0531_0535_visual_first_v1.json",
+    "manifest_pdf_0536_0540_visual_first_v1.json",
+    "manifest_pdf_0601_0605_visual_first_v1.json",
+    "manifest_pdf_0606_0610_visual_first_v1.json",
+    "manifest_pdf_0611_0615_visual_first_v1.json",
+    "manifest_pdf_0616_0620_visual_first_v1.json",
+    "manifest_pdf_0681_0685_visual_first_v1.json",
+    "manifest_pdf_0686_0690_visual_first_v1.json",
+    "manifest_pdf_0691_0695_visual_first_v1.json",
+    "manifest_pdf_0696_0700_visual_first_v1.json",
+    "manifest_pdf_0781_0785_visual_first_v1.json",
+    "manifest_pdf_0786_0790_visual_first_v1.json",
+    "manifest_pdf_0791_0795_visual_first_v1.json",
+    "manifest_pdf_0796_0800_visual_first_v1.json",
+    "manifest_pdf_0861_0865_visual_first_v1.json",
+    "manifest_pdf_0866_0870_visual_first_v1.json",
+    "manifest_pdf_0871_0875_visual_first_v1.json",
+    "manifest_pdf_0876_0880_visual_first_v1.json",
+    "manifest_pdf_0941_0945_visual_first_v1.json",
+    "manifest_pdf_0946_0950_visual_first_v1.json",
+    "manifest_pdf_0951_0955_visual_first_v1.json",
+    "manifest_pdf_0956_0960_visual_first_v1.json",
+    "manifest_pdf_1021_1025_visual_first_v1.json",
+    "manifest_pdf_1026_1030_visual_first_v1.json",
+    "manifest_pdf_1031_1035_visual_first_v1.json",
+    "manifest_pdf_1036_1040_visual_first_v1.json",
+    "manifest_pdf_1101_1105_visual_first_v1.json",
+    "manifest_pdf_1106_1110_visual_first_v1.json",
+    "manifest_pdf_1111_1115_visual_first_v1.json",
+    "manifest_pdf_1116_1120_visual_first_v1.json"
+  ],
+  "affected_manifest_count": 28,
+  "affected_page_count": 140,
+  "cause": {
+    "scripts": [
+      "scripts/freeze_reader_0011_0040_batch_v1.py",
+      "scripts/freeze_reader_0011_0040_batch_v2.py"
+    ],
+    "line_6": "Loads whole manifest_pdf_0536_0540_visual_first_v1.json as template.",
+    "line_7": "d.update resets entries and range but omits printed_page_reading; field inherits old 536–540 prose.",
+    "per_page_values": "Entries are independently generated from each previously visually read transcript header; all affected entry values match their hash-verified frozen transcript headers.",
+    "future_use": "Do not use unchanged v1/v2 helper for new batches. Replace this field with generated per-entry text in any future new version."
+  },
+  "inference_policy": "Corrected values copied from existing direct-read per-page entries and cross-checked against unchanged body headers; not calculated by offset. No unknown footer populated.",
+  "affected_manifests": [
+    {
+      "manifest": "manifest_pdf_0601_0605_visual_first_v1.json",
+      "frozen_manifest_sha256": "62dfee1c2ad5ab88e63b4e4e0ec7abaa16ca35f1917bee13951e2aa507c32e1f",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF601=567, PDF602=568, PDF603=569, PDF604=570, PDF605=571; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 601,
+          "printed_page_directly_read": 567,
+          "evidence_transcript": "transcripts/pdf_0601_visual_first_v1.md",
+          "transcript_sha256": "993146f5c63373e5df6ded15b0b0ee325d6340d424796970ebf61075c02360b3"
+        },
+        {
+          "pdf_page": 602,
+          "printed_page_directly_read": 568,
+          "evidence_transcript": "transcripts/pdf_0602_visual_first_v1.md",
+          "transcript_sha256": "69adf7170383febdd5b2fc0b2b3bc200cc6831326b03ba7ee01160162e86095f"
+        },
+        {
+          "pdf_page": 603,
+          "printed_page_directly_read": 569,
+          "evidence_transcript": "transcripts/pdf_0603_visual_first_v1.md",
+          "transcript_sha256": "d454f3f9e572c4a502040a98918c15269a9d06dd65c9754cff659ebf9bcc714b"
+        },
+        {
+          "pdf_page": 604,
+          "printed_page_directly_read": 570,
+          "evidence_transcript": "transcripts/pdf_0604_visual_first_v1.md",
+          "transcript_sha256": "65c34dbc962d79d489a477fd2bcfa96d2a79107dc6f7ef339b48c8885a907196"
+        },
+        {
+          "pdf_page": 605,
+          "printed_page_directly_read": 571,
+          "evidence_transcript": "transcripts/pdf_0605_visual_first_v1.md",
+          "transcript_sha256": "367486acbf840bf0f199a1e82bb98aff4f22e45b8ba448e40d0adb0f33590094"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0606_0610_visual_first_v1.json",
+      "frozen_manifest_sha256": "6080120a2043aba062747989671e5c6771cfe952a07d77fddbe30381ad88f45d",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF606=572, PDF607=573, PDF608=574, PDF609=575, PDF610=576; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 606,
+          "printed_page_directly_read": 572,
+          "evidence_transcript": "transcripts/pdf_0606_visual_first_v1.md",
+          "transcript_sha256": "46d9f60610202ff9f507b4e131488b6403bcca1c36a5886842ee51893db0e8bf"
+        },
+        {
+          "pdf_page": 607,
+          "printed_page_directly_read": 573,
+          "evidence_transcript": "transcripts/pdf_0607_visual_first_v1.md",
+          "transcript_sha256": "0f506e5e32150cb732405e6c373d852495de7bacf80ca4cf839f3ae23ccaaaf8"
+        },
+        {
+          "pdf_page": 608,
+          "printed_page_directly_read": 574,
+          "evidence_transcript": "transcripts/pdf_0608_visual_first_v1.md",
+          "transcript_sha256": "b8bb75e32c6a299a904e7884cb11fbc847c6a4f2c4d2d6521684085cee2b4739"
+        },
+        {
+          "pdf_page": 609,
+          "printed_page_directly_read": 575,
+          "evidence_transcript": "transcripts/pdf_0609_visual_first_v1.md",
+          "transcript_sha256": "5e114dfe6c4c07e00bcf1097141a4a1102bc2a438e710ccdd8555510a8f08fb4"
+        },
+        {
+          "pdf_page": 610,
+          "printed_page_directly_read": 576,
+          "evidence_transcript": "transcripts/pdf_0610_visual_first_v1.md",
+          "transcript_sha256": "7cc521844acf7631afdebe4ca2438257aad5561ba608e683d1949c0778e81cde"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0611_0615_visual_first_v1.json",
+      "frozen_manifest_sha256": "dc5c36df8c2516a5ddec497ff1cddcf89aa8d992ed7fb4a5b0be91522a1832a9",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF611=577, PDF612=578, PDF613=579, PDF614=580, PDF615=581; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 611,
+          "printed_page_directly_read": 577,
+          "evidence_transcript": "transcripts/pdf_0611_visual_first_v1.md",
+          "transcript_sha256": "0b970cc58738f1019881d946490e1dd027fe76a57136e9a85e0ae8c82d0f60de"
+        },
+        {
+          "pdf_page": 612,
+          "printed_page_directly_read": 578,
+          "evidence_transcript": "transcripts/pdf_0612_visual_first_v1.md",
+          "transcript_sha256": "a78aa1f998d33cf3399d32a418a80bd845d868a11a1cc06130f5d12968b76ea5"
+        },
+        {
+          "pdf_page": 613,
+          "printed_page_directly_read": 579,
+          "evidence_transcript": "transcripts/pdf_0613_visual_first_v1.md",
+          "transcript_sha256": "d59e96181e8e118188e08abfd2d6b5c4ead9d35e6cbf2dfc783e60d1ac78619e"
+        },
+        {
+          "pdf_page": 614,
+          "printed_page_directly_read": 580,
+          "evidence_transcript": "transcripts/pdf_0614_visual_first_v1.md",
+          "transcript_sha256": "f8f92eb3df56ea7f1c0006c11b0e88a16bd765c334895852980ce49237a6a96f"
+        },
+        {
+          "pdf_page": 615,
+          "printed_page_directly_read": 581,
+          "evidence_transcript": "transcripts/pdf_0615_visual_first_v1.md",
+          "transcript_sha256": "5475c48fc22b10e00c5d9951853dbbd907b43202fe823ecea91086a378f0fe5d"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0616_0620_visual_first_v1.json",
+      "frozen_manifest_sha256": "efca22630d55b399d34c25025edbbfa8577d9e7bbba1ba96fd8bdbcba4051150",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF616=582, PDF617=583, PDF618=584, PDF619=585, PDF620=586; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 616,
+          "printed_page_directly_read": 582,
+          "evidence_transcript": "transcripts/pdf_0616_visual_first_v1.md",
+          "transcript_sha256": "162a62bf2077ee8285cdf4efbaaae8bcea3da5c564706e47700030c9ed0f5f21"
+        },
+        {
+          "pdf_page": 617,
+          "printed_page_directly_read": 583,
+          "evidence_transcript": "transcripts/pdf_0617_visual_first_v1.md",
+          "transcript_sha256": "f684787e09ed37b15d6ae8ff88b3c84fd17a2517cf19f1f6c14cf534c5258f06"
+        },
+        {
+          "pdf_page": 618,
+          "printed_page_directly_read": 584,
+          "evidence_transcript": "transcripts/pdf_0618_visual_first_v1.md",
+          "transcript_sha256": "5061691c87d38e3e38ab33fe3996f23ef1d51c686a9864ac45f181f1566d0af4"
+        },
+        {
+          "pdf_page": 619,
+          "printed_page_directly_read": 585,
+          "evidence_transcript": "transcripts/pdf_0619_visual_first_v1.md",
+          "transcript_sha256": "5dd3c9c632bc76d137465b69b7f6c88a967e268bd057e2ebc61bc7eeba5187d8"
+        },
+        {
+          "pdf_page": 620,
+          "printed_page_directly_read": 586,
+          "evidence_transcript": "transcripts/pdf_0620_visual_first_v1.md",
+          "transcript_sha256": "7827904a49ff50e675bdbb7c3776c8433989f91e7db8b601ec84dd7be2b61f4e"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0681_0685_visual_first_v1.json",
+      "frozen_manifest_sha256": "d47dd237caad7213732186026e762267646df31ac3c75f49b5d72bedfec7e289",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF681=647, PDF682=648, PDF683=649, PDF684=650, PDF685=651; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 681,
+          "printed_page_directly_read": 647,
+          "evidence_transcript": "transcripts/pdf_0681_visual_first_v1.md",
+          "transcript_sha256": "11d25f0671d60c7877dfbfb89e65e5c57c6c0230ac4982cbc5fb43e82f298278"
+        },
+        {
+          "pdf_page": 682,
+          "printed_page_directly_read": 648,
+          "evidence_transcript": "transcripts/pdf_0682_visual_first_v1.md",
+          "transcript_sha256": "4e9b0af5f5e0303070ed95fa0f75abe6efb7da5c4b7d9ffed583079033eb4405"
+        },
+        {
+          "pdf_page": 683,
+          "printed_page_directly_read": 649,
+          "evidence_transcript": "transcripts/pdf_0683_visual_first_v1.md",
+          "transcript_sha256": "be46f70dffce87c9e2a510a59231e7c39e50a3033ac2c4334027f3250b8d4972"
+        },
+        {
+          "pdf_page": 684,
+          "printed_page_directly_read": 650,
+          "evidence_transcript": "transcripts/pdf_0684_visual_first_v1.md",
+          "transcript_sha256": "7dba3df4264917cf5573359275126ed5648d7dbda1093ab889abd9cdc2747fe2"
+        },
+        {
+          "pdf_page": 685,
+          "printed_page_directly_read": 651,
+          "evidence_transcript": "transcripts/pdf_0685_visual_first_v1.md",
+          "transcript_sha256": "d8bc5f31dd8d300543e294586d8dd6d4f2ac5c367b7c72cd7d9a4401822b4dc3"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0686_0690_visual_first_v1.json",
+      "frozen_manifest_sha256": "5fbf5270500b486368b4c3bebb1202c8c2b923de38f31a36b312739d4e60dbe3",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF686=652, PDF687=653, PDF688=654, PDF689=655, PDF690=656; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 686,
+          "printed_page_directly_read": 652,
+          "evidence_transcript": "transcripts/pdf_0686_visual_first_v1.md",
+          "transcript_sha256": "e3aef10ffb7c98e48c84ade7b2e5591e1ee00c9f962b7c48d60918b88974c494"
+        },
+        {
+          "pdf_page": 687,
+          "printed_page_directly_read": 653,
+          "evidence_transcript": "transcripts/pdf_0687_visual_first_v1.md",
+          "transcript_sha256": "7ca074b45111d58476acbf1ce637ecc2e8af14e6d5754ab0e3a3b3075f5365f8"
+        },
+        {
+          "pdf_page": 688,
+          "printed_page_directly_read": 654,
+          "evidence_transcript": "transcripts/pdf_0688_visual_first_v1.md",
+          "transcript_sha256": "3c99321bd54c242a0513dc955c42d3a55cafc182638d53636724f20b94525d67"
+        },
+        {
+          "pdf_page": 689,
+          "printed_page_directly_read": 655,
+          "evidence_transcript": "transcripts/pdf_0689_visual_first_v1.md",
+          "transcript_sha256": "f3e98792e7098fbb1e19a3ed34711d4b6c00d714f512b0d827b403a29cc21bee"
+        },
+        {
+          "pdf_page": 690,
+          "printed_page_directly_read": 656,
+          "evidence_transcript": "transcripts/pdf_0690_visual_first_v1.md",
+          "transcript_sha256": "15d38d0e3155b69973123c4a628d6f323f9fada5204ae6444fa1ead1e4dcc67e"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0691_0695_visual_first_v1.json",
+      "frozen_manifest_sha256": "b4c443eac47b25a8332cd3fc027199ab0945a6c77e42eab4ec1ecb663cce0738",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF691=657, PDF692=658, PDF693=659, PDF694=660, PDF695=661; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 691,
+          "printed_page_directly_read": 657,
+          "evidence_transcript": "transcripts/pdf_0691_visual_first_v1.md",
+          "transcript_sha256": "f42b5fdf7129ea484aad865d78fd2a4a5a4c22bea370d16f3f39d4ba535dc19d"
+        },
+        {
+          "pdf_page": 692,
+          "printed_page_directly_read": 658,
+          "evidence_transcript": "transcripts/pdf_0692_visual_first_v1.md",
+          "transcript_sha256": "29c28f8c477721ed9006a343956f69d3dd91c0dcb3c0928780f24c2c58267942"
+        },
+        {
+          "pdf_page": 693,
+          "printed_page_directly_read": 659,
+          "evidence_transcript": "transcripts/pdf_0693_visual_first_v1.md",
+          "transcript_sha256": "686cb397ccc2e9de52c7cc30f7054a4e219c3edfee5aa98ec584e8ff3309bab9"
+        },
+        {
+          "pdf_page": 694,
+          "printed_page_directly_read": 660,
+          "evidence_transcript": "transcripts/pdf_0694_visual_first_v1.md",
+          "transcript_sha256": "c70a64da9f99a643ae5e75f4c6a3b4f1c5f2dcac74d27928885233d20d315d00"
+        },
+        {
+          "pdf_page": 695,
+          "printed_page_directly_read": 661,
+          "evidence_transcript": "transcripts/pdf_0695_visual_first_v1.md",
+          "transcript_sha256": "e29c825bd5c979cbefbd7c2f061160ffd3a4cdb6983b8ae052fcba42466ac303"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0696_0700_visual_first_v1.json",
+      "frozen_manifest_sha256": "ea7583ccb9a3054ee36c3edc92cbf4e80b198da7439fb91fcfb2989aa0193f2f",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF696=662, PDF697=663, PDF698=664, PDF699=665, PDF700=666; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 696,
+          "printed_page_directly_read": 662,
+          "evidence_transcript": "transcripts/pdf_0696_visual_first_v1.md",
+          "transcript_sha256": "b93b6e56cdc8789dd7256ce8f42b27f0d12d8e32c91c71fd8a86961553a67f8a"
+        },
+        {
+          "pdf_page": 697,
+          "printed_page_directly_read": 663,
+          "evidence_transcript": "transcripts/pdf_0697_visual_first_v1.md",
+          "transcript_sha256": "9f12d354ba9ae6e89e5aee4fcbeec2ec2b62a110589316d172e5dc707e34a71f"
+        },
+        {
+          "pdf_page": 698,
+          "printed_page_directly_read": 664,
+          "evidence_transcript": "transcripts/pdf_0698_visual_first_v1.md",
+          "transcript_sha256": "123cb34d0b424adf42e6b795ebd107fe361a40971f7f88fc3739fb1839ce69d2"
+        },
+        {
+          "pdf_page": 699,
+          "printed_page_directly_read": 665,
+          "evidence_transcript": "transcripts/pdf_0699_visual_first_v1.md",
+          "transcript_sha256": "24a32f7d2cb7b6642c6d5c921afcc414bbd958bf34642ed3c2561944c21b809a"
+        },
+        {
+          "pdf_page": 700,
+          "printed_page_directly_read": 666,
+          "evidence_transcript": "transcripts/pdf_0700_visual_first_v1.md",
+          "transcript_sha256": "3e561c1543464d71ef3ec6dbc7adc915ae41e8cc13c76795512741903fe99d42"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0781_0785_visual_first_v1.json",
+      "frozen_manifest_sha256": "f12023901a628eb4ff27fbbf70672e2c2db91634c43df93a052e0205207e46b4",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF781=743, PDF782=744, PDF783=745, PDF784=746, PDF785=747; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 781,
+          "printed_page_directly_read": 743,
+          "evidence_transcript": "transcripts/pdf_0781_visual_first_v1.md",
+          "transcript_sha256": "acf3937bd869622d0716da762e7ab66055a4a938ca0cd85e4fa6583379d7e565"
+        },
+        {
+          "pdf_page": 782,
+          "printed_page_directly_read": 744,
+          "evidence_transcript": "transcripts/pdf_0782_visual_first_v1.md",
+          "transcript_sha256": "362588de06b85907b413c61e0e60b1f4a8352297ea978a75dbacf510c746441e"
+        },
+        {
+          "pdf_page": 783,
+          "printed_page_directly_read": 745,
+          "evidence_transcript": "transcripts/pdf_0783_visual_first_v1.md",
+          "transcript_sha256": "088461cc541b215e3ad225c0a6ee19fda3e12f1e1b6ce255ec8976fe91886c76"
+        },
+        {
+          "pdf_page": 784,
+          "printed_page_directly_read": 746,
+          "evidence_transcript": "transcripts/pdf_0784_visual_first_v1.md",
+          "transcript_sha256": "707e3a95744e08a425e4cecb6fea376019ca70ee3470a682ddb189eadf8f3516"
+        },
+        {
+          "pdf_page": 785,
+          "printed_page_directly_read": 747,
+          "evidence_transcript": "transcripts/pdf_0785_visual_first_v1.md",
+          "transcript_sha256": "a8317413b496d888b2f0e08e81d47585bd09c64e611c12b1eb630f4fa38ae177"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0786_0790_visual_first_v1.json",
+      "frozen_manifest_sha256": "982213b2d1e9f36fdf4822d14c90ec4e14e18aea0971ec445350cd5b9fd260e2",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF786=748, PDF787=749, PDF788=750, PDF789=751, PDF790=752; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 786,
+          "printed_page_directly_read": 748,
+          "evidence_transcript": "transcripts/pdf_0786_visual_first_v1.md",
+          "transcript_sha256": "dcaaff91fbfb2937d299f1510b9ded150f4f290e7579f823911e5a0a7a8a18fa"
+        },
+        {
+          "pdf_page": 787,
+          "printed_page_directly_read": 749,
+          "evidence_transcript": "transcripts/pdf_0787_visual_first_v1.md",
+          "transcript_sha256": "83718d63f1e406543ec2654dc8260bb5749dc5cad3005474577dc7a170fc6831"
+        },
+        {
+          "pdf_page": 788,
+          "printed_page_directly_read": 750,
+          "evidence_transcript": "transcripts/pdf_0788_visual_first_v1.md",
+          "transcript_sha256": "92e4e8eda39b6bbd93fe978ee9d3f9881574d6f0e3ff7ae2a4782635565a677f"
+        },
+        {
+          "pdf_page": 789,
+          "printed_page_directly_read": 751,
+          "evidence_transcript": "transcripts/pdf_0789_visual_first_v1.md",
+          "transcript_sha256": "850b1839b1834622ac02bae06a97923643937e3174d9d894aad1958dbe16f44f"
+        },
+        {
+          "pdf_page": 790,
+          "printed_page_directly_read": 752,
+          "evidence_transcript": "transcripts/pdf_0790_visual_first_v1.md",
+          "transcript_sha256": "6567129cbec4da90e7bbda83680a6decc76b462b8eba829cd1ed88b8f36a01c3"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0791_0795_visual_first_v1.json",
+      "frozen_manifest_sha256": "07483ca2f8bdb17e96b5f6cdc4e6b8f294423c47861a9577bbaf5bd4b68b82df",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF791=753, PDF792=754, PDF793=755, PDF794=756, PDF795=757; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 791,
+          "printed_page_directly_read": 753,
+          "evidence_transcript": "transcripts/pdf_0791_visual_first_v1.md",
+          "transcript_sha256": "16e52856c15de3ae3c6113a1792336f549c7076ab416a11bd2320c97ef02bb2a"
+        },
+        {
+          "pdf_page": 792,
+          "printed_page_directly_read": 754,
+          "evidence_transcript": "transcripts/pdf_0792_visual_first_v1.md",
+          "transcript_sha256": "bf6e4faac0a3037d55936e4a94d6578f619adfcfea58a2b472c28843f05b1ab7"
+        },
+        {
+          "pdf_page": 793,
+          "printed_page_directly_read": 755,
+          "evidence_transcript": "transcripts/pdf_0793_visual_first_v1.md",
+          "transcript_sha256": "6a7f87bf401dc4654c19efd6fcd6ff869d686b7c68a96c1035bb955da77c2cbb"
+        },
+        {
+          "pdf_page": 794,
+          "printed_page_directly_read": 756,
+          "evidence_transcript": "transcripts/pdf_0794_visual_first_v1.md",
+          "transcript_sha256": "d0a727f2907a0d7b446f49d71238e7b0ec0f1d5d63f39edb6b78ac75e457aec4"
+        },
+        {
+          "pdf_page": 795,
+          "printed_page_directly_read": 757,
+          "evidence_transcript": "transcripts/pdf_0795_visual_first_v1.md",
+          "transcript_sha256": "8ea23765fec7e502f2e3336921742b28ced819ab85a229db0dba10cefd521f3d"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0796_0800_visual_first_v1.json",
+      "frozen_manifest_sha256": "65616e9593ab28237bfe961e4e6ee546e359e3855b0adae6428644dbe104484f",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF796=758, PDF797=759, PDF798=760, PDF799=761, PDF800=762; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 796,
+          "printed_page_directly_read": 758,
+          "evidence_transcript": "transcripts/pdf_0796_visual_first_v1.md",
+          "transcript_sha256": "23ce18c9f65df2f8d3a81ed5a6ac09678c76717527b184572b4805964d985227"
+        },
+        {
+          "pdf_page": 797,
+          "printed_page_directly_read": 759,
+          "evidence_transcript": "transcripts/pdf_0797_visual_first_v1.md",
+          "transcript_sha256": "b2d4abdf1bb7b975880ea66231c2ad1b4fe8593f305d91f4551ae087f3cb5ccd"
+        },
+        {
+          "pdf_page": 798,
+          "printed_page_directly_read": 760,
+          "evidence_transcript": "transcripts/pdf_0798_visual_first_v1.md",
+          "transcript_sha256": "14de836856e088b1ba77143da04c7441e633d0e608ebfca4109cb2a50c0f3ac8"
+        },
+        {
+          "pdf_page": 799,
+          "printed_page_directly_read": 761,
+          "evidence_transcript": "transcripts/pdf_0799_visual_first_v1.md",
+          "transcript_sha256": "258a28b00a3c076d508811469bc271996b2574bc34ab8d439cdc482b2f1e5271"
+        },
+        {
+          "pdf_page": 800,
+          "printed_page_directly_read": 762,
+          "evidence_transcript": "transcripts/pdf_0800_visual_first_v1.md",
+          "transcript_sha256": "d48c78fe89339dc3a57d426a45837ee952e7f69d8a22c7a271b59b9fba08bbaf"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0861_0865_visual_first_v1.json",
+      "frozen_manifest_sha256": "cde5117c748dcc84296ec455549dc72e8b69a3f7d760ec7c2d8499435d192f65",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF861=823, PDF862=824, PDF863=825, PDF864=826, PDF865=827; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 861,
+          "printed_page_directly_read": 823,
+          "evidence_transcript": "transcripts/pdf_0861_visual_first_v1.md",
+          "transcript_sha256": "67a38cb1eb7c46697868be71fa27e6b0156434970d44cc9e391c00e867d87616"
+        },
+        {
+          "pdf_page": 862,
+          "printed_page_directly_read": 824,
+          "evidence_transcript": "transcripts/pdf_0862_visual_first_v1.md",
+          "transcript_sha256": "7486958c2c015c10352bc21a219bc82d7c7a27fdc4bed2e0cd3234a22e9e5314"
+        },
+        {
+          "pdf_page": 863,
+          "printed_page_directly_read": 825,
+          "evidence_transcript": "transcripts/pdf_0863_visual_first_v1.md",
+          "transcript_sha256": "6505537d677a82cd6604efff69783bf3f7c034f6db47ce571078066e6d773041"
+        },
+        {
+          "pdf_page": 864,
+          "printed_page_directly_read": 826,
+          "evidence_transcript": "transcripts/pdf_0864_visual_first_v1.md",
+          "transcript_sha256": "50b192b085a1b7f1f01c0615a3b3454a9e88fd456ac3c32be3954c916978a355"
+        },
+        {
+          "pdf_page": 865,
+          "printed_page_directly_read": 827,
+          "evidence_transcript": "transcripts/pdf_0865_visual_first_v1.md",
+          "transcript_sha256": "9de83ed2e16c7f9a1ba12a4c947ce8817cf36e7b600b85a0f5583f46cb2c049c"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0866_0870_visual_first_v1.json",
+      "frozen_manifest_sha256": "2afd062a86d8af1a5be9bcaf9fe57d6819eb7f43b05429cfb5d4f83d78bcca1a",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF866=828, PDF867=829, PDF868=830, PDF869=831, PDF870=832; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 866,
+          "printed_page_directly_read": 828,
+          "evidence_transcript": "transcripts/pdf_0866_visual_first_v1.md",
+          "transcript_sha256": "1bd77f6549a1cb9cb02c4dae73508a54cb05300aaf426c512206d7cfa57f45b2"
+        },
+        {
+          "pdf_page": 867,
+          "printed_page_directly_read": 829,
+          "evidence_transcript": "transcripts/pdf_0867_visual_first_v1.md",
+          "transcript_sha256": "4725637a1d186551039fbb36c771f361a4ff33cf4b07f4c3a507b5924bc63ad2"
+        },
+        {
+          "pdf_page": 868,
+          "printed_page_directly_read": 830,
+          "evidence_transcript": "transcripts/pdf_0868_visual_first_v1.md",
+          "transcript_sha256": "13f79819f11986188284f85becea15788e930cd4e066bef8f6769dbb948654eb"
+        },
+        {
+          "pdf_page": 869,
+          "printed_page_directly_read": 831,
+          "evidence_transcript": "transcripts/pdf_0869_visual_first_v1.md",
+          "transcript_sha256": "91173eb632d20a4279027ad0b0765a6651ce02815d587744f58790b8b65f0463"
+        },
+        {
+          "pdf_page": 870,
+          "printed_page_directly_read": 832,
+          "evidence_transcript": "transcripts/pdf_0870_visual_first_v1.md",
+          "transcript_sha256": "3cfdcb4ad1fc0cd8075a0502f22078ed0069d175d9cfac2390fef48a5cc18704"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0871_0875_visual_first_v1.json",
+      "frozen_manifest_sha256": "8bfd0023ebd0fa861a527796475ac15f132bd0415c775ddb377d96a9fec6efc7",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF871=833, PDF872=834, PDF873=835, PDF874=836, PDF875=837; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 871,
+          "printed_page_directly_read": 833,
+          "evidence_transcript": "transcripts/pdf_0871_visual_first_v1.md",
+          "transcript_sha256": "2d9162e91035317a1f62306f9788809546fdc73dd9bb5e2aaf16c8323f9dd330"
+        },
+        {
+          "pdf_page": 872,
+          "printed_page_directly_read": 834,
+          "evidence_transcript": "transcripts/pdf_0872_visual_first_v1.md",
+          "transcript_sha256": "fb4d83f720920c1054bd5dc856193756782956f4f430f9d7c58e7795fd2cd8aa"
+        },
+        {
+          "pdf_page": 873,
+          "printed_page_directly_read": 835,
+          "evidence_transcript": "transcripts/pdf_0873_visual_first_v1.md",
+          "transcript_sha256": "c124c2aafeb69ccef72b53c4a36cdd7dc644b8caa7af4f67796c71b633943524"
+        },
+        {
+          "pdf_page": 874,
+          "printed_page_directly_read": 836,
+          "evidence_transcript": "transcripts/pdf_0874_visual_first_v1.md",
+          "transcript_sha256": "4b30be213675e63cfe92d5d17ac6e24731f91e67a0f092eb692ac4da1e6dae88"
+        },
+        {
+          "pdf_page": 875,
+          "printed_page_directly_read": 837,
+          "evidence_transcript": "transcripts/pdf_0875_visual_first_v1.md",
+          "transcript_sha256": "19a53c59051bd03f7d1c467c4d13812555b2ded742942dbb1fe27270d5c6dddb"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0876_0880_visual_first_v1.json",
+      "frozen_manifest_sha256": "148c41e1c90ccc89a6b10aa593ca61c961f625f5d65d03dfd08f67af185d44b9",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF876=838, PDF877=839, PDF878=840, PDF879=841, PDF880=842; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 876,
+          "printed_page_directly_read": 838,
+          "evidence_transcript": "transcripts/pdf_0876_visual_first_v1.md",
+          "transcript_sha256": "af5edc90a9d4d58440dec5c9ed1367052deeaabcc00655ae9017e3f410d03f62"
+        },
+        {
+          "pdf_page": 877,
+          "printed_page_directly_read": 839,
+          "evidence_transcript": "transcripts/pdf_0877_visual_first_v1.md",
+          "transcript_sha256": "5c78339ba43884c19410ebf1a0f6e7bb82ad70d5699246199ee8f2711180479d"
+        },
+        {
+          "pdf_page": 878,
+          "printed_page_directly_read": 840,
+          "evidence_transcript": "transcripts/pdf_0878_visual_first_v1.md",
+          "transcript_sha256": "8cff7e8e053d410aef8e93a92f70946c4020a592f8d5db9db8f7eca92fd765c1"
+        },
+        {
+          "pdf_page": 879,
+          "printed_page_directly_read": 841,
+          "evidence_transcript": "transcripts/pdf_0879_visual_first_v1.md",
+          "transcript_sha256": "2c653dfcf1b279a4227e1b9c014f4ee4b748c28513140c62039f52b7254c67c0"
+        },
+        {
+          "pdf_page": 880,
+          "printed_page_directly_read": 842,
+          "evidence_transcript": "transcripts/pdf_0880_visual_first_v1.md",
+          "transcript_sha256": "491e1dd7472e12333cf501e733b33768a7307b54905f6f161dc56b317f79fefe"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0941_0945_visual_first_v1.json",
+      "frozen_manifest_sha256": "d4a9b9df1d9aa0b48be53b3da640896c826f8a489ea11a0ce8ad9c69bc9b17df",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF941=903, PDF942=904, PDF943=905, PDF944=906, PDF945=907; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 941,
+          "printed_page_directly_read": 903,
+          "evidence_transcript": "transcripts/pdf_0941_visual_first_v1.md",
+          "transcript_sha256": "0b310f77f98f1cad0d529147e3a1df242332c8946039379c3e6e0fded75a218e"
+        },
+        {
+          "pdf_page": 942,
+          "printed_page_directly_read": 904,
+          "evidence_transcript": "transcripts/pdf_0942_visual_first_v1.md",
+          "transcript_sha256": "c2d266348791f560e2f3c4700d2878771be68c13b08344b8e649302d8261e4a4"
+        },
+        {
+          "pdf_page": 943,
+          "printed_page_directly_read": 905,
+          "evidence_transcript": "transcripts/pdf_0943_visual_first_v1.md",
+          "transcript_sha256": "2af2cd49c7d4ff38e788a67c943bceb7d7e13beb322c5d800cab0ea3e8ea216e"
+        },
+        {
+          "pdf_page": 944,
+          "printed_page_directly_read": 906,
+          "evidence_transcript": "transcripts/pdf_0944_visual_first_v1.md",
+          "transcript_sha256": "f6777b596623aaaccc4a9548ec8ceabcb7223db8b50704f5774b93e2dcd9e0ae"
+        },
+        {
+          "pdf_page": 945,
+          "printed_page_directly_read": 907,
+          "evidence_transcript": "transcripts/pdf_0945_visual_first_v1.md",
+          "transcript_sha256": "143bec7d753e2ab9ca8ba5fae04ec056e5a995bcd2777d27686951149ed4496d"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0946_0950_visual_first_v1.json",
+      "frozen_manifest_sha256": "1b6087e1fd945c6aca0766c714551176c01537eccee8c0fc25a6c81fae94dfb6",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF946=908, PDF947=909, PDF948=910, PDF949=911, PDF950=912; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 946,
+          "printed_page_directly_read": 908,
+          "evidence_transcript": "transcripts/pdf_0946_visual_first_v1.md",
+          "transcript_sha256": "da38ab8f6ea7433411934ab8685e4af14ddad0fc2c616e8d5337a73bca36417e"
+        },
+        {
+          "pdf_page": 947,
+          "printed_page_directly_read": 909,
+          "evidence_transcript": "transcripts/pdf_0947_visual_first_v1.md",
+          "transcript_sha256": "17c7bb0e01a3fe2a630cee59ad92b7b693f0eebf896fb9f68e40f2a8b88ade74"
+        },
+        {
+          "pdf_page": 948,
+          "printed_page_directly_read": 910,
+          "evidence_transcript": "transcripts/pdf_0948_visual_first_v1.md",
+          "transcript_sha256": "173c985f91366559782476087d1077b7f39db02ad66bc9b1d809a1346b59588e"
+        },
+        {
+          "pdf_page": 949,
+          "printed_page_directly_read": 911,
+          "evidence_transcript": "transcripts/pdf_0949_visual_first_v1.md",
+          "transcript_sha256": "298689cb0cf935cf576c6b6b11033411baff684fd120d57d61f3d1be7b603f75"
+        },
+        {
+          "pdf_page": 950,
+          "printed_page_directly_read": 912,
+          "evidence_transcript": "transcripts/pdf_0950_visual_first_v1.md",
+          "transcript_sha256": "080f1c2a2ca5c86fe370011eab3cc5e22a352a5d4b30a2e070684ef4a51ed7b1"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0951_0955_visual_first_v1.json",
+      "frozen_manifest_sha256": "65ed1758cb35798cae59a137722d5a58800fbecfd88922dd0194f6055f0935ee",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF951=913, PDF952=914, PDF953=915, PDF954=916, PDF955=917; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 951,
+          "printed_page_directly_read": 913,
+          "evidence_transcript": "transcripts/pdf_0951_visual_first_v1.md",
+          "transcript_sha256": "a34fa168f9cf0df96e0465bd2cd725fbea2e30cf0c0b9fce1faca341c53d9dec"
+        },
+        {
+          "pdf_page": 952,
+          "printed_page_directly_read": 914,
+          "evidence_transcript": "transcripts/pdf_0952_visual_first_v1.md",
+          "transcript_sha256": "e359de0a23c2b41f2918534267fb499bee3e66bcb29d4a877b34bf5b7c8eed0b"
+        },
+        {
+          "pdf_page": 953,
+          "printed_page_directly_read": 915,
+          "evidence_transcript": "transcripts/pdf_0953_visual_first_v1.md",
+          "transcript_sha256": "5933aa126a1526bdf97cc33d817a430dd3d527db5ecff70a996505ccef17908e"
+        },
+        {
+          "pdf_page": 954,
+          "printed_page_directly_read": 916,
+          "evidence_transcript": "transcripts/pdf_0954_visual_first_v1.md",
+          "transcript_sha256": "2a217e67aa2b8d757dfab3b57b0455951d8d26bfe7e6ca229bea6ca3ad4608e6"
+        },
+        {
+          "pdf_page": 955,
+          "printed_page_directly_read": 917,
+          "evidence_transcript": "transcripts/pdf_0955_visual_first_v1.md",
+          "transcript_sha256": "f5fee46045a5dfe9be93ec13d12260112653aa3ceebc00ba10ccfdfa18a07c8c"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_0956_0960_visual_first_v1.json",
+      "frozen_manifest_sha256": "25700cee3dd0699182a7e4ee64072ac509df985da2e31a7e916e7a75bb96ba7c",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF956=918, PDF957=919, PDF958=920, PDF959=921, PDF960=922; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 956,
+          "printed_page_directly_read": 918,
+          "evidence_transcript": "transcripts/pdf_0956_visual_first_v1.md",
+          "transcript_sha256": "eb2916fb59eeaafcd1c1ce1db2d36cf940c6da6b2552852daacab130fa743d2a"
+        },
+        {
+          "pdf_page": 957,
+          "printed_page_directly_read": 919,
+          "evidence_transcript": "transcripts/pdf_0957_visual_first_v1.md",
+          "transcript_sha256": "a2742c8b9319fc55ce20c09225a1855b27f8baf111a9ce6033258d0a54117cf0"
+        },
+        {
+          "pdf_page": 958,
+          "printed_page_directly_read": 920,
+          "evidence_transcript": "transcripts/pdf_0958_visual_first_v1.md",
+          "transcript_sha256": "2d0cb1cea7040c2c61efffa8c2c0bc0210ed76f30aeac9ec679b5b8a55bc740e"
+        },
+        {
+          "pdf_page": 959,
+          "printed_page_directly_read": 921,
+          "evidence_transcript": "transcripts/pdf_0959_visual_first_v1.md",
+          "transcript_sha256": "20d2deb3dee8dc2808e810d10f1cd12766b763109a8b774b57bc2649d52d4ebe"
+        },
+        {
+          "pdf_page": 960,
+          "printed_page_directly_read": 922,
+          "evidence_transcript": "transcripts/pdf_0960_visual_first_v1.md",
+          "transcript_sha256": "db8a38eff433802a19f1154a266714f77b3cca8afc26409de946bbc5f748088c"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_1021_1025_visual_first_v1.json",
+      "frozen_manifest_sha256": "350b97017604c571bc14d94786fb9473af2d3e5277a469f985410727875049b0",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF1021=983, PDF1022=984, PDF1023=985, PDF1024=986, PDF1025=987; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 1021,
+          "printed_page_directly_read": 983,
+          "evidence_transcript": "transcripts/pdf_1021_visual_first_v1.md",
+          "transcript_sha256": "95c4995938a76afefd2962ad2be677d00e1f29de1f8c24e50e38c1868409f16f"
+        },
+        {
+          "pdf_page": 1022,
+          "printed_page_directly_read": 984,
+          "evidence_transcript": "transcripts/pdf_1022_visual_first_v1.md",
+          "transcript_sha256": "2ee9e31d5f8529b707539459982cb582ac163851a8a52c7e31a758944334af05"
+        },
+        {
+          "pdf_page": 1023,
+          "printed_page_directly_read": 985,
+          "evidence_transcript": "transcripts/pdf_1023_visual_first_v1.md",
+          "transcript_sha256": "bff78f4cfde8dc2d80f474a839fe42f3ce68fb292220172e0d86124cf803dc91"
+        },
+        {
+          "pdf_page": 1024,
+          "printed_page_directly_read": 986,
+          "evidence_transcript": "transcripts/pdf_1024_visual_first_v1.md",
+          "transcript_sha256": "96fd7ecd559338e10f1afe562d3d91c2e74bc2d7efb074e28d4308946d8f36e3"
+        },
+        {
+          "pdf_page": 1025,
+          "printed_page_directly_read": 987,
+          "evidence_transcript": "transcripts/pdf_1025_visual_first_v1.md",
+          "transcript_sha256": "398624946184e7b690731607d8ad5bbd643cc60d85009d416ade4d383127392a"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_1026_1030_visual_first_v1.json",
+      "frozen_manifest_sha256": "fdfe90d05f7e0ade3b07f9884213d7bab2886315c55cf9694de3b2dfce123bd6",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF1026=988, PDF1027=989, PDF1028=990, PDF1029=991, PDF1030=992; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 1026,
+          "printed_page_directly_read": 988,
+          "evidence_transcript": "transcripts/pdf_1026_visual_first_v1.md",
+          "transcript_sha256": "14e984fb1af07fe4a8e0dc5e109b46a45073d0bc357d03fcceb1a433ead9d85c"
+        },
+        {
+          "pdf_page": 1027,
+          "printed_page_directly_read": 989,
+          "evidence_transcript": "transcripts/pdf_1027_visual_first_v1.md",
+          "transcript_sha256": "712a7234ac6c398d6e51d46249d8bdc9894c09e39ede4ced2dcc871072587c38"
+        },
+        {
+          "pdf_page": 1028,
+          "printed_page_directly_read": 990,
+          "evidence_transcript": "transcripts/pdf_1028_visual_first_v1.md",
+          "transcript_sha256": "adde2649d0d4244d3f6e3b7df9b48a3c4aa69ac266bc5c802f42ff35407b93c4"
+        },
+        {
+          "pdf_page": 1029,
+          "printed_page_directly_read": 991,
+          "evidence_transcript": "transcripts/pdf_1029_visual_first_v1.md",
+          "transcript_sha256": "fbdc5200e15518f5a02c290793e0d0436401c66b32119b72cf1f4653d54955dd"
+        },
+        {
+          "pdf_page": 1030,
+          "printed_page_directly_read": 992,
+          "evidence_transcript": "transcripts/pdf_1030_visual_first_v1.md",
+          "transcript_sha256": "dd54f89aaa6a6eb1b4fc96a29dfa44cf589c9154fc9531428c37e16225024492"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_1031_1035_visual_first_v1.json",
+      "frozen_manifest_sha256": "bd5cd8b1060f47f68517e330144f0b0fdc4195e5a28014d0c4f6554ef44e81ae",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF1031=993, PDF1032=994, PDF1033=995, PDF1034=996, PDF1035=997; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 1031,
+          "printed_page_directly_read": 993,
+          "evidence_transcript": "transcripts/pdf_1031_visual_first_v1.md",
+          "transcript_sha256": "79637975c0ed262dc585a2365bd4ba6069a5e4542c40f09becbe648b6b06e024"
+        },
+        {
+          "pdf_page": 1032,
+          "printed_page_directly_read": 994,
+          "evidence_transcript": "transcripts/pdf_1032_visual_first_v1.md",
+          "transcript_sha256": "3163378da0321447b566bdbd53a910dc7c87c43e1a3137ffbbcd54e025364d60"
+        },
+        {
+          "pdf_page": 1033,
+          "printed_page_directly_read": 995,
+          "evidence_transcript": "transcripts/pdf_1033_visual_first_v1.md",
+          "transcript_sha256": "bdd85f564ac5498b44d2520d009c5a8aec72c76f5ab994a466dff3fa1d0d7443"
+        },
+        {
+          "pdf_page": 1034,
+          "printed_page_directly_read": 996,
+          "evidence_transcript": "transcripts/pdf_1034_visual_first_v1.md",
+          "transcript_sha256": "51fb4f81e20bcd60d0d246aa5667f47b6707518d9483a98151414caae01a0d9c"
+        },
+        {
+          "pdf_page": 1035,
+          "printed_page_directly_read": 997,
+          "evidence_transcript": "transcripts/pdf_1035_visual_first_v1.md",
+          "transcript_sha256": "d139c71e4a79fb39c2b695a595aadc1f1b2e5005ea07dab218f28721c54f52ba"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_1036_1040_visual_first_v1.json",
+      "frozen_manifest_sha256": "ed4291efc15a46b2a7e57e3a801b8060eb0d97f9f3b33d2bcf0397d838d4fab8",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF1036=998, PDF1037=999, PDF1038=1000, PDF1039=1001, PDF1040=1002; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 1036,
+          "printed_page_directly_read": 998,
+          "evidence_transcript": "transcripts/pdf_1036_visual_first_v1.md",
+          "transcript_sha256": "4331126a1aa3da39d2d5f480cf3923df9a3f4fc4dbb1d97858f848b2809ea3d6"
+        },
+        {
+          "pdf_page": 1037,
+          "printed_page_directly_read": 999,
+          "evidence_transcript": "transcripts/pdf_1037_visual_first_v1.md",
+          "transcript_sha256": "aed048cea7f9b22ad4c0f7827c4b71586c4536cccd9a3baf1cfda31697e0d672"
+        },
+        {
+          "pdf_page": 1038,
+          "printed_page_directly_read": 1000,
+          "evidence_transcript": "transcripts/pdf_1038_visual_first_v1.md",
+          "transcript_sha256": "53e0799991331ef2bb1b425cf25d3a6dbeff29dee2417dfc77fa8d486612f796"
+        },
+        {
+          "pdf_page": 1039,
+          "printed_page_directly_read": 1001,
+          "evidence_transcript": "transcripts/pdf_1039_visual_first_v1.md",
+          "transcript_sha256": "746185386442d9054bce73bca0b792c4f4c1baf42745a2efb50c939d2dfa4afe"
+        },
+        {
+          "pdf_page": 1040,
+          "printed_page_directly_read": 1002,
+          "evidence_transcript": "transcripts/pdf_1040_visual_first_v1.md",
+          "transcript_sha256": "50eed0e2c3ebd4ece7958dd867612c590f0d911c0903251c64ae9a1ba6caf310"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_1101_1105_visual_first_v1.json",
+      "frozen_manifest_sha256": "625f314b562bf2cc963cdfabc1912692224c6c370b250e8d7ee3d8f415375ad8",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF1101=1063, PDF1102=1064, PDF1103=1065, PDF1104=1066, PDF1105=1067; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 1101,
+          "printed_page_directly_read": 1063,
+          "evidence_transcript": "transcripts/pdf_1101_visual_first_v1.md",
+          "transcript_sha256": "2a67484d621b5ae793caa0668ee36d279163f3c7592e7ede8ed3cd113e2c4cfb"
+        },
+        {
+          "pdf_page": 1102,
+          "printed_page_directly_read": 1064,
+          "evidence_transcript": "transcripts/pdf_1102_visual_first_v1.md",
+          "transcript_sha256": "2a230088d8657e1055c7979f93c3118160c70b4566cb8c753ba8d67da5b5e3e9"
+        },
+        {
+          "pdf_page": 1103,
+          "printed_page_directly_read": 1065,
+          "evidence_transcript": "transcripts/pdf_1103_visual_first_v1.md",
+          "transcript_sha256": "21af7fc34d5d277a28abd239732b6b10d9d1641e1d4b0b51255fde4b01b373b7"
+        },
+        {
+          "pdf_page": 1104,
+          "printed_page_directly_read": 1066,
+          "evidence_transcript": "transcripts/pdf_1104_visual_first_v1.md",
+          "transcript_sha256": "8c461ba0467658f69a5c8eed597a7f136cd0bead3c4a833393d510f09a676804"
+        },
+        {
+          "pdf_page": 1105,
+          "printed_page_directly_read": 1067,
+          "evidence_transcript": "transcripts/pdf_1105_visual_first_v1.md",
+          "transcript_sha256": "2233b354656c5e1420c1de53f16cd2c4a8d02c00715b3766e784ec93dacbb592"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_1106_1110_visual_first_v1.json",
+      "frozen_manifest_sha256": "6d8c549ebf1d036674605721e5eaea4fe8aa2acd7c2308c9834a3b7c7693d633",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF1106=1068, PDF1107=1069, PDF1108=1070, PDF1109=1071, PDF1110=1072; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 1106,
+          "printed_page_directly_read": 1068,
+          "evidence_transcript": "transcripts/pdf_1106_visual_first_v1.md",
+          "transcript_sha256": "4009b940dfe366c477dd200a6df208c37a9d95b396344eabfee79ae1f7fbb7b9"
+        },
+        {
+          "pdf_page": 1107,
+          "printed_page_directly_read": 1069,
+          "evidence_transcript": "transcripts/pdf_1107_visual_first_v1.md",
+          "transcript_sha256": "2c0e9714a1f81293da153b99be1672b7adff1b08251521214f38e5c5af00c2a4"
+        },
+        {
+          "pdf_page": 1108,
+          "printed_page_directly_read": 1070,
+          "evidence_transcript": "transcripts/pdf_1108_visual_first_v1.md",
+          "transcript_sha256": "ebb50e2af91c69d81e34aee46fdfb0cae21015838168950e71f9571527e3910b"
+        },
+        {
+          "pdf_page": 1109,
+          "printed_page_directly_read": 1071,
+          "evidence_transcript": "transcripts/pdf_1109_visual_first_v1.md",
+          "transcript_sha256": "f35685b91d3a8271cf3a48902676020f6896142a8df0a140f483a4bc5702c377"
+        },
+        {
+          "pdf_page": 1110,
+          "printed_page_directly_read": 1072,
+          "evidence_transcript": "transcripts/pdf_1110_visual_first_v1.md",
+          "transcript_sha256": "0b352865c59291e352be33a5f791afb6aa71bf4dff296387deead1736989c99b"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_1111_1115_visual_first_v1.json",
+      "frozen_manifest_sha256": "80ecebe703634b9dc9e675a4c2e62dedffb59bb7b23a0fe95ac7cd64b3e99b4e",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF1111=1073, PDF1112=1074, PDF1113=1075, PDF1114=1076, PDF1115=1077; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 1111,
+          "printed_page_directly_read": 1073,
+          "evidence_transcript": "transcripts/pdf_1111_visual_first_v1.md",
+          "transcript_sha256": "1a000246afe4a1d57f21d55b7c69e358dec02a6809fe5a51fe7a661f1cabc617"
+        },
+        {
+          "pdf_page": 1112,
+          "printed_page_directly_read": 1074,
+          "evidence_transcript": "transcripts/pdf_1112_visual_first_v1.md",
+          "transcript_sha256": "34868d6ef247c1a423831b86ef5d382f48c466622d5969d42e67b946c1aeae49"
+        },
+        {
+          "pdf_page": 1113,
+          "printed_page_directly_read": 1075,
+          "evidence_transcript": "transcripts/pdf_1113_visual_first_v1.md",
+          "transcript_sha256": "a9c5c50b72d230ae70bad1e400a6e05cf84257837da936226abe1dfc786779bb"
+        },
+        {
+          "pdf_page": 1114,
+          "printed_page_directly_read": 1076,
+          "evidence_transcript": "transcripts/pdf_1114_visual_first_v1.md",
+          "transcript_sha256": "dbcc2d933819a2e4724fbf65d08bb182b691a2b83ebe2d9a7149bb72a37752e8"
+        },
+        {
+          "pdf_page": 1115,
+          "printed_page_directly_read": 1077,
+          "evidence_transcript": "transcripts/pdf_1115_visual_first_v1.md",
+          "transcript_sha256": "ede9acf9e2c3cbcf6340ce4d64abef77aadae222ef8aa02d40e06224aba3847d"
+        }
+      ]
+    },
+    {
+      "manifest": "manifest_pdf_1116_1120_visual_first_v1.json",
+      "frozen_manifest_sha256": "75b454c19b392322f1be1618dd5d0407a93a10da65938f5b0ebe6bf504dbd50e",
+      "field_to_supersede": "printed_page_reading",
+      "stale_value": "Each footer directly read: 536=502, 537=503, 538=504, 539=505, 540=506; no global arithmetic offset applied.",
+      "corrected_value": "Each footer directly read: PDF1116=1078, PDF1117=1079, PDF1118=1080, PDF1119=1081, PDF1120=1082; no arithmetic offset inferred.",
+      "correct_values": [
+        {
+          "pdf_page": 1116,
+          "printed_page_directly_read": 1078,
+          "evidence_transcript": "transcripts/pdf_1116_visual_first_v1.md",
+          "transcript_sha256": "68320f4c410ede94a0ad0095482837ad728d738da53e0c13b63fa004ae5f83c1"
+        },
+        {
+          "pdf_page": 1117,
+          "printed_page_directly_read": 1079,
+          "evidence_transcript": "transcripts/pdf_1117_visual_first_v1.md",
+          "transcript_sha256": "ddb28340980539660217e35696601287483a7e36ca5fd4e64922734832b2aa72"
+        },
+        {
+          "pdf_page": 1118,
+          "printed_page_directly_read": 1080,
+          "evidence_transcript": "transcripts/pdf_1118_visual_first_v1.md",
+          "transcript_sha256": "54ba91733eff0c689b7e98fea3d27675e843cc6dd8bae8f48daad3d7ca25c455"
+        },
+        {
+          "pdf_page": 1119,
+          "printed_page_directly_read": 1081,
+          "evidence_transcript": "transcripts/pdf_1119_visual_first_v1.md",
+          "transcript_sha256": "e378c7dd5fe94ec499f8bb42d92e0c6c6a8aa441bc4b35cbc159ae7f89298f67"
+        },
+        {
+          "pdf_page": 1120,
+          "printed_page_directly_read": 1082,
+          "evidence_transcript": "transcripts/pdf_1120_visual_first_v1.md",
+          "transcript_sha256": "8b24b9acb036a368917b35f939ea6e1ea0de355f82aa864c280bf9d2b5dcb5fa"
+        }
+      ]
+    }
+  ]
+}

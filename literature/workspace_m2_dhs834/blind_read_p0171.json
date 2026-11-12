@@ -1,0 +1,470 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 171,
+  "historical_folio": 142,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0171/pdf_0171_300dpi.png",
+  "page_header": "Bb. ante. E",
+  "page_footer_printed": "- 142 -",
+  "page_footer_handwritten": "71",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Bebex-",
+      "source_H": "飲",
+      "source_M": "im",
+      "source_R": "xin",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bebex-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "im²",
+        "tai_lo_standard": "ím",
+        "phonological_basis": "17c Dominican orthography conversion: im (飲) -> im² / ím."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Beber en combite -",
+      "source_H": "飲宴",
+      "source_M": "im iēn. en combite",
+      "source_R": "xīn yēn: in ygān",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Beber en combite -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "im² ien³ en¹ kombite¹",
+        "tai_lo_standard": "ím-ièn-en-kombite",
+        "phonological_basis": "17c Dominican orthography conversion: im (飲) -> im² / ím; iēn (宴) -> ien³ / ièn; en (?) -> en¹ / en; combite (?) -> kombite¹ / kombite."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "beber.",
+      "source_H": "飲食",
+      "source_M": "im sit. comer beber",
+      "source_R": "xin sit",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "beber.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "im² sit⁸",
+        "tai_lo_standard": "ím-si̍t",
+        "phonological_basis": "17c Dominican orthography conversion: im (飲) -> im² / ím; sit (食) -> sit⁸ / si̍t."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "beber.",
+      "source_H": "食",
+      "source_M": "chià",
+      "source_R": "sit",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "beber.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsia²",
+        "tai_lo_standard": "tsiá",
+        "phonological_basis": "17c Dominican orthography conversion: chià (食) -> tsia² / tsiá."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Beber vna safari, y dar dos. beber en compañía.",
+      "source_H": "[疑:陪/倍]酒",
+      "source_M": "pūe chiù.",
+      "source_R": "pūi chiù.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Beber vna safari, y dar dos. beber en compañía.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pue⁵ tsiu²",
+        "tai_lo_standard": "puê-tsiú",
+        "phonological_basis": "17c Dominican orthography conversion: pūe (酒) -> pue⁵ / puê; chiù (?) -> tsiu² / tsiú."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Beber y pasar la comida.",
+      "source_H": "[疑:送/迭]下",
+      "source_M": "sàng hē.",
+      "source_R": "sòng hiā.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Beber y pasar la comida.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "saŋ² he³",
+        "tai_lo_standard": "sáng-hè",
+        "phonological_basis": "17c Dominican orthography conversion: sàng (下) -> saŋ² / sáng; hē (?) -> he³ / hè."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Beber en honra de la luna",
+      "source_H": "賞月",
+      "source_M": "siàng gūāt.",
+      "source_R": "siàng iě.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Beber en honra de la luna",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siaŋ² guat⁸",
+        "tai_lo_standard": "siáng-gua̍t",
+        "phonological_basis": "17c Dominican orthography conversion: siàng (賞) -> siaŋ² / siáng; gūāt (月) -> guat⁸ / gua̍t."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Beber a tragos poco a poco.",
+      "source_H": "獨口食",
+      "source_M": "tôc chǔi chià",
+      "source_R": "to gûen sit",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Beber a tragos poco a poco.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tɔk⁸ tsui³ tsia²",
+        "tai_lo_standard": "to̍k-tsuì-tsiá",
+        "phonological_basis": "17c Dominican orthography conversion: tôc (獨) -> tɔk⁸ / to̍k; chǔi (口) -> tsui³ / tsuì; chià (食) -> tsia² / tsiá."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Beber demasiado, bebedor.",
+      "source_H": "口滑",
+      "source_M": "chǔi cūi.",
+      "source_R": "gûen hūa.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Beber demasiado, bebedor.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui³ kui²",
+        "tai_lo_standard": "tsuì-kuí",
+        "phonological_basis": "17c Dominican orthography conversion: chǔi (口) -> tsui³ / tsuì; cūi (滑) -> kui² / kuí."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Bebedor, borraço.",
+      "source_H": "[疑:打/拍]鼻人",
+      "source_M": "pà phī lâng.",
+      "source_R": "tà piě xin",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bebedor, borraço.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pa² pʰi⁵ laŋ²",
+        "tai_lo_standard": "pá-phî-láng",
+        "phonological_basis": "17c Dominican orthography conversion: pà (鼻) -> pa² / pá; phī (人) -> pʰi⁵ / phî; lâng (?) -> laŋ² / láng."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Bebedor, perdido del vino.",
+      "source_H": "迷酒",
+      "source_M": "bê chiù.",
+      "source_R": "mî chiù.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bebedor, perdido del vino.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "be³ tsiu²",
+        "tai_lo_standard": "bè-tsiú",
+        "phonological_basis": "17c Dominican orthography conversion: bê (迷) -> be³ / bè; chiù (酒) -> tsiu² / tsiú."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Bebedor quanto, bebe no se emborracha.",
+      "source_H": "高量",
+      "source_M": "cō liāng.",
+      "source_R": "cǒ liāng.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bebedor quanto, bebe no se emborracha.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko⁵ liaŋ⁵",
+        "tai_lo_standard": "kô-liâng",
+        "phonological_basis": "17c Dominican orthography conversion: cō (高) -> ko⁵ / kô; liāng (量) -> liaŋ⁵ / liâng."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Beba vn este trago. vntar la boca. Gambo dar.",
+      "source_H": "抹嘴",
+      "source_M": "bōa chūi… [残]",
+      "source_R": "mōa chǔey.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Beba vn este trago. vntar la boca. Gambo dar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "boa³ tsui⁵",
+        "tai_lo_standard": "boà-tsuî",
+        "phonological_basis": "17c Dominican orthography conversion: bōa (抹) -> boa³ / boà; chūi (嘴) -> tsui⁵ / tsuî."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Bejuco",
+      "source_H": "藤",
+      "source_M": "tīn",
+      "source_R": "Tēng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bejuco",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tin⁵",
+        "tai_lo_standard": "tîn",
+        "phonological_basis": "17c Dominican orthography conversion: tīn (藤) -> tin⁵ / tîn."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Bejuco.",
+      "source_H": "[疑:莉/葙]",
+      "source_M": "cue",
+      "source_R": "cǒ",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bejuco.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kueʔ⁷",
+        "tai_lo_standard": "kueh",
+        "phonological_basis": "17c Dominican orthography conversion: cue (?) -> kueʔ⁷ / kueh."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Bejuco.",
+      "source_H": "[疑:莉/葙]藤",
+      "source_M": "cue tīn",
+      "source_R": "cǒ tēng",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bejuco.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kueʔ⁷ tin⁶",
+        "tai_lo_standard": "kueh-tīn",
+        "phonological_basis": "17c Dominican orthography conversion: cue (藤) -> kueʔ⁷ / kueh; tīn (?) -> tin⁶ / tīn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Bejuco",
+      "source_H": "[疑:莉/葙]條",
+      "source_M": "cue tiāu",
+      "source_R": "cǒ tiâu",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bejuco",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kueʔ⁷ tiau⁶",
+        "tai_lo_standard": "kueh-tiāu",
+        "phonological_basis": "17c Dominican orthography conversion: cue (條) -> kueʔ⁷ / kueh; tiāu (?) -> tiau⁶ / tiāu."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Bellaco y malo.",
+      "source_H": "[疑:橫/壞]心",
+      "source_M": "hūa sīm.",
+      "source_R": "hěng xīm.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bellaco y malo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hua⁵ sim⁶",
+        "tai_lo_standard": "huâ-sīm",
+        "phonological_basis": "17c Dominican orthography conversion: hūa (心) -> hua⁵ / huâ; sīm (?) -> sim⁶ / sīm."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "bellacos, barbaros, montaraz",
+      "source_H": "野品",
+      "source_M": "yá pīn.",
+      "source_R": "yě pîn.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "bellacos, barbaros, montaraz",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ia¹ pin⁵",
+        "tai_lo_standard": "ia-pîn",
+        "phonological_basis": "17c Dominican orthography conversion: yá (野) -> ia¹ / ia; pīn (品) -> pin⁵ / pîn."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "bellaco, y necio",
+      "source_H": "野馬",
+      "source_M": "yá bē.",
+      "source_R": "yě mà.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "bellaco, y necio",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ia¹ be⁵",
+        "tai_lo_standard": "ia-bê",
+        "phonological_basis": "17c Dominican orthography conversion: yá (野) -> ia¹ / ia; bē (馬) -> be⁵ / bê."
+      }
+    }
+  ]
+}

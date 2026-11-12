@@ -1,0 +1,323 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 658,
+  "historical_folio": 624,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0658/pdf_0658_300dpi.png",
+  "page_header": "M. ante.",
+  "page_footer_printed": "- 624 -",
+  "page_footer_handwritten": "312",
+  "total_positions_recorded": 15,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "melancolia, enfermedad",
+      "source_H": "相思病",
+      "source_M": "sio ḿ wn pe [疑:wn为鼻化钩或独立音节;ḿ/ḿ̄]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "melancolia, enfermedad",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio¹ wn¹ pe⁵ wn¹ i⁶",
+        "tai_lo_standard": "sio-wn-pê-wn-ī",
+        "phonological_basis": "17c Dominican orthography conversion: sio (相) -> sio¹ / sio; wn (思) -> wn¹ / wn; pe (病) -> pe⁵ / pê; wn (?) -> wn¹ / wn; ̄ (?) -> i⁶ / ī."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "melancolia, enfermeda [疑:enfermeda/enfermedad]",
+      "source_H": "相割吊",
+      "source_M": "sio cùa tiay",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "melancolia, enfermeda",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio¹ kua² tiai²",
+        "tai_lo_standard": "sio-kuá-tiái",
+        "phonological_basis": "17c Dominican orthography conversion: sio (相) -> sio¹ / sio; cùa (割) -> kua² / kuá; tiay (吊) -> tiai² / tiái."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Melancolia de tristeca [疑:tristeca/tristeza]",
+      "source_H": "悶",
+      "source_M": "Būn yiḉ būn",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Melancolia de tristeca",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bun⁵ ii¹ bun⁶",
+        "tai_lo_standard": "bûn-ii-būn",
+        "phonological_basis": "17c Dominican orthography conversion: Būn (悶) -> bun⁵ / bûn; yi (?) -> ii¹ / ii; būn (?) -> bun⁶ / būn."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "melancolia grande de ocupa el coracon [疑:ocupa/corazon]",
+      "source_H": "苦在心頭",
+      "source_M": "cou ḿ sīm thāu [疑:ḿ/fu]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "melancolia grande de ocupa el coracon",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰou² sim⁵ tʰau⁵ fu⁵",
+        "tai_lo_standard": "khóu-sîm-thâu-fû",
+        "phonological_basis": "17c Dominican orthography conversion: cou (苦) -> kʰou² / khóu; sīm (在) -> sim⁵ / sîm; thāu (心) -> tʰau⁵ / thâu; fu (頭) -> fu⁵ / fû."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Mellancolico [疑:Mellancolico/Melancolico]",
+      "source_H": "頭烏面腫",
+      "source_M": "thau ou bīn chèng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mellancolico",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰau⁵ ou¹ bin⁵ tseŋ²",
+        "tai_lo_standard": "thâu-ou-bîn-tséng",
+        "phonological_basis": "17c Dominican orthography conversion: thau (頭) -> tʰau⁵ / thâu; ou (烏) -> ou¹ / ou; bīn (面) -> bin⁵ / bîn; chèng (腫) -> tseŋ² / tséng."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "melancolico",
+      "source_H": "鬱悶",
+      "source_M": "vŏr būn [疑:vŏr/viḉ]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "melancolico",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "v² r¹ bun⁶ v¹ r¹ vi¹",
+        "tai_lo_standard": "v́-r-būn-v-r-vi",
+        "phonological_basis": "17c Dominican orthography conversion: v (鬱) -> v² / v́; r (悶) -> r¹ / r; būn (?) -> bun⁶ / būn; v (?) -> v¹ / v; r (?) -> r¹ / r; vi (?) -> vi¹ / vi."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Melcocha",
+      "source_H": "冰糖",
+      "source_M": "pẽg fūng [疑:fūng/t̂ng]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Melcocha",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pẽk⁷ fuŋ⁵ fuŋ⁶ tiŋ³",
+        "tai_lo_standard": "pek-fûng-fūng-tìng",
+        "phonological_basis": "17c Dominican orthography conversion: pẽg (冰) -> pẽk⁷ / pek; fūng (糖) -> fuŋ⁵ / fûng; fūng (?) -> fuŋ⁶ / fūng; t̂ng (?) -> tiŋ³ / tìng."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Melindre como de mug.",
+      "source_H": "做骸",
+      "source_M": "chò hay",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Melindre como de mug.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso² hai⁵",
+        "tai_lo_standard": "tsó-hâi",
+        "phonological_basis": "17c Dominican orthography conversion: chò (做) -> tso² / tsó; hay (骸) -> hai⁵ / hâi."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "melindroso, achacoso, nada de contenta f. m.",
+      "source_H": "細莘 [疑:莘/辛]",
+      "source_M": "Lēychān [残:后半墨团涂改]",
+      "source_R": "achapo malindroso [疑:achagoso malintencion;小字旁注自第3栏跨入本栏]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "melindroso, achacoso, nada de contenta f. m.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "leichan⁵",
+        "tai_lo_standard": "leichân",
+        "phonological_basis": "17c Dominican orthography conversion: Lēychān (細) -> leichan⁵ / leichân."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Mella, desportilladura.",
+      "source_H": "缺",
+      "source_M": "guiḉ [疑:guiḉ/gūy]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mella, desportilladura.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui¹ gui¹ gui⁶",
+        "tai_lo_standard": "gui-gui-guī",
+        "phonological_basis": "17c Dominican orthography conversion: gui (缺) -> gui¹ / gui; gui (?) -> gui¹ / gui; gūy (?) -> gui⁶ / guī."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Mellizos, devivien re. [疑:devivienre/devniente]",
+      "source_H": "胞胎",
+      "source_M": "pau fe say caw [疑:fe/ṱē;say/hay;caw/coo]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)",
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mellizos, devivien re.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pau¹ fe¹ sai¹ kaw¹ fe¹ e⁶ sai¹ hai¹ kaw¹ koo¹",
+        "tai_lo_standard": "pau-fe-sai-kaw-fe-ē-sai-hai-kaw-koo",
+        "phonological_basis": "17c Dominican orthography conversion: pau (胞) -> pau¹ / pau; fe (胎) -> fe¹ / fe; say (?) -> sai¹ / sai; caw (?) -> kaw¹ / kaw; fe (?) -> fe¹ / fe; ē (?) -> e⁶ / ē; say (?) -> sai¹ / sai; hay (?) -> hai¹ / hai; caw (?) -> kaw¹ / kaw; coo (?) -> koo¹ / koo."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "mellizos, nacidos juntos.",
+      "source_H": "甲双 [疑:甲/早]",
+      "source_M": "ca ŝiāng tay se [疑:ŝiāng/ŝiāy]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mellizos, nacidos juntos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka² iaŋ⁵ tai⁶ se¹ iaŋ⁶ iai⁶",
+        "tai_lo_standard": "ká-iâng-tāi-se-iāng-iāi",
+        "phonological_basis": "17c Dominican orthography conversion: ca (甲) -> ka² / ká; iāng (双) -> iaŋ⁵ / iâng; tay (?) -> tai⁶ / tāi; se (?) -> se¹ / se; iāng (?) -> iaŋ⁶ / iāng; iāy (?) -> iai⁶ / iāi."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "mellizos, denascense [删除线涂改]",
+      "source_H": "同生日",
+      "source_M": "cang ŝi cit loy siau hon [疑:首词kang/tang;末词hon/nacieron]",
+      "source_R": "en un dia [同墨线延续自第3栏跨入本栏]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mellizos, denascense",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kaŋ¹ i² kit⁸ loi¹ siau¹ hon¹ kaŋ¹ taŋ¹ hon¹ nacieron¹",
+        "tai_lo_standard": "kang-í-ki̍t-loi-siau-hon-kang-tang-hon-nacieron",
+        "phonological_basis": "17c Dominican orthography conversion: cang (同) -> kaŋ¹ / kang; i (生) -> i² / í; cit (日) -> kit⁸ / ki̍t; loy (?) -> loi¹ / loi; siau (?) -> siau¹ / siau; hon (?) -> hon¹ / hon; kang (?) -> kaŋ¹ / kang; tang (?) -> taŋ¹ / tang; hon (?) -> hon¹ / hon; nacieron (?) -> nacieron¹ / nacieron."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Melon",
+      "source_H": "瓜",
+      "source_M": "cua",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Melon",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kua¹",
+        "tai_lo_standard": "kua",
+        "phonological_basis": "17c Dominican orthography conversion: cua (瓜) -> kua¹ / kua."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Melocoton",
+      "source_H": "桃",
+      "source_M": "tō - [残:删除线涂改,后半完全不可辨]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Melocoton",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to⁵",
+        "tai_lo_standard": "tô",
+        "phonological_basis": "17c Dominican orthography conversion: tō (桃) -> to⁵ / tô."
+      }
+    }
+  ]
+}

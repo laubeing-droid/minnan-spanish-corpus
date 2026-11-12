@@ -1,0 +1,112 @@
+[
+  {
+    "pdf_page": 1,
+    "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/aust_tomo211_fragments/images/pdf_001_render.png",
+    "image_sha256": "754f95f097b8c5499e70f59c226f792c112d2eb1e667a6d59a742c44cd17570f",
+    "visually_reviewed": true,
+    "full_text_verified": false,
+    "status": "classification_label",
+    "finding": "分类题签而非手稿正文；ROLL 113末笔仍不强定。馆藏水印从正文分离。",
+    "changes": []
+  },
+  {
+    "pdf_page": 2,
+    "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/aust_tomo211_fragments/images/pdf_002_render.png",
+    "image_sha256": "c3100416f3b53bd5139aa7e92c1ff83a44953e51fba3cd2269f6c2ceb1be6766",
+    "visually_reviewed": true,
+    "full_text_verified": false,
+    "status": "partial_transcription_with_unread_body",
+    "finding": "左右叶行骨架与图对应；顶部墨污、下半长曲线不当调号。低清细字仍未读，不能按祷文补齐。",
+    "changes": []
+  },
+  {
+    "pdf_page": 3,
+    "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/aust_tomo211_fragments/images/pdf_003_render.png",
+    "image_sha256": "e47dcb610074c16631481e425ca5e4d3ef800e5aa7b866f4f60dc25d726a2a24",
+    "visually_reviewed": true,
+    "full_text_verified": false,
+    "status": "partial_transcription_with_unread_body",
+    "finding": "教会诫命、圣事等分段标题与右叶14数码可定位；反复lang字形不能代替每行识读。",
+    "changes": []
+  },
+  {
+    "pdf_page": 4,
+    "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/aust_tomo211_fragments/images/pdf_004_render.png",
+    "image_sha256": "a9999c136e6cc25c229779e2ac9e56f0fd9cb4741f442b1850a63253bfb1ec63",
+    "visually_reviewed": true,
+    "full_text_verified": false,
+    "status": "partial_transcription_with_unread_body",
+    "finding": "左叶Primero/Segundo与右叶Tercero/Quarto分段；右上6、7是延续编号，不因PDF相邻调整原顺序。",
+    "changes": []
+  },
+  {
+    "pdf_page": 5,
+    "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/aust_tomo211_fragments/images/pdf_005_render.png",
+    "image_sha256": "87763e080fd53c8e5a5c9f99231c726cbac99e28fd6e108dd733f8681598b837",
+    "visually_reviewed": true,
+    "full_text_verified": false,
+    "status": "partial_transcription_with_unread_body",
+    "finding": "右上12–17与下部新题分段保留；下部多行长条目不并成单行。中缝墨损未补。",
+    "changes": []
+  },
+  {
+    "pdf_page": 6,
+    "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/aust_tomo211_fragments/images/pdf_006_render.png",
+    "image_sha256": "40c8bb2c966cf1ea5fade8b638210895bda289d7cf2f803aee6a091acdc07479",
+    "visually_reviewed": true,
+    "full_text_verified": false,
+    "status": "partial_transcription_with_unread_body",
+    "finding": "左右叶均为密集罗马字；左中内缩题与右上浓黑横笔分别记录，黑笔覆盖字未恢复。低清仍不能逐行转全。",
+    "changes": []
+  },
+  {
+    "pdf_page": 7,
+    "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/aust_tomo211_fragments/images/pdf_007_render.png",
+    "image_sha256": "3fd949e60e9e7a746aa8f214afff1a1e35f84a6b3aa4b0bbab11624e990ef2a7",
+    "visually_reviewed": true,
+    "full_text_verified": false,
+    "status": "partial_transcription_with_unread_body",
+    "finding": "逐行对照整页及右上/右中局部。208据原图；R08–09 Salimos/entierra跨行，R12–14拉丁祷式不按熟悉文本校正；右上n状附标与声调笔分开保留。",
+    "changes": []
+  },
+  {
+    "pdf_page": 8,
+    "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/aust_tomo211_fragments/images/pdf_008_render.png",
+    "image_sha256": "76db2ea8b1b248f0f5ac46b2f131229195543f0fca3b15bd2d0d4e4f03052f6c",
+    "visually_reviewed": true,
+    "full_text_verified": false,
+    "status": "partial_transcription_with_unread_body",
+    "finding": "左叶Diminutivo及下部forma plural可定位；旧Delgentivo疑读新增Despectivo候选，仍未裁定。上下长笔相交不可一概当调号。",
+    "changes": [
+      [
+        "⟦… Delgentivo? …⟧",
+        "⟦… Delgentivo／Despectivo? …⟧"
+      ]
+    ]
+  },
+  {
+    "pdf_page": 9,
+    "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/aust_tomo211_fragments/images/pdf_009_render.png",
+    "image_sha256": "4146138ef7410b1455f7922294457a1154c8c37cc85ffecffd3fb168c304b28c",
+    "visually_reviewed": true,
+    "full_text_verified": false,
+    "status": "partial_transcription_with_unread_body",
+    "finding": "逐行对照及右下局部。Estando/Estando para/Forte大题分段；原行23接词es bien独立；R13复合附标不能只按现代重音理解。",
+    "changes": []
+  },
+  {
+    "pdf_page": 10,
+    "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/aust_tomo211_fragments/images/pdf_010_render.png",
+    "image_sha256": "b49ff31ad128c6298db67622e45edd984c0e695a4b5e2f0855530692672f26cc",
+    "visually_reviewed": true,
+    "full_text_verified": false,
+    "status": "partial_transcription_with_unread_body",
+    "finding": "Vide or及下半拉丁引文题行重新看局部；S后的上标仍不展开。Serm.后更像11，保留候选。下部正文不按常见奥古斯丁引文补全。",
+    "changes": [
+      [
+        "⟦11…?⟧",
+        "⟦11?⟧"
+      ]
+    ]
+  }
+]

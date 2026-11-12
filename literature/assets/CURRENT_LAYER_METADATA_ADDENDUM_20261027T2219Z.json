@@ -1,0 +1,236 @@
+{
+  "title": "当前各层元数据补充：306页正文冻结不变，现代与互校另账",
+  "actual_created_utc": "2026-10-27T22:20:07.671806+00:00",
+  "status": "LOCAL_METADATA_ADDENDUM_ONLY_NOT_UPLOADED_OR_SENT",
+  "evidence_basis": "Root supplied current accepted/save metadata; this pass read-only verifies five new ZIP bytes/SHA256 and Library ID/version xattrs, and sums supplied modern layer counts. No new linguistic review or 306-page recount.",
+  "frozen_original_ZH_EN": {
+    "json": {
+      "path": "/workspace/scratch/b06bda80e898/dhs_recovery_20261027T0801Z/MINNAN_CURRENT_HANDOFF_REGISTER_306P_20261027T2126Z.json",
+      "library_file_id": "libfile_6f1b5e60670481918c11c2d788724f3b",
+      "sha256_current": "aa6e3eeb3367487d111933230af37add855adac9476ff73e83cefc517b0cf5e7",
+      "library_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_6f1b5e60670481918c11c2d788724f3b"
+      }
+    },
+    "md": {
+      "path": "/workspace/scratch/b06bda80e898/dhs_recovery_20261027T0801Z/MINNAN_CURRENT_HANDOFF_REGISTER_306P_20261027T2126Z.md",
+      "library_file_id": "libfile_a7186c9cdf908191847955bee3ab70d6",
+      "sha256_current": "bc56709e753abdfc4c2b4f87630fc0b8292078705a53c0e4165b768e6950d3da",
+      "library_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_a7186c9cdf908191847955bee3ab70d6"
+      }
+    },
+    "physical_pages": 306,
+    "range": [
+      835,
+      1140
+    ],
+    "main_L_denominator": 5762,
+    "each_language": {
+      "core": 5106,
+      "partial": 499,
+      "candidate": 135,
+      "untranslated": 22
+    },
+    "page1140_separate": {
+      "dictionary_main_L": 5,
+      "numeral_positions": 40,
+      "numeral_fields": 80,
+      "editorial_regions": 6
+    },
+    "not_entire_DHS_1140_completed": true,
+    "not_recounted_or_modified": true
+  },
+  "modern_tai_lo_current": {
+    "batches": [
+      {
+        "pages": [
+          835,
+          839
+        ],
+        "core": 7,
+        "partial": 49,
+        "candidate": 33,
+        "unchecked": 13,
+        "denominator": 102
+      },
+      {
+        "pages": [
+          840,
+          844
+        ],
+        "core": 12,
+        "partial": 37,
+        "candidate": 29,
+        "unchecked": 21,
+        "denominator": 99
+      },
+      {
+        "pages": [
+          845,
+          849
+        ],
+        "core": 10,
+        "partial": 48,
+        "candidate": 36,
+        "unchecked": 8,
+        "denominator": 102
+      },
+      {
+        "pages": [
+          850,
+          854
+        ],
+        "core": 7,
+        "partial": 43,
+        "candidate": 32,
+        "unchecked": 7,
+        "denominator": 89,
+        "current_version": "v5",
+        "package": {
+          "path": "/workspace/scratch/b06bda80e898/dhs_recovery_20261027T0801Z/DHS0850_0854_MOE_PORTABLE_v5_20261027T2216Z.zip",
+          "library_file_id": "libfile_e630f3c8704c8191a64443d6223661c3",
+          "version": 0,
+          "bytes": 6289766,
+          "sha256": "a58062e80e1e6e1914771d78c444cabe1ccb8b617b77ae50895cafe249977184",
+          "library_xattrs": {
+            "user.library-file-version": "0",
+            "user.library-file-id": "libfile_e630f3c8704c8191a64443d6223661c3"
+          },
+          "byte_and_xattr_binding_verified": true
+        }
+      },
+      {
+        "pages": [
+          855,
+          859
+        ],
+        "core": 2,
+        "partial": 6,
+        "candidate": 26,
+        "unchecked": 57,
+        "denominator": 91,
+        "current_version": "v3",
+        "package": {
+          "path": "/workspace/scratch/b06bda80e898/dhs_recovery_20261027T0801Z/DHS0855_0859_MOE_REASSESSED_V3_REVIEWED_PORTABLE_20261027T2207Z.zip",
+          "library_file_id": "libfile_1ae3074b84d08191b6e63bc15d0ddf77",
+          "version": 0,
+          "bytes": 2285987,
+          "sha256": "6bdef8b7a6a24025810ea08734c9304d50d58ae4f6f13b3bed6693ca9fe58fcf",
+          "library_xattrs": {
+            "user.library-file-version": "0",
+            "user.library-file-id": "libfile_1ae3074b84d08191b6e63bc15d0ddf77"
+          },
+          "byte_and_xattr_binding_verified": true
+        }
+      }
+    ],
+    "totals": {
+      "core": 38,
+      "partial": 183,
+      "candidate": 156,
+      "unchecked": 106,
+      "denominator": 483
+    },
+    "historical_sound_proven": 0,
+    "replaces_for_current_reporting_only": "Old frozen 306 register/MD modern snapshot 34/392 is historical, not current; old files remain unchanged.",
+    "reassessment": "850 v5 and855 v3 core each +2 derive from sufficiency re-evaluation of existing complete official query contents plus non-author review; not new external lookup.",
+    "required_conditions_retained": "Actual glyph-to-modern bridge and semantic conditions remain mandatory; a matching modern query alone does not prove historical reading.",
+    "older_versions_not_rewritten": [
+      "850 v4",
+      "855 v2",
+      "old reports"
+    ],
+    "not_added_to_original_ZH_EN": true
+  },
+  "Paris_Rome_comparison_current": {
+    "privately_saved_groups": 3,
+    "candidate_positions": 60,
+    "first_two_groups": {
+      "candidate_positions": 40,
+      "DHS_local_comparisons": 5,
+      "package": {
+        "path": "/workspace/scratch/b06bda80e898/paris_rome_portable_20261027T2200Z.zip",
+        "library_file_id": "libfile_657f3cd18b5481918e58ddb80ad0375b",
+        "version": 0,
+        "bytes": 160715884,
+        "sha256": "dcdcf758d4ace97d54ea98bbe14645a64ee4e088bd8c295545efa0ba9dc40d45",
+        "library_xattrs": {
+          "user.library-file-version": "0",
+          "user.library-file-id": "libfile_657f3cd18b5481918e58ddb80ad0375b"
+        },
+        "byte_and_xattr_binding_verified": true
+      }
+    },
+    "water_group": {
+      "candidate_positions": 20,
+      "Paris_leaf": "P014",
+      "Rome_leaf": "R006",
+      "auxiliary": "R007",
+      "package": {
+        "path": "/workspace/scratch/b06bda80e898/PARIS_ROME_WATER20_PORTABLE_20261027T2215Z.zip",
+        "library_file_id": "libfile_fae3ba0c2318819193d0555f2bf2a590",
+        "version": 0,
+        "bytes": 57817550,
+        "sha256": "145afd29f9c98c43315250c8fd8e0fe68b9f7eae0daa6fd8b2c7fc8f190dd70a",
+        "library_xattrs": {
+          "user.library-file-version": "0",
+          "user.library-file-id": "libfile_fae3ba0c2318819193d0555f2bf2a590"
+        },
+        "byte_and_xattr_binding_verified": true
+      }
+    },
+    "source20": "Same-leaf paired-image processing roles remain unproven; auxiliary material is not an independent historical witness and is not retrospectively filled into source.",
+    "acceptance_limit": "Candidate position comparison does not automatically constitute whole-original-page acceptance.",
+    "historical_two_group_overlap": "UNKNOWN_NO_NET_ADDITION",
+    "in_progress_excluded": [
+      "P016/P018 two groups",
+      "P020 one group"
+    ]
+  },
+  "AUST_partial": {
+    "package": {
+      "path": "/workspace/scratch/b06bda80e898/AUST_007_009_PARTIAL_PORTABLE_20261027T2146Z.zip",
+      "library_file_id": "libfile_ecd11b24ea8881919554ae223cd4bfb6",
+      "version": 0,
+      "bytes": 15261570,
+      "sha256": "47211bec60c9f029f44bdd7f344748e9c6e336a472d184c1e07283963da70d1d",
+      "library_xattrs": {
+        "user.library-file-version": "0",
+        "user.library-file-id": "libfile_ecd11b24ea8881919554ae223cd4bfb6"
+      },
+      "byte_and_xattr_binding_verified": true
+    },
+    "physical_pages": 2,
+    "leaf_faces": 4,
+    "rows": 89,
+    "acceptance": "Independently reviewed partial/candidate material only",
+    "new_complete_pages": 0,
+    "not_added_to_306": true
+  },
+  "historical_global_scope": {
+    "sources": 22,
+    "physical_page_positions": 3139,
+    "old_all_original": [
+      949,
+      3139
+    ],
+    "old_DHS_original": [
+      700,
+      1140
+    ],
+    "deduplication": "UNKNOWN_NOT_ADDED"
+  },
+  "delivery_permissions": {
+    "original_pages_already_sent": 165,
+    "original_pages_private_only": 141,
+    "new_modern_comparison_AUST_sent": false,
+    "attachment_approval": "PENDING",
+    "ordinary_progress_approval": "PENDING_AFTER_DENIAL_NO_RETRY",
+    "79_detail_approval": "PENDING",
+    "no_denied_action_retried": true
+  },
+  "mutation_limits": "Only new metadata supplement files created; old register and packages unchanged, no component/dependency/config change, no overwrite/delete/upload/send."
+}

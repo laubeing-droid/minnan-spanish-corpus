@@ -1,0 +1,460 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 389,
+  "historical_folio": 360,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0389/pdf_0389_300dpi.png",
+  "page_header": "D. ante. 1.",
+  "page_footer_printed": "- 360 -",
+  "page_footer_handwritten": "23 / 180",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Discurrir, penetrar mucho",
+      "source_H": "長見識",
+      "source_M": "tiâng guiēn śì",
+      "source_R": "chiàng guiñ śy. chiàng f [残]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Discurrir, penetrar mucho",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiaŋ³ guien⁵ iʔ⁷",
+        "tai_lo_standard": "tiàng-guiên-ih",
+        "phonological_basis": "17c Dominican orthography conversion: tiâng (長) -> tiaŋ³ / tiàng; guiēn (見) -> guien⁵ / guiên; ì (識) -> iʔ⁷ / ih."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Discurrir, Discurro.",
+      "source_H": "知覺運動",
+      "source_M": "Tī cāg vī tŏng.",
+      "source_R": "chʼy guiō xīen tōng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Discurrir, Discurro.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti⁵ kak⁷ vi⁵ ti² ŋi¹",
+        "tai_lo_standard": "tî-kak-vî-tí-ngi",
+        "phonological_basis": "17c Dominican orthography conversion: Tī (知) -> ti⁵ / tî; cāg (覺) -> kak⁷ / kak; vī (運) -> vi⁵ / vî; t (動) -> ti² / tí; ng (?) -> ŋi¹ / ngi."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Disfamar.",
+      "source_H": "謗",
+      "source_M": "chôm",
+      "source_R": "chiām",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Disfamar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsom³",
+        "tai_lo_standard": "tsòm",
+        "phonological_basis": "17c Dominican orthography conversion: chôm (謗) -> tsom³ / tsòm."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Disfamar. murmurar",
+      "source_H": "毀",
+      "source_M": "hūy hūy pông",
+      "source_R": "hùi",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Disfamar. murmurar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hui⁵ hui⁶ pɔŋ³",
+        "tai_lo_standard": "huî-huī-pòng",
+        "phonological_basis": "17c Dominican orthography conversion: hūy (毀) -> hui⁵ / huî; hūy (?) -> hui⁶ / huī; pông (?) -> pɔŋ³ / pòng."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Disfamar con palabras.",
+      "source_H": "謗言",
+      "source_M": "chôm giēn",
+      "source_R": "chiām ngiēn",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Disfamar con palabras.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsom³ gien⁵",
+        "tai_lo_standard": "tsòm-giên",
+        "phonological_basis": "17c Dominican orthography conversion: chôm (謗) -> tsom³ / tsòm; giēn (言) -> gien⁵ / giên."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Disfamar.",
+      "source_H": "謗詞",
+      "source_M": "chôm rū.",
+      "source_R": "chiām rū",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Disfamar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsom³ ru⁵",
+        "tai_lo_standard": "tsòm-rû",
+        "phonological_basis": "17c Dominican orthography conversion: chôm (謗) -> tsom³ / tsòm; rū (詞) -> ru⁵ / rû."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Disfamar, murmurar.",
+      "source_H": "毀謗",
+      "source_M": "hūy pông.",
+      "source_R": "hùi pōng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Disfamar, murmurar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hui⁵ pɔŋ³",
+        "tai_lo_standard": "huî-pòng",
+        "phonological_basis": "17c Dominican orthography conversion: hūy (毀) -> hui⁵ / huî; pông (謗) -> pɔŋ³ / pòng."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Disfamar, infumar",
+      "source_H": "民謠[疑:謠/謗]",
+      "source_M": "Bīn iāu,",
+      "source_R": "miên pôn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Disfamar, infumar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bin⁵ iau⁵",
+        "tai_lo_standard": "bîn-iâu",
+        "phonological_basis": "17c Dominican orthography conversion: Bīn (民) -> bin⁵ / bîn; iāu (謠) -> iau⁵ / iâu."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Disfamar manchar lastima. poner masilla",
+      "source_H": "穢門風",
+      "source_M": "vē mûy hōg",
+      "source_R": "v̄y miên fòng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Disfamar manchar lastima. poner masilla",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ve⁵ mui³ hɔk⁷",
+        "tai_lo_standard": "vê-muì-hok",
+        "phonological_basis": "17c Dominican orthography conversion: vē (穢) -> ve⁵ / vê; mûy (門) -> mui³ / muì; hōg (風) -> hɔk⁷ / hok."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Disfamar de mal hombre.",
+      "source_H": "譽[疑:譽/惡]名",
+      "source_M": "û Bēng smal nomblē",
+      "source_R": "x̄y mèng",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Disfamar de mal hombre.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "u³ beŋ⁵ smal⁶ nomble⁶",
+        "tai_lo_standard": "ù-bêng-smāl-nomblē",
+        "phonological_basis": "17c Dominican orthography conversion: û (譽) -> u³ / ù; Bēng (名) -> beŋ⁵ / bêng; smal (?) -> smal⁶ / smāl; nomblē (?) -> nomble⁶ / nomblē."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Disfamar, difamado.",
+      "source_H": "謗毀",
+      "source_M": "chôm hūy disfamade",
+      "source_R": "chiām hùi",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Disfamar, difamado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsom³ hui⁵ disfamade¹",
+        "tai_lo_standard": "tsòm-huî-disfamade",
+        "phonological_basis": "17c Dominican orthography conversion: chôm (謗) -> tsom³ / tsòm; hūy (毀) -> hui⁵ / huî; disfamade (?) -> disfamade¹ / disfamade."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Disgustar.",
+      "source_H": "不甘心",
+      "source_M": "m̄ cām sīm",
+      "source_R": "pū cān siĕn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Disgustar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mi⁵ kam⁵ sim⁵",
+        "tai_lo_standard": "mî-kâm-sîm",
+        "phonological_basis": "17c Dominican orthography conversion: m̄ (不) -> mi⁵ / mî; cām (甘) -> kam⁵ / kâm; sīm (心) -> sim⁵ / sîm."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Difamarla sa. Difamarla.",
+      "source_H": "[残]",
+      "source_M": "chiām chiām",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Difamarla sa. Difamarla.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiam⁶ tsiam⁶",
+        "tai_lo_standard": "tsiām-tsiām",
+        "phonological_basis": "17c Dominican orthography conversion: chiām (?) -> tsiam⁶ / tsiām; chiām (?) -> tsiam⁶ / tsiām."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Disimular. g. por mirar, sufrir.",
+      "source_H": "放大細目",
+      "source_M": "fāng fâ sū mū",
+      "source_R": "fāng fā s̄y m̄ū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Disimular. g. por mirar, sufrir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "faŋ⁵ fa³ su⁵ mu⁵",
+        "tai_lo_standard": "fâng-fà-sû-mû",
+        "phonological_basis": "17c Dominican orthography conversion: fāng (放) -> faŋ⁵ / fâng; fâ (大) -> fa³ / fà; sū (細) -> su⁵ / sû; mū (目) -> mu⁵ / mû."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Disjunccion",
+      "source_H": "留[疑:留/畱]",
+      "source_M": "lāu",
+      "source_R": "liū",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Disjunccion",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lau⁵",
+        "tai_lo_standard": "lâu",
+        "phonological_basis": "17c Dominican orthography conversion: lāu (留) -> lau⁵ / lâu."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Disminuir",
+      "source_H": "檢",
+      "source_M": "quiàm, giām ng",
+      "source_R": "guièn",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Disminuir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiam² giam⁶ ŋi¹",
+        "tai_lo_standard": "kiám-giām-ngi",
+        "phonological_basis": "17c Dominican orthography conversion: quiàm (檢) -> kiam² / kiám; giām (?) -> giam⁶ / giām; ng (?) -> ŋi¹ / ngi."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Disminuir.",
+      "source_H": "消",
+      "source_M": "siāu jdit sīu",
+      "source_R": "siān",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Disminuir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siau⁵ dzdit⁷ siu⁶",
+        "tai_lo_standard": "siâu-jdit-siū",
+        "phonological_basis": "17c Dominican orthography conversion: siāu (消) -> siau⁵ / siâu; jdit (?) -> dzdit⁷ / jdit; sīu (?) -> siu⁶ / siū."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Disminuir. juntarle con derredor de diminucion.",
+      "source_H": "那[疑:那/邦]",
+      "source_M": "n̂g, na chit gē, mai may gu ē",
+      "source_R": "mā",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Disminuir. juntarle con derredor de diminucion.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ŋi³ na¹ tsit⁷ ge⁶ mai¹ mai¹ gu¹ e⁶",
+        "tai_lo_standard": "ngì-na-tsit-gē-mai-mai-gu-ē",
+        "phonological_basis": "17c Dominican orthography conversion: n̂g (那) -> ŋi³ / ngì; na (?) -> na¹ / na; chit (?) -> tsit⁷ / tsit; gē (?) -> ge⁶ / gē; mai (?) -> mai¹ / mai; may (?) -> mai¹ / mai; gu (?) -> gu¹ / gu; ē (?) -> e⁶ / ē."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Disminuir.",
+      "source_H": "檢省",
+      "source_M": "quiàm sẽg",
+      "source_R": "quièn séng",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Disminuir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiam² sẽk⁷",
+        "tai_lo_standard": "kiám-sek",
+        "phonological_basis": "17c Dominican orthography conversion: quiàm (檢) -> kiam² / kiám; sẽg (省) -> sẽk⁷ / sek."
+      }
+    }
+  ]
+}

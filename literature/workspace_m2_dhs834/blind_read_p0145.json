@@ -1,0 +1,509 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 145,
+  "historical_folio": 116,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0145/pdf_0145_300dpi.png",
+  "page_header": "A. ante. t.",
+  "page_footer_printed": "- 116 -",
+  "page_footer_handwritten": "58",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "atrauesarse en la gargania",
+      "source_H": "鯁",
+      "source_M": "quẽ",
+      "source_R": "nguen",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atrauesarse en la gargania",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kẽ¹",
+        "tai_lo_standard": "kenn",
+        "phonological_basis": "17c Dominican orthography conversion: quẽ (鯁) -> kẽ¹ / kenn."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "atrauesad, noep uedpa",
+      "source_H": "鯁 袂 吞 [疑:袂/未]",
+      "source_M": "quẽ bey qun,",
+      "source_R": "nguen mig mih",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atrauesad, noep uedpa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kẽ² bei² kʰin¹",
+        "tai_lo_standard": "kénn-béi-khin",
+        "phonological_basis": "17c Dominican orthography conversion: quẽ (鯁) -> kẽ² / kénn; bey (袂) -> bei² / béi; qun (吞) -> kʰin¹ / khin."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "atrauesar utel camino, ttlica",
+      "source_H": "橫",
+      "source_M": "heng: hua",
+      "source_R": "henj",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atrauesar utel camino, ttlica",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "heŋ⁵ hua⁶",
+        "tai_lo_standard": "hêng-huā",
+        "phonological_basis": "17c Dominican orthography conversion: heng (橫) -> heŋ⁵ / hêng; hua (?) -> hua⁶ / huā."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "atr auesar el camino",
+      "source_H": "橫 路.",
+      "source_M": "heng lou",
+      "source_R": "henj lu",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atr auesar el camino",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "heŋ⁵ lou²",
+        "tai_lo_standard": "hêng-lóu",
+        "phonological_basis": "17c Dominican orthography conversion: heng (橫) -> heŋ⁵ / hêng; lou (路) -> lou² / lóu."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "atrauesar algo, poner lo atrauesado",
+      "source_H": "物 橫",
+      "source_M": "my hua",
+      "source_R": "bue henj",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atrauesar algo, poner lo atrauesado",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mi² hua²",
+        "tai_lo_standard": "mí-huá",
+        "phonological_basis": "17c Dominican orthography conversion: my (物) -> mi² / mí; hua (橫) -> hua² / huá."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "atrauesar comprar toda la hacienda",
+      "source_H": "包 貨",
+      "source_M": "pau hue.",
+      "source_R": "pain ho",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atrauesar comprar toda la hacienda",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pau² hue²",
+        "tai_lo_standard": "páu-hué",
+        "phonological_basis": "17c Dominican orthography conversion: pau (包) -> pau² / páu; hue (貨) -> hue² / hué."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "atrauesar ut la Bija -",
+      "source_H": "棟",
+      "source_M": "tong",
+      "source_R": "tong",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atrauesar ut la Bija -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tɔŋ²",
+        "tai_lo_standard": "tóng",
+        "phonological_basis": "17c Dominican orthography conversion: tong (棟) -> tɔŋ² / tóng."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "atrauesar ut la Gija",
+      "source_H": "棟 樑 材",
+      "source_M": "tong liong chay.",
+      "source_R": "tong liang chay",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atrauesar ut la Gija",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tɔŋ² lioŋ⁵ tsai⁵",
+        "tai_lo_standard": "tóng-liông-tsâi",
+        "phonological_basis": "17c Dominican orthography conversion: tong (棟) -> tɔŋ² / tóng; liong (樑) -> lioŋ⁵ / liông; chay (材) -> tsai⁵ / tsâi."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "atrauesad tequesto: apl dice el apaparado",
+      "source_H": "駁",
+      "source_M": "Pag:",
+      "source_R": "po",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atrauesad tequesto: apl dice el apaparado",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pak⁷",
+        "tai_lo_standard": "pak",
+        "phonological_basis": "17c Dominican orthography conversion: Pag (駁) -> pak⁷ / pak."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "atrauesa la hacienda",
+      "source_H": "重 貨",
+      "source_M": "teng hue.",
+      "source_R": "chong ho",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atrauesa la hacienda",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teŋ⁵ hue²",
+        "tai_lo_standard": "têng-hué",
+        "phonological_basis": "17c Dominican orthography conversion: teng (重) -> teŋ⁵ / têng; hue (貨) -> hue² / hué."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "atrauesan, o marco -",
+      "source_H": "覆 竹 [疑:腹竹]",
+      "source_M": "pag tog",
+      "source_R": "fog chu",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atrauesan, o marco -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pak⁷ tɔk⁷",
+        "tai_lo_standard": "pak-tok",
+        "phonological_basis": "17c Dominican orthography conversion: pag (覆) -> pak⁷ / pak; tog (竹) -> tɔk⁷ / tok."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "A treuerse",
+      "source_H": "敢",
+      "source_M": "ca: cam.",
+      "source_R": "han.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A treuerse",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka² kam⁶",
+        "tai_lo_standard": "ká-kām",
+        "phonological_basis": "17c Dominican orthography conversion: ca (敢) -> ka² / ká; cam (?) -> kam⁶ / kām."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "atreuerse aucarn:",
+      "source_H": "侵",
+      "source_M": "chim.",
+      "source_R": "chin",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atreuerse aucarn:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsim²",
+        "tai_lo_standard": "tsím",
+        "phonological_basis": "17c Dominican orthography conversion: chim (侵) -> tsim² / tsím."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "atreuido tamì",
+      "source_H": "漭 [疑:潯]",
+      "source_M": "bong.",
+      "source_R": "mang",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atreuido tamì",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bɔŋ²",
+        "tai_lo_standard": "bóng",
+        "phonological_basis": "17c Dominican orthography conversion: bong (漭) -> bɔŋ² / bóng."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "atreuerse exponiéndose apeligrs -",
+      "source_H": "敢 作 敢 當",
+      "source_M": "cam chuy: cam tong.",
+      "source_R": "can cho can tong",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)",
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atreuerse exponiéndose apeligrs -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kam² tsui² kam² tɔŋ²",
+        "tai_lo_standard": "kám-tsuí-kám-tóng",
+        "phonological_basis": "17c Dominican orthography conversion: cam (敢) -> kam² / kám; chuy (作) -> tsui² / tsuí; cam (敢) -> kam² / kám; tong (當) -> tɔŋ² / tóng."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "atreuido, in malis partib.al",
+      "source_H": "斗 胆",
+      "source_M": "tau tam,",
+      "source_R": "tou tan",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atreuido, in malis partib.al",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tau⁵ tam²",
+        "tai_lo_standard": "tâu-tám",
+        "phonological_basis": "17c Dominican orthography conversion: tau (斗) -> tau⁵ / tâu; tam (胆) -> tam² / tám."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "atreuido",
+      "source_H": "胆",
+      "source_M": "tam",
+      "source_R": "tan",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atreuido",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tam²",
+        "tai_lo_standard": "tám",
+        "phonological_basis": "17c Dominican orthography conversion: tam (胆) -> tam² / tám."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "atreuido, bestial",
+      "source_H": "莽 蕩 [疑:冏湯]",
+      "source_M": "bong tong.",
+      "source_R": "bang tong",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atreuido, bestial",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bɔŋ² tɔŋ²",
+        "tai_lo_standard": "bóng-tóng",
+        "phonological_basis": "17c Dominican orthography conversion: bong (莽) -> bɔŋ² / bóng; tong (蕩) -> tɔŋ² / tóng."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "atreuido feroz -",
+      "source_H": "粗 心",
+      "source_M": "chui sim.",
+      "source_R": "chu jin",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atreuido feroz -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰui² sim⁵",
+        "tai_lo_standard": "tshuí-sîm",
+        "phonological_basis": "17c Dominican orthography conversion: chui (粗) -> tsʰui² / tshuí; sim (心) -> sim⁵ / sîm."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "atreuido firme con - ni fabent",
+      "source_H": "不 諒",
+      "source_M": "pui tiang.",
+      "source_R": "pu liang",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atreuido firme con - ni fabent",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pui⁵ tiaŋ⁵",
+        "tai_lo_standard": "puî-tiâng",
+        "phonological_basis": "17c Dominican orthography conversion: pui (不) -> pui⁵ / puî; tiang (諒) -> tiaŋ⁵ / tiâng."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "atreuido valiente",
+      "source_H": "勇 敢",
+      "source_M": "iong cam.",
+      "source_R": "yong cam",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "atreuido valiente",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ioŋ² kam²",
+        "tai_lo_standard": "ióng-kám",
+        "phonological_basis": "17c Dominican orthography conversion: iong (勇) -> ioŋ² / ióng; cam (敢) -> kam² / kám."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "A til delibin",
+      "source_H": "冊 探 [疑:扯過]",
+      "source_M": "che güe.",
+      "source_R": "che guo.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A til delibin",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰe² gi² e¹",
+        "tai_lo_standard": "tshé-gí-e",
+        "phonological_basis": "17c Dominican orthography conversion: che (冊) -> tsʰe² / tshé; g (探) -> gi² / gí; e (?) -> e¹ / e."
+      }
+    }
+  ]
+}

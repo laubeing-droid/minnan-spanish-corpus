@@ -1,0 +1,388 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 519,
+  "historical_folio": 485,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0519/pdf_0519_300dpi.png",
+  "page_header": "G. ante. O.",
+  "page_footer_printed": "- 485 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Gouierno politico ⁿ",
+      "source_H": "禮",
+      "source_M": "lêy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Gouierno politico ⁿ",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lei³",
+        "tai_lo_standard": "lèi",
+        "phonological_basis": "17c Dominican orthography conversion: lêy (禮) -> lei³ / lèi."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Golfo-",
+      "source_H": "洋",
+      "source_M": "iāng: yõ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Golfo-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iaŋ⁵ ĩõ¹",
+        "tai_lo_standard": "iâng-ionn",
+        "phonological_basis": "17c Dominican orthography conversion: iāng (洋) -> iaŋ⁵ / iâng; yõ (?) -> ĩõ¹ / ionn."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Golpear. Aux.",
+      "source_H": "打",
+      "source_M": "fã. 8a [残]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Golpear. Aux.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fã¹ a¹",
+        "tai_lo_standard": "fann-a",
+        "phonological_basis": "17c Dominican orthography conversion: fã (打) -> fã¹ / fann; a (?) -> a¹ / a."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "golpear como el Zlaba.",
+      "source_H": "捺 [疑:捺/捏]",
+      "source_M": "liẽ.",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "golpear como el Zlaba.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lĩẽ¹",
+        "tai_lo_standard": "lienn",
+        "phonological_basis": "17c Dominican orthography conversion: liẽ (捺) -> lĩẽ¹ / lienn."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Golpear.",
+      "source_H": "拂",
+      "source_M": "(Thūi.)",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Golpear.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰui⁵",
+        "tai_lo_standard": "thuî",
+        "phonological_basis": "17c Dominican orthography conversion: Thūi (拂) -> tʰui⁵ / thuî."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Golpear llamando vno al ayunto",
+      "source_H": "敲",
+      "source_M": "caù. muỹ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Golpear llamando vno al ayunto",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kau² mu⁶",
+        "tai_lo_standard": "káu-mū",
+        "phonological_basis": "17c Dominican orthography conversion: caù (敲) -> kau² / káu; mu (?) -> mu⁶ / mū."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Golpear con el abanico en la mano",
+      "source_H": "拍",
+      "source_M": "pa [残]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Golpear con el abanico en la mano",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pʰa¹",
+        "tai_lo_standard": "pha",
+        "phonological_basis": "17c Dominican orthography conversion: pa (拍) -> pʰa¹ / pha."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Golpear en los pechos ⁿ",
+      "source_H": "捶",
+      "source_M": "tūy. húy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Golpear en los pechos ⁿ",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tui⁵ hui¹",
+        "tai_lo_standard": "tuî-hui",
+        "phonological_basis": "17c Dominican orthography conversion: tūy (捶) -> tui⁵ / tuî; húy (?) -> hui¹ / hui."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Golpear, dar porrazos.",
+      "source_H": "擊",
+      "source_M": "quêg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Golpear, dar porrazos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kek⁷",
+        "tai_lo_standard": "kek",
+        "phonological_basis": "17c Dominican orthography conversion: quêg (擊) -> kek⁷ / kek."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Golpear, dar porrazos.",
+      "source_H": "卻 [疑:卻/却]",
+      "source_M": "quiăg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Golpear, dar porrazos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki² gi¹",
+        "tai_lo_standard": "kí-gi",
+        "phonological_basis": "17c Dominican orthography conversion: qui (卻) -> ki² / kí; g (?) -> gi¹ / gi."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Golpear haciendo ruido.",
+      "source_H": "叩",
+      "source_M": "câ: cuĩ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Golpear haciendo ruido.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka³ kũĩ¹",
+        "tai_lo_standard": "kà-kuinn",
+        "phonological_basis": "17c Dominican orthography conversion: câ (叩) -> ka³ / kà; cuĩ (?) -> kũĩ¹ / kuinn."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Golpear, azotar.",
+      "source_H": "打着",
+      "source_M": "pa quió: pa quió.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T01 (升斜)",
+        "T06/T07 (交叉入聲號)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Golpear, azotar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paʔ⁷ kio¹ paʔ⁷ kio¹",
+        "tai_lo_standard": "pah-kio-pah-kio",
+        "phonological_basis": "17c Dominican orthography conversion: pa (打) -> paʔ⁷ / pah; quió (着) -> kio¹ / kio; pa (?) -> paʔ⁷ / pah; quió (?) -> kio¹ / kio."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Golpear, azotar.",
+      "source_H": "叩着",
+      "source_M": "câ quió.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Golpear, azotar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka³ kio¹",
+        "tai_lo_standard": "kà-kio",
+        "phonological_basis": "17c Dominican orthography conversion: câ (叩) -> ka³ / kà; quió (着) -> kio¹ / kio."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Golpear, azotar.",
+      "source_H": "擲着",
+      "source_M": "câ quió azotar",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Golpear, azotar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka³ kio¹ azotar¹",
+        "tai_lo_standard": "kà-kio-azotar",
+        "phonological_basis": "17c Dominican orthography conversion: câ (擲) -> ka³ / kà; quió (着) -> kio¹ / kio; azotar (?) -> azotar¹ / azotar."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Golpear la basija quebrada —",
+      "source_H": "扣國 [疑:國/囯]",
+      "source_M": "câ hām.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Golpear la basija quebrada —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka³ ham⁵",
+        "tai_lo_standard": "kà-hâm",
+        "phonological_basis": "17c Dominican orthography conversion: câ (扣) -> ka³ / kà; hām (國) -> ham⁵ / hâm."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Golpear la basija quebrada —",
+      "source_H": "梢了 [疑:梢/捎]",
+      "source_M": "sāu liàu.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Golpear la basija quebrada —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sau⁵ liau²",
+        "tai_lo_standard": "sâu-liáu",
+        "phonological_basis": "17c Dominican orthography conversion: sāu (梢) -> sau⁵ / sâu; liàu (了) -> liau² / liáu."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Golpear el cliento como el echizo ⁿ",
+      "source_H": "扣遮風",
+      "source_M": "câ chía hõng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Golpear el cliento como el echizo ⁿ",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka³ tsia¹ hɔ̃ŋ⁵",
+        "tai_lo_standard": "kà-tsia-hông",
+        "phonological_basis": "17c Dominican orthography conversion: câ (扣) -> ka³ / kà; chía (遮) -> tsia¹ / tsia; hõng (風) -> hɔ̃ŋ⁵ / hông."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Golpear que se quebra",
+      "source_H": "却却响",
+      "source_M": "quiâg quiâg hiò.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Golpear que se quebra",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiak⁷ kiak⁷ hio²",
+        "tai_lo_standard": "kiak-kiak-hió",
+        "phonological_basis": "17c Dominican orthography conversion: quiâg (却) -> kiak⁷ / kiak; quiâg (却) -> kiak⁷ / kiak; hiò (响) -> hio² / hió."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Golpear la puerta ⁿ",
+      "source_H": "却却扣",
+      "source_M": "quiâg quiâg câ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Golpear la puerta ⁿ",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiak⁷ kiak⁷ ka³",
+        "tai_lo_standard": "kiak-kiak-kà",
+        "phonological_basis": "17c Dominican orthography conversion: quiâg (却) -> kiak⁷ / kiak; quiâg (却) -> kiak⁷ / kiak; câ (扣) -> ka³ / kà."
+      }
+    }
+  ]
+}

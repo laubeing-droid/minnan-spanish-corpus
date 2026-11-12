@@ -1,0 +1,224 @@
+{
+  "page": 10,
+  "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_91_2_extrav_13/pdf_010.png",
+  "image_sha256": "51c80bf9621022121cca49c5651e3eb67062a855db0e08c717b26dc8c3baf2e9",
+  "old": "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_91_2_extrav_13/pdf_010.md",
+  "old_sha256": "128557bcae9c2fcc46d6ba3793e29d6cd83ba2bc12b97c22118af904b919bb76",
+  "visual_review": true,
+  "full_text_verified": false,
+  "observation": "180度图逐栏回看：主面确为八列，最左R08完整落在同一纸面；更左跨装订缝窄字不并入。R06下部有重叠改字，R01及R02下端修补淡失；旧候选保留。将正文前7栏说明改为8栏，消除与R08及校记矛盾。",
+  "changes": [
+    {
+      "old": "主幅右起7栏",
+      "new": "主幅右起8栏",
+      "reason": "读向图同一主纸面从右至左可数八条字列；最左主列不等于跨缝另页窄栏。"
+    }
+  ],
+  "text_sha256": "75129884a862ceb0a13a417e611167241c85c2f0811fb38b2c4de63dd3c38c58",
+  "lines": [
+    {
+      "old_line": 1,
+      "old_text": "# HAB 91.2 Extrav. 13｜PDF 010",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 2,
+      "old_text": "",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 3,
+      "old_text": "- 类型：草写中文音写正文",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 4,
+      "old_text": "- 原图：pdf_010.png",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 5,
+      "old_text": "- 读取转向：180°；原图保持原向。",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 6,
+      "old_text": "- 来源：本地已下载PDF，扫描为约1024像素宽低清图；300dpi渲染不增加原生细节。",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 7,
+      "old_text": "- 状态：部分识读／定位记录；正文未全文核定；疑处不按语义填补。",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 8,
+      "old_text": "",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 9,
+      "old_text": "## 原文及分区",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 10,
+      "old_text": "",
+      "disposition": "body",
+      "new_text": "",
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 11,
+      "old_text": "读向转180°，主幅右起7栏（左极边另页窄栏不拼入）。○表示可见小圈。",
+      "disposition": "editorial",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 12,
+      "old_text": "R01 敬奴丕牙粹徕丕是巴腊棉巴主〔下段约三字淡残〕〔敬、粹、徕、腊、棉疑读〕",
+      "disposition": "body",
+      "new_text": "R01 敬奴丕牙粹徕丕是巴腊棉巴主〔下段约三字淡残〕〔敬、粹、徕、腊、棉疑读〕",
+      "final_body_lines": [
+        1
+      ],
+      "final_disposition": "candidate_body"
+    },
+    {
+      "old_line": 13,
+      "old_text": "R02 陰祈粹棉于催富勿丕西徵沙巴腊丕氏益〔下约一字残〕〔陰、祈、粹、棉、催、徵、腊疑读〕",
+      "disposition": "body",
+      "new_text": "R02 陰祈粹棉于催富勿丕西徵沙巴腊丕氏益〔下约一字残〕〔陰、祈、粹、棉、催、徵、腊疑读〕",
+      "final_body_lines": [
+        2
+      ],
+      "final_disposition": "candidate_body"
+    },
+    {
+      "old_line": 14,
+      "old_text": "R03 沙王腊翁勿丕西徵沙巴腊丕氏○年倍似非西士〔腊、翁、徵、倍似疑读〕",
+      "disposition": "body",
+      "new_text": "R03 沙王腊翁勿丕西徵沙巴腊丕氏○年倍似非西士〔腊、翁、徵、倍似疑读〕",
+      "final_body_lines": [
+        3
+      ],
+      "final_disposition": "candidate_body"
+    },
+    {
+      "old_line": 15,
+      "old_text": "R04 巴腊勿腊○实即丕是一是沙富勿丕死甲含来〔下约一字残〕〔腊、即、死、含疑读〕",
+      "disposition": "body",
+      "new_text": "R04 巴腊勿腊○实即丕是一是沙富勿丕死甲含来〔下约一字残〕〔腊、即、死、含疑读〕",
+      "final_body_lines": [
+        4
+      ],
+      "final_disposition": "candidate_body"
+    },
+    {
+      "old_line": 16,
+      "old_text": "R05 心氏○是汝富勿丕哎非池徵即其益实沙即西〔哎、池、徵、即疑读〕",
+      "disposition": "body",
+      "new_text": "R05 心氏○是汝富勿丕哎非池徵即其益实沙即西〔哎、池、徵、即疑读〕",
+      "final_body_lines": [
+        5
+      ],
+      "final_disposition": "candidate_body"
+    },
+    {
+      "old_line": 17,
+      "old_text": "R06 池交卋即西一是〔小改字未定〕交卋是彦连腊磪巴腊〔末一叠写字未定〕〔池、即、彦、腊、磪疑读〕",
+      "disposition": "body",
+      "new_text": "R06 池交卋即西一是〔小改字未定〕交卋是彦连腊磪巴腊〔末一叠写字未定〕〔池、即、彦、腊、磪疑读〕",
+      "final_body_lines": [
+        6
+      ],
+      "final_disposition": "candidate_body"
+    },
+    {
+      "old_line": 18,
+      "old_text": "R07 奴毛暗腊巴是千粹府郎牙棉○益实沙民厨○公年〔毛、暗腊、粹、郎、棉疑读〕",
+      "disposition": "body",
+      "new_text": "R07 奴毛暗腊巴是千粹府郎牙棉○益实沙民厨○公年〔毛、暗腊、粹、郎、棉疑读〕",
+      "final_body_lines": [
+        7
+      ],
+      "final_disposition": "candidate_body"
+    },
+    {
+      "old_line": 19,
+      "old_text": "R08〔更左仍属主纸面的第8栏，接上读向〕罗具○彦奴府罗具深里○富勿丕別粹〔一字疑：加〕○西池〔下字残〕〔罗、彦、深里、粹、池疑读〕",
+      "disposition": "body",
+      "new_text": "R08〔更左仍属主纸面的第8栏，接上读向〕罗具○彦奴府罗具深里○富勿丕別粹〔一字疑：加〕○西池〔下字残〕〔罗、彦、深里、粹、池疑读〕",
+      "final_body_lines": [
+        8
+      ],
+      "final_disposition": "candidate_body"
+    },
+    {
+      "old_line": 20,
+      "old_text": "",
+      "disposition": "body",
+      "new_text": "",
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 21,
+      "old_text": "## 校记",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 22,
+      "old_text": "",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 23,
+      "old_text": "原图image=00008，实际主面可见8条竖字列，上方栏目说明7栏为初数，R08单独定位补列，避免遗漏。右纸边虫蚀修补，靠底图有透明压片，底末小字细笔不足；本稿仅音写候选与定位，所有未读准字明确标疑，不按同类音写规律填满。",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    }
+  ],
+  "final_text_sha256": "75129884a862ceb0a13a417e611167241c85c2f0811fb38b2c4de63dd3c38c58",
+  "type": "草写中文音写正文",
+  "final_body_line_count": 8,
+  "extraction_note": "正文候选中的方位、行号与疑读括注为编者标签；全旧行在本映射原样保留。初次text/提取层被此final_text层替代，旧文件未改。"
+}

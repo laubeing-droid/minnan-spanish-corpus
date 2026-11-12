@@ -1,0 +1,506 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 102,
+  "historical_folio": 73,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0102/pdf_0102_300dpi.png",
+  "page_header": "A. ante. N",
+  "page_footer_printed": "- 73 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "angostos",
+      "source_H": "陝",
+      "source_M": "quiāp",
+      "source_R": "hiāp",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "angostos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiap⁷",
+        "tai_lo_standard": "kiap",
+        "phonological_basis": "17c Dominican orthography conversion: quiāp (陝) -> kiap⁷ / kiap."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "angostos estrechos .",
+      "source_H": "隘. [疑:隘/陿]",
+      "source_M": "ay.",
+      "source_R": "āy",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "angostos estrechos .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ai²",
+        "tai_lo_standard": "ái",
+        "phonological_basis": "17c Dominican orthography conversion: ay (隘) -> ai² / ái."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "[空]",
+      "source_H": "[空]",
+      "source_M": "muā",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mua⁶",
+        "tai_lo_standard": "muā",
+        "phonological_basis": "17c Dominican orthography conversion: muā (?) -> mua⁶ / muā."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Anguilla [划删]",
+      "source_H": "鰻",
+      "source_M": "[残][划删]",
+      "source_R": "muān",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Anguilla",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "anguilla .",
+      "source_H": "鰻魚",
+      "source_M": "siēn muā̃ hī",
+      "source_R": "muān xî",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "anguilla .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sien⁵ mũã⁵ hi⁶",
+        "tai_lo_standard": "siên-muânn-hī",
+        "phonological_basis": "17c Dominican orthography conversion: siēn (鰻) -> sien⁵ / siên; muā̃ (魚) -> mũã⁵ / muânn; hī (?) -> hi⁶ / hī."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "anguilla .",
+      "source_H": "鰭 [疑:鰭/鱔]",
+      "source_M": "siēn.",
+      "source_R": "siēn",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "anguilla .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sien²",
+        "tai_lo_standard": "sién",
+        "phonological_basis": "17c Dominican orthography conversion: siēn (鰭) -> sien² / sién."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "anguilla escolada [划删] [疑:escolada]",
+      "source_H": "鰭鰻 [疑:鰭/鱔]",
+      "source_M": "siēn muā̃ / siēn hū.",
+      "source_R": "siēn muān",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "anguilla escolada",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sien² mũã⁵ sien⁶ hu⁶",
+        "tai_lo_standard": "sién-muânn-siēn-hū",
+        "phonological_basis": "17c Dominican orthography conversion: siēn (鰭) -> sien² / sién; muā̃ (鰻) -> mũã⁵ / muânn; siēn (?) -> sien⁶ / siēn; hū (?) -> hu⁶ / hū."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "anguilla colordano / muraeña pa comer.",
+      "source_H": "鰭魚 [疑:鰭/鱔]",
+      "source_M": "siēn hī. [划删]",
+      "source_R": "siēn xî",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "anguilla colordano / muraeña pa comer.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sien⁵ hi⁵",
+        "tai_lo_standard": "siên-hî",
+        "phonological_basis": "17c Dominican orthography conversion: siēn (鰭) -> sien⁵ / siên; hī (魚) -> hi⁵ / hî."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "anguilla grande fanda [疑:fanda/farda]",
+      "source_H": "鱸鰻",
+      "source_M": "lōi muā̃,",
+      "source_R": "lǔ muān",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "anguilla grande fanda",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "loi⁵ mũã⁵",
+        "tai_lo_standard": "lôi-muânn",
+        "phonological_basis": "17c Dominican orthography conversion: lōi (鱸) -> loi⁵ / lôi; muā̃ (鰻) -> mũã⁵ / muânn."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Anguila, otras / recio",
+      "source_H": "鈍",
+      "source_M": "tūn",
+      "source_R": "tūn",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Anguila, otras / recio",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tun⁵",
+        "tai_lo_standard": "tûn",
+        "phonological_basis": "17c Dominican orthography conversion: tūn (鈍) -> tun⁵ / tûn."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Anillos chiū chāy",
+      "source_H": "戒指",
+      "source_M": "cāy chy.",
+      "source_R": "(chīn chūen) cāy chǐ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Anillos chiū chāy",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kai⁵ tsi¹",
+        "tai_lo_standard": "kâi-tsi",
+        "phonological_basis": "17c Dominican orthography conversion: cāy (戒) -> kai⁵ / kâi; chy (指) -> tsi¹ / tsi."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "anillos dela empuñadura / dela espada.",
+      "source_H": "劍閘口 [疑:閘/匣]",
+      "source_M": "guîam chà cáĩ.",
+      "source_R": "guīen chàgněu",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "anillos dela empuñadura / dela espada.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guiam³ tsa² kãĩ¹",
+        "tai_lo_standard": "guiàm-tsá-kainn",
+        "phonological_basis": "17c Dominican orthography conversion: guîam (劍) -> guiam³ / guiàm; chà (閘) -> tsa² / tsá; cáĩ (口) -> kãĩ¹ / kainn."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Animal numeral,",
+      "source_H": "隻",
+      "source_M": "chiā",
+      "source_R": "chȳ",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Animal numeral,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsia⁵",
+        "tai_lo_standard": "tsiâ",
+        "phonological_basis": "17c Dominican orthography conversion: chiā (隻) -> tsia⁵ / tsiâ."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "animal montaraz",
+      "source_H": "野",
+      "source_M": "ya",
+      "source_R": "yě",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animal montaraz",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ia²",
+        "tai_lo_standard": "iá",
+        "phonological_basis": "17c Dominican orthography conversion: ya (野) -> ia² / iá."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "animal bestia. | maltrcion",
+      "source_H": "野畨 [疑:畨/番]",
+      "source_M": "ya huān.",
+      "source_R": "yě fǎn",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animal bestia. | maltrcion",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ia² huan⁵",
+        "tai_lo_standard": "iá-huân",
+        "phonological_basis": "17c Dominican orthography conversion: ya (野) -> ia² / iá; huān (畨) -> huan⁵ / huân."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "animal bestia, sin rason / valle de bestia, yaciones -",
+      "source_H": "野獌 [疑:獌/僈]",
+      "source_M": "ya hā̃",
+      "source_R": "yě hān",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animal bestia, sin rason / valle de bestia, yaciones -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ia² hã⁵",
+        "tai_lo_standard": "iá-hânn",
+        "phonological_basis": "17c Dominican orthography conversion: ya (野) -> ia² / iá; hā̃ (獌) -> hã⁵ / hânn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "animal casero, e maltrcion [划删]",
+      "source_H": "畜",
+      "source_M": "chēy [划删]",
+      "source_R": "chŏ",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animal casero, e maltrcion",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsei⁵",
+        "tai_lo_standard": "tsêi",
+        "phonological_basis": "17c Dominican orthography conversion: chēy (畜) -> tsei⁵ / tsêi."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "animal casero | e maltrcion .",
+      "source_H": "畜生/",
+      "source_M": "chēy sē̃/",
+      "source_R": "chŏ sěng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animal casero | e maltrcion .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsei⁵ sẽ⁵",
+        "tai_lo_standard": "tsêi-sênn",
+        "phonological_basis": "17c Dominican orthography conversion: chēy (畜) -> tsei⁵ / tsêi; sē̃ (生) -> sẽ⁵ / sênn."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "animal casero",
+      "source_H": "牲",
+      "source_M": "sēy.",
+      "source_R": "sěng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animal casero",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sei⁵",
+        "tai_lo_standard": "sêi",
+        "phonological_basis": "17c Dominican orthography conversion: sēy (牲) -> sei⁵ / sêi."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "animales de 2 pies y las aves / que hablan y marquezon [划删]",
+      "source_H": "禽",
+      "source_M": "[残][划删]",
+      "source_R": "guīn",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animales de 2 pies y las aves / que hablan y marquezon",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "animales de 2 pies y las aves / quant tienen marquezon.",
+      "source_H": "禽獸",
+      "source_M": "gīm: quim; fīn / lōng sū:",
+      "source_R": "guīn sū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animales de 2 pies y las aves / quant tienen marquezon.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gim⁵ kim⁵ fin⁶ lɔŋ⁶ su⁶",
+        "tai_lo_standard": "gîm-kîm-fīn-lōng-sū",
+        "phonological_basis": "17c Dominican orthography conversion: gīm (禽) -> gim⁵ / gîm; quim (獸) -> kim⁵ / kîm; fīn (?) -> fin⁶ / fīn; lōng (?) -> lɔŋ⁶ / lōng; sū (?) -> su⁶ / sū."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "animal de 4 vos dezpiés. / como el daña alos hombres [疑:daña/dana]",
+      "source_H": "狼",
+      "source_M": "lōng,",
+      "source_R": "láng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animal de 4 vos dezpiés. / como el daña alos hombres",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lɔŋ⁵",
+        "tai_lo_standard": "lông",
+        "phonological_basis": "17c Dominican orthography conversion: lōng (狼) -> lɔŋ⁵ / lông."
+      }
+    }
+  ]
+}

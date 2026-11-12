@@ -1,0 +1,439 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 522,
+  "historical_folio": 488,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0522/pdf_0522_300dpi.png",
+  "page_header": "G. ante.",
+  "page_footer_printed": "- 488 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "gozar. salirse -",
+      "source_H": "滲",
+      "source_M": "siâm",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "gozar. salirse -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siam³",
+        "tai_lo_standard": "siàm",
+        "phonological_basis": "17c Dominican orthography conversion: siâm (滲) -> siam³ / siàm."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "gozar, salirse.",
+      "source_H": "滲漏",
+      "source_M": "siâm làu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "gozar, salirse.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siam³ lau²",
+        "tai_lo_standard": "siàm-láu",
+        "phonological_basis": "17c Dominican orthography conversion: siâm (滲) -> siam³ / siàm; làu (漏) -> lau² / láu."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "gozar, salirse.",
+      "source_H": "滲出來",
+      "source_M": "siâm chut lāi",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "gozar, salirse.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siam³ tsʰut⁷ lai⁵",
+        "tai_lo_standard": "siàm-tshut-lâi",
+        "phonological_basis": "17c Dominican orthography conversion: siâm (滲) -> siam³ / siàm; chut (出) -> tsʰut⁷ / tshut; lāi (來) -> lai⁵ / lâi."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "gozar, caer gota a gota",
+      "source_H": "點乙滴[疑:乙/之]",
+      "source_M": "tiàm tiàm ty",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "gozar, caer gota a gota",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiam² tiam² ti¹",
+        "tai_lo_standard": "tiám-tiám-ti",
+        "phonological_basis": "17c Dominican orthography conversion: tiàm (點) -> tiam² / tiám; tiàm (乙) -> tiam² / tiám; ty (滴) -> ti¹ / ti."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "G.",
+      "source_H": "ante.",
+      "source_M": "R.",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "G.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "r¹",
+        "tai_lo_standard": "r",
+        "phonological_basis": "17c Dominican orthography conversion: R (?) -> r¹ / r."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Grande.",
+      "source_H": "大",
+      "source_M": "Tòa: tày.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Grande.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toa² tai²",
+        "tai_lo_standard": "toá-tái",
+        "phonological_basis": "17c Dominican orthography conversion: Tòa (大) -> toa² / toá; tày (?) -> tai² / tái."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "grande.",
+      "source_H": "廣",
+      "source_M": "còng. ancho. còng tày.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "grande.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ²",
+        "tai_lo_standard": "kóng",
+        "phonological_basis": "17c Dominican orthography conversion: còng (廣) -> kɔŋ² / kóng."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "grande.",
+      "source_H": "恢",
+      "source_M": "cúe.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "grande.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kue¹",
+        "tai_lo_standard": "kue",
+        "phonological_basis": "17c Dominican orthography conversion: cúe (恢) -> kue¹ / kue."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "grande.",
+      "source_H": "喬",
+      "source_M": "guiaū.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "grande.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guiau⁵",
+        "tai_lo_standard": "guiâu",
+        "phonological_basis": "17c Dominican orthography conversion: guiaū (喬) -> guiau⁵ / guiâu."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "grande.",
+      "source_H": "碩",
+      "source_M": "sèg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "grande.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sek⁷",
+        "tai_lo_standard": "sek",
+        "phonological_basis": "17c Dominican orthography conversion: sèg (碩) -> sek⁷ / sek."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "grande.",
+      "source_H": "長",
+      "source_M": "tiàng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "grande.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiaŋ²",
+        "tai_lo_standard": "tiáng",
+        "phonological_basis": "17c Dominican orthography conversion: tiàng (長) -> tiaŋ² / tiáng."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "grande.",
+      "source_H": "統",
+      "source_M": "tòng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "grande.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰɔŋ²",
+        "tai_lo_standard": "thóng",
+        "phonological_basis": "17c Dominican orthography conversion: tòng (統) -> tʰɔŋ² / thóng."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "grande.",
+      "source_H": "巨",
+      "source_M": "cù.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "grande.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ku²",
+        "tai_lo_standard": "kú",
+        "phonological_basis": "17c Dominican orthography conversion: cù (巨) -> ku² / kú."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "grande.",
+      "source_H": "家[疑:家/崇]",
+      "source_M": "siong.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "grande.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sioŋ²",
+        "tai_lo_standard": "sióng",
+        "phonological_basis": "17c Dominican orthography conversion: siong (家) -> sioŋ² / sióng."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "grande anchw.",
+      "source_H": "弘",
+      "source_M": "hōng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "grande anchw.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ⁵",
+        "tai_lo_standard": "hông",
+        "phonological_basis": "17c Dominican orthography conversion: hōng (弘) -> hɔŋ⁵ / hông."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "grande aguay -",
+      "source_H": "浩",
+      "source_M": "hò.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "grande aguay -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho²",
+        "tai_lo_standard": "hó",
+        "phonological_basis": "17c Dominican orthography conversion: hò (浩) -> ho² / hó."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "grande aguay.",
+      "source_H": "浩大",
+      "source_M": "hò tày.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "grande aguay.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho² tai²",
+        "tai_lo_standard": "hó-tái",
+        "phonological_basis": "17c Dominican orthography conversion: hò (浩) -> ho² / hó; tày (大) -> tai² / tái."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "grande de barriga.",
+      "source_H": "脹",
+      "source_M": "tiô.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "grande de barriga.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tio³",
+        "tai_lo_standard": "tiò",
+        "phonological_basis": "17c Dominican orthography conversion: tiô (脹) -> tio³ / tiò."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "grande mas grande.",
+      "source_H": "泰",
+      "source_M": "tay.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "grande mas grande.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰai¹",
+        "tai_lo_standard": "thai",
+        "phonological_basis": "17c Dominican orthography conversion: tay (泰) -> tʰai¹ / thai."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "grande, alto -",
+      "source_H": "高",
+      "source_M": "cuān.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "grande, alto -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuan⁵",
+        "tai_lo_standard": "kuân",
+        "phonological_basis": "17c Dominican orthography conversion: cuān (高) -> kuan⁵ / kuân."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "grande de cuerpo fuerte.",
+      "source_H": "壯",
+      "source_M": "chióng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "grande de cuerpo fuerte.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsioŋ¹",
+        "tai_lo_standard": "tsiong",
+        "phonological_basis": "17c Dominican orthography conversion: chióng (壯) -> tsioŋ¹ / tsiong."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "grande mence -",
+      "source_H": "隆",
+      "source_M": "liōng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "grande mence -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lioŋ⁵",
+        "tai_lo_standard": "liông",
+        "phonological_basis": "17c Dominican orthography conversion: liōng (隆) -> lioŋ⁵ / liông."
+      }
+    }
+  ]
+}

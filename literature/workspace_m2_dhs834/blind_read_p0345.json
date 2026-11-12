@@ -1,0 +1,539 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 345,
+  "historical_folio": 316,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0345/pdf_0345_300dpi.png",
+  "page_header": "D. ante. E",
+  "page_footer_printed": "- 316 -",
+  "page_footer_handwritten": "88",
+  "total_positions_recorded": 23,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "dedo pulgar.",
+      "source_H": "指頭母",
+      "source_M": "chēỹ tāu bó",
+      "source_R": "chí tên mú",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dedo pulgar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse⁵ tʰau⁵ bo¹",
+        "tai_lo_standard": "tsê-thâu-bo",
+        "phonological_basis": "17c Dominican orthography conversion: chē (指) -> tse⁵ / tsê; tāu (頭) -> tʰau⁵ / thâu; bó (母) -> bo¹ / bo."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "dedo pulgar",
+      "source_H": "大母指",
+      "source_M": "tvā pōu cháy",
+      "source_R": "tā mín chí",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dedo pulgar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tva⁵ pou⁵ tsai¹",
+        "tai_lo_standard": "tvâ-pôu-tsai",
+        "phonological_basis": "17c Dominican orthography conversion: tvā (大) -> tva⁵ / tvâ; pōu (母) -> pou⁵ / pôu; cháy (指) -> tsai¹ / tsai."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "dedo anular. xi chay",
+      "source_H": "小母",
+      "source_M": "siǒ sī.",
+      "source_R": "cheng olgay) siân min",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dedo anular. xi chay",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio³ si⁵",
+        "tai_lo_standard": "siò-sî",
+        "phonological_basis": "17c Dominican orthography conversion: siǒ (小) -> sio³ / siò; sī (母) -> si⁵ / sî."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "dedo anuley.",
+      "source_H": "二指",
+      "source_M": "xī chay",
+      "source_R": "īd chí",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dedo anuley.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzi⁵ tsai¹",
+        "tai_lo_standard": "jî-tsai",
+        "phonological_basis": "17c Dominican orthography conversion: xī (二) -> dzi⁵ / jî; chay (指) -> tsai¹ / tsai."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "dedo de en medio",
+      "source_H": "中指",
+      "source_M": "tiōng chay",
+      "source_R": "candal day) chǒng chí",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dedo de en medio",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tioŋ⁵ tsai¹",
+        "tai_lo_standard": "tiông-tsai",
+        "phonological_basis": "17c Dominican orthography conversion: tiōng (中) -> tioŋ⁵ / tiông; chay (指) -> tsai¹ / tsai."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "dedo quarto, o cardinal, no tiene nombre",
+      "source_H": "無名指",
+      "source_M": "bū bēng chay",
+      "source_R": "nang day) bū mēng chī",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dedo quarto, o cardinal, no tiene nombre",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bu⁵ beŋ⁵ tsai¹",
+        "tai_lo_standard": "bû-bêng-tsai",
+        "phonological_basis": "17c Dominican orthography conversion: bū (無) -> bu⁵ / bû; bēng (名) -> beŋ⁵ / bêng; chay (指) -> tsai¹ / tsai."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "dedo menique.",
+      "source_H": "尾指仔",
+      "source_M": "buē chǎy iá.",
+      "source_R": "cun day) buēy chí cháy",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dedo menique.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue⁵ tsai¹ ia¹",
+        "tai_lo_standard": "buê-tsai-ia",
+        "phonological_basis": "17c Dominican orthography conversion: buē (尾) -> bue⁵ / buê; chǎy (指) -> tsai¹ / tsai; iá (仔) -> ia¹ / ia."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "dedo pequeño, menique",
+      "source_H": "了戒 [疑:了/子]",
+      "source_M": "liàu cay.",
+      "source_R": "liàng quay",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dedo pequeño, menique",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liau² kai¹",
+        "tai_lo_standard": "liáu-kai",
+        "phonological_basis": "17c Dominican orthography conversion: liàu (了) -> liau² / liáu; cay (戒) -> kai¹ / kai."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Defender. g. ayudar, ampasar.",
+      "source_H": "[空]",
+      "source_M": "bōy iú chūn ìm á.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Defender. g. ayudar, ampasar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "boi⁶ iu¹ tsun⁶ im² a¹",
+        "tai_lo_standard": "bōi-iu-tsūn-ím-a",
+        "phonological_basis": "17c Dominican orthography conversion: bōy (?) -> boi⁶ / bōi; iú (?) -> iu¹ / iu; chūn (?) -> tsun⁶ / tsūn; ìm (?) -> im² / ím; á (?) -> a¹ / a."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Defender en cubriendo la verzidad.",
+      "source_H": "抵塞",
+      "source_M": "lêy sêg.",
+      "source_R": "tỹ sē.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Defender en cubriendo la verzidad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lei³ sek⁷",
+        "tai_lo_standard": "lèi-sek",
+        "phonological_basis": "17c Dominican orthography conversion: lêy (抵) -> lei³ / lèi; sêg (塞) -> sek⁷ / sek."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Di donde viñy.",
+      "source_H": "[空]",
+      "source_M": "tỹ tî lo lāy.",
+      "source_R": "Dina.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Di donde viñy.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti⁶ ti³ lo⁶ lai⁶",
+        "tai_lo_standard": "tī-tì-lō-lāi",
+        "phonological_basis": "17c Dominican orthography conversion: t (?) -> ti⁶ / tī; tî (?) -> ti³ / tì; lo (?) -> lo⁶ / lō; lāy (?) -> lai⁶ / lāi."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Dejar cua jià",
+      "source_H": "捨",
+      "source_M": "pàng sià.",
+      "source_R": "siè.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar cua jià",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paŋ¹ sia¹",
+        "tai_lo_standard": "pang-sia",
+        "phonological_basis": "17c Dominican orthography conversion: pàng (捨) -> paŋ¹ / pang; sià (?) -> sia¹ / sia."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Dejar, faltar.",
+      "source_H": "失",
+      "source_M": "sît.",
+      "source_R": "jiē.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar, faltar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sit⁷",
+        "tai_lo_standard": "sit",
+        "phonological_basis": "17c Dominican orthography conversion: sît (失) -> sit⁷ / sit."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Dejar como comida.",
+      "source_H": "畱算 [疑:畱/晉]",
+      "source_M": "liū: lāu.",
+      "source_R": "liù.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar como comida.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liu⁵ lau⁵",
+        "tai_lo_standard": "liû-lâu",
+        "phonological_basis": "17c Dominican orthography conversion: liū (畱) -> liu⁵ / liû; lāu (算) -> lau⁵ / lâu."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Dejar a su voluntad.",
+      "source_H": "拋",
+      "source_M": "cû chúy.",
+      "source_R": "gūi.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar a su voluntad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ku³ tsui¹",
+        "tai_lo_standard": "kù-tsui",
+        "phonological_basis": "17c Dominican orthography conversion: cû (拋) -> ku³ / kù; chúy (?) -> tsui¹ / tsui."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Dejar a su voluntad. chñy lang.",
+      "source_H": "任 [疑:任/住]",
+      "source_M": "xîm.",
+      "source_R": "xīn.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar a su voluntad. chñy lang.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzim³",
+        "tai_lo_standard": "jìm",
+        "phonological_basis": "17c Dominican orthography conversion: xîm (任) -> dzim³ / jìm."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Dejar acabar.",
+      "source_H": "息 [疑:息/煞]",
+      "source_M": "soa lá toa sū.",
+      "source_R": "sē.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar acabar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "soa¹ la¹ toa² su⁶",
+        "tai_lo_standard": "soa-la-toá-sū",
+        "phonological_basis": "17c Dominican orthography conversion: soa (息) -> soa¹ / soa; lá (?) -> la¹ / la; toa (?) -> toa² / toá; sū (?) -> su⁶ / sū."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Dejar la cuenta asendicha.",
+      "source_H": "諒算 [疑:諒/計]",
+      "source_M": "liâng hûi.",
+      "source_R": "hāng zoān.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar la cuenta asendicha.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liaŋ³ hui³",
+        "tai_lo_standard": "liàng-huì",
+        "phonological_basis": "17c Dominican orthography conversion: liâng (諒) -> liaŋ³ / liàng; hûi (算) -> hui³ / huì."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Dejar la pieza.",
+      "source_H": "罷陣",
+      "source_M": "Pā pin.",
+      "source_R": "pā chīn.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar la pieza.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pa⁵ pin⁵",
+        "tai_lo_standard": "pâ-pîn",
+        "phonological_basis": "17c Dominican orthography conversion: Pā (罷) -> pa⁵ / pâ; pin (陣) -> pin⁵ / pîn."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Dejar el off° para otro, hacer dejacion",
+      "source_H": "告退",
+      "source_M": "cô fè.",
+      "source_R": "cūn sùi.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar el off° para otro, hacer dejacion",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko³ fe²",
+        "tai_lo_standard": "kò-fé",
+        "phonological_basis": "17c Dominican orthography conversion: cô (告) -> ko³ / kò; fè (退) -> fe² / fé."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "Dejar a su voluntad hagalo el quisiere.",
+      "source_H": "由伊",
+      "source_M": "iū y.",
+      "source_R": "ién y.",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar a su voluntad hagalo el quisiere.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu¹ i¹",
+        "tai_lo_standard": "iu-i",
+        "phonological_basis": "17c Dominican orthography conversion: iū (由) -> iu¹ / iu; y (伊) -> i¹ / i."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "Dejar por escrebir una letra.",
+      "source_H": "落一字",
+      "source_M": "lò chè xy.",
+      "source_R": "lō yī chī.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar por escrebir una letra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lo² tse² dzi²",
+        "tai_lo_standard": "ló-tsé-jí",
+        "phonological_basis": "17c Dominican orthography conversion: lò (落) -> lo² / ló; chè (一) -> tse² / tsé; xy (字) -> dzi² / jí."
+      }
+    },
+    {
+      "position": 23,
+      "source_L": "Dejar a su voluntad.",
+      "source_H": "主張",
+      "source_M": "chà chày chù tiō.",
+      "source_R": "chù chiàng.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar a su voluntad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsa² tsai¹ tsu² tio³",
+        "tai_lo_standard": "tsá-tsai-tsú-tiò",
+        "phonological_basis": "17c Dominican orthography conversion: chà (主) -> tsa² / tsá; chày (張) -> tsai¹ / tsai; chù (?) -> tsu² / tsú; tiō (?) -> tio³ / tiò."
+      }
+    }
+  ]
+}

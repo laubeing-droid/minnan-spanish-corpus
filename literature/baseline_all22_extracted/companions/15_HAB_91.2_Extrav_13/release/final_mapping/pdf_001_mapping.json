@@ -1,0 +1,138 @@
+{
+  "page": 1,
+  "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_91_2_extrav_13/pdf_001.png",
+  "image_sha256": "714b6ba865cc0af5a6313296ae86a059a9ac903e50d9ea3941669bc2abd1aa2b",
+  "old": "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_91_2_extrav_13/pdf_001.md",
+  "old_sha256": "181ee9615500fc50f148b49da7eecfa2051f938da15801a553224adbed56a25e",
+  "visual_review": true,
+  "full_text_verified": false,
+  "observation": "整页德文许可页。标题下蓝色CC BY-SA 3.0 Deutschland链接，中央Erläuterung与a) BY，底部两个署名样例及脚注1、2均属现代编者层；无手稿正文。旧稿只摘标题和许可名，本轮不将此误计为古籍全文。",
+  "changes": [],
+  "text_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+  "lines": [
+    {
+      "old_line": 1,
+      "old_text": "# HAB 91.2 Extrav. 13｜PDF 001",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 2,
+      "old_text": "",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 3,
+      "old_text": "- 类型：许可说明页",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 4,
+      "old_text": "- 原图：pdf_001.png",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 5,
+      "old_text": "- 来源：已下载本地PDF；300dpi渲染不等于新增原生细节。",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 6,
+      "old_text": "- 状态：视觉记录／部分识读，非全文核定。",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 7,
+      "old_text": "",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 8,
+      "old_text": "## 可见文字及位置",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 9,
+      "old_text": "",
+      "disposition": "editorial",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 10,
+      "old_text": "标题：Nutzungsbedingungen für Online-Angebote der Herzog August Bibliothek Wolfenbüttel",
+      "disposition": "editorial",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 11,
+      "old_text": "可见许可名称：Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz (CC BY-SA).",
+      "disposition": "editorial",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 12,
+      "old_text": "",
+      "disposition": "editorial",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 13,
+      "old_text": "## 校记",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 14,
+      "old_text": "",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    },
+    {
+      "old_line": 15,
+      "old_text": "现代德文许可说明，包含 Erläuterung、a) Bei der Namensnennung (BY)、Im Druck: 及署名示例。本页只作许可视觉定位记录，未全文重抄；不计古籍正文。",
+      "disposition": "companion",
+      "new_text": null,
+      "final_body_lines": [],
+      "final_disposition": "review_or_legacy"
+    }
+  ],
+  "final_text_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+  "type": "许可说明页",
+  "final_body_line_count": 0,
+  "extraction_note": "正文候选中的方位、行号与疑读括注为编者标签；全旧行在本映射原样保留。初次text/提取层被此final_text层替代，旧文件未改。"
+}

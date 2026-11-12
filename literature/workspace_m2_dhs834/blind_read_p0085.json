@@ -1,0 +1,487 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 85,
+  "historical_folio": 56,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0085/pdf_0085_300dpi.png",
+  "page_header": "A. ante. L.",
+  "page_footer_printed": "- 56 -",
+  "page_footer_handwritten": "28",
+  "total_positions_recorded": 21,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "A. lquitara",
+      "source_H": "熬頭",
+      "source_M": "gō tāũ",
+      "source_R": "ngâu têuⁿ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A. lquitara",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "go⁵ tʰãũ⁵",
+        "tai_lo_standard": "gô-thâunn",
+        "phonological_basis": "17c Dominican orthography conversion: gō (熬) -> go⁵ / gô; tāũ (頭) -> tʰãũ⁵ / thâunn."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "alquitara ℔ᵃ Bínos, otra qual quier cosa ℔ᵃ",
+      "source_H": "熬桶",
+      "source_M": "gō tà̃ng",
+      "source_R": "ngâu tòngⁿ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alquitara ℔ᵃ Bínos, otra qual quier cosa ℔ᵃ",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "go⁵ tʰãŋ²",
+        "tai_lo_standard": "gô-tháng",
+        "phonological_basis": "17c Dominican orthography conversion: gō (熬) -> go⁵ / gô; tà̃ng (桶) -> tʰãŋ² / tháng."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "alquitara para Bíno",
+      "source_H": "熬酒頭",
+      "source_M": "gō chiù̃ tāũ",
+      "source_R": "ngâu chîuⁿ têuⁿ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alquitara para Bíno",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "go⁵ tsĩũ² tʰãũ⁵",
+        "tai_lo_standard": "gô-tsiúnn-thâunn",
+        "phonological_basis": "17c Dominican orthography conversion: gō (熬) -> go⁵ / gô; chiù̃ (酒) -> tsĩũ² / tsiúnn; tāũ (頭) -> tʰãũ⁵ / thâunn."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "L. Lo, natural y moral m.te.",
+      "source_H": "高",
+      "source_M": "có",
+      "source_R": "cǒu: cǎu",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "L. Lo, natural y moral m.te.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko¹",
+        "tai_lo_standard": "ko",
+        "phonological_basis": "17c Dominican orthography conversion: có (高) -> ko¹ / ko."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "alto y noble mucho.",
+      "source_H": "高聳",
+      "source_M": "có tìong",
+      "source_R": "cǒu chòngⁿ",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alto y noble mucho.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko¹ tioŋ²",
+        "tai_lo_standard": "ko-tióng",
+        "phonological_basis": "17c Dominican orthography conversion: có (高) -> ko¹ / ko; tìong (聳) -> tioŋ² / tióng."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "alto mucho y noble.",
+      "source_H": "高崇",
+      "source_M": "có chōng",
+      "source_R": "cǒu zòng",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alto mucho y noble.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko¹ tsɔŋ⁵",
+        "tai_lo_standard": "ko-tsông",
+        "phonological_basis": "17c Dominican orthography conversion: có (高) -> ko¹ / ko; chōng (崇) -> tsɔŋ⁵ / tsông."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "alto pero ay otro mas alto",
+      "source_H": "高高在上",
+      "source_M": "có cô chǎy tiàng",
+      "source_R": "cǒu cǒu chāy tiāng",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alto pero ay otro mas alto",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko¹ ko¹ tsai⁶ tiaŋ²",
+        "tai_lo_standard": "ko-ko-tsāi-tiáng",
+        "phonological_basis": "17c Dominican orthography conversion: có (高) -> ko¹ / ko; cô (高) -> ko¹ / ko; chǎy (在) -> tsai⁶ / tsāi; tiàng (上) -> tiaŋ² / tiáng."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "alto.",
+      "source_H": "長",
+      "source_M": "tǒ",
+      "source_R": "chiàngⁿ: chiângⁿ",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to²",
+        "tai_lo_standard": "tó",
+        "phonological_basis": "17c Dominican orthography conversion: tǒ (長) -> to² / tó."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "alto y noble",
+      "source_H": "聳",
+      "source_M": "tiǒng +",
+      "source_R": "chòngⁿ",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alto y noble",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tioŋ²",
+        "tai_lo_standard": "tióng",
+        "phonological_basis": "17c Dominican orthography conversion: tiǒng (聳) -> tioŋ² / tióng."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "alto noble mandarin",
+      "source_H": "台",
+      "source_M": "Tāỹ",
+      "source_R": "Tāyⁿ",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alto noble mandarin",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ta⁵",
+        "tai_lo_standard": "tâ",
+        "phonological_basis": "17c Dominican orthography conversion: Tā (台) -> ta⁵ / tâ."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "alto noble mandarin",
+      "source_H": "台宦",
+      "source_M": "Tàỹ huân",
+      "source_R": "Tàyⁿ huān",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alto noble mandarin",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ta² huan³",
+        "tai_lo_standard": "tá-huàn",
+        "phonological_basis": "17c Dominican orthography conversion: Tà (台) -> ta² / tá; huân (宦) -> huan³ / huàn."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "alto enq uantidad continua y dista.",
+      "source_H": "高",
+      "source_M": "cuān",
+      "source_R": "cǎu: cǒu",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alto enq uantidad continua y dista.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuan⁵",
+        "tai_lo_standard": "kuân",
+        "phonological_basis": "17c Dominican orthography conversion: cuān (高) -> kuan⁵ / kuân."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "alto cosa alta.",
+      "source_H": "高大",
+      "source_M": "cuān tôa",
+      "source_R": "cǎu tā",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alto cosa alta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuan⁵ toa³",
+        "tai_lo_standard": "kuân-toà",
+        "phonological_basis": "17c Dominican orthography conversion: cuān (高) -> kuan⁵ / kuân; tôa (大) -> toa³ / toà."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "alto noble.",
+      "source_H": "崇",
+      "source_M": "chōng",
+      "source_R": "zòng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alto noble.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsɔŋ⁵",
+        "tai_lo_standard": "tsông",
+        "phonological_basis": "17c Dominican orthography conversion: chōng (崇) -> tsɔŋ⁵ / tsông."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "alto como gradas de yglesia.",
+      "source_H": "岑",
+      "source_M": "gīm",
+      "source_R": "guîmⁿ",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alto como gradas de yglesia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gim⁵",
+        "tai_lo_standard": "gîm",
+        "phonological_basis": "17c Dominican orthography conversion: gīm (岑) -> gim⁵ / gîm."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "alto en cima.",
+      "source_H": "閣",
+      "source_M": "cǒỹ: cô",
+      "source_R": "cō",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alto en cima.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko² ko³",
+        "tai_lo_standard": "kó-kò",
+        "phonological_basis": "17c Dominican orthography conversion: cǒ (閣) -> ko² / kó; cô (?) -> ko³ / kò."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "alto delacasa, o otra cosa qual qr.",
+      "source_H": "樓頂",
+      "source_M": "lāu tèng",
+      "source_R": "lêu tèngⁿ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alto delacasa, o otra cosa qual qr.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lau⁵ teŋ²",
+        "tai_lo_standard": "lâu-téng",
+        "phonological_basis": "17c Dominican orthography conversion: lāu (樓) -> lau⁵ / lâu; tèng (頂) -> teŋ² / téng."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "alto dela caza",
+      "source_H": "樓閣",
+      "source_M": "lāu có",
+      "source_R": "lêu cō",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alto dela caza",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lau⁵ ko¹",
+        "tai_lo_standard": "lâu-ko",
+        "phonological_basis": "17c Dominican orthography conversion: lāu (樓) -> lau⁵ / lâu; có (閣) -> ko¹ / ko."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "alto, sobra de la caza.",
+      "source_H": "樓上",
+      "source_M": "lāu chiù̃",
+      "source_R": "lêu tiāng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alto, sobra de la caza.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lau⁵ tsĩũ²",
+        "tai_lo_standard": "lâu-tsiúnn",
+        "phonological_basis": "17c Dominican orthography conversion: lāu (樓) -> lau⁵ / lâu; chiù̃ (上) -> tsĩũ² / tsiúnn."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "alto del monte.",
+      "source_H": "巔",
+      "source_M": "Tiēn",
+      "source_R": "tiěn",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alto del monte.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tien⁵",
+        "tai_lo_standard": "tiên",
+        "phonological_basis": "17c Dominican orthography conversion: Tiēn (巔) -> tien⁵ / tiên."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "alto dequal quier cosa.",
+      "source_H": "頂",
+      "source_M": "Tèng",
+      "source_R": "tèng",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alto dequal quier cosa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teŋ²",
+        "tai_lo_standard": "téng",
+        "phonological_basis": "17c Dominican orthography conversion: Tèng (頂) -> teŋ² / téng."
+      }
+    }
+  ]
+}

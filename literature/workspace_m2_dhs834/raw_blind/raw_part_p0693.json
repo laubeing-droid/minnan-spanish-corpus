@@ -1,0 +1,27 @@
+{
+  "pages": [
+    {
+      "pdf_page": 693,
+      "historical_folio": 659,
+      "page_header": "N. ante. A.",
+      "page_footer_printed": "- 659 -",
+      "page_footer_handwritten": "",
+      "notes": "页顶手写页标读作 'N. ante. A.'，末字母 A/H 于横带分辨率下难分；页中部另有同文大字分段标记 'N. ante. A.'（非词条行，未计入 entries），其后起为 N 部条目。本页两段：上半 muy 同义组 10 行（花括号括起、跨页续前页），下半 Nabos/Nacar/Nacir 3 行。声调符极小：可靠辨识者仅尖顶帽(T03：pos3/pos5/pos7首音节/pos9首音节)与升斜(T01：pos1、pos9次音节)；其余各符反复读图仍难辨几何形态（介于升斜/平橫/凹角之间），均按 T99 标注待人工校订；pos12 cag 上方符呈两笔交叉状，暂记 T06/T07 入声号（该词 -g 尾入声）。字母存疑：pos1/pos9 首字母 q/g 难分、词尾 j/g 难分，均按 queg 抄录；pos6/8/11/13 词首为手写斜体 t（形近 f），按 t 抄录；pos10 次词元音 i/y 难分；pos11/pos12 个别音节可能带鼻化小钩或词尾小钩，未能确认故未写作 ⁿ。汉字存疑：pos6 第二字左侧似马旁、右部繁密，按驟抄录（音近则概，形近则繫亦属可能）；pos11 第三字[疑:葛/瓜]；pos12 第二字为上士下几简形，按殼（殼之简写形）抄录，或为克/壳。pos13 M 栏 'tau.' 后有墨渍，墨渍下可能掩盖字母，声调符记 T99；L 栏首词读 Nacir（ç/c 难分）。pos9 L 行潦草，'en gran manera' 中个别字母存疑。第4栏官话整栏空白，右缘淡棕痕为透印非字迹。页脚印刷 '- 659 -'，左下红印非页码，未见手写页码。本文件覆盖写入前已存在的一次更早同页抄录，两者分歧主要在声调符几何与若干字母取舍。",
+      "entries": [
+        {"position": 1,  "source_L": "muy~", "source_H": "極", "source_M": "quég", "source_R": "[空]", "tone_marks_M": ["T01 (升斜)"], "tone_marks_R": []},
+        {"position": 2,  "source_L": "muy~", "source_H": "尚", "source_M": "siang", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 3,  "source_L": "muy.", "source_H": "至", "source_M": "chŷ", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 4,  "source_L": "muy~", "source_H": "甚", "source_M": "sim.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 5,  "source_L": "muy mucho.", "source_H": "最", "source_M": "chûe.", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 6,  "source_L": "muy.", "source_H": "大驟 [疑:驟/概]", "source_M": "tay cay.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 7,  "source_L": "muy.", "source_H": "至甚", "source_M": "chŷ sim", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 8,  "source_L": "muy.", "source_H": "太甚", "source_M": "tay sim.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 9,  "source_L": "muy. mucho, en gran manera~", "source_H": "到極", "source_M": "caû quég", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T01 (升斜)"], "tone_marks_R": []},
+        {"position": 10, "source_L": "Muy, superlativo.", "source_H": "即是", "source_M": "chia si", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 11, "source_L": "Nabos~.", "source_H": "頭菜葛 [疑:葛/瓜]", "source_M": "tau chay cua.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 12, "source_L": "Nacar~", "source_H": "珠殼 [疑:殼/克]", "source_M": "chucag", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T06/T07 (交叉入聲號)"], "tone_marks_R": []},
+        {"position": 13, "source_L": "Nacir de enfermedad", "source_H": "疼", "source_M": "tau.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)"], "tone_marks_R": []}
+      ]
+    }
+  ]
+}

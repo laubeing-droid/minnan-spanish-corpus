@@ -1,0 +1,454 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 199,
+  "historical_folio": 170,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0199/pdf_0199_300dpi.png",
+  "page_header": "ante. A.",
+  "page_footer_printed": "- 170 -",
+  "page_footer_handwritten": "85",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "abeca",
+      "source_H": "首",
+      "source_M": "[残]",
+      "source_R": "chiù.[疑:chiù/xeù]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "abeca",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "cabeça de banda, de soldado.",
+      "source_H": "侯頭[疑:侯/後]",
+      "source_M": "caū tāu.[疑:caū/aū]",
+      "source_R": "heù têu.[疑:heù/hèn]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabeça de banda, de soldado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kau⁵ tʰau⁵ kau⁶ au⁶",
+        "tai_lo_standard": "kâu-thâu-kāu-āu",
+        "phonological_basis": "17c Dominican orthography conversion: caū (侯) -> kau⁵ / kâu; tāu (頭) -> tʰau⁵ / thâu; caū (?) -> kau⁶ / kāu; aū (?) -> au⁶ / āu."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "cabeça ç de toça cabellos",
+      "source_H": "毛頭",
+      "source_M": "mō tâu.[疑:mō/mo]",
+      "source_R": "mân têu.[疑:mân/maû]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabeça ç de toça cabellos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mo⁵ tʰau³ mo⁶ mo¹",
+        "tai_lo_standard": "mô-thàu-mō-mo",
+        "phonological_basis": "17c Dominican orthography conversion: mō (毛) -> mo⁵ / mô; tâu (頭) -> tʰau³ / thàu; mō (?) -> mo⁶ / mō; mo (?) -> mo¹ / mo."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "cabeça media cana.",
+      "source_H": "頒白",
+      "source_M": "pañg pêg.[疑:pañg/pang]",
+      "source_R": "pain pē.[疑:pain/pan]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabeça media cana.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pãŋ³ pek⁸ pãŋ¹ paŋ¹",
+        "tai_lo_standard": "pàng-pe̍k-pang-pang",
+        "phonological_basis": "17c Dominican orthography conversion: pañg (頒) -> pãŋ³ / pàng; pêg (白) -> pek⁸ / pe̍k; pañg (?) -> pãŋ¹ / pang; pang (?) -> paŋ¹ / pang."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "cabeça de alguitara.",
+      "source_H": "熬頭",
+      "source_M": "gô tâu.",
+      "source_R": "ngâu têu.[疑:ngâu/ngân]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabeça de alguitara.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "go³ tʰau³",
+        "tai_lo_standard": "gò-thàu",
+        "phonological_basis": "17c Dominican orthography conversion: gô (熬) -> go³ / gò; tâu (頭) -> tʰau³ / thàu."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "cabeça de barrio.",
+      "source_H": "保甲",
+      "source_M": "pò ca.",
+      "source_R": "pon quia.[疑:pon/pao]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabeça de barrio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "po² kaʔ⁷",
+        "tai_lo_standard": "pó-kah",
+        "phonological_basis": "17c Dominican orthography conversion: pò (保) -> po² / pó; ca (甲) -> kaʔ⁷ / kah."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "cabeça de caxxio.",
+      "source_H": "保長",
+      "source_M": "pò tiō̃.",
+      "source_R": "poin chiang.[疑:poin/paon]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabeça de caxxio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "po² tĩõ⁵",
+        "tai_lo_standard": "pó-tiônn",
+        "phonological_basis": "17c Dominican orthography conversion: pò (保) -> po² / pó; tiō̃ (長) -> tĩõ⁵ / tiônn."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "cabeça de jugadores.",
+      "source_H": "抱頭",
+      "source_M": "pô tâu.",
+      "source_R": "pon têu.[疑:pon/pao]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabeça de jugadores.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "po¹ tʰau¹",
+        "tai_lo_standard": "po-thau",
+        "phonological_basis": "17c Dominican orthography conversion: pô (抱) -> po¹ / po; tâu (頭) -> tʰau¹ / thau."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "cabeça mayor de calle.",
+      "source_H": "搃甲[疑:搃/總]",
+      "source_M": "choñg ca.[疑:choñg/coñg]",
+      "source_R": "choñg quia.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabeça mayor de calle.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsɔ̃ŋ¹ kaʔ⁷ tsɔ̃ŋ¹ kɔ̃ŋ¹",
+        "tai_lo_standard": "tsong-kah-tsong-kong",
+        "phonological_basis": "17c Dominican orthography conversion: choñg (搃) -> tsɔ̃ŋ¹ / tsong; ca (甲) -> kaʔ⁷ / kah; choñg (?) -> tsɔ̃ŋ¹ / tsong; coñg (?) -> kɔ̃ŋ¹ / kong."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "cabeça de diez casas.",
+      "source_H": "点十家甲[疑:点/店]",
+      "source_M": "tiam chap gue ca.[疑:tiam/piam]",
+      "source_R": "tiem vi guia guia.[疑:vi/si]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T06/T07 (交叉入聲號)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabeça de diez casas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiam¹ tsap⁸ gue¹ ka¹ tiam¹ piam¹",
+        "tai_lo_standard": "tiam-tsa̍p-gue-ka-tiam-piam",
+        "phonological_basis": "17c Dominican orthography conversion: tiam (点) -> tiam¹ / tiam; chap (十) -> tsap⁸ / tsa̍p; gue (家) -> gue¹ / gue; ca (甲) -> ka¹ / ka; tiam (?) -> tiam¹ / tiam; piam (?) -> piam¹ / piam."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "cabeça de quadrilla.",
+      "source_H": "着甲",
+      "source_M": "chió ca.[疑:chió/chioh]",
+      "source_R": "chio quia.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabeça de quadrilla.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsio¹ kaʔ⁷ tsio¹ tsioʔ⁷",
+        "tai_lo_standard": "tsio-kah-tsio-tsioh",
+        "phonological_basis": "17c Dominican orthography conversion: chió (着) -> tsio¹ / tsio; ca (甲) -> kaʔ⁷ / kah; chió (?) -> tsio¹ / tsio; chioh (?) -> tsioʔ⁷ / tsioh."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "cabeça del pueblo.",
+      "source_H": "都分",
+      "source_M": "toñ hūn.[疑:toñ/poñ]",
+      "source_R": "tū fūn.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabeça del pueblo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tõn⁵ hun⁵ tõn¹ põn¹",
+        "tai_lo_standard": "tôn-hûn-ton-pon",
+        "phonological_basis": "17c Dominican orthography conversion: toñ (都) -> tõn⁵ / tôn; hūn (分) -> hun⁵ / hûn; toñ (?) -> tõn¹ / ton; poñ (?) -> põn¹ / pon."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "cabeça de la republica.",
+      "source_H": "都圖[疑:圖/昌]",
+      "source_M": "tōu tōu.",
+      "source_R": "tû tû.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabeça de la republica.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tou⁵ tou⁵",
+        "tai_lo_standard": "tôu-tôu",
+        "phonological_basis": "17c Dominican orthography conversion: tōu (都) -> tou⁵ / tôu; tōu (圖) -> tou⁵ / tôu."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Cabeça del navio.",
+      "source_H": "艘[疑:艘/艦]",
+      "source_M": "tâm.[疑:tâm/lâm]",
+      "source_R": "tâm.[疑:tâm/tâu]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cabeça del navio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tam³ tam³ lam³",
+        "tai_lo_standard": "tàm-tàm-làm",
+        "phonological_basis": "17c Dominican orthography conversion: tâm (艘) -> tam³ / tàm; tâm (?) -> tam³ / tàm; lâm (?) -> lam³ / làm."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Cabecear.",
+      "source_H": "加賺鬼",
+      "source_M": "cá chuè cuy",
+      "source_R": "guia chùi cùi.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cabecear.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka¹ tsue¹ kuiʔ⁷",
+        "tai_lo_standard": "ka-tsue-kuih",
+        "phonological_basis": "17c Dominican orthography conversion: cá (加) -> ka¹ / ka; chuè (賺) -> tsue¹ / tsue; cuy (鬼) -> kuiʔ⁷ / kuih."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "cabeçadas del freno.",
+      "source_H": "馬轡頭",
+      "source_M": "bè pī tâu.[疑:pī/py]",
+      "source_R": "mà pī têu.[疑:pī/gy]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabeçadas del freno.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "be² pi¹ tʰau³ pi⁶ pi¹",
+        "tai_lo_standard": "bé-pi-thàu-pī-pi",
+        "phonological_basis": "17c Dominican orthography conversion: bè (馬) -> be² / bé; pī (轡) -> pi¹ / pi; tâu (頭) -> tʰau³ / thàu; pī (?) -> pi⁶ / pī; py (?) -> pi¹ / pi."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Cabeçon dela ropa.",
+      "source_H": "領頭[疑:頭/袃]",
+      "source_M": "niā tâu.",
+      "source_R": "lèng toān.[疑:toān/têu]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cabeçon dela ropa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "nia³ tʰau³",
+        "tai_lo_standard": "nià-thàu",
+        "phonological_basis": "17c Dominican orthography conversion: niā (領) -> nia³ / nià; tâu (頭) -> tʰau³ / thàu."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Cabeçon q. terao. &",
+      "source_H": "張",
+      "source_M": "tiō̃.",
+      "source_R": "chiang.",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cabeçon q. terao. &",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tĩõ⁵",
+        "tai_lo_standard": "tiônn",
+        "phonological_basis": "17c Dominican orthography conversion: tiō̃ (張) -> tĩõ⁵ / tiônn."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "cabeça q. aunq. lellaman no viene",
+      "source_H": "愷乙去[疑:乙/之]",
+      "source_M": "cay cay cū̃.",
+      "source_R": "cay cay gūiⁿ.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cabeça q. aunq. lellaman no viene",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kai¹ kai¹ kʰũ⁵",
+        "tai_lo_standard": "kai-kai-khûnn",
+        "phonological_basis": "17c Dominican orthography conversion: cay (愷) -> kai¹ / kai; cay (乙) -> kai¹ / kai; cū̃ (去) -> kʰũ⁵ / khûnn."
+      }
+    }
+  ]
+}

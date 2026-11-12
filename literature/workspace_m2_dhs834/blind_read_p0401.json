@@ -1,0 +1,419 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 401,
+  "historical_folio": 367,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0401/pdf_0401_300dpi.png",
+  "page_header": "D. ante. O.",
+  "page_footer_printed": "- 367 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Doctrina, razon .",
+      "source_H": "理",
+      "source_M": "lỳ",
+      "source_R": "lỳ",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Doctrina, razon .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "li²",
+        "tai_lo_standard": "lí",
+        "phonological_basis": "17c Dominican orthography conversion: l (理) -> li² / lí."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Doctrina, razongualquiera",
+      "source_H": "道理",
+      "source_M": "[残]",
+      "source_R": "toān lỳ",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Doctrina, razongualquiera",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Dotr[残]ina",
+      "source_H": "規矩",
+      "source_M": "cūy cū ley mandato ?",
+      "source_R": "cǔi cǔi",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dotrina",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kui⁵ ku⁵ lei¹ mandato¹",
+        "tai_lo_standard": "kuî-kû-lei-mandato",
+        "phonological_basis": "17c Dominican orthography conversion: cūy (規) -> kui⁵ / kuî; cū (矩) -> ku⁵ / kû; ley (?) -> lei¹ / lei; mandato (?) -> mandato¹ / mandato."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Doctrina por tradicion .",
+      "source_H": "傳",
+      "source_M": "Toān:î:Jūy",
+      "source_R": "chuēn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Doctrina por tradicion .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toan⁵ i³ dzui⁶",
+        "tai_lo_standard": "toân-ì-juī",
+        "phonological_basis": "17c Dominican orthography conversion: Toān (傳) -> toan⁵ / toân; î (?) -> i³ / ì; Jūy (?) -> dzui⁶ / juī."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Doctrina por tradicion",
+      "source_H": "傳道",
+      "source_M": "Toān tǒ",
+      "source_R": "chuēn tōn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Doctrina por tradicion",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toan⁵ to²",
+        "tai_lo_standard": "toân-tó",
+        "phonological_basis": "17c Dominican orthography conversion: Toān (傳) -> toan⁵ / toân; tǒ (道) -> to² / tó."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Doctrina por tradicion",
+      "source_H": "相傳來",
+      "source_M": "siō Jūy lāy.",
+      "source_R": "siâng chuēn lāy",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Doctrina por tradicion",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio⁵ dzui⁵ lai⁵",
+        "tai_lo_standard": "siô-juî-lâi",
+        "phonological_basis": "17c Dominican orthography conversion: siō (相) -> sio⁵ / siô; Jūy (傳) -> dzui⁵ / juî; lāy (來) -> lai⁵ / lâi."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "+ Doctrina antigua, conservada",
+      "source_H": "致傳",
+      "source_M": "Quỳ joān",
+      "source_R": "chỳ chuēn",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "+ Doctrina antigua, conservada",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki² dzoan⁵",
+        "tai_lo_standard": "kí-joân",
+        "phonological_basis": "17c Dominican orthography conversion: Qu (致) -> ki² / kí; joān (傳) -> dzoan⁵ / joân."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Doler. dolor.",
+      "source_H": "痛",
+      "source_M": "Thà",
+      "source_R": "kong",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Doler. dolor.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰa²",
+        "tai_lo_standard": "thá",
+        "phonological_basis": "17c Dominican orthography conversion: Thà (痛) -> tʰa² / thá."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Doler.",
+      "source_H": "憐",
+      "source_M": "līn, bīn tener miser[残]ordia",
+      "source_R": "liên",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Doler.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lin⁵ bin⁶ tener¹ miser¹ ordia¹",
+        "tai_lo_standard": "lîn-bīn-tener-miser-ordia",
+        "phonological_basis": "17c Dominican orthography conversion: līn (憐) -> lin⁵ / lîn; bīn (?) -> bin⁶ / bīn; tener (?) -> tener¹ / tener; miser (?) -> miser¹ / miser; ordia (?) -> ordia¹ / ordia."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Doler. dolor.",
+      "source_H": "哀[残]",
+      "source_M": "ay Llorenso.",
+      "source_R": "ngày",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Doler. dolor.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ai¹ llorenso¹",
+        "tai_lo_standard": "ai-llorenso",
+        "phonological_basis": "17c Dominican orthography conversion: ay (哀) -> ai¹ / ai; Llorenso (?) -> llorenso¹ / llorenso."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Doler.",
+      "source_H": "憐[疑:恤/恨]憫",
+      "source_M": "līn bīn compa[残]eciendo",
+      "source_R": "liên biên",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Doler.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lin⁵ bin⁵ kompa¹ eciendo¹",
+        "tai_lo_standard": "lîn-bîn-kompa-eciendo",
+        "phonological_basis": "17c Dominican orthography conversion: līn (憐) -> lin⁵ / lîn; bīn (憫) -> bin⁵ / bîn; compa (?) -> kompa¹ / kompa; eciendo (?) -> eciendo¹ / eciendo."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Dolencia",
+      "source_H": "悲",
+      "source_M": "Pŷ",
+      "source_R": "pùi",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dolencia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pi³",
+        "tai_lo_standard": "pì",
+        "phonological_basis": "17c Dominican orthography conversion: P (悲) -> pi³ / pì."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Dolencia de ijada, dolor de ijada",
+      "source_H": "氣痛",
+      "source_M": "quỹ hiã : l. cuỹ thā",
+      "source_R": "khùi tōng",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dolencia de ijada, dolor de ijada",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰi¹ hĩã¹ li¹ ku⁶ tʰa⁶",
+        "tai_lo_standard": "khi-hiann-li-kū-thā",
+        "phonological_basis": "17c Dominican orthography conversion: qu (氣) -> kʰi¹ / khi; hiã (痛) -> hĩã¹ / hiann; l (?) -> li¹ / li; cu (?) -> ku⁶ / kū; thā (?) -> tʰa⁶ / thā."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Dolor de barnixa, y quita la habla .",
+      "source_H": "着沙",
+      "source_M": "tiô hōa",
+      "source_R": "chiō ga",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dolor de barnixa, y quita la habla .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tio³ hoa⁵",
+        "tai_lo_standard": "tiò-hoâ",
+        "phonological_basis": "17c Dominican orthography conversion: tiô (着) -> tio³ / tiò; hōa (沙) -> hoa⁵ / hoâ."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Dolor de oído .",
+      "source_H": "耳塞",
+      "source_M": "hỹ tǎr",
+      "source_R": "ill sē",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dolor de oído .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi² tar²",
+        "tai_lo_standard": "hí-tár",
+        "phonological_basis": "17c Dominican orthography conversion: h (耳) -> hi² / hí; tǎr (塞) -> tar² / tár."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Domingo .",
+      "source_H": "礼拜日",
+      "source_M": "lè pāy xīt",
+      "source_R": "lỳ pāy xīt",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Domingo .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "le² pai⁵ dzit⁸",
+        "tai_lo_standard": "lé-pâi-ji̍t",
+        "phonological_basis": "17c Dominican orthography conversion: lè (礼) -> le² / lé; pāy (拜) -> pai⁵ / pâi; xīt (日) -> dzit⁸ / ji̍t."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Donzella .",
+      "source_H": "女",
+      "source_M": "lù",
+      "source_R": "nỳ",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Donzella .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lu²",
+        "tai_lo_standard": "lú",
+        "phonological_basis": "17c Dominican orthography conversion: lù (女) -> lu² / lú."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "donzella",
+      "source_H": "女子",
+      "source_M": "lùchù",
+      "source_R": "nỳ chì",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "donzella",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "luchu²",
+        "tai_lo_standard": "lúchu",
+        "phonological_basis": "17c Dominican orthography conversion: lùchù (女) -> luchu² / lúchu."
+      }
+    }
+  ]
+}

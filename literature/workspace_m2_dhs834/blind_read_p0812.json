@@ -1,0 +1,406 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 812,
+  "historical_folio": 774,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0812/pdf_0812_300dpi.png",
+  "page_header": "P. ante. Z.",
+  "page_footer_printed": "- 774 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Platillo mediano ~",
+      "source_H": "尺",
+      "source_M": "chǐo poā̃.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Platillo mediano ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰio² põã⁶",
+        "tai_lo_standard": "tshió-poānn",
+        "phonological_basis": "17c Dominican orthography conversion: chǐo (尺) -> tsʰio² / tshió; poā̃ (?) -> põã⁶ / poānn."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "platillo ~",
+      "source_H": "碟",
+      "source_M": "tī.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "platillo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti⁵",
+        "tai_lo_standard": "tî",
+        "phonological_basis": "17c Dominican orthography conversion: tī (碟) -> ti⁵ / tî."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "platillo ~",
+      "source_H": "盤碟",
+      "source_M": "poā̃ tī.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "platillo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "põã⁵ ti⁵",
+        "tai_lo_standard": "poânn-tî",
+        "phonological_basis": "17c Dominican orthography conversion: poā̃ (盤) -> põã⁵ / poânn; tī (碟) -> ti⁵ / tî."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "platillo ~",
+      "source_H": "寸盤",
+      "source_M": "chū̃ poā̃.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "platillo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰũ⁵ põã⁵",
+        "tai_lo_standard": "tshûnn-poânn",
+        "phonological_basis": "17c Dominican orthography conversion: chū̃ (寸) -> tsʰũ⁵ / tshûnn; poā̃ (盤) -> põã⁵ / poânn."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "platillo p̂ lata ca ~",
+      "source_H": "盃",
+      "source_M": "pué.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "platillo p̂ lata ca ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pue¹",
+        "tai_lo_standard": "pue",
+        "phonological_basis": "17c Dominican orthography conversion: pué (盃) -> pue¹ / pue."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "platillo p̂ lataca ~",
+      "source_H": "盃盤",
+      "source_M": "pué poā̃.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "platillo p̂ lataca ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pue¹ põã⁵",
+        "tai_lo_standard": "pue-poânn",
+        "phonological_basis": "17c Dominican orthography conversion: pué (盃) -> pue¹ / pue; poā̃ (盤) -> põã⁵ / poânn."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "platillo p̂ lâtag ~",
+      "source_H": "酒盃",
+      "source_M": "chiū̃ pué . de vino .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "platillo p̂ lâtag ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsĩũ⁵ pue¹ de¹ vino¹",
+        "tai_lo_standard": "tsiûnn-pue-de-vino",
+        "phonological_basis": "17c Dominican orthography conversion: chiū̃ (酒) -> tsĩũ⁵ / tsiûnn; pué (盃) -> pue¹ / pue; de (?) -> de¹ / de; vino (?) -> vino¹ / vino."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Plato numeral ~",
+      "source_H": "兮",
+      "source_M": "quén/g.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Plato numeral ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ken¹ gi¹",
+        "tai_lo_standard": "ken-gi",
+        "phonological_basis": "17c Dominican orthography conversion: quén (兮) -> ken¹ / ken; g (?) -> gi¹ / gi."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "plat[残] ~",
+      "source_H": "盤",
+      "source_M": "Pōā̃.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "plat ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "põã⁵",
+        "tai_lo_standard": "poânn",
+        "phonological_basis": "17c Dominican orthography conversion: Pōā̃ (盤) -> põã⁵ / poânn."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "plato de madera con barniz .",
+      "source_H": "枝",
+      "source_M": "chiễ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "plato de madera con barniz .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi³",
+        "tai_lo_standard": "tsì",
+        "phonological_basis": "17c Dominican orthography conversion: chi (枝) -> tsi³ / tsì."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "plato con barniz .",
+      "source_H": "漆盤",
+      "source_M": "chât pōā̃.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "plato con barniz .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsat⁷ põã⁵",
+        "tai_lo_standard": "tsat-poânn",
+        "phonological_basis": "17c Dominican orthography conversion: chât (漆) -> tsat⁷ / tsat; pōā̃ (盤) -> põã⁵ / poânn."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "plato con barnica P̄o ~",
+      "source_H": "枝盤",
+      "source_M": "chiễ poā̃.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "plato con barnica P̄o ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi³ põã⁵",
+        "tai_lo_standard": "tsì-poânn",
+        "phonological_basis": "17c Dominican orthography conversion: chi (枝) -> tsi³ / tsì; poā̃ (盤) -> põã⁵ / poânn."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "plato grande con Barnizos.",
+      "source_H": "桶枝",
+      "source_M": "sẫg chiễ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "plato grande con Barnizos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si³ gi³ tsi¹",
+        "tai_lo_standard": "sì-gì-tsi",
+        "phonological_basis": "17c Dominican orthography conversion: s (桶) -> si³ / sì; g (枝) -> gi³ / gì; chi (?) -> tsi¹ / tsi."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "plato mediano",
+      "source_H": "尺盤",
+      "source_M": "chiê poā̃.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "plato mediano",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰie³ põã⁵",
+        "tai_lo_standard": "tshiè-poânn",
+        "phonological_basis": "17c Dominican orthography conversion: chiê (尺) -> tsʰie³ / tshiè; poā̃ (盤) -> põã⁵ / poânn."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Playa, orillas del mar.",
+      "source_H": "涯",
+      "source_M": "gaī.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Playa, orillas del mar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gai⁵",
+        "tai_lo_standard": "gâi",
+        "phonological_basis": "17c Dominican orthography conversion: gaī (涯) -> gai⁵ / gâi."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "playa ~",
+      "source_H": "水濱",
+      "source_M": "chǔi pī̃ ..",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "playa ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui² pĩ⁵",
+        "tai_lo_standard": "tsuí-pînn",
+        "phonological_basis": "17c Dominican orthography conversion: chǔi (水) -> tsui² / tsuí; pī̃ (濱) -> pĩ⁵ / pînn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "playa . orilla de la mar.",
+      "source_H": "[空]",
+      "source_M": "haī pī̃ ..",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "playa . orilla de la mar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hai⁶ pĩ⁶",
+        "tai_lo_standard": "hāi-pīnn",
+        "phonological_basis": "17c Dominican orthography conversion: haī (?) -> hai⁶ / hāi; pī̃ (?) -> pĩ⁶ / pīnn."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Plebeyo ~",
+      "source_H": "庶",
+      "source_M": "sû.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Plebeyo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su³",
+        "tai_lo_standard": "sù",
+        "phonological_basis": "17c Dominican orthography conversion: sû (庶) -> su³ / sù."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "plebeyo ~",
+      "source_H": "庸",
+      "source_M": "iōng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "plebeyo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ioŋ⁵",
+        "tai_lo_standard": "iông",
+        "phonological_basis": "17c Dominican orthography conversion: iōng (庸) -> ioŋ⁵ / iông."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "plebeyo ~",
+      "source_H": "庶民",
+      "source_M": "sû bīn.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "plebeyo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su³ bin⁵",
+        "tai_lo_standard": "sù-bîn",
+        "phonological_basis": "17c Dominican orthography conversion: sû (庶) -> su³ / sù; bīn (民) -> bin⁵ / bîn."
+      }
+    }
+  ]
+}

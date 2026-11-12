@@ -1,0 +1,416 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 691,
+  "historical_folio": 657,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0691/pdf_0691_300dpi.png",
+  "page_header": "V. ante. U.",
+  "page_footer_printed": "- 657 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Mundo~",
+      "source_H": "世",
+      "source_M": "sey",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mundo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sei³",
+        "tai_lo_standard": "sèi",
+        "phonological_basis": "17c Dominican orthography conversion: sey (世) -> sei³ / sèi."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "mundo~",
+      "source_H": "境",
+      "source_M": "guery hamiro",
+      "source_R": "xui xuon",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mundo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gueri² hamiro¹",
+        "tai_lo_standard": "guéri-hamiro",
+        "phonological_basis": "17c Dominican orthography conversion: guery (境) -> gueri² / guéri; hamiro (?) -> hamiro¹ / hamiro."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "mundo, este mundo~",
+      "source_H": "地上",
+      "source_M": "sey chiõ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mundo, este mundo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sei² tsĩõ¹",
+        "tai_lo_standard": "séi-tsionn",
+        "phonological_basis": "17c Dominican orthography conversion: sey (地) -> sei² / séi; chiõ (上) -> tsĩõ¹ / tsionn."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "mundo, este mundo~",
+      "source_H": "天間",
+      "source_M": "tien can",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mundo, este mundo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰien¹ kan¹",
+        "tai_lo_standard": "thien-kan",
+        "phonological_basis": "17c Dominican orthography conversion: tien (天) -> tʰien¹ / thien; can (間) -> kan¹ / kan."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "mundo, lo que está debaxo del cielo~",
+      "source_H": "天下",
+      "source_M": "tien e",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mundo, lo que está debaxo del cielo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰien¹ e²",
+        "tai_lo_standard": "thien-é",
+        "phonological_basis": "17c Dominican orthography conversion: tien (天) -> tʰien¹ / thien; e (下) -> e² / é."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "mundo in malam partes~",
+      "source_H": "世情",
+      "source_M": "sy cheng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mundo in malam partes~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si¹ tseŋ³",
+        "tai_lo_standard": "si-tsèng",
+        "phonological_basis": "17c Dominican orthography conversion: sy (世) -> si¹ / si; cheng (情) -> tseŋ³ / tsèng."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Muñeca delaman.",
+      "source_H": "手目",
+      "source_M": "chiu bag",
+      "source_R": "co day.",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Muñeca delaman.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiu¹ bak⁸",
+        "tai_lo_standard": "tsiu-ba̍k",
+        "phonological_basis": "17c Dominican orthography conversion: chiu (手) -> tsiu¹ / tsiu; bag (目) -> bak⁸ / ba̍k."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Murcielago~",
+      "source_H": "蝘蝮 [疑:蝘蝮/蝙蝠]",
+      "source_M": "bit po.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Murcielago~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bit⁷ po⁵",
+        "tai_lo_standard": "bit-pô",
+        "phonological_basis": "17c Dominican orthography conversion: bit (蝘) -> bit⁷ / bit; po (蝮) -> po⁵ / pô."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Murmurar~",
+      "source_H": "謾 [疑:謾/謨]",
+      "source_M": "cham oa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Murmurar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsam⁵ oa⁶",
+        "tai_lo_standard": "tsâm-oā",
+        "phonological_basis": "17c Dominican orthography conversion: cham (謾) -> tsam⁵ / tsâm; oa (?) -> oa⁶ / oā."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "murmurar.",
+      "source_H": "詆 [疑:詆/謗]",
+      "source_M": "sy pong.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "murmurar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si¹ pɔŋ³",
+        "tai_lo_standard": "si-pòng",
+        "phonological_basis": "17c Dominican orthography conversion: sy (詆) -> si¹ / si; pong (?) -> pɔŋ³ / pòng."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "murmurar.",
+      "source_H": "咀",
+      "source_M": "ja lang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "murmurar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dza¹ laŋ⁶",
+        "tai_lo_standard": "ja-lāng",
+        "phonological_basis": "17c Dominican orthography conversion: ja (咀) -> dza¹ / ja; lang (?) -> laŋ⁶ / lāng."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "murmmurar",
+      "source_H": "說",
+      "source_M": "sue",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "murmmurar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sueʔ⁷",
+        "tai_lo_standard": "sueh",
+        "phonological_basis": "17c Dominican orthography conversion: sue (說) -> sueʔ⁷ / sueh."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "murmurar del sup.or ponerle falta",
+      "source_H": "訕",
+      "source_M": "san.",
+      "source_R": "Al Superior ponerle falta.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "murmurar del sup.or ponerle falta",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "san³",
+        "tai_lo_standard": "sàn",
+        "phonological_basis": "17c Dominican orthography conversion: san (訕) -> san³ / sàn."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "murmurar del superior.",
+      "source_H": "訕謗",
+      "source_M": "san pong",
+      "source_R": "isy",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "murmurar del superior.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "san³ pɔŋ³",
+        "tai_lo_standard": "sàn-pòng",
+        "phonological_basis": "17c Dominican orthography conversion: san (訕) -> san³ / sàn; pong (謗) -> pɔŋ³ / pòng."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "murmurar",
+      "source_H": "講是非",
+      "source_M": "cong sy huy",
+      "source_R": "deyia muntira",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "murmurar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ² si² hui¹",
+        "tai_lo_standard": "kóng-sí-hui",
+        "phonological_basis": "17c Dominican orthography conversion: cong (講) -> kɔŋ² / kóng; sy (是) -> si² / sí; huy (非) -> hui¹ / hui."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "murmurar.",
+      "source_H": "謾謗 [疑:謾/謨]",
+      "source_M": "cham pong",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "murmurar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsam⁵ pɔŋ³",
+        "tai_lo_standard": "tsâm-pòng",
+        "phonological_basis": "17c Dominican orthography conversion: cham (謾) -> tsam⁵ / tsâm; pong (謗) -> pɔŋ³ / pòng."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "murmurar.",
+      "source_H": "口舌",
+      "source_M": "cui cier.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "murmurar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kui⁵ kier¹",
+        "tai_lo_standard": "kuî-kier",
+        "phonological_basis": "17c Dominican orthography conversion: cui (口) -> kui⁵ / kuî; cier (舌) -> kier¹ / kier."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "murmurar.",
+      "source_H": "謾話 [疑:謾/謨]",
+      "source_M": "cham oa.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "murmurar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsam⁵ oa²",
+        "tai_lo_standard": "tsâm-oá",
+        "phonological_basis": "17c Dominican orthography conversion: cham (謾) -> tsam⁵ / tsâm; oa (話) -> oa² / oá."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "murmurar.",
+      "source_H": "背后話",
+      "source_M": "pue au oa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "murmurar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pue³ au² oa²",
+        "tai_lo_standard": "puè-áu-oá",
+        "phonological_basis": "17c Dominican orthography conversion: pue (背) -> pue³ / puè; au (后) -> au² / áu; oa (話) -> oa² / oá."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "murmurar.",
+      "source_H": "鎖口 [疑:鎖/鏡/鉗]",
+      "source_M": "queng chuy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "murmurar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "keʔ⁷ tsui³",
+        "tai_lo_standard": "keh-tsuì",
+        "phonological_basis": "17c Dominican orthography conversion: queng (鎖) -> keʔ⁷ / keh; chuy (口) -> tsui³ / tsuì."
+      }
+    }
+  ]
+}

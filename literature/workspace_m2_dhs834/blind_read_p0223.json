@@ -1,0 +1,344 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 223,
+  "historical_folio": 194,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0223/pdf_0223_300dpi.png",
+  "page_header": "C. ante. H.",
+  "page_footer_printed": "- 194 -",
+  "page_footer_handwritten": "97",
+  "total_positions_recorded": 15,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Canton: Provincia",
+      "source_H": "廣 東",
+      "source_M": "cûi táng",
+      "source_R": "cuang tóng",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Canton: Provincia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kui³ taŋ¹",
+        "tai_lo_standard": "kuì-tang",
+        "phonological_basis": "17c Dominican orthography conversion: cûi (廣) -> kui³ / kuì; táng (東) -> taŋ¹ / tang."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Canuto.",
+      "source_H": "管",
+      "source_M": "cûi",
+      "source_R": "cuàn",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Canuto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kui³",
+        "tai_lo_standard": "kuì",
+        "phonological_basis": "17c Dominican orthography conversion: cûi (管) -> kui³ / kuì."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Canuto ᵖ de flauta óino",
+      "source_H": "[疑:篁/簧]",
+      "source_M": "Jiu",
+      "source_R": "jĕn",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Canuto ᵖ de flauta óino",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dziu¹",
+        "tai_lo_standard": "jiu",
+        "phonological_basis": "17c Dominican orthography conversion: Jiu (?) -> dziu¹ / jiu."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Canuto ᵖ pinceles",
+      "source_H": "筆 四",
+      "source_M": "pisap",
+      "source_R": "pī kâ",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Canuto ᵖ pinceles",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pisap⁷",
+        "tai_lo_standard": "pisap",
+        "phonological_basis": "17c Dominican orthography conversion: pisap (筆) -> pisap⁷ / pisap."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Caos, confusión. ante ᵹd Ðisorriaße nada⁻",
+      "source_H": "混沌",
+      "source_M": "hŭn tŭn",
+      "source_R": "hūn tūn",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Caos, confusión. ante ᵹd Ðisorriaße nada⁻",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi² ni² ti¹ ni¹",
+        "tai_lo_standard": "hí-ní-ti-ni",
+        "phonological_basis": "17c Dominican orthography conversion: h (混) -> hi² / hí; n (沌) -> ni² / ní; t (?) -> ti¹ / ti; n (?) -> ni¹ / ni."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Caos: ante ᵹd Ðisorriaße el mundo ʃ",
+      "source_H": "氾濫",
+      "source_M": "hûan lan",
+      "source_R": "fōan lān",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Caos: ante ᵹd Ðisorriaße el mundo ʃ",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan³ lan¹",
+        "tai_lo_standard": "huàn-lan",
+        "phonological_basis": "17c Dominican orthography conversion: hûan (氾) -> huan³ / huàn; lan (濫) -> lan¹ / lan."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Capa.",
+      "source_H": "縵",
+      "source_M": "moā",
+      "source_R": "moān",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Capa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "moa⁵",
+        "tai_lo_standard": "moâ",
+        "phonological_basis": "17c Dominican orthography conversion: moā (縵) -> moa⁵ / moâ."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Capa de cerdas.",
+      "source_H": "簑 衣",
+      "source_M": "sūy ī",
+      "source_R": "zŏ y",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Capa de cerdas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sui⁵ i⁵",
+        "tai_lo_standard": "suî-î",
+        "phonological_basis": "17c Dominican orthography conversion: sūy (簑) -> sui⁵ / suî; ī (衣) -> i⁵ / î."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Capacidad: capaz buenafigura.",
+      "source_H": "容",
+      "source_M": "iōng",
+      "source_R": "yông",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Capacidad: capaz buenafigura.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ioŋ⁵",
+        "tai_lo_standard": "iông",
+        "phonological_basis": "17c Dominican orthography conversion: iōng (容) -> ioŋ⁵ / iông."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "capaci dad enel ʃalento.",
+      "source_H": "愽",
+      "source_M": "po",
+      "source_R": "pō",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "capaci dad enel ʃalento.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "poʔ⁷",
+        "tai_lo_standard": "poh",
+        "phonological_basis": "17c Dominican orthography conversion: po (愽) -> poʔ⁷ / poh."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "capaz: sabio entodos ⁻",
+      "source_H": "愽 學",
+      "source_M": "po hac",
+      "source_R": "pō hiō",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "capaz: sabio entodos ⁻",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "poʔ⁷ hak⁸",
+        "tai_lo_standard": "poh-ha̍k",
+        "phonological_basis": "17c Dominican orthography conversion: po (愽) -> poʔ⁷ / poh; hac (學) -> hak⁸ / ha̍k."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "capaz hombre",
+      "source_H": "愽 覽",
+      "source_M": "po làn",
+      "source_R": "pō làn",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "capaz hombre",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "poʔ⁷ lan²",
+        "tai_lo_standard": "poh-lán",
+        "phonological_basis": "17c Dominican orthography conversion: po (愽) -> poʔ⁷ / poh; làn (覽) -> lan² / lán."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "capacidad, ʃalento:",
+      "source_H": "通",
+      "source_M": "Fong",
+      "source_R": "tông",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "capacidad, ʃalento:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "foŋ¹",
+        "tai_lo_standard": "fong",
+        "phonological_basis": "17c Dominican orthography conversion: Fong (通) -> foŋ¹ / fong."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "capaz hombre: para todos.",
+      "source_H": "古 愽 人",
+      "source_M": "coì po lang",
+      "source_R": "cìu pō xîon",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "capaz hombre: para todos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "koi² poʔ⁷ laŋ¹",
+        "tai_lo_standard": "kói-poh-lang",
+        "phonological_basis": "17c Dominican orthography conversion: coì (古) -> koi² / kói; po (愽) -> poʔ⁷ / poh; lang (人) -> laŋ¹ / lang."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Capar.",
+      "source_H": "撿",
+      "source_M": "iám",
+      "source_R": "xiĕn",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Capar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iam¹",
+        "tai_lo_standard": "iam",
+        "phonological_basis": "17c Dominican orthography conversion: iám (撿) -> iam¹ / iam."
+      }
+    }
+  ]
+}

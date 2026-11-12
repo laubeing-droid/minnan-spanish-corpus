@@ -1,0 +1,468 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 253,
+  "historical_folio": 224,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0253/pdf_0253_300dpi.png",
+  "page_header": "C. ante. L",
+  "page_footer_printed": "- 224 -",
+  "page_footer_handwritten": "112",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Ciego",
+      "source_H": "瞽",
+      "source_M": "cou",
+      "source_R": "cùn",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ciego",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kou¹",
+        "tai_lo_standard": "kou",
+        "phonological_basis": "17c Dominican orthography conversion: cou (瞽) -> kou¹ / kou."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Ciego",
+      "source_H": "睛",
+      "source_M": "che",
+      "source_R": "chèng",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ciego",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse²",
+        "tai_lo_standard": "tsé",
+        "phonological_basis": "17c Dominican orthography conversion: che (睛) -> tse² / tsé."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Ciego",
+      "source_H": "睛 矇 [疑:矇/顕]",
+      "source_M": "che mē",
+      "source_R": "chèng mèng",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ciego",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse² me⁵",
+        "tai_lo_standard": "tsé-mê",
+        "phonological_basis": "17c Dominican orthography conversion: che (睛) -> tse² / tsé; mē (矇) -> me⁵ / mê."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Ciego",
+      "source_H": "目 睛 矇 [疑:矇/顕]",
+      "source_M": "bag che mē",
+      "source_R": "mo chèng mèng",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ciego",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bak⁸ tse² me⁵",
+        "tai_lo_standard": "ba̍k-tsé-mê",
+        "phonological_basis": "17c Dominican orthography conversion: bag (目) -> bak⁸ / ba̍k; che (睛) -> tse² / tsé; mē (矇) -> me⁵ / mê."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Ciego",
+      "source_H": "失 明",
+      "source_M": "sīt bēng",
+      "source_R": "sy mèng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ciego",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sit⁷ beŋ⁵",
+        "tai_lo_standard": "sit-bêng",
+        "phonological_basis": "17c Dominican orthography conversion: sīt (失) -> sit⁷ / sit; bēng (明) -> beŋ⁵ / bêng."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Ciego",
+      "source_H": "双 瞽",
+      "source_M": "gang cù,",
+      "source_R": "zoàng cù,",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ciego",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gaŋ⁵ ku²",
+        "tai_lo_standard": "gâng-kú",
+        "phonological_basis": "17c Dominican orthography conversion: gang (双) -> gaŋ⁵ / gâng; cù (瞽) -> ku² / kú."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Ciego",
+      "source_H": "無 目",
+      "source_M": "bo bāg.",
+      "source_R": "bû mē",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ciego",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bo¹ bak⁸",
+        "tai_lo_standard": "bo-ba̍k",
+        "phonological_basis": "17c Dominican orthography conversion: bo (無) -> bo¹ / bo; bāg (目) -> bak⁸ / ba̍k."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Ciego",
+      "source_H": "上 障",
+      "source_M": "chio chūo.",
+      "source_R": "siàng chiàng",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ciego",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsio² tsuo⁵",
+        "tai_lo_standard": "tsió-tsuô",
+        "phonological_basis": "17c Dominican orthography conversion: chio (上) -> tsio² / tsió; chūo (障) -> tsuo⁵ / tsuô."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Cielo",
+      "source_H": "天",
+      "source_M": "Ty: Tiēn.",
+      "source_R": "tiên",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cielo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰi⁵ tien⁶",
+        "tai_lo_standard": "thî-tiēn",
+        "phonological_basis": "17c Dominican orthography conversion: Ty (天) -> tʰi⁵ / thî; Tiēn (?) -> tien⁶ / tiēn."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Cielo",
+      "source_H": "乾",
+      "source_M": "quien",
+      "source_R": "quiên",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cielo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kien¹",
+        "tai_lo_standard": "kien",
+        "phonological_basis": "17c Dominican orthography conversion: quien (乾) -> kien¹ / kien."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Ciento.",
+      "source_H": "百",
+      "source_M": "Pē",
+      "source_R": "morog. pē",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ciento.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe⁵",
+        "tai_lo_standard": "pê",
+        "phonological_basis": "17c Dominican orthography conversion: Pē (百) -> pe⁵ / pê."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "ciento tones. S.",
+      "source_H": "一百 文",
+      "source_M": "chēg pē būn.",
+      "source_R": "ī pē vûên",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ciento tones. S.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsek⁷ pe⁵ bun⁵",
+        "tai_lo_standard": "tsek-pê-bûn",
+        "phonological_basis": "17c Dominican orthography conversion: chēg (一) -> tsek⁷ / tsek; pē (百) -> pe⁵ / pê; būn (文) -> bun⁵ / bûn."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Cienmil.",
+      "source_H": "億",
+      "source_M": "ēg",
+      "source_R": "y",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cienmil.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ek⁷",
+        "tai_lo_standard": "ek",
+        "phonological_basis": "17c Dominican orthography conversion: ēg (億) -> ek⁷ / ek."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "cien vezes diez mil",
+      "source_H": "一百萬",
+      "source_M": "chēg pē bān.",
+      "source_R": "ī pē bān",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cien vezes diez mil",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsek⁷ pe⁵ ban⁵",
+        "tai_lo_standard": "tsek-pê-bân",
+        "phonological_basis": "17c Dominican orthography conversion: chēg (一) -> tsek⁷ / tsek; pē (百) -> pe⁵ / pê; bān (萬) -> ban⁵ / bân."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "cien mil vezes diez mil",
+      "source_H": "億,萬",
+      "source_M": "ēg bān.",
+      "source_R": "y vān",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cien mil vezes diez mil",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ek⁷ ban⁵",
+        "tai_lo_standard": "ek-bân",
+        "phonological_basis": "17c Dominican orthography conversion: ēg (億) -> ek⁷ / ek; bān (萬) -> ban⁵ / bân."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Ciento pies.",
+      "source_H": "蜈",
+      "source_M": "giā",
+      "source_R": "ngû",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ciento pies.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gia⁵",
+        "tai_lo_standard": "giâ",
+        "phonological_basis": "17c Dominican orthography conversion: giā (蜈) -> gia⁵ / giâ."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Ciento pies",
+      "source_H": "蜈 蚣",
+      "source_M": "giā cang.",
+      "source_R": "ngû cong",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ciento pies",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gia⁵ kaŋ¹",
+        "tai_lo_standard": "giâ-kang",
+        "phonological_basis": "17c Dominican orthography conversion: giā (蜈) -> gia⁵ / giâ; cang (蚣) -> kaŋ¹ / kang."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Cielo.",
+      "source_H": "giûⁿ 天",
+      "source_M": "Ty: Tiēn.",
+      "source_R": "mec tiên",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cielo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰi⁵ tien⁶",
+        "tai_lo_standard": "thî-tiēn",
+        "phonological_basis": "17c Dominican orthography conversion: Ty (天) -> tʰi⁵ / thî; Tiēn (?) -> tien⁶ / tiēn."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "cielo sereno, claro",
+      "source_H": "皎 艶 天 [疑:艶/艷]",
+      "source_M": "guiaū tiēn.",
+      "source_R": "guiaū tiên",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cielo sereno, claro",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guiau⁵ tien⁵",
+        "tai_lo_standard": "guiâu-tiên",
+        "phonological_basis": "17c Dominican orthography conversion: guiaū (皎) -> guiau⁵ / guiâu; tiēn (艶) -> tien⁵ / tiên."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "cielo de la cama.",
+      "source_H": "幔",
+      "source_M": "bān hiēn tāy.",
+      "source_R": "mān",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cielo de la cama.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ban⁵ hien⁶ tai³",
+        "tai_lo_standard": "bân-hiēn-tài",
+        "phonological_basis": "17c Dominican orthography conversion: bān (幔) -> ban⁵ / bân; hiēn (?) -> hien⁶ / hiēn; tāy (?) -> tai³ / tài."
+      }
+    }
+  ]
+}

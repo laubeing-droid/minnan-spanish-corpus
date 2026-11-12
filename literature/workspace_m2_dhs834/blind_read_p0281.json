@@ -1,0 +1,436 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 281,
+  "historical_folio": 252,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0281/pdf_0281_300dpi.png",
+  "page_header": "C. ante. O.",
+  "page_footer_printed": "- 252 -",
+  "page_footer_handwritten": "104 [疑:104/184]",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Comprar ano tro p vender. [疑:ano tro p/a otro p]",
+      "source_H": "羅來賣 [疑:羅/買]",
+      "source_M": "tia lay tuo [疑:tia/sia]",
+      "source_R": "ky lay tian",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Comprar ano tro p vender.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tia² lai⁵ tuo³ tia¹ sia¹",
+        "tai_lo_standard": "tiá-lâi-tuò-tia-sia",
+        "phonological_basis": "17c Dominican orthography conversion: tia (羅) -> tia² / tiá; lay (來) -> lai⁵ / lâi; tuo (賣) -> tuo³ / tuò; tia (?) -> tia¹ / tia; sia (?) -> sia¹ / sia."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Comprar offo demandarin. [疑:offo/off.io]",
+      "source_H": "納粟",
+      "source_M": "lap hic [疑:lap/cap]",
+      "source_R": "na zo [疑:zo/so]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Comprar offo demandarin.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lap⁷ hik⁷ lap⁷ kap⁷",
+        "tai_lo_standard": "lap-hik-lap-kap",
+        "phonological_basis": "17c Dominican orthography conversion: lap (納) -> lap⁷ / lap; hic (粟) -> hik⁷ / hik; lap (?) -> lap⁷ / lap; cap (?) -> kap⁷ / kap."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Começallo, aguebdo ha. [疑:整行被劃刪，字面难辨]",
+      "source_H": "—",
+      "source_M": "[空]",
+      "source_R": "Ouchne. [疑:Ouchne/Ouchme]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Começallo, aguebdo ha.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Comun. cosa denvo7. [疑:denvo7/de vo7]",
+      "source_H": "公",
+      "source_M": "cong.",
+      "source_R": "cong",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Comun. cosa denvo7.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ⁵",
+        "tai_lo_standard": "kông",
+        "phonological_basis": "17c Dominican orthography conversion: cong (公) -> kɔŋ⁵ / kông."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Comun. denvo7. [疑:denvo7/de vo7]",
+      "source_H": "公眾",
+      "source_M": "cong chiong. [疑:chiong/cheng]",
+      "source_R": "cong chong",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Comun. denvo7.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ⁵ tsioŋ³ tsioŋ¹ tseŋ¹",
+        "tai_lo_standard": "kông-tsiòng-tsiong-tseng",
+        "phonological_basis": "17c Dominican orthography conversion: cong (公) -> kɔŋ⁵ / kông; chiong (眾) -> tsioŋ³ / tsiòng; chiong (?) -> tsioŋ¹ / tsiong; cheng (?) -> tseŋ¹ / tseng."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Comunicar bien.",
+      "source_H": "諳 [疑:諳/訡]",
+      "source_M": "im",
+      "source_R": "in",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Comunicar bien.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "im³",
+        "tai_lo_standard": "ìm",
+        "phonological_basis": "17c Dominican orthography conversion: im (諳) -> im³ / ìm."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Comunicar bien.",
+      "source_H": "福諳 [疑:諳/訡]",
+      "source_M": "hoc im [疑:hoc/hoc]",
+      "source_R": "fo in [疑:fo/fu]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Comunicar bien.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔk⁷ im³ hɔk⁷ hɔk⁷",
+        "tai_lo_standard": "hok-ìm-hok-hok",
+        "phonological_basis": "17c Dominican orthography conversion: hoc (福) -> hɔk⁷ / hok; im (諳) -> im³ / ìm; hoc (?) -> hɔk⁷ / hok; hoc (?) -> hɔk⁷ / hok."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Comunicarse ad inuices las bieng. [疑:inuices/inuicem; bieng/bien]",
+      "source_H": "相福諳 [疑:諳/訡]",
+      "source_M": "sio hoc im [疑:hoc/hoc]",
+      "source_R": "siang fo in",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Comunicarse ad inuices las bieng.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio⁵ hɔk⁷ im³ hɔk⁷ hɔk⁷",
+        "tai_lo_standard": "siô-hok-ìm-hok-hok",
+        "phonological_basis": "17c Dominican orthography conversion: sio (相) -> sio⁵ / siô; hoc (福) -> hɔk⁷ / hok; im (諳) -> im³ / ìm; hoc (?) -> hɔk⁷ / hok; hoc (?) -> hɔk⁷ / hok."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Comunicarselos coracones. [疑:coracones/coraçones]",
+      "source_H": "知心人",
+      "source_M": "ti sim lang.",
+      "source_R": "chi jim xin [疑:jim/sin; xin/jin]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Comunicarselos coracones.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti¹ sim⁵ laŋ¹",
+        "tai_lo_standard": "ti-sîm-lang",
+        "phonological_basis": "17c Dominican orthography conversion: ti (知) -> ti¹ / ti; sim (心) -> sim⁵ / sîm; lang (人) -> laŋ¹ / lang."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Con. de ablatiuo.",
+      "source_H": "共",
+      "source_M": "cang",
+      "source_R": "pong. cong [疑:pong/gong]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Con. de ablatiuo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kaŋ²",
+        "tai_lo_standard": "káng",
+        "phonological_basis": "17c Dominican orthography conversion: cang (共) -> kaŋ² / káng."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Con.",
+      "source_H": "合",
+      "source_M": "cap",
+      "source_R": "nung ho",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Con.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kap⁸",
+        "tai_lo_standard": "ka̍p",
+        "phonological_basis": "17c Dominican orthography conversion: cap (合) -> kap⁸ / ka̍p."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Con.",
+      "source_H": "同",
+      "source_M": "tang",
+      "source_R": "tong",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Con.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "taŋ⁵",
+        "tai_lo_standard": "tâng",
+        "phonological_basis": "17c Dominican orthography conversion: tang (同) -> taŋ⁵ / tâng."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Con: complexiue ano y otro. [疑:ano/uno]",
+      "source_H": "兼",
+      "source_M": "quiam",
+      "source_R": "quien",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Con: complexiue ano y otro.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiam³",
+        "tai_lo_standard": "kiàm",
+        "phonological_basis": "17c Dominican orthography conversion: quiam (兼) -> kiam³ / kiàm."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Con todos juntos y fuercas. [疑:juntos/camatos]",
+      "source_H": "盡",
+      "source_M": "chin Lat",
+      "source_R": "chin",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Con todos juntos y fuercas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin² lat⁷",
+        "tai_lo_standard": "tsín-lat",
+        "phonological_basis": "17c Dominican orthography conversion: chin (盡) -> tsin² / tsín; Lat (?) -> lat⁷ / lat."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Con todas las fuercas y agarocion. [疑:agarocion/agarracion]",
+      "source_H": "盡我力",
+      "source_M": "chin gua lat",
+      "source_R": "chin ngo li",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Con todas las fuercas y agarocion.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin² gua¹ lat⁸",
+        "tai_lo_standard": "tsín-gua-la̍t",
+        "phonological_basis": "17c Dominican orthography conversion: chin (盡) -> tsin² / tsín; gua (我) -> gua¹ / gua; lat (力) -> lat⁸ / la̍t."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Con todas las fuercas.",
+      "source_H": "盡力",
+      "source_M": "chin lat",
+      "source_R": "chin li",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Con todas las fuercas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin² lat⁸",
+        "tai_lo_standard": "tsín-la̍t",
+        "phonological_basis": "17c Dominican orthography conversion: chin (盡) -> tsin² / tsín; lat (力) -> lat⁸ / la̍t."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "con instantia z. [疑:con instantia/constancia]",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "con instantia z.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Contodas las fuercas y atencion. [疑:Contodas/Contener]",
+      "source_H": "盡氣力",
+      "source_M": "chin cuy lat [疑:cuy/cui]",
+      "source_R": "chin gui li",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Contodas las fuercas y atencion.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin² kʰui² lat⁸ kui¹ kui¹",
+        "tai_lo_standard": "tsín-khuí-la̍t-kui-kui",
+        "phonological_basis": "17c Dominican orthography conversion: chin (盡) -> tsin² / tsín; cuy (氣) -> kʰui² / khuí; lat (力) -> lat⁸ / la̍t; cuy (?) -> kui¹ / kui; cui (?) -> kui¹ / kui."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Con toda la Voluntad.",
+      "source_H": "盡情",
+      "source_M": "chin cheng",
+      "source_R": "chin cheng",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Con toda la Voluntad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin² tseŋ⁵",
+        "tai_lo_standard": "tsín-tsêng",
+        "phonological_basis": "17c Dominican orthography conversion: chin (盡) -> tsin² / tsín; cheng (情) -> tseŋ⁵ / tsêng."
+      }
+    }
+  ]
+}

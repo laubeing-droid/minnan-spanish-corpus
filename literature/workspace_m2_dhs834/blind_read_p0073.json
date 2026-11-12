@@ -1,0 +1,363 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 73,
+  "historical_folio": 44,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0073/pdf_0073_300dpi.png",
+  "page_header": "A. ante. L.",
+  "page_footer_printed": "- 44 -",
+  "page_footer_handwritten": "32",
+  "total_positions_recorded": 16,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "A labarda",
+      "source_H": "鉞",
+      "source_M": "van",
+      "source_R": "jeē",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A labarda",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "vaʔ⁷",
+        "tai_lo_standard": "vah",
+        "phonological_basis": "17c Dominican orthography conversion: van (鉞) -> vaʔ⁷ / vah."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "alabarda .",
+      "source_H": "鉞 斧",
+      "source_M": "van gùi",
+      "source_R": "jeē gùi",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alabarda .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "vaʔ⁷ gui²",
+        "tai_lo_standard": "vah-guí",
+        "phonological_basis": "17c Dominican orthography conversion: van (鉞) -> vaʔ⁷ / vah; gùi (斧) -> gui² / guí."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "alabarda compunttoren²a cuchilla -",
+      "source_H": "戟",
+      "source_M": "gueg.",
+      "source_R": "gūi",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alabarda compunttoren²a cuchilla -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guek⁷",
+        "tai_lo_standard": "guek",
+        "phonological_basis": "17c Dominican orthography conversion: gueg (戟) -> guek⁷ / guek."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "alabarda -",
+      "source_H": "戈",
+      "source_M": "có.",
+      "source_R": "cǒᶜ",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alabarda -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko¹",
+        "tai_lo_standard": "ko",
+        "phonological_basis": "17c Dominican orthography conversion: có (戈) -> ko¹ / ko."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "A lacran .",
+      "source_H": "蝎",
+      "source_M": "iex. Juay.",
+      "source_R": "hiē",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A lacran .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iexʔ⁷",
+        "tai_lo_standard": "iexh",
+        "phonological_basis": "17c Dominican orthography conversion: iex (蝎) -> iexʔ⁷ / iexh."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "A lamo .",
+      "source_H": "楊",
+      "source_M": "iāng",
+      "source_R": "yâng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A lamo .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iaŋ⁵",
+        "tai_lo_standard": "iâng",
+        "phonological_basis": "17c Dominican orthography conversion: iāng (楊) -> iaŋ⁵ / iâng."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "alamo .",
+      "source_H": "楊 柳",
+      "source_M": "iāng liù",
+      "source_R": "yâng liù",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alamo .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iaŋ⁵ liu²",
+        "tai_lo_standard": "iâng-liú",
+        "phonological_basis": "17c Dominican orthography conversion: iāng (楊) -> iaŋ⁵ / iâng; liù (柳) -> liu² / liú."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "A lancear -",
+      "source_H": "剽",
+      "source_M": "Pió.",
+      "source_R": "Piǎnᶜ",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A lancear -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pio¹",
+        "tai_lo_standard": "pio",
+        "phonological_basis": "17c Dominican orthography conversion: Pió (剽) -> pio¹ / pio."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "alancear -",
+      "source_H": "剽 鏢",
+      "source_M": "pió pió.",
+      "source_R": "pianᶜ piǎn",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alancear -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pio¹ pio¹",
+        "tai_lo_standard": "pio-pio",
+        "phonological_basis": "17c Dominican orthography conversion: pió (剽) -> pio¹ / pio; pió (鏢) -> pio¹ / pio."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "alancear por la barriga",
+      "source_H": "鎗 袋",
+      "source_M": "chiio te.",
+      "source_R": "chiāngᶜ lōy",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alancear por la barriga",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiio¹ te¹",
+        "tai_lo_standard": "tsiio-te",
+        "phonological_basis": "17c Dominican orthography conversion: chiio (鎗) -> tsiio¹ / tsiio; te (袋) -> te¹ / te."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "A largar . q. anadir",
+      "source_H": "放",
+      "source_M": "hong .",
+      "source_R": "fāng",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A largar . q. anadir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ¹",
+        "tai_lo_standard": "hong",
+        "phonological_basis": "17c Dominican orthography conversion: hong (放) -> hɔŋ¹ / hong."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "A larido del pueblo q. vozes .",
+      "source_H": "哀 慘",
+      "source_M": "áy chàmᶜ,",
+      "source_R": "ngǒy chàn",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A larido del pueblo q. vozes .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ai¹ tsam²",
+        "tai_lo_standard": "ai-tsám",
+        "phonological_basis": "17c Dominican orthography conversion: áy (哀) -> ai¹ / ai; chàm (慘) -> tsam² / tsám."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "A larde ave",
+      "source_H": "翼",
+      "source_M": "eg. q lap sañ.",
+      "source_R": "lūy.",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A larde ave",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ek⁷ q¹ lap⁷ sãn¹",
+        "tai_lo_standard": "ek-q-lap-san",
+        "phonological_basis": "17c Dominican orthography conversion: eg (翼) -> ek⁷ / ek; q (?) -> q¹ / q; lap (?) -> lap⁷ / lap; sañ (?) -> sãn¹ / san."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "alas de aves -",
+      "source_H": "翼",
+      "source_M": "sit.",
+      "source_R": "lūy",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "alas de aves -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sit⁷",
+        "tai_lo_standard": "sit",
+        "phonological_basis": "17c Dominican orthography conversion: sit (翼) -> sit⁷ / sit."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "ala defombres, dexados.",
+      "source_H": "簾 [疑:簾/簚]",
+      "source_M": "mȳ",
+      "source_R": "liên",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ala defombres, dexados.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mi⁵",
+        "tai_lo_standard": "mî",
+        "phonological_basis": "17c Dominican orthography conversion: m (簾) -> mi⁵ / mî."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "ala dexado, otombao .",
+      "source_H": "簾 前 乾 [疑:乾/竿]",
+      "source_M": "mȳ chȳ gū̃y",
+      "source_R": "liên chiên cōn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ala dexado, otombao .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mi⁵ tsi⁵ gũĩ⁵",
+        "tai_lo_standard": "mî-tsî-guînn",
+        "phonological_basis": "17c Dominican orthography conversion: m (簾) -> mi⁵ / mî; ch (前) -> tsi⁵ / tsî; gū̃y (乾) -> gũĩ⁵ / guînn."
+      }
+    }
+  ]
+}

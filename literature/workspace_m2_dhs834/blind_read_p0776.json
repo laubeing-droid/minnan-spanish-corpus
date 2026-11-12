@@ -1,0 +1,382 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 776,
+  "historical_folio": 738,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0776/pdf_0776_300dpi.png",
+  "page_header": "P. ante. A.",
+  "page_footer_printed": "- 738 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "pato hembra",
+      "source_H": "鴨 母",
+      "source_M": "ábò cūmbǎ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pato hembra",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "abo¹ kumba²",
+        "tai_lo_standard": "abo-kumbá",
+        "phonological_basis": "17c Dominican orthography conversion: ábò (鴨) -> abo¹ / abo; cūmbǎ (母) -> kumba² / kumbá."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "pato grande como anear",
+      "source_H": "鴻",
+      "source_M": "hōng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pato grande como anear",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ³",
+        "tai_lo_standard": "hòng",
+        "phonological_basis": "17c Dominican orthography conversion: hōng (鴻) -> hɔŋ³ / hòng."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "pato grande como anear.",
+      "source_H": "鴻 鴈[疑:鴈/雁]",
+      "source_M": "hōng gǎn.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pato grande como anear.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ³ gan²",
+        "tai_lo_standard": "hòng-gán",
+        "phonological_basis": "17c Dominican orthography conversion: hōng (鴻) -> hɔŋ³ / hòng; gǎn (鴈) -> gan² / gán."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Patria. el pueblo.",
+      "source_H": "鄉",
+      "source_M": "hiõ.",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Patria. el pueblo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hĩõ¹",
+        "tai_lo_standard": "hionn",
+        "phonological_basis": "17c Dominican orthography conversion: hiõ (鄉) -> hĩõ¹ / hionn."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "patria.",
+      "source_H": "鄉 里",
+      "source_M": "hiõ lī.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "patria.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hĩõ⁵ li⁵",
+        "tai_lo_standard": "hiônn-lî",
+        "phonological_basis": "17c Dominican orthography conversion: hiõ (鄉) -> hĩõ⁵ / hiônn; lī (里) -> li⁵ / lî."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "patria, pueblo ~",
+      "source_H": "所 在",
+      "source_M": "sǒ chǎy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "patria, pueblo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "so² tsai⁶",
+        "tai_lo_standard": "só-tsāi",
+        "phonological_basis": "17c Dominican orthography conversion: sǒ (所) -> so² / só; chǎy (在) -> tsai⁶ / tsāi."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "patria propria",
+      "source_H": "家 鄉",
+      "source_M": "quehio propriǎ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "patria propria",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kehio⁵ propria²",
+        "tai_lo_standard": "kêhio-propriá",
+        "phonological_basis": "17c Dominican orthography conversion: quehio (家) -> kehio⁵ / kêhio; propriǎ (鄉) -> propria² / propriá."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Patron ṽ Barvo vitle Abogado ~",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Patron ṽ Barvo vitle Abogado ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Paulo ~",
+      "source_H": "心",
+      "source_M": "sǐm.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Paulo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sim²",
+        "tai_lo_standard": "sím",
+        "phonological_basis": "17c Dominican orthography conversion: sǐm (心) -> sim² / sím."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "pavilo",
+      "source_H": "灯 心",
+      "source_M": "peng sǐm.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pavilo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "peŋ¹ sim²",
+        "tai_lo_standard": "peng-sím",
+        "phonological_basis": "17c Dominican orthography conversion: peng (灯) -> peŋ¹ / peng; sǐm (心) -> sim² / sím."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "pavilo ~",
+      "source_H": "燭 心",
+      "source_M": "chegᵏ sǐm.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pavilo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsek⁷ sim²",
+        "tai_lo_standard": "tsek-sím",
+        "phonological_basis": "17c Dominican orthography conversion: cheg (燭) -> tsek⁷ / tsek; sǐm (心) -> sim² / sím."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "pavilo de vela ~",
+      "source_H": "蠟 燭 心 堅",
+      "source_M": "lǎ chegᵏ sǐm quën.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pavilo de vela ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "la² tsek⁷ sim² ki¹ ni¹",
+        "tai_lo_standard": "lá-tsek-sím-ki-ni",
+        "phonological_basis": "17c Dominican orthography conversion: lǎ (蠟) -> la² / lá; cheg (燭) -> tsek⁷ / tsek; sǐm (心) -> sim² / sím; qu (堅) -> ki¹ / ki; n (?) -> ni¹ / ni."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "pavilo blando de caçave",
+      "source_H": "灯 心 蓆",
+      "source_M": "peng sǐm chioʰ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pavilo blando de caçave",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "peŋ¹ sim² tsio¹",
+        "tai_lo_standard": "peng-sím-tsio",
+        "phonological_basis": "17c Dominican orthography conversion: peng (灯) -> peŋ¹ / peng; sǐm (心) -> sim² / sím; chio (蓆) -> tsio¹ / tsio."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Pavon - ave.",
+      "source_H": "孔 雀",
+      "source_M": "cõg chioᵏ.",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Pavon - ave.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔ̃k⁷ tsio¹",
+        "tai_lo_standard": "kok-tsio",
+        "phonological_basis": "17c Dominican orthography conversion: cõg (孔) -> kɔ̃k⁷ / kok; chio (雀) -> tsio¹ / tsio."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Pauta clavada p^a escribir-uir. lomeuta. xûgé.",
+      "source_H": "副 替",
+      "source_M": "hū queyᵏ. p̃ escribia cartas y consitular.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Pauta clavada p^a escribir-uir. lomeuta. xûgé.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu⁵ kʰei¹ pĩ¹ escribia¹ kartas¹ i¹ konsitular¹",
+        "tai_lo_standard": "hû-khei-pinn-escribia-kartas-i-konsitular",
+        "phonological_basis": "17c Dominican orthography conversion: hū (副) -> hu⁵ / hû; quey (替) -> kʰei¹ / khei; p̃ (?) -> pĩ¹ / pinn; escribia (?) -> escribia¹ / escribia; cartas (?) -> kartas¹ / kartas; y (?) -> i¹ / i; consitular (?) -> konsitular¹ / konsitular."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Payo ~",
+      "source_H": "傘",
+      "source_M": "hou coã.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Payo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hou² kõã⁶",
+        "tai_lo_standard": "hóu-koānn",
+        "phonological_basis": "17c Dominican orthography conversion: hou (傘) -> hou² / hóu; coã (?) -> kõã⁶ / koānn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "paio contafetan sin pintura.",
+      "source_H": "凉 傘",
+      "source_M": "nīõ coã.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "paio contafetan sin pintura.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "nĩõ⁵ kõã⁵",
+        "tai_lo_standard": "niônn-koânn",
+        "phonological_basis": "17c Dominican orthography conversion: nīõ (凉) -> nĩõ⁵ / niônn; coã (傘) -> kõã⁵ / koânn."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "payo qualquiera.",
+      "source_H": "雨 傘",
+      "source_M": "hou coã.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "payo qualquiera.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hou² kõã⁵",
+        "tai_lo_standard": "hóu-koânn",
+        "phonological_basis": "17c Dominican orthography conversion: hou (雨) -> hou² / hóu; coã (傘) -> kõã⁵ / koânn."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "paio contafetan pintado",
+      "source_H": "彩 傘",
+      "source_M": "chay coã.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "paio contafetan pintado",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsai² kõã⁵",
+        "tai_lo_standard": "tsái-koânn",
+        "phonological_basis": "17c Dominican orthography conversion: chay (彩) -> tsai² / tsái; coã (傘) -> kõã⁵ / koânn."
+      }
+    }
+  ]
+}

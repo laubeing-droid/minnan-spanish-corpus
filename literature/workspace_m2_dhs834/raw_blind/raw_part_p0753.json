@@ -1,0 +1,37 @@
+{
+  "pages": [
+    {
+      "pdf_page": 753,
+      "historical_folio": 719,
+      "page_header": "G. ante.",
+      "page_footer_printed": "- 719 -",
+      "page_footer_handwritten": "",
+      "damaged": true,
+      "notes": "页右上及右缘撕裂、水渍明显；页顶 'G. ante.' 右侧另有大花体记号，形似手写 7 或花体字母，难辨，未录入 page_footer_handwritten。本页声调符多为音节上方几何小符号，凡与元音结合的横线/斜点已并入 source_M 字面，几何小符号仅逐个录入 tone_marks_M。第12/13行 L 栏 'palo dela fila de hombros,' 与被圈画的 'palo dela silla de hombros' 疑为同一词条的初写与圈改，汉字栏/闽南语栏与圈改行对齐，故第12行 H/M 记 [空]。第19行与第1行西班牙语重复（palo de china g̃ bubas），汉字与罗马字不同（枝/pabûchy 对 山尾樑/foà bue chȳ），照实分抄。右栏（官话）仅第18行见 'cha'，其余皆空。多处拉丁词拼写难辨：aça ran（疑 açafran）、avasas（疑 acasas）、admeren、mesenen、resib…（中有划改与页边 + 号）、pos9 疑 sueltar/sustentar（抄 sustentar）、pos17 'palo g̃ pelar -' 之 g̃ 形近 gaza/para；第11行含划改字。圈画、框线、页边 + 号等批改记号均未计入正文。存疑处待人工校订。",
+      "entries": [
+        {"position": 1,  "source_L": "palo de china g̃ bubas.", "source_H": "枝", "source_M": "pabûchy ; chu", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 2,  "source_L": "palo conğ aça ran -", "source_H": "棍", "source_M": "cûn", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 3,  "source_L": "palos peños conğ echan suerte ⁿ", "source_H": "敬", "source_M": "ngān :", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)"], "tone_marks_R": []},
+        {"position": 4,  "source_L": "palo conğ avasas Baynetas.", "source_H": "長梃", "source_M": "lō qūy :", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 5,  "source_L": "palo de brasil ⁿ", "source_H": "紅木", "source_M": "āng bag", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T99 (污損難辨)"], "tone_marks_R": []},
+        {"position": 6,  "source_L": "palo do reclaman los goncos :", "source_H": "門閂", "source_M": "mn̄g quīa :", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 7,  "source_L": "palo conğ rayan los carpinteros ⁿ", "source_H": "墨栔 [疑:栔/契]", "source_M": "bâg chy", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T06/T07 (交叉入聲號)"], "tone_marks_R": []},
+        {"position": 8,  "source_L": "palos pequeños de eucano, con que comen ⁿ", "source_H": "木箸", "source_M": "bâg fū.", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 9,  "source_L": "palo g̃ sustentar el petate.", "source_H": "簟柵 [疑:柵/跚]", "source_M": "piⁿ ca", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 10, "source_L": "palo enğ ponen los pinceles.", "source_H": "筆架", "source_M": "pit que", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 11, "source_L": "palo oloroso ğ resib [残] proceder y ouinar :", "source_H": "簪桃 [疑:簪/箭]", "source_M": "guiò ça cargarla", "source_R": "[空]", "tone_marks_M": ["T02 (降斜)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 12, "source_L": "palo dela fila de hombros,", "source_H": "[空]", "source_M": "[空]", "source_R": "[空]", "tone_marks_M": [], "tone_marks_R": []},
+        {"position": 13, "source_L": "palo dela silla de hombros", "source_H": "轎槓 [疑:轎槓/簷槓]", "source_M": "guio queng el palo.", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 14, "source_L": "palo g̃ pelar la malacada.", "source_H": "柴梃", "source_M": "chā qūy", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 15, "source_L": "palo conğ los ladrones abren la puerta ⁿ", "source_H": "鎖頭", "source_M": "chuy tau", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 16, "source_L": "palo admeren la Barrena.", "source_H": "鑽鑕", "source_M": "chuy uy", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 17, "source_L": "palo g̃ pelar -", "source_H": "短梃", "source_M": "te quy.", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 18, "source_L": "palo, o madera qualquiera", "source_H": "柴", "source_M": "chā", "source_R": "cha", "tone_marks_M": ["T05 (平橫)"], "tone_marks_R": []},
+        {"position": 19, "source_L": "palo de china g̃ bubas.", "source_H": "山尾樑", "source_M": "foà bue chȳ", "source_R": "[空]", "tone_marks_M": ["T02 (降斜)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 20, "source_L": "palo corto g̃ mesenen en la manga g̃ la cuñi ⁿ", "source_H": "覘窓仔 [疑:覘/視]", "source_M": "te fang nia", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 21, "source_L": "palos g̃ sustentan la cubierta del champan, o de lo que hace sombra", "source_H": "櫳厝 [疑:櫳/棧]", "source_M": "ce chu", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 22, "source_L": "palo, ponerlo g̃ sustentar la casa", "source_H": "[空]", "source_M": "[空]", "source_R": "[空]", "tone_marks_M": [], "tone_marks_R": []}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 211,
+  "historical_folio": 182,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0211/pdf_0211_300dpi.png",
+  "page_header": "C. ante. A.",
+  "page_footer_printed": "- 182 -",
+  "page_footer_handwritten": "91",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "calor y frio.",
+      "source_H": "疾寒",
+      "source_M": "iam hān",
+      "source_R": "gan hān",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "calor y frio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iam⁵ han⁵",
+        "tai_lo_standard": "iâm-hân",
+        "phonological_basis": "17c Dominican orthography conversion: iam (疾) -> iam⁵ / iâm; hān (寒) -> han⁵ / hân."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Calor.",
+      "source_H": "煖",
+      "source_M": "loān",
+      "source_R": "noān",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Calor.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "loan⁵",
+        "tai_lo_standard": "loân",
+        "phonological_basis": "17c Dominican orthography conversion: loān (煖) -> loan⁵ / loân."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "calor y abrasar",
+      "source_H": "煖燒",
+      "source_M": "loān siô",
+      "source_R": "noān siaò",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "calor y abrasar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "loan⁵ sio³",
+        "tai_lo_standard": "loân-siò",
+        "phonological_basis": "17c Dominican orthography conversion: loān (煖) -> loan⁵ / loân; siô (燒) -> sio³ / siò."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "calor, tiempo caluroso.",
+      "source_H": "處暑",
+      "source_M": "chù sū",
+      "source_R": "chu şu",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "calor, tiempo caluroso.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰu² su⁵",
+        "tai_lo_standard": "tshú-sû",
+        "phonological_basis": "17c Dominican orthography conversion: chù (處) -> tsʰu² / tshú; sū (暑) -> su⁵ / sû."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "calor, tiempo caluroso",
+      "source_H": "火炎",
+      "source_M": "huē iām",
+      "source_R": "ho yān",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "calor, tiempo caluroso",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hue⁵ iam⁵",
+        "tai_lo_standard": "huê-iâm",
+        "phonological_basis": "17c Dominican orthography conversion: huē (火) -> hue⁵ / huê; iām (炎) -> iam⁵ / iâm."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Callar el y allado.",
+      "source_H": "靜",
+      "source_M": "chè̃",
+      "source_R": "chēng",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Callar el y allado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsẽ²",
+        "tai_lo_standard": "tsénn",
+        "phonological_basis": "17c Dominican orthography conversion: chè̃ (靜) -> tsẽ² / tsénn."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "callar, no llorando.",
+      "source_H": "靜莫哭",
+      "source_M": "chè bō quy",
+      "source_R": "cheng mo ky",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "callar, no llorando.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse² bo⁵ kʰi⁵",
+        "tai_lo_standard": "tsé-bô-khî",
+        "phonological_basis": "17c Dominican orthography conversion: chè (靜) -> tse² / tsé; bō (莫) -> bo⁵ / bô; quy (哭) -> kʰi⁵ / khî."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "callado hombre, de pocas palabras y buenas.",
+      "source_H": "金口",
+      "source_M": "quim chuy",
+      "source_R": "quin quein",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "callado hombre, de pocas palabras y buenas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kim² tsui¹",
+        "tai_lo_standard": "kím-tsui",
+        "phonological_basis": "17c Dominican orthography conversion: quim (金) -> kim² / kím; chuy (口) -> tsui¹ / tsui."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "callar demelancolico: y mal dezir porq tiene en la boca naturaleza della muger.",
+      "source_H": "合蛤 [疑:合/含]",
+      "source_M": "cām cāb",
+      "source_R": "kam kan ca",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "callar demelancolico: y mal dezir porq tiene en la boca naturaleza della muger.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kam⁵ kab⁵",
+        "tai_lo_standard": "kâm-kâb",
+        "phonological_basis": "17c Dominican orthography conversion: cām (合) -> kam⁵ / kâm; cāb (蛤) -> kab⁵ / kâb."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "callar porq tiene en la boca el miembro del hombre. me.",
+      "source_H": "含茄 [疑:含/合]",
+      "source_M": "cām quio",
+      "source_R": "kam gnie",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "callar porq tiene en la boca el miembro del hombre. me.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kam⁵ kio³",
+        "tai_lo_standard": "kâm-kiò",
+        "phonological_basis": "17c Dominican orthography conversion: cām (含) -> kam⁵ / kâm; quio (茄) -> kio³ / kiò."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "callado y habla poco quieto.",
+      "source_H": "滋潤",
+      "source_M": "chu xun",
+      "source_R": "chu juen",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "callado y habla poco quieto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu² dzun⁵",
+        "tai_lo_standard": "tsú-jûn",
+        "phonological_basis": "17c Dominican orthography conversion: chu (滋) -> tsu² / tsú; xun (潤) -> dzun⁵ / jûn."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Calle. y prinçipio della",
+      "source_H": "街",
+      "source_M": "quey lǒu. hāng tāu",
+      "source_R": "quiay",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Calle. y prinçipio della",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kei¹ lou⁶ haŋ⁶ tau⁶",
+        "tai_lo_standard": "kei-lōu-hāng-tāu",
+        "phonological_basis": "17c Dominican orthography conversion: quey (街) -> kei¹ / kei; lǒu (?) -> lou⁶ / lōu; hāng (?) -> haŋ⁶ / hāng; tāu (?) -> tau⁶ / tāu."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "calle.",
+      "source_H": "街路",
+      "source_M": "quey tāu. hāng bue, Mfin",
+      "source_R": "quiay itt",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "calle.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kei⁵ tau⁵ haŋ⁶ bue¹ mfin¹",
+        "tai_lo_standard": "kêi-tâu-hāng-bue-mfin",
+        "phonological_basis": "17c Dominican orthography conversion: quey (街) -> kei⁵ / kêi; tāu (路) -> tau⁵ / tâu; hāng (?) -> haŋ⁶ / hāng; bue (?) -> bue¹ / bue; Mfin (?) -> mfin¹ / mfin."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "calle, numeral joilos, vjatta.",
+      "source_H": "[残]",
+      "source_M": "chue",
+      "source_R": "chui",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "calle, numeral joilos, vjatta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsue⁶",
+        "tai_lo_standard": "tsuē",
+        "phonological_basis": "17c Dominican orthography conversion: chue (?) -> tsue⁶ / tsuē."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "calleuela. lou hang.",
+      "source_H": "巷",
+      "source_M": "hāng niā lōu hāng calleuela",
+      "source_R": "hang",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "calleuela. lou hang.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "haŋ⁵ nia⁶ lou⁶ haŋ⁶ kalleuela¹",
+        "tai_lo_standard": "hâng-niā-lōu-hāng-kalleuela",
+        "phonological_basis": "17c Dominican orthography conversion: hāng (巷) -> haŋ⁵ / hâng; niā (?) -> nia⁶ / niā; lōu (?) -> lou⁶ / lōu; hāng (?) -> haŋ⁶ / hāng; calleuela (?) -> kalleuela¹ / kalleuela."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "calleuela prinçipio della",
+      "source_H": "巷頭",
+      "source_M": "hāng tāu",
+      "source_R": "hang ven",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "calleuela prinçipio della",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "haŋ⁵ tʰau⁵",
+        "tai_lo_standard": "hâng-thâu",
+        "phonological_basis": "17c Dominican orthography conversion: hāng (巷) -> haŋ⁵ / hâng; tāu (頭) -> tʰau⁵ / thâu."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "calleuela fin della.",
+      "source_H": "巷尾",
+      "source_M": "hāng bue",
+      "source_R": "hang buey",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "calleuela fin della.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "haŋ⁵ bue⁵",
+        "tai_lo_standard": "hâng-buê",
+        "phonological_basis": "17c Dominican orthography conversion: hāng (巷) -> haŋ⁵ / hâng; bue (尾) -> bue⁵ / buê."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "calleuela",
+      "source_H": "陋巷",
+      "source_M": "lou hang",
+      "source_R": "len hang",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "calleuela",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lou⁵ haŋ⁵",
+        "tai_lo_standard": "lôu-hâng",
+        "phonological_basis": "17c Dominican orthography conversion: lou (陋) -> lou⁵ / lôu; hang (巷) -> haŋ⁵ / hâng."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "calle con mucha gente, y le caen de arriba.",
+      "source_H": "[残]倒街",
+      "source_M": "xe ho quey",
+      "source_R": "quit tom guia",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "calle con mucha gente, y le caen de arriba.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dze¹ ho⁵ kei¹",
+        "tai_lo_standard": "je-hô-kei",
+        "phonological_basis": "17c Dominican orthography conversion: xe (倒) -> dze¹ / je; ho (街) -> ho⁵ / hô; quey (?) -> kei¹ / kei."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Callo de pie, o manos.",
+      "source_H": "[疑:癬/瘌]",
+      "source_M": "lán",
+      "source_R": "lien",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Callo de pie, o manos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lan¹",
+        "tai_lo_standard": "lan",
+        "phonological_basis": "17c Dominican orthography conversion: lán (?) -> lan¹ / lan."
+      }
+    }
+  ]
+}

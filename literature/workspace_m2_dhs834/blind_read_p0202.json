@@ -1,0 +1,450 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 202,
+  "historical_folio": 173,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0202/pdf_0202_300dpi.png",
+  "page_header": "C. ante. H.",
+  "page_footer_printed": "- 173 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Cacar.",
+      "source_H": "獵",
+      "source_M": "la",
+      "source_R": "la : lie",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cacar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "la¹",
+        "tai_lo_standard": "la",
+        "phonological_basis": "17c Dominican orthography conversion: la (獵) -> la¹ / la."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "(ca car)",
+      "source_H": "打獵",
+      "source_M": "[残] la",
+      "source_R": "fo la",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(ca car)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "la¹",
+        "tai_lo_standard": "la",
+        "phonological_basis": "17c Dominican orthography conversion: la (打) -> la¹ / la."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "caçar con liga",
+      "source_H": "粘鳥",
+      "source_M": "ty chian",
+      "source_R": "ty nian : chinian",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "caçar con liga",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti¹ tsian¹",
+        "tai_lo_standard": "ti-tsian",
+        "phonological_basis": "17c Dominican orthography conversion: ty (粘) -> ti¹ / ti; chian (鳥) -> tsian¹ / tsian."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "caçar con senüelo.",
+      "source_H": "當鳥",
+      "source_M": "fung chian",
+      "source_R": "tang nian",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "caçar con senüelo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fuŋ¹ tsian¹",
+        "tai_lo_standard": "fung-tsian",
+        "phonological_basis": "17c Dominican orthography conversion: fung (當) -> fuŋ¹ / fung; chian (鳥) -> tsian¹ / tsian."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "caçar con redes, o cercando la caca.",
+      "source_H": "圖帶",
+      "source_M": "nuy hoa",
+      "source_R": "vy tay",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "caçar con redes, o cercando la caca.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "nui¹ hoa⁵",
+        "tai_lo_standard": "nui-hoâ",
+        "phonological_basis": "17c Dominican orthography conversion: nuy (圖) -> nui¹ / nui; hoa (帶) -> hoa⁵ / hoâ."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "caçar [疑:p/g]axaros con red.",
+      "source_H": "牽鳥網",
+      "source_M": "camg chian bang",
+      "source_R": "guien nian vang",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "caçar axaros con red.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kamk⁷ tsian¹ baŋ¹",
+        "tai_lo_standard": "kamk-tsian-bang",
+        "phonological_basis": "17c Dominican orthography conversion: camg (牽) -> kamk⁷ / kamk; chian (鳥) -> tsian¹ / tsian; bang (網) -> baŋ¹ / bang."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Caçar con monteros.",
+      "source_H": "獵戶",
+      "source_M": "la hou",
+      "source_R": "lie hu",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Caçar con monteros.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "la¹ hou¹",
+        "tai_lo_standard": "la-hou",
+        "phonological_basis": "17c Dominican orthography conversion: la (獵) -> la¹ / la; hou (戶) -> hou¹ / hou."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "caçar aues con trampa, o red.",
+      "source_H": "執雀仔",
+      "source_M": "chip chia jia",
+      "source_R": "chy chio chay",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "caçar aues con trampa, o red.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsip⁷ tsia¹ dzia¹",
+        "tai_lo_standard": "tsip-tsia-jia",
+        "phonological_basis": "17c Dominican orthography conversion: chip (執) -> tsip⁷ / tsip; chia (雀) -> tsia¹ / tsia; jia (仔) -> dzia¹ / jia."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "caçar con c[残]batana.",
+      "source_H": "噴鳥",
+      "source_M": "pun chian",
+      "source_R": "chun nian",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "caçar con cbatana.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pun¹ tsian¹",
+        "tai_lo_standard": "pun-tsian",
+        "phonological_basis": "17c Dominican orthography conversion: pun (噴) -> pun¹ / pun; chian (鳥) -> tsian¹ / tsian."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Ca[疑:c/ç]o coger. carahay.",
+      "source_H": "鍋",
+      "source_M": "o, oe",
+      "source_R": "co",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cao coger. carahay.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "o¹ oe¹",
+        "tai_lo_standard": "o-oe",
+        "phonological_basis": "17c Dominican orthography conversion: o (鍋) -> o¹ / o; oe (?) -> oe¹ / oe."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "ca[疑:c/ç]o para liquidar plata, mi sal.",
+      "source_H": "錯",
+      "source_M": "cho",
+      "source_R": "chau",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cao para liquidar plata, mi sal.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso⁵",
+        "tai_lo_standard": "tsô",
+        "phonological_basis": "17c Dominican orthography conversion: cho (錯) -> tso⁵ / tsô."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Ca[疑:q/u]eleya del Bagero.",
+      "source_H": "熨斗",
+      "source_M": "[疑:or/ut] [疑:fau/tau]",
+      "source_R": "vit ten : tang ten",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Caeleya del Bagero.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "or¹ ut⁷ fau¹ tau¹",
+        "tai_lo_standard": "or-ut-fau-tau",
+        "phonological_basis": "17c Dominican orthography conversion: or (熨) -> or¹ / or; ut (斗) -> ut⁷ / ut; fau (?) -> fau¹ / fau; tau (?) -> tau¹ / tau."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Cada gᵉ de ordinario",
+      "source_H": "累",
+      "source_M": "luy",
+      "source_R": "lui",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cada gᵉ de ordinario",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lui¹",
+        "tai_lo_standard": "lui",
+        "phonological_basis": "17c Dominican orthography conversion: luy (累) -> lui¹ / lui."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "cada año. nin.",
+      "source_H": "累年",
+      "source_M": "luy ni",
+      "source_R": "lui nien",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cada año. nin.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lui¹ ni⁵",
+        "tai_lo_standard": "lui-nî",
+        "phonological_basis": "17c Dominican orthography conversion: luy (累) -> lui¹ / lui; ni (年) -> ni⁵ / nî."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "(cada, en cada ocasion)",
+      "source_H": "累時",
+      "source_M": "luy ty caᵃ ocasion",
+      "source_R": "lui [疑:yu/cu]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(cada, en cada ocasion)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lui¹ ti¹ ka¹ ocasion¹",
+        "tai_lo_standard": "lui-ti-ka-ocasion",
+        "phonological_basis": "17c Dominican orthography conversion: luy (累) -> lui¹ / lui; ty (時) -> ti¹ / ti; ca (?) -> ka¹ / ka; ocasion (?) -> ocasion¹ / ocasion."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "cada : cada dia; siang xit; xitxit",
+      "source_H": "逐",
+      "source_M": "fiong, lui: bue xit; sou xit",
+      "source_R": "cho",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cada : cada dia; siang xit; xitxit",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fioŋ¹ lui¹ bue¹ dzit⁷ sou¹ dzit⁷",
+        "tai_lo_standard": "fiong-lui-bue-jit-sou-jit",
+        "phonological_basis": "17c Dominican orthography conversion: fiong (逐) -> fioŋ¹ / fiong; lui (?) -> lui¹ / lui; bue (?) -> bue¹ / bue; xit (?) -> dzit⁷ / jit; sou (?) -> sou¹ / sou; xit (?) -> dzit⁷ / jit."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "(cada).",
+      "source_H": "每",
+      "source_M": "[残]",
+      "source_R": "mvey",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(cada).",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "cada negocio.",
+      "source_H": "每項",
+      "source_M": "bue hang",
+      "source_R": "mvey hang",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cada negocio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue¹ haŋ¹",
+        "tai_lo_standard": "bue-hang",
+        "phonological_basis": "17c Dominican orthography conversion: bue (每) -> bue¹ / bue; hang (項) -> haŋ¹ / hang."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "(cada dia)",
+      "source_H": "每日",
+      "source_M": "(bue xit)",
+      "source_R": "mvey xit",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(cada dia)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue¹ dzit⁸",
+        "tai_lo_standard": "bue-ji̍t",
+        "phonological_basis": "17c Dominican orthography conversion: bue (每) -> bue¹ / bue; xit (日) -> dzit⁸ / ji̍t."
+      }
+    }
+  ]
+}

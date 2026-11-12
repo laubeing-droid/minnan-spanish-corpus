@@ -1,0 +1,355 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 647,
+  "historical_folio": 613,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0647/pdf_0647_300dpi.png",
+  "page_header": "M. ante. A.",
+  "page_footer_printed": "- 613 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "mañana",
+      "source_H": "明日",
+      "source_M": "bēng xït lof",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mañana",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "beŋ⁵ dzi³ ti¹ lof¹",
+        "tai_lo_standard": "bêng-jì-ti-lof",
+        "phonological_basis": "17c Dominican orthography conversion: bēng (明) -> beŋ⁵ / bêng; x (日) -> dzi³ / jì; t (?) -> ti¹ / ti; lof (?) -> lof¹ / lof."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "mañana por la mañana",
+      "source_H": "冥旦早",
+      "source_M": "bīn huā chà: mē ch́à chà",
+      "source_R": "por la mañana.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mañana por la mañana",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bin⁵ hua⁵ tsa² me⁶ tsa¹ tsa²",
+        "tai_lo_standard": "bîn-huâ-tsá-mē-tsa-tsá",
+        "phonological_basis": "17c Dominican orthography conversion: bīn (冥) -> bin⁵ / bîn; huā (旦) -> hua⁵ / huâ; chà (早) -> tsa² / tsá; mē (?) -> me⁶ / mē; ch́à (?) -> tsa¹ / tsa; chà (?) -> tsa² / tsá."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "mañana tarde",
+      "source_H": "旦夂 [疑:夂/夕]",
+      "source_M": "tân séc",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mañana tarde",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tan³ sek⁷",
+        "tai_lo_standard": "tàn-sek",
+        "phonological_basis": "17c Dominican orthography conversion: tân (旦) -> tan³ / tàn; séc (夂) -> sek⁷ / sek."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "de mañanica",
+      "source_H": "早早日",
+      "source_M": "chà chà xït",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "de mañanica",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsa² tsa² dzi³ ti¹",
+        "tai_lo_standard": "tsá-tsá-jì-ti",
+        "phonological_basis": "17c Dominican orthography conversion: chà (早) -> tsa² / tsá; chà (早) -> tsa² / tsá; x (日) -> dzi³ / jì; t (?) -> ti¹ / ti."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Mapa.",
+      "source_H": "圖 [疑:圖/圗]",
+      "source_M": "tōu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mapa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tou⁵",
+        "tai_lo_standard": "tôu",
+        "phonological_basis": "17c Dominican orthography conversion: tōu (圖) -> tou⁵ / tôu."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "mapa",
+      "source_H": "地理圖 [疑:圖/圗]",
+      "source_M": "tē lī tōu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mapa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "te⁵ li⁵ tou⁵",
+        "tai_lo_standard": "tê-lî-tôu",
+        "phonological_basis": "17c Dominican orthography conversion: tē (地) -> te⁵ / tê; lī (理) -> li⁵ / lî; tōu (圖) -> tou⁵ / tôu."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Mara",
+      "source_H": "海",
+      "source_M": "hāy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mara",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hai⁵",
+        "tai_lo_standard": "hâi",
+        "phonological_basis": "17c Dominican orthography conversion: hāy (海) -> hai⁵ / hâi."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "mar profundo",
+      "source_H": "滄",
+      "source_M": "chōng profundo",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mar profundo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsɔŋ⁵ profundo¹",
+        "tai_lo_standard": "tsông-profundo",
+        "phonological_basis": "17c Dominican orthography conversion: chōng (滄) -> tsɔŋ⁵ / tsông; profundo (?) -> profundo¹ / profundo."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "mar profundo",
+      "source_H": "滄海",
+      "source_M": "chōng hay. ioŋ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mar profundo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsɔŋ⁵ hai³ io¹",
+        "tai_lo_standard": "tsông-hài-io",
+        "phonological_basis": "17c Dominican orthography conversion: chōng (滄) -> tsɔŋ⁵ / tsông; hay (海) -> hai³ / hài; io (?) -> io¹ / io."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Marañada costa, rebuelta",
+      "source_H": "搞 [疑:搞/操]",
+      "source_M": "chàu chàu xiāng",
+      "source_R": "mî cosas.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Marañada costa, rebuelta",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsau² tsau² dziaŋ³",
+        "tai_lo_standard": "tsáu-tsáu-jiàng",
+        "phonological_basis": "17c Dominican orthography conversion: chàu (搞) -> tsau² / tsáu; chàu (?) -> tsau² / tsáu; xiāng (?) -> dziaŋ³ / jiàng."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "marañada costa, rebuelta",
+      "source_H": "如",
+      "source_M": "xū",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "marañada costa, rebuelta",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzu⁵",
+        "tai_lo_standard": "jû",
+        "phonological_basis": "17c Dominican orthography conversion: xū (如) -> dzu⁵ / jû."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "marañado cabello",
+      "source_H": "髼",
+      "source_M": "pōng mō.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "marañado cabello",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pɔŋ⁵ mo⁶",
+        "tai_lo_standard": "pông-mō",
+        "phonological_basis": "17c Dominican orthography conversion: pōng (髼) -> pɔŋ⁵ / pông; mō (?) -> mo⁶ / mō."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "marañado confuso",
+      "source_H": "雜乱",
+      "source_M": "chàp loān",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "marañado confuso",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsap⁷ loan⁵",
+        "tai_lo_standard": "tsap-loân",
+        "phonological_basis": "17c Dominican orthography conversion: chàp (雜) -> tsap⁷ / tsap; loān (乱) -> loan⁵ / loân."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "marañado, sin orden",
+      "source_H": "三三",
+      "source_M": "sã sã ,in orden",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "marañado, sin orden",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sã¹ sã¹ in¹ orden¹",
+        "tai_lo_standard": "sann-sann-in-orden",
+        "phonological_basis": "17c Dominican orthography conversion: sã (三) -> sã¹ / sann; sã (三) -> sã¹ / sann; in (?) -> in¹ / in; orden (?) -> orden¹ / orden."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "marañado demuchas cosas",
+      "source_H": "搞攘 [疑:搞/拯]",
+      "source_M": "chàu xiàng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "marañado demuchas cosas",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsau² dziaŋ²",
+        "tai_lo_standard": "tsáu-jiáng",
+        "phonological_basis": "17c Dominican orthography conversion: chàu (搞) -> tsau² / tsáu; xiàng (攘) -> dziaŋ² / jiáng."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Marcharen orden la milicia dein can cinco",
+      "source_H": "隊伍",
+      "source_M": "tūy ngŏũ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Marcharen orden la milicia dein can cinco",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tui⁵ ŋi² ũ¹",
+        "tai_lo_standard": "tuî-ngí-unn",
+        "phonological_basis": "17c Dominican orthography conversion: tūy (隊) -> tui⁵ / tuî; ng (伍) -> ŋi² / ngí; ũ (?) -> ũ¹ / unn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Marco, o batidor de puerta, o ventana",
+      "source_H": "門控道",
+      "source_M": "mūy çen çō,",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Marco, o batidor de puerta, o ventana",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mui⁵ en¹ o⁶",
+        "tai_lo_standard": "muî-en-ō",
+        "phonological_basis": "17c Dominican orthography conversion: mūy (門) -> mui⁵ / muî; en (控) -> en¹ / en; ō (道) -> o⁶ / ō."
+      }
+    }
+  ]
+}

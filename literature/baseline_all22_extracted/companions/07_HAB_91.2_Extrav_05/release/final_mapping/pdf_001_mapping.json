@@ -1,0 +1,43 @@
+{
+  "pdf_page": 1,
+  "source": "/workspace/shared/minnan_transcription/hab_91_2_extrav_05/page_records/pdf_001_record.md",
+  "source_sha256": "41bb68a05e69850359eb726b1d6fc73adf68e7b24eee879946d7cb01d2f41168",
+  "image": "/workspace/shared/minnan_transcription/hab_91_2_extrav_05/page_records/pdf_001_render.png",
+  "image_sha256": "bb324289ca6475ac826cd1d0a042a1177768199ab118902351d08d09192b4afc",
+  "body": "/workspace/shared/minnan_transcription/hab_91_2_extrav_05/method_transfer_v3/release/final_text/pdf_001.md",
+  "body_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+  "visually_reviewed": true,
+  "full_text_verified": false,
+  "finding": "实际看page_records许可页渲染，德文标题、CC BY-SA图示和底署名示例，均现代馆方层无古稿正文。",
+  "changes": [],
+  "source_lines": [
+    {
+      "source_line": 1,
+      "source_text": "# PDF 1 许可页视觉记录",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    },
+    {
+      "source_line": 2,
+      "source_text": "",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    },
+    {
+      "source_line": 3,
+      "source_text": "原页已渲染核看。标题 Nutzungsbedingungen für Online-Angebote der Herzog August Bibliothek Wolfenbüttel；德文许可CC BY-SA及署名示例。",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    },
+    {
+      "source_line": 4,
+      "source_text": "仅身份与内容类型记录，不是全文重抄；未接受协议。",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    }
+  ]
+}

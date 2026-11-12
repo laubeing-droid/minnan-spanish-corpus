@@ -1,0 +1,476 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 214,
+  "historical_folio": 185,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0214/pdf_0214_300dpi.png",
+  "page_header": "C. ante. A.",
+  "page_footer_printed": "- 185 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Camino por agua, o",
+      "source_H": "陸",
+      "source_M": "chuy liog sabido loỹ",
+      "source_R": "log",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camino por agua, o",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui¹ liok⁷ sabido⁶ lo¹",
+        "tai_lo_standard": "tsui-liok-sābido-lo",
+        "phonological_basis": "17c Dominican orthography conversion: chuy (陸) -> tsui¹ / tsui; liog (?) -> liok⁷ / liok; sabido (?) -> sabido⁶ / sābido; lo (?) -> lo¹ / lo."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Camino por tierra",
+      "source_H": "橫",
+      "source_M": "han lou gy han. hua lou.",
+      "source_R": "heng",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T99 (污損難辨)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camino por tierra",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "han² lou⁶ gi¹ han⁶ hua⁶ lou¹",
+        "tai_lo_standard": "hán-lōu-gi-hān-huā-lou",
+        "phonological_basis": "17c Dominican orthography conversion: han (橫) -> han² / hán; lou (?) -> lou⁶ / lōu; gy (?) -> gi¹ / gi; han (?) -> han⁶ / hān; hua (?) -> hua⁶ / huā; lou (?) -> lou¹ / lou."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "camino atravesado estrecho",
+      "source_H": "歪",
+      "source_M": "vay.",
+      "source_R": "voay",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "camino atravesado estrecho",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "vai²",
+        "tai_lo_standard": "vái",
+        "phonological_basis": "17c Dominican orthography conversion: vay (歪) -> vai² / vái."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Camino fuera camabroy os.",
+      "source_H": "歌 [疑:歌/乖]",
+      "source_M": "gui.",
+      "source_R": "gui",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camino fuera camabroy os.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui²",
+        "tai_lo_standard": "guí",
+        "phonological_basis": "17c Dominican orthography conversion: gui (歌) -> gui² / guí."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Camino, en el camino",
+      "source_H": "路上",
+      "source_M": "lon chio",
+      "source_R": "li jang",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camino, en el camino",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lon² tsio²",
+        "tai_lo_standard": "lón-tsió",
+        "phonological_basis": "17c Dominican orthography conversion: lon (路) -> lon² / lón; chio (上) -> tsio² / tsió."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Camino sendereado",
+      "source_H": "陸路",
+      "source_M": "liog lou",
+      "source_R": "log li",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camino sendereado",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liok⁸ lou²",
+        "tai_lo_standard": "lio̍k-lóu",
+        "phonological_basis": "17c Dominican orthography conversion: liog (陸) -> liok⁸ / lio̍k; lou (路) -> lou² / lóu."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Camino por tierra",
+      "source_H": "旱路",
+      "source_M": "han lou",
+      "source_R": "han li",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camino por tierra",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "han² lou²",
+        "tai_lo_standard": "hán-lóu",
+        "phonological_basis": "17c Dominican orthography conversion: han (旱) -> han² / hán; lou (路) -> lou² / lóu."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Camino por tierra",
+      "source_H": "起旱",
+      "source_M": "guy han",
+      "source_R": "gui han",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camino por tierra",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui² han²",
+        "tai_lo_standard": "guí-hán",
+        "phonological_basis": "17c Dominican orthography conversion: guy (起) -> gui² / guí; han (旱) -> han² / hán."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Camino conocido.",
+      "source_H": "路熟",
+      "source_M": "lou leg",
+      "source_R": "lu zu",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camino conocido.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lou² lek⁷",
+        "tai_lo_standard": "lóu-lek",
+        "phonological_basis": "17c Dominican orthography conversion: lou (路) -> lou² / lóu; leg (熟) -> lek⁷ / lek."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Camino por proyecto.",
+      "source_H": "嶺路",
+      "source_M": "nia lou",
+      "source_R": "leng lu",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camino por proyecto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "nia² lou²",
+        "tai_lo_standard": "niá-lóu",
+        "phonological_basis": "17c Dominican orthography conversion: nia (嶺) -> nia² / niá; lou (路) -> lou² / lóu."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Camino por canja, orilla",
+      "source_H": "圳岸",
+      "source_M": "chun hua",
+      "source_R": "chuen ngan",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camino por canja, orilla",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsun³ hua²",
+        "tai_lo_standard": "tsùn-huá",
+        "phonological_basis": "17c Dominican orthography conversion: chun (圳) -> tsun³ / tsùn; hua (岸) -> hua² / huá."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Caminar por Gangas, ribazo",
+      "source_H": "潭岸",
+      "source_M": "tam hua",
+      "source_R": "tam ngan",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Caminar por Gangas, ribazo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tam¹ hua²",
+        "tai_lo_standard": "tam-huá",
+        "phonological_basis": "17c Dominican orthography conversion: tam (潭) -> tam¹ / tam; hua (岸) -> hua² / huá."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Camino por tierra",
+      "source_H": "趁路去",
+      "source_M": "tan lou cu",
+      "source_R": "cheng lu gui",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camino por tierra",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tan² lou² kʰu¹",
+        "tai_lo_standard": "tán-lóu-khu",
+        "phonological_basis": "17c Dominican orthography conversion: tan (趁) -> tan² / tán; lou (路) -> lou² / lóu; cu (去) -> kʰu¹ / khu."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Camino por d.o el mandador sin via obediencia.",
+      "source_H": "引道",
+      "source_M": "in to.",
+      "source_R": "inon tou",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camino por d.o el mandador sin via obediencia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "in² to²",
+        "tai_lo_standard": "ín-tó",
+        "phonological_basis": "17c Dominican orthography conversion: in (引) -> in² / ín; to (道) -> to² / tó."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Camino mucho junto,",
+      "source_H": "道多路",
+      "source_M": "to lou",
+      "source_R": "to lu",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camino mucho junto,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to¹ lou²",
+        "tai_lo_standard": "to-lóu",
+        "phonological_basis": "17c Dominican orthography conversion: to (道) -> to¹ / to; lou (多) -> lou² / lóu."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Camino por rodeo.",
+      "source_H": "路灣",
+      "source_M": "lou van.",
+      "source_R": "lu van",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camino por rodeo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lou² van¹",
+        "tai_lo_standard": "lóu-van",
+        "phonological_basis": "17c Dominican orthography conversion: lou (路) -> lou² / lóu; van (灣) -> van¹ / van."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Camino por rodeo",
+      "source_H": "灣亏路 [疑:亏/曲]",
+      "source_M": "van guiog lou",
+      "source_R": "van cong lu",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camino por rodeo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "van¹ guiok⁷ lou²",
+        "tai_lo_standard": "van-guiok-lóu",
+        "phonological_basis": "17c Dominican orthography conversion: van (灣) -> van¹ / van; guiog (亏) -> guiok⁷ / guiok; lou (路) -> lou² / lóu."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Camisa",
+      "source_H": "稱",
+      "source_M": "cheng wc",
+      "source_R": "au. cheng",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camisa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ³ wk⁷",
+        "tai_lo_standard": "tsèng-wk",
+        "phonological_basis": "17c Dominican orthography conversion: cheng (稱) -> tseŋ³ / tsèng; wc (?) -> wk⁷ / wk."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Camisa",
+      "source_H": "稱衫",
+      "source_M": "cheng wc sa ia",
+      "source_R": "cheng san",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camisa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ³ wk⁷ sa¹ ia¹",
+        "tai_lo_standard": "tsèng-wk-sa-ia",
+        "phonological_basis": "17c Dominican orthography conversion: cheng (稱) -> tseŋ³ / tsèng; wc (衫) -> wk⁷ / wk; sa (?) -> sa¹ / sa; ia (?) -> ia¹ / ia."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Camisa interior",
+      "source_H": "內衣",
+      "source_M": "lay oy",
+      "source_R": "lui y",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camisa interior",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lai² oi²",
+        "tai_lo_standard": "lái-ói",
+        "phonological_basis": "17c Dominican orthography conversion: lay (內) -> lai² / lái; oy (衣) -> oi² / ói."
+      }
+    }
+  ]
+}

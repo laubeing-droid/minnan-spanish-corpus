@@ -1,0 +1,408 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 490,
+  "historical_folio": 456,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0490/pdf_0490_300dpi.png",
+  "page_header": "F. ante. L.",
+  "page_footer_printed": "- 456 -",
+  "page_footer_handwritten": "228",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "fin · [疑:íreme/límite].",
+      "source_H": "[疑:窮/穹]",
+      "source_M": "guiōng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fin · .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guioŋ⁶",
+        "tai_lo_standard": "guiōng",
+        "phonological_basis": "17c Dominican orthography conversion: guiōng (?) -> guioŋ⁶ / guiōng."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "fin.",
+      "source_H": "終",
+      "source_M": "chiōng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fin.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsioŋ⁵",
+        "tai_lo_standard": "tsiông",
+        "phonological_basis": "17c Dominican orthography conversion: chiōng (終) -> tsioŋ⁵ / tsiông."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "fin.",
+      "source_H": "極",
+      "source_M": "gueg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fin.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guek⁸",
+        "tai_lo_standard": "gue̍k",
+        "phonological_basis": "17c Dominican orthography conversion: gueg (極) -> guek⁸ / gue̍k."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "fin, remate.",
+      "source_H": "末",
+      "source_M": "buat",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fin, remate.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "buat⁸",
+        "tai_lo_standard": "bua̍t",
+        "phonological_basis": "17c Dominican orthography conversion: buat (末) -> buat⁸ / bua̍t."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "fin remate.",
+      "source_H": "尾",
+      "source_M": "Buè.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fin remate.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue²",
+        "tai_lo_standard": "bué",
+        "phonological_basis": "17c Dominican orthography conversion: Buè (尾) -> bue² / bué."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "fin. [残]la el fin pposito se.",
+      "source_H": "盡",
+      "source_M": "chīn",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fin. la el fin pposito se.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin⁵",
+        "tai_lo_standard": "tsîn",
+        "phonological_basis": "17c Dominican orthography conversion: chīn (盡) -> tsin⁵ / tsîn."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "fin de alg.",
+      "source_H": "徹 末",
+      "source_M": "bÿ buat 15.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fin de alg.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bi¹ buat⁸",
+        "tai_lo_standard": "bi-bua̍t",
+        "phonological_basis": "17c Dominican orthography conversion: b (徹) -> bi¹ / bi; buat (末) -> buat⁸ / bua̍t."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "fin de la uida :",
+      "source_H": "世 代",
+      "source_M": "sÿ çāy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fin de la uida :",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si¹ ai⁵",
+        "tai_lo_standard": "si-âi",
+        "phonological_basis": "17c Dominican orthography conversion: s (世) -> si¹ / si; āy (代) -> ai⁵ / âi."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "fin del Año ‸[残] est el fin.",
+      "source_H": "近 年 邊",
+      "source_M": "gūinny pī̃.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fin del Año ‸ est el fin.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guinni⁵ pĩ⁵",
+        "tai_lo_standard": "guînni-pînn",
+        "phonological_basis": "17c Dominican orthography conversion: gūinny (近) -> guinni⁵ / guînni; pī̃ (年) -> pĩ⁵ / pînn."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "fin del Año .",
+      "source_H": "年 終",
+      "source_M": "nī chiong.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fin del Año .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ni⁵ tsioŋ¹",
+        "tai_lo_standard": "nî-tsiong",
+        "phonological_basis": "17c Dominican orthography conversion: nī (年) -> ni⁵ / nî; chiong (終) -> tsioŋ¹ / tsiong."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "fin del Año .",
+      "source_H": "年 尾",
+      "source_M": "nī buè.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fin del Año .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ni⁵ bue²",
+        "tai_lo_standard": "nî-bué",
+        "phonological_basis": "17c Dominican orthography conversion: nī (年) -> ni⁵ / nî; buè (尾) -> bue² / bué."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "fin del Año .",
+      "source_H": "廿 九 [疑:暝/冥] 昏",
+      "source_M": "xicaū mē huỹ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fin del Año .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzicau⁵ me⁵ hu²",
+        "tai_lo_standard": "jicâu-mê-hú",
+        "phonological_basis": "17c Dominican orthography conversion: xicaū (廿) -> dzicau⁵ / jicâu; mē (九) -> me⁵ / mê; hu (昏) -> hu² / hú."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Finacossa. f. pequeña.",
+      "source_H": "[疑:初/卻]",
+      "source_M": "yu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Finacossa. f. pequeña.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu¹",
+        "tai_lo_standard": "iu",
+        "phonological_basis": "17c Dominican orthography conversion: yu (?) -> iu¹ / iu."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "fina cossa .",
+      "source_H": "[疑:幼/幻] 細",
+      "source_M": "iû sêy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fina cossa .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu³ sei³",
+        "tai_lo_standard": "iù-sèi",
+        "phonological_basis": "17c Dominican orthography conversion: iû (細) -> iu³ / iù; sêy (?) -> sei³ / sèi."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "fina Bland.",
+      "source_H": "[疑:幼/幻] 軟",
+      "source_M": "iû nuè.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fina Bland.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu³ nue²",
+        "tai_lo_standard": "iù-nué",
+        "phonological_basis": "17c Dominican orthography conversion: iû (軟) -> iu³ / iù; nuè (?) -> nue² / nué."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Finalm̄te. en summa.",
+      "source_H": "總 [疑:師/是]",
+      "source_M": "chòng sú.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Finalm̄te. en summa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsɔŋ² su¹",
+        "tai_lo_standard": "tsóng-su",
+        "phonological_basis": "17c Dominican orthography conversion: chòng (總) -> tsɔŋ² / tsóng; sú (?) -> su¹ / su."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "finalmente.",
+      "source_H": "畢 竟",
+      "source_M": "pit queng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "finalmente.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pit⁷ keŋ¹",
+        "tai_lo_standard": "pit-keng",
+        "phonological_basis": "17c Dominican orthography conversion: pit (畢) -> pit⁷ / pit; queng (竟) -> keŋ¹ / keng."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "finalmente.",
+      "source_H": "一 總",
+      "source_M": "it chòng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "finalmente.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "it⁷ tsɔŋ²",
+        "tai_lo_standard": "it-tsóng",
+        "phonological_basis": "17c Dominican orthography conversion: it (一) -> it⁷ / it; chòng (總) -> tsɔŋ² / tsóng."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "finalm̄te. juntam̄te.",
+      "source_H": "合 [疑:總/抱]",
+      "source_M": "hap chòng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "finalm̄te. juntam̄te.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hap⁸ tsɔŋ²",
+        "tai_lo_standard": "ha̍p-tsóng",
+        "phonological_basis": "17c Dominican orthography conversion: hap (合) -> hap⁸ / ha̍p; chòng (?) -> tsɔŋ² / tsóng."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "finalm̄te. todo junt[残].",
+      "source_H": "[疑:攏/朗] 總",
+      "source_M": "lōng chòng todo jun[残].",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "finalm̄te. todo junt.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lɔŋ⁵ tsɔŋ² todo¹ dzun¹",
+        "tai_lo_standard": "lông-tsóng-todo-jun",
+        "phonological_basis": "17c Dominican orthography conversion: lōng (總) -> lɔŋ⁵ / lông; chòng (?) -> tsɔŋ² / tsóng; todo (?) -> todo¹ / todo; jun (?) -> dzun¹ / jun."
+      }
+    }
+  ]
+}

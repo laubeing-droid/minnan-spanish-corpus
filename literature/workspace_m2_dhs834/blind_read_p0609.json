@@ -1,0 +1,451 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 609,
+  "historical_folio": 575,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0609/pdf_0609_300dpi.png",
+  "page_header": "ante.",
+  "page_footer_printed": "- 575 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "libro en Blanco ÷ .",
+      "source_H": "空 冊",
+      "source_M": "camg chē",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "libro en Blanco ÷ .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰamk⁷ tsʰe⁵",
+        "tai_lo_standard": "khamk-tshê",
+        "phonological_basis": "17c Dominican orthography conversion: camg (空) -> kʰamk⁷ / khamk; chē (冊) -> tsʰe⁵ / tshê."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "libro de la ciudad .",
+      "source_H": "誌",
+      "source_M": "chîy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "libro de la ciudad .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsii³",
+        "tai_lo_standard": "tsìi",
+        "phonological_basis": "17c Dominican orthography conversion: chîy (誌) -> tsii³ / tsìi."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "libro de la ciudad",
+      "source_H": "誌 書",
+      "source_M": "chîy sú , chū .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "libro de la ciudad",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsii³ su¹ tsu³",
+        "tai_lo_standard": "tsìi-su-tsù",
+        "phonological_basis": "17c Dominican orthography conversion: chîy (誌) -> tsii³ / tsìi; sú (書) -> su¹ / su; chū (?) -> tsu³ / tsù."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "libro ordinario eng leen .",
+      "source_H": "籍",
+      "source_M": "chēc .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "libro ordinario eng leen .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsek⁷",
+        "tai_lo_standard": "tsek",
+        "phonological_basis": "17c Dominican orthography conversion: chēc (籍) -> tsek⁷ / tsek."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "libro ordinario eng leen .",
+      "source_H": "典 籍",
+      "source_M": "tiēn chēc .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "libro ordinario eng leen .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tien³ tsek⁷",
+        "tai_lo_standard": "tièn-tsek",
+        "phonological_basis": "17c Dominican orthography conversion: tiēn (典) -> tien³ / tièn; chēc (籍) -> tsek⁷ / tsek."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "libro devocion , [残]",
+      "source_H": "簿",
+      "source_M": "pō̃ gūy pō̃ chīasu ,",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "libro devocion ,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "põ³ gui³ põ³ tsiasu³",
+        "tai_lo_standard": "pònn-guì-pònn-tsiàsu",
+        "phonological_basis": "17c Dominican orthography conversion: pō̃ (簿) -> põ³ / pònn; gūy (?) -> gui³ / guì; pō̃ (?) -> põ³ / pònn; chīasu (?) -> tsiasu³ / tsiàsu."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "libro suyo, espejo de toda humana _",
+      "source_H": "明心寶鑑",
+      "source_M": "bēng sim pǒcam",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "libro suyo, espejo de toda humana _",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "beŋ³ sim³ pocam²",
+        "tai_lo_standard": "bèng-sìm-pocám",
+        "phonological_basis": "17c Dominican orthography conversion: bēng (明) -> beŋ³ / bèng; sim (心) -> sim³ / sìm; pǒcam (寶) -> pocam² / pocám."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "libro de registros ~",
+      "source_H": "門 簿",
+      "source_M": "mûy pō̃",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "libro de registros ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mui³ põ³",
+        "tai_lo_standard": "muì-pònn",
+        "phonological_basis": "17c Dominican orthography conversion: mûy (門) -> mui³ / muì; pō̃ (簿) -> põ³ / pònn."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "libro yenseña aescriiur carta .",
+      "source_H": "批 束",
+      "source_M": "pēy cān .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "libro yenseña aescriiur carta .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pʰei¹ kan³",
+        "tai_lo_standard": "phei-kàn",
+        "phonological_basis": "17c Dominican orthography conversion: pēy (批) -> pʰei¹ / phei; cān (束) -> kan³ / kàn."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "libro yenseña aescriiur carta .",
+      "source_H": "帖 式",
+      "source_M": "chiâp sî .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "libro yenseña aescriiur carta .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiap⁷ si³",
+        "tai_lo_standard": "tsiap-sì",
+        "phonological_basis": "17c Dominican orthography conversion: chiâp (帖) -> tsiap⁷ / tsiap; sî (式) -> si³ / sì."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "libro yenseña aescriiur carta .",
+      "source_H": "帖 文",
+      "source_M": "chiâp bûn",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "libro yenseña aescriiur carta .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiap⁷ bun³",
+        "tai_lo_standard": "tsiap-bùn",
+        "phonological_basis": "17c Dominican orthography conversion: chiâp (帖) -> tsiap⁷ / tsiap; bûn (文) -> bun³ / bùn."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "libro de memoria .",
+      "source_H": "記 數",
+      "source_M": "gîy siaù ,",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "libro de memoria .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gii³ siau²",
+        "tai_lo_standard": "gìi-siáu",
+        "phonological_basis": "17c Dominican orthography conversion: gîy (記) -> gii³ / gìi; siaù (數) -> siau² / siáu."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "libro de buena dotrina devchorica .",
+      "source_H": "文 書",
+      "source_M": "bûn sû .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "libro de buena dotrina devchorica .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bun³ su³",
+        "tai_lo_standard": "bùn-sù",
+        "phonological_basis": "17c Dominican orthography conversion: bûn (文) -> bun³ / bùn; sû (書) -> su³ / sù."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "libro delimaje ~",
+      "source_H": "譜",
+      "source_M": "pō̃ .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "libro delimaje ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "põ³",
+        "tai_lo_standard": "pònn",
+        "phonological_basis": "17c Dominican orthography conversion: pō̃ (譜) -> põ³ / pònn."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "libro de hechiceria .",
+      "source_H": "妖 書",
+      "source_M": "iâu chû .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "libro de hechiceria .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iau³ tsu³",
+        "tai_lo_standard": "iàu-tsù",
+        "phonological_basis": "17c Dominican orthography conversion: iâu (妖) -> iau³ / iàu; chû (書) -> tsu³ / tsù."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Licencia .",
+      "source_H": "票",
+      "source_M": "Piô",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Licencia .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pio³",
+        "tai_lo_standard": "piò",
+        "phonological_basis": "17c Dominican orthography conversion: Piô (票) -> pio³ / piò."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "licencia, beneplacito .",
+      "source_H": "講 明",
+      "source_M": "cōng bēng informar agracebir :",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "licencia, beneplacito .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ³ beŋ³ informar¹ agracebir¹",
+        "tai_lo_standard": "kòng-bèng-informar-agracebir",
+        "phonological_basis": "17c Dominican orthography conversion: cōng (講) -> kɔŋ³ / kòng; bēng (明) -> beŋ³ / bèng; informar (?) -> informar¹ / informar; agracebir (?) -> agracebir¹ / agracebir."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "licencia, beneplacito .",
+      "source_H": "給 付",
+      "source_M": "quîp hû",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "licencia, beneplacito .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kip⁷ hu³",
+        "tai_lo_standard": "kip-hù",
+        "phonological_basis": "17c Dominican orthography conversion: quîp (給) -> kip⁷ / kip; hû (付) -> hu³ / hù."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "licencia, sacar la .",
+      "source_H": "打 票",
+      "source_M": "pà piô",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "licencia, sacar la .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pa² pio³",
+        "tai_lo_standard": "pá-piò",
+        "phonological_basis": "17c Dominican orthography conversion: pà (打) -> pa² / pá; piô (票) -> pio³ / piò."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "licencia, pedir la ~ .",
+      "source_H": "稟 明",
+      "source_M": "pîn bēng .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "licencia, pedir la ~ .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pin³ beŋ³",
+        "tai_lo_standard": "pìn-bèng",
+        "phonological_basis": "17c Dominican orthography conversion: pîn (稟) -> pin³ / pìn; bēng (明) -> beŋ³ / bèng."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "Licenciado ~",
+      "source_H": "儒",
+      "source_M": "xû",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Licenciado ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzu³",
+        "tai_lo_standard": "jù",
+        "phonological_basis": "17c Dominican orthography conversion: xû (儒) -> dzu³ / jù."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "licenciado . zigrado",
+      "source_H": "春 元",
+      "source_M": "chūn guân",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "licenciado . zigrado",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰun³ guan³",
+        "tai_lo_standard": "tshùn-guàn",
+        "phonological_basis": "17c Dominican orthography conversion: chūn (春) -> tsʰun³ / tshùn; guân (元) -> guan³ / guàn."
+      }
+    }
+  ]
+}

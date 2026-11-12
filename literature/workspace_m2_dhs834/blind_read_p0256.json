@@ -1,0 +1,398 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 256,
+  "historical_folio": 227,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0256/pdf_0256_300dpi.png",
+  "page_header": "C. ante. f.",
+  "page_footer_printed": "- 227 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "cigarra grande Canta,",
+      "source_H": "諳[疑:諳/蟬] 蝻[疑:蝻/蜺] 船[疑:船/蟬]",
+      "source_M": "ám gìn chūn",
+      "source_R": "ngán pîn chûn",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cigarra grande Canta,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "am¹ gin² tsʰun⁵",
+        "tai_lo_standard": "am-gín-tshûn",
+        "phonological_basis": "17c Dominican orthography conversion: ám (諳) -> am¹ / am; gìn (蝻) -> gin² / gín; chūn (船) -> tsʰun⁵ / tshûn."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "cigarra de china q̄ come La oraya.",
+      "source_H": "螳",
+      "source_M": "tāng",
+      "source_R": "tâng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cigarra de china q̄ come La oraya.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "taŋ⁵",
+        "tai_lo_standard": "tâng",
+        "phonological_basis": "17c Dominican orthography conversion: tāng (螳) -> taŋ⁵ / tâng."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "cigarra de china",
+      "source_H": "螳 蜋",
+      "source_M": "tông lông.",
+      "source_R": "tông lông",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cigarra de china",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tɔŋ³ lɔŋ³",
+        "tai_lo_standard": "tòng-lòng",
+        "phonological_basis": "17c Dominican orthography conversion: tông (螳) -> tɔŋ³ / tòng; lông (蜋) -> lɔŋ³ / lòng."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Cigüeñas.",
+      "source_H": "水 鶯[疑:鶯/鵝]",
+      "source_M": "chūi gō",
+      "source_R": "zūi ngô",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cigüeñas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui⁵ go⁵",
+        "tai_lo_standard": "tsuî-gô",
+        "phonological_basis": "17c Dominican orthography conversion: chūi (水) -> tsui⁵ / tsuî; gō (鶯) -> go⁵ / gô."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Cimientos.",
+      "source_H": "基",
+      "source_M": "gín",
+      "source_R": "gǐin",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cimientos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gin¹",
+        "tai_lo_standard": "gin",
+        "phonological_basis": "17c Dominican orthography conversion: gín (基) -> gin¹ / gin."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "cimientos",
+      "source_H": "牆[疑:牆/墙] 基",
+      "source_M": "chiō gín.",
+      "source_R": "châng gǐn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cimientos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsio⁵ gin¹",
+        "tai_lo_standard": "tsiô-gin",
+        "phonological_basis": "17c Dominican orthography conversion: chiō (牆) -> tsio⁵ / tsiô; gín (基) -> gin¹ / gin."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "cimientos",
+      "source_H": "地 基",
+      "source_M": "tēy gín.",
+      "source_R": "tǐ gǐn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cimientos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tei⁵ gin¹",
+        "tai_lo_standard": "têi-gin",
+        "phonological_basis": "17c Dominican orthography conversion: tēy (地) -> tei⁵ / têi; gín (基) -> gin¹ / gin."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Cincha. de caballo ta",
+      "source_H": "勒",
+      "source_M": "lěg",
+      "source_R": "lē",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cincha. de caballo ta",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lek⁷",
+        "tai_lo_standard": "lek",
+        "phonological_basis": "17c Dominican orthography conversion: lěg (勒) -> lek⁷ / lek."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "cincha de caballo",
+      "source_H": "馬 勒 肚",
+      "source_M": "bè lég tôu",
+      "source_R": "mà lē tín",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cincha de caballo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "be² lek⁷ tou³",
+        "tai_lo_standard": "bé-lek-tòu",
+        "phonological_basis": "17c Dominican orthography conversion: bè (馬) -> be² / bé; lég (勒) -> lek⁷ / lek; tôu (肚) -> tou³ / tòu."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Cinco.",
+      "source_H": "五",
+      "source_M": "gǒu: ngǒu: pram.",
+      "source_R": "ngǐn",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cinco.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gou² ŋou⁶ pram¹",
+        "tai_lo_standard": "góu-ngōu-pram",
+        "phonological_basis": "17c Dominican orthography conversion: gǒu (五) -> gou² / góu; ngǒu (?) -> ŋou⁶ / ngōu; pram (?) -> pram¹ / pram."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "cinco. alas y delatarde.",
+      "source_H": "酉",
+      "source_M": "iū sī.",
+      "source_R": "iù",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cinco. alas y delatarde.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu⁵ si⁶",
+        "tai_lo_standard": "iû-sī",
+        "phonological_basis": "17c Dominican orthography conversion: iū (酉) -> iu⁵ / iû; sī (?) -> si⁶ / sī."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Cingulo ÿ paño al roño:",
+      "source_H": "汗 巾",
+      "source_M": "hǎn guín",
+      "source_R": "hān gǔn",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cingulo ÿ paño al roño:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "han² guin¹",
+        "tai_lo_standard": "hán-guin",
+        "phonological_basis": "17c Dominican orthography conversion: hǎn (汗) -> han² / hán; guín (巾) -> guin¹ / guin."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Cinta, oliga .",
+      "source_H": "帶",
+      "source_M": "tòa",
+      "source_R": "tāy",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cinta, oliga .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toa²",
+        "tai_lo_standard": "toá",
+        "phonological_basis": "17c Dominican orthography conversion: tòa (帶) -> toa² / toá."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "cinta, oliga d mandarin.",
+      "source_H": "韜",
+      "source_M": "Tō tôa",
+      "source_R": "tôn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cinta, oliga d mandarin.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to⁵ toa³",
+        "tai_lo_standard": "tô-toà",
+        "phonological_basis": "17c Dominican orthography conversion: Tō (韜) -> to⁵ / tô; tôa (?) -> toa³ / toà."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Cinto de Mandarin",
+      "source_H": "角 帶",
+      "source_M": "cǎg hôa",
+      "source_R": "cō tāy",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cinto de Mandarin",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kak⁷ hoa³",
+        "tai_lo_standard": "kak-hoà",
+        "phonological_basis": "17c Dominican orthography conversion: cǎg (角) -> kak⁷ / kak; hôa (帶) -> hoa³ / hoà."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "cinco[疑:cinco/cinto] de Mandain[疑:Mandain/Mandarin]",
+      "source_H": "冠 帶",
+      "source_M": "cuân tǎy.",
+      "source_R": "cuân tāy",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cinco de Mandain",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuan³ tai²",
+        "tai_lo_standard": "kuàn-tái",
+        "phonological_basis": "17c Dominican orthography conversion: cuân (冠) -> kuan³ / kuàn; tǎy (帶) -> tai² / tái."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "cinto de nobles q̃ Ma mn ml paypay.",
+      "source_H": "翁[疑:翁/翕] 陸[疑:陸/陛]",
+      "source_M": "sīn quy.",
+      "source_R": "sīn tāy",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cinto de nobles q̃ Ma mn ml paypay.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sin⁵ ki³",
+        "tai_lo_standard": "sîn-kì",
+        "phonological_basis": "17c Dominican orthography conversion: sīn (翁) -> sin⁵ / sîn; quy (陸) -> ki³ / kì."
+      }
+    }
+  ]
+}

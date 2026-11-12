@@ -1,0 +1,26 @@
+{
+  "at": "2026-10-16T17:36:32.636071+00:00",
+  "stage": "postfreeze_external_reference_exposed",
+  "files": [
+    {
+      "path": "external_collation/DHS180_387_postfreeze_target_review_v1.md",
+      "sha256": "df7bac08405bf171491e4acb5db644ff388ec495a91c9d516ccd1afc64461534"
+    },
+    {
+      "path": "native_images/pdf_0180_native_manifest_v1.json",
+      "sha256": "e62321bc0368b90ece75d959987338970124ec126c00f831597e982915724620"
+    },
+    {
+      "path": "native_images/pdf_0387_native_manifest_v1.json",
+      "sha256": "c9968bd45f51868cb0717c5be18a2a80d6d899f0f446483fb3e76f0bdab499ba"
+    },
+    {
+      "path": "transcripts/pdf_0180_visual_first_v1.md",
+      "sha256": "34aa1885abb58153ee81ee00581db5dfeae0ef1568beb8bdab0105ffcc9303dc"
+    },
+    {
+      "path": "transcripts/pdf_0387_visual_first_v1.md",
+      "sha256": "f5a1ce8a28d3e93d60e6be5eea6a4741ecd9973b38de34d265806fb63ed8b8a0"
+    }
+  ]
+}

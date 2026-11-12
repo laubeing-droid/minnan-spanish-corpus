@@ -1,0 +1,428 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 227,
+  "historical_folio": 198,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0227/pdf_0227_300dpi.png",
+  "page_header": "C. ante. A.",
+  "page_footer_printed": "- 198 -",
+  "page_footer_handwritten": "99",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Carbon.",
+      "source_H": "炭",
+      "source_M": "Toā̃",
+      "source_R": "tān",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Carbon.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tõã⁵",
+        "tai_lo_standard": "toânn",
+        "phonological_basis": "17c Dominican orthography conversion: Toā̃ (炭) -> tõã⁵ / toânn."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "carbones.",
+      "source_H": "燒炭人",
+      "source_M": "siõ thōa lāng",
+      "source_R": "chiān tān xīn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carbones.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sĩõ⁵ tʰoa⁵ laŋ⁵",
+        "tai_lo_standard": "siônn-thoâ-lâng",
+        "phonological_basis": "17c Dominican orthography conversion: siõ (燒) -> sĩõ⁵ / siônn; thōa (炭) -> tʰoa⁵ / thoâ; lāng (人) -> laŋ⁵ / lâng."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Carbunco: piedra",
+      "source_H": "宝珠",
+      "source_M": "pò chū",
+      "source_R": "pào chū",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Carbunco: piedra",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "po² tsu⁵",
+        "tai_lo_standard": "pó-tsû",
+        "phonological_basis": "17c Dominican orthography conversion: pò (宝) -> po² / pó; chū (珠) -> tsu⁵ / tsû."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "carbunco.",
+      "source_H": "夜明珠",
+      "source_M": "yà bēng chū",
+      "source_R": "yè mēng chū",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carbunco.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ia² beŋ⁵ tsu⁵",
+        "tai_lo_standard": "iá-bêng-tsû",
+        "phonological_basis": "17c Dominican orthography conversion: yà (夜) -> ia² / iá; bēng (明) -> beŋ⁵ / bêng; chū (珠) -> tsu⁵ / tsû."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "carbunco:enfermedad.",
+      "source_H": "成瘤",
+      "source_M": "chiā liū",
+      "source_R": "chēng liū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carbunco:enfermedad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsia⁵ liu⁵",
+        "tai_lo_standard": "tsiâ-liû",
+        "phonological_basis": "17c Dominican orthography conversion: chiā (成) -> tsia⁵ / tsiâ; liū (瘤) -> liu⁵ / liû."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "carbunco de enfermedad.",
+      "source_H": "疔",
+      "source_M": "tēng.",
+      "source_R": "tēng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carbunco de enfermedad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teŋ⁵",
+        "tai_lo_standard": "têng",
+        "phonological_basis": "17c Dominican orthography conversion: tēng (疔) -> teŋ⁵ / têng."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "carbuncos:enfermedad.",
+      "source_H": "瘤瘡",
+      "source_M": "liū chūñg",
+      "source_R": "liū châng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carbuncos:enfermedad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liu⁵ tsʰũŋ⁵",
+        "tai_lo_standard": "liû-tshûng",
+        "phonological_basis": "17c Dominican orthography conversion: liū (瘤) -> liu⁵ / liû; chūñg (瘡) -> tsʰũŋ⁵ / tshûng."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Carcanal.",
+      "source_H": "腳後[疑:躓/踝]",
+      "source_M": "cà âu tē",
+      "source_R": "guō heū guēng [圈注:guēng chēng]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Carcanal.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka² au³ te⁶",
+        "tai_lo_standard": "ká-àu-tē",
+        "phonological_basis": "17c Dominican orthography conversion: cà (腳) -> ka² / ká; âu (後) -> au³ / àu; tē (?) -> te⁶ / tē."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Cancél.",
+      "source_H": "腳[疑:單/鐙]",
+      "source_M": "caū̃",
+      "source_R": "guio cū",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cancél.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kãũ⁵",
+        "tai_lo_standard": "kâunn",
+        "phonological_basis": "17c Dominican orthography conversion: caū̃ (腳) -> kãũ⁵ / kâunn."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "carcel.",
+      "source_H": "獄",
+      "source_M": "giog",
+      "source_R": "ñyo",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carcel.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "giok⁷",
+        "tai_lo_standard": "giok",
+        "phonological_basis": "17c Dominican orthography conversion: giog (獄) -> giok⁷ / giok."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "carcel no appera -",
+      "source_H": "牢",
+      "source_M": "lō.",
+      "source_R": "lâu",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carcel no appera -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lo⁵",
+        "tai_lo_standard": "lô",
+        "phonological_basis": "17c Dominican orthography conversion: lō (牢) -> lo⁵ / lô."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "carcel vvappera",
+      "source_H": "牢獄",
+      "source_M": "lō giog",
+      "source_R": "lâu ñyo",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carcel vvappera",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lo⁵ giok⁷",
+        "tai_lo_standard": "lô-giok",
+        "phonological_basis": "17c Dominican orthography conversion: lō (牢) -> lo⁵ / lô; giog (獄) -> giok⁷ / giok."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "carcel del cielo y tierra.",
+      "source_H": "天羅地網",
+      "source_M": "tiēn lō tē bāng",
+      "source_R": "tiēn lō tī bāng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carcel del cielo y tierra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰien⁵ lo⁵ te⁵ baŋ⁵",
+        "tai_lo_standard": "thiên-lô-tê-bâng",
+        "phonological_basis": "17c Dominican orthography conversion: tiēn (天) -> tʰien⁵ / thiên; lō (羅) -> lo⁵ / lô; tē (地) -> te⁵ / tê; bāng (網) -> baŋ⁵ / bâng."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "carcel del infierno.",
+      "source_H": "地獄",
+      "source_M": "tē giog:",
+      "source_R": "tī ñyo",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carcel del infierno.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "te⁵ giok⁷",
+        "tai_lo_standard": "tê-giok",
+        "phonological_basis": "17c Dominican orthography conversion: tē (地) -> te⁵ / tê; giog (獄) -> giok⁷ / giok."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "carcel pintada ;-",
+      "source_H": "為獄 oa fa ge yú",
+      "source_M": "uī giog",
+      "source_R": "uī ñyo",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carcel pintada ;-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ui⁵ giok⁷",
+        "tai_lo_standard": "uî-giok",
+        "phonological_basis": "17c Dominican orthography conversion: uī (為) -> ui⁵ / uî; giog (獄) -> giok⁷ / giok."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Carcoma.",
+      "source_H": "蛺",
+      "source_M": "chiū̃ [涂去一字]",
+      "source_R": "chîū",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Carcoma.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsĩũ⁵",
+        "tai_lo_standard": "tsiûnn",
+        "phonological_basis": "17c Dominican orthography conversion: chiū̃ (蛺) -> tsĩũ⁵ / tsiûnn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "carcoma",
+      "source_H": "蛺虫",
+      "source_M": "chiū̃ thâng",
+      "source_R": "chîū chōng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carcoma",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsĩũ⁵ tʰaŋ³",
+        "tai_lo_standard": "tsiûnn-thàng",
+        "phonological_basis": "17c Dominican orthography conversion: chiū̃ (蛺) -> tsĩũ⁵ / tsiûnn; thâng (虫) -> tʰaŋ³ / thàng."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Cardenal, roncha.",
+      "source_H": "鳥疹[疑:鳥/烏・疹/痧]",
+      "source_M": "chúi lāi",
+      "source_R": "chǔ lòng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cardenal, roncha.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui¹ lai⁵",
+        "tai_lo_standard": "tsui-lâi",
+        "phonological_basis": "17c Dominican orthography conversion: chúi (鳥) -> tsui¹ / tsui; lāi (疹) -> lai⁵ / lâi."
+      }
+    }
+  ]
+}

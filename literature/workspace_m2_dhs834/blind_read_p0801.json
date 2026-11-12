@@ -1,0 +1,326 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 801,
+  "historical_folio": 763,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0801/pdf_0801_300dpi.png",
+  "page_header": "P. ante. F.",
+  "page_footer_printed": "- 763 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 15,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "petillo de cera dura",
+      "source_H": "暗鐱 [疑:鐱/銜]",
+      "source_M": "ám yǒ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "petillo de cera dura",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "am¹ io³",
+        "tai_lo_standard": "am-iò",
+        "phonological_basis": "17c Dominican orthography conversion: ám (暗) -> am¹ / am; yǒ (鐱) -> io³ / iò."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Petorego",
+      "source_H": "打耳",
+      "source_M": "que pa hī",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Petorego",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ke⁵ pa¹ hi⁶",
+        "tai_lo_standard": "kê-pa-hī",
+        "phonological_basis": "17c Dominican orthography conversion: que (打) -> ke⁵ / kê; pa (耳) -> pa¹ / pa; hī (?) -> hi⁶ / hī."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Pesuña",
+      "source_H": "臭脚",
+      "source_M": "chàu ca",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Pesuña",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsau² ka⁵",
+        "tai_lo_standard": "tsáu-kâ",
+        "phonological_basis": "17c Dominican orthography conversion: chàu (臭) -> tsau² / tsáu; ca (脚) -> ka⁵ / kâ."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Petaca",
+      "source_H": "籠",
+      "source_M": "lang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Petaca",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "laŋ³",
+        "tai_lo_standard": "làng",
+        "phonological_basis": "17c Dominican orthography conversion: lang (籠) -> laŋ³ / làng."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Petate",
+      "source_H": "席",
+      "source_M": "chio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Petate",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [
+          {
+            "term": "petate",
+            "hanzi": "草蓆",
+            "tai_lo": "tsháu-tshio̍h",
+            "zh_note": "編織睡蓆（源自新西班牙納瓦特爾語 Petlatl，經大帆船貿易傳入馬尼拉）",
+            "en_note": "Woven palm or reed sleeping mat"
+          }
+        ],
+        "reconstructed_17th_c_hokkien": "tsio¹",
+        "tai_lo_standard": "tsio",
+        "phonological_basis": "17c Dominican orthography conversion: chio (席) -> tsio¹ / tsio."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "petate de caña",
+      "source_H": "簟",
+      "source_M": "pin",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "petate de caña",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [
+          {
+            "term": "petate",
+            "hanzi": "草蓆",
+            "tai_lo": "tsháu-tshio̍h",
+            "zh_note": "編織睡蓆（源自新西班牙納瓦特爾語 Petlatl，經大帆船貿易傳入馬尼拉）",
+            "en_note": "Woven palm or reed sleeping mat"
+          }
+        ],
+        "reconstructed_17th_c_hokkien": "pin²",
+        "tai_lo_standard": "pín",
+        "phonological_basis": "17c Dominican orthography conversion: pin (簟) -> pin² / pín."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "petate delante la puerta pª reparo",
+      "source_H": "篷 廠",
+      "source_M": "pang chio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "petate delante la puerta pª reparo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [
+          {
+            "term": "petate",
+            "hanzi": "草蓆",
+            "tai_lo": "tsháu-tshio̍h",
+            "zh_note": "編織睡蓆（源自新西班牙納瓦特爾語 Petlatl，經大帆船貿易傳入馬尼拉）",
+            "en_note": "Woven palm or reed sleeping mat"
+          }
+        ],
+        "reconstructed_17th_c_hokkien": "paŋ⁵ tsio¹",
+        "tai_lo_standard": "pâng-tsio",
+        "phonological_basis": "17c Dominican orthography conversion: pang (篷) -> paŋ⁵ / pâng; chio (廠) -> tsio¹ / tsio."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Petición a la justicia",
+      "source_H": "狀",
+      "source_M": "chūng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Petición a la justicia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsuŋ⁵",
+        "tai_lo_standard": "tsûng",
+        "phonological_basis": "17c Dominican orthography conversion: chūng (狀) -> tsuŋ⁵ / tsûng."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "peticion",
+      "source_H": "呈 上",
+      "source_M": "tīa chiõ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "peticion",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tia⁵ tsĩõ¹",
+        "tai_lo_standard": "tiâ-tsionn",
+        "phonological_basis": "17c Dominican orthography conversion: tīa (呈) -> tia⁵ / tiâ; chiõ (上) -> tsĩõ¹ / tsionn."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "petición del reo",
+      "source_H": "訴 狀",
+      "source_M": "sòu chung",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "petición del reo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sou² tsuŋ¹",
+        "tai_lo_standard": "sóu-tsung",
+        "phonological_basis": "17c Dominican orthography conversion: sòu (訴) -> sou² / sóu; chung (狀) -> tsuŋ¹ / tsung."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "peticion del reo",
+      "source_H": "訴 詞",
+      "source_M": "sòu sù",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "peticion del reo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sou² su²",
+        "tai_lo_standard": "sóu-sú",
+        "phonological_basis": "17c Dominican orthography conversion: sòu (訴) -> sou² / sóu; sù (詞) -> su² / sú."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "petición [疑:velachos/delachos]",
+      "source_H": "告 狀",
+      "source_M": "co chung",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "petición",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko³ tsuŋ¹",
+        "tai_lo_standard": "kò-tsung",
+        "phonological_basis": "17c Dominican orthography conversion: co (告) -> ko³ / kò; chung (狀) -> tsuŋ¹ / tsung."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "petición y modelo della",
+      "source_H": "狀 式",
+      "source_M": "chung sèg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "petición y modelo della",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsuŋ¹ sek⁷",
+        "tai_lo_standard": "tsung-sek",
+        "phonological_basis": "17c Dominican orthography conversion: chung (狀) -> tsuŋ¹ / tsung; sèg (式) -> sek⁷ / sek."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Pez. g. pescado",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Pez. g. pescado",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Pez brua",
+      "source_H": "[空]",
+      "source_M": "chiā̃ mà",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Pez brua",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsĩã⁶ ma²",
+        "tai_lo_standard": "tsiānn-má",
+        "phonological_basis": "17c Dominican orthography conversion: chiā̃ (?) -> tsĩã⁶ / tsiānn; mà (?) -> ma² / má."
+      }
+    }
+  ]
+}

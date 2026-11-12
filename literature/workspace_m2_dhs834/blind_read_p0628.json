@@ -1,0 +1,425 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 628,
+  "historical_folio": 594,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0628/pdf_0628_300dpi.png",
+  "page_header": "ante.",
+  "page_footer_printed": "- 594 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Llevar el nauio ampilos.",
+      "source_H": "駕 舡",
+      "source_M": "que chun",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar el nauio ampilos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ke³ tsun⁵",
+        "tai_lo_standard": "kè-tsûn",
+        "phonological_basis": "17c Dominican orthography conversion: que (駕) -> ke³ / kè; chun (舡) -> tsun⁵ / tsûn."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Llevar vt sic necebo.",
+      "source_H": "寄 去",
+      "source_M": "guia cu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar vt sic necebo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guia³ kʰu³",
+        "tai_lo_standard": "guià-khù",
+        "phonological_basis": "17c Dominican orthography conversion: guia (寄) -> guia³ / guià; cu (去) -> kʰu³ / khù."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Llevar con cuidado no sepir da~",
+      "source_H": "寄 得 不 寄 失",
+      "source_M": "guia tey guia sit",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar con cuidado no sepir da~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guia³ tei³ guia³ sit⁷",
+        "tai_lo_standard": "guià-tèi-guià-sit",
+        "phonological_basis": "17c Dominican orthography conversion: guia (寄) -> guia³ / guià; tey (得) -> tei³ / tèi; guia (不) -> guia³ / guià; sit (寄) -> sit⁷ / sit."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Llevar en las manos~",
+      "source_H": "寄 放 手",
+      "source_M": "guia pang chiu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar en las manos~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guia³ paŋ³ tsiu⁵",
+        "tai_lo_standard": "guià-pàng-tsiû",
+        "phonological_basis": "17c Dominican orthography conversion: guia (寄) -> guia³ / guià; pang (放) -> paŋ³ / pàng; chiu (手) -> tsiu⁵ / tsiû."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Llevar a proveerse el animo.",
+      "source_H": "施 恩",
+      "source_M": "sy say [残]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar a proveerse el animo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si⁵ sai⁵",
+        "tai_lo_standard": "sî-sâi",
+        "phonological_basis": "17c Dominican orthography conversion: sy (施) -> si⁵ / sî; say (恩) -> sai⁵ / sâi."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Llevar el correo de pahos.",
+      "source_H": "遞 文 書",
+      "source_M": "tey bun cu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar el correo de pahos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tei² bun⁵ ku⁵",
+        "tai_lo_standard": "téi-bûn-kû",
+        "phonological_basis": "17c Dominican orthography conversion: tey (遞) -> tei² / téi; bun (文) -> bun⁵ / bûn; cu (書) -> ku⁵ / kû."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Llevar el nauio por fuera, o nuevo~",
+      "source_H": "舵 伊 去",
+      "source_M": "tva y cu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar el nauio por fuera, o nuevo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tva² i¹ kʰu⁵",
+        "tai_lo_standard": "tvá-i-khû",
+        "phonological_basis": "17c Dominican orthography conversion: tva (舵) -> tva² / tvá; y (伊) -> i¹ / i; cu (去) -> kʰu⁵ / khû."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Llevar recado como adero.",
+      "source_H": "傳 言",
+      "source_M": "foan rien",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar recado como adero.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "foan⁵ rien⁵",
+        "tai_lo_standard": "foân-riên",
+        "phonological_basis": "17c Dominican orthography conversion: foan (傳) -> foan⁵ / foân; rien (言) -> rien⁵ / riên."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Llevar hacienda a la buelta de la contrataçion~",
+      "source_H": "轉 頭 尾",
+      "source_M": "tuy tau bue",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar hacienda a la buelta de la contrataçion~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tui² tʰau⁵ bue⁵",
+        "tai_lo_standard": "tuí-thâu-buê",
+        "phonological_basis": "17c Dominican orthography conversion: tuy (轉) -> tui² / tuí; tau (頭) -> tʰau⁵ / thâu; bue (尾) -> bue⁵ / buê."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Llevar adelante lo començado~",
+      "source_H": "有 志 氣",
+      "source_M": "u chy quy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar adelante lo començado~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "u⁵ tsi² kʰi⁵",
+        "tai_lo_standard": "û-tsí-khî",
+        "phonological_basis": "17c Dominican orthography conversion: u (有) -> u⁵ / û; chy (志) -> tsi² / tsí; quy (氣) -> kʰi⁵ / khî."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Llevar algo de baxo el braço~",
+      "source_H": "加 奪",
+      "source_M": "ca te",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar algo de baxo el braço~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka¹ te²",
+        "tai_lo_standard": "ka-té",
+        "phonological_basis": "17c Dominican orthography conversion: ca (加) -> ka¹ / ka; te (奪) -> te² / té."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Llevar de la mano~",
+      "source_H": "牽 手",
+      "source_M": "can chiu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar de la mano~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kan⁵ tsiu⁵",
+        "tai_lo_standard": "kân-tsiû",
+        "phonological_basis": "17c Dominican orthography conversion: can (牽) -> kan⁵ / kân; chiu (手) -> tsiu⁵ / tsiû."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Llevar embarcado y traello atrae~",
+      "source_H": "載 上 載 落",
+      "source_M": "chay chio chay lo",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar embarcado y traello atrae~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsai⁵ tsio² tsai⁵ lo²",
+        "tai_lo_standard": "tsâi-tsió-tsâi-ló",
+        "phonological_basis": "17c Dominican orthography conversion: chay (載) -> tsai⁵ / tsâi; chio (上) -> tsio² / tsió; chay (載) -> tsai⁵ / tsâi; lo (落) -> lo² / ló."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Llevar la comida del Rey.",
+      "source_H": "進 膳",
+      "source_M": "chin sien",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar la comida del Rey.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin⁵ sien²",
+        "tai_lo_standard": "tsîn-sién",
+        "phonological_basis": "17c Dominican orthography conversion: chin (進) -> tsin⁵ / tsîn; sien (膳) -> sien² / sién."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Llevar el marido la muger a casa~",
+      "source_H": "焦 人",
+      "source_M": "choa bon",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar el marido la muger a casa~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsoa² bon⁵",
+        "tai_lo_standard": "tsoá-bôn",
+        "phonological_basis": "17c Dominican orthography conversion: choa (焦) -> tsoa² / tsoá; bon (人) -> bon⁵ / bôn."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Llevar el muerto al monte~",
+      "source_H": "出 山",
+      "source_M": "chut soa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar el muerto al monte~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰut⁷ soa³",
+        "tai_lo_standard": "tshut-soà",
+        "phonological_basis": "17c Dominican orthography conversion: chut (出) -> tsʰut⁷ / tshut; soa (山) -> soa³ / soà."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Llevar recado~ [残]",
+      "source_H": "奉 命",
+      "source_M": "hong beng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar recado~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ⁵ beŋ²",
+        "tai_lo_standard": "hông-béng",
+        "phonological_basis": "17c Dominican orthography conversion: hong (奉) -> hɔŋ⁵ / hông; beng (命) -> beŋ² / béng."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Llevar el cauallo de diestro.",
+      "source_H": "凌 [疑:凌/龍] 馬",
+      "source_M": "leng be",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar el cauallo de diestro.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "leŋ⁵ be²",
+        "tai_lo_standard": "lêng-bé",
+        "phonological_basis": "17c Dominican orthography conversion: leng (凌) -> leŋ⁵ / lêng; be (馬) -> be² / bé."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Llevar la vandera en la mano",
+      "source_H": "念 字 旗",
+      "source_M": "leng xy quy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Llevar la vandera en la mano",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "leŋ⁶ dzi⁶ ki⁵",
+        "tai_lo_standard": "lēng-jī-kî",
+        "phonological_basis": "17c Dominican orthography conversion: leng (念) -> leŋ⁶ / lēng; xy (字) -> dzi⁶ / jī; quy (旗) -> ki⁵ / kî."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Ueuase el dieblo~",
+      "source_H": "耗 食 去",
+      "source_M": "ho chia cu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ueuase el dieblo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho² tsia² kʰu⁵",
+        "tai_lo_standard": "hó-tsiá-khû",
+        "phonological_basis": "17c Dominican orthography conversion: ho (耗) -> ho² / hó; chia (食) -> tsia² / tsiá; cu (去) -> kʰu⁵ / khû."
+      }
+    }
+  ]
+}

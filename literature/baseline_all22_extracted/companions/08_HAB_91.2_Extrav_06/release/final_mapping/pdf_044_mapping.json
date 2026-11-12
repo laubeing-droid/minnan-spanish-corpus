@@ -1,0 +1,80 @@
+{
+  "pdf_page": 44,
+  "source": "/workspace/shared/minnan_transcription/hab_91_2_extrav_06/visual_v1/pdf_044.md",
+  "source_sha256": "844794085ef359a0e97f678abfa76f3426caa49bfbcf94bad00f44a06fe37617",
+  "image": "/workspace/shared/minnan_reference_catalog/hab06_official_max/00042.jpg",
+  "image_sha256": "6ab2f19b64494cd1b3e69f68ce20f5b02fbb7a5c7453c46a6e3ee342ad4c8eea",
+  "body": "/workspace/shared/minnan_transcription/hab_91_2_extrav_06/method_transfer_v3/release/final_text/pdf_044.md",
+  "body_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+  "visually_reviewed": true,
+  "full_text_verified": false,
+  "finding": "实看原向全图及原像素铅笔局部、右上纸签转180度。纸签清楚为91.2.Ms.Ext.，末字缩写保留Ext.不展开Extravagantes；旧整串疑读可收窄。铅笔Extravag.91.后长连笔仍暂〔2?〕，下两草形未定。此为西文馆藏题记，另层保存，不混入汉文账。",
+  "changes": [
+    [
+      "〔91.2. Ms. Extr.?〕（须转正核）",
+      "91.2. Ms. Ext.（本轮纸签局部转180度核读；馆藏题记层）"
+    ]
+  ],
+  "source_lines": [
+    {
+      "source_line": 1,
+      "source_text": "# PDF044 / MAX00042",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    },
+    {
+      "source_line": 2,
+      "source_text": "纯视觉部分识读/装帧记录，未核定全文。原图直立，内封板。",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    },
+    {
+      "source_line": 3,
+      "source_text": "上中铅笔，原像素框(2500,650,3450,1000)：",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    },
+    {
+      "source_line": 4,
+      "source_text": "Extravag. 91.〔2?〕〔末连笔〕",
+      "body_line": null,
+      "new_text": "Extravag. 91.〔2?〕〔末连笔〕",
+      "disposition": "western_shelfmark_layer",
+      "other_line": 1
+    },
+    {
+      "source_line": 5,
+      "source_text": "下另小记：〔w?〕〔3?〕（两草形未定）",
+      "body_line": null,
+      "new_text": "下另小记：〔w?〕〔3?〕（两草形未定）",
+      "disposition": "western_shelfmark_layer",
+      "other_line": 2
+    },
+    {
+      "source_line": 6,
+      "source_text": "右上倒置纸签，原框(3800,250,4450,650)：",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    },
+    {
+      "source_line": 7,
+      "source_text": "〔91.2. Ms. Extr.?〕（须转正核）",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    },
+    {
+      "source_line": 8,
+      "source_text": "衬纸余面无可辨正文；左两修补片与系带、右装订残损及底角纸缺。",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    }
+  ],
+  "other_layer": "/workspace/shared/minnan_transcription/hab_91_2_extrav_06/method_transfer_v3/release/other_layers/pdf_044_western.md",
+  "other_sha256": "2ab9b2a1f1c5d5d705a88e9b0d747da85fcf63c4c49a461f8c184a22ae595c93"
+}

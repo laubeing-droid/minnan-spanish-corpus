@@ -1,0 +1,414 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 855,
+  "historical_folio": 817,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0855/pdf_0855_300dpi.png",
+  "page_header": "P ante. R.",
+  "page_footer_printed": "- 817 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Prouision Real -",
+      "source_H": "詔",
+      "source_M": "chiau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Prouision Real -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiau³",
+        "tai_lo_standard": "tsiàu",
+        "phonological_basis": "17c Dominican orthography conversion: chiau (詔) -> tsiau³ / tsiàu."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "prouision pª salir del infierno.",
+      "source_H": "牒",
+      "source_M": "buntiap.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prouision pª salir del infierno.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "buntiap⁷",
+        "tai_lo_standard": "buntiap",
+        "phonological_basis": "17c Dominican orthography conversion: buntiap (牒) -> buntiap⁷ / buntiap."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "prouision pª prender - [行间加注:bun in]",
+      "source_H": "文牒",
+      "source_M": "bun tiap. [圈注]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prouision pª prender -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bun⁵ tiap⁷",
+        "tai_lo_standard": "bûn-tiap",
+        "phonological_basis": "17c Dominican orthography conversion: bun (文) -> bun⁵ / bûn; tiap (牒) -> tiap⁷ / tiap."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "prouision del Rey pª promober -",
+      "source_H": "欽取",
+      "source_M": "quimᶜ chuᶜ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prouision del Rey pª promober -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kim¹ tsu¹",
+        "tai_lo_standard": "kim-tsu",
+        "phonological_basis": "17c Dominican orthography conversion: quim (欽) -> kim¹ / kim; chu (取) -> tsu¹ / tsu."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "prouision comida pª soldados -",
+      "source_H": "屯兵",
+      "source_M": "tun peng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prouision comida pª soldados -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tun² peŋ¹",
+        "tai_lo_standard": "tún-peng",
+        "phonological_basis": "17c Dominican orthography conversion: tun (屯) -> tun² / tún; peng (兵) -> peŋ¹ / peng."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Prudençia - [圈注]",
+      "source_H": "智",
+      "source_M": "ty [圈注]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Prudençia -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti³",
+        "tai_lo_standard": "tì",
+        "phonological_basis": "17c Dominican orthography conversion: ty (智) -> ti³ / tì."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "prudençia - [圈注]",
+      "source_H": "傑",
+      "source_M": "quiet [圈注]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prudençia -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiet⁷",
+        "tai_lo_standard": "kiet",
+        "phonological_basis": "17c Dominican orthography conversion: quiet (傑) -> kiet⁷ / kiet."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "prudençia - astuçia sabiduria",
+      "source_H": "計智",
+      "source_M": "quey ty",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prudençia - astuçia sabiduria",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kei³ ti³",
+        "tai_lo_standard": "kèi-tì",
+        "phonological_basis": "17c Dominican orthography conversion: quey (計) -> kei³ / kèi; ty (智) -> ti³ / tì."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "prudençia -",
+      "source_H": "智慧",
+      "source_M": "ty huy. sabio.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prudençia -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti³ hui²",
+        "tai_lo_standard": "tì-huí",
+        "phonological_basis": "17c Dominican orthography conversion: ty (智) -> ti³ / tì; huy (慧) -> hui² / huí."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "prudençia -",
+      "source_H": "智識",
+      "source_M": "ty sit.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prudençia -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti³ sit⁷",
+        "tai_lo_standard": "tì-sit",
+        "phonological_basis": "17c Dominican orthography conversion: ty (智) -> ti³ / tì; sit (識) -> sit⁷ / sit."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "prudençia -",
+      "source_H": "賢智",
+      "source_M": "hien ty.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prudençia -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hien⁵ ti³",
+        "tai_lo_standard": "hiên-tì",
+        "phonological_basis": "17c Dominican orthography conversion: hien (賢) -> hien⁵ / hiên; ty (智) -> ti³ / tì."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "prudençia -",
+      "source_H": "豪傑",
+      "source_M": "[疑:gun/gau] ho quiet.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prudençia -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gun¹ gau⁵ hoʔ⁷ kiet⁷",
+        "tai_lo_standard": "gun-gâu-hoh-kiet",
+        "phonological_basis": "17c Dominican orthography conversion: gun (豪) -> gun¹ / gun; gau (傑) -> gau⁵ / gâu; ho (?) -> hoʔ⁷ / hoh; quiet (?) -> kiet⁷ / kiet."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "prudençia -",
+      "source_H": "知寬緊",
+      "source_M": "chay cuã quin. sabe qᵈᵒ adeobrar.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prudençia -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsai¹ kũã¹ kin¹",
+        "tai_lo_standard": "tsai-kuann-kin",
+        "phonological_basis": "17c Dominican orthography conversion: chay (知) -> tsai¹ / tsai; cuã (寬) -> kũã¹ / kuann; quin (緊) -> kin¹ / kin."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "prudençia -",
+      "source_H": "心緒",
+      "source_M": "sim su.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prudençia -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sim¹ su²",
+        "tai_lo_standard": "sim-sú",
+        "phonological_basis": "17c Dominican orthography conversion: sim (心) -> sim¹ / sim; su (緒) -> su² / sú."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "prudençia -",
+      "source_H": "胆智",
+      "source_M": "[疑:ty/fy], tã. ty.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prudençia -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti³ fi¹ tã³ ti¹",
+        "tai_lo_standard": "tì-fi-tànn-ti",
+        "phonological_basis": "17c Dominican orthography conversion: ty (胆) -> ti³ / tì; fy (智) -> fi¹ / fi; tã (?) -> tã³ / tànn; ty (?) -> ti¹ / ti."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "prudençia -",
+      "source_H": "憂[疑:憂/夏]豫",
+      "source_M": "iu [疑:v/u]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prudençia -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu⁵ v² u¹",
+        "tai_lo_standard": "iû-v́-u",
+        "phonological_basis": "17c Dominican orthography conversion: iu (憂) -> iu⁵ / iû; v (豫) -> v² / v́; u (?) -> u¹ / u."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "prudençia -",
+      "source_H": "有警",
+      "source_M": "iu queng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prudençia -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu¹ keŋ¹",
+        "tai_lo_standard": "iu-keng",
+        "phonological_basis": "17c Dominican orthography conversion: iu (有) -> iu¹ / iu; queng (警) -> keŋ¹ / keng."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "prudençia -",
+      "source_H": "機関",
+      "source_M": "quy cuan. industria",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prudençia -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki¹ kuan¹",
+        "tai_lo_standard": "ki-kuan",
+        "phonological_basis": "17c Dominican orthography conversion: quy (機) -> ki¹ / ki; cuan (関) -> kuan¹ / kuan."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "prudençia -",
+      "source_H": "筭水",
+      "source_M": "zuỹ chuy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prudençia -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu³ tsui²",
+        "tai_lo_standard": "tsù-tsuí",
+        "phonological_basis": "17c Dominican orthography conversion: zu (筭) -> tsu³ / tsù; chuy (水) -> tsui² / tsuí."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Prudençia traça sagaçidad -",
+      "source_H": "計策",
+      "source_M": "quey chegᶜ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Prudençia traça sagaçidad -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kei³ tsʰek⁷",
+        "tai_lo_standard": "kèi-tshek",
+        "phonological_basis": "17c Dominican orthography conversion: quey (計) -> kei³ / kèi; cheg (策) -> tsʰek⁷ / tshek."
+      }
+    }
+  ]
+}

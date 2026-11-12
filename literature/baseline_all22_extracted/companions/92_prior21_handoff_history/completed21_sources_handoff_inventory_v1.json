@@ -1,0 +1,2120 @@
+{
+  "created_utc": "2026-10-16T15:08:12.568120+00:00",
+  "completed_source_count": 21,
+  "completed_image_review_pages": 1999,
+  "pending_source": {
+    "source_file": "01_丛刊一_西班牙-华语辞典_Dictionario_Hispánico_Sinicum.pdf",
+    "source_pdf": "/workspace/scratch/3ee2b91a8980/minnan_continuation/dhs_hispanico_sinicum/source/01_丛刊一_西班牙-华语辞典_Dictionario_Hispánico_Sinicum.pdf",
+    "source_pdf_exists": true,
+    "expected_pdf_pages": 1140,
+    "full_text_verified": false,
+    "status": "待接入：另一组继续1140页主稿；本清单不冻结或包装其动态正文",
+    "image_review_pages_in_this_completed_set": 0,
+    "body_files": [],
+    "coverage_files": [],
+    "mapping_files": [],
+    "unresolved": "待协调者交最终冻结、范围和疑难；已有局部不能冒充全1140完成",
+    "scripts": []
+  },
+  "full_text_verified": false,
+  "body_hash_scope": "当前主正文文件重算hash；Angelica169另与冻结值逐一比对；其他书既有验收另链接，本次未重复逐页看图或重算大图/PDFhash。",
+  "disk_free_bytes_after": 2522996736,
+  "entries": [
+    {
+      "source_file": "01_丛刊一底本_漳州话语法_UB_Ms1027.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/01_丛刊一底本_漳州话语法_UB_Ms1027.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 122,
+      "full_text_verified": false,
+      "group": "UB Ms1027语法",
+      "body_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/grammar/method_transfer_v3/Arte_Grammar_all122_body_clean_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/grammar/method_transfer_v3/coverage_all122_method_transfer_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/grammar/method_transfer_v3/source_line_mapping_all122_v3.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/grammar/method_transfer_v3/final_body_line_mapping_v3.json"
+      ],
+      "issue_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/grammar/method_transfer_v3/doubts_and_findings_all122_v3.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/grammar/method_transfer_v3/README_quality_and_findings_v3.md"
+      ],
+      "unresolved": "复合上标、缩写、细字、字母调号边界仍疑；037/038已补实看。",
+      "legacy": "旧首稿/二校保留；映射是两级，应先源行后净正文行。",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/grammar/method_transfer_v3/save_grammar_review_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/grammar/method_transfer_v3/assemble_grammar_all122_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/grammar/method_transfer_v3/finalize_grammar_clean_v3.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 122,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/grammar/method_transfer_v3/Arte_Grammar_all122_body_clean_v3.md",
+          "exists": true,
+          "sha256": "c04b291d4814264c2541c92a8721388d4bf2d244c8e55ec4d260597a0dc9e9bf"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_01.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_01.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 23,
+      "full_text_verified": false,
+      "group": "HAB14分册同书组；保持分册/PDF序，未静默重排",
+      "part": 1,
+      "body_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_01/method_transfer_v3/HAB01_all23_body_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_01/method_transfer_v3/coverage_all23_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_01/method_transfer_v3/source_line_mapping_all23_v3.json"
+      ],
+      "unresolved": "草写音写、账目重墨、细注、截边仍未定；空白/透背/装帧也计图像覆盖。14册低分辨率限制未解决。",
+      "issue_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_01/method_transfer_v3/FINAL_DELIVERY_v3.md",
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_01/method_transfer_v3/review"
+      ],
+      "legacy": "旧逐页首稿与映射中source/old指向文件均保留；release优先于中间text",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab10_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3d.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab09_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review_retry.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab04_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab11_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab06_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab03_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab05_06_review_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab02_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab07_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab05_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3c.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab14_transfer.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab08_review.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 23,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/shared/minnan_transcription/hab_91_2_extrav_01/method_transfer_v3/HAB01_all23_body_v3.md",
+          "exists": true,
+          "sha256": "1fb1f706257f45f335eab07f83f7b21b060d50e76b09e61fa261ad4789ce0085"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_02.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_02.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 34,
+      "full_text_verified": false,
+      "group": "HAB14分册同书组；保持分册/PDF序，未静默重排",
+      "part": 2,
+      "body_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_02/method_transfer_v3/HAB02_all34_body_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_02/method_transfer_v3/coverage_all34_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_02/method_transfer_v3/source_line_mapping_all34_v3.json"
+      ],
+      "unresolved": "草写音写、账目重墨、细注、截边仍未定；空白/透背/装帧也计图像覆盖。14册低分辨率限制未解决。",
+      "issue_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_02/method_transfer_v3/FINAL_DELIVERY_v3.md",
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_02/method_transfer_v3/review"
+      ],
+      "legacy": "旧逐页首稿与映射中source/old指向文件均保留；release优先于中间text",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab10_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3d.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab09_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review_retry.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab04_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab11_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab06_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab03_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab05_06_review_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab02_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab07_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab05_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3c.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab14_transfer.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab08_review.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 34,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/shared/minnan_transcription/hab_91_2_extrav_02/method_transfer_v3/HAB02_all34_body_v3.md",
+          "exists": true,
+          "sha256": "7c3b02f992149b5ff70ca70e09647525268d1b05c96bec91df95fa678eb7fb80"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_03.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_03.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 20,
+      "full_text_verified": false,
+      "group": "HAB14分册同书组；保持分册/PDF序，未静默重排",
+      "part": 3,
+      "body_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_03/method_transfer_v3/HAB03_all20_body_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_03/method_transfer_v3/coverage_all20_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_03/method_transfer_v3/source_line_mapping_all20_v3.json"
+      ],
+      "unresolved": "草写音写、账目重墨、细注、截边仍未定；空白/透背/装帧也计图像覆盖。14册低分辨率限制未解决。",
+      "issue_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_03/method_transfer_v3/FINAL_DELIVERY_v3.md",
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_03/method_transfer_v3/review"
+      ],
+      "legacy": "旧逐页首稿与映射中source/old指向文件均保留；release优先于中间text",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab10_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3d.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab09_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review_retry.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab04_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab11_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab06_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab03_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab05_06_review_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab02_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab07_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab05_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3c.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab14_transfer.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab08_review.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 20,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/shared/minnan_transcription/hab_91_2_extrav_03/method_transfer_v3/HAB03_all20_body_v3.md",
+          "exists": true,
+          "sha256": "1d713ff032fd4298fa0619b0ed27923d99736f03a3881da1ad7aff01003c5e78"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_04.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_04.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 11,
+      "full_text_verified": false,
+      "group": "HAB14分册同书组；保持分册/PDF序，未静默重排",
+      "part": 4,
+      "body_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_04/method_transfer_v3/HAB04_all11_body_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_04/method_transfer_v3/coverage_all11_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_04/method_transfer_v3/source_line_mapping_all11_v3.json"
+      ],
+      "unresolved": "草写音写、账目重墨、细注、截边仍未定；空白/透背/装帧也计图像覆盖。14册低分辨率限制未解决。",
+      "issue_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_04/method_transfer_v3/FINAL_DELIVERY_v3.md",
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_04/method_transfer_v3/review"
+      ],
+      "legacy": "旧逐页首稿与映射中source/old指向文件均保留；release优先于中间text",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab10_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3d.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab09_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review_retry.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab04_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab11_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab06_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab03_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab05_06_review_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab02_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab07_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab05_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3c.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab14_transfer.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab08_review.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 11,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/shared/minnan_transcription/hab_91_2_extrav_04/method_transfer_v3/HAB04_all11_body_v3.md",
+          "exists": true,
+          "sha256": "e7eba06b9df35dfab618509cd0322928ae274b1bc0856cc93b63a4fb02b7f890"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_05.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_05.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 43,
+      "full_text_verified": false,
+      "group": "HAB14分册同书组；保持分册/PDF序，未静默重排",
+      "part": 5,
+      "body_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_05/method_transfer_v3/release/HAB05_all43_body_final_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_05/method_transfer_v3/release/coverage_all43_method_transfer_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_05/method_transfer_v3/release/final_mapping"
+      ],
+      "unresolved": "草写音写、账目重墨、细注、截边仍未定；空白/透背/装帧也计图像覆盖。14册低分辨率限制未解决。",
+      "issue_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_05/method_transfer_v3/release/doubts_and_findings_all43_v3.md"
+      ],
+      "legacy": "旧逐页首稿与映射中source/old指向文件均保留；release优先于中间text",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab10_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3d.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab09_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review_retry.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab04_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab11_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab06_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab03_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab05_06_review_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab02_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab07_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab05_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3c.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab14_transfer.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab08_review.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 43,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/shared/minnan_transcription/hab_91_2_extrav_05/method_transfer_v3/release/HAB05_all43_body_final_v3.md",
+          "exists": true,
+          "sha256": "f5aef1d4714e161e441a82a04391a630438187dbccf595874141a568f4ae2901"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_06.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_06.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 45,
+      "full_text_verified": false,
+      "group": "HAB14分册同书组；保持分册/PDF序，未静默重排",
+      "part": 6,
+      "body_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_06/method_transfer_v3/release/HAB06_all45_body_final_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_06/method_transfer_v3/release/coverage_all45_method_transfer_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_06/method_transfer_v3/release/final_mapping"
+      ],
+      "unresolved": "草写音写、账目重墨、细注、截边仍未定；空白/透背/装帧也计图像覆盖。14册低分辨率限制未解决。",
+      "issue_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_06/method_transfer_v3/release/doubts_and_findings_all45_v3.md"
+      ],
+      "legacy": "旧逐页首稿与映射中source/old指向文件均保留；release优先于中间text",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab10_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3d.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab09_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review_retry.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab04_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab11_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab06_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab03_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab05_06_review_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab02_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab07_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab05_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3c.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab14_transfer.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab08_review.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 45,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/shared/minnan_transcription/hab_91_2_extrav_06/method_transfer_v3/release/HAB06_all45_body_final_v3.md",
+          "exists": true,
+          "sha256": "79bd77644c9c4ce17a4aed9d04b08ec220d62bf86b7bdedaf5ee99dc47e152e1"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_07.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_07.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 24,
+      "full_text_verified": false,
+      "group": "HAB14分册同书组；保持分册/PDF序，未静默重排",
+      "part": 7,
+      "body_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_07/method_transfer_v3/HAB07_all24_body_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_07/method_transfer_v3/coverage_all24_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_07/method_transfer_v3/source_line_mapping_all24_v3.json"
+      ],
+      "unresolved": "草写音写、账目重墨、细注、截边仍未定；空白/透背/装帧也计图像覆盖。14册低分辨率限制未解决。",
+      "issue_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_07/method_transfer_v3/FINAL_DELIVERY_v3.md",
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_07/method_transfer_v3/review"
+      ],
+      "legacy": "旧逐页首稿与映射中source/old指向文件均保留；release优先于中间text",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab10_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3d.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab09_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review_retry.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab04_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab11_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab06_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab03_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab05_06_review_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab02_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab07_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab05_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3c.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab14_transfer.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab08_review.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 24,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/shared/minnan_transcription/hab_91_2_extrav_07/method_transfer_v3/HAB07_all24_body_v3.md",
+          "exists": true,
+          "sha256": "beed0dba47143a735004d31f40cd98271dce9fda8152144dfbc37ba4e8a420f7"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_08.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_08.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 17,
+      "full_text_verified": false,
+      "group": "HAB14分册同书组；保持分册/PDF序，未静默重排",
+      "part": 8,
+      "body_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_08/method_transfer_v3/HAB08_all17_body_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_08/method_transfer_v3/coverage_all17_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_08/method_transfer_v3/source_line_mapping_all17_v3.json"
+      ],
+      "unresolved": "草写音写、账目重墨、细注、截边仍未定；空白/透背/装帧也计图像覆盖。14册低分辨率限制未解决。",
+      "issue_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_08/method_transfer_v3/FINAL_DELIVERY_v3.md",
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_08/method_transfer_v3/review"
+      ],
+      "legacy": "旧逐页首稿与映射中source/old指向文件均保留；release优先于中间text",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab10_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3d.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab09_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review_retry.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab04_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab11_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab06_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab03_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab05_06_review_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab02_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab07_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab05_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3c.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab14_transfer.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab08_review.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 17,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/shared/minnan_transcription/hab_91_2_extrav_08/method_transfer_v3/HAB08_all17_body_v3.md",
+          "exists": true,
+          "sha256": "1be16aee651f0a59732ce95f7948ab15bfe34e3f800dcb45d0ae943c487dc9f8"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_09.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_09.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 12,
+      "full_text_verified": false,
+      "group": "HAB14分册同书组；保持分册/PDF序，未静默重排",
+      "part": 9,
+      "body_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_09/method_transfer_v3/HAB09_all12_body_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_09/method_transfer_v3/coverage_all12_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_09/method_transfer_v3/source_line_mapping_all12_v3.json"
+      ],
+      "unresolved": "草写音写、账目重墨、细注、截边仍未定；空白/透背/装帧也计图像覆盖。14册低分辨率限制未解决。",
+      "issue_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_09/method_transfer_v3/FINAL_DELIVERY_v3.md",
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_09/method_transfer_v3/review"
+      ],
+      "legacy": "旧逐页首稿与映射中source/old指向文件均保留；release优先于中间text",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab10_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3d.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab09_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review_retry.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab04_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab11_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab06_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab03_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab05_06_review_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab02_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab07_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab05_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3c.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab14_transfer.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab08_review.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 12,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/shared/minnan_transcription/hab_91_2_extrav_09/method_transfer_v3/HAB09_all12_body_v3.md",
+          "exists": true,
+          "sha256": "192e045468cb35d59f5a4c5cc33b8b104368bd471a656b62b6324142bc9a9cbf"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_10.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_10.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 14,
+      "full_text_verified": false,
+      "group": "HAB14分册同书组；保持分册/PDF序，未静默重排",
+      "part": 10,
+      "body_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_10/method_transfer_v3/HAB10_all14_body_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_10/method_transfer_v3/coverage_all14_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_10/method_transfer_v3/source_line_mapping_all14_v3.json"
+      ],
+      "unresolved": "草写音写、账目重墨、细注、截边仍未定；空白/透背/装帧也计图像覆盖。14册低分辨率限制未解决。",
+      "issue_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_10/method_transfer_v3/FINAL_DELIVERY_v3.md",
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_10/method_transfer_v3/review"
+      ],
+      "legacy": "旧逐页首稿与映射中source/old指向文件均保留；release优先于中间text",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab10_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3d.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab09_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review_retry.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab04_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab11_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab06_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab03_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab05_06_review_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab02_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab07_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab05_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3c.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab14_transfer.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab08_review.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 14,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/shared/minnan_transcription/hab_91_2_extrav_10/method_transfer_v3/HAB10_all14_body_v3.md",
+          "exists": true,
+          "sha256": "5b31eb26d5355faa997079a152cdbc9ca240c20d6d051ec4b2009c9e1abd6567"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_11.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_11.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 12,
+      "full_text_verified": false,
+      "group": "HAB14分册同书组；保持分册/PDF序，未静默重排",
+      "part": 11,
+      "body_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_11/method_transfer_v3/HAB11_all12_body_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_11/method_transfer_v3/coverage_all12_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_11/method_transfer_v3/source_line_mapping_all12_v3.json"
+      ],
+      "unresolved": "草写音写、账目重墨、细注、截边仍未定；空白/透背/装帧也计图像覆盖。14册低分辨率限制未解决。",
+      "issue_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_11/method_transfer_v3/FINAL_DELIVERY_v3.md",
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_11/method_transfer_v3/review"
+      ],
+      "legacy": "旧逐页首稿与映射中source/old指向文件均保留；release优先于中间text",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab10_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3d.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab09_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review_retry.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab04_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab11_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab06_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab03_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab05_06_review_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab02_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab07_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab05_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3c.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab14_transfer.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab08_review.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 12,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/shared/minnan_transcription/hab_91_2_extrav_11/method_transfer_v3/HAB11_all12_body_v3.md",
+          "exists": true,
+          "sha256": "45c5ab235362cef38bedc960afb0bf59da770c59b83aa3051d150b756a4907de"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_12.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_12.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 28,
+      "full_text_verified": false,
+      "group": "HAB14分册同书组；保持分册/PDF序，未静默重排",
+      "part": 12,
+      "body_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_12/method_transfer_v3/HAB12_all28_body_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_12/method_transfer_v3/coverage_all28_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_12/method_transfer_v3/source_line_mapping_all28_v3.json"
+      ],
+      "unresolved": "草写音写、账目重墨、细注、截边仍未定；空白/透背/装帧也计图像覆盖。14册低分辨率限制未解决。",
+      "issue_files": [
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_12/method_transfer_v3/FINAL_DELIVERY_v3.md",
+        "/workspace/shared/minnan_transcription/hab_91_2_extrav_12/method_transfer_v3/review"
+      ],
+      "legacy": "旧逐页首稿与映射中source/old指向文件均保留；release优先于中间text",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab10_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3d.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab09_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review_retry.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab04_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab11_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab06_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab03_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab05_06_review_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab02_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab07_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab05_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3c.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab14_transfer.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab08_review.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 28,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/shared/minnan_transcription/hab_91_2_extrav_12/method_transfer_v3/HAB12_all28_body_v3.md",
+          "exists": true,
+          "sha256": "57d913a59a9a22e5bcbcc2d95817e24cda3d9a264cad2df9f7a8c19c9a4cf319"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_13.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_13.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 168,
+      "full_text_verified": false,
+      "group": "HAB14分册同书组；保持分册/PDF序，未静默重排",
+      "part": 13,
+      "body_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_91_2_extrav_13/method_transfer_v3/release/HAB13_all168_body_final_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_91_2_extrav_13/method_transfer_v3/release/coverage_all168_method_transfer_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_91_2_extrav_13/method_transfer_v3/release/final_mapping"
+      ],
+      "unresolved": "草写音写、账目重墨、细注、截边仍未定；空白/透背/装帧也计图像覆盖。14册低分辨率限制未解决。",
+      "issue_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_91_2_extrav_13/method_transfer_v3/FINAL_DELIVERY_v3.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_91_2_extrav_13/method_transfer_v3/release/doubts_and_findings_all168_v3.md"
+      ],
+      "legacy": "旧逐页首稿与映射中source/old指向文件均保留；release优先于中间text",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab10_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3d.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab09_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review_retry.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab04_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab11_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab06_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab03_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab05_06_review_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab02_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab07_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab05_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3c.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab14_transfer.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab08_review.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 168,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_91_2_extrav_13/method_transfer_v3/release/HAB13_all168_body_final_v3.md",
+          "exists": true,
+          "sha256": "47899efb3bf46c0731cff4b3bc6bdc7c641ddf1f1bcff6b81656ef99b119ea84"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_14.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/02_丛刊二_菲律宾唐人手稿_HAB_91.2_Extrav_14.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 10,
+      "full_text_verified": false,
+      "group": "HAB14分册同书组；保持分册/PDF序，未静默重排",
+      "part": 14,
+      "body_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_91_2_extrav_14/method_transfer_v3/HAB14_all10_body_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_91_2_extrav_14/method_transfer_v3/coverage_all10_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_91_2_extrav_14/method_transfer_v3/source_line_mapping_all10_v3.json"
+      ],
+      "unresolved": "草写音写、账目重墨、细注、截边仍未定；空白/透背/装帧也计图像覆盖。14册低分辨率限制未解决。",
+      "issue_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_91_2_extrav_14/method_transfer_v3/FINAL_DELIVERY_v3.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_91_2_extrav_14/method_transfer_v3/review"
+      ],
+      "legacy": "旧逐页首稿与映射中source/old指向文件均保留；release优先于中间text",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab10_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3d.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab09_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab12_review_retry.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab04_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab11_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab06_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab03_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab05_06_review_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab02_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab07_review.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/release_hab05_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/build_HAB14_final_delivery_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab_transfer_v3c.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab14_transfer.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_all14_method_transfer_summary_v3/scripts/save_hab08_review.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 10,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/hab_91_2_extrav_14/method_transfer_v3/HAB14_all10_body_v3.md",
+          "exists": true,
+          "sha256": "1369398200c845cfc85d4c801c42bf989c42c215125166cdc0004b106fc0a096"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "03_明心宝鉴_BNE_MSS6040.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/03_明心宝鉴_BNE_MSS6040.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 315,
+      "full_text_verified": false,
+      "group": "BNE MSS6040明心宝鉴",
+      "body_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_mss6040/method_transfer_v3/Mingxin_all315_body_final_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_mss6040/method_transfer_v3/coverage_all315_method_transfer_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_mss6040/method_transfer_v3/source_line_mapping_all315_final_v3.json"
+      ],
+      "issue_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_mss6040/method_transfer_v3/doubts_and_findings_all315_v3.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_mss6040/method_transfer_v3/FINAL_DELIVERY_v3.md"
+      ],
+      "unresolved": "淡西语、缩记、人名、裁边仍未定；195 malicia候选撤回。",
+      "legacy": "630首稿/v2文件保持；以最终正文为准。",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_mss6040/method_transfer_v3/save_mingxin_transfer_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_mss6040/method_transfer_v3/save_mingxin_transfer_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_mss6040/method_transfer_v3/assemble_all315_final_v3.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 315,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_mss6040/method_transfer_v3/Mingxin_all315_body_final_v3.md",
+          "exists": true,
+          "sha256": "9b1d894888bca69b5390b04611d28baa7a9bcbf7350bc99436cf55aa3f3f0ea8"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "04_无极天主正教真传实录_BNE_R33396.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/04_无极天主正教真传实录_BNE_R33396.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 164,
+      "full_text_verified": false,
+      "group": "BNE R33396实录",
+      "body_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_r33396/method_transfer_v3/Shilu_all164_body_final_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_r33396/method_transfer_v3/coverage_all164_method_transfer_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_r33396/method_transfer_v3/source_line_mapping_all164_final_v3.json"
+      ],
+      "issue_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_r33396/method_transfer_v3/doubts_and_findings_all164_v3.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_r33396/method_transfer_v3/FINAL_DELIVERY_v3.md"
+      ],
+      "unresolved": "009草写西文、淡汉字长串、图表仍疑；113電撤回采用暴雹。",
+      "legacy": "328首稿/v2保留；083–164 adopted映射优先。",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_r33396/method_transfer_v3/finalize_shilu_083_164_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_r33396/method_transfer_v3/save_shilu_transfer_v3b.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_r33396/method_transfer_v3/save_shilu_transfer_parent_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_r33396/method_transfer_v3/assemble_all164_final_v3.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 164,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/bne_r33396/method_transfer_v3/Shilu_all164_body_final_v3.md",
+          "exists": true,
+          "sha256": "0c4a04ffaeffe97c05463df026e234ad82883cf46cdcf5477f18c16913bfa5ba"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "05_华语西班牙语辞典_巴黎平行本_BnF_Chinois9276.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/05_华语西班牙语辞典_巴黎平行本_BnF_Chinois9276.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 178,
+      "full_text_verified": false,
+      "group": "DSH（Angelica/Paris两抄本）",
+      "body_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/paris_chinois9276/method_transfer_v3/Paris_Chinois9276_all178_method_transfer_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/paris_chinois9276/method_transfer_v3/coverage_all178_method_transfer_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/paris_chinois9276/method_transfer_v3/review"
+      ],
+      "issue_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/paris_chinois9276/method_transfer_v3/README_quality_and_findings_v3.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/paris_chinois9276/method_transfer_v3/report_001_089_findings_v3.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/paris_chinois9276/method_transfer_v3/review/pdf_120_addendum_v3a.md"
+      ],
+      "unresolved": "g/q、n/u/m、i点与调号、边注仍疑；120两条旧错指控撤回。",
+      "legacy": "旧visual_v1/旧二校保留；review提供旧读对应，不声称统一全物理行映射。",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/paris_chinois9276/method_transfer_v3/assemble_paris_v3a_local.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/paris_chinois9276/method_transfer_v3/assemble_paris_v3_local.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/paris_chinois9276/method_transfer_v3/save_review_local.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 178,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/paris_chinois9276/method_transfer_v3/Paris_Chinois9276_all178_method_transfer_v3.md",
+          "exists": true,
+          "sha256": "88c78e1da153a9d16d49dfd03e3cfcef36ec9c1709b3fef96ddd6958099a44d5"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "05_华语西班牙语辞典_罗马 Biblioteca Angelica Ms.60.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/05_华语西班牙语辞典_罗马 Biblioteca Angelica Ms.60.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 169,
+      "full_text_verified": false,
+      "group": "DSH Angelica；与Paris平行本分别保留",
+      "body_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_001.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_002.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_003.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_004.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_005.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_006.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_007.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_008.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_009.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_010.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_011.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_012.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_013.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_014.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_015.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_016.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_017.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_018.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_019.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_020.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_021.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_022.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_023.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_024.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_025.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_026.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_027.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_028.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_029.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_030.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_031.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_032.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_033.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_034.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_035.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_036.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_037.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_038.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_039.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_040.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_041.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_042.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_043.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_044.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_045.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_046.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_047.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_048.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_049.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_050.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_051.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_052.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_053.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_054.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_055.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_056.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_057.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_058.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_059.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_060.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_061.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_062.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_063.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_064.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_065.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_066.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_067.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_068.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_069.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_070.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_071.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_072.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_073.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_074.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_075.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_076.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_077.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_078.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_079.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_080.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_081.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_082.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_083.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_084.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_085.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf086.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf087.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf088.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf089.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf090.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf091.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf092.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf093.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf094.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf095.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf096.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf097.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf098.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf099.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf100.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf101.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf102.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf103.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf104.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf105.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf106.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf107.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf108.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf109.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf110.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf111.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf112.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf113.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf114.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf115.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf116.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf117.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf118.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf119.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf120.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf121.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf122.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf123.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf124.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf125.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf126.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf127.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf128.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf129.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf130.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf131.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf132.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf133.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf134.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf135.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf136.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf137.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf138.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf139.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf140.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf141.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf142.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf143.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf144.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf145.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf146.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf147.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf148.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf149.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf150.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf151.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf152.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf153.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf154.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf155.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf156.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf157.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf158.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf159.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf160.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf161.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf162.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf163.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf164.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf165.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf166.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf167.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf168.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf169.md"
+      ],
+      "coverage_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/coverage_001_085_verified.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/reader_pdf086_169_completion.json"
+      ],
+      "mapping_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/DSH_Angelica_all169_images_only_v2.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_001_005.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_006_010.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_011_015.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_016_020.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_021_025.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_026_030.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_031_035.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_036_040.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_041_045.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_046_050.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_051_055.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_056_060.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_061_065.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_066_070.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_071_075.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_076_080.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_081_085.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_pdf086_090.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_pdf091_095.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_pdf096_100.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_pdf101_105.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_pdf106_110.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_pdf111_115.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_pdf116_120.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_pdf121_125.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_pdf126_130.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_pdf131_135.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_pdf136_140.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_pdf141_145.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_pdf146_150.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_pdf151_155.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_pdf156_160.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_pdf161_165.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/freeze_pdf166_169.json"
+      ],
+      "unresolved": "字母/调号细笔未定；9/21/52旧见、33教学暴露；165–168书信题记、169封底。169冻结页已复核hash，尚无此方法版合并MD。独立新读不生成旧稿逐行替换映射。",
+      "issue_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/reader_exposure_and_method.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/work_record_001_085.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/reader_pdf086_169_learning.json",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/DSH_newmethod_reference_and_crossdictionary_stage_v1.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/DSH_newmethod_086169_reference_addendum_v1.md"
+      ],
+      "legacy": "旧稿保留于/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_ms60及/workspace/shared/minnan_transcription/angelica_ms60；不把旧二校覆盖独立冻结新稿",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_ms60/audit_001_020.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_ms60/audit_021_040.py"
+      ],
+      "script_scope": "所列为旧稿审计脚本；此独立169稿保存脚本未定位到，不能冒称这些脚本生成了新稿。",
+      "packaging_gap": "后续可另建合并MD；本次仅核现有成果，未合并、未改冻稿。",
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 169,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_001.md",
+          "exists": true,
+          "sha256": "fb90d97d5f3b031a36fb9ca0615879b832aed11c42213a084fc59ed61197770a"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_002.md",
+          "exists": true,
+          "sha256": "7c173608bf9ae1d245a1c29866cf5ec6a6f58cc0a334c9a3031ad9a0067ec86b"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_003.md",
+          "exists": true,
+          "sha256": "2adce6cffe8253cc915b8ccd46faa3ff28c75fbc59b80b7b6d049e2cc94b5561"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_004.md",
+          "exists": true,
+          "sha256": "f6e5b66c3138239d8634f9c0691568993fa20844cc6cb079d1864e269c201e22"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_005.md",
+          "exists": true,
+          "sha256": "a299ad6c1c0eee3ca8a9572a70d3214f4dc853bf7a8f3f2306b95033cd8ba4ba"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_006.md",
+          "exists": true,
+          "sha256": "49736df02b099fbd0c123e9c95513828586a51fa7af2f48d45e61673343ddfa6"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_007.md",
+          "exists": true,
+          "sha256": "9b41316f24406210c5d618355996743a9ad394fb8b11430cdaf810e81988157f"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_008.md",
+          "exists": true,
+          "sha256": "4c42f047c554cfb785803cb3adf2a1bf59d7dfeb540bf86711c92bdeea384e0a"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_009.md",
+          "exists": true,
+          "sha256": "6ed1f1d1a552bdece387db0d000cc0a0c749f8d70d5963726cda113116bc60ea"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_010.md",
+          "exists": true,
+          "sha256": "c42e98dc7e6476b1e1209da7419825b5557f27b17210e9e208be7f80430513cf"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_011.md",
+          "exists": true,
+          "sha256": "c1284915cc50bfb5decd87cc753dc42528f88400b04551da5a80d9bcac19c16b"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_012.md",
+          "exists": true,
+          "sha256": "e1da6605677846df1fef4fcf4acd9148cc49e9e12a23e12b798ab8b10fab57db"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_013.md",
+          "exists": true,
+          "sha256": "9cad0d989d72522b98cb146925d584feb2bbd9f0e62f16768618104daedb94fd"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_014.md",
+          "exists": true,
+          "sha256": "c6961d41fe3cb15f8011afe5149726159913cef944297eb95df9599f1364b3f4"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_015.md",
+          "exists": true,
+          "sha256": "0963e1779fd05f593bf61bf22dbd0bab45121b148eb1442ab5e6630d9416408a"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_016.md",
+          "exists": true,
+          "sha256": "898c937d538a7378031885073fcd7494af787c7bec615da9469c762f48b601f5"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_017.md",
+          "exists": true,
+          "sha256": "3728802b038a62a05a2a869377972cef23b3f1d0777583d3d2c7ab3414a0e750"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_018.md",
+          "exists": true,
+          "sha256": "d663efea36d547bcf351b3bee43d6838f6b91551e4408ee6a6e156c1dc31d9e1"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_019.md",
+          "exists": true,
+          "sha256": "56bdb8f1dd07e5a99e0ec76c9c311b8936694e78f2a6c8e04c724a9942d0cfaf"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_020.md",
+          "exists": true,
+          "sha256": "514dd977314a66b32d51cded0d95797b78e98cc513825ad6a809c44f8ca0071e"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_021.md",
+          "exists": true,
+          "sha256": "c62d7a8346869c98a209a7cce531c7969fbd45adc609195cfe21a8f5b6956915"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_022.md",
+          "exists": true,
+          "sha256": "9b0467a6bb2a56f1d06738edca42da63f01a767966623d8ddad182a0d1b9cc0c"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_023.md",
+          "exists": true,
+          "sha256": "164067e0069ae495de71dd7333a31b1708ed43ca53449735b2e505f74228817e"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_024.md",
+          "exists": true,
+          "sha256": "9209fbdd656a1579623a93eedee748cee1a89aa8d37b76de04db51bc64716723"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_025.md",
+          "exists": true,
+          "sha256": "f17940ffc425f8f48142a553634778e9054e0f42f8ac8f8354815aee866cc1d9"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_026.md",
+          "exists": true,
+          "sha256": "5351efbcff4c9ec0c6de64cdb975f00ab574e0f7e559a1fc092472ece79b98e3"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_027.md",
+          "exists": true,
+          "sha256": "9b91f3899e0f81fc98683c465ce4334a25a7f236082b3fb4b60d27cd9990cb69"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_028.md",
+          "exists": true,
+          "sha256": "dbaebee654b8327640a0b932a268d1dd4e815b1c6693aefa3bf86b893ad0be2f"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_029.md",
+          "exists": true,
+          "sha256": "f5faddbdfd092ec5871a6716f107363fbddfb7426b762ef58b6cb05e1330e8a9"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_030.md",
+          "exists": true,
+          "sha256": "dac5fc38a61ef515b16690267f5a6ffd4d7d234240c3a934de1072181707b4d2"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_031.md",
+          "exists": true,
+          "sha256": "16785d14a4669f3e25a1c050a32b0a894ff12ac1f7c7d69dc2b4b4820b899904"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_032.md",
+          "exists": true,
+          "sha256": "39e280c972b67b44ff65aa99dd57157bd38996d25e2d27592482b016d0793ee6"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_033.md",
+          "exists": true,
+          "sha256": "8ced2f82a2908dca4e35520ca045cd642b19687f4d3a0eb865d4c83e219bb53f"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_034.md",
+          "exists": true,
+          "sha256": "228f67000328e23313b0e4505df242616d41389ba640bdb3fdbc663e1a80fad9"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_035.md",
+          "exists": true,
+          "sha256": "2bf0e563cdb56a043816e5913c6915a5e8a6c7f3b36c39f51f2125702b29fbb9"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_036.md",
+          "exists": true,
+          "sha256": "2f1bb1791745fedcb982b150314fac2eb5387761828acd6d6af63794a1a55254"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_037.md",
+          "exists": true,
+          "sha256": "77bcbdbbfbb8aac92fba9b70a9a51a2b1efd128a32f904aeeec137fa1ef1449e"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_038.md",
+          "exists": true,
+          "sha256": "28a8df006074fabfd60a25406b766b4d13a4006d0f1b1be51a20f4a0aa11aef1"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_039.md",
+          "exists": true,
+          "sha256": "ed942ead977a4d42c88bfe6809d9a83a3ee8967ac2d4d787d86d4a8f96ce85fd"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_040.md",
+          "exists": true,
+          "sha256": "76f715c2ff80203edec0f1dc6de7c6806c43feb418526faa489712bceddc23a9"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_041.md",
+          "exists": true,
+          "sha256": "ffeafceb19188cd7bbc32560ce621e516bbc4d5ca96104b6b606f06e40c1aa88"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_042.md",
+          "exists": true,
+          "sha256": "de268fab71f19b1f4d77640fa0a2f7edee640885db03f3a0412fd4a06fff298f"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_043.md",
+          "exists": true,
+          "sha256": "c22093b9e9fec3e4c0e129f615af396f17258457fd76250f1c950716ba1c55b3"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_044.md",
+          "exists": true,
+          "sha256": "4f47367a3b8b23c15a31034116de15f1439e81f6abd61736ea24b211e750fe4a"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_045.md",
+          "exists": true,
+          "sha256": "b6fd23c8316a369f02730cff67b89aa18fe6e1fb930aab07a1e72fdaa675685a"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_046.md",
+          "exists": true,
+          "sha256": "2f2a35186fff39b6214683e0f3768bed04ba815cd4989155e765ec2bdc12dd52"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_047.md",
+          "exists": true,
+          "sha256": "5440207024aa503c194e7e5b138613608dec4a084d3497a601f0534508a50bf8"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_048.md",
+          "exists": true,
+          "sha256": "f1bb7dafdf0a6e3960957c08f7f8813a0efc4aeb20bbdee001671b84e7b34545"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_049.md",
+          "exists": true,
+          "sha256": "011919948bf5fed76b003b660a44b8369947592ea4fc7876b5c5ac85395daf3e"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_050.md",
+          "exists": true,
+          "sha256": "d2e62169c06127cb810814e930a1a752a168cb07523cd6605d34417ae7e1a100"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_051.md",
+          "exists": true,
+          "sha256": "fc6bfccbcffea01897ca82d749bafd2ef233a8c401f7640a18eac177fca29629"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_052.md",
+          "exists": true,
+          "sha256": "72b1e3acc4b6e54357fd795e2308ac20fe30fa52dc287b2830e3c93d55774c04"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_053.md",
+          "exists": true,
+          "sha256": "504ac0fd7a8f94e850fc34c5e4cf4fa5e9cdfb0c74a3e00c24ad762868cab87a"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_054.md",
+          "exists": true,
+          "sha256": "de29c1575468d3c99412eb69644c436ec1062cd49ff4dbb486764aca62acf435"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_055.md",
+          "exists": true,
+          "sha256": "e4609e753d423fdb6afd4e78ec31794f595aea5211b0e950554dd931e61e3e29"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_056.md",
+          "exists": true,
+          "sha256": "61cd58be317204eb482c4d97e2a86578809872fc1b71e536e7f4304d2282fb02"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_057.md",
+          "exists": true,
+          "sha256": "b52c442a29908bc6527c20308f08ddb8f8517122ad15c8b27e2e1ca3cb627888"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_058.md",
+          "exists": true,
+          "sha256": "bf36b112908cb195443e5833f2e6912077338f884bbb61f9eb7e69204f6b1557"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_059.md",
+          "exists": true,
+          "sha256": "1dc56624b0172dea20fcf5c6f5e92d59cc058488edd9c846701a07fc4f57bba0"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_060.md",
+          "exists": true,
+          "sha256": "cce8403006bf761dddd8473468c1ba164dc326909f3d46189d1107f61787a09e"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_061.md",
+          "exists": true,
+          "sha256": "2e72c9b7f77b6e1c86d33622cf5f9bf6b7e231f7e333eec07fd44b5b0757138c"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_062.md",
+          "exists": true,
+          "sha256": "16ac57cbeff44cbd5ae6a7dc4cde08f09052cd522064beb4ebfd96e5d52b49cd"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_063.md",
+          "exists": true,
+          "sha256": "d355a283369da73af8a59a3990e69d2eba0a7b568da7a38b9912679b48519702"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_064.md",
+          "exists": true,
+          "sha256": "8552d8dc51e825a6a74871c9344c44028325be9023bd59ff9a9ee65f5e53e976"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_065.md",
+          "exists": true,
+          "sha256": "15d8b830f838cbaa5b7579ec529ac86b262335d51d6481eecacc96b05d622e58"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_066.md",
+          "exists": true,
+          "sha256": "63fc9f282ba5cf10634ad1ffb187545c145481d13d6229104719953d14775f46"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_067.md",
+          "exists": true,
+          "sha256": "86acb0d4a329c96fc205c0918426ee46527b0495e11bb17ed6ab13d8920e3cf3"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_068.md",
+          "exists": true,
+          "sha256": "aa03865908502f913dadde1bb8509bb1f7bf3df95eae69937e31cb8106473a80"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_069.md",
+          "exists": true,
+          "sha256": "81e16d542028370da36742bd48f3883c5490c9508afe6e091c4fe9e8821d55ba"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_070.md",
+          "exists": true,
+          "sha256": "dd979cbfc036383ca3d1e71c5051a6145fdd90ca2646b13b1a9b02556d13b316"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_071.md",
+          "exists": true,
+          "sha256": "050887a705f4fe6cc300d18163c7cea601e3eac26907d360c2122d6a91441712"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_072.md",
+          "exists": true,
+          "sha256": "273add23100bd0bdb8820e46df5f4a100b9561c8f3584bbff9de9f8240f074f4"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_073.md",
+          "exists": true,
+          "sha256": "6ae430b5fba8ba31bb7020af72a8db600addfe1320e54d93d8ba1bf25a8d32a3"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_074.md",
+          "exists": true,
+          "sha256": "342c3c7dbb0bbb834f2f7942908532804d1cc7837bf9dd53de248c4e5596b03a"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_075.md",
+          "exists": true,
+          "sha256": "69f64954dd26899ffd795f25e771be15ae60ecb1890ca04cdbf6131d35cb0a03"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_076.md",
+          "exists": true,
+          "sha256": "bd8fcb594438d36a50ee85682a0d4ddc08b218c6daaee13cba4f4df2a3efbb98"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_077.md",
+          "exists": true,
+          "sha256": "121dd61391953e7107f7d31800fcb8fd8de484fb058e631ee11985f5d9c8738a"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_078.md",
+          "exists": true,
+          "sha256": "1ebead950b382446d1c014c4440e3b66c8882e10956cc4bf4a3307c629398702"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_079.md",
+          "exists": true,
+          "sha256": "4347d9f8cc17c269ee21da01ad505dbe69ed7a276059ff5e974539ee7dd2456a"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_080.md",
+          "exists": true,
+          "sha256": "4237b080f245a8c19882043f5a0a0133b605f3edfd992c8248f9bd73fa09cf16"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_081.md",
+          "exists": true,
+          "sha256": "677647cf6522c31fc77b527ef82c78e2b034e50670ae1e460a3fb610a49c0c31"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_082.md",
+          "exists": true,
+          "sha256": "e4b1069c065242a233a126c2fbade2f80e5bdf462830b208b2e62766fcd2b872"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_083.md",
+          "exists": true,
+          "sha256": "28346f298301d9239f555fe8165d7306380b0e50805a613653baf51745e42264"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_084.md",
+          "exists": true,
+          "sha256": "c8050bdec80e1ac8e8ea21def4300c4154d8d1fd7e61ddda2690c7f2578a20f4"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_085.md",
+          "exists": true,
+          "sha256": "ed7c0d616fef80850fba027589565868ad8ee71a0d71a45f14db8d99302f45b9"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf086.md",
+          "exists": true,
+          "sha256": "634cc5ae4d741a1005e512719f36ec39ca32573e794dcfaf96128b6083055be1"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf087.md",
+          "exists": true,
+          "sha256": "201c59b74a83c04bb9ba17598737d0cb7c443c898aa4e7122f55fe16b62082d1"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf088.md",
+          "exists": true,
+          "sha256": "34a281a705ea5ffc08a589e6deb763f0ef098c6f6f861be2ac52e8871a14e98e"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf089.md",
+          "exists": true,
+          "sha256": "e4e62b477e97cf59e496717ef2056b6138ee890e3bd62b6105e8c455c9683ea2"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf090.md",
+          "exists": true,
+          "sha256": "3e2c243e7fd636ea612eebe6345db244e0ec61f4c39cb332ff28aa8923f56f1a"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf091.md",
+          "exists": true,
+          "sha256": "796c16199322d9c6be2bc9cb10af972e9f1b947b6875f5860b0429ba7853a3e2"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf092.md",
+          "exists": true,
+          "sha256": "1ad197bf927f224c0b80414916fa3b7dbff5f85e510cd5dab9104d06e96a9c1d"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf093.md",
+          "exists": true,
+          "sha256": "ca501bbe5509849835ad03d47496f21c1285c70404c412c9f54a5db49895029a"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf094.md",
+          "exists": true,
+          "sha256": "b2973ee3616aaaa61a2e73e806f27d025a34ee48bc754a70080b36a6fdde2642"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf095.md",
+          "exists": true,
+          "sha256": "9f4e2ae56f8c9de95b841980d6da4a7f69f7764bf330d671b430bf2b41838d1d"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf096.md",
+          "exists": true,
+          "sha256": "1fc1304c7eee4cb2bc97be47a9604742ba0625ea14c86fc38e09d245b7838860"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf097.md",
+          "exists": true,
+          "sha256": "4f42bfc2e8b21f11b43d7df83ca9d5bd1b438f463db35f8928f61bbdd4a6a125"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf098.md",
+          "exists": true,
+          "sha256": "448c4e4a51b864a98b6cc14c048a02733b4108311b9df5f3c177bb50d1d9b0cd"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf099.md",
+          "exists": true,
+          "sha256": "3d02731c456c11e028bf7ea0eae0759f1a650ed05152fa8250525e4de082ab00"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf100.md",
+          "exists": true,
+          "sha256": "321a9c231f36de718898cc9982afd212c43059f172fed14b430166a73ef35917"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf101.md",
+          "exists": true,
+          "sha256": "23ee0f0a714ba7ccb7303e25ec7518d2b0a78fca8ef5a1ce4c94779071645cff"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf102.md",
+          "exists": true,
+          "sha256": "0e08ee324fba14a7feb43ffdeee881c41267586331d11ac54fed457795867f35"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf103.md",
+          "exists": true,
+          "sha256": "242607bd5dbad0e95bc22ed1b5c00d5d236d334d9abb1efd5a84f528292f5e4e"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf104.md",
+          "exists": true,
+          "sha256": "e4be6ce9174bb064aa75effcb06b758e8f0a70692ed824f4782021c6f7fbc142"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf105.md",
+          "exists": true,
+          "sha256": "286f12130c2c1308d99d6a639ea0aaf6db3050aef1960f1aff807cd774f6075d"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf106.md",
+          "exists": true,
+          "sha256": "2ddf35d87840bb4306269520f8f95041cb32079948b79e6a6b2f2bb79964fc29"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf107.md",
+          "exists": true,
+          "sha256": "e6cf5019c18a0b79392bf430e2cb93e12e7fbdfd07317d93c858c6c072473100"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf108.md",
+          "exists": true,
+          "sha256": "d51cb6a6bcf66ea58171d07f9d5c0fc68c40a7a7a57196930c5f94a9df655aae"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf109.md",
+          "exists": true,
+          "sha256": "87ee172ff6d1d450e635396df167611140ba1a2b2486bcf14ef56b7c5b1cad83"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf110.md",
+          "exists": true,
+          "sha256": "9f80a89f4c2c490b9bacef2780d0eb0f9e1e8676668a81d94c0d5e98b60dd972"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf111.md",
+          "exists": true,
+          "sha256": "4d8f219c80cef03f31b9da80bb9242cfc77d6dee2f275d27c28e403b0906b4fe"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf112.md",
+          "exists": true,
+          "sha256": "8cd80f9685ae6b9c56bf4c07a7abff69a7d05ebe57e4b5066412a49f66b8bf8c"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf113.md",
+          "exists": true,
+          "sha256": "a69770b7449ca34cd13bc2a21186bf5e2853bfa36b897ec5d869fe8b562b6448"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf114.md",
+          "exists": true,
+          "sha256": "a951ad4493412b176315488a49ad8e96c2f7ab77b884e05b5afbc481bba3b125"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf115.md",
+          "exists": true,
+          "sha256": "6d2f264c5dec258fcb5fe4292edb99c580ee81ef9a43b548c82159886fefeb4d"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf116.md",
+          "exists": true,
+          "sha256": "4d21d964a47031bab12507f0e1028c0fde4b0cfd05573ad40347dfc3a0edb2b7"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf117.md",
+          "exists": true,
+          "sha256": "2c6a5d51d7889c771b83e4a76c6d4cb4b25428497ab37a3c645932e89780ac67"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf118.md",
+          "exists": true,
+          "sha256": "fa469c4bfb4c7d0a55dedb54294e6ef47ed496c67dd8ce1310ac6a14ba260865"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf119.md",
+          "exists": true,
+          "sha256": "a93bfbca4d6d2660be8844258ea75335b61770fadaa4daabe8bf1a6ac18b9a73"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf120.md",
+          "exists": true,
+          "sha256": "4a8b246e829dea27ff505b08794417a70998d4e53f8a2371440fb0957b7e8545"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf121.md",
+          "exists": true,
+          "sha256": "e7de54389322bb102fb8f8804621819faf20c36358e9624abccd73dcfc49a19a"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf122.md",
+          "exists": true,
+          "sha256": "06550cb5df16cbaf2d5bb9f3aaec384005cb48625660462df44aabd6bb7617ec"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf123.md",
+          "exists": true,
+          "sha256": "edeab77e1cb8504285f5438b2c983cf121d6d028f98c9346d47a827290c3390b"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf124.md",
+          "exists": true,
+          "sha256": "39d1eac9d1aac8afcdc4d3d0b553e4a090c60dd128214ab2f1e66c1353214e3d"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf125.md",
+          "exists": true,
+          "sha256": "85d7d06419ed3a27871556961e298919ebf885cbe5cffb3527d6b69ab87179f1"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf126.md",
+          "exists": true,
+          "sha256": "b43bf3b0f250898e8ebe094e93abdb2ba824eecd166ed1fa3fdd2d9c9d11d62e"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf127.md",
+          "exists": true,
+          "sha256": "c9488c32cd92492e1f0cfb87885e80762ad0d3336e979e6c257df8f858ac4094"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf128.md",
+          "exists": true,
+          "sha256": "8fbb21654f1aa2beaa597239ca734530bed392fadf43f833d55450672e421078"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf129.md",
+          "exists": true,
+          "sha256": "1c97ab9559d7c9b028ff59554bb7615890583a95a3e5d8b32b8c528aa3df1636"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf130.md",
+          "exists": true,
+          "sha256": "8f2aeabd0dcc5c8550504a84344276b7eaaad5057b38748ecad6645ad7e5c398"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf131.md",
+          "exists": true,
+          "sha256": "d18e7b016a3aca425ca40b91f989685053996ba87ec319b4fa14bfde6b5ed6b8"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf132.md",
+          "exists": true,
+          "sha256": "71626c9011f7b5a4111a85ba0fe0b9efb702e63f566c02d54a678669102484bc"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf133.md",
+          "exists": true,
+          "sha256": "75450fca407f6f28fff34246747fc764268b8488edd73d2382ab45b9dbb31393"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf134.md",
+          "exists": true,
+          "sha256": "8dc6a74e3ef0d91adff83f197f41f5fbec78f4525725ae9f1e402462d7a2848d"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf135.md",
+          "exists": true,
+          "sha256": "11910e1ea5b64279851332a58006577b5088019fa95a0a5c44cb6d5059864b95"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf136.md",
+          "exists": true,
+          "sha256": "987dcb4cac1a1027baffb2c77502a9c0a26d30d65cf382fd151c0a9deb106ae3"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf137.md",
+          "exists": true,
+          "sha256": "4785b2076ca7c1c6db814b64a81a9018755fa6a43d3685f8ddb3b26cad1da28c"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf138.md",
+          "exists": true,
+          "sha256": "3e41fd65b66c3cd9af2343ae3b4c65bded0495b464fd7516c2821faeac64d128"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf139.md",
+          "exists": true,
+          "sha256": "41ec8a93e532d24a9b44c66782edd3d550b05a2d67f6bc4848764d430dd22f08"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf140.md",
+          "exists": true,
+          "sha256": "1553f953e179155ecfbacadfeb8c193d9f7d86cd399aa26ec7b24422929d198d"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf141.md",
+          "exists": true,
+          "sha256": "46d2d99dba9ba3e4350f19b3160bdbd985c796a414f70bc9b4ba01bcdcdde541"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf142.md",
+          "exists": true,
+          "sha256": "6109e2f543c2f6107241256efc671134eafa4b05b32e693482767a3fdd3c8caa"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf143.md",
+          "exists": true,
+          "sha256": "c1c12489e4d24813184b9a6387c8e26845955a3c3101deb93728fd604c34765c"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf144.md",
+          "exists": true,
+          "sha256": "366ddc098143626c08f4901a269bd60be9651b243de6d04bb654537336546ad3"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf145.md",
+          "exists": true,
+          "sha256": "bd1aa58d73066f0d09e6701022903aec7df9732d6d656d3f68eb51558648a334"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf146.md",
+          "exists": true,
+          "sha256": "984eac036dff1401b13c0bfad2d7a07a0850f07d41b1b6e1d64efdf7cd42096a"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf147.md",
+          "exists": true,
+          "sha256": "9d3fc02440953d017a966c96e147576c5570e80995e9d4b6923858cbf4803ebb"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf148.md",
+          "exists": true,
+          "sha256": "5190d36fd1760dc93fa38ef577ca8b5390fea256a728ec5d0bfeb535cf6eab12"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf149.md",
+          "exists": true,
+          "sha256": "368a3c77ce1a4ef2cdada98d31008a29df11fd5ad271fef36fbae783a74bfb4f"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf150.md",
+          "exists": true,
+          "sha256": "56fd5e523f10b22426e98f67792d7b9e62bdf33b0eeec1e4ecf013d9e81ea9a5"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf151.md",
+          "exists": true,
+          "sha256": "c00fad09c9d977bee33b5eb61cb5c296a59626052e8c04a24bbd74e9248c3995"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf152.md",
+          "exists": true,
+          "sha256": "dc607bbb7b74481254e2a237c697d9ac0cfaf7cb52bf9117dd5b983abd3cf697"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf153.md",
+          "exists": true,
+          "sha256": "8879caf796787ade076ab78258e5991ceac00dd96eecdbf2acdea6148f18bd3f"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf154.md",
+          "exists": true,
+          "sha256": "89d26f7646cbc6ec26b9f39aeab7a617c7df221df886440bc897abafb406e638"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf155.md",
+          "exists": true,
+          "sha256": "dc367eb991d91609ba7088b79f69735aca0af273185c35ce2f0df664ef9a5da3"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf156.md",
+          "exists": true,
+          "sha256": "445a92d51d02dd41f9e3df498cc440cc2b9bfbcc2704fe7332a758819fe794a5"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf157.md",
+          "exists": true,
+          "sha256": "33044bc6ed1d3d61027861c8d3401af1493dddaf94e14230ad67641f6ef5f029"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf158.md",
+          "exists": true,
+          "sha256": "dc6b3e9cc7636dce7c1bd6982d565a6741357552b4e19a1b225406253fdfaf42"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf159.md",
+          "exists": true,
+          "sha256": "1876148509ee0a7cee0abbbfc8f5accb1a12c87ef41e3e9b0ac6bd6c27abdf9e"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf160.md",
+          "exists": true,
+          "sha256": "9688a07adaf3754f49aa66dc4a3847b99b7b99f205e7bd52d5e720cda9e6c4b1"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf161.md",
+          "exists": true,
+          "sha256": "d05977bf4316c7031b7aa73e577281757026526f232ded40cc3a86fd30bcc234"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf162.md",
+          "exists": true,
+          "sha256": "f9dca84c78016a27c43e5cdc7085ec674df085b5ff0c91ce069cebbbaecda529"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf163.md",
+          "exists": true,
+          "sha256": "0f286da0d3193b4d6c86902ee3261e1551d44ba6e57cabbe3bba9573cdfaa158"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf164.md",
+          "exists": true,
+          "sha256": "4b87e3447fedc46335532fbb7920c8b1b1ec395474d1b84c9724c4478d29989d"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf165.md",
+          "exists": true,
+          "sha256": "e687a20c42207a1f2b83146793159d2f29e3da816b1b608f57033d3f8259bbf0"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf166.md",
+          "exists": true,
+          "sha256": "a96d316c65ecfeb6a0a51c18b43ac9e3a992c9797583d546f17326e8b9602c68"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf167.md",
+          "exists": true,
+          "sha256": "c0fc5b5e4062fc1289628ef44b0bb35107a401894dabe223abb4289d3b39b58e"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf168.md",
+          "exists": true,
+          "sha256": "833d8a21c682ad577ad527cbc352a5feb9a862d9ec06b3bcf86cab4f288be0dd"
+        },
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf169.md",
+          "exists": true,
+          "sha256": "556f252e480d032f23f2dff36d4d74fbab5c151e0060a6a9f5ced3fe7791dab5"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "06_新刊僚氏正教便览_ONB_Sin282-A.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/06_新刊僚氏正教便览_ONB_Sin282-A.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 580,
+      "full_text_verified": false,
+      "group": "ONB Sin282-A正教便览",
+      "body_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/onb_sin282_a/method_transfer_v3/ONB_Sin282A_all580_body_final_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/onb_sin282_a/method_transfer_v3/coverage_all580_method_transfer_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/onb_sin282_a/method_transfer_v3/source_line_mapping_all580_final_v3.json"
+      ],
+      "issue_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/onb_sin282_a/method_transfer_v3/doubts_and_findings_all580_v3.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/onb_sin282_a/method_transfer_v3/FINAL_DELIVERY_v3.md"
+      ],
+      "unresolved": "古字、跨栏和淡笔仍疑；不同日期/章次不静默调和；279组修改/候选非279确定错。",
+      "legacy": "1160首稿/v2文件保持。",
+      "scripts": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/onb_sin282_a/method_transfer_v3/save_onb_transfer_v3.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/onb_sin282_a/method_transfer_v3/assemble_onb_all580_v3_final.py",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/onb_sin282_a/method_transfer_v3/assemble_onb_all580_v3.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 580,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/onb_sin282_a/method_transfer_v3/ONB_Sin282A_all580_body_final_v3.md",
+          "exists": true,
+          "sha256": "399a5977ac8d1f075fc6132ca0d7d0a88743fee315a6bf6562100c72ed085396"
+        }
+      ],
+      "missing_referenced_paths": []
+    },
+    {
+      "source_file": "07_漳州话天主教教理问答_Catecismo_cristiano_en_lengua_chinchea_生理人语法_Arte_Sangley_AUST_Folletos_Tomo211_官网公开残页.pdf",
+      "source_pdf": "/workspace/shared/minnan_calibration/sources/07_漳州话天主教教理问答_Catecismo_cristiano_en_lengua_chinchea_生理人语法_Arte_Sangley_AUST_Folletos_Tomo211_官网公开残页.pdf",
+      "source_pdf_exists": true,
+      "expected_pdf_pages": 10,
+      "full_text_verified": false,
+      "group": "UST tomo211公开残页组合",
+      "body_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/aust_tomo211_fragments/method_transfer_v3/AUST_all10_partial_body_v3.md"
+      ],
+      "coverage_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/aust_tomo211_fragments/method_transfer_v3/coverage_all10_v3.json"
+      ],
+      "mapping_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/aust_tomo211_fragments/method_transfer_v3/source_line_mapping_all10_v3.json"
+      ],
+      "issue_files": [
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/aust_tomo211_fragments/method_transfer_v3/FINAL_DELIVERY_v3.md",
+        "/workspace/scratch/3ee2b91a8980/minnan_continuation/aust_tomo211_fragments/method_transfer_v3/review"
+      ],
+      "unresolved": "10幅仅公开残页；完整正文识读0页；007/009较多部分识读，008/010仅候选。",
+      "legacy": "旧MD保留；不能称完整AUST全书。",
+      "scripts": [
+        "/tmp/save_aust_v3.py"
+      ],
+      "status": "已完成逐页方法新读/迁移复核，部分正文候选可交接",
+      "image_review_pages_in_this_completed_set": 10,
+      "current_body_hashes": [
+        {
+          "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/aust_tomo211_fragments/method_transfer_v3/AUST_all10_partial_body_v3.md",
+          "exists": true,
+          "sha256": "548dda5d557fa7cef184f85721fd56a67ea7f0848d32f277bf16c6877837e686"
+        }
+      ],
+      "missing_referenced_paths": []
+    }
+  ]
+}

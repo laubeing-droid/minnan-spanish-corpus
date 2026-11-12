@@ -1,0 +1,357 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 531,
+  "historical_folio": 497,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0531/pdf_0531_300dpi.png",
+  "page_header": "[残] …ed güia ama U :",
+  "page_footer_printed": "- 497 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Guesped -",
+      "source_H": "客",
+      "source_M": "que",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Guesped -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰe¹",
+        "tai_lo_standard": "khe",
+        "phonological_basis": "17c Dominican orthography conversion: que (客) -> kʰe¹ / khe."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "guesped",
+      "source_H": "賓",
+      "source_M": "pin",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "guesped",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pin¹",
+        "tai_lo_standard": "pin",
+        "phonological_basis": "17c Dominican orthography conversion: pin (賓) -> pin¹ / pin."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "guesped",
+      "source_H": "賓 客",
+      "source_M": "pin que",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "guesped",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pin¹ kʰe¹",
+        "tai_lo_standard": "pin-khe",
+        "phonological_basis": "17c Dominican orthography conversion: pin (賓) -> pin¹ / pin; que (客) -> kʰe¹ / khe."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Guesped, conbidad",
+      "source_H": "客 人",
+      "source_M": "que lāng conbidaçāo",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Guesped, conbidad",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰe¹ laŋ⁵ konbida⁶ ao⁶",
+        "tai_lo_standard": "khe-lâng-konbidā-āo",
+        "phonological_basis": "17c Dominican orthography conversion: que (客) -> kʰe¹ / khe; lāng (人) -> laŋ⁵ / lâng; conbida (?) -> konbida⁶ / konbidā; āo (?) -> ao⁶ / āo."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "guesped, estrangero -",
+      "source_H": "賓 旅",
+      "source_M": "pin lù",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "guesped, estrangero -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pin¹ lu²",
+        "tai_lo_standard": "pin-lú",
+        "phonological_basis": "17c Dominican orthography conversion: pin (賓) -> pin¹ / pin; lù (旅) -> lu² / lú."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Guesped, estrangero.",
+      "source_H": "外 客",
+      "source_M": "gua que",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Guesped, estrangero.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gua¹ kʰe¹",
+        "tai_lo_standard": "gua-khe",
+        "phonological_basis": "17c Dominican orthography conversion: gua (外) -> gua¹ / gua; que (客) -> kʰe¹ / khe."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "guesped señor de casa -",
+      "source_H": "賓 主",
+      "source_M": "pin chù",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "guesped señor de casa -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pin¹ tsu²",
+        "tai_lo_standard": "pin-tsú",
+        "phonological_basis": "17c Dominican orthography conversion: pin (賓) -> pin¹ / pin; chù (主) -> tsu² / tsú."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Guenos.",
+      "source_H": "卵[疑:卵/卯]",
+      "source_M": "nuy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Guenos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "nui²",
+        "tai_lo_standard": "nuí",
+        "phonological_basis": "17c Dominican orthography conversion: nuy (卵) -> nui² / nuí."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Guenos de pescados",
+      "source_H": "魚 子",
+      "source_M": "hū chy byy nāso",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Guenos de pescados",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu⁵ tsi¹ bii¹ naso⁶",
+        "tai_lo_standard": "hû-tsi-bii-nāso",
+        "phonological_basis": "17c Dominican orthography conversion: hū (魚) -> hu⁵ / hû; chy (子) -> tsi¹ / tsi; byy (?) -> bii¹ / bii; nāso (?) -> naso⁶ / nāso."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Guiar. en caminar",
+      "source_H": "引",
+      "source_M": "in chỳ în",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Guiar. en caminar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "in¹ tsi² in³",
+        "tai_lo_standard": "in-tsí-ìn",
+        "phonological_basis": "17c Dominican orthography conversion: in (引) -> in¹ / in; ch (?) -> tsi² / tsí; în (?) -> in³ / ìn."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "guiar en cosas de importancia.",
+      "source_H": "擴",
+      "source_M": "coy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "guiar en cosas de importancia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "koiʔ⁷",
+        "tai_lo_standard": "koih",
+        "phonological_basis": "17c Dominican orthography conversion: coy (擴) -> koiʔ⁷ / koih."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "guiar en caminar.",
+      "source_H": "導",
+      "source_M": "cho.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "guiar en caminar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso²",
+        "tai_lo_standard": "tsó",
+        "phonological_basis": "17c Dominican orthography conversion: cho (導) -> tso² / tsó."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "guiar por caminos.",
+      "source_H": "為[疑:為/照]",
+      "source_M": "chua lù lòu [残]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "guiar por caminos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsua² lu² lou²",
+        "tai_lo_standard": "tsuá-lú-lóu",
+        "phonological_basis": "17c Dominican orthography conversion: chua (為) -> tsua² / tsuá; lù (?) -> lu² / lú; lòu (?) -> lou² / lóu."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "guiar, lleuar de la mano.",
+      "source_H": "牽 引",
+      "source_M": "can in.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "guiar, lleuar de la mano.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kan¹ in²",
+        "tai_lo_standard": "kan-ín",
+        "phonological_basis": "17c Dominican orthography conversion: can (牽) -> kan¹ / kan; in (引) -> in² / ín."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "guiar se por la voz, o sombra o por otra cosa semejante -",
+      "source_H": "聽 声[疑:声/聲] 望 影",
+      "source_M": "fia fia bang ia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "guiar se por la voz, o sombra o por otra cosa semejante -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fia³ fia³ baŋ¹ ia¹",
+        "tai_lo_standard": "fià-fià-bang-ia",
+        "phonological_basis": "17c Dominican orthography conversion: fia (聽) -> fia³ / fià; fia (声) -> fia³ / fià; bang (望) -> baŋ¹ / bang; ia (影) -> ia¹ / ia."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Guiñar del ojo.",
+      "source_H": "目 毒[疑:毒/黷]",
+      "source_M": "bag bag",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Guiñar del ojo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bak⁸ bak⁸",
+        "tai_lo_standard": "ba̍k-ba̍k",
+        "phonological_basis": "17c Dominican orthography conversion: bag (目) -> bak⁸ / ba̍k; bag (毒) -> bak⁸ / ba̍k."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Guisar con manteca",
+      "source_H": "譴[疑:譴/煎] 物 食",
+      "source_M": "quien my chia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Guisar con manteca",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kien² miʔ⁸ tsia²",
+        "tai_lo_standard": "kién-mi̍h-tsiá",
+        "phonological_basis": "17c Dominican orthography conversion: quien (譴) -> kien² / kién; my (物) -> miʔ⁸ / mi̍h; chia (食) -> tsia² / tsiá."
+      }
+    }
+  ]
+}

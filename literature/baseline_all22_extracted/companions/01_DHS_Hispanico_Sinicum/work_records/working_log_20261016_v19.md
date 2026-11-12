@@ -1,0 +1,5 @@
+# DHS native first-read continuation, 12:32 UTC
+
+621–625: 89 occupied units (19/14/21/17/18), source footers 587–591 individually seen. 80 stored artifacts match freeze hashes. The 622 page is naturally sparse, with lower blank ruled rows; 624 includes a top unruled cross-column supplementary entry. 621–625 retain faint or overwritten letters, atypical Han forms, tone-shape doubts and small Spanish annotations with location. Source colour fringing is visible at 624–625, not corrected by image editing. No external answer consulted. Stage remains taught independent draft, not verified reading accuracy.
+
+12:32:22 all-format body audit: 580 distinct frozen PDF pages, all SHA match, no missing file or duplicate page references. Ranges 1–575 and 621–625. Eight unfrozen MD pages were listed in snapshot. Readers continue 576–580, 581–600, 601–620; 641–660 already reserved. Coordinator continues 626–640. Native data for only next five pages 626–630 is being generated using installed tools and original source.

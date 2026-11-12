@@ -1,0 +1,36 @@
+{
+  "pages": [
+    {
+      "pdf_page": 706,
+      "historical_folio": 672,
+      "page_header": "N. ante. O.",
+      "page_footer_printed": "- 672 -",
+      "page_footer_handwritten": "",
+      "notes": "读图6次（band_y0/y1/y2各一次＋subcol2汉字栏＋subcol3闽南语栏＋subcol4右栏），未超8次上限、无重读；写文件前发现工作区已有同名旧稿（读法与本稿多处不同，如行3 L ocumja/camina、行5 汉字義/幾、行6 hioⁿ、行10 cheg/chey、行12 L por la mesma/dormido、行13 即/蹄、行20 sa/[残]、行22 朴/[残] 等），本稿为本次独立盲读、已覆盖旧稿，差异留待人工校订对照。页顶自左至右：花体大写首字母（似N，存疑）、手写ante-、O.、墨写133:、铅笔336；这些手写编号在页顶而非页脚，故 page_footer_handwritten 留空。页脚印刷 - 672 - 清晰。第4栏整页仅红格空白、无官话内容，唯第19行右栏有西文添注 noy seguro（右栏图同高残段 …uro. 与 seguro 尾部相符）。反复读图仍存疑、待人工校订：行1 M两声调符细小，升降归位存疑；行3 汉字四字『無來路來』与M三音节不齐、第二字『來』存疑，L 行草书难辨照形抄；行3-4、20、21 左栏 ne da vida / fanela / caconlamano / dematra 均照形抄；行6 M hiô 后似有鼻化小钩未敢写入；行10 汉字第二三字照形抄『一件』，与M音节对应欠佳（音节对应暗示『欠錢掛白白个』）；行11 xip 为入声字，其交叉入声号系按同页同类小叉补记；行12 L 第二行 do~ 与旧稿 mesma 读法冲突，存疑；行12-13 tuy 上声调符呈波状难归类，标 T99；行15 汉字『空食』右上有上标小a、字下有涂改小字，未计入正文；行15-16 白/食 为入声字而声调符按所见帽形归 T03，或实为交叉入声号；行20 M首音节墨污标[残]并记T99（旧稿读 sa，音节对应汉字『掺』）；行22 汉字首字墨污标[残]（旧稿读朴），M首音节读 púr。全部声调符按最接近字形归类，未以音韵知识改字。",
+      "entries": [
+        {"position": 1,  "source_L": "no ay causa", "source_H": "無因", "source_M": "bú īn", "source_R": "[空]", "tone_marks_M": ["T01 (升斜)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 2,  "source_L": "no ay causa", "source_H": "無來由", "source_M": "bō lāy iū", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 3,  "source_L": "no ay por donde camina ne da vida", "source_H": "無來路來", "source_M": "bō lǒu lāy", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T03 (尖頂帽)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 4,  "source_L": "no ay por do fanela vida.", "source_H": "無路去", "source_M": "bō lǒu cû", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T03 (尖頂帽)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 5,  "source_L": "no a mucho", "source_H": "無幾", "source_M": "bō qúy bō cù. bō xoà cù.", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T01 (升斜)", "T05 (平橫)", "T02 (降斜)", "T05 (平橫)", "T02 (降斜)", "T02 (降斜)"], "tone_marks_R": []},
+        {"position": 6,  "source_L": "no ay mucho", "source_H": "無向多", "source_M": "bō hiô chěy", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T03 (尖頂帽)", "T02 (降斜)"], "tone_marks_R": []},
+        {"position": 7,  "source_L": "no ay principal", "source_H": "無母", "source_M": "bō bó", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T01 (升斜)"], "tone_marks_R": []},
+        {"position": 8,  "source_L": "no ay otro negocio", "source_H": "無他故", "source_M": "bō tā còu", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)", "T02 (降斜)"], "tone_marks_R": []},
+        {"position": 9,  "source_L": "no ay mas que este", "source_H": "那只个", "source_M": "nā chȳ çē", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 10, "source_L": "no ay un real", "source_H": "欠一件白白个", "source_M": "guiâm chēy guīa pe peçe.", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T05 (平橫)", "T05 (平橫)", "T06/T07 (交叉入聲號)", "T06/T07 (交叉入聲號)"], "tone_marks_R": []},
+        {"position": 11, "source_L": "no ay por do escusarlo", "source_H": "討無入頭", "source_M": "tǒ bō xip tāu", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T05 (平橫)", "T06/T07 (交叉入聲號)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 12, "source_L": "no ay quien pase por dormido", "source_H": "斷人行", "source_M": "tuy lāng guīa", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T05 (平橫)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 13, "source_L": "no ay rastros de fuenga", "source_H": "斷蹄跡 [疑:蹄/即]", "source_M": "tuy cā chiá", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T05 (平橫)", "T01 (升斜)"], "tone_marks_R": []},
+        {"position": 14, "source_L": "no ay que comer, boca bacia.", "source_H": "空口", "source_M": "cāng chûi", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 15, "source_L": "no ay mas morisqueta", "source_H": "空食", "source_M": "cāng chiá", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T01 (升斜)"], "tone_marks_R": []},
+        {"position": 16, "source_L": "no ay mas morisqueta", "source_H": "白食", "source_M": "pê chiâ", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 17, "source_L": "no ay provechos", "source_H": "最無用", "source_M": "chîe bō iōng", "source_R": "[空]", "tone_marks_M": ["T03 (尖頂帽)", "T05 (平橫)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 18, "source_L": "no ay paz.", "source_H": "危乱", "source_M": "gūy loān", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)"], "tone_marks_R": []},
+        {"position": 19, "source_L": "no ay paz", "source_H": "不平定", "source_M": "m̄ pē tīa", "source_R": "noy seguro", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)", "T03 (尖頂帽)"], "tone_marks_R": []},
+        {"position": 20, "source_L": "no cojer mos caconlamano", "source_H": "掺無一物", "source_M": "[残] bō chìmy", "source_R": "[空]", "tone_marks_M": ["T99 (污損難辨)", "T05 (平橫)", "T02 (降斜)"], "tone_marks_R": []},
+        {"position": 21, "source_L": "no comer en mucho tiempo, y no sele hacer dematra", "source_H": "金餓", "source_M": "guīm gò", "source_R": "[空]", "tone_marks_M": ["T05 (平橫)", "T02 (降斜)"], "tone_marks_R": []},
+        {"position": 22, "source_L": "no coniecturar", "source_H": "[残]忖", "source_M": "púr chūn", "source_R": "[空]", "tone_marks_M": ["T01 (升斜)", "T05 (平橫)"], "tone_marks_R": []}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 805,
+  "historical_folio": 767,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0805/pdf_0805_300dpi.png",
+  "page_header": "P. ante.",
+  "page_footer_printed": "- 767 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 21,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Piedra",
+      "source_H": "石",
+      "source_M": "chioô",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Piedra",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsioo³",
+        "tai_lo_standard": "tsiòo",
+        "phonological_basis": "17c Dominican orthography conversion: chioô (石) -> tsioo³ / tsiòo."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "piedra alumbre",
+      "source_H": "磐 [疑:磐/礬]",
+      "source_M": "huān",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra alumbre",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan⁵",
+        "tai_lo_standard": "huân",
+        "phonological_basis": "17c Dominican orthography conversion: huān (磐) -> huan⁵ / huân."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "piedra alumbre",
+      "source_H": "明磐 [疑:磐/礬]",
+      "source_M": "bēnghūan",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra alumbre",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "benghuan⁵",
+        "tai_lo_standard": "benghuân",
+        "phonological_basis": "17c Dominican orthography conversion: bēnghūan (明) -> benghuan⁵ / benghuân."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "piedra de amolar",
+      "source_H": "礦",
+      "source_M": "ley",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra de amolar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lei¹",
+        "tai_lo_standard": "lei",
+        "phonological_basis": "17c Dominican orthography conversion: ley (礦) -> lei¹ / lei."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "piedra de amolar",
+      "source_H": "粉石",
+      "source_M": "hùn chioô",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra de amolar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hun² tsioo³",
+        "tai_lo_standard": "hún-tsiòo",
+        "phonological_basis": "17c Dominican orthography conversion: hùn (粉) -> hun² / hún; chioô (石) -> tsioo³ / tsiòo."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "piedra preciosa",
+      "source_H": "璞",
+      "source_M": "poo",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra preciosa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pooʔ⁷",
+        "tai_lo_standard": "pooh",
+        "phonological_basis": "17c Dominican orthography conversion: poo (璞) -> pooʔ⁷ / pooh."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "piedra preciosa",
+      "source_H": "玉",
+      "source_M": "gioog: chúigioog:: pò chioô: gio huān",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T01 (升斜)",
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra preciosa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "giook⁷ tsuigiook⁷ poʔ⁷ tsioo² gio³ huaʔ⁷",
+        "tai_lo_standard": "giook-tsuigiook-poh-tsióo-giò-huah",
+        "phonological_basis": "17c Dominican orthography conversion: gioog (玉) -> giook⁷ / giook; chúigioog (?) -> tsuigiook⁷ / tsuigiook; pò (?) -> poʔ⁷ / poh; chioô (?) -> tsioo² / tsióo; gio (?) -> gio³ / giò; huān (?) -> huaʔ⁷ / huah."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "piedra preciosa blanca",
+      "source_H": "璧",
+      "source_M": "pec",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra preciosa blanca",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pek⁷",
+        "tai_lo_standard": "pek",
+        "phonological_basis": "17c Dominican orthography conversion: pec (璧) -> pek⁷ / pek."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "piedra preciosa blanca",
+      "source_H": "璋",
+      "source_M": "chiáng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra preciosa blanca",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiaŋ¹",
+        "tai_lo_standard": "tsiang",
+        "phonological_basis": "17c Dominican orthography conversion: chiáng (璋) -> tsiaŋ¹ / tsiang."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "piedra coma coral",
+      "source_H": "瑪瑙 [疑:瑙/璫]",
+      "source_M": "bé lò",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra coma coral",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "be¹ lo²",
+        "tai_lo_standard": "be-ló",
+        "phonological_basis": "17c Dominican orthography conversion: bé (瑪) -> be¹ / be; lò (瑙) -> lo² / ló."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "piedra amarilla del pino p reumas",
+      "source_H": "琥珀",
+      "source_M": "hou pus",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra amarilla del pino p reumas",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "houʔ⁷ pusʔ⁷",
+        "tai_lo_standard": "houh-push",
+        "phonological_basis": "17c Dominican orthography conversion: hou (琥) -> houʔ⁷ / houh; pus (珀) -> pusʔ⁷ / push."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "piedra yman",
+      "source_H": "錫",
+      "source_M": "hiap chìo",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra yman",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hiap⁷ tsio²",
+        "tai_lo_standard": "hiap-tsió",
+        "phonological_basis": "17c Dominican orthography conversion: hiap (錫) -> hiap⁷ / hiap; chìo (?) -> tsio² / tsió."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "piedra del cielo, pedrisco",
+      "source_H": "雹",
+      "source_M": "pau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra del cielo, pedrisco",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pauʔ⁷",
+        "tai_lo_standard": "pauh",
+        "phonological_basis": "17c Dominican orthography conversion: pau (雹) -> pauʔ⁷ / pauh."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "piedra del cielo pedrisco",
+      "source_H": "落雹",
+      "source_M": "lo pau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra del cielo pedrisco",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "loʔ⁸ pauʔ⁷",
+        "tai_lo_standard": "lo̍h-pauh",
+        "phonological_basis": "17c Dominican orthography conversion: lo (落) -> loʔ⁸ / lo̍h; pau (雹) -> pauʔ⁷ / pauh."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "piedra azufre",
+      "source_H": "硫",
+      "source_M": "līū",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra azufre",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liu⁵",
+        "tai_lo_standard": "liû",
+        "phonological_basis": "17c Dominican orthography conversion: līū (硫) -> liu⁵ / liû."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "piedra azufre",
+      "source_H": "硫磺",
+      "source_M": "līū hūỹ: līūhōng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra azufre",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liu⁵ hu⁵ liuhoŋ⁶",
+        "tai_lo_standard": "liû-hû-liuhōng",
+        "phonological_basis": "17c Dominican orthography conversion: līū (硫) -> liu⁵ / liû; hū (磺) -> hu⁵ / hû; līūhōng (?) -> liuhoŋ⁶ / liuhōng."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "piedra becar",
+      "source_H": "鹿石",
+      "source_M": "lô chioô",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra becar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lo³ tsioo³",
+        "tai_lo_standard": "lò-tsiòo",
+        "phonological_basis": "17c Dominican orthography conversion: lô (鹿) -> lo³ / lò; chioô (石) -> tsioo³ / tsiòo."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "piedra ʃ levantan enlos ʃepulchros",
+      "source_H": "墓碑",
+      "source_M": "moū pay",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra ʃ levantan enlos ʃepulchros",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mou⁵ pai¹",
+        "tai_lo_standard": "môu-pai",
+        "phonological_basis": "17c Dominican orthography conversion: moū (墓) -> mou⁵ / môu; pay (碑) -> pai¹ / pai."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "piedra preciosa",
+      "source_H": "寶石",
+      "source_M": "pò chioô",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra preciosa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "po² tsioo³",
+        "tai_lo_standard": "pó-tsiòo",
+        "phonological_basis": "17c Dominican orthography conversion: pò (寶) -> po² / pó; chioô (石) -> tsioo³ / tsiòo."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "piedra preciosa",
+      "source_H": "珠玉",
+      "source_M": "chú gioô",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra preciosa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu¹ gioo³",
+        "tai_lo_standard": "tsu-giòo",
+        "phonological_basis": "17c Dominican orthography conversion: chú (珠) -> tsu¹ / tsu; gioô (玉) -> gioo³ / giòo."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "piedra preciosa",
+      "source_H": "玉環",
+      "source_M": "gioô huān",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "piedra preciosa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gioo³ huan⁵",
+        "tai_lo_standard": "giòo-huân",
+        "phonological_basis": "17c Dominican orthography conversion: gioô (玉) -> gioo³ / giòo; huān (環) -> huan⁵ / huân."
+      }
+    }
+  ]
+}

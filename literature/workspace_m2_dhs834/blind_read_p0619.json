@@ -1,0 +1,452 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 619,
+  "historical_folio": 585,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0619/pdf_0619_300dpi.png",
+  "page_header": "ante. U.",
+  "page_footer_printed": "- 585 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Lugar-",
+      "source_H": "處",
+      "source_M": "Fe. chù",
+      "source_R": "geroc",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Lugar-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fe² tsu²",
+        "tai_lo_standard": "fé-tsú",
+        "phonological_basis": "17c Dominican orthography conversion: Fe (處) -> fe² / fé; chù (?) -> tsu² / tsú."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "lugar. Termino Iurisdiçion;",
+      "source_H": "境",
+      "source_M": "queng goñ caŷ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar. Termino Iurisdiçion;",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "keŋ¹ gõn³ ka¹",
+        "tai_lo_standard": "keng-gòn-ka",
+        "phonological_basis": "17c Dominican orthography conversion: queng (境) -> keŋ¹ / keng; goñ (?) -> gõn³ / gòn; ca (?) -> ka¹ / ka."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "lugar de la cruçificio -",
+      "source_H": "壇 [疑:壇/墳]",
+      "source_M": "hūn mã. Foaī. tān",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar de la cruçificio -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hun⁵ mã⁶ foai⁶ tan⁶",
+        "tai_lo_standard": "hûn-mānn-foāi-tān",
+        "phonological_basis": "17c Dominican orthography conversion: hūn (壇) -> hun⁵ / hûn; mã (?) -> mã⁶ / mānn; Foaī (?) -> foai⁶ / foāi; tān (?) -> tan⁶ / tān."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "lugar de dignidad &",
+      "source_H": "位",
+      "source_M": "uy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar de dignidad &",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ui²",
+        "tai_lo_standard": "uí",
+        "phonological_basis": "17c Dominican orthography conversion: uy (位) -> ui² / uí."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "lugar, pueblo ~",
+      "source_H": "所",
+      "source_M": "soí. sõ chāy chù ey",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar, pueblo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "soi¹ sõ⁶ tsai⁶ tsu² ei¹",
+        "tai_lo_standard": "soi-sōnn-tsāi-tsú-ei",
+        "phonological_basis": "17c Dominican orthography conversion: soí (所) -> soi¹ / soi; sõ (?) -> sõ⁶ / sōnn; chāy (?) -> tsai⁶ / tsāi; chù (?) -> tsu² / tsú; ey (?) -> ei¹ / ei."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "[已划除] lugar del ayre, region del ayre refresco",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar del ayre, region del ayre refresco",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "lug[残] do se escríuen las cosas de los muertos",
+      "source_H": "軸",
+      "source_M": "teg [疑:teg/tep]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lug do se escríuen las cosas de los muertos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tek⁷ tek⁷ tep⁷",
+        "tai_lo_standard": "tek-tek-tep",
+        "phonological_basis": "17c Dominican orthography conversion: teg (軸) -> tek⁷ / tek; teg (?) -> tek⁷ / tek; tep (?) -> tep⁷ / tep."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "lugar, en lugar de otro ~",
+      "source_H": "代",
+      "source_M": "Fay tiy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar, en lugar de otro ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fai¹ tii¹",
+        "tai_lo_standard": "fai-tii",
+        "phonological_basis": "17c Dominican orthography conversion: Fay (代) -> fai¹ / fai; tiy (?) -> tii¹ / tii."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "lugar uacio como sede vacante.",
+      "source_H": "空",
+      "source_M": "cang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar uacio como sede vacante.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰaŋ¹",
+        "tai_lo_standard": "khang",
+        "phonological_basis": "17c Dominican orthography conversion: cang (空) -> kʰaŋ¹ / khang."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "lugar donde esta?",
+      "source_H": "下落",
+      "source_M": "he lo",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar donde esta?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "he¹ lo¹",
+        "tai_lo_standard": "he-lo",
+        "phonological_basis": "17c Dominican orthography conversion: he (下) -> he¹ / he; lo (落) -> lo¹ / lo."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "lugar escondido -",
+      "source_H": "密處",
+      "source_M": "bã te",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar escondido -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bã¹ tʰe¹",
+        "tai_lo_standard": "bann-the",
+        "phonological_basis": "17c Dominican orthography conversion: bã (密) -> bã¹ / bann; te (處) -> tʰe¹ / the."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "lugar del Rey ~",
+      "source_H": "陛下",
+      "source_M": "pey ho",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar del Rey ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pei² ho¹",
+        "tai_lo_standard": "péi-ho",
+        "phonological_basis": "17c Dominican orthography conversion: pey (陛) -> pei² / péi; ho (下) -> ho¹ / ho."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "lugar para juntas",
+      "source_H": "會館",
+      "source_M": "hue guã",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar para juntas",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hue² gũã¹",
+        "tai_lo_standard": "hué-guann",
+        "phonological_basis": "17c Dominican orthography conversion: hue (會) -> hue² / hué; guã (館) -> gũã¹ / guann."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "lugar Bajo de poco valor.",
+      "source_H": "敝處",
+      "source_M": "pi chù [疑:pi/py]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar Bajo de poco valor.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pi¹ tsʰu² pi¹ pi¹",
+        "tai_lo_standard": "pi-tshú-pi-pi",
+        "phonological_basis": "17c Dominican orthography conversion: pi (敝) -> pi¹ / pi; chù (處) -> tsʰu² / tshú; pi (?) -> pi¹ / pi; py (?) -> pi¹ / pi."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "lugar bueno p̂ sepulchro.",
+      "source_H": "山脉",
+      "source_M": "Soã mê",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar bueno p̂ sepulchro.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sõã³ me³",
+        "tai_lo_standard": "soànn-mè",
+        "phonological_basis": "17c Dominican orthography conversion: Soã (山) -> sõã³ / soànn; mê (脉) -> me³ / mè."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "lugar de examen de calidad ~",
+      "source_H": "武場",
+      "source_M": "Bu tiõ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar de examen de calidad ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bu² tĩõ¹",
+        "tai_lo_standard": "bú-tionn",
+        "phonological_basis": "17c Dominican orthography conversion: Bu (武) -> bu² / bú; tiõ (場) -> tĩõ¹ / tionn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "lugar do se exercitan los letrados -",
+      "source_H": "教場",
+      "source_M": "câ tiõ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar do se exercitan los letrados -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka³ tĩõ¹",
+        "tai_lo_standard": "kà-tionn",
+        "phonological_basis": "17c Dominican orthography conversion: câ (教) -> ka³ / kà; tiõ (場) -> tĩõ¹ / tionn."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "lugar p̂ examinar.",
+      "source_H": "科場",
+      "source_M": "co tiõ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar p̂ examinar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰo¹ tĩõ¹",
+        "tai_lo_standard": "kho-tionn",
+        "phonological_basis": "17c Dominican orthography conversion: co (科) -> kʰo¹ / kho; tiõ (場) -> tĩõ¹ / tionn."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "lugar p̂ examinar.",
+      "source_H": "貢院",
+      "source_M": "công y",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar p̂ examinar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ³ i²",
+        "tai_lo_standard": "kòng-í",
+        "phonological_basis": "17c Dominican orthography conversion: công (貢) -> kɔŋ³ / kòng; y (院) -> i² / í."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "lugar grande cabeça de provincia ~",
+      "source_H": "去處",
+      "source_M": "cû chù",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar grande cabeça de provincia ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰu³ tsʰu²",
+        "tai_lo_standard": "khù-tshú",
+        "phonological_basis": "17c Dominican orthography conversion: cû (去) -> kʰu³ / khù; chù (處) -> tsʰu² / tshú."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "lugar de muchas embarcaciones",
+      "source_H": "掛澳",
+      "source_M": "cûa ùi cûa ô",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar de muchas embarcaciones",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kua³ ui² kua³ o³",
+        "tai_lo_standard": "kuà-uí-kuà-ò",
+        "phonological_basis": "17c Dominican orthography conversion: cûa (掛) -> kua³ / kuà; ùi (澳) -> ui² / uí; cûa (?) -> kua³ / kuà; ô (?) -> o³ / ò."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "lugar de recreación, y limpio ~",
+      "source_H": "清趣",
+      "source_M": "chêng chù",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "lugar de recreación, y limpio ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ³ tsu²",
+        "tai_lo_standard": "tsèng-tsú",
+        "phonological_basis": "17c Dominican orthography conversion: chêng (清) -> tseŋ³ / tsèng; chù (趣) -> tsu² / tsú."
+      }
+    }
+  ]
+}

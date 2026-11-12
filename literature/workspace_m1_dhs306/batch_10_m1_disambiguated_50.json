@@ -1,0 +1,2048 @@
+{
+  "batch_id": "batch_10_m1_disambiguated_50",
+  "provenance": "Certified v3.1 Final disambiguation for DHS entries 451 to 500",
+  "entries": [
+    {
+      "entry_id": "DHS1035-14",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1035,
+        "page_folio": 997,
+        "position_in_page": 14,
+        "bounding_box_hint": "row 14, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tocar. V. tentar",
+        "source_H": "[空]",
+        "source_M": "[空]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tocar, tentar [palpar con la mano]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "摸；以手摸索觸探；捫摸",
+        "en_disambiguated": "To touch, feel or grope with the hands.",
+        "syntactic_notes": "Tactile somatic action 摸 (bong)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "boŋ⁵",
+        "phonological_basis": "boŋ⁵ lower even tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "bong",
+        "moe_code": "04851",
+        "hanzi_standard": "摸"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Tactile sensory somatic verb."
+      }
+    },
+    {
+      "entry_id": "DHS1036-09",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1036,
+        "page_folio": 998,
+        "position_in_page": 9,
+        "bounding_box_hint": "row 09, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "tocar ut campanilla",
+        "source_H": "搖",
+        "source_M": "yo⟨橫⟩ chiong⟨右斜⟩ ia⟨左斜⟩ yah⟨上波折⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tocar ut campanilla [sonar campanilla]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "搖鐘；手搖擊鳴小銅鐘",
+        "en_disambiguated": "To ring a handbell, chime a small bell.",
+        "syntactic_notes": "Acoustic percussive bell ringing 搖鐘 (iô-tsing)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "io⁵ tsiŋ¹",
+        "phonological_basis": "io⁵ lower even; tsiŋ¹ upper even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "iô-tsing",
+        "moe_code": "04852",
+        "hanzi_standard": "搖鐘"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Bell ringing percussive action."
+      }
+    },
+    {
+      "entry_id": "DHS1036-11",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1036,
+        "page_folio": 998,
+        "position_in_page": 11,
+        "bounding_box_hint": "row 11, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "tocar tambor pᵃ pregonar",
+        "source_H": "打布鼓",
+        "source_M": "pa⟨∧交短支、c⟩ pou⟨∧⟩ cou⟨左斜⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tocar tambor p[ara] pregonar",
+        "abbreviations_expanded": [
+          {
+            "abbr": "pᵃ",
+            "expansion": "p[ara]"
+          }
+        ],
+        "zh_disambiguated": "打布鼓；擊打布鼓以申諭宣告；擊鼓宣令",
+        "en_disambiguated": "To beat a drum to proclaim public announcements.",
+        "syntactic_notes": "Civic proclamation percussive drumming 打布鼓."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (交叉入聲號)",
+          "T03 (尖頂帽)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "pʰaʔ⁷ pɔ³ ku³",
+        "phonological_basis": "pʰaʔ⁷ entering; pɔ³ upper departing; ku³ rising."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "phah-pòo-kóo",
+        "moe_code": "04853",
+        "hanzi_standard": "打布鼓"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Civic drum proclamation practice."
+      }
+    },
+    {
+      "entry_id": "DHS1036-13",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1036,
+        "page_folio": 998,
+        "position_in_page": 13,
+        "bounding_box_hint": "row 13, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "tocar una bacineta",
+        "source_H": "巡鑼",
+        "source_M": "sun⟨橫⟩ lo⟨橫⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tocar una bacineta [gong de ronda]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "巡鑼；巡夜擊鳴銅鑼以警宵禁",
+        "en_disambiguated": "To beat a brass basin / night watch gong on patrol.",
+        "syntactic_notes": "Night watch security practice 巡鑼 (sûn-lô)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "sun⁵ lo⁵",
+        "phonological_basis": "sun⁵ lower even; lo⁵ lower even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sûn-lô",
+        "moe_code": "04854",
+        "hanzi_standard": "巡鑼"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Night watch acoustic patrol."
+      }
+    },
+    {
+      "entry_id": "DHS1036-14",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1036,
+        "page_folio": 998,
+        "position_in_page": 14,
+        "bounding_box_hint": "row 14, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "tocar rauel de dos cuerdas",
+        "source_H": "挨二絃",
+        "source_M": "ey⟨右斜⟩ [刪音、濃墨?]⟨v⟩ hy⟨橫、n⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tocar rauel de dos cuerdas [erhu]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "挨二絃；拉拉兩絃胡琴；演奏二胡",
+        "en_disambiguated": "To bow the two-stringed fiddle (erhu).",
+        "syntactic_notes": "Musical bowed string performance 挨二絃 (e-jī-hiân)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T04 (凹角)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "e¹ dzi⁶ hian⁵",
+        "phonological_basis": "e¹ upper even; dzi⁶ lower departing; hian⁵ lower even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "e-jī-hiân",
+        "moe_code": "04855",
+        "hanzi_standard": "挨二絃"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Bowed musical instrument technique."
+      }
+    },
+    {
+      "entry_id": "DHS1036-21",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1036,
+        "page_folio": 998,
+        "position_in_page": 21,
+        "bounding_box_hint": "row 21, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "todos, omnes distribu- / tiue, [末刪字]",
+        "source_H": "諸",
+        "source_M": "chu⟨右斜⟩ distributiue",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "todos, omnes distributiue",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "諸位；諸般；凡諸眾人（眾位、諸般等全稱分指詞）",
+        "en_disambiguated": "All, everyone distributively; the whole multitude.",
+        "syntactic_notes": "「諸」為分指全稱量詞，常與「位/般」合為「諸位/諸般」，指代全體眾人。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsu¹ ui⁶",
+        "phonological_basis": "tsu¹ upper even tone; ui⁶ lower departing tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsu-uī",
+        "moe_code": "04856",
+        "hanzi_standard": "諸位"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Distributive universal quantifier compound."
+      }
+    },
+    {
+      "entry_id": "DHS1037-16",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1037,
+        "page_folio": 999,
+        "position_in_page": 16,
+        "bounding_box_hint": "row 16, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "todo, toda via",
+        "source_H": "心未死",
+        "source_M": "sim⟨右斜⟩ bue⟨v⟩ sy⟨左斜、濃墨難判⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "todo, todavia [mantener la esperanza]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "心未死；猶抱一線指望；心志尚存不死",
+        "en_disambiguated": "Still holding hope, not yet giving up interior desire.",
+        "syntactic_notes": "Psychological tenacity idiom 心未死 (sim-buē-sí)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T04 (凹角)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "sim¹ bue⁶ si³",
+        "phonological_basis": "sim¹ upper even; bue⁶ lower departing; si³ rising."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sim-buē-sí",
+        "moe_code": "04857",
+        "hanzi_standard": "心未死"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Interior psychological perseverance."
+      }
+    },
+    {
+      "entry_id": "DHS1037-19",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1037,
+        "page_folio": 999,
+        "position_in_page": 19,
+        "bounding_box_hint": "row 19, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "todo el mundo",
+        "source_H": "萬方",
+        "source_M": "ban⟨v⟩ hong⟨右斜⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "todo el mundo [todas las direcciones]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "萬方；天下四方萬國邦畿；普天之下",
+        "en_disambiguated": "All the world, the four corners of the earth.",
+        "syntactic_notes": "Cosmological political spatial idiom 萬方 (bān-hong)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "ban⁶ hoŋ¹",
+        "phonological_basis": "ban⁶ lower departing; hoŋ¹ upper even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "bān-hong",
+        "moe_code": "04858",
+        "hanzi_standard": "萬方"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Spatial universal domain."
+      }
+    },
+    {
+      "entry_id": "DHS1037-20",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1037,
+        "page_folio": 999,
+        "position_in_page": 20,
+        "bounding_box_hint": "row 20, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "todo el mundo.",
+        "source_H": "四散",
+        "source_M": "su⟨∧交短支⟩ san⟨∧⟩",
+        "source_R": "[西語圈聯20–23]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "todo el mundo [esparcido por doquier]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "四散；遍布各地各方；四面八方流散",
+        "en_disambiguated": "Everywhere in the world, widely dispersed.",
+        "syntactic_notes": "Spatial dispersion compound 四散 (sù-sàn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "su³ san³",
+        "phonological_basis": "su³ upper departing; san³ upper departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sù-sàn",
+        "moe_code": "04859",
+        "hanzi_standard": "四散"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Ubiquitous spatial dispersion."
+      }
+    },
+    {
+      "entry_id": "DHS1037-21",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1037,
+        "page_folio": 999,
+        "position_in_page": 21,
+        "bounding_box_hint": "row 21, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "todo el mundo",
+        "source_H": "凡世",
+        "source_M": "huan⟨v⟩ sy⟨∧交短支⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "todo el mundo [el siglo mortal]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "凡世；紅塵人世俗界；陽間俗世",
+        "en_disambiguated": "The mortal world, human temporal life.",
+        "syntactic_notes": "Cosmological secular realm 凡世 (huân-sè)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "huan⁵ se³",
+        "phonological_basis": "huan⁵ lower even; se³ upper departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "huân-sè",
+        "moe_code": "04860",
+        "hanzi_standard": "凡世"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Secular mortal cosmos."
+      }
+    },
+    {
+      "entry_id": "DHS1037-22",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1037,
+        "page_folio": 999,
+        "position_in_page": 22,
+        "bounding_box_hint": "row 22, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "todo el mundo.",
+        "source_H": "凡間",
+        "source_M": "huan⟨v⟩ can⟨右斜⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "todo el mundo [la tierra de los mortales]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "凡間；人寰人間天地；塵世",
+        "en_disambiguated": "The terrestrial realm of mortals, mundane earth.",
+        "syntactic_notes": "Cosmological human habitat 凡間 (huân-kan)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "huan⁵ kan¹",
+        "phonological_basis": "huan⁵ lower even; kan¹ upper even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "huân-kan",
+        "moe_code": "04861",
+        "hanzi_standard": "凡間"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Terrestrial sphere of mortals."
+      }
+    },
+    {
+      "entry_id": "DHS1038-10",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1038,
+        "page_folio": 1000,
+        "position_in_page": 10,
+        "bounding_box_hint": "row 10, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "todo lo q̃ yo tengo",
+        "source_H": "罄[?]我有",
+        "source_M": "queng⟨∧、c⟩ goa⟨左斜⟩ v⟨弧形⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "todo lo q[ue] yo tengo",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "罄我有；傾出我所有之資產金銀；悉數傾囊",
+        "en_disambiguated": "All that I possess, everything I have.",
+        "syntactic_notes": "Exhaustive possessive phrase 罄我有 (khìng-guá-ū)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T02 (降斜)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "kʰiŋ³ gua³ u⁶",
+        "phonological_basis": "kʰiŋ³ upper departing; gua³ rising; u⁶ lower departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "khìng-guá-ū",
+        "moe_code": "04862",
+        "hanzi_standard": "罄我有"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Exhaustive asset expenditure."
+      }
+    },
+    {
+      "entry_id": "DHS1038-22",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1038,
+        "page_folio": 1000,
+        "position_in_page": 22,
+        "bounding_box_hint": "row 22, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "todo doblado.",
+        "source_H": "重 々 尽",
+        "source_M": "tong⟨橫⟩ teng⟨橫⟩ chin⟨v⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "todo doblado, totalmente duplicado",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "重重盡；層層重疊全數包攬；周全重疊",
+        "en_disambiguated": "Completely doubled, manifoldly covered in full.",
+        "syntactic_notes": "Manifold descriptive 重重盡 (tiông-tiông-tsīn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T05 (平橫)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "tioŋ⁵ tioŋ⁵ tsin⁶",
+        "phonological_basis": "tioŋ⁵ lower even; tsin⁶ lower departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tiông-tiông-tsīn",
+        "moe_code": "04863",
+        "hanzi_standard": "重重盡"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Exhaustive duplication idiom."
+      }
+    },
+    {
+      "entry_id": "DHS1039-01",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1039,
+        "page_folio": 1001,
+        "position_in_page": 1,
+        "bounding_box_hint": "row 01, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "todo cierta mente",
+        "source_H": "宿信",
+        "source_M": "hioc[?]⟨交支形⟩ son⟨∧交短支⟩ : L sioc⟨交支形⟩ sin⟨∧⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "todo cierta mente, fidelidad arraigada",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "宿信；素有信諾無疑；積久篤實之信仰",
+        "en_disambiguated": "With absolute certainty, deep-rooted good faith.",
+        "syntactic_notes": "Moral and epistemic fidelity 宿信 (siok-sìn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (交叉入聲號)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "siok⁷ sin³",
+        "phonological_basis": "siok⁷ entering; sin³ upper departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "siok-sìn",
+        "moe_code": "04864",
+        "hanzi_standard": "宿信"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Fidelity and certainty concept."
+      }
+    },
+    {
+      "entry_id": "DHS1039-02",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1039,
+        "page_folio": 1001,
+        "position_in_page": 2,
+        "bounding_box_hint": "row 02, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "todo y todas sus fuerzas.",
+        "source_H": "十分",
+        "source_M": "chap⟨v交短支⟩ hun⟨右斜⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "todo y todas sus fuerzas [por entero]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "十分；十分氣力全無保留；盡心竭力",
+        "en_disambiguated": "With all one's might, one hundred percent.",
+        "syntactic_notes": "Quantitative completeness adverbial 十分 (tsa̍p-hun)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (交叉入聲號)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsap⁸ hun¹",
+        "phonological_basis": "tsap⁸ entering; hun¹ upper even tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsa̍p-hun",
+        "moe_code": "04865",
+        "hanzi_standard": "十分"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Complete intensity quantifier."
+      }
+    },
+    {
+      "entry_id": "DHS1039-06",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1039,
+        "page_folio": 1001,
+        "position_in_page": 6,
+        "bounding_box_hint": "row 06, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "todo junto monta en lo que monta.",
+        "source_H": "總算",
+        "source_M": "chong⟨∧、濃墨⟩ suan[?]⟨∧交短支、n⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "todo junto monta en lo que monta",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "總算；合併統計總合；總計相加",
+        "en_disambiguated": "All combined totals up, the aggregate grand sum.",
+        "syntactic_notes": "Accounting aggregation verb 總算 (tsóng-sǹg)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsoŋ³ sŋ³",
+        "phonological_basis": "tsoŋ³ rising; sŋ³ upper departing syllabic nasal."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsóng-sǹg",
+        "moe_code": "04866",
+        "hanzi_standard": "總算"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Fiscal tallying calculation."
+      }
+    },
+    {
+      "entry_id": "DHS1039-13",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1039,
+        "page_folio": 1001,
+        "position_in_page": 13,
+        "bounding_box_hint": "row 13, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tolba de molino &c.",
+        "source_H": "磨井",
+        "source_M": "bo⟨弧形交短支⟩ che⟨左斜、n⟩",
+        "source_R": "[b覆筆]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tolba de molino [tolva]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "磨井；石磨承接穀物之漏斗漏井",
+        "en_disambiguated": "Mill hopper, grain intake well above millstones.",
+        "syntactic_notes": "Milling machinery component 磨井 (bō-tsénn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "bo⁶ tseŋ³",
+        "phonological_basis": "bo⁶ lower departing; tseŋ³ nasalized rising."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "bō-tsénn",
+        "moe_code": "04867",
+        "hanzi_standard": "磨井"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Grain milling intake hopper."
+      }
+    },
+    {
+      "entry_id": "DHS1039-14",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1039,
+        "page_folio": 1001,
+        "position_in_page": 14,
+        "bounding_box_hint": "row 14, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "tolba de molino.",
+        "source_H": "磨喉",
+        "source_M": "bo⟨弧形交短支⟩ au⟨橫⟩",
+        "source_R": "[西語圈聯14–16；b覆筆]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tolba de molino [embudo]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "磨喉；石磨下料之通喉咽道",
+        "en_disambiguated": "Mill funnel throat, conduit delivering grain to grinding stones.",
+        "syntactic_notes": "Anatomical mill mechanism 磨喉 (bō-âu)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "bo⁶ au⁵",
+        "phonological_basis": "bo⁶ lower departing; au⁵ lower even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "bō-âu",
+        "moe_code": "04868",
+        "hanzi_standard": "磨喉"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Mill funnel passage."
+      }
+    },
+    {
+      "entry_id": "DHS1039-18",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1039,
+        "page_folio": 1001,
+        "position_in_page": 18,
+        "bounding_box_hint": "row 18, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Toldilla",
+        "source_H": "帳",
+        "source_M": "tio⟨∧交短支、n⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Toldilla [toldo de barca]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "帳；船篷遮陽擋雨之布帳席篷",
+        "en_disambiguated": "Boat awning, canvas sunshade canopy over deck.",
+        "syntactic_notes": "Nautical textile fitting 帳 (tiùnn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "tiuŋ³",
+        "phonological_basis": "tiuŋ³ upper departing nasalized tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tiùnn",
+        "moe_code": "04869",
+        "hanzi_standard": "帳"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Nautical awning canvas."
+      }
+    },
+    {
+      "entry_id": "DHS1039-19",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1039,
+        "page_folio": 1001,
+        "position_in_page": 19,
+        "bounding_box_hint": "row 19, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tollo",
+        "source_H": "沙",
+        "source_M": "soa⟨右斜⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tollo [cazón / tiburón pequeño]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "沙；鮫鯊魚類之總稱；沙魚",
+        "en_disambiguated": "Dogfish, small shark.",
+        "syntactic_notes": "Ichthyological marine predator monosyllable 沙 (sua)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "sua¹",
+        "phonological_basis": "sua¹ upper even tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sua",
+        "moe_code": "04870",
+        "hanzi_standard": "沙"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Ichthyological elasmobranch term."
+      }
+    },
+    {
+      "entry_id": "DHS1039-20",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1039,
+        "page_folio": 1001,
+        "position_in_page": 20,
+        "bounding_box_hint": "row 20, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "tollo",
+        "source_H": "沙魚",
+        "source_M": "soa⟨右斜⟩ hu⟨橫⟩",
+        "source_R": "[西語圈]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tollo [pez cazón]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "沙魚；鯊魚海魚名",
+        "en_disambiguated": "Dogfish shark, small marine selachian fish.",
+        "syntactic_notes": "Compound marine name 沙魚 (sua-hî)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "sua¹ hi⁵",
+        "phonological_basis": "sua¹ upper even; hi⁵ lower even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sua-hî",
+        "moe_code": "04871",
+        "hanzi_standard": "沙魚"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Marine shark compound."
+      }
+    },
+    {
+      "entry_id": "DHS1040-02",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1040,
+        "page_folio": 1002,
+        "position_in_page": 2,
+        "bounding_box_hint": "row 02, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "tomar con la mano ut pluma utᵃ",
+        "source_H": "執",
+        "source_M": "quim⟨v⟩ : L chip⟨交支形⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tomar con la mano ut pluma",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "執；手把管筆書翰；秉筆執筆",
+        "en_disambiguated": "To hold with hand, wield a brush or pen.",
+        "syntactic_notes": "Manual pen-holding action 執 (tsip)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsip⁷",
+        "phonological_basis": "tsip⁷ entering tone with bilabial stop."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsip",
+        "moe_code": "04872",
+        "hanzi_standard": "執"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Manual utensil manipulation."
+      }
+    },
+    {
+      "entry_id": "DHS1040-09",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1040,
+        "page_folio": 1002,
+        "position_in_page": 9,
+        "bounding_box_hint": "row 09, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "tomar residencia",
+        "source_H": "查",
+        "source_M": "che⟨右斜⟩",
+        "source_R": "[空]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tomar residencia [inspección de magistrado]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "查；稽查考覈官員政績；盤查官常",
+        "en_disambiguated": "To conduct residency audit of an official.",
+        "syntactic_notes": "Administrative audit verb 查 (tsê)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "tse⁵",
+        "phonological_basis": "tse⁵ lower even tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsê",
+        "moe_code": "04873",
+        "hanzi_standard": "查"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Administrative bureaucratic inspection."
+      }
+    },
+    {
+      "entry_id": "DHS1041-03",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1041,
+        "page_folio": 1003,
+        "position_in_page": 3,
+        "bounding_box_hint": "row 03, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "[西語欄空]",
+        "source_H": "[口言形字未辨] 脈",
+        "source_M": "[音欄空]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tomar el pulso [diagnóstico médico]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "問脈；按切手腕診察脈息",
+        "en_disambiguated": "To feel the patient's pulse, diagnose pulse condition.",
+        "syntactic_notes": "Traditional Chinese diagnostic practice 問脈 (mn̄g-meh)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)",
+          "T06/T07 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "mŋ⁶ meʔ⁸",
+        "phonological_basis": "mŋ⁶ lower departing syllabic nasal; meʔ⁸ entering."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "mn̄g-meh",
+        "moe_code": "04874",
+        "hanzi_standard": "問脈"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Traditional medical pulse examination."
+      }
+    },
+    {
+      "entry_id": "DHS1041-05",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1041,
+        "page_folio": 1003,
+        "position_in_page": 5,
+        "bounding_box_hint": "row 05, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tomolo y no lo empuño [末字疑]",
+        "source_H": "打 不 帶",
+        "source_M": "páᶜ m̌ toâ [首調升斜附支；末調重墨附筆]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tomolo y no lo empuño",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "打不帶；抓握不牢以致脫手；徒然撲捉",
+        "en_disambiguated": "To grab at something but fail to grip it securely.",
+        "syntactic_notes": "Somatic manual failure phrase 打不帶."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (交叉入聲號)",
+          "T04 (凹角)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "pʰaʔ⁷ m⁶ tua³",
+        "phonological_basis": "pʰaʔ⁷ entering; m⁶ syllabic negative; tua³ departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "phah-m̄-tuà",
+        "moe_code": "04875",
+        "hanzi_standard": "打不帶"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Somatic grip failure phrase."
+      }
+    },
+    {
+      "entry_id": "DHS1041-06",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1041,
+        "page_folio": 1003,
+        "position_in_page": 6,
+        "bounding_box_hint": "row 06, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tomarse las aues —",
+        "source_H": "相 踏",
+        "source_M": "sió tá [末調大交叉]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tomarse las aues [copulación de aves]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "相踏；禽鳥交配行房；交尾",
+        "en_disambiguated": "Mating / treading of birds.",
+        "syntactic_notes": "Avian copulation verb phrase 相踏 (sio-ta̍h)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T06/T07 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "sio¹ taʔ⁸",
+        "phonological_basis": "sio¹ upper even; taʔ⁸ entering tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sio-ta̍h",
+        "moe_code": "04876",
+        "hanzi_standard": "相踏"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Avian copulation biological verb."
+      }
+    },
+    {
+      "entry_id": "DHS1041-07",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1041,
+        "page_folio": 1003,
+        "position_in_page": 7,
+        "bounding_box_hint": "row 07, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tomarse los animales.",
+        "source_H": "相 帶",
+        "source_M": "sió toâ",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tomarse los animales [apareamiento de cuadrúpedos]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "相帶；獸類交尾配種",
+        "en_disambiguated": "Mating of quadrupeds, copulation of beasts.",
+        "syntactic_notes": "Mammalian mating verb phrase 相帶 (sio-tuà)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "sio¹ tua³",
+        "phonological_basis": "sio¹ upper even; tua³ upper departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sio-tuà",
+        "moe_code": "04877",
+        "hanzi_standard": "相帶"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Mammalian zoological copulation."
+      }
+    },
+    {
+      "entry_id": "DHS1041-11",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1041,
+        "page_folio": 1003,
+        "position_in_page": 11,
+        "bounding_box_hint": "row 11, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tomar medicina pᵃ el fuego",
+        "source_H": "降 火",
+        "source_M": "câng huè.",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tomar medicina p[ara] el fuego [purgar calor]",
+        "abbreviations_expanded": [
+          {
+            "abbr": "pᵃ",
+            "expansion": "p[ara]"
+          }
+        ],
+        "zh_disambiguated": "降火；服用涼藥以清泄內熱瀉火",
+        "en_disambiguated": "To take herbal medicine to clear internal heat / reduce inflammation.",
+        "syntactic_notes": "Chinese medical therapeutic action 降火 (kàng-hué)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "kaŋ³ hue³",
+        "phonological_basis": "kaŋ³ upper departing; hue³ rising tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "kàng-hué",
+        "moe_code": "04878",
+        "hanzi_standard": "降火"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Traditional medical heat-clearing therapy."
+      }
+    },
+    {
+      "entry_id": "DHS1041-12",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1041,
+        "page_folio": 1003,
+        "position_in_page": 12,
+        "bounding_box_hint": "row 12, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tomar residencia —",
+        "source_H": "考 察",
+        "source_M": "còᶜ chátᶜ [末調升斜附支]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tomar residencia [evaluación oficial]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "考察；考覈地方官長操守賢否",
+        "en_disambiguated": "To conduct official performance evaluation of magistrates.",
+        "syntactic_notes": "Civil service evaluation 考察 (khó-tshat)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T06/T07 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "kʰo³ tsʰat⁷",
+        "phonological_basis": "kʰo³ rising; tsʰat⁷ entering tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "khó-tshat",
+        "moe_code": "04879",
+        "hanzi_standard": "考察"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Civil service administrative review."
+      }
+    },
+    {
+      "entry_id": "DHS1041-13",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1041,
+        "page_folio": 1003,
+        "position_in_page": 13,
+        "bounding_box_hint": "row 13, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tomar residencia.",
+        "source_H": "查 判",
+        "source_M": "ché poáⁿ.",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tomar residencia [fallo de auditoría]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "查判；清查勘問官員任內案牘並下裁決",
+        "en_disambiguated": "To audit and judge an official's administrative record.",
+        "syntactic_notes": "Judicial administrative evaluation compound 查判 (tsê-phuànn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "tse⁵ pʰuan³",
+        "phonological_basis": "tse⁵ lower even; pʰuan³ upper departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsê-phuànn",
+        "moe_code": "04880",
+        "hanzi_standard": "查判"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Judicial bureaucratic audit."
+      }
+    },
+    {
+      "entry_id": "DHS1041-21",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1041,
+        "page_folio": 1003,
+        "position_in_page": 21,
+        "bounding_box_hint": "row 21, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tomar señal.",
+        "source_H": "提 定",
+        "source_M": "těᶜ tiǎⁿ [首調附支；末調交叉]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tomar señal [recibir fianza / arras]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "提定；收取定銀立下誓約信物",
+        "en_disambiguated": "To take an earnest deposit / binder token in transactions.",
+        "syntactic_notes": "Commercial contract earnest phrase 提定 (the̍h-tiānn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (交叉入聲號)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "tʰeʔ⁸ tiaŋ⁶",
+        "phonological_basis": "tʰeʔ⁸ entering; tiaŋ⁶ lower departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "the̍h-tiānn",
+        "moe_code": "04881",
+        "hanzi_standard": "提定"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Commercial contract token receipt."
+      }
+    },
+    {
+      "entry_id": "DHS1042-12",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1042,
+        "page_folio": 1004,
+        "position_in_page": 12,
+        "bounding_box_hint": "row 12, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tomar el gusto a lo q̃ saue —",
+        "source_H": "出 味",
+        "source_M": "chútᶜ bǐ [首調重墨交叉]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tomar el gusto a lo q[ue] saue",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "出味；彰顯滋味芬芳；透出甘美氣息",
+        "en_disambiguated": "To bring out the flavor, savor delicious taste.",
+        "syntactic_notes": "Gustatory culinary expression 出味 (tshut-bī)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (交叉入聲號)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰut⁷ bi⁶",
+        "phonological_basis": "tsʰut⁷ entering; bi⁶ lower departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tshut-bī",
+        "moe_code": "04882",
+        "hanzi_standard": "出味"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Gustatory flavor development."
+      }
+    },
+    {
+      "entry_id": "DHS1043-02",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1043,
+        "page_folio": 1005,
+        "position_in_page": 2,
+        "bounding_box_hint": "row 02, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tomo 2. del Siúguéng. [書名連寫疑]",
+        "source_H": "重 陽",
+        "source_M": "tióng iōng.",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tomo 2 del Siúguéng [segundo tomo / volumen]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "重陽；文集或善書第二卷重陽帙",
+        "en_disambiguated": "Volume 2 of the literary collection (Chongyang fascicle).",
+        "syntactic_notes": "Bibliographical book division 重陽 (tiông-iông)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "tioŋ⁵ ioŋ⁵",
+        "phonological_basis": "tioŋ⁵ lower even; ioŋ⁵ lower even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tiông-iông",
+        "moe_code": "04883",
+        "hanzi_standard": "重陽"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Bibliographical fascicle volume."
+      }
+    },
+    {
+      "entry_id": "DHS1043-07",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1043,
+        "page_folio": 1005,
+        "position_in_page": 7,
+        "bounding_box_hint": "row 07, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tonel, o tenada. [tenada 疑]",
+        "source_H": "桶",
+        "source_M": "tàngᶜ",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tonel, o tenada [cuba de madera]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "桶；盛水裝油之大木圓桶",
+        "en_disambiguated": "Barrel, cask, wooden tub.",
+        "syntactic_notes": "Cooperage wooden container 桶 (tháng)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "tʰaŋ³",
+        "phonological_basis": "tʰaŋ³ aspirated rising tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tháng",
+        "moe_code": "04884",
+        "hanzi_standard": "桶"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Cooperage liquid cask."
+      }
+    },
+    {
+      "entry_id": "DHS1043-08",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1043,
+        "page_folio": 1005,
+        "position_in_page": 8,
+        "bounding_box_hint": "row 08, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tonel o tenada —",
+        "source_H": "水 桶",
+        "source_M": "chuì tàngᶜ.",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tonel o tenada, cubo de agua",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "水桶；汲水盛水之木桶",
+        "en_disambiguated": "Water bucket, wooden water cask.",
+        "syntactic_notes": "Domestic liquid container 水桶 (tsuí-tháng)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsui³ tʰaŋ³",
+        "phonological_basis": "tsui³ rising; tʰaŋ³ rising tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsuí-tháng",
+        "moe_code": "04885",
+        "hanzi_standard": "水桶"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Domestic water conveyance vessel."
+      }
+    },
+    {
+      "entry_id": "DHS1044-09",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1044,
+        "page_folio": 1006,
+        "position_in_page": 9,
+        "bounding_box_hint": "row 09, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Torcer como soga — o liton: [末詞疑]",
+        "source_H": "挼 [右妥形疑]",
+        "source_M": "pǐⁿ só ià : pǐⁿ līn tuìⁿ [第二 pǐ 調及 līn 重墨]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Torcer como soga o liston",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "挼索；搓轉麻線綯擰麻繩",
+        "en_disambiguated": "To twist cord, twine rope or braided band.",
+        "syntactic_notes": "Rope-making cordage action 挼索 (jiô-soh)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T06/T07 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "dzo⁵ soʔ⁷",
+        "phonological_basis": "dzo⁵ lower even; soʔ⁷ entering tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "jiô-soh",
+        "moe_code": "04886",
+        "hanzi_standard": "挼索"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Cordage twisting action."
+      }
+    },
+    {
+      "entry_id": "DHS1044-19",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1044,
+        "page_folio": 1006,
+        "position_in_page": 19,
+        "bounding_box_hint": "row 19, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tordo —",
+        "source_H": "鴉 鴒 [末字形疑]",
+        "source_M": "cá lěng [末調尖峰拖尾]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tordo [mirlo / tordo]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "鴉鴒；黑色鶇科斑鳩野鳥",
+        "en_disambiguated": "Thrush, blackbird, spotted dove.",
+        "syntactic_notes": "Ornithological wild bird species 鴉鴒 (a-līng)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "a¹ liŋ⁵",
+        "phonological_basis": "a¹ upper even; liŋ⁵ lower even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "a-līng",
+        "moe_code": "04887",
+        "hanzi_standard": "鴉鴒"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Avian species identification."
+      }
+    },
+    {
+      "entry_id": "DHS1045-01",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1045,
+        "page_folio": 1007,
+        "position_in_page": 1,
+        "bounding_box_hint": "row 01, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tormenta — q̃ biento",
+        "source_H": "飄",
+        "source_M": "piáuᶜ",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tormenta, q[ue] biento [borrasca]",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "飄；暴風怒號；陣風颳起",
+        "en_disambiguated": "Squall, storm gale, gusty blast.",
+        "syntactic_notes": "Meteorological wind verb 飄 (phiau)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "pʰiau¹",
+        "phonological_basis": "pʰiau¹ upper even tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "phiau",
+        "moe_code": "04888",
+        "hanzi_standard": "飄"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Meteorological gust phenomenon."
+      }
+    },
+    {
+      "entry_id": "DHS1045-02",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1045,
+        "page_folio": 1007,
+        "position_in_page": 2,
+        "bounding_box_hint": "row 02, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tormenta — q̃. uiento.",
+        "source_H": "風 飄",
+        "source_M": "hóng piáuᶜ.",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tormenta, q[ue] uiento tempestuoso",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "風飄；狂颮飄風之海上風暴",
+        "en_disambiguated": "Stormy gale, tempestuous maritime wind.",
+        "syntactic_notes": "Meteorological compound 風飄 (hong-phiau)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "hoŋ¹ pʰiau¹",
+        "phonological_basis": "hoŋ¹ upper even; pʰiau¹ upper even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "hong-phiau",
+        "moe_code": "04889",
+        "hanzi_standard": "風飄"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Maritime storm gale."
+      }
+    },
+    {
+      "entry_id": "DHS1045-09",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1045,
+        "page_folio": 1007,
+        "position_in_page": 9,
+        "bounding_box_hint": "row 09, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tornarse q̃ reducirse",
+        "source_H": "歸",
+        "source_M": "[刪字] cuý;",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tornarse, q[ue] reducirse a lo pristino",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "歸；回歸原位；還元於本初",
+        "en_disambiguated": "To revert, return to original status or place.",
+        "syntactic_notes": "Restitution verb 歸 (kui)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "kui¹",
+        "phonological_basis": "kui¹ upper even tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "kui",
+        "moe_code": "04890",
+        "hanzi_standard": "歸"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Restitution reversion verb."
+      }
+    },
+    {
+      "entry_id": "DHS1045-11",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1045,
+        "page_folio": 1007,
+        "position_in_page": 11,
+        "bounding_box_hint": "row 11, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "tornar el resuello atras —",
+        "source_H": "退 氣",
+        "source_M": "tèᶜ quìᶜ [兩調交叉重墨]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tornar el resuello atras",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "退氣；心驚回過氣息；倒抽涼氣",
+        "en_disambiguated": "To catch one's breath, gasp back breath in shock.",
+        "syntactic_notes": "Respiratory somatic reflex 退氣 (thè-khì)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "tʰe³ kʰi³",
+        "phonological_basis": "tʰe³ upper departing; kʰi³ upper departing."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "thè-khì",
+        "moe_code": "04891",
+        "hanzi_standard": "退氣"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Respiratory gasp reflex."
+      }
+    },
+    {
+      "entry_id": "DHS1045-12",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1045,
+        "page_folio": 1007,
+        "position_in_page": 12,
+        "bounding_box_hint": "row 12, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Tornasol: q̃. flor —",
+        "source_H": "[右欄空]",
+        "source_M": "",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Tornasol, q[ue] flor heliotropo",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "向日葵；朝向太陽轉動之葵花",
+        "en_disambiguated": "Sunflower, heliotrope flower turning with the sun.",
+        "syntactic_notes": "Botanical flora noun 向日葵 (hiòng-ji̍t-khuî)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T06/T07 (交叉入聲號)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "hioŋ³ dzit⁸ kʰui⁵",
+        "phonological_basis": "hioŋ³ departing; dzit⁸ entering; kʰui⁵ lower even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "hiòng-ji̍t-khuî",
+        "moe_code": "04892",
+        "hanzi_standard": "向日葵"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Heliotropic botanical species."
+      }
+    },
+    {
+      "entry_id": "DHS1045-15",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1045,
+        "page_folio": 1007,
+        "position_in_page": 15,
+        "bounding_box_hint": "row 15, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Torno — carro id. coche [小字]",
+        "source_H": "車",
+        "source_M": "chiáᶜ.",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Torno, carro, coche",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "車；輪軸旋轉器具；車輛",
+        "en_disambiguated": "Wheel, lathe axle, vehicle or wagon.",
+        "syntactic_notes": "Mechanical rotary apparatus 車 (tshia)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰia¹",
+        "phonological_basis": "tsʰia¹ upper even tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tshia",
+        "moe_code": "04893",
+        "hanzi_standard": "車"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Mechanical wheel carriage."
+      }
+    },
+    {
+      "entry_id": "DHS1045-18",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1045,
+        "page_folio": 1007,
+        "position_in_page": 18,
+        "bounding_box_hint": "row 18, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Torno de prensa —",
+        "source_H": "[漢字空]",
+        "source_M": "cà cuý [重刪一段未辨] q̃.",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Torno de prensa [torno para apretar]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "夾梃；木質壓榨機旋緊機件",
+        "en_disambiguated": "Screw-press winch, spindle bar of a press.",
+        "syntactic_notes": "Press mechanism part 夾梃."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (交叉入聲號)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "kaʔ⁷ tʰiŋ³",
+        "phonological_basis": "kaʔ⁷ entering tone; tʰiŋ³ rising tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "kah-thíng",
+        "moe_code": "04894",
+        "hanzi_standard": "夾梃"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Screw press mechanical fitting."
+      }
+    },
+    {
+      "entry_id": "DHS1045-19",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1045,
+        "page_folio": 1007,
+        "position_in_page": 19,
+        "bounding_box_hint": "row 19, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Torongil [圈刪；詞形疑]. Las muescas del torno.",
+        "source_H": "[漢字空]",
+        "source_M": "choǎn [重墨調] lī ;",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Las muescas del torno",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "轉齒；旋床轉軸凹槽齒紋",
+        "en_disambiguated": "Cogs / notches of a lathe spindle.",
+        "syntactic_notes": "Machine cog notches 轉齒 (tsuán-khí)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsuan³ kʰi³",
+        "phonological_basis": "tsuan³ rising; kʰi³ rising tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsuán-khí",
+        "moe_code": "04895",
+        "hanzi_standard": "轉齒"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Lathe cog gear notch."
+      }
+    },
+    {
+      "entry_id": "DHS1046-09",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1046,
+        "page_folio": 1008,
+        "position_in_page": 9,
+        "bounding_box_hint": "row 09, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "tortillas de miel y ahonholi —",
+        "source_H": "餅",
+        "source_M": "piàⁿ : hióⁿ piàⁿ",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tortillas de miel y ahonholi [ajonjolí]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "香餅；芝麻蜂蜜烘焙油酥甜薄餅",
+        "en_disambiguated": "Sesame and honey flat pastry, sweet crisp cake.",
+        "syntactic_notes": "Culinary baked sweet cake 香餅 (hiunn-piánn)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "hioŋ¹ piaŋ³",
+        "phonological_basis": "hioŋ¹ upper even; piaŋ³ nasalized rising."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "hiunn-piánn",
+        "moe_code": "04896",
+        "hanzi_standard": "香餅"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Traditional confectionery pastry."
+      }
+    },
+    {
+      "entry_id": "DHS1047-07",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1047,
+        "page_folio": 1009,
+        "position_in_page": 7,
+        "bounding_box_hint": "row 07, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "toser pª. la [連寫疑] de un habla / que bo… [下行未辨]",
+        "source_H": "整 聲",
+        "source_M": "chèng siáⁿ.",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "toser p[ara] la [limpieza de voz] antes de hablar",
+        "abbreviations_expanded": [
+          {
+            "abbr": "pᵃ",
+            "expansion": "p[ara]"
+          }
+        ],
+        "zh_disambiguated": "整聲；說話前咳嗽清嗓正音",
+        "en_disambiguated": "To clear one's throat / cough before speaking.",
+        "syntactic_notes": "Vocal respiratory preparation 整聲 (tsíng-siann)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsiŋ³ siaŋ¹",
+        "phonological_basis": "tsiŋ³ rising; siaŋ¹ upper even nasalized."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsíng-siann",
+        "moe_code": "04897",
+        "hanzi_standard": "整聲"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Vocal clearance gesture."
+      }
+    },
+    {
+      "entry_id": "DHS1047-08",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1047,
+        "page_folio": 1009,
+        "position_in_page": 8,
+        "bounding_box_hint": "row 08, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "toser — ides —",
+        "source_H": "整 喉",
+        "source_M": "chèng āu. tos dentro el gaznate.",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "toser, tos dentro el gaznate",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "整喉；咽喉內乾咳清嗓",
+        "en_disambiguated": "To hack, cough within the throat / trachea.",
+        "syntactic_notes": "Throat clearing action 整喉 (tsíng-âu)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsiŋ³ au⁵",
+        "phonological_basis": "tsiŋ³ rising; au⁵ lower even."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsíng-âu",
+        "moe_code": "04898",
+        "hanzi_standard": "整喉"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Laryngeal respiratory clearance."
+      }
+    },
+    {
+      "entry_id": "DHS1047-09",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1047,
+        "page_folio": 1009,
+        "position_in_page": 9,
+        "bounding_box_hint": "row 09, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "toser — ides —",
+        "source_H": "嗽 嗽 [首字口+欶形疑]",
+        "source_M": "càmᶜ saù : còmᶜ saù id. [saù 調尖峰附支]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "toser, toser repetidamente",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "嗽嗽；頻頻作嗽；連聲咳嗽",
+        "en_disambiguated": "To cough repeatedly, hacking cough.",
+        "syntactic_notes": "Reduplicated cough onomatopoeia 嗽嗽 (sàu-sàu)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "sau³ sau³",
+        "phonological_basis": "sau³ upper departing tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sàu-sàu",
+        "moe_code": "04899",
+        "hanzi_standard": "嗽嗽"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Repetitive respiratory coughing."
+      }
+    },
+    {
+      "entry_id": "DHS1047-11",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1047,
+        "page_folio": 1009,
+        "position_in_page": 11,
+        "bounding_box_hint": "row 11, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "tostar en carahay —",
+        "source_H": "炒",
+        "source_M": "chàᶜ.",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "tostar en carahay [wok]",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "炒；鐵鍋熱油翻炒乾焙；煸炒",
+        "en_disambiguated": "To stir-fry or parch in a wok / carahay.",
+        "syntactic_notes": "Culinary stir-frying verb 炒 (tshá)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰa³",
+        "phonological_basis": "tsʰa³ rising tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tshá",
+        "moe_code": "04900",
+        "hanzi_standard": "炒"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Culinary wok stir-frying action."
+      }
+    }
+  ]
+}

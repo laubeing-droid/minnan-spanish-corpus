@@ -1,0 +1,59 @@
+{
+  "ledger_type": "PENDING_OPERATIONS",
+  "description": "尚未执行工序账：尚未完成L层、H层、MOE层或双盲复核的空标签队列，严防假阳性",
+  "entries": [
+    {
+      "queue_name": "DHS_306P_L_LAYER_COMPLETION",
+      "target": "DHS p.835-1140 (306 pages)",
+      "total_main_positions": 5762,
+      "core_completed": 5106,
+      "pending_count": 656,
+      "breakdown": {
+        "partial": 499,
+        "candidate": 135,
+        "untranslated": 22
+      },
+      "status": "IN_PROGRESS",
+      "active_batch": {
+        "batch_id": "M1_BATCH_01_PARTIAL_50",
+        "disambiguated_file": "literature/workspace_m1_dhs306/batch_01_m1_disambiguated_50.json",
+        "completed_count": 50,
+        "remaining_gaps": 606
+      }
+    },
+    {
+      "queue_name": "DHS_805P_BLIND_READING_M2",
+      "target": "DHS p.001-834 (805 pages / 834 PDF pages)",
+      "status": "IN_PROGRESS",
+      "active_batch": {
+        "batch_id": "M2_BATCH_01",
+        "pages_sliced": [40, 41, 42, 43, 44],
+        "layout_breakdown": {
+          "pdf_0040": "2_MAIN_COLUMN_NO_HANZI (orig p.11, final page of 18th-c. hand)",
+          "pdf_0041_0044": "4_COLUMN_STANDARD (orig pp.12-15, inaugural 17th-c. manuscript)"
+        },
+        "locked_blind_reads": [
+          {
+            "pdf_page": 41,
+            "historical_folio": 12,
+            "positions_count": 21,
+            "blind_first_read_sha256": "f3a77b52fde4e4c86a9a0b0e02d2a51290b2af402f79eebddde476e9a3ebb5b3",
+            "file": "literature/workspace_m2_dhs834/blind_read_p0041.json"
+          }
+        ]
+      }
+    },
+    {
+      "queue_name": "DHS_306P_MOE_TAILO_REASSESSMENT",
+      "target": "DHS p.835-1140 (306 pages)",
+      "p835_859_status": {
+        "core": 38,
+        "partial": 183,
+        "candidate": 156,
+        "unreviewed": 106
+      },
+      "p860_1140_status": "PENDING_PHONOLOGY_ALIGNMENT",
+      "status": "QUEUED_FOR_M1"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "pdf_page": 2,
+  "source": "/workspace/shared/minnan_transcription/hab_91_2_extrav_06/page_records/pdf_002.md",
+  "source_sha256": "80a8da07311e66d3ff29ad20e1640c4c3e33424c0a2bda81f8d2232b33282922",
+  "image": "/workspace/shared/minnan_transcription/hab_91_2_extrav_06/pdf_renders/pdf_002.png",
+  "image_sha256": "5278dce0ba70dc055453e13c496c3a866a7934b101935ec69faeb6602867d1d0",
+  "body": "/workspace/shared/minnan_transcription/hab_91_2_extrav_06/method_transfer_v3/release/final_text/pdf_002.md",
+  "body_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+  "visually_reviewed": true,
+  "full_text_verified": false,
+  "finding": "实际看PDF第二张渲染。上部HTML示例可见实体转义字符，下部b)共享条件，末行Der Direktor (2013-03-01)。现代说明层，非手稿正文。",
+  "changes": [],
+  "source_lines": [
+    {
+      "source_line": 1,
+      "source_text": "# PDF 002：许可续页视觉记录",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    },
+    {
+      "source_line": 2,
+      "source_text": "",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    },
+    {
+      "source_line": 3,
+      "source_text": "视觉可见互联网HTML署名示例、同方式共享条件、联系地址、末行 Der Direktor (2013-03-01)。许可页按授权只做视觉记录，未全文重抄。来源：源PDF第2页的渲染图。",
+      "body_line": null,
+      "new_text": null,
+      "disposition": "editorial_or_other_layer"
+    }
+  ]
+}

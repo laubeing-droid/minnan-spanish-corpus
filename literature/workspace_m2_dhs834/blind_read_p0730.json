@@ -1,0 +1,487 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 730,
+  "historical_folio": 696,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0730/pdf_0730_300dpi.png",
+  "page_header": "O. ante",
+  "page_footer_printed": "- 696 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 23,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "gvst [疑:gvst/gvja] (加圈)",
+      "source_H": "訢 [疑:訢/新]",
+      "source_M": "grüān [疑:grüān/guān] (加圈)",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "gvst (加圈)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gr³ an⁶ gr¹ an⁶ guan⁶",
+        "tai_lo_standard": "gr̀-ān-gr-ān-guān",
+        "phonological_basis": "17c Dominican orthography conversion: gr (訢) -> gr³ / gr̀; ān (?) -> an⁶ / ān; gr (?) -> gr¹ / gr; ān (?) -> an⁶ / ān; guān (?) -> guan⁶ / guān."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "ojos.",
+      "source_H": "眼",
+      "source_M": "gã : gien",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gã¹ gien³",
+        "tai_lo_standard": "gann-gièn",
+        "phonological_basis": "17c Dominican orthography conversion: gã (眼) -> gã¹ / gann; gien (?) -> gien³ / gièn."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "ojos de aguja~",
+      "source_H": "鼻",
+      "source_M": "py chiam",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos de aguja~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pi² tsiam¹",
+        "tai_lo_standard": "pí-tsiam",
+        "phonological_basis": "17c Dominican orthography conversion: py (鼻) -> pi² / pí; chiam (?) -> tsiam¹ / tsiam."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "ojos de aguja~ (加圈)",
+      "source_H": "穿空",
+      "source_M": "chay cañ",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos de aguja~ (加圈)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsai³ kʰãn⁵",
+        "tai_lo_standard": "tsài-khân",
+        "phonological_basis": "17c Dominican orthography conversion: chay (穿) -> tsai³ / tsài; cañ (空) -> kʰãn⁵ / khân."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "ojos~",
+      "source_H": "目瞷 [疑:瞷/睭]",
+      "source_M": "baç chiu. (加圈)",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba² tsiu¹",
+        "tai_lo_standard": "bá-tsiu",
+        "phonological_basis": "17c Dominican orthography conversion: ba (目) -> ba² / bá; chiu (瞷) -> tsiu¹ / tsiu."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "ojos hundidos~",
+      "source_H": "目空凹",
+      "source_M": "baç cañ tap",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos hundidos~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba² kʰãn⁵ tap⁷",
+        "tai_lo_standard": "bá-khân-tap",
+        "phonological_basis": "17c Dominican orthography conversion: ba (目) -> ba² / bá; cañ (空) -> kʰãn⁵ / khân; tap (凹) -> tap⁷ / tap."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "ojos cerrados~",
+      "source_H": "目瞷放軟 [疑:瞷/睭]",
+      "source_M": "baç chiú pâng gue",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos cerrados~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba² tsiu¹ paŋ³ gue³",
+        "tai_lo_standard": "bá-tsiu-pàng-guè",
+        "phonological_basis": "17c Dominican orthography conversion: ba (目) -> ba² / bá; chiú (瞷) -> tsiu¹ / tsiu; pâng (放) -> paŋ³ / pàng; gue (軟) -> gue³ / guè."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "ojos cerrados~ (加圈)",
+      "source_H": "目映 [疑:映/眏]",
+      "source_M": "baç que",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos cerrados~ (加圈)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba² ke³",
+        "tai_lo_standard": "bá-kè",
+        "phonological_basis": "17c Dominican orthography conversion: ba (目) -> ba² / bá; que (映) -> ke³ / kè."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "ojos mortificados ycompuestos.",
+      "source_H": "目瞷甚 [疑:瞷/睭]",
+      "source_M": "baç chiú çim",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos mortificados ycompuestos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba² tsiu¹ im⁵",
+        "tai_lo_standard": "bá-tsiu-îm",
+        "phonological_basis": "17c Dominican orthography conversion: ba (目) -> ba² / bá; chiú (瞷) -> tsiu¹ / tsiu; im (甚) -> im⁵ / îm."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "ojos mortificados y compuestos",
+      "source_H": "目瞷眷落下 [疑:瞷/睭] [疑:眷/脊]",
+      "source_M": "baç chiú cūa lō que",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos mortificados y compuestos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba² tsiu¹ kua³ lo⁵ ke³",
+        "tai_lo_standard": "bá-tsiu-kuà-lô-kè",
+        "phonological_basis": "17c Dominican orthography conversion: ba (目) -> ba² / bá; chiú (瞷) -> tsiu¹ / tsiu; cūa (眷) -> kua³ / kuà; lō (落) -> lo⁵ / lô; que (下) -> ke³ / kè."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "ojos saltrados~",
+      "source_H": "目瞷浮 [疑:瞷/睭]",
+      "source_M": "baç chiú pū",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos saltrados~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba² tsiu¹ pu⁵",
+        "tai_lo_standard": "bá-tsiu-pû",
+        "phonological_basis": "17c Dominican orthography conversion: ba (目) -> ba² / bá; chiú (瞷) -> tsiu¹ / tsiu; pū (浮) -> pu⁵ / pû."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "ojos saltrados~ (加圈并划线)",
+      "source_H": "目瞷吐雷 [疑:瞷/睭]",
+      "source_M": "baç chiú tō lūy",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos saltrados~ (加圈并划线)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba² tsiu¹ to⁵ lui⁵",
+        "tai_lo_standard": "bá-tsiu-tô-luî",
+        "phonological_basis": "17c Dominican orthography conversion: ba (目) -> ba² / bá; chiú (瞷) -> tsiu¹ / tsiu; tō (吐) -> to⁵ / tô; lūy (雷) -> lui⁵ / luî."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "ojos buenos en blanco como [残] muere~",
+      "source_H": "目吊",
+      "source_M": "baç tiau",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos buenos en blanco como muere~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba² tiau³",
+        "tai_lo_standard": "bá-tiàu",
+        "phonological_basis": "17c Dominican orthography conversion: ba (目) -> ba² / bá; tiau (吊) -> tiau³ / tiàu."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "ojos cansados de ver~",
+      "source_H": "目懶惰 [疑:惰/情]",
+      "source_M": "baç lan tô.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos cansados de ver~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba² lan⁵ to³",
+        "tai_lo_standard": "bá-lân-tò",
+        "phonological_basis": "17c Dominican orthography conversion: ba (目) -> ba² / bá; lan (懶) -> lan⁵ / lân; tô (惰) -> to³ / tò."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "ojos dormidos, no los puede abrir~",
+      "source_H": "目湓 [疑:湓/濕]",
+      "source_M": "baç siap l chiap.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos dormidos, no los puede abrir~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba² siap⁷ li¹ tsiap⁷",
+        "tai_lo_standard": "bá-siap-li-tsiap",
+        "phonological_basis": "17c Dominican orthography conversion: ba (目) -> ba² / bá; siap (湓) -> siap⁷ / siap; l (?) -> li¹ / li; chiap (?) -> tsiap⁷ / tsiap."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "ojos abiertos~",
+      "source_H": "目扒開",
+      "source_M": "baç pe cuy",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos abiertos~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba² pe³ kʰui³",
+        "tai_lo_standard": "bá-pè-khuì",
+        "phonological_basis": "17c Dominican orthography conversion: ba (目) -> ba² / bá; pe (扒) -> pe³ / pè; cuy (開) -> kʰui³ / khuì."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "ojos turbados no pueden ver",
+      "source_H": "瞢瞢 [疑:瞢/矇]",
+      "source_M": "baç bū bū..",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos turbados no pueden ver",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba² bu³ bu³",
+        "tai_lo_standard": "bá-bù-bù",
+        "phonological_basis": "17c Dominican orthography conversion: ba (瞢) -> ba² / bá; bū (瞢) -> bu³ / bù; bū (?) -> bu³ / bù."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "ojos turbados q no pueden ver. (加圈)",
+      "source_H": "首不見",
+      "source_M": "cua m̃ quỹ.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos turbados q no pueden ver. (加圈)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kua⁵ mĩ¹ ki³",
+        "tai_lo_standard": "kuâ-minn-kì",
+        "phonological_basis": "17c Dominican orthography conversion: cua (首) -> kua⁵ / kuâ; m̃ (不) -> mĩ¹ / minn; qu (見) -> ki³ / kì."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "ojo de agua~",
+      "source_H": "水堀 [疑:堀/壢]",
+      "source_M": "chuy cūy.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojo de agua~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui⁵ kʰui⁵",
+        "tai_lo_standard": "tsuî-khuî",
+        "phonological_basis": "17c Dominican orthography conversion: chuy (水) -> tsui⁵ / tsuî; cūy (堀) -> kʰui⁵ / khuî."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "[空]",
+      "source_H": "眼彩",
+      "source_M": "gien chay.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gien⁵ tsai²",
+        "tai_lo_standard": "giên-tsái",
+        "phonological_basis": "17c Dominican orthography conversion: gien (眼) -> gien⁵ / giên; chay (彩) -> tsai² / tsái."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "ojo bueno de buen conocimiento~",
+      "source_H": "眼力好",
+      "source_M": "gien lè hó.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojo bueno de buen conocimiento~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gien⁵ le² ho¹",
+        "tai_lo_standard": "giên-lé-ho",
+        "phonological_basis": "17c Dominican orthography conversion: gien (眼) -> gien⁵ / giên; lè (力) -> le² / lé; hó (好) -> ho¹ / ho."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "ojo bueno de buen conocimiento~ (加圈, 上一行词目重出)",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[残]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojo bueno de buen conocimiento~ (加圈, 上一行词目重出)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 23,
+      "source_L": "ojos de biejos yaturbados que no ven~",
+      "source_H": "目瞷花 [疑:瞷/睭]",
+      "source_M": "baç chiú hūa",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ojos de biejos yaturbados que no ven~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba² tsiu¹ hua⁵",
+        "tai_lo_standard": "bá-tsiu-huâ",
+        "phonological_basis": "17c Dominican orthography conversion: ba (目) -> ba² / bá; chiú (瞷) -> tsiu¹ / tsiu; hūa (花) -> hua⁵ / huâ."
+      }
+    }
+  ]
+}

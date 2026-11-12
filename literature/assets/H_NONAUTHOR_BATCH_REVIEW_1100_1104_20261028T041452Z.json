@@ -1,0 +1,131 @@
+{
+  "reviewer": "/root/review_h_literal_remaining",
+  "created_utc": "2026-10-28T04:14:52.947124+00:00",
+  "status": "ALL_FIVE_PAGES_ACCEPTED_LIMITED_H_LITERAL_LAYER_ONLY",
+  "physical_H_positions": 87,
+  "nonempty_H_positions": 86,
+  "counts": {
+    "literal_proposal": 54,
+    "component_only": 15,
+    "partial_glyph": 7,
+    "glyph_withheld": 4,
+    "sense_withheld": 6,
+    "blank_no_H_text": 1
+  },
+  "pages": [
+    {
+      "page": 1100,
+      "receipt_path": "/workspace/scratch/b06bda80e898/h_literal_1100_resume_20261028T0403Z/h_nonauthor_review_1100_20261028T040900Z.json",
+      "receipt_sha256": "3f0843e17e829c6d0e15194555f7ccbd4fbc78d7e54f1a01cf580c05bef13686",
+      "author_path": "/workspace/scratch/b06bda80e898/h_literal_1100_resume_20261028T0403Z/h_author_new/DHS1100_H_LITERAL_ZH_EN_AUTHOR_v2.json",
+      "author_sha256": "44bc22cade25ec5726032271ef9c85791fa8756fd98dfd10b043661d435c9c74",
+      "physical_H_positions": 19,
+      "nonempty_H_positions": 19,
+      "counts": {
+        "literal_proposal": 10,
+        "component_only": 4,
+        "partial_glyph": 2,
+        "glyph_withheld": 3,
+        "sense_withheld": 0,
+        "blank_no_H_text": 0
+      },
+      "actual_images_count": 5
+    },
+    {
+      "page": 1101,
+      "receipt_path": "/workspace/scratch/b06bda80e898/h_literal_1100_resume_20261028T0403Z/h_nonauthor_review_1101_20261028T041010Z.json",
+      "receipt_sha256": "8debf01fa74e3e883332a60d826b610173b4e9e4236bfd1c07b780e50a188e39",
+      "author_path": "/workspace/scratch/b06bda80e898/h_literal_1100_resume_20261028T0403Z/h_author_new/DHS1101_H_LITERAL_ZH_EN_AUTHOR_v2.json",
+      "author_sha256": "16466345d8886a901d1ecfb824e871bea06b599f00f2b2db191e3ceb94fa83a5",
+      "physical_H_positions": 19,
+      "nonempty_H_positions": 19,
+      "counts": {
+        "literal_proposal": 13,
+        "component_only": 4,
+        "partial_glyph": 1,
+        "glyph_withheld": 0,
+        "sense_withheld": 1,
+        "blank_no_H_text": 0
+      },
+      "actual_images_count": 4
+    },
+    {
+      "page": 1102,
+      "receipt_path": "/workspace/scratch/b06bda80e898/h_literal_1100_resume_20261028T0403Z/h_nonauthor_review_1102_20261028T041114Z.json",
+      "receipt_sha256": "22d2019fbaaa855ad6167ab29956fdd8a70d125d21c2797427c7e29ad7e5eec4",
+      "author_path": "/workspace/scratch/b06bda80e898/h_literal_1100_resume_20261028T0403Z/h_author_new/DHS1102_H_LITERAL_ZH_EN_AUTHOR_v2.json",
+      "author_sha256": "5f5363b777425731801e08d2a51b307fef16b76f5bdc180377f264667f95ae57",
+      "physical_H_positions": 17,
+      "nonempty_H_positions": 16,
+      "counts": {
+        "literal_proposal": 9,
+        "component_only": 3,
+        "partial_glyph": 1,
+        "glyph_withheld": 1,
+        "sense_withheld": 2,
+        "blank_no_H_text": 1
+      },
+      "actual_images_count": 4
+    },
+    {
+      "page": 1103,
+      "receipt_path": "/workspace/scratch/b06bda80e898/h_literal_1100_resume_20261028T0403Z/h_nonauthor_review_1103_20261028T041231Z.json",
+      "receipt_sha256": "5173638ddea56861b0d4a527006714ba01b23a0d8dee4dcd39ed61d7ef802021",
+      "author_path": "/workspace/scratch/b06bda80e898/h_literal_1100_resume_20261028T0403Z/h_author_new/DHS1103_H_LITERAL_ZH_EN_AUTHOR_v1.json",
+      "author_sha256": "f8f924f22e04e2af462f7ddc8d21fb254e81aa2e5e8aa0e1734f42533f9407f7",
+      "physical_H_positions": 13,
+      "nonempty_H_positions": 13,
+      "counts": {
+        "literal_proposal": 9,
+        "component_only": 2,
+        "partial_glyph": 1,
+        "glyph_withheld": 0,
+        "sense_withheld": 1,
+        "blank_no_H_text": 0
+      },
+      "actual_images_count": 5
+    },
+    {
+      "page": 1104,
+      "receipt_path": "/workspace/scratch/b06bda80e898/h_literal_1100_resume_20261028T0403Z/h_nonauthor_review_1104_20261028T041352Z.json",
+      "receipt_sha256": "1e637fa973ec61a1d3078b417e8cae728368a04ce893ff3cfd14c80b0f2abd6b",
+      "author_path": "/workspace/scratch/b06bda80e898/h_literal_1100_resume_20261028T0403Z/h_author_new/DHS1104_H_LITERAL_ZH_EN_AUTHOR_v1.json",
+      "author_sha256": "6229339a0a8db5413fe272f982d669236d313c0dee5fe6f20cb6caa24f53485f",
+      "physical_H_positions": 19,
+      "nonempty_H_positions": 19,
+      "counts": {
+        "literal_proposal": 13,
+        "component_only": 2,
+        "partial_glyph": 2,
+        "glyph_withheld": 0,
+        "sense_withheld": 2,
+        "blank_no_H_text": 0
+      },
+      "actual_images_count": 5
+    }
+  ],
+  "source_images_actually_viewed_unique": 23,
+  "all_87_entries_have_individual_substantive_notes": true,
+  "bindings_and_snapshots_reverified": true,
+  "review_not_hash_only": true,
+  "resolved_review_issues": [
+    "1100-16 萬 gloss made explicit in both languages, repetition and sentence uncertainty retained.",
+    "1101-08 isolated 陽 reclassified from component_only to sense_withheld.",
+    "1102-02 寡 and 05 節 proactively aligned by author with sense_withheld and checked substantively."
+  ],
+  "preserved_open_questions": [
+    "Uncertain glyph candidates remain unnormalized and unfilled from L.",
+    "Component and withheld entries do not become full translations; surface literal proposals do not establish intended historical meanings.",
+    "Historical pronunciation and phonetic-annotation interpretation remain unclaimed."
+  ],
+  "main_L_increment": 0,
+  "supplement_increment": 0,
+  "whole_page_all_layers_increment": 0,
+  "historical_sound_increment": 0,
+  "old_L_status_preserved": {
+    "core": 85,
+    "partial": 2
+  },
+  "no_external_research": true,
+  "no_source_or_old_author_overwrite": true
+}

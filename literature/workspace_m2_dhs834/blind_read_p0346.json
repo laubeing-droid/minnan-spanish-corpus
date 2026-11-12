@@ -1,0 +1,557 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 346,
+  "historical_folio": 317,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0346/pdf_0346_300dpi.png",
+  "page_header": "D. ante. E.",
+  "page_footer_printed": "- 317 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 23,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Dejar autoridad.",
+      "source_H": "主宰",
+      "source_M": "chû chāy",
+      "source_R": "chù chūy",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar autoridad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu³ tsai⁵",
+        "tai_lo_standard": "tsù-tsâi",
+        "phonological_basis": "17c Dominican orthography conversion: chû (主) -> tsu³ / tsù; chāy (宰) -> tsai⁵ / tsâi."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Dejar la potestad o autoridad. ut supra.",
+      "source_H": "出祖",
+      "source_M": "chūt chőì",
+      "source_R": "chùt chù",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar la potestad o autoridad. ut supra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰut⁷ tsi² i²",
+        "tai_lo_standard": "tshut-tsí-í",
+        "phonological_basis": "17c Dominican orthography conversion: chūt (出) -> tsʰut⁷ / tshut; ch (祖) -> tsi² / tsí; ì (?) -> i² / í."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Dejarlo, mostrar dello.",
+      "source_H": "潘捨 [疑:潘/拋]",
+      "source_M": "pòa şìa",
+      "source_R": "pò şìe",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejarlo, mostrar dello.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "poa² ia²",
+        "tai_lo_standard": "poá-iá",
+        "phonological_basis": "17c Dominican orthography conversion: pòa (潘) -> poa² / poá; ìa (捨) -> ia² / iá."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Dejar la gallina los pollos, la liebre criar.",
+      "source_H": "放子",
+      "source_M": "pàng guía",
+      "source_R": "fāng chíi",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar la gallina los pollos, la liebre criar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paŋ² guia¹",
+        "tai_lo_standard": "páng-guia",
+        "phonological_basis": "17c Dominican orthography conversion: pàng (放) -> paŋ² / páng; guía (子) -> guia¹ / guia."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Dejar el lugar dignidad.",
+      "source_H": "避位",
+      "source_M": "pǐ ūy",
+      "source_R": "pī ūy",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar el lugar dignidad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pi² ui⁵",
+        "tai_lo_standard": "pí-uî",
+        "phonological_basis": "17c Dominican orthography conversion: pǐ (避) -> pi² / pí; ūy (位) -> ui⁵ / uî."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Dejar la ystacia, amigo. [疑:ystacia/ydeja]",
+      "source_H": "避邪",
+      "source_M": "pǐ şia",
+      "source_R": "pī şìe",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar la ystacia, amigo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pi² ia¹",
+        "tai_lo_standard": "pí-ia",
+        "phonological_basis": "17c Dominican orthography conversion: pǐ (避) -> pi² / pí; ia (邪) -> ia¹ / ia."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Dejar lo que hace por acudir a otra parte.",
+      "source_H": "棎工郎 [疑:棎/探]",
+      "source_M": "pòa cã chiá",
+      "source_R": "pōa cōng chiě",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar lo que hace por acudir a otra parte.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "poa² kã³ tsia¹",
+        "tai_lo_standard": "poá-kànn-tsia",
+        "phonological_basis": "17c Dominican orthography conversion: pòa (棎) -> poa² / poá; cã (工) -> kã³ / kànn; chiá (郎) -> tsia¹ / tsia."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Dejar herencia.",
+      "source_H": "繼傳",
+      "source_M": "guēy pōān",
+      "source_R": "gūi chûen",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar herencia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guei⁵ poan⁵",
+        "tai_lo_standard": "guêi-poân",
+        "phonological_basis": "17c Dominican orthography conversion: guēy (繼) -> guei⁵ / guêi; pōān (傳) -> poan⁵ / poân."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Dejar el officio.",
+      "source_H": "棄官",
+      "source_M": "gūy cūā",
+      "source_R": "gūi cuōn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar el officio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui⁵ kua⁵",
+        "tai_lo_standard": "guî-kuâ",
+        "phonological_basis": "17c Dominican orthography conversion: gūy (棄) -> gui⁵ / guî; cūā (官) -> kua⁵ / kuâ."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Dejar el officio.",
+      "source_H": "傳位",
+      "source_M": "tuy ūy",
+      "source_R": "chûen ūy",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar el officio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tui² ui²",
+        "tai_lo_standard": "tuí-uí",
+        "phonological_basis": "17c Dominican orthography conversion: tuy (傳) -> tui² / tuí; ūy (位) -> ui² / uí."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Dejar, No le castigar.",
+      "source_H": "不根究伊",
+      "source_M": "m̄ gūin gûiã ý",
+      "source_R": "bīn gūèn gûina ý",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar, No le castigar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mi⁵ guin⁵ gũĩã³",
+        "tai_lo_standard": "mî-guîn-guiànn",
+        "phonological_basis": "17c Dominican orthography conversion: m̄ (不) -> mi⁵ / mî; gūin (根) -> guin⁵ / guîn; gûiã (究) -> gũĩã³ / guiànn."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Dejar a su alvedrio.",
+      "source_H": "放縱",
+      "source_M": "hōng chiông",
+      "source_R": "fàng chōng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar a su alvedrio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ⁵ tsioŋ³",
+        "tai_lo_standard": "hông-tsiòng",
+        "phonological_basis": "17c Dominican orthography conversion: hōng (放) -> hɔŋ⁵ / hông; chiông (縱) -> tsioŋ³ / tsiòng."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Dejar, soltar, dejar.",
+      "source_H": "赦下",
+      "source_M": "sià hē",
+      "source_R": "siē hiā",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar, soltar, dejar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sia² he⁵",
+        "tai_lo_standard": "siá-hê",
+        "phonological_basis": "17c Dominican orthography conversion: sià (赦) -> sia² / siá; hē (下) -> he⁵ / hê."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Dejar fama.",
+      "source_H": "留名聲 [疑:留/晋]",
+      "source_M": "lāu mēa şia",
+      "source_R": "lèu mîng şèng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar fama.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lau⁵ mea⁵ ia¹",
+        "tai_lo_standard": "lâu-meâ-ia",
+        "phonological_basis": "17c Dominican orthography conversion: lāu (留) -> lau⁵ / lâu; mēa (名) -> mea⁵ / meâ; ia (聲) -> ia¹ / ia."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Dejar el officio a su voluntad.",
+      "source_H": "致仕",
+      "source_M": "tȳ sū",
+      "source_R": "chȳ zū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar el officio a su voluntad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti⁵ su⁵",
+        "tai_lo_standard": "tî-sû",
+        "phonological_basis": "17c Dominican orthography conversion: t (致) -> ti⁵ / tî; sū (仕) -> su⁵ / sû."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Dejar a los venideros.",
+      "source_H": "傳后",
+      "source_M": "tuy au",
+      "source_R": "chûen hēū [疑:hēū/hēn]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar a los venideros.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tui² au²",
+        "tai_lo_standard": "tuí-áu",
+        "phonological_basis": "17c Dominican orthography conversion: tuy (傳) -> tui² / tuí; au (后) -> au² / áu."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Dejar a los venideros.",
+      "source_H": "傳后代",
+      "source_M": "tuy au cey [疑:cey/tēy]",
+      "source_R": "chûen hēū tāy",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar a los venideros.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tui² au² kei² kei¹ tei⁶",
+        "tai_lo_standard": "tuí-áu-kéi-kei-tēi",
+        "phonological_basis": "17c Dominican orthography conversion: tuy (傳) -> tui² / tuí; au (后) -> au² / áu; cey (代) -> kei² / kéi; cey (?) -> kei¹ / kei; tēy (?) -> tei⁶ / tēi."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Dejar a hijos y nietos.",
+      "source_H": "傳子及孫",
+      "source_M": "tuy guia guip zun",
+      "source_R": "chûen chíg gūip zûn",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar a hijos y nietos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tui² guia² guip⁸ tsun³",
+        "tai_lo_standard": "tuí-guiá-gui̍p-tsùn",
+        "phonological_basis": "17c Dominican orthography conversion: tuy (傳) -> tui² / tuí; guia (子) -> guia² / guiá; guip (及) -> guip⁸ / gui̍p; zun (孫) -> tsun³ / tsùn."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Dejarle las sementeras por todo por fiar.",
+      "source_H": "讓畔",
+      "source_M": "chiâng pōān [疑:chiang/xiang]",
+      "source_R": "jāng pōān",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejarle las sementeras por todo por fiar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiaŋ³ poan⁵ tsiaŋ¹ dziaŋ¹",
+        "tai_lo_standard": "tsiàng-poân-tsiang-jiang",
+        "phonological_basis": "17c Dominican orthography conversion: chiâng (讓) -> tsiaŋ³ / tsiàng; pōān (畔) -> poan⁵ / poân; chiang (?) -> tsiaŋ¹ / tsiang; xiang (?) -> dziaŋ¹ / jiang."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Dejar acabar.",
+      "source_H": "息事",
+      "source_M": "sôa sū",
+      "source_R": "şèg zū",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar acabar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "soa³ su⁵",
+        "tai_lo_standard": "soà-sû",
+        "phonological_basis": "17c Dominican orthography conversion: sôa (息) -> soa³ / soà; sū (事) -> su⁵ / sû."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "Dejar a su voluntad.",
+      "source_H": "拠伊 [疑:拠/捉]",
+      "source_M": "cūy ý",
+      "source_R": "gūii ý",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar a su voluntad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kui⁵",
+        "tai_lo_standard": "kuî",
+        "phonological_basis": "17c Dominican orthography conversion: cūy (拠) -> kui⁵ / kuî."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "Dejar a su voluntad.",
+      "source_H": "在人",
+      "source_M": "chāy lāong",
+      "source_R": "chāy zīn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar a su voluntad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsai⁵ laoŋ⁵",
+        "tai_lo_standard": "tsâi-lâong",
+        "phonological_basis": "17c Dominican orthography conversion: chāy (在) -> tsai⁵ / tsâi; lāong (人) -> laoŋ⁵ / lâong."
+      }
+    },
+    {
+      "position": 23,
+      "source_L": "Dejar a su voluntad.",
+      "source_H": "任伊",
+      "source_M": "jīm ý",
+      "source_R": "zīm ý",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dejar a su voluntad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzim⁵",
+        "tai_lo_standard": "jîm",
+        "phonological_basis": "17c Dominican orthography conversion: jīm (任) -> dzim⁵ / jîm."
+      }
+    }
+  ]
+}

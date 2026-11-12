@@ -1,0 +1,468 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 311,
+  "historical_folio": 282,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0311/pdf_0311_300dpi.png",
+  "page_header": "C. ante. O.",
+  "page_footer_printed": "- 282 -",
+  "page_footer_handwritten": "141",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Cortesia p̃el Rey.",
+      "source_H": "閣下",
+      "source_M": "cōng hè.",
+      "source_R": "cō hiā.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cortesia p[ara]el Rey.",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p̃",
+            "expansion": "p̃"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ⁵ he²",
+        "tai_lo_standard": "kông-hé",
+        "phonological_basis": "17c Dominican orthography conversion: cōng (閣) -> kɔŋ⁵ / kông; hè (下) -> he² / hé."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Cortesia p̃el Rey, visita Uo.",
+      "source_H": "參拜",
+      "source_M": "chām pāy.",
+      "source_R": "chām pāy.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cortesia p[ara]el Rey, visita Uo.",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p̃",
+            "expansion": "p̃"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsam⁵ pai⁵",
+        "tai_lo_standard": "tsâm-pâi",
+        "phonological_basis": "17c Dominican orthography conversion: chām (參) -> tsam⁵ / tsâm; pāy (拜) -> pai⁵ / pâi."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "cortesia p̃el Rey. ides.",
+      "source_H": "俗礼",
+      "source_M": "siog lèy.",
+      "source_R": "zú lí.",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cortesia p[ara]el Rey. ides.",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p̃",
+            "expansion": "p̃"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siok⁸ lei²",
+        "tai_lo_standard": "sio̍k-léi",
+        "phonological_basis": "17c Dominican orthography conversion: siog (俗) -> siok⁸ / sio̍k; lèy (礼) -> lei² / léi."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "cortesia p̃el Rey. ides.",
+      "source_H": "公礼",
+      "source_M": "cōng lèy.",
+      "source_R": "cōng lí.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cortesia p[ara]el Rey. ides.",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p̃",
+            "expansion": "p̃"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ⁵ lei²",
+        "tai_lo_standard": "kông-léi",
+        "phonological_basis": "17c Dominican orthography conversion: cōng (公) -> kɔŋ⁵ / kông; lèy (礼) -> lei² / léi."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Cortesia, hazella.",
+      "source_H": "行礼",
+      "source_M": "guīa lèy",
+      "source_R": "hêng lí",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cortesia, hazella.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guia⁵ lei²",
+        "tai_lo_standard": "guiâ-léi",
+        "phonological_basis": "17c Dominican orthography conversion: guīa (行) -> guia⁵ / guiâ; lèy (礼) -> lei² / léi."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Cortesia p̃engannar.",
+      "source_H": "礼多人也詐",
+      "source_M": "lèy tó xīn yà chè.",
+      "source_R": "lí tō xīn yè chā.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cortesia p[ara]engannar.",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p̃",
+            "expansion": "p̃"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lei² to¹ dzin⁵ ia² tse²",
+        "tai_lo_standard": "léi-to-jîn-iá-tsé",
+        "phonological_basis": "17c Dominican orthography conversion: lèy (礼) -> lei² / léi; tó (多) -> to¹ / to; xīn (人) -> dzin⁵ / jîn; yà (也) -> ia² / iá; chè (詐) -> tse² / tsé."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Cortesia, hazella.",
+      "source_H": "世事",
+      "source_M": "sŷ sŷ.",
+      "source_R": "sŷ zŷ.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cortesia, hazella.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si³ si³",
+        "tai_lo_standard": "sì-sì",
+        "phonological_basis": "17c Dominican orthography conversion: s (世) -> si³ / sì; s (事) -> si³ / sì."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Cortesia, correspondencia.",
+      "source_H": "儀",
+      "source_M": "lēy gŷ.",
+      "source_R": "gñi.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cortesia, correspondencia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lei⁵ gi³",
+        "tai_lo_standard": "lêi-gì",
+        "phonological_basis": "17c Dominican orthography conversion: lēy (儀) -> lei⁵ / lêi; g (?) -> gi³ / gì."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Cortina.",
+      "source_H": "帽",
+      "source_M": "Bōy.",
+      "source_R": "mŷ.",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cortina.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "boi⁵",
+        "tai_lo_standard": "bôi",
+        "phonological_basis": "17c Dominican orthography conversion: Bōy (帽) -> boi⁵ / bôi."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Cortina.",
+      "source_H": "帳帽",
+      "source_M": "tīō Bōy.",
+      "source_R": "chiāng mŷ.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cortina.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tio⁵ boi⁵",
+        "tai_lo_standard": "tiô-bôi",
+        "phonological_basis": "17c Dominican orthography conversion: tīō (帳) -> tio⁵ / tiô; Bōy (帽) -> boi⁵ / bôi."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Corso, costa, corta.",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "glí.",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Corso, costa, corta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Conseruaciones.",
+      "source_H": "口詞短",
+      "source_M": "cāu sȳ tè.",
+      "source_R": "giēn zȳ toān.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Conseruaciones.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kau⁵ si⁵ te²",
+        "tai_lo_standard": "kâu-sî-té",
+        "phonological_basis": "17c Dominican orthography conversion: cāu (口) -> kau⁵ / kâu; s (詞) -> si⁵ / sî; tè (短) -> te² / té."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Coruina, pescado.",
+      "source_H": "cho lou. 蜡 [疑:蜡/蜅]",
+      "source_M": "chō hūn.",
+      "source_R": "chǎn.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Coruina, pescado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso⁵ hun⁶",
+        "tai_lo_standard": "tsô-hūn",
+        "phonological_basis": "17c Dominican orthography conversion: chō (蜡) -> tso⁵ / tsô; hūn (?) -> hun⁶ / hūn."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Cosa.",
+      "source_H": "物",
+      "source_M": "Buṽ; mỹ.",
+      "source_R": "mī. 6an bûe.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cosa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bu³ mi³",
+        "tai_lo_standard": "bù-mì",
+        "phonological_basis": "17c Dominican orthography conversion: Bu (物) -> bu³ / bù; m (?) -> mi³ / mì."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Cosa, negocio.",
+      "source_H": "事",
+      "source_M": "sû; sāy.",
+      "source_R": "zŷ.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cosa, negocio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su³ sai⁶",
+        "tai_lo_standard": "sù-sāi",
+        "phonological_basis": "17c Dominican orthography conversion: sû (事) -> su³ / sù; sāy (?) -> sai⁶ / sāi."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "[残]",
+      "source_H": "没",
+      "source_M": "buṽ.",
+      "source_R": "mōṽ.",
+      "tone_marks_M": [
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bu¹",
+        "tai_lo_standard": "bu",
+        "phonological_basis": "17c Dominican orthography conversion: bu (没) -> bu¹ / bu."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Cosa, numeral de negoçios, coſas.",
+      "source_H": "件",
+      "source_M": "guîa.",
+      "source_R": "guiēn.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cosa, numeral de negoçios, coſas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guia³",
+        "tai_lo_standard": "guià",
+        "phonological_basis": "17c Dominican orthography conversion: guîa (件) -> guia³ / guià."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Cosa, numeral de coſas.",
+      "source_H": "疊",
+      "source_M": "çiáp.",
+      "source_R": "tiē.",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cosa, numeral de coſas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iap⁸",
+        "tai_lo_standard": "ia̍p",
+        "phonological_basis": "17c Dominican orthography conversion: iáp (疊) -> iap⁸ / ia̍p."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Cosa de poca importancia.",
+      "source_H": "薄 [疑:薄/溥]",
+      "source_M": "mỹ.",
+      "source_R": "mô.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cosa de poca importancia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mi³",
+        "tai_lo_standard": "mì",
+        "phonological_basis": "17c Dominican orthography conversion: m (薄) -> mi³ / mì."
+      }
+    }
+  ]
+}

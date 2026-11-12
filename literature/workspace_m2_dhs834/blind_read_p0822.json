@@ -1,0 +1,374 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 822,
+  "historical_folio": 784,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0822/pdf_0822_300dpi.png",
+  "page_header": "P. ante. O.",
+  "page_footer_printed": "- 784 -",
+  "page_footer_handwritten": "389",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Polla~",
+      "source_H": "未成雞母",
+      "source_M": "bue chia quey bo",
+      "source_R": "",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Polla~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue² tsia⁵ kei¹ bo⁵",
+        "tai_lo_standard": "bué-tsiâ-kei-bô",
+        "phonological_basis": "17c Dominican orthography conversion: bue (未) -> bue² / bué; chia (成) -> tsia⁵ / tsiâ; quey (雞) -> kei¹ / kei; bo (母) -> bo⁵ / bô."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Pollow~",
+      "source_H": "未成雞角",
+      "source_M": "bue chia quey cag",
+      "source_R": "",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Pollow~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue² tsia⁵ kei¹ kak⁷",
+        "tai_lo_standard": "bué-tsiâ-kei-kak",
+        "phonological_basis": "17c Dominican orthography conversion: bue (未) -> bue² / bué; chia (成) -> tsia⁵ / tsiâ; quey (雞) -> kei¹ / kei; cag (角) -> kak⁷ / kak."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "pollo",
+      "source_H": "雞仔",
+      "source_M": "quey ia",
+      "source_R": "",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pollo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kei¹ ia²",
+        "tai_lo_standard": "kei-iá",
+        "phonological_basis": "17c Dominican orthography conversion: quey (雞) -> kei¹ / kei; ia (仔) -> ia² / iá."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "pollito q sale de la carcara no tiene [疑:gos/plumas]~",
+      "source_H": "眩雞仔",
+      "source_M": "hin quey ia",
+      "source_R": "",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pollito q sale de la carcara no tiene ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hin⁵ kei¹ ia⁵",
+        "tai_lo_standard": "hîn-kei-iâ",
+        "phonological_basis": "17c Dominican orthography conversion: hin (眩) -> hin⁵ / hîn; quey (雞) -> kei¹ / kei; ia (仔) -> ia⁵ / iâ."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Poluo~ qaiuo o paredes:",
+      "source_H": "埃[疑:埃/塵埃]",
+      "source_M": "tin ay",
+      "source_R": "",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Poluo~ qaiuo o paredes:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tin⁵ ai¹",
+        "tai_lo_standard": "tîn-ai",
+        "phonological_basis": "17c Dominican orthography conversion: tin (埃) -> tin⁵ / tîn; ay (?) -> ai¹ / ai."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "poluo~",
+      "source_H": "膺",
+      "source_M": "eng",
+      "source_R": "",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poluo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "eŋ¹",
+        "tai_lo_standard": "eng",
+        "phonological_basis": "17c Dominican orthography conversion: eng (膺) -> eŋ¹ / eng."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "poluo~",
+      "source_H": "塵",
+      "source_M": "tin",
+      "source_R": "",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poluo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tin⁵",
+        "tai_lo_standard": "tîn",
+        "phonological_basis": "17c Dominican orthography conversion: tin (塵) -> tin⁵ / tîn."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "poluo~",
+      "source_H": "粉",
+      "source_M": "hun",
+      "source_R": "",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poluo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hun²",
+        "tai_lo_standard": "hún",
+        "phonological_basis": "17c Dominican orthography conversion: hun (粉) -> hun² / hún."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "poluo menudo del suelo",
+      "source_H": "塵世",
+      "source_M": "tin sy",
+      "source_R": "",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poluo menudo del suelo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tin⁵ si²",
+        "tai_lo_standard": "tîn-sí",
+        "phonological_basis": "17c Dominican orthography conversion: tin (塵) -> tin⁵ / tîn; sy (世) -> si² / sí."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "poluo del aire, o del appartede",
+      "source_H": "塵埃",
+      "source_M": "tin ay",
+      "source_R": "",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poluo del aire, o del appartede",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tin⁵ ai¹",
+        "tai_lo_standard": "tîn-ai",
+        "phonological_basis": "17c Dominican orthography conversion: tin (塵) -> tin⁵ / tîn; ay (埃) -> ai¹ / ai."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Poluora~",
+      "source_H": "藥",
+      "source_M": "yo",
+      "source_R": "",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Poluora~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "io²",
+        "tai_lo_standard": "ió",
+        "phonological_basis": "17c Dominican orthography conversion: yo (藥) -> io² / ió."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "poluora~",
+      "source_H": "火藥",
+      "source_M": "hue yo",
+      "source_R": "",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poluora~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hue² io²",
+        "tai_lo_standard": "hué-ió",
+        "phonological_basis": "17c Dominican orthography conversion: hue (火) -> hue² / hué; yo (藥) -> io² / ió."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "poluora",
+      "source_H": "銃藥",
+      "source_M": "cheng yo",
+      "source_R": "",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poluora",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰeŋ⁵ io²",
+        "tai_lo_standard": "tshêng-ió",
+        "phonological_basis": "17c Dominican orthography conversion: cheng (銃) -> tsʰeŋ⁵ / tshêng; yo (藥) -> io² / ió."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Poluuar, como agucar",
+      "source_H": "掺",
+      "source_M": "sam",
+      "source_R": "",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Poluuar, como agucar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sam²",
+        "tai_lo_standard": "sám",
+        "phonological_basis": "17c Dominican orthography conversion: sam (掺) -> sam² / sám."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "poluuar la llaga~",
+      "source_H": "掺藥末",
+      "source_M": "sam yo moa",
+      "source_R": "",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "poluuar la llaga~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sam² io² moa²",
+        "tai_lo_standard": "sám-ió-moá",
+        "phonological_basis": "17c Dominican orthography conversion: sam (掺) -> sam² / sám; yo (藥) -> io² / ió; moa (末) -> moa² / moá."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Polucion nocturna.",
+      "source_H": "泄[疑:泄/洩]",
+      "source_M": "siet",
+      "source_R": "",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Polucion nocturna.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siet⁷",
+        "tai_lo_standard": "siet",
+        "phonological_basis": "17c Dominican orthography conversion: siet (泄) -> siet⁷ / siet."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "polucion nocturna.",
+      "source_H": "夢泄[疑:泄/洩]",
+      "source_M": "bong siet",
+      "source_R": "",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "polucion nocturna.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bɔŋ² siet⁷",
+        "tai_lo_standard": "bóng-siet",
+        "phonological_basis": "17c Dominican orthography conversion: bong (夢) -> bɔŋ² / bóng; siet (泄) -> siet⁷ / siet."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "polucion nocturna",
+      "source_H": "夢遺",
+      "source_M": "bong sy",
+      "source_R": "",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "polucion nocturna",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bɔŋ² si⁵",
+        "tai_lo_standard": "bóng-sî",
+        "phonological_basis": "17c Dominican orthography conversion: bong (夢) -> bɔŋ² / bóng; sy (遺) -> si⁵ / sî."
+      }
+    }
+  ]
+}

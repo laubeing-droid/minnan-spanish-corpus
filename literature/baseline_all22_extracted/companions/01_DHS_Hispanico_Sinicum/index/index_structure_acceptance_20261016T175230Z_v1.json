@@ -1,0 +1,40 @@
+{
+  "at": "2026-10-16T17:52:30Z",
+  "index_path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/dhs_hispanico_sinicum/page_index_20261016T172548Z_v1.json",
+  "index_sha256": "9a366361629b8c9a86afe80ada9571db1473ff0b2ea017a11c21e35b8478c50f",
+  "physical_pages_unique_complete": true,
+  "manuscript_image_pages": 1102,
+  "paratext_pages": 38,
+  "type_aliases_for_manuscript": [
+    "dictionary",
+    "manuscript_dictionary",
+    "manuscript_dictionary_and_Contar_numeral_table",
+    "手稿正文影印"
+  ],
+  "raw_type_counts": {
+    "title_page": 1,
+    "funding_and_permissions": 3,
+    "contents": 3,
+    "modern_foreword": 7,
+    "前置序文": 3,
+    "前置編者序": 3,
+    "前置導論": 10,
+    "前置導論及參考文獻": 1,
+    "前置參考文獻": 2,
+    "手稿正文影印": 11,
+    "manuscript_dictionary": 999,
+    "part1_publication_imprint": 1,
+    "part2_cover": 1,
+    "part2_title": 1,
+    "dictionary": 91,
+    "part3_cover": 1,
+    "part3_title": 1,
+    "manuscript_dictionary_and_Contar_numeral_table": 1
+  },
+  "dictionary_footer_unknown_pages": [
+    725,
+    757,
+    767
+  ],
+  "note": "Alias grouping only, no changes to frozen recorded types, no new visual claim. 1102 manuscript images include duplicate leaf; not 1102 deduplicated original leaves. Null footers are not blank pages. Metadata140-page correction remains sidecar. Last physical1140 is manuscript dictionary plus numeral table, not back cover."
+}

@@ -1,0 +1,417 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 778,
+  "historical_folio": 740,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0778/pdf_0778_300dpi.png",
+  "page_header": "P. ante. L.",
+  "page_footer_printed": "- 740 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "pecado~",
+      "source_H": "罪",
+      "source_M": "chuě",
+      "source_R": "бap.",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pecado~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsue²",
+        "tai_lo_standard": "tsué",
+        "phonological_basis": "17c Dominican orthography conversion: chuě (罪) -> tsue² / tsué."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "pecado~",
+      "source_H": "過",
+      "source_M": "cuě.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pecado~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kue³",
+        "tai_lo_standard": "kuè",
+        "phonological_basis": "17c Dominican orthography conversion: cuě (過) -> kue³ / kuè."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "pecado~",
+      "source_H": "素",
+      "source_M": "cuâ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pecado~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kua³",
+        "tai_lo_standard": "kuà",
+        "phonological_basis": "17c Dominican orthography conversion: cuâ (素) -> kua³ / kuà."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "pecado~",
+      "source_H": "越",
+      "source_M": "uōar.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pecado~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "uoar³",
+        "tai_lo_standard": "uoàr",
+        "phonological_basis": "17c Dominican orthography conversion: uōar (越) -> uoar³ / uoàr."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "pecado~",
+      "source_H": "愆",
+      "source_M": "quiěn, bata.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pecado~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kien² bata¹",
+        "tai_lo_standard": "kién-bata",
+        "phonological_basis": "17c Dominican orthography conversion: quiěn (愆) -> kien² / kién; bata (?) -> bata¹ / bata."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "pe cad~ mortal~",
+      "source_H": "罪業大",
+      "source_M": "chě cùa hōa.",
+      "source_R": "montri 2",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pe cad~ mortal~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse² kua² hoa⁵",
+        "tai_lo_standard": "tsé-kuá-hoâ",
+        "phonological_basis": "17c Dominican orthography conversion: chě (罪) -> tse² / tsé; cùa (業) -> kua² / kuá; hōa (大) -> hoa⁵ / hoâ."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "pecado~",
+      "source_H": "告罪",
+      "source_M": "cô chue::: cùa.",
+      "source_R": "coigoai may.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pecado~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko³ tsue² kua²",
+        "tai_lo_standard": "kò-tsué-kuá",
+        "phonological_basis": "17c Dominican orthography conversion: cô (告) -> ko³ / kò; chue (罪) -> tsue² / tsué; cùa (?) -> kua² / kuá."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "pecado~",
+      "source_H": "罪愆",
+      "source_M": "gui chue quiěn.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pecado~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui² tsue¹ kien⁶",
+        "tai_lo_standard": "guí-tsue-kiēn",
+        "phonological_basis": "17c Dominican orthography conversion: gui (罪) -> gui² / guí; chue (愆) -> tsue¹ / tsue; quiěn (?) -> kien⁶ / kiēn."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "pe cad~",
+      "source_H": "生罪",
+      "source_M": "chǒ chuě pecado.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pe cad~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso² tsue² pecado¹",
+        "tai_lo_standard": "tsó-tsué-pecado",
+        "phonological_basis": "17c Dominican orthography conversion: chǒ (生) -> tso² / tsó; chuě (罪) -> tsue² / tsué; pecado (?) -> pecado¹ / pecado."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "pecado uenial~",
+      "source_H": "微之罪",
+      "source_M": "bō bō chuě venial",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pecado uenial~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bo⁵ bo⁵ tsue² venial¹",
+        "tai_lo_standard": "bô-bô-tsué-venial",
+        "phonological_basis": "17c Dominican orthography conversion: bō (微) -> bo⁵ / bô; bō (之) -> bo⁵ / bô; chuě (罪) -> tsue² / tsué; venial (?) -> venial¹ / venial."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "pe cad uenial",
+      "source_H": "寡過",
+      "source_M": "cuà cō [残]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pe cad uenial",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kua² ko⁵",
+        "tai_lo_standard": "kuá-kô",
+        "phonological_basis": "17c Dominican orthography conversion: cuà (寡) -> kua² / kuá; cō (過) -> ko⁵ / kô."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "pecado nefando~",
+      "source_H": "御尾",
+      "source_M": "saý buě.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pecado nefando~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sa¹ bue²",
+        "tai_lo_standard": "sa-bué",
+        "phonological_basis": "17c Dominican orthography conversion: sa (御) -> sa¹ / sa; buě (尾) -> bue² / bué."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "pecado nefando.",
+      "source_H": "相騎",
+      "source_M": "sìo quìa.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pecado nefando.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio² kia²",
+        "tai_lo_standard": "sió-kiá",
+        "phonological_basis": "17c Dominican orthography conversion: sìo (相) -> sio² / sió; quìa (騎) -> kia² / kiá."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "pecado nefando~",
+      "source_H": "錯膠川 [疑:膠/跤]",
+      "source_M": "chò cà chuy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pecado nefando~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso² ka² tsui¹",
+        "tai_lo_standard": "tsó-ká-tsui",
+        "phonological_basis": "17c Dominican orthography conversion: chò (錯) -> tso² / tsó; cà (膠) -> ka² / ká; chuy (川) -> tsui¹ / tsui."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "pecados nefando~",
+      "source_H": "討大夫",
+      "source_M": "tò tá póu.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pecados nefando~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to² ta¹ pou¹",
+        "tai_lo_standard": "tó-ta-pou",
+        "phonological_basis": "17c Dominican orthography conversion: tò (討) -> to² / tó; tá (大) -> ta¹ / ta; póu (夫) -> pou¹ / pou."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "pecados grande~",
+      "source_H": "罪積如山",
+      "source_M": "chuě chēg xū sān,",
+      "source_R": "grande..",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pecados grande~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsue² tsek⁷ dzu⁵ san⁵",
+        "tai_lo_standard": "tsué-tsek-jû-sân",
+        "phonological_basis": "17c Dominican orthography conversion: chuě (罪) -> tsue² / tsué; chēg (積) -> tsek⁷ / tsek; xū (如) -> dzu⁵ / jû; sān (山) -> san⁵ / sân."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Pecar~ fallar",
+      "source_H": "過失",
+      "source_M": "cuē sīt.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Pecar~ fallar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kue³ sit⁷",
+        "tai_lo_standard": "kuè-sit",
+        "phonological_basis": "17c Dominican orthography conversion: cuē (過) -> kue³ / kuè; sīt (失) -> sit⁷ / sit."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "pecar~",
+      "source_H": "虧失",
+      "source_M": "cùy sīt.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pecar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰui² sit⁷",
+        "tai_lo_standard": "khuí-sit",
+        "phonological_basis": "17c Dominican orthography conversion: cùy (虧) -> kʰui² / khuí; sīt (失) -> sit⁷ / sit."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "pecar de palabra~",
+      "source_H": "極憾",
+      "source_M": "quěg chěg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pecar de palabra~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kek⁸ tsek⁷",
+        "tai_lo_standard": "ke̍k-tsek",
+        "phonological_basis": "17c Dominican orthography conversion: quěg (極) -> kek⁸ / ke̍k; chěg (憾) -> tsek⁷ / tsek."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Peu~ ſ. pecado~",
+      "source_H": "魚",
+      "source_M": "Hū",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Peu~ ſ. pecado~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu⁵",
+        "tai_lo_standard": "hû",
+        "phonological_basis": "17c Dominican orthography conversion: Hū (魚) -> hu⁵ / hû."
+      }
+    }
+  ]
+}

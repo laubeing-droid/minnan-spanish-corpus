@@ -1,0 +1,277 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 515,
+  "historical_folio": 481,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0515/pdf_0515_300dpi.png",
+  "page_header": "G. ante. E.",
+  "page_footer_printed": "- 481 -",
+  "page_footer_handwritten": "49",
+  "total_positions_recorded": 13,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Gato como siño.",
+      "source_H": "旬",
+      "source_M": "pè Põ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Gato como siño.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe² põ⁶",
+        "tai_lo_standard": "pé-pōnn",
+        "phonological_basis": "17c Dominican orthography conversion: pè (旬) -> pe² / pé; Põ (?) -> põ⁶ / pōnn."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "gato como siño.",
+      "source_H": "甸[疑:甸/旬] 旬",
+      "source_M": "pō̃ pŏy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "gato como siño.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "põ⁵ pi² i¹",
+        "tai_lo_standard": "pônn-pí-i",
+        "phonological_basis": "17c Dominican orthography conversion: pō̃ (甸) -> põ⁵ / pônn; p (旬) -> pi² / pí; y (?) -> i¹ / i."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Gato~.",
+      "source_H": "猫",
+      "source_M": "Niāu.",
+      "source_R": "niāu chú ratón.",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Gato~.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "niau⁵",
+        "tai_lo_standard": "niâu",
+        "phonological_basis": "17c Dominican orthography conversion: Niāu (猫) -> niau⁵ / niâu."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "gato.",
+      "source_H": "猫 兒[疑:兒/見]",
+      "source_M": "māu xȳ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "gato.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mau⁵ dzi⁵",
+        "tai_lo_standard": "mâu-jî",
+        "phonological_basis": "17c Dominican orthography conversion: māu (猫) -> mau⁵ / mâu; x (兒) -> dzi⁵ / jî."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "gato.",
+      "source_H": "猫 公",
+      "source_M": "niāu cáy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "gato.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "niau⁵ kai¹",
+        "tai_lo_standard": "niâu-kai",
+        "phonological_basis": "17c Dominican orthography conversion: niāu (猫) -> niau⁵ / niâu; cáy (公) -> kai¹ / kai."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "gato~",
+      "source_H": "猫 牯",
+      "source_M": "niāu còi.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "gato~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "niau⁵ koi²",
+        "tai_lo_standard": "niâu-kói",
+        "phonological_basis": "17c Dominican orthography conversion: niāu (猫) -> niau⁵ / niâu; còi (牯) -> koi² / kói."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "gato, ojos de gato -",
+      "source_H": "猫 兒[疑:兒/鼠] 眼",
+      "source_M": "māu xȳ giè̃.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "gato, ojos de gato -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mau⁵ dzi⁵ gĩẽ²",
+        "tai_lo_standard": "mâu-jî-giénn",
+        "phonological_basis": "17c Dominican orthography conversion: māu (猫) -> mau⁵ / mâu; x (兒) -> dzi⁵ / jî; giè̃ (眼) -> gĩẽ² / giénn."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Gavia,",
+      "source_H": "桅 斗",
+      "source_M": "vg laù.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Gavia,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "vk⁷ lau²",
+        "tai_lo_standard": "vk-láu",
+        "phonological_basis": "17c Dominican orthography conversion: vg (桅) -> vk⁷ / vk; laù (斗) -> lau² / láu."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Gayta.",
+      "source_H": "筊 筊[疑:筊/變]",
+      "source_M": "gwūn av̂ gwūn sūn av̂ locāv̂ la.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Gayta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gwun⁵ av³ gwun⁶ sun⁶ av³ locav³ la¹",
+        "tai_lo_standard": "gwûn-àv-gwūn-sūn-àv-locàv-la",
+        "phonological_basis": "17c Dominican orthography conversion: gwūn (筊) -> gwun⁵ / gwûn; av̂ (筊) -> av³ / àv; gwūn (?) -> gwun⁶ / gwūn; sūn (?) -> sun⁶ / sūn; av̂ (?) -> av³ / àv; locāv̂ (?) -> locav³ / locàv; la (?) -> la¹ / la."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "G.",
+      "source_H": "[空]",
+      "source_M": "ante.",
+      "source_R": "E.",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "G.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ante¹",
+        "tai_lo_standard": "ante",
+        "phonological_basis": "17c Dominican orthography conversion: ante (?) -> ante¹ / ante."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Generación, hijos.",
+      "source_H": "代",
+      "source_M": "Fày tèy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Generación, hijos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fai² tei²",
+        "tai_lo_standard": "fái-téi",
+        "phonological_basis": "17c Dominican orthography conversion: Fày (代) -> fai² / fái; tèy (?) -> tei² / téi."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "generación, hijos y nietos.",
+      "source_H": "子 孫",
+      "source_M": "gwià gwûn.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "generación, hijos y nietos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gwia² gwun³",
+        "tai_lo_standard": "gwiá-gwùn",
+        "phonological_basis": "17c Dominican orthography conversion: gwià (子) -> gwia² / gwiá; gwûn (孫) -> gwun³ / gwùn."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Generoso hombre.",
+      "source_H": "方 家",
+      "source_M": "hông gìè.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Generoso hombre.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ³ gie²",
+        "tai_lo_standard": "hòng-gié",
+        "phonological_basis": "17c Dominican orthography conversion: hông (方) -> hɔŋ³ / hòng; gìè (家) -> gie² / gié."
+      }
+    }
+  ]
+}

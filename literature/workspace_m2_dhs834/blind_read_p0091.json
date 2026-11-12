@@ -1,0 +1,415 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 91,
+  "historical_folio": 62,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0091/pdf_0091_300dpi.png",
+  "page_header": "A. ante. M.",
+  "page_footer_printed": "- 62 -",
+  "page_footer_handwritten": "31",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "ambos juntos",
+      "source_H": "相謙",
+      "source_M": "sió quiám.",
+      "source_R": "siăng guiěn",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ambos juntos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio¹ kiam¹",
+        "tai_lo_standard": "sio-kiam",
+        "phonological_basis": "17c Dominican orthography conversion: sió (相) -> sio¹ / sio; quiám (謙) -> kiam¹ / kiam."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "ambos. non concertos",
+      "source_H": "互",
+      "source_M": "hǔn..",
+      "source_R": "hū",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ambos. non concertos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hun²",
+        "tai_lo_standard": "hún",
+        "phonological_basis": "17c Dominican orthography conversion: hǔn (互) -> hun² / hún."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "ambos reciprocamente",
+      "source_H": "互相",
+      "source_M": "hǔn siáng.",
+      "source_R": "hū siāng",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ambos reciprocamente",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hun² siaŋ¹",
+        "tai_lo_standard": "hún-siang",
+        "phonological_basis": "17c Dominican orthography conversion: hǔn (互) -> hun² / hún; siáng (相) -> siaŋ¹ / siang."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Amedrentar. q. espancar. temor. miedo",
+      "source_H": "哄",
+      "source_M": "hàng. dargonay voce=",
+      "source_R": "hòng",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Amedrentar. q. espancar. temor. miedo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "haŋ²",
+        "tai_lo_standard": "háng",
+        "phonological_basis": "17c Dominican orthography conversion: hàng (哄) -> haŋ² / háng."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "amedrentar aBoces, p^a engañar",
+      "source_H": "哄騙",
+      "source_M": "hàng pien,",
+      "source_R": "hòng piěn",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amedrentar aBoces, p^a engañar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "haŋ² pʰieʔ⁷",
+        "tai_lo_standard": "háng-phieh",
+        "phonological_basis": "17c Dominican orthography conversion: hàng (哄) -> haŋ² / háng; pien (騙) -> pʰieʔ⁷ / phieh."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "amedrentar riñendo.",
+      "source_H": "慌張",
+      "source_M": "hóng tiáng,",
+      "source_R": "huǎng chiǎng",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amedrentar riñendo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ¹ tiaŋ¹",
+        "tai_lo_standard": "hong-tiang",
+        "phonological_basis": "17c Dominican orthography conversion: hóng (慌) -> hɔŋ¹ / hong; tiáng (張) -> tiaŋ¹ / tiang."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Amenaçar",
+      "source_H": "雕",
+      "source_M": "Tiaú",
+      "source_R": "chiêu",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Amenaçar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiau¹",
+        "tai_lo_standard": "tiau",
+        "phonological_basis": "17c Dominican orthography conversion: Tiaú (雕) -> tiau¹ / tiau."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "amenaçar",
+      "source_H": "放雕",
+      "source_M": "pâng tiaú,",
+      "source_R": "fāng chiěu",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amenaçar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paŋ³ tiau¹",
+        "tai_lo_standard": "pàng-tiau",
+        "phonological_basis": "17c Dominican orthography conversion: pâng (放) -> paŋ³ / pàng; tiaú (雕) -> tiau¹ / tiau."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "amenaçarle con lo que el otro abelin quido -",
+      "source_H": "訐",
+      "source_M": "quier.,",
+      "source_R": "guiēt",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amenaçarle con lo que el otro abelin quido -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kier¹",
+        "tai_lo_standard": "kier",
+        "phonological_basis": "17c Dominican orthography conversion: quier (訐) -> kier¹ / kier."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Ameno, florido.",
+      "source_H": "茂",
+      "source_M": "mǒn.",
+      "source_R": "meu.",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ameno, florido.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mon²",
+        "tai_lo_standard": "món",
+        "phonological_basis": "17c Dominican orthography conversion: mǒn (茂) -> mon² / món."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "ameno como el prado.",
+      "source_H": "茂盛",
+      "source_M": "mǒn feng.",
+      "source_R": "meu fēng",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ameno como el prado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mon² feŋ²",
+        "tai_lo_standard": "món-féng",
+        "phonological_basis": "17c Dominican orthography conversion: mǒn (茂) -> mon² / món; feng (盛) -> feŋ² / féng."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Amigo. y amistad",
+      "source_H": "和",
+      "source_M": "hō.",
+      "source_R": "hô",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Amigo. y amistad",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho⁵",
+        "tai_lo_standard": "hô",
+        "phonological_basis": "17c Dominican orthography conversion: hō (和) -> ho⁵ / hô."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "amigo y concordia",
+      "source_H": "和睦 [疑:睦/陸]",
+      "source_M": "hō bos.",
+      "source_R": "hô mō",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigo y concordia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho⁵ bos³",
+        "tai_lo_standard": "hô-bòs",
+        "phonological_basis": "17c Dominican orthography conversion: hō (和) -> ho⁵ / hô; bos (睦) -> bos³ / bòs."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "amigos. yha que se amigos",
+      "source_H": "和合",
+      "source_M": "hō hap.",
+      "source_R": "hô hāg",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos. yha que se amigos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho⁵ hap⁸",
+        "tai_lo_standard": "hô-ha̍p",
+        "phonological_basis": "17c Dominican orthography conversion: hō (和) -> ho⁵ / hô; hap (合) -> hap⁸ / ha̍p."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "amigos quehace el vno la voluntad del otro -",
+      "source_H": "和氣",
+      "source_M": "hō guy",
+      "source_R": "hô gui",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos quehace el vno la voluntad del otro -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho⁵ guiʔ⁷",
+        "tai_lo_standard": "hô-guih",
+        "phonological_basis": "17c Dominican orthography conversion: hō (和) -> ho⁵ / hô; guy (氣) -> guiʔ⁷ / guih."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "amigos. y sonaçe enamistad como duos casados -",
+      "source_H": "和諧",
+      "source_M": "hō hay.",
+      "source_R": "hô hay",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos. y sonaçe enamistad como duos casados -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho⁵ hai⁵",
+        "tai_lo_standard": "hô-hâi",
+        "phonological_basis": "17c Dominican orthography conversion: hō (和) -> ho⁵ / hô; hay (諧) -> hai⁵ / hâi."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Amigos que no ze contradicen ut lus duos casados -",
+      "source_H": "和順",
+      "source_M": "hō jun",
+      "source_R": "hô guān",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Amigos que no ze contradicen ut lus duos casados -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho⁵ dzun²",
+        "tai_lo_standard": "hô-jún",
+        "phonological_basis": "17c Dominican orthography conversion: hō (和) -> ho⁵ / hô; jun (順) -> dzun² / jún."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "amigos que ſe conuersan con las voluntades ut la musica -",
+      "source_H": "和同",
+      "source_M": "hō tong.",
+      "source_R": "hô tong",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amigos que ſe conuersan con las voluntades ut la musica -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho⁵ tɔŋ⁵",
+        "tai_lo_standard": "hô-tông",
+        "phonological_basis": "17c Dominican orthography conversion: hō (和) -> ho⁵ / hô; tong (同) -> tɔŋ⁵ / tông."
+      }
+    }
+  ]
+}

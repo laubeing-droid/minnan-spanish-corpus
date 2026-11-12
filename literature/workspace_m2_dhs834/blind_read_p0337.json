@@ -1,0 +1,516 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 337,
+  "historical_folio": 308,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0337/pdf_0337_300dpi.png",
+  "page_header": "D. ante. H.",
+  "page_footer_printed": "- 308 -",
+  "page_footer_handwritten": "154",
+  "total_positions_recorded": 23,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Dar nado . alboçoria",
+      "source_H": "寬",
+      "source_M": "cua",
+      "source_R": "cuan",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar nado . alboçoria",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kua¹",
+        "tai_lo_standard": "kua",
+        "phonological_basis": "17c Dominican orthography conversion: cua (寬) -> kua¹ / kua."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Dar nado alos otros",
+      "source_H": "可寬",
+      "source_M": "[涂]ia cua.",
+      "source_R": "co cuan",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar nado alos otros",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ia¹ kua¹",
+        "tai_lo_standard": "ia-kua",
+        "phonological_basis": "17c Dominican orthography conversion: ia (可) -> ia¹ / ia; cua (寬) -> kua¹ / kua."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Dar nado alos otros.",
+      "source_H": "改寬",
+      "source_M": "guey cua",
+      "source_R": "guay cuan",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar nado alos otros.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guei¹ kua¹",
+        "tai_lo_standard": "guei-kua",
+        "phonological_basis": "17c Dominican orthography conversion: guey (改) -> guei¹ / guei; cua (寬) -> kua¹ / kua."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Dar conferencia.",
+      "source_H": "托[疑:抳]",
+      "source_M": "Fō tām. tou līm.",
+      "source_R": "chim",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar conferencia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fo³ tam³ tou⁶ lim⁶",
+        "tai_lo_standard": "fò-tàm-tōu-līm",
+        "phonological_basis": "17c Dominican orthography conversion: Fō (托) -> fo³ / fò; tām (?) -> tam³ / tàm; tou (?) -> tou⁶ / tōu; līm (?) -> lim⁶ / līm."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Dar ona cosa entre sta .",
+      "source_H": "托",
+      "source_M": "Fō",
+      "source_R": "to",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar ona cosa entre sta .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fo⁵",
+        "tai_lo_standard": "fô",
+        "phonological_basis": "17c Dominican orthography conversion: Fō (托) -> fo⁵ / fô."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Dar palabra .",
+      "source_H": "約",
+      "source_M": "iag.",
+      "source_R": "yo",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar palabra .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iak⁷",
+        "tai_lo_standard": "iak",
+        "phonological_basis": "17c Dominican orthography conversion: iag (約) -> iak⁷ / iak."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Dar lapalabra",
+      "source_H": "斷約",
+      "source_M": "frām iâg.",
+      "source_R": "toan yo",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar lapalabra",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fram³ iak⁷",
+        "tai_lo_standard": "fràm-iak",
+        "phonological_basis": "17c Dominican orthography conversion: frām (斷) -> fram³ / fràm; iâg (約) -> iak⁷ / iak."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Dar, herir",
+      "source_H": "打",
+      "source_M": "Pa",
+      "source_R": "ta",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar, herir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paʔ⁷",
+        "tai_lo_standard": "pah",
+        "phonological_basis": "17c Dominican orthography conversion: Pa (打) -> paʔ⁷ / pah."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Dar para Bien",
+      "source_H": "慶",
+      "source_M": "gueng",
+      "source_R": "gueng",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar para Bien",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gueŋ³",
+        "tai_lo_standard": "guèng",
+        "phonological_basis": "17c Dominican orthography conversion: gueng (慶) -> gueŋ³ / guèng."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Dar para Bien",
+      "source_H": "賀喜",
+      "source_M": "ho hy",
+      "source_R": "ho hy",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar para Bien",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho¹ hi²",
+        "tai_lo_standard": "ho-hí",
+        "phonological_basis": "17c Dominican orthography conversion: ho (賀) -> ho¹ / ho; hy (喜) -> hi² / hí."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Dar quenta por escrito .",
+      "source_H": "詞",
+      "source_M": "sū",
+      "source_R": "chi",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar quenta por escrito .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su⁵",
+        "tai_lo_standard": "sû",
+        "phonological_basis": "17c Dominican orthography conversion: sū (詞) -> su⁵ / sû."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Dar punt' llaco .",
+      "source_H": "蹕[疑:踺]",
+      "source_M": "Lai",
+      "source_R": "tau",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar punt' llaco .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lai³",
+        "tai_lo_standard": "lài",
+        "phonological_basis": "17c Dominican orthography conversion: Lai (蹕) -> lai³ / lài."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Dar traca .",
+      "source_H": "局",
+      "source_M": "siā guiōng lo chōng.",
+      "source_R": "guio",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar traca .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sia³ guioŋ¹ lo⁶ tsɔŋ⁶",
+        "tai_lo_standard": "sià-guiong-lō-tsōng",
+        "phonological_basis": "17c Dominican orthography conversion: siā (局) -> sia³ / sià; guiōng (?) -> guioŋ¹ / guiong; lo (?) -> lo⁶ / lō; chōng (?) -> tsɔŋ⁶ / tsōng."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Dar señal . dote",
+      "source_H": "聘",
+      "source_M": "Peng ley.",
+      "source_R": "geng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar señal . dote",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "peŋ⁵ lei⁶",
+        "tai_lo_standard": "pêng-lēi",
+        "phonological_basis": "17c Dominican orthography conversion: Peng (聘) -> peŋ⁵ / pêng; ley (?) -> lei⁶ / lēi."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Dar enseñal .",
+      "source_H": "下定",
+      "source_M": "he tiã",
+      "source_R": "hia ceng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar enseñal .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "he⁵ tĩã⁶",
+        "tai_lo_standard": "hê-tiānn",
+        "phonological_basis": "17c Dominican orthography conversion: he (下) -> he⁵ / hê; tiã (定) -> tĩã⁶ / tiānn."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Dar ventaja .",
+      "source_H": "遜[疑:巡]",
+      "source_M": "chun.",
+      "source_R": "yun",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar ventaja .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsun³",
+        "tai_lo_standard": "tsùn",
+        "phonological_basis": "17c Dominican orthography conversion: chun (遜) -> tsun³ / tsùn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Dar comi da aelgſena .",
+      "source_H": "錢",
+      "source_M": "chan huy.",
+      "source_R": "chien",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar comi da aelgſena .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰan³ hui⁶",
+        "tai_lo_standard": "tshàn-huī",
+        "phonological_basis": "17c Dominican orthography conversion: chan (錢) -> tsʰan³ / tshàn; huy (?) -> hui⁶ / huī."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Dar comi da aelgſena .",
+      "source_H": "錢路",
+      "source_M": "chan lou.",
+      "source_R": "chien lu",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar comi da aelgſena .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰan³ lou³",
+        "tai_lo_standard": "tshàn-lòu",
+        "phonological_basis": "17c Dominican orthography conversion: chan (錢) -> tsʰan³ / tshàn; lou (路) -> lou³ / lòu."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Dar en controloes .",
+      "source_H": "競",
+      "source_M": "sio gueng.",
+      "source_R": "gueng",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar en controloes .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio¹ gueŋ³",
+        "tai_lo_standard": "sio-guèng",
+        "phonological_basis": "17c Dominican orthography conversion: sio (競) -> sio¹ / sio; gueng (?) -> gueŋ³ / guèng."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Dar el inferior .",
+      "source_H": "賜",
+      "source_M": "su",
+      "source_R": "zu",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar el inferior .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su²",
+        "tai_lo_standard": "sú",
+        "phonological_basis": "17c Dominican orthography conversion: su (賜) -> su² / sú."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "Dar el sustento, osu pentar —",
+      "source_H": "賜廩[疑:靈]",
+      "source_M": "su chy",
+      "source_R": "zu chi",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar el sustento, osu pentar —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su³ tsi¹",
+        "tai_lo_standard": "sù-tsi",
+        "phonological_basis": "17c Dominican orthography conversion: su (賜) -> su³ / sù; chy (廩) -> tsi¹ / tsi."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "Dar bueltas como las rue",
+      "source_H": "輦[疑:輩]",
+      "source_M": "lien.",
+      "source_R": "lien",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar bueltas como las rue",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lien³",
+        "tai_lo_standard": "lièn",
+        "phonological_basis": "17c Dominican orthography conversion: lien (輦) -> lien³ / lièn."
+      }
+    },
+    {
+      "position": 23,
+      "source_L": "Dar del coche —",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dar del coche —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "pdf_page": 221,
+    "source": "native_images/pdf_0221_xref_1347_native.jpeg",
+    "source_sha256": "8129b4a7aca62742337570897248f100299f0bd6b19eac9249987ae8a76f5d6d",
+    "box": [
+      800,
+      2260,
+      2200,
+      2410
+    ],
+    "crop": "external_collation/pdf_0221_published_target_native_v1.png",
+    "sha256": "0f1b03577f8464884ab83d5cbe794049898b930ed7cf004f38f52156fc638967"
+  },
+  {
+    "pdf_page": 355,
+    "source": "native_images/pdf_0355_xref_2017_native.jpeg",
+    "source_sha256": "66e5e9bb94ba39399029bb8a04842dbe98e8515408ca461c57d5e350a10c5c73",
+    "box": [
+      800,
+      1135,
+      2200,
+      1275
+    ],
+    "crop": "external_collation/pdf_0355_published_target_native_v1.png",
+    "sha256": "ec6833b2dc36881c43d5aa5df4b20e367b12719004355f2089397156fa5cad34"
+  }
+]

@@ -1,0 +1,108 @@
+{
+  "role": "REFERENCE SIDE ONLY. Do not pass this file, prior transcripts, paper, or history to blind reader.",
+  "reference_source": {
+    "author": "劉莉美",
+    "year": 2020,
+    "title": "馬尼拉閩南語文獻《西班牙—華語辭典》與西班牙傳教士高母羡",
+    "publication": "漢學研究38.2,215–236",
+    "url": "https://ccsndb.ncl.edu.tw/nclccs/pdf/01_038_002_01_06.pdf",
+    "online_checked": "2026-10-16",
+    "primary_research": true
+  },
+  "source_pdf": "/workspace/scratch/3ee2b91a8980/minnan_continuation/dhs_hispanico_sinicum/source/01_丛刊一_西班牙-华语辞典_Dictionario_Hispánico_Sinicum.pdf",
+  "source_sha256": "a77466a1371bd9bd82fc0d35abb3707fd679a108d0356f4402baca15ae70d115",
+  "samples": [
+    {
+      "sample_id": "A01",
+      "pdf_page": 39,
+      "printed_page_verified_in_image": 10,
+      "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/dhs_pdf_0039_source.png",
+      "image_sha256": "946132d3e78512847ea3bfeed61b3ea68ffe8535091ef4f73c917121556197ca",
+      "region": "右半欄頂部前三條，含相鄰上下文",
+      "stage": "baseline",
+      "published_target": "abuelo",
+      "article_printed_pages": "223",
+      "reference_scope": "只覆蓋西文詞頭，不覆蓋三條全部音寫",
+      "reference_researcher_seen_answer": true,
+      "future_reader_exposure": "not yet known; parent must verify before assignment"
+    },
+    {
+      "sample_id": "A02",
+      "pdf_page": 387,
+      "printed_page_verified_in_image": 358,
+      "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/dhs_pdf_0387_source.png",
+      "image_sha256": "bb5d7fdb32a16a9e7cfe8c157cb238aec547ba0e5874987629a11d9b4de05fd8",
+      "region": "全寬，頁高約68%–84%，保留劃線及旁添字",
+      "stage": "baseline",
+      "published_target": "太極；Erejia",
+      "article_printed_pages": "222",
+      "reference_scope": "只覆蓋刪改漢字及旁添西文；不以現代herejía替換",
+      "reference_researcher_seen_answer": true,
+      "future_reader_exposure": "not yet known; parent must verify before assignment"
+    },
+    {
+      "sample_id": "A03",
+      "pdf_page": 66,
+      "printed_page_verified_in_image": 37,
+      "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/dhs_hispanico_sinicum/images/pdf_0066.png",
+      "image_sha256": "879844faa9dafff5a542a6d8bbb9c7358f5b86b6a01dc9b4e75caa5c5fd00599",
+      "region": "全寬，頁高約18%–37%連續各行",
+      "stage": "baseline",
+      "published_target": "aguelo",
+      "article_printed_pages": "223",
+      "reference_scope": "只覆蓋西文詞頭；同頁拼寫變體與其他欄仍需圖證",
+      "reference_researcher_seen_answer": true,
+      "future_reader_exposure": "not yet known; parent must verify before assignment"
+    },
+    {
+      "sample_id": "B01",
+      "pdf_page": 250,
+      "printed_page_verified_in_image": 221,
+      "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/dhs_pdf_0250_source.png",
+      "image_sha256": "f0ce64b9ba5b5a65342a804820465e83facaf6d64d9f78f25465615b1db87e8c",
+      "region": "全寬，最下四個有字橫行",
+      "stage": "holdout",
+      "published_target": "大明國；China: un Reino della",
+      "article_printed_pages": "222、226",
+      "reference_scope": "論文內兩次引文拼寫有China/Çhina、Reino/reyno差異，必須原圖裁定，不機械按一版答案",
+      "reference_researcher_seen_answer": true,
+      "future_reader_exposure": "not yet known; parent must verify before assignment"
+    },
+    {
+      "sample_id": "B02",
+      "pdf_page": 1029,
+      "printed_page_verified_in_image": 991,
+      "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/dhs_pdf_1029_source.png",
+      "image_sha256": "0da25bb6868a1f1ffbbd5997677b3f5971595b6f96471abe6f9cdaffb3fd054a",
+      "region": "全寬，頁高約72%–84%各橫行",
+      "stage": "holdout",
+      "published_target": "雞籠淡水；Tierra de Isla Hermosa a do estan los españoles",
+      "article_printed_pages": "222",
+      "reference_scope": "句子只為公開引文，不預設原稿大小寫、縮寫展開正確",
+      "reference_researcher_seen_answer": true,
+      "future_reader_exposure": "not yet known; parent must verify before assignment"
+    },
+    {
+      "sample_id": "B03",
+      "pdf_page": 1111,
+      "printed_page_verified_in_image": 1073,
+      "image": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/dhs_pdf_1111_source.png",
+      "image_sha256": "ccac05a5a20949c461d91220a21b44b629c35830b4cab2da0c39e38ee1ddd255",
+      "region": "全寬，頁高約27%–62%連續各行",
+      "stage": "holdout",
+      "published_target": "vuestras merçedes / vuestra magestad / vuestra señoria para mugeres",
+      "article_printed_pages": "221",
+      "reference_scope": "研究可能展開縮寫或規範單複數；原稿縮寫形與已展開答案分層",
+      "reference_researcher_seen_answer": true,
+      "future_reader_exposure": "not yet known; parent must verify before assignment"
+    }
+  ],
+  "limits": [
+    "Reference researcher has seen all listed published answers; cannot act as blind reader.",
+    "New reader must receive only the matching image packet in a fresh no-history task; shared filesystem is a procedural boundary, not technical access isolation.",
+    "Freeze and hash reader output before comparing. Do not claim full-book accuracy from purposive partial targets.",
+    "Printed-page offset changes: PDF39=10,66=37,250=221,387=358,983=945,1029=991,1111=1073 verified visually; do not apply a universal offset.",
+    "Exploratory renders974/1020/1102 proved wrong printed-page mapping and are not admitted samples; retained without deletion.",
+    "No reuse of earlier DHS five figures as fresh holdout."
+  ]
+}

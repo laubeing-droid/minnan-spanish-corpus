@@ -1,0 +1,426 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 366,
+  "historical_folio": 337,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0366/pdf_0366_300dpi.png",
+  "page_header": "I. ante. Iⁿ [疑:手写花体难辨,首字母或为D]",
+  "page_footer_printed": "- 337 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Deslenguado.",
+      "source_H": "口 鼻 恥 [疑:恥/耻]",
+      "source_M": "chiǔ pʸguiāp [疑:pʸ/py]",
+      "source_R": "guiēn pʸguiāp",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Deslenguado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiu² pi¹ guiap⁷ pi⁶ pi¹",
+        "tai_lo_standard": "tsiú-pi-guiap-pī-pi",
+        "phonological_basis": "17c Dominican orthography conversion: chiǔ (口) -> tsiu² / tsiú; p (鼻) -> pi¹ / pi; guiāp (恥) -> guiap⁷ / guiap; p (?) -> pi⁶ / pī; py (?) -> pi¹ / pi."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "+ Deslicanse, resbalar.",
+      "source_H": "曳 [疑:曳/㢲]",
+      "source_M": "+ liū",
+      "source_R": "lūi",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "+ Deslicanse, resbalar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liu⁵",
+        "tai_lo_standard": "liû",
+        "phonological_basis": "17c Dominican orthography conversion: liū (曳) -> liu⁵ / liû."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Deslicanse, resbalar",
+      "source_H": "滑",
+      "source_M": "✗ +cui",
+      "source_R": "huāi",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Deslicanse, resbalar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuiʔ⁸",
+        "tai_lo_standard": "kui̍h",
+        "phonological_basis": "17c Dominican orthography conversion: cui (滑) -> kuiʔ⁸ / kui̍h."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Deslicarse los pies -",
+      "source_H": "滑 着 跤 [疑:着/著]",
+      "source_M": "✗ cuiā hǐo pōa,",
+      "source_R": "huān chiē pōa",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Deslicarse los pies -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuiaʔ⁸ hio² poa²",
+        "tai_lo_standard": "kuia̍h-hió-poá",
+        "phonological_basis": "17c Dominican orthography conversion: cuiā (滑) -> kuiaʔ⁸ / kuia̍h; hǐo (着) -> hio² / hió; pōa (跤) -> poa² / poá."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "+ Deslindar.",
+      "source_H": "决",
+      "source_M": "+ cuẫ",
+      "source_R": "guīe",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "+ Deslindar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ku³",
+        "tai_lo_standard": "kù",
+        "phonological_basis": "17c Dominican orthography conversion: cu (决) -> ku³ / kù."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "[空]",
+      "source_H": "廢",
+      "source_M": "+ chù¹ fū̃ [疑:f/h]",
+      "source_R": "chūⁿ.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu² fũ⁶ f⁶ hi¹",
+        "tai_lo_standard": "tsú-fūnn-f̄-hi",
+        "phonological_basis": "17c Dominican orthography conversion: chù (廢) -> tsu² / tsú; fū̃ (?) -> fũ⁶ / fūnn; f (?) -> f⁶ / f̄; h (?) -> hi¹ / hi."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Deslindar",
+      "source_H": "辯 明 白",
+      "source_M": "+piěn bēng pěg",
+      "source_R": "piēn mǐng pě",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Deslindar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pien² beŋ⁵ pek⁸",
+        "tai_lo_standard": "pién-bêng-pe̍k",
+        "phonological_basis": "17c Dominican orthography conversion: piěn (辯) -> pien² / pién; bēng (明) -> beŋ⁵ / bêng; pěg (白) -> pek⁸ / pe̍k."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Deslindar",
+      "source_H": "辯 卜",
+      "source_M": "+ piěn pǒg.",
+      "source_R": "piēn pō",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Deslindar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pien² pɔk⁷",
+        "tai_lo_standard": "pién-pok",
+        "phonological_basis": "17c Dominican orthography conversion: piěn (辯) -> pien² / pién; pǒg (卜) -> pɔk⁷ / pok."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Deslindar",
+      "source_H": "辯 剥",
+      "source_M": "+piěn pác.",
+      "source_R": "piēn pō",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Deslindar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pien² pak⁷",
+        "tai_lo_standard": "pién-pak",
+        "phonological_basis": "17c Dominican orthography conversion: piěn (辯) -> pien² / pién; pác (剥) -> pak⁷ / pak."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Deslindar",
+      "source_H": "决 定",
+      "source_M": "cuā̃ tīa",
+      "source_R": "guiā tīng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Deslindar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kũã⁵ tia⁶",
+        "tai_lo_standard": "kuânn-tiā",
+        "phonological_basis": "17c Dominican orthography conversion: cuā̃ (决) -> kũã⁵ / kuânn; tīa (定) -> tia⁶ / tiā."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Deslindad.",
+      "source_H": "開 辟",
+      "source_M": "cuǐ càc.",
+      "source_R": "cāy guīy",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Deslindad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰui² kak⁷",
+        "tai_lo_standard": "khuí-kak",
+        "phonological_basis": "17c Dominican orthography conversion: cuǐ (開) -> kʰui² / khuí; càc (辟) -> kak⁷ / kak."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "deslindad .",
+      "source_H": "開 廢",
+      "source_M": "cuǐ chù.",
+      "source_R": "cāy chū",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "deslindad .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰui² tsu²",
+        "tai_lo_standard": "khuí-tsú",
+        "phonological_basis": "17c Dominican orthography conversion: cuǐ (開) -> kʰui² / khuí; chù (廢) -> tsu² / tsú."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "deslindad .",
+      "source_H": "廢 准 [疑:准/準]",
+      "source_M": "chù chūn.",
+      "source_R": "chū chūn",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "deslindad .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu² tsun⁵",
+        "tai_lo_standard": "tsú-tsûn",
+        "phonological_basis": "17c Dominican orthography conversion: chù (廢) -> tsu² / tsú; chūn (准) -> tsun⁵ / tsûn."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "deslindar",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "deslindar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Desmacalad, sin fuerça.. [疑:ça/ca]",
+      "source_H": "軟 弱",
+      "source_M": "nūy xiǎg.",
+      "source_R": "xněa ňio",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desmacalad, sin fuerça..",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "nui⁵ dziak⁷",
+        "tai_lo_standard": "nuî-jiak",
+        "phonological_basis": "17c Dominican orthography conversion: nūy (軟) -> nui⁵ / nuî; xiǎg (弱) -> dziak⁷ / jiak."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Desmandarse, enuidios [疑:se/ars]",
+      "source_H": "縱 慾",
+      "source_M": "hiong iǒg.",
+      "source_R": "chǒng xiō",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desmandarse, enuidios",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hioŋ¹ iok⁷",
+        "tai_lo_standard": "hiong-iok",
+        "phonological_basis": "17c Dominican orthography conversion: hiong (縱) -> hioŋ¹ / hiong; iǒg (慾) -> iok⁷ / iok."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "desmandarse en uidios.",
+      "source_H": "放 效 [疑:效/傚]",
+      "source_M": "hòng hān, | càn,",
+      "source_R": "fāng hūan",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "desmandarse en uidios.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hoʔ⁷ han⁵ kan²",
+        "tai_lo_standard": "hoh-hân-kán",
+        "phonological_basis": "17c Dominican orthography conversion: hòng (放) -> hoʔ⁷ / hoh; hān (效) -> han⁵ / hân; càn (?) -> kan² / kán."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Desmarañar :",
+      "source_H": "觧 [疑:觧/解]",
+      "source_M": "gué.",
+      "source_R": "guiày",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Desmarañar :",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue¹",
+        "tai_lo_standard": "gue",
+        "phonological_basis": "17c Dominican orthography conversion: gué (觧) -> gue¹ / gue."
+      }
+    }
+  ]
+}

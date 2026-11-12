@@ -1,0 +1,20 @@
+# ==== 版权扫描件与源资产（仅存本地，不上远端）====
+*.pdf
+*.zip
+literature/tiles/
+literature/history_and_sources/
+literature/original_sources/
+literature/reference_bibliography/
+
+# 读者员工作残留的扫描局部裁片（版权影印件衍生物）
+literature/workspace_m2_dhs834/tmp_*/
+literature/workspace_m2_dhs834/scratch_*/
+
+# ==== 协作隐私（含个人邮箱与内部链接，仅存本地）====
+literature/slack*
+
+# ==== 本机工件（仅保留工作流脚本作为施工记录）====
+.zcode/*
+!.zcode/workflow-drafts/
+__pycache__/
+_scratch_*/

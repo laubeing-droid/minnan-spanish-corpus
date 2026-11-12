@@ -1,0 +1,227 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 445,
+  "historical_folio": 411,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0445/pdf_0445_300dpi.png",
+  "page_header": "E. ante. S.",
+  "page_footer_printed": "- 411 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 9,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "errar des conoscér.",
+      "source_H": "擔認",
+      "source_M": "tâm xǐn",
+      "source_R": "tân xīn",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar des conoscér.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tam³ dzin²",
+        "tai_lo_standard": "tàm-jín",
+        "phonological_basis": "17c Dominican orthography conversion: tâm (擔) -> tam³ / tàm; xǐn (認) -> dzin² / jín."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "errar el negotio per ello-",
+      "source_H": "事做差了",
+      "source_M": "sǔ chô chà liàu",
+      "source_R": "zù chô chà liào",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar el negotio per ello-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su⁶ tso³ tsa² liau²",
+        "tai_lo_standard": "sū-tsò-tsá-liáu",
+        "phonological_basis": "17c Dominican orthography conversion: sǔ (事) -> su⁶ / sū; chô (做) -> tso³ / tsò; chà (差) -> tsa² / tsá; liàu (了) -> liau² / liáu."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Erudicion.",
+      "source_H": "學校",
+      "source_M": "hâg hǎu",
+      "source_R": "hiō hiāu",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Erudicion.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hak⁸ hau²",
+        "tai_lo_standard": "ha̍k-háu",
+        "phonological_basis": "17c Dominican orthography conversion: hâg (學) -> hak⁸ / ha̍k; hǎu (校) -> hau² / háu."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Est: suge fuj.",
+      "source_H": "是",
+      "source_M": "sy̌",
+      "source_R": "zù",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Est: suge fuj.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si²",
+        "tai_lo_standard": "sí",
+        "phonological_basis": "17c Dominican orthography conversion: sy̌ (是) -> si² / sí."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "es esto asi o no? puesto al fin de la oracion~",
+      "source_H": "否",
+      "source_M": "hǒu",
+      "source_R": "foù",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "es esto asi o no? puesto al fin de la oracion~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hou²",
+        "tai_lo_standard": "hóu",
+        "phonological_basis": "17c Dominican orthography conversion: hǒu (否) -> hou² / hóu."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "es asi o no?",
+      "source_H": "乎",
+      "source_M": "hǒu",
+      "source_R": "hǔ",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "es asi o no?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hou²",
+        "tai_lo_standard": "hóu",
+        "phonological_basis": "17c Dominican orthography conversion: hǒu (乎) -> hou² / hóu."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "eres cristiano, o no?",
+      "source_H": "汝淋[疑:淋/瀲]水否",
+      "source_M": "lī liām chúi hǒu",
+      "source_R": "nī tiēn zǔi fòu",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "eres cristiano, o no?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "li⁵ liam⁵ tsui¹ hou²",
+        "tai_lo_standard": "lî-liâm-tsui-hóu",
+        "phonological_basis": "17c Dominican orthography conversion: lī (汝) -> li⁵ / lî; liām (淋) -> liam⁵ / liâm; chúi (水) -> tsui¹ / tsui; hǒu (否) -> hou² / hóu."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "es o no?",
+      "source_H": "亞不",
+      "source_M": "ā m̄.",
+      "source_R": "yā pū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "es o no?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "a⁵ mi⁵",
+        "tai_lo_standard": "â-mî",
+        "phonological_basis": "17c Dominican orthography conversion: ā (亞) -> a⁵ / â; m̄ (不) -> mi⁵ / mî."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "eres tu o no?",
+      "source_H": "是汝亞不",
+      "source_M": "sy̌ lǔ ā m̄",
+      "source_R": "zù nī yā pū",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "eres tu o no?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si² lu² a⁵ mi⁵",
+        "tai_lo_standard": "sí-lú-â-mî",
+        "phonological_basis": "17c Dominican orthography conversion: sy̌ (是) -> si² / sí; lǔ (汝) -> lu² / lú; ā (亞) -> a⁵ / â; m̄ (不) -> mi⁵ / mî."
+      }
+    }
+  ]
+}

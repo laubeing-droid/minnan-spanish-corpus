@@ -1,0 +1,395 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 592,
+  "historical_folio": 558,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0592/pdf_0592_300dpi.png",
+  "page_header": "L. ante. A.",
+  "page_footer_printed": "- 558 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "labio obscuro del poço [疑:poço/poco] -",
+      "source_H": "井 干",
+      "source_M": "che quỹ",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "labio obscuro del poço -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse¹ ki¹",
+        "tai_lo_standard": "tse-ki",
+        "phonological_basis": "17c Dominican orthography conversion: che (井) -> tse¹ / tse; qu (干) -> ki¹ / ki."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Labor de aguja",
+      "source_H": "針 指 [疑:指/黹]",
+      "source_M": "chiam chí",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Labor de aguja",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiam¹ tsi¹",
+        "tai_lo_standard": "tsiam-tsi",
+        "phonological_basis": "17c Dominican orthography conversion: chiam (針) -> tsiam¹ / tsiam; chí (指) -> tsi¹ / tsi."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "labor de notas pintadas -",
+      "source_H": "花",
+      "source_M": "huá",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "labor de notas pintadas -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hua¹",
+        "tai_lo_standard": "hua",
+        "phonological_basis": "17c Dominican orthography conversion: huá (花) -> hua¹ / hua."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Labrador -",
+      "source_H": "農",
+      "source_M": "lông hũ",
+      "source_R": "qui tō here [疑:qui/gui]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Labrador -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lɔŋ³ hũ¹",
+        "tai_lo_standard": "lòng-hunn",
+        "phonological_basis": "17c Dominican orthography conversion: lông (農) -> lɔŋ³ / lòng; hũ (?) -> hũ¹ / hunn."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "labrador de aquella sementera.",
+      "source_H": "佃",
+      "source_M": "tiē̃ tiē̃ chū",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "labrador de aquella sementera.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tĩẽ⁵ tĩẽ⁶ tsu⁶",
+        "tai_lo_standard": "tiênn-tiēnn-tsū",
+        "phonological_basis": "17c Dominican orthography conversion: tiē̃ (佃) -> tĩẽ⁵ / tiênn; tiē̃ (?) -> tĩẽ⁶ / tiēnn; chū (?) -> tsu⁶ / tsū."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "labrador de aquella sementera.",
+      "source_H": "佃 戶",
+      "source_M": "tiē̃ hoǔ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "labrador de aquella sementera.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tĩẽ⁵ hou²",
+        "tai_lo_standard": "tiênn-hóu",
+        "phonological_basis": "17c Dominican orthography conversion: tiē̃ (佃) -> tĩẽ⁵ / tiênn; hoǔ (戶) -> hou² / hóu."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Labrador -",
+      "source_H": "農 夫",
+      "source_M": "lông hū",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Labrador -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lɔŋ³ hu⁵",
+        "tai_lo_standard": "lòng-hû",
+        "phonological_basis": "17c Dominican orthography conversion: lông (農) -> lɔŋ³ / lòng; hū (夫) -> hu⁵ / hû."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Labrador -",
+      "source_H": "佃 主",
+      "source_M": "tiē̃ chū",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Labrador -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tĩẽ⁵ tsu⁵",
+        "tai_lo_standard": "tiênn-tsû",
+        "phonological_basis": "17c Dominican orthography conversion: tiē̃ (佃) -> tĩẽ⁵ / tiênn; chū (主) -> tsu⁵ / tsû."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "labrador de coge muchos arroz",
+      "source_H": "米 石 多",
+      "source_M": "bǐ chiō chěy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "labrador de coge muchos arroz",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bi² tsio⁵ tsei²",
+        "tai_lo_standard": "bí-tsiô-tséi",
+        "phonological_basis": "17c Dominican orthography conversion: bǐ (米) -> bi² / bí; chiō (石) -> tsio⁵ / tsiô; chěy (多) -> tsei² / tséi."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Labrar, compaños.",
+      "source_H": "桃",
+      "source_M": "thô, ī quiaú",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Labrar, compaños.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰo³ i⁶ kiau¹",
+        "tai_lo_standard": "thò-ī-kiau",
+        "phonological_basis": "17c Dominican orthography conversion: thô (桃) -> tʰo³ / thò; ī (?) -> i⁶ / ī; quiaú (?) -> kiau¹ / kiau."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "labrar piedra preciosas -",
+      "source_H": "琢",
+      "source_M": "tǒg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "labrar piedra preciosas -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tɔk⁷",
+        "tai_lo_standard": "tok",
+        "phonological_basis": "17c Dominican orthography conversion: tǒg (琢) -> tɔk⁷ / tok."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "labrar el capa con flores - con escofia",
+      "source_H": "鏨",
+      "source_M": "chǎm",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "labrar el capa con flores - con escofia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsam²",
+        "tai_lo_standard": "tsám",
+        "phonological_basis": "17c Dominican orthography conversion: chǎm (鏨) -> tsam² / tsám."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Labrar el capa con flores -",
+      "source_H": "鏨 花",
+      "source_M": "chǎm huá",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Labrar el capa con flores -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsam² hua¹",
+        "tai_lo_standard": "tsám-hua",
+        "phonological_basis": "17c Dominican orthography conversion: chǎm (鏨) -> tsam² / tsám; huá (花) -> hua¹ / hua."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "labrar metal",
+      "source_H": "打 銅",
+      "source_M": "pa tâng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "labrar metal",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paʔ⁷ taŋ³",
+        "tai_lo_standard": "pah-tàng",
+        "phonological_basis": "17c Dominican orthography conversion: pa (打) -> paʔ⁷ / pah; tâng (銅) -> taŋ³ / tàng."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "labrar sedellas comtable",
+      "source_H": "勢 [疑:勢/費] 平",
+      "source_M": "puī pē̃",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "labrar sedellas comtable",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pui⁵ pẽ⁵",
+        "tai_lo_standard": "puî-pênn",
+        "phonological_basis": "17c Dominican orthography conversion: puī (勢) -> pui⁵ / puî; pē̃ (平) -> pẽ⁵ / pênn."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "labrar may y mas la madera como entallador,",
+      "source_H": "刻 剝",
+      "source_M": "guēh pǎg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "labrar may y mas la madera como entallador,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gueʔ⁷ pak⁷",
+        "tai_lo_standard": "gueh-pak",
+        "phonological_basis": "17c Dominican orthography conversion: guēh (刻) -> gueʔ⁷ / gueh; pǎg (剝) -> pak⁷ / pak."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "labrar con aguja",
+      "source_H": "桃 [疑:桃/挑] 花",
+      "source_M": "thô huá",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "labrar con aguja",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰo³ hua¹",
+        "tai_lo_standard": "thò-hua",
+        "phonological_basis": "17c Dominican orthography conversion: thô (桃) -> tʰo³ / thò; huá (花) -> hua¹ / hua."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "labrar la punta del capas.",
+      "source_H": "鞋 云 頭",
+      "source_M": "ê ūn tāu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "labrar la punta del capas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "e³ un⁵ tʰau⁵",
+        "tai_lo_standard": "è-ûn-thâu",
+        "phonological_basis": "17c Dominican orthography conversion: ê (鞋) -> e³ / è; ūn (云) -> un⁵ / ûn; tāu (頭) -> tʰau⁵ / thâu."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "labrar a punta des con escopto",
+      "source_H": "鑿 拳 頭",
+      "source_M": "chǎg cūn tāu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "labrar a punta des con escopto",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsak⁷ kun⁵ tʰau⁵",
+        "tai_lo_standard": "tsak-kûn-thâu",
+        "phonological_basis": "17c Dominican orthography conversion: chǎg (鑿) -> tsak⁷ / tsak; cūn (拳) -> kun⁵ / kûn; tāu (頭) -> tʰau⁵ / thâu."
+      }
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 329,
+  "historical_folio": 300,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0329/pdf_0329_300dpi.png",
+  "page_header": "C. arre. U.",
+  "page_footer_printed": "- 300 -",
+  "page_footer_handwritten": "130",
+  "total_positions_recorded": 21,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Culebra.",
+      "source_H": "蛇",
+      "source_M": "chōā",
+      "source_R": "siê",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Culebra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsoa⁵",
+        "tai_lo_standard": "tsoâ",
+        "phonological_basis": "17c Dominican orthography conversion: chōā (蛇) -> tsoa⁵ / tsoâ."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "culebra de terpig.",
+      "source_H": "蟾蜍 [疑:蟾蜍/蜍]",
+      "source_M": "siān sū",
+      "source_R": "siè",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "culebra de terpig.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sian⁵ su⁵",
+        "tai_lo_standard": "siân-sû",
+        "phonological_basis": "17c Dominican orthography conversion: siān (蟾) -> sian⁵ / siân; sū (蜍) -> su⁵ / sû."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "culebra de dos cabeças.",
+      "source_H": "双頭蛇",
+      "source_M": "siāng tāu chōā",
+      "source_R": "svâng ĥeu siê",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "culebra de dos cabeças.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siaŋ⁵ tʰau⁵ tsoa⁵",
+        "tai_lo_standard": "siâng-thâu-tsoâ",
+        "phonological_basis": "17c Dominican orthography conversion: siāng (双) -> siaŋ⁵ / siâng; tāu (頭) -> tʰau⁵ / thâu; chōā (蛇) -> tsoa⁵ / tsoâ."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "culebrar la culebra.",
+      "source_H": "蛇",
+      "source_M": "zō chōā",
+      "source_R": "zǒ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "culebrar la culebra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso⁵ tsoa⁶",
+        "tai_lo_standard": "tsô-tsoā",
+        "phonological_basis": "17c Dominican orthography conversion: zō (蛇) -> tso⁵ / tsô; chōā (?) -> tsoa⁶ / tsoā."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "culebrar la culebra.",
+      "source_H": "蛇走",
+      "source_M": "zō chāu",
+      "source_R": "zǒ chěn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "culebrar la culebra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso⁵ tsau⁵",
+        "tai_lo_standard": "tsô-tsâu",
+        "phonological_basis": "17c Dominican orthography conversion: zō (蛇) -> tso⁵ / tsô; chāu (走) -> tsau⁵ / tsâu."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "culebra de capillo.",
+      "source_H": "蟒蛇",
+      "source_M": "mōng chōā",
+      "source_R": "mông zǒ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "culebra de capillo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mɔŋ⁵ tsoa⁵",
+        "tai_lo_standard": "mông-tsoâ",
+        "phonological_basis": "17c Dominican orthography conversion: mōng (蟒) -> mɔŋ⁵ / mông; chōā (蛇) -> tsoa⁵ / tsoâ."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Culpa. culpar acusacioñ",
+      "source_H": "咎",
+      "source_M": "guiū cūy gù",
+      "source_R": "gūīn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Culpa. culpar acusacioñ",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guiu⁵ kui⁶ gu²",
+        "tai_lo_standard": "guîu-kuī-gú",
+        "phonological_basis": "17c Dominican orthography conversion: guiū (咎) -> guiu⁵ / guîu; cūy (?) -> kui⁶ / kuī; gù (?) -> gu² / gú."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "culpar in juram⁹te.",
+      "source_H": "諱",
+      "source_M": "hōozī",
+      "source_R": "huàng fàng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "culpar in juram⁹te.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hoozi⁵",
+        "tai_lo_standard": "hôozi",
+        "phonological_basis": "17c Dominican orthography conversion: hōozī (諱) -> hoozi⁵ / hôozi."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "culpar in juram⁹te.",
+      "source_H": "做諱",
+      "source_M": "chò hōozī",
+      "source_R": "chò fâng",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "culpar in juram⁹te.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso² hoozi⁵",
+        "tai_lo_standard": "tsó-hôozi",
+        "phonological_basis": "17c Dominican orthography conversion: chò (做) -> tso² / tsó; hōozī (諱) -> hoozi⁵ / hôozi."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "culpar â danos, en carta.",
+      "source_H": "供罪",
+      "source_M": "gúiong chūē",
+      "source_R": "còng chùi",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "culpar â danos, en carta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guioŋ¹ tsue⁵",
+        "tai_lo_standard": "guiong-tsuê",
+        "phonological_basis": "17c Dominican orthography conversion: gúiong (供) -> guioŋ¹ / guiong; chūē (罪) -> tsue⁵ / tsuê."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "culpar â otro haciendole el.",
+      "source_H": "歸咎",
+      "source_M": "cūy gūiū",
+      "source_R": "cùi gūīn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "culpar â otro haciendole el.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kui⁵ guiu⁵",
+        "tai_lo_standard": "kuî-guîu",
+        "phonological_basis": "17c Dominican orthography conversion: cūy (歸) -> kui⁵ / kuî; gūiū (咎) -> guiu⁵ / guîu."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Culpado.",
+      "source_H": "凶身",
+      "source_M": "hiōng sīn",
+      "source_R": "hiông jîn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Culpado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hioŋ⁵ sin⁵",
+        "tai_lo_standard": "hiông-sîn",
+        "phonological_basis": "17c Dominican orthography conversion: hiōng (凶) -> hioŋ⁵ / hiông; sīn (身) -> sin⁵ / sîn."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "culpado.",
+      "source_H": "犯人",
+      "source_M": "huān lâng",
+      "source_R": "fān jīn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "culpado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan⁵ laŋ³",
+        "tai_lo_standard": "huân-làng",
+        "phonological_basis": "17c Dominican orthography conversion: huān (犯) -> huan⁵ / huân; lâng (人) -> laŋ³ / làng."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "culpado injustam⁹te.",
+      "source_H": "虛誣",
+      "source_M": "hú bū",
+      "source_R": "hŷ mīn",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "culpado injustam⁹te.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu¹ bu⁵",
+        "tai_lo_standard": "hu-bû",
+        "phonological_basis": "17c Dominican orthography conversion: hú (虛) -> hu¹ / hu; bū (誣) -> bu⁵ / bû."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "culpado injustam⁹te.",
+      "source_H": "虛指",
+      "source_M": "hú chī",
+      "source_R": "hŷ chùi",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "culpado injustam⁹te.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu¹ tsi⁵",
+        "tai_lo_standard": "hu-tsî",
+        "phonological_basis": "17c Dominican orthography conversion: hú (虛) -> hu¹ / hu; chī (指) -> tsi⁵ / tsî."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "[空]",
+      "source_H": "解來解去 [疑:來/耒]",
+      "source_M": "gūey cāy gūey cū",
+      "source_R": "guāy ĥāy guāy gūīⁿ: guīay",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guei⁵ kai¹ guei⁵ kʰu⁵",
+        "tai_lo_standard": "guêi-kai-guêi-khû",
+        "phonological_basis": "17c Dominican orthography conversion: gūey (解) -> guei⁵ / guêi; cāy (來) -> kai¹ / kai; gūey (解) -> guei⁵ / guêi; cū (去) -> kʰu⁵ / khû."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Cumbre, alto, de alço.",
+      "source_H": "尾",
+      "source_M": "bùe",
+      "source_R": "bǔey",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cumbre, alto, de alço.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue²",
+        "tai_lo_standard": "bué",
+        "phonological_basis": "17c Dominican orthography conversion: bùe (尾) -> bue² / bué."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "cumbre, alto, a cabeça de alço.",
+      "source_H": "頭",
+      "source_M": "tāu",
+      "source_R": "têû",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cumbre, alto, a cabeça de alço.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰau⁵",
+        "tai_lo_standard": "thâu",
+        "phonological_basis": "17c Dominican orthography conversion: tāu (頭) -> tʰau⁵ / thâu."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "cumbre del monte.",
+      "source_H": "崙",
+      "source_M": "lun",
+      "source_R": "bûn",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cumbre del monte.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lun¹",
+        "tai_lo_standard": "lun",
+        "phonological_basis": "17c Dominican orthography conversion: lun (崙) -> lun¹ / lun."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "cumbre del monte",
+      "source_H": "山尖峯",
+      "source_M": "sōa chiām hōng",
+      "source_R": "sān chiēn fōng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cumbre del monte",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "soa⁵ tsiam⁵ hɔŋ⁵",
+        "tai_lo_standard": "soâ-tsiâm-hông",
+        "phonological_basis": "17c Dominican orthography conversion: sōa (山) -> soa⁵ / soâ; chiām (尖) -> tsiam⁵ / tsiâm; hōng (峯) -> hɔŋ⁵ / hông."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "cumbre del monte",
+      "source_H": "山頭",
+      "source_M": "soa tāu hōng soa chiam",
+      "source_R": "sān têû",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cumbre del monte",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "soa⁵ tʰau⁵ hɔŋ⁶ soa⁶ tsiam⁶",
+        "tai_lo_standard": "soâ-thâu-hōng-soā-tsiām",
+        "phonological_basis": "17c Dominican orthography conversion: soa (山) -> soa⁵ / soâ; tāu (頭) -> tʰau⁵ / thâu; hōng (?) -> hɔŋ⁶ / hōng; soa (?) -> soa⁶ / soā; chiam (?) -> tsiam⁶ / tsiām."
+      }
+    }
+  ]
+}

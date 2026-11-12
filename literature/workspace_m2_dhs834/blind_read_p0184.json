@@ -1,0 +1,396 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 184,
+  "historical_folio": 155,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0184/pdf_0184_300dpi.png",
+  "page_header": "B. ante. O.",
+  "page_footer_printed": "- 155 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Borracho gaunxo adexa de el ynsmo",
+      "source_H": "那 醉",
+      "source_M": "na chuij",
+      "source_R": "na chui",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borracho gaunxo adexa de el ynsmo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "na² tsuij¹",
+        "tai_lo_standard": "ná-tsuij",
+        "phonological_basis": "17c Dominican orthography conversion: na (那) -> na² / ná; chuij (醉) -> tsuij¹ / tsuij."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Borrador en papel",
+      "source_H": "紙 槁[疑:槁/稿]",
+      "source_M": "chòa co.",
+      "source_R": "chüi con",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borrador en papel",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsoa² ko¹",
+        "tai_lo_standard": "tsoá-ko",
+        "phonological_basis": "17c Dominican orthography conversion: chòa (紙) -> tsoa² / tsoá; co (槁) -> ko¹ / ko."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Borrador, hazerlo",
+      "source_H": "打 稿",
+      "source_M": "pa cù hâu lo",
+      "source_R": "[疑:ta/ia] con",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borrador, hazerlo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paʔ⁷ ku² hau³ lo¹",
+        "tai_lo_standard": "pah-kú-hàu-lo",
+        "phonological_basis": "17c Dominican orthography conversion: pa (打) -> paʔ⁷ / pah; cù (稿) -> ku² / kú; hâu (?) -> hau³ / hàu; lo (?) -> lo¹ / lo."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Borraçon del mar",
+      "source_H": "[空]",
+      "source_M": "huỹ nỹy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borraçon del mar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu¹ ni¹ i¹",
+        "tai_lo_standard": "hu-ni-i",
+        "phonological_basis": "17c Dominican orthography conversion: hu (?) -> hu¹ / hu; n (?) -> ni¹ / ni; y (?) -> i¹ / i."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Borrar.",
+      "source_H": "擦[疑:擦/搽]",
+      "source_M": "chât c [残]",
+      "source_R": "chō",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borrar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsat⁷ ki¹",
+        "tai_lo_standard": "tsat-ki",
+        "phonological_basis": "17c Dominican orthography conversion: chât (擦) -> tsat⁷ / tsat; c (?) -> ki¹ / ki."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Borrar.",
+      "source_H": "濯",
+      "source_M": "hôu, borron ou hôu",
+      "source_R": "hûi",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borrar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hou³ borron³ ou¹ hou³",
+        "tai_lo_standard": "hòu-bòrron-ou-hòu",
+        "phonological_basis": "17c Dominican orthography conversion: hôu (濯) -> hou³ / hòu; borron (?) -> borron³ / bòrron; ou (?) -> ou¹ / ou; hôu (?) -> hou³ / hòu."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Borrar continta.",
+      "source_H": "塗 抹",
+      "source_M": "hou bóa, conhinta",
+      "source_R": "chūi mō",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borrar continta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hou¹ boa¹ konhinta¹",
+        "tai_lo_standard": "hou-boa-konhinta",
+        "phonological_basis": "17c Dominican orthography conversion: hou (塗) -> hou¹ / hou; bóa (抹) -> boa¹ / boa; conhinta (?) -> konhinta¹ / konhinta."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Borrar la letra.",
+      "source_H": "字 花",
+      "source_M": "xī huā, la letra borrada",
+      "source_R": "zin huin",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borrar la letra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzi⁵ hua⁵ la¹ letra¹ borrada¹",
+        "tai_lo_standard": "jî-huâ-la-letra-borrada",
+        "phonological_basis": "17c Dominican orthography conversion: xī (字) -> dzi⁵ / jî; huā (花) -> hua⁵ / huâ; la (?) -> la¹ / la; letra (?) -> letra¹ / letra; borrada (?) -> borrada¹ / borrada."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Borrico.",
+      "source_H": "驢 仔",
+      "source_M": "lū-già",
+      "source_R": "itl chàny: lç chàny",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borrico.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lu⁵ gia²",
+        "tai_lo_standard": "lû-giá",
+        "phonological_basis": "17c Dominican orthography conversion: lū (驢) -> lu⁵ / lû; già (仔) -> gia² / giá."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Borron",
+      "source_H": "烏[疑:烏/鳥] 漬[疑:漬/濯]",
+      "source_M": "ou tru",
+      "source_R": "uhúi",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Borron",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ou¹ tru¹",
+        "tai_lo_standard": "ou-tru",
+        "phonological_basis": "17c Dominican orthography conversion: ou (烏) -> ou¹ / ou; tru (漬) -> tru¹ / tru."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Bosque",
+      "source_H": "林",
+      "source_M": "līm",
+      "source_R": "lan lin",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bosque",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lim⁵",
+        "tai_lo_standard": "lîm",
+        "phonological_basis": "17c Dominican orthography conversion: līm (林) -> lim⁵ / lîm."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Bosque.",
+      "source_H": "林 木",
+      "source_M": "līm bap[疑:bap/boc]",
+      "source_R": "lîn mō",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bosque.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lim⁵ bap⁸",
+        "tai_lo_standard": "lîm-ba̍p",
+        "phonological_basis": "17c Dominican orthography conversion: līm (林) -> lim⁵ / lîm; bap (木) -> bap⁸ / ba̍p."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Bosque del Rey, monteria",
+      "source_H": "御 苑",
+      "source_M": "gū roan del Rey monteria",
+      "source_R": "cū vān",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bosque del Rey, monteria",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gu⁵ roan¹ del¹ rei¹ monteria¹",
+        "tai_lo_standard": "gû-roan-del-rei-monteria",
+        "phonological_basis": "17c Dominican orthography conversion: gū (御) -> gu⁵ / gû; roan (苑) -> roan¹ / roan; del (?) -> del¹ / del; Rey (?) -> rei¹ / rei; monteria (?) -> monteria¹ / monteria."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Bosque qualquiera, o dequal quiera para x'culan —",
+      "source_H": "花 园[疑:园/園]",
+      "source_M": "hua huy, guerta",
+      "source_R": "hià han ven",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bosque qualquiera, o dequal quiera para x'culan —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hua¹ hui¹ guerta¹",
+        "tai_lo_standard": "hua-hui-guerta",
+        "phonological_basis": "17c Dominican orthography conversion: hua (花) -> hua¹ / hua; huy (园) -> hui¹ / hui; guerta (?) -> guerta¹ / guerta."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Bosque qualquiera, espesura",
+      "source_H": "山 林",
+      "source_M": "goa so cyperusa bosq",
+      "source_R": "can lin",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bosque qualquiera, espesura",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "goa¹ so¹ kiperusa¹ bosq¹",
+        "tai_lo_standard": "goa-so-kiperusa-bosq",
+        "phonological_basis": "17c Dominican orthography conversion: goa (山) -> goa¹ / goa; so (林) -> so¹ / so; cyperusa (?) -> kiperusa¹ / kiperusa; bosq (?) -> bosq¹ / bosq."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Botecar.",
+      "source_H": "喝",
+      "source_M": "ha",
+      "source_R": "hā",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Botecar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ha¹",
+        "tai_lo_standard": "ha",
+        "phonological_basis": "17c Dominican orthography conversion: ha (喝) -> ha¹ / ha."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Botecar",
+      "source_H": "喝 氣",
+      "source_M": "ha qui",
+      "source_R": "hā qui",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Botecar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ha¹ kʰi¹",
+        "tai_lo_standard": "ha-khi",
+        "phonological_basis": "17c Dominican orthography conversion: ha (喝) -> ha¹ / ha; qui (氣) -> kʰi¹ / khi."
+      }
+    }
+  ]
+}

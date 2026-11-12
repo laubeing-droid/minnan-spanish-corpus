@@ -1,0 +1,354 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 673,
+  "historical_folio": 639,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0673/pdf_0673_300dpi.png",
+  "page_header": "ante .",
+  "page_footer_printed": "- 639 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "mi seri cor dioso -",
+      "source_H": "慈悲惻 [疑:惻/憫]",
+      "source_M": "chū py chêg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mi seri cor dioso -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu⁵ pi¹ tsek⁷",
+        "tai_lo_standard": "tsû-pi-tsek",
+        "phonological_basis": "17c Dominican orthography conversion: chū (慈) -> tsu⁵ / tsû; py (悲) -> pi¹ / pi; chêg (惻) -> tsek⁷ / tsek."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "mi seri cor dioso .",
+      "source_H": "慈悲心",
+      "source_M": "chū py sīm",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mi seri cor dioso .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu⁵ pi¹ sim⁵",
+        "tai_lo_standard": "tsû-pi-sîm",
+        "phonological_basis": "17c Dominican orthography conversion: chū (慈) -> tsu⁵ / tsû; py (悲) -> pi¹ / pi; sīm (心) -> sim⁵ / sîm."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "mi seri cor dioso .",
+      "source_H": "慈愛",
+      "source_M": "chū áy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mi seri cor dioso .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu⁵ ai¹",
+        "tai_lo_standard": "tsû-ai",
+        "phonological_basis": "17c Dominican orthography conversion: chū (慈) -> tsu⁵ / tsû; áy (愛) -> ai¹ / ai."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "mi seri cor dioso .",
+      "source_H": "仁慈",
+      "source_M": "xīn chū",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mi seri cor dioso .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzin⁵ tsu⁵",
+        "tai_lo_standard": "jîn-tsû",
+        "phonological_basis": "17c Dominican orthography conversion: xīn (仁) -> dzin⁵ / jîn; chū (慈) -> tsu⁵ / tsû."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "mi seri cor dioso .",
+      "source_H": "仁心",
+      "source_M": "xīn sīm",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mi seri cor dioso .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzin⁵ sim⁵",
+        "tai_lo_standard": "jîn-sîm",
+        "phonological_basis": "17c Dominican orthography conversion: xīn (仁) -> dzin⁵ / jîn; sīm (心) -> sim⁵ / sîm."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "mi seri cor dioso .",
+      "source_H": "仁德",
+      "source_M": "xīn têg cao ton misericordia pie dad ta",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mi seri cor dioso .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzin⁵ tek⁷ kao¹ ton¹ misericordia¹ pie¹ dad¹ ta¹",
+        "tai_lo_standard": "jîn-tek-kao-ton-misericordia-pie-dad-ta",
+        "phonological_basis": "17c Dominican orthography conversion: xīn (仁) -> dzin⁵ / jîn; têg (德) -> tek⁷ / tek; cao (?) -> kao¹ / kao; ton (?) -> ton¹ / ton; misericordia (?) -> misericordia¹ / misericordia; pie (?) -> pie¹ / pie; dad (?) -> dad¹ / dad; ta (?) -> ta¹ / ta."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Numeriosa cosa, numeral. [疑:首词Numeriosa/Misteriosa]",
+      "source_H": "節",
+      "source_M": "chāt chît",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Numeriosa cosa, numeral.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsat⁷ tsit⁷",
+        "tai_lo_standard": "tsat-tsit",
+        "phonological_basis": "17c Dominican orthography conversion: chāt (節) -> tsat⁷ / tsat; chît (?) -> tsit⁷ / tsit."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "misteriosa cosa .",
+      "source_H": "深",
+      "source_M": "chīm",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "misteriosa cosa .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsim⁵",
+        "tai_lo_standard": "tsîm",
+        "phonological_basis": "17c Dominican orthography conversion: chīm (深) -> tsim⁵ / tsîm."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "misteriosa cosa ~",
+      "source_H": "奇",
+      "source_M": "gūy [疑:g/q]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "misteriosa cosa ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui⁵ gi¹ q¹",
+        "tai_lo_standard": "guî-gi-q",
+        "phonological_basis": "17c Dominican orthography conversion: gūy (奇) -> gui⁵ / guî; g (?) -> gi¹ / gi; q (?) -> q¹ / q."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "misteriosa cosa .",
+      "source_H": "微妙 [疑:微/徽]",
+      "source_M": "bī biāu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "misteriosa cosa .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bi⁵ biau⁵",
+        "tai_lo_standard": "bî-biâu",
+        "phonological_basis": "17c Dominican orthography conversion: bī (微) -> bi⁵ / bî; biāu (妙) -> biau⁵ / biâu."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "misteriosa cosa .",
+      "source_H": "精微 [疑:微/徽]",
+      "source_M": "chēng bī",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "misteriosa cosa .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ⁵ bi⁵",
+        "tai_lo_standard": "tsêng-bî",
+        "phonological_basis": "17c Dominican orthography conversion: chēng (精) -> tseŋ⁵ / tsêng; bī (微) -> bi⁵ / bî."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "misterioso, profundo ~",
+      "source_H": "深奧",
+      "source_M": "chīm ě gǐ profundo.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "misterioso, profundo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsim⁵ e² gi³ profundo¹",
+        "tai_lo_standard": "tsîm-é-gì-profundo",
+        "phonological_basis": "17c Dominican orthography conversion: chīm (深) -> tsim⁵ / tsîm; ě (奧) -> e² / é; gǐ (?) -> gi³ / gì; profundo (?) -> profundo¹ / profundo."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Mitad ~",
+      "source_H": "半",
+      "source_M": "Boẫ [疑:首字母B/P]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mitad ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bo³ bi¹ pi¹",
+        "tai_lo_standard": "bò-bi-pi",
+        "phonological_basis": "17c Dominican orthography conversion: Bo (半) -> bo³ / bò; B (?) -> bi¹ / bi; P (?) -> pi¹ / pi."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "(mitad)",
+      "source_H": "片",
+      "source_M": "pèng: p[残] pī̃ parc. [疑:parc/parte]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(mitad)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "peŋ² pi¹ pĩ⁶ park⁷ park⁷ parte¹",
+        "tai_lo_standard": "péng-pi-pīnn-park-park-parte",
+        "phonological_basis": "17c Dominican orthography conversion: pèng (片) -> peŋ² / péng; p (?) -> pi¹ / pi; pī̃ (?) -> pĩ⁶ / pīnn; parc (?) -> park⁷ / park; parc (?) -> park⁷ / park; parte (?) -> parte¹ / parte."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "mitad, o cenixo de algo ~ [疑:cenixo/centro/medio]",
+      "source_H": "心",
+      "source_M": "sīm",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mitad, o cenixo de algo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sim⁵",
+        "tai_lo_standard": "sîm",
+        "phonological_basis": "17c Dominican orthography conversion: sīm (心) -> sim⁵ / sîm."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "mitad dela palma dela manos ~",
+      "source_H": "掌心",
+      "source_M": "chiô sīm [疑:chiô或另带鼻化钩]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mitad dela palma dela manos ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsio³ sim⁵ tsio³",
+        "tai_lo_standard": "tsiò-sîm-tsiò",
+        "phonological_basis": "17c Dominican orthography conversion: chiô (掌) -> tsio³ / tsiò; sīm (心) -> sim⁵ / sîm; chiô (?) -> tsio³ / tsiò."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Mesmo. q̃. el mismo ~. [疑:q̃为que缩写符]",
+      "source_H": "[空]",
+      "source_M": "ca gŷ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mesmo. q̃. el mismo ~.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka³ gi¹",
+        "tai_lo_standard": "kà-gi",
+        "phonological_basis": "17c Dominican orthography conversion: ca (?) -> ka³ / kà; g (?) -> gi¹ / gi."
+      }
+    }
+  ]
+}

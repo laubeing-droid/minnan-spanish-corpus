@@ -1,0 +1,463 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 315,
+  "historical_folio": 286,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0315/pdf_0315_300dpi.png",
+  "page_header": "C. ante. O.",
+  "page_footer_printed": "- 286 -",
+  "page_footer_handwritten": "14B",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Cointura .",
+      "source_H": "輪",
+      "source_M": "lūn",
+      "source_R": "lûn",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cointura .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lun⁵",
+        "tai_lo_standard": "lûn",
+        "phonological_basis": "17c Dominican orthography conversion: lūn (輪) -> lun⁵ / lûn."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "cointura .saias,",
+      "source_H": "節",
+      "source_M": "chât,",
+      "source_R": "chiē",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cointura .saias,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsat⁷",
+        "tai_lo_standard": "tsat",
+        "phonological_basis": "17c Dominican orthography conversion: chât (節) -> tsat⁷ / tsat."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "cointura aguas.",
+      "source_H": "骨 輪",
+      "source_M": "cūt lūn.",
+      "source_R": "cūt lûn.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cointura aguas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kut⁸ lun⁵",
+        "tai_lo_standard": "ku̍t-lûn",
+        "phonological_basis": "17c Dominican orthography conversion: cūt (骨) -> kut⁸ / ku̍t; lūn (輪) -> lun⁵ / lûn."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "cointura del dedo .",
+      "source_H": "手 節",
+      "source_M": "chiû chât.",
+      "source_R": "chiû chiē.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cointura del dedo .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiu³ tsat⁷",
+        "tai_lo_standard": "tsiù-tsat",
+        "phonological_basis": "17c Dominican orthography conversion: chiû (手) -> tsiu³ / tsiù; chât (節) -> tsat⁷ / tsat."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "cointura delamano",
+      "source_H": "手 目",
+      "source_M": "chiû bag.",
+      "source_R": "chiû mō.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cointura delamano",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiu³ bak⁸",
+        "tai_lo_standard": "tsiù-ba̍k",
+        "phonological_basis": "17c Dominican orthography conversion: chiû (手) -> tsiu³ / tsiù; bag (目) -> bak⁸ / ba̍k."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "cointura dela Vena.",
+      "source_H": "根 節",
+      "source_M": "quīn chât.",
+      "source_R": "quīn chiē.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cointura dela Vena.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kin⁵ tsat⁷",
+        "tai_lo_standard": "kîn-tsat",
+        "phonological_basis": "17c Dominican orthography conversion: quīn (根) -> kin⁵ / kîn; chât (節) -> tsat⁷ / tsat."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "cointura, lo q̃ ay denro a otra ~",
+      "source_H": "骨 節",
+      "source_M": "cūt chât.",
+      "source_R": "cūt chiē.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cointura, lo q̃ ay denro a otra ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kut⁸ tsat⁷",
+        "tai_lo_standard": "ku̍t-tsat",
+        "phonological_basis": "17c Dominican orthography conversion: cūt (骨) -> kut⁸ / ku̍t; chât (節) -> tsat⁷ / tsat."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Cocer con huees.",
+      "source_H": "熬",
+      "source_M": "Gō",
+      "source_R": "ngôn.",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cocer con huees.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "go⁵",
+        "tai_lo_standard": "gô",
+        "phonological_basis": "17c Dominican orthography conversion: Gō (熬) -> go⁵ / gô."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Cocer como comida .",
+      "source_H": "炊",
+      "source_M": "choân. chùi choân. chūi:",
+      "source_R": "choân.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cocer como comida .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰoan³ tsui² tsoan³ tsui⁶",
+        "tai_lo_standard": "tshoàn-tsuí-tsoàn-tsuī",
+        "phonological_basis": "17c Dominican orthography conversion: choân (炊) -> tsʰoan³ / tshoàn; chùi (?) -> tsui² / tsuí; choân (?) -> tsoan³ / tsoàn; chūi (?) -> tsui⁶ / tsuī."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Cocer comida .chuan. chue singlaria agua.",
+      "source_H": "煮",
+      "source_M": "choân. chū. (zo.)",
+      "source_R": "chù.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cocer comida .chuan. chue singlaria agua.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsoan³ tsu⁶ tso¹",
+        "tai_lo_standard": "tsoàn-tsū-tso",
+        "phonological_basis": "17c Dominican orthography conversion: choân (煮) -> tsoan³ / tsoàn; chū (?) -> tsu⁶ / tsū; zo (?) -> tso¹ / tso."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Cocer como comida guibo. carne.",
+      "source_H": "煠 [疑:煠/燥]",
+      "source_M": "să",
+      "source_R": "fă chîn.",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cocer como comida guibo. carne.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si²",
+        "tai_lo_standard": "sí",
+        "phonological_basis": "17c Dominican orthography conversion: s (煠) -> si² / sí."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Cocer bien cocido .",
+      "source_H": "熟",
+      "source_M": "seg.",
+      "source_R": "zū.",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cocer bien cocido .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sek⁷",
+        "tai_lo_standard": "sek",
+        "phonological_basis": "17c Dominican orthography conversion: seg (熟) -> sek⁷ / sek."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Cocer Loza .",
+      "source_H": "陶",
+      "source_M": "Fō [疑:Fo/To]",
+      "source_R": "tōn. [疑:tōn/tāu.]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cocer Loza .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fo⁵ fo¹ to¹",
+        "tai_lo_standard": "fô-fo-to",
+        "phonological_basis": "17c Dominican orthography conversion: Fō (陶) -> fo⁵ / fô; Fo (?) -> fo¹ / fo; To (?) -> to¹ / to."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Cocer sin llegar al agua .",
+      "source_H": "炊",
+      "source_M": "chûe. chûy.",
+      "source_R": "chùi.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cocer sin llegar al agua .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰue³ tsui³",
+        "tai_lo_standard": "tshuè-tsuì",
+        "phonological_basis": "17c Dominican orthography conversion: chûe (炊) -> tsʰue³ / tshuè; chûy (?) -> tsui³ / tsuì."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Cocer la mosqueta compoca agua ~",
+      "source_H": "蒸 米 飯",
+      "source_M": "chêng bî pûy",
+      "source_R": "chēng mī fān.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cocer la mosqueta compoca agua ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ³ bi³ pui³",
+        "tai_lo_standard": "tsèng-bì-puì",
+        "phonological_basis": "17c Dominican orthography conversion: chêng (蒸) -> tseŋ³ / tsèng; bî (米) -> bi³ / bì; pûy (飯) -> pui³ / puì."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Cocer engua sola mente .",
+      "source_H": "白 煠 [疑:煠/燥]",
+      "source_M": "pè sá",
+      "source_R": "pē chîn.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cocer engua sola mente .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe² sa¹",
+        "tai_lo_standard": "pé-sa",
+        "phonological_basis": "17c Dominican orthography conversion: pè (白) -> pe² / pé; sá (煠) -> sa¹ / sa."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "cocer qualquiera cosa",
+      "source_H": "炊 爨",
+      "source_M": "chui choân.",
+      "source_R": "chúi choân.",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cocer qualquiera cosa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰui¹ tsoan³",
+        "tai_lo_standard": "tshui-tsoàn",
+        "phonological_basis": "17c Dominican orthography conversion: chui (炊) -> tsʰui¹ / tshui; choân (爨) -> tsoan³ / tsoàn."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "cocer hallagse deshaga .",
+      "source_H": "煮 爛",
+      "source_M": "chû nōa.",
+      "source_R": "chù lōan.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cocer hallagse deshaga .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu³ noa⁵",
+        "tai_lo_standard": "tsù-noâ",
+        "phonological_basis": "17c Dominican orthography conversion: chû (煮) -> tsu³ / tsù; nōa (爛) -> noa⁵ / noâ."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "cocer el ungueuto",
+      "source_H": "熬 膏 藥",
+      "source_M": "gō cō yo.",
+      "source_R": "ngôn câu yō.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cocer el ungueuto",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "go⁵ ko⁵ io¹",
+        "tai_lo_standard": "gô-kô-io",
+        "phonological_basis": "17c Dominican orthography conversion: gō (熬) -> go⁵ / gô; cō (膏) -> ko⁵ / kô; yo (藥) -> io¹ / io."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Cocina .",
+      "source_H": "灶",
+      "source_M": "châu",
+      "source_R": "chāu.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cocina .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsau³",
+        "tai_lo_standard": "tsàu",
+        "phonological_basis": "17c Dominican orthography conversion: châu (灶) -> tsau³ / tsàu."
+      }
+    }
+  ]
+}

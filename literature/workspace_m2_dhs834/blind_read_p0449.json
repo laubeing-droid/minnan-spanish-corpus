@@ -1,0 +1,498 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 449,
+  "historical_folio": 415,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0449/pdf_0449_300dpi.png",
+  "page_header": "F. ante. S.",
+  "page_footer_printed": "- 415 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 21,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "escoba",
+      "source_H": "掃 箒",
+      "source_M": "saû chiù",
+      "source_R": "san jan",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escoba",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sau³ tsiu²",
+        "tai_lo_standard": "sàu-tsiú",
+        "phonological_basis": "17c Dominican orthography conversion: saû (掃) -> sau³ / sàu; chiù (箒) -> tsiu² / tsiú."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "escobilla.",
+      "source_H": "箒",
+      "source_M": "ſien",
+      "source_R": "jien",
+      "tone_marks_M": [
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escobilla.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ien¹",
+        "tai_lo_standard": "ien",
+        "phonological_basis": "17c Dominican orthography conversion: ien (箒) -> ien¹ / ien."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "escobilla.",
+      "source_H": "敏仔 [疑:敏/箆]",
+      "source_M": "bîn ià",
+      "source_R": "mien chay",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escobilla.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bin³ ia²",
+        "tai_lo_standard": "bìn-iá",
+        "phonological_basis": "17c Dominican orthography conversion: bîn (敏) -> bin³ / bìn; ià (仔) -> ia² / iá."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "escobilla.",
+      "source_H": "箒 仔",
+      "source_M": "ſien ia : 1. cheng ia",
+      "source_R": "jien chay",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escobilla.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ien² ia³",
+        "tai_lo_standard": "ién-ià",
+        "phonological_basis": "17c Dominican orthography conversion: ien (箒) -> ien² / ién; ia (仔) -> ia³ / ià."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "escoba",
+      "source_H": "箒 掃",
+      "source_M": "cheñg jau",
+      "source_R": "jien jau",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escoba",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsẽŋ³ dzau³",
+        "tai_lo_standard": "tsèng-jàu",
+        "phonological_basis": "17c Dominican orthography conversion: cheñg (箒) -> tsẽŋ³ / tsèng; jau (掃) -> dzau³ / jàu."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "escobilla para los oídos.",
+      "source_H": "毬",
+      "source_M": "ſiau",
+      "source_R": "jan",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escobilla para los oídos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iau¹",
+        "tai_lo_standard": "iau",
+        "phonological_basis": "17c Dominican orthography conversion: iau (毬) -> iau¹ / iau."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "escobilla para los oídos",
+      "source_H": "毬 穩",
+      "source_M": "ſiau fit",
+      "source_R": "jan fi",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escobilla para los oídos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iau¹ fit⁷",
+        "tai_lo_standard": "iau-fit",
+        "phonological_basis": "17c Dominican orthography conversion: iau (毬) -> iau¹ / iau; fit (穩) -> fit⁷ / fit."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Escoger",
+      "source_H": "選",
+      "source_M": "Zuan",
+      "source_R": "zuen",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Escoger",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsuan¹",
+        "tai_lo_standard": "tsuan",
+        "phonological_basis": "17c Dominican orthography conversion: Zuan (選) -> tsuan¹ / tsuan."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "escoger-",
+      "source_H": "揀",
+      "source_M": "queñg : 1. cañ",
+      "source_R": "quien",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escoger-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kẽŋ³ kãn³",
+        "tai_lo_standard": "kèng-kàn",
+        "phonological_basis": "17c Dominican orthography conversion: queñg (揀) -> kẽŋ³ / kèng; cañ (?) -> kãn³ / kàn."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "escoger -",
+      "source_H": "擇",
+      "source_M": "Teç [疑:Teç/Zeç]",
+      "source_R": "che",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escoger -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teʔ⁷ te¹ tse¹",
+        "tai_lo_standard": "teh-te-tse",
+        "phonological_basis": "17c Dominican orthography conversion: Te (擇) -> teʔ⁷ / teh; Te (?) -> te¹ / te; Ze (?) -> tse¹ / tse."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "escoger -.",
+      "source_H": "擇 選",
+      "source_M": "Teç Zuan",
+      "source_R": "che zuen",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escoger -.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teʔ⁷ tsuan¹",
+        "tai_lo_standard": "teh-tsuan",
+        "phonological_basis": "17c Dominican orthography conversion: Te (擇) -> teʔ⁷ / teh; Zuan (選) -> tsuan¹ / tsuan."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "escoger -",
+      "source_H": "揀 擇",
+      "source_M": "queñg zo : 1. cañ zo",
+      "source_R": "quien che",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escoger -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kẽŋ³ tso¹ kãn³ tso¹",
+        "tai_lo_standard": "kèng-tso-kàn-tso",
+        "phonological_basis": "17c Dominican orthography conversion: queñg (揀) -> kẽŋ³ / kèng; zo (擇) -> tso¹ / tso; cañ (?) -> kãn³ / kàn; zo (?) -> tso¹ / tso."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "escoger-",
+      "source_H": "選 擇",
+      "source_M": "Zoan zo",
+      "source_R": "zuen che",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escoger-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsoan² tso¹",
+        "tai_lo_standard": "tsoán-tso",
+        "phonological_basis": "17c Dominican orthography conversion: Zoan (選) -> tsoan² / tsoán; zo (擇) -> tso¹ / tso."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "escoger p.a off.o elegir ~",
+      "source_H": "占",
+      "source_M": "chiam",
+      "source_R": "chien : chien",
+      "tone_marks_M": [
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escoger p.a off.o elegir ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiam¹",
+        "tai_lo_standard": "tsiam",
+        "phonological_basis": "17c Dominican orthography conversion: chiam (占) -> tsiam¹ / tsiam."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "escoger p.a off.o elegir ~",
+      "source_H": "起 貢",
+      "source_M": "hiau cong",
+      "source_R": "chium cong",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escoger p.a off.o elegir ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hiau³ kɔŋ³",
+        "tai_lo_standard": "hiàu-kòng",
+        "phonological_basis": "17c Dominican orthography conversion: hiau (起) -> hiau³ / hiàu; cong (貢) -> kɔŋ³ / kòng."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "escoger p.a off.o elegir",
+      "source_H": "選 貢",
+      "source_M": "Zuan cong",
+      "source_R": "zuen cong",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escoger p.a off.o elegir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsuan¹ kɔŋ³",
+        "tai_lo_standard": "tsuan-kòng",
+        "phonological_basis": "17c Dominican orthography conversion: Zuan (選) -> tsuan¹ / tsuan; cong (貢) -> kɔŋ³ / kòng."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "escoger el Rey a su cumpl.to.",
+      "source_H": "中",
+      "source_M": "Tiong : 1. [塗改字] quing.",
+      "source_R": "chong : chung",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escoger el Rey a su cumpl.to.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tioŋ³ kiŋ¹",
+        "tai_lo_standard": "tiòng-king",
+        "phonological_basis": "17c Dominican orthography conversion: Tiong (中) -> tioŋ³ / tiòng; quing (?) -> kiŋ¹ / king."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "escoger las mejores sentencias de San Cipriano",
+      "source_H": "目 錄",
+      "source_M": "baç liog",
+      "source_R": "mo lu",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escoger las mejores sentencias de San Cipriano",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba³ liok⁸",
+        "tai_lo_standard": "bà-lio̍k",
+        "phonological_basis": "17c Dominican orthography conversion: ba (目) -> ba³ / bà; liog (錄) -> liok⁸ / lio̍k."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "escoger lo que quisiere",
+      "source_H": "揀[疑:着/看] 中意",
+      "source_M": "cañ cua Teç y",
+      "source_R": "quien can chong y",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escoger lo que quisiere",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kãn³ kua¹ teʔ⁷ i¹",
+        "tai_lo_standard": "kàn-kua-teh-i",
+        "phonological_basis": "17c Dominican orthography conversion: cañ (揀) -> kãn³ / kàn; cua (中) -> kua¹ / kua; Te (意) -> teʔ⁷ / teh; y (?) -> i¹ / i."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "escoger a su voluntad.",
+      "source_H": "中 選",
+      "source_M": "Tiong Zuan : Teç Zuan",
+      "source_R": "chong zuen",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escoger a su voluntad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tioŋ³ tsuan¹ teʔ⁷ tsuan¹",
+        "tai_lo_standard": "tiòng-tsuan-teh-tsuan",
+        "phonological_basis": "17c Dominican orthography conversion: Tiong (中) -> tioŋ³ / tiòng; Zuan (選) -> tsuan¹ / tsuan; Te (?) -> teʔ⁷ / teh; Zuan (?) -> tsuan¹ / tsuan."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "escoger Feng ~",
+      "source_H": "擇 風 水\nes supersticion.",
+      "source_M": "zo hong çuy",
+      "source_R": "che fong çui",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "escoger Feng ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso¹ hɔŋ³ ui²",
+        "tai_lo_standard": "tso-hòng-uí",
+        "phonological_basis": "17c Dominican orthography conversion: zo (擇) -> tso¹ / tso; hong (風) -> hɔŋ³ / hòng; uy (水) -> ui² / uí."
+      }
+    }
+  ]
+}

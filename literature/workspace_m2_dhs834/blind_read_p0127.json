@@ -1,0 +1,520 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 127,
+  "historical_folio": 98,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0127/pdf_0127_300dpi.png",
+  "page_header": "A. ante R.",
+  "page_footer_printed": "- 98 -",
+  "page_footer_handwritten": "49",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Arismetica",
+      "source_H": "算 法",
+      "source_M": "qûy búax.",
+      "source_R": "zuān cū",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Arismetica",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki³ buax¹",
+        "tai_lo_standard": "kì-buax",
+        "phonological_basis": "17c Dominican orthography conversion: qûy (算) -> ki³ / kì; búax (法) -> buax¹ / buax."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "A rista dequalguier asa",
+      "source_H": "芒",
+      "source_M": "one ..",
+      "source_R": "mâng",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "A rista dequalguier asa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "one¹",
+        "tai_lo_standard": "one",
+        "phonological_basis": "17c Dominican orthography conversion: one (芒) -> one¹ / one."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "arista de arroot -",
+      "source_H": "穀 賣",
+      "source_M": "cheg miē.",
+      "source_R": "cō mâng",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arista de arroot -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsek⁷ mie⁵",
+        "tai_lo_standard": "tsek-miê",
+        "phonological_basis": "17c Dominican orthography conversion: cheg (穀) -> tsek⁷ / tsek; miē (賣) -> mie⁵ / miê."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Armarse",
+      "source_H": "穿",
+      "source_M": "choan ı chuy.",
+      "source_R": "chŭen",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Armarse",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsoan¹ tsui¹",
+        "tai_lo_standard": "tsoan-tsui",
+        "phonological_basis": "17c Dominican orthography conversion: choan (穿) -> tsoan¹ / tsoan; chuy (?) -> tsui¹ / tsui."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "armarse",
+      "source_H": "穿 甲",
+      "source_M": "choán câ ..",
+      "source_R": "chŭen",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "armarse",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsoan¹ ka³",
+        "tai_lo_standard": "tsoan-kà",
+        "phonological_basis": "17c Dominican orthography conversion: choán (穿) -> tsoan¹ / tsoan; câ (甲) -> ka³ / kà."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "armar brampas.",
+      "source_H": "陷 [疑:陷/階]",
+      "source_M": "hăm.",
+      "source_R": "hiān",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "armar brampas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi² mi¹",
+        "tai_lo_standard": "hí-mi",
+        "phonological_basis": "17c Dominican orthography conversion: h (陷) -> hi² / hí; m (?) -> mi¹ / mi."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "armar trampa para que caiga -",
+      "source_H": "陷 [疑:陷/階] 身 倒",
+      "source_M": "hăm sín zó ı",
+      "source_R": "hiān sīn tói",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "armar trampa para que caiga -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi² mi¹ sin¹ tso¹",
+        "tai_lo_standard": "hí-mi-sin-tso",
+        "phonological_basis": "17c Dominican orthography conversion: h (陷) -> hi² / hí; m (身) -> mi¹ / mi; sín (倒) -> sin¹ / sin; zó (?) -> tso¹ / tso."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "ar mar trampa, facere foveam -",
+      "source_H": "陷 [疑:陷/階] 阱",
+      "source_M": "hăm chĕng.",
+      "source_R": "hî chîn",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ar mar trampa, facere foveam -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi² mi² tsi¹ ŋi¹",
+        "tai_lo_standard": "hí-mí-tsi-ngi",
+        "phonological_basis": "17c Dominican orthography conversion: h (陷) -> hi² / hí; m (阱) -> mi² / mí; ch (?) -> tsi¹ / tsi; ng (?) -> ŋi¹ / ngi."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "ar mar vn ballesta &",
+      "source_H": "張",
+      "source_M": "Tio :tio lū.",
+      "source_R": "chiăng.",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ar mar vn ballesta &",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tio¹ tio¹ lu⁶",
+        "tai_lo_standard": "tio-tio-lū",
+        "phonological_basis": "17c Dominican orthography conversion: Tio (張) -> tio¹ / tio; tio (?) -> tio¹ / tio; lū (?) -> lu⁶ / lū."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "armar la ballesta",
+      "source_H": "張 弩",
+      "source_M": "tio lū.",
+      "source_R": "chiăng nû",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "armar la ballesta",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tio¹ lu⁵",
+        "tai_lo_standard": "tio-lû",
+        "phonological_basis": "17c Dominican orthography conversion: tio (張) -> tio¹ / tio; lū (弩) -> lu⁵ / lû."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "aromar la red.",
+      "source_H": "張 網",
+      "source_M": "tio băng.",
+      "source_R": "chiăng vàng",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aromar la red.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tio¹ bi² ŋi¹",
+        "tai_lo_standard": "tio-bí-ngi",
+        "phonological_basis": "17c Dominican orthography conversion: tio (張) -> tio¹ / tio; b (網) -> bi² / bí; ng (?) -> ŋi¹ / ngi."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "armar el arco.",
+      "source_H": "張 弓",
+      "source_M": "tio quiōng.",
+      "source_R": "chiăng cōng.",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "armar el arco.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tio¹ kioŋ⁵",
+        "tai_lo_standard": "tio-kiông",
+        "phonological_basis": "17c Dominican orthography conversion: tio (張) -> tio¹ / tio; quiōng (弓) -> kioŋ⁵ / kiông."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "armar el cuerpo con armas cubrillos -",
+      "source_H": "掩 心 甲",
+      "source_M": "iăm sīn ca,",
+      "source_R": "xiăm sīm guīa",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "armar el cuerpo con armas cubrillos -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "i² mi⁵ sin⁵ ka¹",
+        "tai_lo_standard": "í-mî-sîn-ka",
+        "phonological_basis": "17c Dominican orthography conversion: i (掩) -> i² / í; m (心) -> mi⁵ / mî; sīn (甲) -> sin⁵ / sîn; ca (?) -> ka¹ / ka."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "armarse :",
+      "source_H": "甲 捕",
+      "source_M": "ca châ,",
+      "source_R": "guīa châ",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "armarse :",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka¹ tsa³",
+        "tai_lo_standard": "ka-tsà",
+        "phonological_basis": "17c Dominican orthography conversion: ca (甲) -> ka¹ / ka; châ (捕) -> tsa³ / tsà."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Arm",
+      "source_H": "戎",
+      "source_M": "Xiōng.",
+      "source_R": "xiōng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Arm",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzioŋ⁵",
+        "tai_lo_standard": "jiông",
+        "phonological_basis": "17c Dominican orthography conversion: Xiōng (戎) -> dzioŋ⁵ / jiông."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "armas",
+      "source_H": "武",
+      "source_M": "bū.",
+      "source_R": "bù",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "armas",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bu⁵",
+        "tai_lo_standard": "bû",
+        "phonological_basis": "17c Dominican orthography conversion: bū (武) -> bu⁵ / bû."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "armas",
+      "source_H": "甲",
+      "source_M": "cá.",
+      "source_R": "guīa",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "armas",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka¹",
+        "tai_lo_standard": "ka",
+        "phonological_basis": "17c Dominican orthography conversion: cá (甲) -> ka¹ / ka."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "armas",
+      "source_H": "凶 器",
+      "source_M": "hiong guī",
+      "source_R": "hiōng gūi",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "armas",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hioŋ¹ gui⁵",
+        "tai_lo_standard": "hiong-guî",
+        "phonological_basis": "17c Dominican orthography conversion: hiong (凶) -> hioŋ¹ / hiong; guī (器) -> gui⁵ / guî."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "armas dela milicia.",
+      "source_H": "兵 器",
+      "source_M": "péng guī.",
+      "source_R": "pèng gūi",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "armas dela milicia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "peŋ¹ gui⁵",
+        "tai_lo_standard": "peng-guî",
+        "phonological_basis": "17c Dominican orthography conversion: péng (兵) -> peŋ¹ / peng; guī (器) -> gui⁵ / guî."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "armas ofensivas",
+      "source_H": "刀 兵",
+      "source_M": "tô peng.",
+      "source_R": "tō peng",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "armas ofensivas",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to³ peŋ¹",
+        "tai_lo_standard": "tò-peng",
+        "phonological_basis": "17c Dominican orthography conversion: tô (刀) -> to³ / tò; peng (兵) -> peŋ¹ / peng."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "armas reales del chinos, que es una mano cerrada acero.",
+      "source_H": "金 拳 頭",
+      "source_M": "guim cūn tāu.",
+      "source_R": "guim cūn tēu",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "armas reales del chinos, que es una mano cerrada acero.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guim¹ kun⁵ tʰau⁵",
+        "tai_lo_standard": "guim-kûn-thâu",
+        "phonological_basis": "17c Dominican orthography conversion: guim (金) -> guim¹ / guim; cūn (拳) -> kun⁵ / kûn; tāu (頭) -> tʰau⁵ / thâu."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "Armaçon delacama",
+      "source_H": "蚊 帳 簟",
+      "source_M": "bâng tio chūe",
+      "source_R": "buēn chiâng chūi",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Armaçon delacama",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "baŋ³ tio¹ tsue⁵",
+        "tai_lo_standard": "bàng-tio-tsuê",
+        "phonological_basis": "17c Dominican orthography conversion: bâng (蚊) -> baŋ³ / bàng; tio (帳) -> tio¹ / tio; chūe (簟) -> tsue⁵ / tsuê."
+      }
+    }
+  ]
+}

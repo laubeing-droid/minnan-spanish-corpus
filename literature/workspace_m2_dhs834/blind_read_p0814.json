@@ -1,0 +1,307 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 814,
+  "historical_folio": 776,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0814/pdf_0814_300dpi.png",
+  "page_header": "B. ante. L. [疑:B/P]",
+  "page_footer_printed": "- 776 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 15,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "pleizar~ [疑:pleizar/plezar]",
+      "source_H": "鎖相帶 [疑:帶/常]",
+      "source_M": "so sio hva [疑:so/to]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pleizar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "so¹ sio³ hva¹ so¹ to¹",
+        "tai_lo_standard": "so-siò-hva-so-to",
+        "phonological_basis": "17c Dominican orthography conversion: so (鎖) -> so¹ / so; sio (相) -> sio³ / siò; hva (帶) -> hva¹ / hva; so (?) -> so¹ / so; to (?) -> to¹ / to."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Pliegue.~",
+      "source_H": "裙綱",
+      "source_M": "cūn queñg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Pliegue.~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kun⁵ kẽŋ⁵",
+        "tai_lo_standard": "kûn-kêng",
+        "phonological_basis": "17c Dominican orthography conversion: cūn (裙) -> kun⁵ / kûn; queñg (綱) -> kẽŋ⁵ / kêng."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Pliego: y numeral~",
+      "source_H": "張",
+      "source_M": "Tõ [疑:Tõ/Fõ]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Pliego: y numeral~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tõ¹ tõ¹ fõ¹",
+        "tai_lo_standard": "tonn-tonn-fonn",
+        "phonological_basis": "17c Dominican orthography conversion: Tõ (張) -> tõ¹ / tonn; Tõ (?) -> tõ¹ / tonn; Fõ (?) -> fõ¹ / fonn."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Plomo~",
+      "source_H": "鉛",
+      "source_M": "iēn..",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Plomo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ien⁵",
+        "tai_lo_standard": "iên",
+        "phonological_basis": "17c Dominican orthography conversion: iēn (鉛) -> ien⁵ / iên."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "plomo de lazredes~ [疑:lazredes/las redes]",
+      "source_H": "鉛墮 [疑:墮/塊]",
+      "source_M": "iēn tuy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "plomo de lazredes~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ien⁵ tui²",
+        "tai_lo_standard": "iên-tuí",
+        "phonological_basis": "17c Dominican orthography conversion: iēn (鉛) -> ien⁵ / iên; tuy (墮) -> tui² / tuí."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "plomo preciozo~",
+      "source_H": "阿[残]鉛",
+      "source_M": "ā iēn",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "plomo preciozo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "a⁵ ien⁵",
+        "tai_lo_standard": "â-iên",
+        "phonological_basis": "17c Dominican orthography conversion: ā (阿) -> a⁵ / â; iēn (鉛) -> ien⁵ / iên."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Plomada:",
+      "source_H": "[空]",
+      "source_M": "chuy ò",
+      "source_R": "encaballo:",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Plomada:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui² o²",
+        "tai_lo_standard": "tsuí-ó",
+        "phonological_basis": "17c Dominican orthography conversion: chuy (?) -> tsui² / tsuí; ò (?) -> o² / ó."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Pluma~ y plumin",
+      "source_H": "筆",
+      "source_M": "pít",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Pluma~ y plumin",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pit⁷",
+        "tai_lo_standard": "pit",
+        "phonological_basis": "17c Dominican orthography conversion: pít (筆) -> pit⁷ / pit."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "pluma de abel [疑:abel/abe]",
+      "source_H": "羽",
+      "source_M": "o",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pluma de abel",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "oʔ⁷",
+        "tai_lo_standard": "oh",
+        "phonological_basis": "17c Dominican orthography conversion: o (羽) -> oʔ⁷ / oh."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "pluma",
+      "source_H": "羽毛",
+      "source_M": "mō",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pluma",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "moʔ⁷",
+        "tai_lo_standard": "moh",
+        "phonological_basis": "17c Dominican orthography conversion: mō (羽) -> moʔ⁷ / moh."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "pluma de angar, fajada. [疑:angar/ansar]",
+      "source_H": "鵝毛筆",
+      "source_M": "gōmō pít",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pluma de angar, fajada.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gomo⁵ pit⁷",
+        "tai_lo_standard": "gômo-pit",
+        "phonological_basis": "17c Dominican orthography conversion: gōmō (鵝) -> gomo⁵ / gômo; pít (毛) -> pit⁷ / pit."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "pluma por fazer, canon.",
+      "source_H": "鵝毛管",
+      "source_M": "gōmō cuỹ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pluma por fazer, canon.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gomo⁵ ku⁵",
+        "tai_lo_standard": "gômo-kû",
+        "phonological_basis": "17c Dominican orthography conversion: gōmō (鵝) -> gomo⁵ / gômo; cu (毛) -> ku⁵ / kû."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "pluma de la ala~",
+      "source_H": "羽翼",
+      "source_M": "eg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pluma de la ala~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ek⁷",
+        "tai_lo_standard": "ek",
+        "phonological_basis": "17c Dominican orthography conversion: eg (羽) -> ek⁷ / ek."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "pluma con ſel Reyescriue~ [疑:ſel/quel]",
+      "source_H": "金筆",
+      "source_M": "gūm pít.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pluma con ſel Reyescriue~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gum⁵ pit⁷",
+        "tai_lo_standard": "gûm-pit",
+        "phonological_basis": "17c Dominican orthography conversion: gūm (金) -> gum⁵ / gûm; pít (筆) -> pit⁷ / pit."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Plumaje.~",
+      "source_H": "[残]",
+      "source_M": "ya",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Plumaje.~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ia¹",
+        "tai_lo_standard": "ia",
+        "phonological_basis": "17c Dominican orthography conversion: ya (?) -> ia¹ / ia."
+      }
+    }
+  ]
+}

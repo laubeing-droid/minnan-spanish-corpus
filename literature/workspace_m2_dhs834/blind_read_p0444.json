@@ -1,0 +1,499 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 444,
+  "historical_folio": 410,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0444/pdf_0444_300dpi.png",
+  "page_header": "E. ante. S.C.",
+  "page_footer_printed": "- 410 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 21,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Errar~",
+      "source_H": "擔",
+      "source_M": "tẫ",
+      "source_R": "tân",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Errar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti³",
+        "tai_lo_standard": "tì",
+        "phonological_basis": "17c Dominican orthography conversion: t (擔) -> ti³ / tì."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "errar.",
+      "source_H": "✗",
+      "source_M": "chā̃",
+      "source_R": "châⁿ",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsã⁶",
+        "tai_lo_standard": "tsānn",
+        "phonological_basis": "17c Dominican orthography conversion: chā̃ (?) -> tsã⁶ / tsānn."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "errar.",
+      "source_H": "錯",
+      "source_M": "chog",
+      "source_R": "chô",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsɔk⁷",
+        "tai_lo_standard": "tsok",
+        "phonological_basis": "17c Dominican orthography conversion: chog (錯) -> tsɔk⁷ / tsok."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "errar.",
+      "source_H": "差",
+      "source_M": "chē",
+      "source_R": "châyⁿ: châⁿ",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse⁵",
+        "tai_lo_standard": "tsê",
+        "phonological_basis": "17c Dominican orthography conversion: chē (差) -> tse⁵ / tsê."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "errar la cuenta.",
+      "source_H": "差 錯",
+      "source_M": "chē choc ynguento",
+      "source_R": "châⁿ chôⁿ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar la cuenta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse⁵ tsɔk⁷ inguento¹",
+        "tai_lo_standard": "tsê-tsok-inguento",
+        "phonological_basis": "17c Dominican orthography conversion: chē (差) -> tse⁵ / tsê; choc (錯) -> tsɔk⁷ / tsok; ynguento (?) -> inguento¹ / inguento."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "errar como escriuiendo",
+      "source_H": "訛",
+      "source_M": "gō̃",
+      "source_R": "ngô",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar como escriuiendo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gõ⁵",
+        "tai_lo_standard": "gônn",
+        "phonological_basis": "17c Dominican orthography conversion: gō̃ (訛) -> gõ⁵ / gônn."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "errar como escriuiendo",
+      "source_H": "誤",
+      "source_M": "gō̃ chỗ hô îdç / It que sin melguia errar =",
+      "source_R": "ngūⁿ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar como escriuiendo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gõ⁵ tsi³ ho³ id³ it⁷ ke¹ sin¹ melguia¹ errar¹",
+        "tai_lo_standard": "gônn-tsì-hò-ìd-it-ke-sin-melguia-errar",
+        "phonological_basis": "17c Dominican orthography conversion: gō̃ (誤) -> gõ⁵ / gônn; ch (?) -> tsi³ / tsì; hô (?) -> ho³ / hò; îd (?) -> id³ / ìd; It (?) -> it⁷ / it; que (?) -> ke¹ / ke; sin (?) -> sin¹ / sin; melguia (?) -> melguia¹ / melguia; errar (?) -> errar¹ / errar."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "errar, no acertar",
+      "source_H": "做 不 着",
+      "source_M": "chô m̄ hô",
+      "source_R": "chō gū chiō",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar, no acertar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso³ mi⁵ ho³",
+        "tai_lo_standard": "tsò-mî-hò",
+        "phonological_basis": "17c Dominican orthography conversion: chô (做) -> tso³ / tsò; m̄ (不) -> mi⁵ / mî; hô (着) -> ho³ / hò."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "errar, no acertar la razon / mich camino",
+      "source_H": "謬 戾",
+      "source_M": "bīū ley",
+      "source_R": "mīū lī",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar, no acertar la razon / mich camino",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "biu⁵ lei⁵",
+        "tai_lo_standard": "biû-lêi",
+        "phonological_basis": "17c Dominican orthography conversion: bīū (謬) -> biu⁵ / biû; ley (戾) -> lei⁵ / lêi."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "errar el camino de la razon",
+      "source_H": "迷 路",
+      "source_M": "bēy lōũ",
+      "source_R": "mî lū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar el camino de la razon",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bei⁵ lõũ⁵",
+        "tai_lo_standard": "bêi-lôunn",
+        "phonological_basis": "17c Dominican orthography conversion: bēy (迷) -> bei⁵ / bêi; lōũ (路) -> lõũ⁵ / lôunn."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "errar qualquier cosa.",
+      "source_H": "差 謬",
+      "source_M": "chē bīū̃",
+      "source_R": "châ mīū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar qualquier cosa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse⁵ bĩũ⁵",
+        "tai_lo_standard": "tsê-biûnn",
+        "phonological_basis": "17c Dominican orthography conversion: chē (差) -> tse⁵ / tsê; bīū̃ (謬) -> bĩũ⁵ / biûnn."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "errar qualquier cosa.",
+      "source_H": "差 訛",
+      "source_M": "chē gō̃",
+      "source_R": "châ ngô",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar qualquier cosa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse⁵ gõ⁵",
+        "tai_lo_standard": "tsê-gônn",
+        "phonological_basis": "17c Dominican orthography conversion: chē (差) -> tse⁵ / tsê; gō̃ (訛) -> gõ⁵ / gônn."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "errar qualquier cosa.",
+      "source_H": "差 錯",
+      "source_M": "chā chog",
+      "source_R": "châⁿ chôⁿ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar qualquier cosa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsa⁵ tsɔk⁷",
+        "tai_lo_standard": "tsâ-tsok",
+        "phonological_basis": "17c Dominican orthography conversion: chā (差) -> tsa⁵ / tsâ; chog (錯) -> tsɔk⁷ / tsok."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "errar qualquier cosa.",
+      "source_H": "差 移",
+      "source_M": "chā ȳ",
+      "source_R": "châ xyū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar qualquier cosa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsa⁵",
+        "tai_lo_standard": "tsâ",
+        "phonological_basis": "17c Dominican orthography conversion: chā (差) -> tsa⁵ / tsâ."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "errar, para empellar a otro.",
+      "source_H": "錯 手",
+      "source_M": "chô chiú̃",
+      "source_R": "chô chiù",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar, para empellar a otro.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso³ tsĩũ¹",
+        "tai_lo_standard": "tsò-tsiunn",
+        "phonological_basis": "17c Dominican orthography conversion: chô (錯) -> tso³ / tsò; chiú̃ (手) -> tsĩũ¹ / tsiunn."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "errar, como la mala muger.",
+      "source_H": "行 不 着 路",
+      "source_M": "guiā̃ m̄ tiō lōũ",
+      "source_R": "hiêng pū chiò lū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar, como la mala muger.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gũĩã⁵ mi⁵ tio³ lõũ⁵",
+        "tai_lo_standard": "guiânn-mî-tiò-lôunn",
+        "phonological_basis": "17c Dominican orthography conversion: guiā̃ (行) -> gũĩã⁵ / guiânn; m̄ (不) -> mi⁵ / mî; tiō (着) -> tio³ / tiò; lōũ (路) -> lõũ⁵ / lôunn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "errar haziendo algo.",
+      "source_H": "孽 狀",
+      "source_M": "giēt chōng",
+      "source_R": "ngiēt choāng",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar haziendo algo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "giet⁷ tsɔŋ⁵",
+        "tai_lo_standard": "giet-tsông",
+        "phonological_basis": "17c Dominican orthography conversion: giēt (孽) -> giet⁷ / giet; chōng (狀) -> tsɔŋ⁵ / tsông."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "errar haziendo algo.",
+      "source_H": "孽 態",
+      "source_M": "giēt tāy",
+      "source_R": "ngiēt tāy",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar haziendo algo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "giet⁷ tʰai⁵",
+        "tai_lo_standard": "giet-thâi",
+        "phonological_basis": "17c Dominican orthography conversion: giēt (孽) -> giet⁷ / giet; tāy (態) -> tʰai⁵ / thâi."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "errar, hazer falla.",
+      "source_H": "迴 心",
+      "source_M": "huē sīm",
+      "source_R": "huî sīn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar, hazer falla.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hue⁵ sim⁵",
+        "tai_lo_standard": "huê-sîm",
+        "phonological_basis": "17c Dominican orthography conversion: huē (迴) -> hue⁵ / huê; sīm (心) -> sim⁵ / sîm."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "errar hazer fa Ua.",
+      "source_H": "失 錯",
+      "source_M": "sit chog. l. sit cho",
+      "source_R": "sīt chō",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar hazer fa Ua.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sit⁷ tsɔk⁷ liʔ⁷ sit⁷ tso¹",
+        "tai_lo_standard": "sit-tsok-lih-sit-tso",
+        "phonological_basis": "17c Dominican orthography conversion: sit (失) -> sit⁷ / sit; chog (錯) -> tsɔk⁷ / tsok; l (?) -> liʔ⁷ / lih; sit (?) -> sit⁷ / sit; cho (?) -> tso¹ / tso."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "errar sin malicia.",
+      "source_H": "失 誤",
+      "source_M": "sit gū̃",
+      "source_R": "sīt gū",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "errar sin malicia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sit⁷ gũ⁵",
+        "tai_lo_standard": "sit-gûnn",
+        "phonological_basis": "17c Dominican orthography conversion: sit (失) -> sit⁷ / sit; gū̃ (誤) -> gũ⁵ / gûnn."
+      }
+    }
+  ]
+}

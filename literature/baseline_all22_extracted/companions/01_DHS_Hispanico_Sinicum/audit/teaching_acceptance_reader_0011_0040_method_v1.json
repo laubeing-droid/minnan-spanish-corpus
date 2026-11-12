@@ -1,0 +1,54 @@
+{
+  "version": "DHS_reader_method_only_v1",
+  "accepted_at": "2026-10-16T08:43:41.292115+00:00",
+  "first_applicable_unread_pdf_page": 196,
+  "pre_acceptance_last_frozen_batch": "pdf_0191_0195",
+  "earlier_batches_reclassified": false,
+  "scope": "DHS only; seven author-symbol shape classes, not inferred modern tone values; no DSH/HAB/Arte generalization",
+  "exposure": "method text and all seven linked teaching crops visually read; images include their visible adjacent lexical context; no source paper or A/B/C/D answers/results opened",
+  "teaching_code_classes": [
+    "/",
+    "backslash",
+    "^",
+    "v",
+    "—",
+    "/-",
+    "backslash plus short horizontal"
+  ],
+  "operational_adoption": "retain syllable stems; preserve visible upper mark geometry separately from preferred/candidate author code; unresolved marks stay unresolved; no modern tone category back-inference; corrections only in new sidecars, never overwrite frozen drafts",
+  "effectiveness_claim": "none; method effect not demonstrated",
+  "files": [
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/DHS_reader_method_only_v1.md",
+      "sha256": "9f0f81825b74ddf084e6ab9f08290bafb3d8a132bd0d1a99f64f68727e0b77df"
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/T01_published_tone_example.jpeg",
+      "sha256": "fbb8591cd2c1a0d52bfcac7f1d01bacfd56687aa18985f31dac7722a54ec22b0"
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/T02_published_tone_example.jpeg",
+      "sha256": "53b2fe9999906ae55c65ad92a78740547910876a4353dccf05016236051b7496"
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/T03_published_tone_example.jpeg",
+      "sha256": "fc22dcfce7fe44f4498d7a8e171d511e61cb4442566a98c5366877b778c77f0c"
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/T04_published_tone_example.jpeg",
+      "sha256": "3206b8411f1ae26a56322efd44fea3ebcf1c55a41c330478517d57015fd6440a"
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/T05_published_tone_example.jpeg",
+      "sha256": "acabe80a9a3b415d828549115e3d82ad61de19a7086c515cf0d6593fcdc5e955"
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/T06_published_tone_example.jpeg",
+      "sha256": "8e4444b5a22889a4549761ae5ee6152830ab59733e020409330ee016294414e9"
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/blind_calibration_20261016_v1/T07_published_tone_example.jpeg",
+      "sha256": "b4a1e273a658fc506dab6854abc9f6622dcab3fa1ada6062b0513da98f95eb32"
+    }
+  ]
+}

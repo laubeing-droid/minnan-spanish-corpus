@@ -1,0 +1,504 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 191,
+  "historical_folio": 162,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0191/pdf_0191_300dpi.png",
+  "page_header": "U.s. ante. U.",
+  "page_footer_printed": "- 162 -",
+  "page_footer_handwritten": "81",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Bueno excelente",
+      "source_H": "玄 微",
+      "source_M": "hiēn bȳ",
+      "source_R": "hiên mẹ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno excelente",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hien⁵ bi⁵",
+        "tai_lo_standard": "hiên-bî",
+        "phonological_basis": "17c Dominican orthography conversion: hiēn (玄) -> hien⁵ / hiên; b (微) -> bi⁵ / bî."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Buenos mucho -",
+      "source_H": "粹",
+      "source_M": "gúi. excelente",
+      "source_R": "chūi",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Buenos mucho -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui¹",
+        "tai_lo_standard": "gui",
+        "phonological_basis": "17c Dominican orthography conversion: gúi (粹) -> gui¹ / gui."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Bueno por excelencia",
+      "source_H": "粹 美",
+      "source_M": "gúi bỳ.",
+      "source_R": "chūin mẹ",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno por excelencia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui¹ bi²",
+        "tai_lo_standard": "gui-bí",
+        "phonological_basis": "17c Dominican orthography conversion: gúi (粹) -> gui¹ / gui; b (美) -> bi² / bí."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Bueno excellente",
+      "source_H": "絕",
+      "source_M": "choã biāñ.",
+      "source_R": "chūe",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno excellente",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsõã³ bĩãn⁶",
+        "tai_lo_standard": "tsoànn-biān",
+        "phonological_basis": "17c Dominican orthography conversion: choã (絕) -> tsõã³ / tsoànn; biāñ (?) -> bĩãn⁶ / biān."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Bueno excellente",
+      "source_H": "佳",
+      "source_M": "giê.",
+      "source_R": "guiâⁿ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno excellente",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gie³",
+        "tai_lo_standard": "giè",
+        "phonological_basis": "17c Dominican orthography conversion: giê (佳) -> gie³ / giè."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Bueno, muy bueno",
+      "source_H": "佳 美",
+      "source_M": "gùe By. idem",
+      "source_R": "guiâⁿ mẹ",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno, muy bueno",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue² bi¹",
+        "tai_lo_standard": "gué-bi",
+        "phonological_basis": "17c Dominican orthography conversion: gùe (佳) -> gue² / gué; By (美) -> bi¹ / bi."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Bueno, agradable",
+      "source_H": "美 妙",
+      "source_M": "bý biā̃. agradable",
+      "source_R": "mẹ miāⁿ",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno, agradable",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bi¹ bĩã⁵",
+        "tai_lo_standard": "bi-biânn",
+        "phonological_basis": "17c Dominican orthography conversion: b (美) -> bi¹ / bi; biā̃ (妙) -> bĩã⁵ / biânn."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Bueno, famoso admirable por cierto.",
+      "source_H": "妙 哉",
+      "source_M": "biẫ cháĩ. admirable",
+      "source_R": "miāⁿ cháiⁿ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno, famoso admirable por cierto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bi³ tsãĩ¹",
+        "tai_lo_standard": "bì-tsainn",
+        "phonological_basis": "17c Dominican orthography conversion: bi (妙) -> bi³ / bì; cháĩ (哉) -> tsãĩ¹ / tsainn."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Bueno, bonissimo por cierto",
+      "source_H": "妙 啊[疑:啊/咡]",
+      "source_M": "biẫ ā.",
+      "source_R": "miāⁿ ā",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno, bonissimo por cierto",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bi³ a⁵",
+        "tai_lo_standard": "bì-â",
+        "phonological_basis": "17c Dominican orthography conversion: bi (妙) -> bi³ / bì; ā (啊) -> a⁵ / â."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Bueno honesto y polido ⟨interlínea: naturalmente moralmente⟩",
+      "source_H": "雅",
+      "source_M": "ngẻ. honesto y polido",
+      "source_R": "nguià",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno honesto y polido ⟨interlínea: naturalmente moralmente⟩",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ŋi¹",
+        "tai_lo_standard": "ngi",
+        "phonological_basis": "17c Dominican orthography conversion: ng (雅) -> ŋi¹ / ngi."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Bueno entero",
+      "source_H": "雅 〻 年",
+      "source_M": "ngẻ ngẻ nú. id",
+      "source_R": "nguia nguia miên",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno entero",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ŋi¹ ŋi¹ nu¹ id¹",
+        "tai_lo_standard": "ngi-ngi-nu-id",
+        "phonological_basis": "17c Dominican orthography conversion: ng (雅) -> ŋi¹ / ngi; ng (年) -> ŋi¹ / ngi; nú (?) -> nu¹ / nu; id (?) -> id¹ / id."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Bueno, casa buena",
+      "source_H": "奇",
+      "source_M": "gûi.",
+      "source_R": "gûi",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno, casa buena",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui³",
+        "tai_lo_standard": "guì",
+        "phonological_basis": "17c Dominican orthography conversion: gûi (奇) -> gui³ / guì."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Bueno, bien hecho.",
+      "source_H": "眷[疑:眷/好]",
+      "source_M": "hỏ.",
+      "source_R": "hîo",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno, bien hecho.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi¹",
+        "tai_lo_standard": "hi",
+        "phonological_basis": "17c Dominican orthography conversion: h (眷) -> hi¹ / hi."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Buen modo.",
+      "source_H": "奇 樣",
+      "source_M": "gûi iō̃. buen modo",
+      "source_R": "gûi iāng",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Buen modo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui³ ĩõ³",
+        "tai_lo_standard": "guì-iònn",
+        "phonological_basis": "17c Dominican orthography conversion: gûi (奇) -> gui³ / guì; iō̃ (樣) -> ĩõ³ / iònn."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Bueno.",
+      "source_H": "吉",
+      "source_M": "gúit. ú hó.",
+      "source_R": "gúit.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guit⁷ u¹ ho¹",
+        "tai_lo_standard": "guit-u-ho",
+        "phonological_basis": "17c Dominican orthography conversion: gúit (吉) -> guit⁷ / guit; ú (?) -> u¹ / u; hó (?) -> ho¹ / ho."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Bueno, muy bueno",
+      "source_H": "吉 昌",
+      "source_M": "gúit chiāng. id.",
+      "source_R": "gūn chiàng",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno, muy bueno",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guit⁷ tsʰiaŋ⁵ id¹",
+        "tai_lo_standard": "guit-tshiâng-id",
+        "phonological_basis": "17c Dominican orthography conversion: gúit (吉) -> guit⁷ / guit; chiāng (昌) -> tsʰiaŋ⁵ / tshiâng; id (?) -> id¹ / id."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Buena casa.",
+      "source_H": "吉 事",
+      "source_M": "gúit sū. id.",
+      "source_R": "gūi zī",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Buena casa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guit⁷ su⁵ id¹",
+        "tai_lo_standard": "guit-sû-id",
+        "phonological_basis": "17c Dominican orthography conversion: gúit (吉) -> guit⁷ / guit; sū (事) -> su⁵ / sû; id (?) -> id¹ / id."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Bueno y raro.",
+      "source_H": "瑞",
+      "source_M": "gūi",
+      "source_R": "zūi",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno y raro.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui⁵",
+        "tai_lo_standard": "guî",
+        "phonological_basis": "17c Dominican orthography conversion: gūi (瑞) -> gui⁵ / guî."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Bueno. raro.",
+      "source_H": "瑞 氣",
+      "source_M": "gūi gūi.",
+      "source_R": "zūi gūi",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno. raro.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui⁵ gui⁵",
+        "tai_lo_standard": "guî-guî",
+        "phonological_basis": "17c Dominican orthography conversion: gūi (瑞) -> gui⁵ / guî; gūi (氣) -> gui⁵ / guî."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Bueno moralm.te y^{lo} perso^{na} naturalm.te",
+      "source_H": "成",
+      "source_M": "sēng.",
+      "source_R": "chêng",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno moralm.te y^{lo} perso^{na} naturalm.te",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "seŋ⁵",
+        "tai_lo_standard": "sêng",
+        "phonological_basis": "17c Dominican orthography conversion: sēng (成) -> seŋ⁵ / sêng."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "Bueno.",
+      "source_H": "祥",
+      "source_M": "siāng. ú hó.",
+      "source_R": "chiāng[疑:chiāng/chiòng]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siaŋ⁵ u¹ ho¹",
+        "tai_lo_standard": "siâng-u-ho",
+        "phonological_basis": "17c Dominican orthography conversion: siāng (祥) -> siaŋ⁵ / siâng; ú (?) -> u¹ / u; hó (?) -> ho¹ / ho."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "Bueno preciso, por^{a} vecer ù ho -",
+      "source_H": "祥 瑞",
+      "source_M": "siāng gūi. id.",
+      "source_R": "chiàng zūi",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Bueno preciso, por^{a} vecer ù ho -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siaŋ⁵ gui⁵ id¹",
+        "tai_lo_standard": "siâng-guî-id",
+        "phonological_basis": "17c Dominican orthography conversion: siāng (祥) -> siaŋ⁵ / siâng; gūi (瑞) -> gui⁵ / guî; id (?) -> id¹ / id."
+      }
+    }
+  ]
+}

@@ -1,0 +1,589 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 131,
+  "historical_folio": 102,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0131/pdf_0131_300dpi.png",
+  "page_header": "A. ante. B.",
+  "page_footer_printed": "- 102 -",
+  "page_footer_handwritten": "51",
+  "total_positions_recorded": 25,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Arrojarse, &c. en contemplación",
+      "source_H": "出神",
+      "source_M": "chūr sīn.",
+      "source_R": "chut siēr.",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Arrojarse, &c. en contemplación",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰurʔ⁷ sin⁵",
+        "tai_lo_standard": "tshurh-sîn",
+        "phonological_basis": "17c Dominican orthography conversion: chūr (出) -> tsʰurʔ⁷ / tshurh; sīn (神) -> sin⁵ / sîn."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Arrojar.",
+      "source_H": "擲",
+      "source_M": "cag (Bch)",
+      "source_R": "chùay",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Arrojar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kak⁷ bcʔ⁷",
+        "tai_lo_standard": "kak-bch",
+        "phonological_basis": "17c Dominican orthography conversion: cag (擲) -> kak⁷ / kak; Bch (?) -> bcʔ⁷ / bch."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "(arrojar al agua)",
+      "source_H": "擲落水",
+      "source_M": "cag lō chūy, alagua",
+      "source_R": "chùay tó chùi",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(arrojar al agua)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kak⁷ loʔ⁸ tsui⁵ alagua¹",
+        "tai_lo_standard": "kak-lo̍h-tsuî-alagua",
+        "phonological_basis": "17c Dominican orthography conversion: cag (擲) -> kak⁷ / kak; lō (落) -> loʔ⁸ / lo̍h; chūy (水) -> tsui⁵ / tsuî; alagua (?) -> alagua¹ / alagua."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "arrojar algo al naúio ut fracto. q.",
+      "source_H": "擲過舡",
+      "source_M": "cag cuē chūn",
+      "source_R": "chùay cō chûn",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arrojar algo al naúio ut fracto. q.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kak⁷ kue⁵ tsun⁵",
+        "tai_lo_standard": "kak-kuê-tsûn",
+        "phonological_basis": "17c Dominican orthography conversion: cag (擲) -> kak⁷ / kak; cuē (過) -> kue⁵ / kuê; chūn (舡) -> tsun⁵ / tsûn."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "+(arrojar)",
+      "source_H": "去",
+      "source_M": "(cag)",
+      "source_R": "chun Tǐn",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "+(arrojar)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰak⁷",
+        "tai_lo_standard": "khak",
+        "phonological_basis": "17c Dominican orthography conversion: cag (去) -> kʰak⁷ / khak."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "arrojar hirando algos.",
+      "source_H": "戲[疑:獻]",
+      "source_M": "hiēn.",
+      "source_R": "hiēr.",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arrojar hirando algos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hien⁵",
+        "tai_lo_standard": "hiên",
+        "phonological_basis": "17c Dominican orthography conversion: hiēn (戲) -> hien⁵ / hiên."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "(arrojar, tirar algos)",
+      "source_H": "戲却擲",
+      "source_M": "hiē̃ guicag",
+      "source_R": "hiēⁿ guic chùay",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(arrojar, tirar algos)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hĩẽ³ guicak⁷",
+        "tai_lo_standard": "hiènn-guicak",
+        "phonological_basis": "17c Dominican orthography conversion: hiē̃ (戲) -> hĩẽ³ / hiènn; guicag (却) -> guicak⁷ / guicak."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "arrojar: hirando",
+      "source_H": "撣[疑:挨]",
+      "source_M": "tã",
+      "source_R": "Tān",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arrojar: hirando",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tã¹",
+        "tai_lo_standard": "tann",
+        "phonological_basis": "17c Dominican orthography conversion: tã (撣) -> tã¹ / tann."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "(arrojar un hirando piedra)",
+      "source_H": "撣石頭[疑:挨]",
+      "source_M": "ta chio tau; piedra",
+      "source_R": "Tañ ci tēû",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(arrojar un hirando piedra)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ta⁵ tsioʔ⁸ tʰau⁵ piedra¹",
+        "tai_lo_standard": "tâ-tsio̍h-thâu-piedra",
+        "phonological_basis": "17c Dominican orthography conversion: ta (撣) -> ta⁵ / tâ; chio (石) -> tsioʔ⁸ / tsio̍h; tau (頭) -> tʰau⁵ / thâu; piedra (?) -> piedra¹ / piedra."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "arrojar con un guastéquere. Hoy hin guiṽl. d—",
+      "source_H": "却",
+      "source_M": "guiō",
+      "source_R": "guiō",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arrojar con un guastéquere. Hoy hin guiṽl. d—",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guio⁵",
+        "tai_lo_standard": "guiô",
+        "phonological_basis": "17c Dominican orthography conversion: guiō (却) -> guio⁵ / guiô."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "(arrojar depechando)",
+      "source_H": "却丢",
+      "source_M": "guiō hū;",
+      "source_R": "guiō kù;",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(arrojar depechando)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guio⁵ hu⁵",
+        "tai_lo_standard": "guiô-hû",
+        "phonological_basis": "17c Dominican orthography conversion: guiō (却) -> guio⁵ / guiô; hū (丢) -> hu⁵ / hû."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "(arrojar depechar)",
+      "source_H": "却擲",
+      "source_M": "guiō cag",
+      "source_R": "guiō chùay",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(arrojar depechar)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guio⁵ kak⁷",
+        "tai_lo_standard": "guiô-kak",
+        "phonological_basis": "17c Dominican orthography conversion: guiō (却) -> guio⁵ / guiô; cag (擲) -> kak⁷ / kak."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "arrojar quebrando.",
+      "source_H": "摔[疑:捌]",
+      "source_M": "siag.",
+      "source_R": "sài",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arrojar quebrando.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siak⁷",
+        "tai_lo_standard": "siak",
+        "phonological_basis": "17c Dominican orthography conversion: siag (摔) -> siak⁷ / siak."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "(arrojar quebrando)",
+      "source_H": "摔破[疑:捌破]",
+      "source_M": "siag pòa",
+      "source_R": "sài pō",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(arrojar quebrando)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siak⁷ pʰoa²",
+        "tai_lo_standard": "siak-phoá",
+        "phonological_basis": "17c Dominican orthography conversion: siag (摔) -> siak⁷ / siak; pòa (破) -> pʰoa² / phoá."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "arrojar, echar fuera",
+      "source_H": "丢",
+      "source_M": "hiū.",
+      "source_R": "kù",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arrojar, echar fuera",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hiu⁵",
+        "tai_lo_standard": "hiû",
+        "phonological_basis": "17c Dominican orthography conversion: hiū (丢) -> hiu⁵ / hiû."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "arrojar lo que se despecha dar le de mano",
+      "source_H": "丢棄",
+      "source_M": "hiū gìy.",
+      "source_R": "kù gùi",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arrojar lo que se despecha dar le de mano",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hiu⁵ giiʔ⁷",
+        "tai_lo_standard": "hiû-giih",
+        "phonological_basis": "17c Dominican orthography conversion: hiū (丢) -> hiu⁵ / hiû; gìy (棄) -> giiʔ⁷ / giih."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "arrojar, despechar.",
+      "source_H": "丢却擲",
+      "source_M": "hiū guiocag",
+      "source_R": "kù guic chùay",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arrojar, despechar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hiu⁵ guiocak⁷",
+        "tai_lo_standard": "hiû-guiocak",
+        "phonological_basis": "17c Dominican orthography conversion: hiū (丢) -> hiu⁵ / hiû; guiocag (却) -> guiocak⁷ / guiocak."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "arrojar una y otra pe",
+      "source_H": "丢東丢西",
+      "source_M": "hiū tāñ hiū saī.",
+      "source_R": "kù tūy kù sī",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arrojar una y otra pe",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hiu² tãn⁵ hiu² sai⁵",
+        "tai_lo_standard": "hiú-tân-hiú-sâi",
+        "phonological_basis": "17c Dominican orthography conversion: hiū (丢) -> hiu² / hiú; tāñ (東) -> tãn⁵ / tân; hiū (丢) -> hiu² / hiú; saī (西) -> sai⁵ / sâi."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "arrojar sovre los otros",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arrojar sovre los otros",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "arrojar hacia algunos algos.",
+      "source_H": "丢坬[疑:墘/堸]",
+      "source_M": "hiū quē",
+      "source_R": "kù cauay",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arrojar hacia algunos algos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hiu² ke⁵",
+        "tai_lo_standard": "hiú-kê",
+        "phonological_basis": "17c Dominican orthography conversion: hiū (丢) -> hiu² / hiú; quē (坬) -> ke⁵ / kê."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "arrojar com piecra.",
+      "source_H": "射",
+      "source_M": "chiō.",
+      "source_R": "siē",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arrojar com piecra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsioʔ⁷",
+        "tai_lo_standard": "tsioh",
+        "phonological_basis": "17c Dominican orthography conversion: chiō (射) -> tsioʔ⁷ / tsioh."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "arrojar acertando el clavo",
+      "source_H": "着",
+      "source_M": "chiō tio.",
+      "source_R": "siē chio",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arrojar acertando el clavo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsioʔ⁸ tio⁶",
+        "tai_lo_standard": "tsio̍h-tiō",
+        "phonological_basis": "17c Dominican orthography conversion: chiō (着) -> tsioʔ⁸ / tsio̍h; tio (?) -> tio⁶ / tiō."
+      }
+    },
+    {
+      "position": 23,
+      "source_L": "arrojar la piedra y pegar el clavo",
+      "source_H": "射出頭",
+      "source_M": "chiō cheu tau",
+      "source_R": "siē chū tēû",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arrojar la piedra y pegar el clavo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsioʔ⁷ tsʰeu¹ tʰau⁵",
+        "tai_lo_standard": "tsioh-tsheu-thâu",
+        "phonological_basis": "17c Dominican orthography conversion: chiō (射) -> tsioʔ⁷ / tsioh; cheu (出) -> tsʰeu¹ / tsheu; tau (頭) -> tʰau⁵ / thâu."
+      }
+    },
+    {
+      "position": 24,
+      "source_L": "arrojar sel ba aquellos recua rectia",
+      "source_H": "摽[疑:標]",
+      "source_M": "hiēr.",
+      "source_R": "guiē",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arrojar sel ba aquellos recua rectia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hier⁵",
+        "tai_lo_standard": "hiêr",
+        "phonological_basis": "17c Dominican orthography conversion: hiēr (摽) -> hier⁵ / hiêr."
+      }
+    },
+    {
+      "position": 25,
+      "source_L": "arrojar se la ba hacia arriba para aquellos recia",
+      "source_H": "摽上去[疑:標上去]",
+      "source_M": "hiēr chio cau",
+      "source_R": "& guīe siāng gùi",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "arrojar se la ba hacia arriba para aquellos recia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hier⁵ tsioʔ⁷ kʰau¹",
+        "tai_lo_standard": "hiêr-tsioh-khau",
+        "phonological_basis": "17c Dominican orthography conversion: hiēr (摽) -> hier⁵ / hiêr; chio (上) -> tsioʔ⁷ / tsioh; cau (去) -> kʰau¹ / khau."
+      }
+    }
+  ]
+}

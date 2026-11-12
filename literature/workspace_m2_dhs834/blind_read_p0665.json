@@ -1,0 +1,401 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 665,
+  "historical_folio": 631,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0665/pdf_0665_300dpi.png",
+  "page_header": "M. ante. Z.",
+  "page_footer_printed": "- 631 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "merito de alguna obra.",
+      "source_H": "建功",
+      "source_M": "guiēn cong",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "merito de alguna obra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guien³ kɔŋ¹",
+        "tai_lo_standard": "guièn-kong",
+        "phonological_basis": "17c Dominican orthography conversion: guiēn (建) -> guien³ / guièn; cong (功) -> kɔŋ¹ / kong."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Mes.",
+      "source_H": "月",
+      "source_M": "gue juǎn",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mes.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue² dzuan⁶",
+        "tai_lo_standard": "gué-juān",
+        "phonological_basis": "17c Dominican orthography conversion: gue (月) -> gue² / gué; juǎn (?) -> dzuan⁶ / juān."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "mes.",
+      "source_H": "月日",
+      "source_M": "gue xǐt",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mes.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue³ dzit⁸",
+        "tai_lo_standard": "guè-ji̍t",
+        "phonological_basis": "17c Dominican orthography conversion: gue (月) -> gue³ / guè; xǐt (日) -> dzit⁸ / ji̍t."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "mes pr primero del año.",
+      "source_H": "正",
+      "source_M": "chiã",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mes pr primero del año.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsĩã¹",
+        "tai_lo_standard": "tsiann",
+        "phonological_basis": "17c Dominican orthography conversion: chiã (正) -> tsĩã¹ / tsiann."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "mes primero del año.",
+      "source_H": "正月",
+      "source_M": "chiã guō",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mes primero del año.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsĩã⁵ guo⁵",
+        "tai_lo_standard": "tsiânn-guô",
+        "phonological_basis": "17c Dominican orthography conversion: chiã (正) -> tsĩã⁵ / tsiânn; guō (月) -> guo⁵ / guô."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "mes segundo del año",
+      "source_H": "卯月",
+      "source_M": "būi guě",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mes segundo del año",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bui⁵ gue²",
+        "tai_lo_standard": "buî-gué",
+        "phonological_basis": "17c Dominican orthography conversion: būi (卯) -> bui⁵ / buî; guě (月) -> gue² / gué."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "mes primero de parida.",
+      "source_H": "產后",
+      "source_M": "sān hoǜ, sān aǜ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mes primero de parida.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "san⁵ ho⁵ san⁶ a⁶",
+        "tai_lo_standard": "sân-hô-sān-ā",
+        "phonological_basis": "17c Dominican orthography conversion: sān (產) -> san⁵ / sân; ho (后) -> ho⁵ / hô; sān (?) -> san⁶ / sān; a (?) -> a⁶ / ā."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "mes dela muger q. quiere parir ~",
+      "source_H": "順月",
+      "source_M": "sǔn guě",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mes dela muger q. quiere parir ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sun² gue²",
+        "tai_lo_standard": "sún-gué",
+        "phonological_basis": "17c Dominican orthography conversion: sǔn (順) -> sun² / sún; guě (月) -> gue² / gué."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "meses seys los vltimos del año ~",
+      "source_H": "穩[疑:稔]冬",
+      "source_M": "ǔn tāng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "meses seys los vltimos del año ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "un² taŋ⁵",
+        "tai_lo_standard": "ún-tâng",
+        "phonological_basis": "17c Dominican orthography conversion: ǔn (穩) -> un² / ún; tāng (冬) -> taŋ⁵ / tâng."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Messa,",
+      "source_H": "棹",
+      "source_M": "to.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Messa,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toʔ⁷",
+        "tai_lo_standard": "toh",
+        "phonological_basis": "17c Dominican orthography conversion: to (棹) -> toʔ⁷ / toh."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "mesa.",
+      "source_H": "席",
+      "source_M": "seg sjědra",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mesa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sek⁸ sjedra⁶",
+        "tai_lo_standard": "se̍k-sjedrā",
+        "phonological_basis": "17c Dominican orthography conversion: seg (席) -> sek⁸ / se̍k; sjědra (?) -> sjedra⁶ / sjedrā."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "mesa.",
+      "source_H": "臺",
+      "source_M": "tāy. altor.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mesa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tai⁵",
+        "tai_lo_standard": "tâi",
+        "phonological_basis": "17c Dominican orthography conversion: tāy (臺) -> tai⁵ / tâi."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "mesa.",
+      "source_H": "索",
+      "source_M": "va ĩ.",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mesa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "va¹ ĩ¹",
+        "tai_lo_standard": "va-inn",
+        "phonological_basis": "17c Dominican orthography conversion: va (索) -> va¹ / va; ĩ (?) -> ĩ¹ / inn."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "mesa.",
+      "source_H": "几",
+      "source_M": "guy.",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mesa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui¹",
+        "tai_lo_standard": "gui",
+        "phonological_basis": "17c Dominican orthography conversion: guy (几) -> gui¹ / gui."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "mesa quadrada de cea fen lauan susfantos ~",
+      "source_H": "八仙棹",
+      "source_M": "pe sién to.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mesa quadrada de cea fen lauan susfantos ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe¹ sieʔ⁷ to¹",
+        "tai_lo_standard": "pe-sieh-to",
+        "phonological_basis": "17c Dominican orthography conversion: pe (八) -> pe¹ / pe; sién (仙) -> sieʔ⁷ / sieh; to (棹) -> to¹ / to."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Mesa Señerea mal puesta.",
+      "source_H": "棹露不自在",
+      "source_M": "to lōü m chū chǎy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mesa Señerea mal puesta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toʔ⁷ lo⁵ mi⁵ tsu² tsai⁶",
+        "tai_lo_standard": "toh-lô-mî-tsú-tsāi",
+        "phonological_basis": "17c Dominican orthography conversion: to (棹) -> toʔ⁷ / toh; lō (露) -> lo⁵ / lô; m (不) -> mi⁵ / mî; chū (自) -> tsu² / tsú; chǎy (在) -> tsai⁶ / tsāi."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "mesa con cajones.",
+      "source_H": "棹櫃",
+      "source_M": "to cūi",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mesa con cajones.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to¹ kui⁵",
+        "tai_lo_standard": "to-kuî",
+        "phonological_basis": "17c Dominican orthography conversion: to (棹) -> to¹ / to; cūi (櫃) -> kui⁵ / kuî."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "mesa delante del muerto",
+      "source_H": "靈棹",
+      "source_M": "leng to.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mesa delante del muerto",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "leʔ⁷ to¹",
+        "tai_lo_standard": "leh-to",
+        "phonological_basis": "17c Dominican orthography conversion: leng (靈) -> leʔ⁷ / leh; to (棹) -> to¹ / to."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "mesa, altar.",
+      "source_H": "索棹",
+      "source_M": "va to.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mesa, altar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "vaʔ⁷ to¹",
+        "tai_lo_standard": "vah-to",
+        "phonological_basis": "17c Dominican orthography conversion: va (索) -> vaʔ⁷ / vah; to (棹) -> to¹ / to."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "mesa con manjarg ~",
+      "source_H": "棹席",
+      "source_M": "to sia; l to iŋ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mesa con manjarg ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toʔ⁷ siaʔ⁸ li¹ to¹ i¹",
+        "tai_lo_standard": "toh-sia̍h-li-to-i",
+        "phonological_basis": "17c Dominican orthography conversion: to (棹) -> toʔ⁷ / toh; sia (席) -> siaʔ⁸ / sia̍h; l (?) -> li¹ / li; to (?) -> to¹ / to; i (?) -> i¹ / i."
+      }
+    }
+  ]
+}

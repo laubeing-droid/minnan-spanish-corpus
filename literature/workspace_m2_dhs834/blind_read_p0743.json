@@ -1,0 +1,380 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 743,
+  "historical_folio": 709,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0743/pdf_0743_300dpi.png",
+  "page_header": "O. ante. X. y. z.",
+  "page_footer_printed": "- 709 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "O. ante. X.",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "O. ante. X.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Oxala",
+      "source_H": "咲 [疑:咲/咳]",
+      "source_M": "háy",
+      "source_R": "pĭa jó nē",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Oxala",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hai¹",
+        "tai_lo_standard": "hai",
+        "phonological_basis": "17c Dominican orthography conversion: háy (咲) -> hai¹ / hai."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Oxala, venga enhora buena asi suceda",
+      "source_H": "来耶",
+      "source_M": "lāy mŏ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Oxala, venga enhora buena asi suceda",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lai⁵ mi²",
+        "tai_lo_standard": "lâi-mí",
+        "phonological_basis": "17c Dominican orthography conversion: lāy (来) -> lai⁵ / lâi; m (耶) -> mi² / mí."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "O. ante. Y.",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "O. ante. Y.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Oy",
+      "source_H": "今旦日",
+      "source_M": "quín ã xĭt",
+      "source_R": "ngây ne",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Oy",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kin¹ ã³ dzi² ti¹",
+        "tai_lo_standard": "kin-ànn-jí-ti",
+        "phonological_basis": "17c Dominican orthography conversion: quín (今) -> kin¹ / kin; ã (旦) -> ã³ / ànn; x (日) -> dzi² / jí; t (?) -> ti¹ / ti."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "oy",
+      "source_H": "今日",
+      "source_M": "quīm xĭt",
+      "source_R": "gĭn huā xĭt",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "oy",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kim⁵ dzi² ti¹",
+        "tai_lo_standard": "kîm-jí-ti",
+        "phonological_basis": "17c Dominican orthography conversion: quīm (今) -> kim⁵ / kîm; x (日) -> dzi² / jí; t (?) -> ti¹ / ti."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "oy",
+      "source_H": "今旦",
+      "source_M": "quín toá",
+      "source_R": "el amanecerita",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "oy",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kin¹ toa¹",
+        "tai_lo_standard": "kin-toa",
+        "phonological_basis": "17c Dominican orthography conversion: quín (今) -> kin¹ / kin; toá (旦) -> toa¹ / toa."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "oy",
+      "source_H": "當日",
+      "source_M": "tōng xĭt",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "oy",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tɔŋ⁵ dzi² ti¹",
+        "tai_lo_standard": "tông-jí-ti",
+        "phonological_basis": "17c Dominican orthography conversion: tōng (當) -> tɔŋ⁵ / tông; x (日) -> dzi² / jí; t (?) -> ti¹ / ti."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "oy",
+      "source_H": "即日",
+      "source_M": "chēc xĭt",
+      "source_R": "el dia",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "oy",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsek⁷ dzi² ti¹",
+        "tai_lo_standard": "tsek-jí-ti",
+        "phonological_basis": "17c Dominican orthography conversion: chēc (即) -> tsek⁷ / tsek; x (日) -> dzi² / jí; t (?) -> ti¹ / ti."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Oidor ygobernador",
+      "source_H": "王",
+      "source_M": "ōng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Oidor ygobernador",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ɔŋ⁵",
+        "tai_lo_standard": "ông",
+        "phonological_basis": "17c Dominican orthography conversion: ōng (王) -> ɔŋ⁵ / ông."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "oidor",
+      "source_H": "按察司",
+      "source_M": "ân châi sȳ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "oidor",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "an³ tsai³ si⁵",
+        "tai_lo_standard": "àn-tsài-sî",
+        "phonological_basis": "17c Dominican orthography conversion: ân (按) -> an³ / àn; châi (察) -> tsai³ / tsài; s (司) -> si⁵ / sî."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "oidor mas antiguo",
+      "source_H": "二王",
+      "source_M": "x̆y ōng",
+      "source_R": "antiguos. 1º",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "oidor mas antiguo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzi² ɔŋ⁵",
+        "tai_lo_standard": "jí-ông",
+        "phonological_basis": "17c Dominican orthography conversion: x̆y (二) -> dzi² / jí; ōng (王) -> ɔŋ⁵ / ông."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "oidor segundo",
+      "source_H": "三王",
+      "source_M": "sām ōng.2",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "oidor segundo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sam⁵ ɔŋ⁵",
+        "tai_lo_standard": "sâm-ông",
+        "phonological_basis": "17c Dominican orthography conversion: sām (三) -> sam⁵ / sâm; ōng (王) -> ɔŋ⁵ / ông."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "oidor tercero - &c",
+      "source_H": "四王",
+      "source_M": "s̆y ōng 3",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "oidor tercero - &c",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si² ɔŋ⁵",
+        "tai_lo_standard": "sí-ông",
+        "phonological_basis": "17c Dominican orthography conversion: s̆y (四) -> si² / sí; ōng (王) -> ɔŋ⁵ / ông."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Oir",
+      "source_H": "聰 [疑:聰/聽]",
+      "source_M": "Fía hiāgī",
+      "source_R": "percubir",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Oir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fia¹ hiagi⁶",
+        "tai_lo_standard": "fia-hiāgi",
+        "phonological_basis": "17c Dominican orthography conversion: Fía (聰) -> fia¹ / fia; hiāgī (?) -> hiagi⁶ / hiāgi."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "oir",
+      "source_H": "聞",
+      "source_M": "būn",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "oir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bun⁵",
+        "tai_lo_standard": "bûn",
+        "phonological_basis": "17c Dominican orthography conversion: būn (聞) -> bun⁵ / bûn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "oir, atender",
+      "source_H": "傾耳而聽 [疑:聽/聰]",
+      "source_M": "quēn hōy x̆y pē̃g",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "oir, atender",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ken⁵ hoi⁵ dzi² pʰẽk⁷",
+        "tai_lo_standard": "kên-hôi-jí-phek",
+        "phonological_basis": "17c Dominican orthography conversion: quēn (傾) -> ken⁵ / kên; hōy (耳) -> hoi⁵ / hôi; x̆y (而) -> dzi² / jí; pē̃g (聽) -> pʰẽk⁷ / phek."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "oir decir",
+      "source_H": "聞聲",
+      "source_M": "būn sē̃",
+      "source_R": "lhia via",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "oir decir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bun⁵ sẽ⁵",
+        "tai_lo_standard": "bûn-sênn",
+        "phonological_basis": "17c Dominican orthography conversion: būn (聞) -> bun⁵ / bûn; sē̃ (聲) -> sẽ⁵ / sênn."
+      }
+    }
+  ]
+}

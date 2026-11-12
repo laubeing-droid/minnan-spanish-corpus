@@ -1,0 +1,412 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 323,
+  "historical_folio": 294,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0323/pdf_0323_300dpi.png",
+  "page_header": "C. ante. U.",
+  "page_footer_printed": "- 294 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "cubierta de champan / o neliss —",
+      "source_H": "船 板 [疑:板/扳]",
+      "source_M": "chūn pã.",
+      "source_R": "chûen pān.",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cubierta de champan / o neliss —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [
+          {
+            "term": "champan",
+            "hanzi": "舢舨 / 唐船",
+            "tai_lo": "sam-pán",
+            "zh_note": "往返閩南與呂宋之華人海船或大型舢舨（Champán）",
+            "en_note": "Chinese trading junk or sampan vessel"
+          }
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰun⁵ pã¹",
+        "tai_lo_standard": "tshûn-pann",
+        "phonological_basis": "17c Dominican orthography conversion: chūn (船) -> tsʰun⁵ / tshûn; pã (板) -> pã¹ / pann."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Cuchara.",
+      "source_H": "匙",
+      "source_M": "tȳ",
+      "source_R": "ſŷ",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cuchara.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti⁵",
+        "tai_lo_standard": "tî",
+        "phonological_basis": "17c Dominican orthography conversion: t (匙) -> ti⁵ / tî."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "cuchara de cañap morisqueta.",
+      "source_H": "離 [疑:離/籬]",
+      "source_M": "ty choã mī",
+      "source_R": "lŷ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuchara de cañap morisqueta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti⁵ tsõã⁶ mi⁶",
+        "tai_lo_standard": "tî-tsoānn-mī",
+        "phonological_basis": "17c Dominican orthography conversion: ty (離) -> ti⁵ / tî; choã (?) -> tsõã⁶ / tsoānn; mī (?) -> mi⁶ / mī."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "cuchara de cañap morisqueta",
+      "source_H": "飯 離 [疑:離/籬]",
+      "source_M": "pn̄g lē",
+      "source_R": "ſtān lŷ",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuchara de cañap morisqueta",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "piŋ⁵ le⁵",
+        "tai_lo_standard": "pîng-lê",
+        "phonological_basis": "17c Dominican orthography conversion: pn̄g (飯) -> piŋ⁵ / pîng; lē (離) -> le⁵ / lê."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "cuchara de cañap morisqueta.",
+      "source_H": "盡 [疑:盡/蓋] 離 [疑:離/籬]",
+      "source_M": "choā mȳ",
+      "source_R": "ſàn lŷ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuchara de cañap morisqueta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsoa⁵ mi⁵",
+        "tai_lo_standard": "tsoâ-mî",
+        "phonological_basis": "17c Dominican orthography conversion: choā (盡) -> tsoa⁵ / tsoâ; m (離) -> mi⁵ / mî."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "cuchara de cuero de pescado.",
+      "source_H": "魚 [疑:魚/裔] 靴 [疑:靴/靶]",
+      "source_M": "haŭ hiâ.",
+      "source_R": "hĕn hiě",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuchara de cuero de pescado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ha² hia³",
+        "tai_lo_standard": "há-hià",
+        "phonological_basis": "17c Dominican orthography conversion: ha (魚) -> ha² / há; hiâ (靴) -> hia³ / hià."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "cuchara de nabera de in / genios —",
+      "source_H": "香 匙",
+      "source_M": "hio tȳ.",
+      "source_R": "hiaûng lŷ",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuchara de nabera de in / genios —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hio¹ ti⁵",
+        "tai_lo_standard": "hio-tî",
+        "phonological_basis": "17c Dominican orthography conversion: hio (香) -> hio¹ / hio; t (匙) -> ti⁵ / tî."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "[空]",
+      "source_H": "鐮 [疑:鐮/鏻]",
+      "source_M": "[空]",
+      "source_R": "lîen",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "cuchillo p. cortar leña",
+      "source_H": "鎌 [疑:鎌/鐮] 刀",
+      "source_M": "liām to",
+      "source_R": "lîen toⁿ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuchillo p. cortar leña",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liam⁵ to¹",
+        "tai_lo_standard": "liâm-to",
+        "phonological_basis": "17c Dominican orthography conversion: liām (鎌) -> liam⁵ / liâm; to (刀) -> to¹ / to."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "cuchillo cualquiera.",
+      "source_H": "刀",
+      "source_M": "tõ",
+      "source_R": "tôn",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuchillo cualquiera.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tõ¹",
+        "tai_lo_standard": "tonn",
+        "phonological_basis": "17c Dominican orthography conversion: tõ (刀) -> tõ¹ / tonn."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "cuchillo muy agudo.",
+      "source_H": "鋒 銳",
+      "source_M": "hōng çüē",
+      "source_R": "ſōng xñī",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuchillo muy agudo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ⁵ e⁵",
+        "tai_lo_standard": "hông-ê",
+        "phonological_basis": "17c Dominican orthography conversion: hōng (鋒) -> hɔŋ⁵ / hông; ē (銳) -> e⁵ / ê."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "cuchillo muy agudo",
+      "source_H": "刀 利",
+      "source_M": "to lāy",
+      "source_R": "tôn lŷ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuchillo muy agudo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to³ lai⁵",
+        "tai_lo_standard": "tò-lâi",
+        "phonological_basis": "17c Dominican orthography conversion: to (刀) -> to³ / tò; lāy (利) -> lai⁵ / lâi."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Cudiciar la muger agena",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "quiⁿ ?",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cudiciar la muger agena",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "cudiciar los bïenes agenos",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "loÿ ?",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cudiciar los bïenes agenos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Cuello, pesageço",
+      "source_H": "項",
+      "source_M": "ãm [抹] cō.",
+      "source_R": "hōng",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cuello, pesageço",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ãm¹ ko⁶",
+        "tai_lo_standard": "am-kō",
+        "phonological_basis": "17c Dominican orthography conversion: ãm (項) -> ãm¹ / am; cō (?) -> ko⁶ / kō."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Cuenca del oyo.",
+      "source_H": "孔",
+      "source_M": "cañg",
+      "source_R": "cōng",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cuenca del oyo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kãŋ³",
+        "tai_lo_standard": "kàng",
+        "phonological_basis": "17c Dominican orthography conversion: cañg (孔) -> kãŋ³ / kàng."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "cuenca del oyo",
+      "source_H": "胼 [疑:胼/頷]",
+      "source_M": "hám",
+      "source_R": "cām",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuenca del oyo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ham¹",
+        "tai_lo_standard": "ham",
+        "phonological_basis": "17c Dominican orthography conversion: hám (胼) -> ham¹ / ham."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "cuenca del ojo",
+      "source_H": "目 孔",
+      "source_M": "baÿ cañg",
+      "source_R": "mo cōng",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cuenca del ojo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba¹ kãŋ³",
+        "tai_lo_standard": "ba-kàng",
+        "phonological_basis": "17c Dominican orthography conversion: ba (目) -> ba¹ / ba; cañg (孔) -> kãŋ³ / kàng."
+      }
+    }
+  ]
+}

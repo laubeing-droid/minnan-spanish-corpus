@@ -1,0 +1,448 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 95,
+  "historical_folio": 66,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0095/pdf_0095_300dpi.png",
+  "page_header": "A. ante. N.",
+  "page_footer_printed": "- 66 -",
+  "page_footer_handwritten": "39",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Amolar limar afilar.",
+      "source_H": "銼.",
+      "source_M": "cho cu ley.",
+      "source_R": "cho",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Amolar limar afilar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso³ ku¹ lei⁶",
+        "tai_lo_standard": "tsò-ku-lēi",
+        "phonological_basis": "17c Dominican orthography conversion: cho (銼) -> tso³ / tsò; cu (?) -> ku¹ / ku; ley (?) -> lei⁶ / lēi."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "amolar con rueda.",
+      "source_H": "車刀",
+      "source_M": "chia to.",
+      "source_R": "che to",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amolar con rueda.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰia¹ to²",
+        "tai_lo_standard": "tshia-tó",
+        "phonological_basis": "17c Dominican orthography conversion: chia (車) -> tsʰia¹ / tshia; to (刀) -> to² / tó."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "amolar la nabaja -",
+      "source_H": "唱刀[疑:唱/喙]",
+      "source_M": "huo to.",
+      "source_R": "hoi to",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amolar la nabaja -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huo⁵ to²",
+        "tai_lo_standard": "huô-tó",
+        "phonological_basis": "17c Dominican orthography conversion: huo (唱) -> huo⁵ / huô; to (刀) -> to² / tó."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Amonestar. q. corregir. enseñar.",
+      "source_H": "儆",
+      "source_M": "queng.",
+      "source_R": "gueng.",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Amonestar. q. corregir. enseñar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "keŋ²",
+        "tai_lo_standard": "kéng",
+        "phonological_basis": "17c Dominican orthography conversion: queng (儆) -> keŋ² / kéng."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "amonestar hablando.",
+      "source_H": "講",
+      "source_M": "cang.",
+      "source_R": "giang",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amonestar hablando.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kaŋ²",
+        "tai_lo_standard": "káng",
+        "phonological_basis": "17c Dominican orthography conversion: cang (講) -> kaŋ² / káng."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "amonestar la raçón.",
+      "source_H": "講道",
+      "source_M": "cang to.",
+      "source_R": "giang ton",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amonestar la raçón.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kaŋ² to²",
+        "tai_lo_standard": "káng-tó",
+        "phonological_basis": "17c Dominican orthography conversion: cang (講) -> kaŋ² / káng; to (道) -> to² / tó."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "amonestar, corregir.",
+      "source_H": "諭",
+      "source_M": "xu.",
+      "source_R": "xy",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amonestar, corregir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzu³",
+        "tai_lo_standard": "jù",
+        "phonological_basis": "17c Dominican orthography conversion: xu (諭) -> dzu³ / jù."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "amonestar amigable mente",
+      "source_H": "安諭",
+      "source_M": "an xu.",
+      "source_R": "ngan xy",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amonestar amigable mente",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "an¹ dzu³",
+        "tai_lo_standard": "an-jù",
+        "phonological_basis": "17c Dominican orthography conversion: an (安) -> an¹ / an; xu (諭) -> dzu³ / jù."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "amonestar con raçon.",
+      "source_H": "理諭",
+      "source_M": "ly xu.",
+      "source_R": "ly xy",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amonestar con raçon.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "li² dzu³",
+        "tai_lo_standard": "lí-jù",
+        "phonological_basis": "17c Dominican orthography conversion: ly (理) -> li² / lí; xu (諭) -> dzu³ / jù."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "amonestar en lenidad",
+      "source_H": "教諭",
+      "source_M": "cau xu.",
+      "source_R": "guian xy",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amonestar en lenidad",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kau² dzu³",
+        "tai_lo_standard": "káu-jù",
+        "phonological_basis": "17c Dominican orthography conversion: cau (教) -> kau² / káu; xu (諭) -> dzu³ / jù."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "amonestar [残] buens.",
+      "source_H": "化諭",
+      "source_M": "hua xu.",
+      "source_R": "hua xy",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amonestar buens.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hua² dzu³",
+        "tai_lo_standard": "huá-jù",
+        "phonological_basis": "17c Dominican orthography conversion: hua (化) -> hua² / huá; xu (諭) -> dzu³ / jù."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "amonestar en la iglesia a el q. ha de casar.",
+      "source_H": "叫礼拜[疑:叫/叼]",
+      "source_M": "guio ley pay.",
+      "source_R": "guiao ly pay",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amonestar en la iglesia a el q. ha de casar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guio² lei³ pai³",
+        "tai_lo_standard": "guió-lèi-pài",
+        "phonological_basis": "17c Dominican orthography conversion: guio (叫) -> guio² / guió; ley (礼) -> lei³ / lèi; pay (拜) -> pai³ / pài."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Amontonar. q. juntar.",
+      "source_H": "堆",
+      "source_M": "tuy,",
+      "source_R": "tuy",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Amontonar. q. juntar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tui¹",
+        "tai_lo_standard": "tui",
+        "phonological_basis": "17c Dominican orthography conversion: tuy (堆) -> tui¹ / tui."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "amontonar.",
+      "source_H": "堆積",
+      "source_M": "tuy chec.",
+      "source_R": "tuy chy",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amontonar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tui¹ tsek⁷",
+        "tai_lo_standard": "tui-tsek",
+        "phonological_basis": "17c Dominican orthography conversion: tuy (堆) -> tui¹ / tui; chec (積) -> tsek⁷ / tsek."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "amontonar en un monton.",
+      "source_H": "堆作一塊",
+      "source_M": "tuy cho chit le.",
+      "source_R": "tuy cho xi chuay",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T00 (無標號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amontonar en un monton.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tui¹ tso³ tsit⁷ le³",
+        "tai_lo_standard": "tui-tsò-tsit-lè",
+        "phonological_basis": "17c Dominican orthography conversion: tuy (堆) -> tui¹ / tui; cho (作) -> tso³ / tsò; chit (一) -> tsit⁷ / tsit; le (塊) -> le³ / lè."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Amor por amor. q. amar.",
+      "source_H": "心愛",
+      "source_M": "Sim ay",
+      "source_R": "sim ngay",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Amor por amor. q. amar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sim¹ ai³",
+        "tai_lo_standard": "sim-ài",
+        "phonological_basis": "17c Dominican orthography conversion: Sim (心) -> sim¹ / sim; ay (愛) -> ai³ / ài."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "amor por amor —",
+      "source_H": "私已愛",
+      "source_M": "say guiay.",
+      "source_R": "zu gui ngay",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amor por amor —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sai¹ guiai³",
+        "tai_lo_standard": "sai-guiài",
+        "phonological_basis": "17c Dominican orthography conversion: say (私) -> sai¹ / sai; guiay (已) -> guiai³ / guiài."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Amorrajâr.",
+      "source_H": "殮",
+      "source_M": "liam.",
+      "source_R": "niam",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Amorrajâr.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liam²",
+        "tai_lo_standard": "liám",
+        "phonological_basis": "17c Dominican orthography conversion: liam (殮) -> liam² / liám."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "amor fajâr. q cuerpo amor tajado.",
+      "source_H": "棺殮",
+      "source_M": "cuan liam.",
+      "source_R": "cuan niam",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "amor fajâr. q cuerpo amor tajado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuan⁵ liam²",
+        "tai_lo_standard": "kuân-liám",
+        "phonological_basis": "17c Dominican orthography conversion: cuan (棺) -> kuan⁵ / kuân; liam (殮) -> liam² / liám."
+      }
+    }
+  ]
+}

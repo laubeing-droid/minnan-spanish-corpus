@@ -1,0 +1,44 @@
+{
+  "at": "2026-10-16T17:34:46.374363+00:00",
+  "stage": "postfreeze_reference_exposed_bidirectional_comparison",
+  "files": [
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/dhs_hispanico_sinicum/external_collation/DHS256_DSH016_cicada_bidirectional_review_v1.md",
+      "sha256": "364b71a709b350c383f998ff138e6625571875c00c5e976b0f71e82e03d60158"
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/dhs_hispanico_sinicum/external_collation/DSH016_cicada_original_pixels_v1.png",
+      "sha256": "82001c63eb4eb176b0d5759a06b3cd70012af8e272d25a7c43dff128da2af475"
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/dhs_hispanico_sinicum/external_collation/DHS256_cicada_han_original_pixels_v1.png",
+      "sha256": "d0527f222e62d0a3851ccb3a0eccf600d1198687559f30d5d8d20218d2269cf5"
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/dhs_hispanico_sinicum/transcripts/pdf_0256_visual_first_v1.md",
+      "sha256": "9401d1991b6522e92615e8f0c8e71edc5ea421beacb993b462f942ce1d2e78ef"
+    },
+    {
+      "path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/angelica_method_independent_v3/pdf_016.md",
+      "sha256": "898c937d538a7378031885073fcd7494af787c7bec615da9469c762f48b601f5"
+    },
+    {
+      "path": "/workspace/shared/minnan_transcription/angelica_ms60/page_assets/pdf_016_lossless.webp",
+      "sha256": "539f43617da962c7e3258738bf40615cbf1a751a6d1e94b12dae89014163101c"
+    }
+  ],
+  "crop_boxes": {
+    "DSH016": [
+      170,
+      1270,
+      1020,
+      1810
+    ],
+    "DHS256": [
+      880,
+      420,
+      1220,
+      560
+    ]
+  }
+}

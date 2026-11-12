@@ -1,0 +1,460 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 349,
+  "historical_folio": 320,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0349/pdf_0349_300dpi.png",
+  "page_header": "D. ahte. F.",
+  "page_footer_printed": "- 320 -",
+  "page_footer_handwritten": "160",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Denidado -",
+      "source_H": "北頭北面",
+      "source_M": "pỹy tāu pỹy bī̃",
+      "source_R": "pỹ rén pỹ miēn",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Denidado -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pi³ i⁵ tau³ pi⁵ i¹ bĩ⁶",
+        "tai_lo_standard": "pì-î-tàu-pî-i-bīnn",
+        "phonological_basis": "17c Dominican orthography conversion: p (北) -> pi³ / pì; y (頭) -> i⁵ / î; tāu (北) -> tau³ / tàu; p (面) -> pi⁵ / pî; y (?) -> i¹ / i; bī̃ (?) -> bĩ⁶ / bīnn."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Denantes. g̃nhuã (interl.)",
+      "source_H": "使 [疑:使/便]",
+      "source_M": "[空]",
+      "source_R": "pymun⟩",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Denantes. g̃nhuã (interl.)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Deninguna manera.",
+      "source_H": "豈",
+      "source_M": "quỹ : quỹ iù.",
+      "source_R": "quỹ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Deninguna manera.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki³ ki³ iu²",
+        "tai_lo_standard": "kì-kì-iú",
+        "phonological_basis": "17c Dominican orthography conversion: qu (豈) -> ki³ / kì; qu (?) -> ki³ / kì; iù (?) -> iu² / iú."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "deninguna manera ay.",
+      "source_H": "都無",
+      "source_M": "tō bô. [疑:tō/foi]",
+      "source_R": "tù b̂û. [疑:tù/rù]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "deninguna manera ay.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to² bo³ to⁶ foi¹",
+        "tai_lo_standard": "tó-bò-tō-foi",
+        "phonological_basis": "17c Dominican orthography conversion: tō (都) -> to² / tó; bô (無) -> bo³ / bò; tō (?) -> to⁶ / tō; foi (?) -> foi¹ / foi."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "deninguna manera.",
+      "source_H": "全無",
+      "source_M": "choān bû: chūỹ bô.",
+      "source_R": "chuēn b̂û.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "deninguna manera.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsoan⁵ bu³ tsu⁶ bo³",
+        "tai_lo_standard": "tsoân-bù-tsū-bò",
+        "phonological_basis": "17c Dominican orthography conversion: choān (全) -> tsoan⁵ / tsoân; bû (無) -> bu³ / bù; chū (?) -> tsu⁶ / tsū; bô (?) -> bo³ / bò."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "deninguna manera (encircled)",
+      "source_H": "豈有",
+      "source_M": "quỹ : l. quỹ iù.",
+      "source_R": "quỹ iēn.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "deninguna manera (encircled)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki³ li³ ki² iu²",
+        "tai_lo_standard": "kì-lì-kí-iú",
+        "phonological_basis": "17c Dominican orthography conversion: qu (豈) -> ki³ / kì; l (有) -> li³ / lì; qu (?) -> ki² / kí; iù (?) -> iu² / iú."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Denoche. m̃ can (interl.)",
+      "source_H": "霄 [疑:霄/宵]",
+      "source_M": "hūn Siāu.",
+      "source_R": "viīn.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Denoche. m̃ can (interl.)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hun³ siau³",
+        "tai_lo_standard": "hùn-siàu",
+        "phonological_basis": "17c Dominican orthography conversion: hūn (霄) -> hun³ / hùn; Siāu (?) -> siau³ / siàu."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "[残]",
+      "source_H": "[残]",
+      "source_M": "[残]",
+      "source_R": "[残]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Dentro. [残] chỹ lỹ (interl.)",
+      "source_H": "内",
+      "source_M": "lày. lūē.",
+      "source_R": "cong] nei [疑:nei/li]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dentro. chỹ lỹ (interl.)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lai² lue⁶",
+        "tai_lo_standard": "lái-luē",
+        "phonological_basis": "17c Dominican orthography conversion: lày (内) -> lai² / lái; lūē (?) -> lue⁶ / luē."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "dentro. làỹ bīn.",
+      "source_H": "裡面 [疑:裡/程]",
+      "source_M": "lỹ bīn.",
+      "source_R": "lỹ miēn.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dentro. làỹ bīn.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "li³ bin⁵",
+        "tai_lo_standard": "lì-bîn",
+        "phonological_basis": "17c Dominican orthography conversion: l (裡) -> li³ / lì; bīn (面) -> bin⁵ / bîn."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Dentro (boxed)",
+      "source_H": "間",
+      "source_M": "cān.",
+      "source_R": "guiēn.",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dentro (boxed)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kan⁵",
+        "tai_lo_standard": "kân",
+        "phonological_basis": "17c Dominican orthography conversion: cān (間) -> kan⁵ / kân."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Dentro. (boxed)",
+      "source_H": "内面",
+      "source_M": "lày bīn (encircled)",
+      "source_R": "nēi miēn.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dentro. (boxed)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lai² bin³ encircled¹",
+        "tai_lo_standard": "lái-bìn-encircled",
+        "phonological_basis": "17c Dominican orthography conversion: lày (内) -> lai² / lái; bīn (面) -> bin³ / bìn; encircled (?) -> encircled¹ / encircled."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "dentro de casa.",
+      "source_H": "家中",
+      "source_M": "quē tiong. [疑:tiong/fiong]",
+      "source_R": "guǐa chòng.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dentro de casa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ke³ tioŋ³ tioŋ¹ fioŋ¹",
+        "tai_lo_standard": "kè-tiòng-tiong-fiong",
+        "phonological_basis": "17c Dominican orthography conversion: quē (家) -> ke³ / kè; tiong (中) -> tioŋ³ / tiòng; tiong (?) -> tioŋ¹ / tiong; fiong (?) -> fioŋ¹ / fiong."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "dentro del Reyno.",
+      "source_H": "閫内 [疑:閫内/國内]",
+      "source_M": "cōc lūē. [疑:cōc/cūn]",
+      "source_R": "cūn nēi. [疑:nēi/mi]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "dentro del Reyno.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔk⁷ lue⁵ kɔk⁷ kun⁶",
+        "tai_lo_standard": "kok-luê-kok-kūn",
+        "phonological_basis": "17c Dominican orthography conversion: cōc (閫) -> kɔk⁷ / kok; lūē (内) -> lue⁵ / luê; cōc (?) -> kɔk⁷ / kok; cūn (?) -> kun⁶ / kūn."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Dentro del R. (encircled)",
+      "source_H": "只裡 [疑:裡/程]",
+      "source_M": "chỹ lỹ (encircled)",
+      "source_R": "chỹ lỹ.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dentro del R. (encircled)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi³ li³ encircled¹",
+        "tai_lo_standard": "tsì-lì-encircled",
+        "phonological_basis": "17c Dominican orthography conversion: ch (只) -> tsi³ / tsì; l (裡) -> li³ / lì; encircled (?) -> encircled¹ / encircled."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Dentro de un año (struck out)",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "tzop chēⁿ nam⟩ [疑:tzop/top]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Dentro de un año (struck out)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Denunciar. (interl. chua siù)",
+      "source_H": "首",
+      "source_M": "siù.",
+      "source_R": "cīn: cīn. [疑:cīn/jīn]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Denunciar. (interl. chua siù)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siu²",
+        "tai_lo_standard": "siú",
+        "phonological_basis": "17c Dominican orthography conversion: siù (首) -> siu² / siú."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Denunciar. (encircled)",
+      "source_H": "出首",
+      "source_M": "chua siù (encircled)",
+      "source_R": "chue cīn.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Denunciar. (encircled)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰua⁵ siu² encircled¹",
+        "tai_lo_standard": "tshuâ-siú-encircled",
+        "phonological_basis": "17c Dominican orthography conversion: chua (出) -> tsʰua⁵ / tshuâ; siù (首) -> siu² / siú; encircled (?) -> encircled¹ / encircled."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Depender. pender. perrenece.",
+      "source_H": "係 [疑:係/流]",
+      "source_M": "hē.",
+      "source_R": "hē. [疑:hē/hī]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Depender. pender. perrenece.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "he³",
+        "tai_lo_standard": "hè",
+        "phonological_basis": "17c Dominican orthography conversion: hē (係) -> he³ / hè."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Depender de Bolutad.",
+      "source_H": "由",
+      "source_M": "iū chū zū.",
+      "source_R": "iēn. [疑:iēn/iū]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Depender de Bolutad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu⁵ tsu⁶ tsu⁶",
+        "tai_lo_standard": "iû-tsū-tsū",
+        "phonological_basis": "17c Dominican orthography conversion: iū (由) -> iu⁵ / iû; chū (?) -> tsu⁶ / tsū; zū (?) -> tsu⁶ / tsū."
+      }
+    }
+  ]
+}

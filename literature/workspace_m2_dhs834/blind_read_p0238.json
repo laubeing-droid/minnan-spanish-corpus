@@ -1,0 +1,448 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 238,
+  "historical_folio": 209,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0238/pdf_0238_300dpi.png",
+  "page_header": "C. ante. √A.",
+  "page_footer_printed": "- 209 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Cace.",
+      "source_H": "斤",
+      "source_M": "guín",
+      "source_R": "guìn",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cace.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guin¹",
+        "tai_lo_standard": "guin",
+        "phonological_basis": "17c Dominican orthography conversion: guín (斤) -> guin¹ / guin."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Caudal confiscata.",
+      "source_H": "母錢",
+      "source_M": "Bó chŷ",
+      "source_R": "mín chiên",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Caudal confiscata.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bo¹ tsʰi³",
+        "tai_lo_standard": "bo-tshì",
+        "phonological_basis": "17c Dominican orthography conversion: Bó (母) -> bo¹ / bo; ch (錢) -> tsʰi³ / tshì."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "(caudal confiscato.)",
+      "source_H": "本錢",
+      "source_M": "pún chŷ",
+      "source_R": "pín chiên",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(caudal confiscato.)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pun¹ tsʰi³",
+        "tai_lo_standard": "pun-tshì",
+        "phonological_basis": "17c Dominican orthography conversion: pún (本) -> pun¹ / pun; ch (錢) -> tsʰi³ / tshì."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Causa ut materialis formalis etc. [残]",
+      "source_H": "[空]",
+      "source_M": "zòu jò xiēn",
+      "source_R": "sù jǐ jên.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Causa ut materialis formalis etc.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsou² dzo² dzien⁶",
+        "tai_lo_standard": "tsóu-jó-jiēn",
+        "phonological_basis": "17c Dominican orthography conversion: zòu (?) -> tsou² / tsóu; jò (?) -> dzo² / jó; xiēn (?) -> dzien⁶ / jiēn."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Causal, o condicional",
+      "source_H": "若是",
+      "source_M": "xâg chy̌",
+      "source_R": "jō jīn",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Causal, o condicional",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzak⁷ tsi²",
+        "tai_lo_standard": "jak-tsí",
+        "phonological_basis": "17c Dominican orthography conversion: xâg (若) -> dzak⁷ / jak; chy̌ (是) -> tsi² / tsí."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Causa: origen: principio",
+      "source_H": "根因",
+      "source_M": "guîn ŷn",
+      "source_R": "guîn īn",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Causa: origen: principio",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guin³ ni³",
+        "tai_lo_standard": "guìn-nì",
+        "phonological_basis": "17c Dominican orthography conversion: guîn (根) -> guin³ / guìn; n (因) -> ni³ / nì."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Causa: negocio.",
+      "source_H": "條件",
+      "source_M": "#tiāu guiâ",
+      "source_R": "tiân quiēn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Causa: negocio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiau⁵ guia³",
+        "tai_lo_standard": "tiâu-guià",
+        "phonological_basis": "17c Dominican orthography conversion: tiāu (條) -> tiau⁵ / tiâu; guiâ (件) -> guia³ / guià."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "(Causal)",
+      "source_H": "為",
+      "source_M": "ǔi",
+      "source_R": "ūy ūy",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(Causal)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ui²",
+        "tai_lo_standard": "uí",
+        "phonological_basis": "17c Dominican orthography conversion: ǔi (為) -> ui² / uí."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Causal: porque. &c.",
+      "source_H": "因為",
+      "source_M": "īn ǔi",
+      "source_R": "yên ūy",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Causal: porque. &c.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "in⁵ ui²",
+        "tai_lo_standard": "în-uí",
+        "phonological_basis": "17c Dominican orthography conversion: īn (因) -> in⁵ / în; ǔi (為) -> ui² / uí."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Causa. porq̃ causa! &",
+      "source_H": "因由",
+      "source_M": "īn iū.",
+      "source_R": "yěn iên",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Causa. porq̃ causa! &",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "in⁵ iu⁵",
+        "tai_lo_standard": "în-iû",
+        "phonological_basis": "17c Dominican orthography conversion: īn (因) -> in⁵ / în; iū (由) -> iu⁵ / iû."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Cautericar.",
+      "source_H": "序[疑:序/疗]",
+      "source_M": "û",
+      "source_R": "ǔ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cautericar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "u³",
+        "tai_lo_standard": "ù",
+        "phonological_basis": "17c Dominican orthography conversion: û (序) -> u³ / ù."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "cautericar hendiend, o rompiendo.",
+      "source_H": "序破",
+      "source_M": "û pôa",
+      "source_R": "ǔ pō",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cautericar hendiend, o rompiendo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "u³ pʰoa³",
+        "tai_lo_standard": "ù-phoà",
+        "phonological_basis": "17c Dominican orthography conversion: û (序) -> u³ / ù; pôa (破) -> pʰoa³ / phoà."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Cautericar.",
+      "source_H": "放火序",
+      "source_M": "pâng huē û",
+      "source_R": "fāng hō ǔ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cautericar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paŋ³ hue³ u³",
+        "tai_lo_standard": "pàng-huè-ù",
+        "phonological_basis": "17c Dominican orthography conversion: pâng (放) -> paŋ³ / pàng; huē (火) -> hue³ / huè; û (序) -> u³ / ù."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Cautivo. [疑:g/q]. esclavo.",
+      "source_H": "奴",
+      "source_M": "lō chāy",
+      "source_R": "nû",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cautivo. . esclavo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lo⁵ tsai⁶",
+        "tai_lo_standard": "lô-tsāi",
+        "phonological_basis": "17c Dominican orthography conversion: lō (奴) -> lo⁵ / lô; chāy (?) -> tsai⁶ / tsāi."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Cautiva esclava",
+      "source_H": "婢",
+      "source_M": "būi pȳ.",
+      "source_R": "pȳ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cautiva esclava",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bui⁵ pi⁶",
+        "tai_lo_standard": "buî-pī",
+        "phonological_basis": "17c Dominican orthography conversion: būi (婢) -> bui⁵ / buî; p (?) -> pi⁶ / pī."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "cautiuar con violencia",
+      "source_H": "被奴人",
+      "source_M": "[涂改残] lūi lâng",
+      "source_R": "pī nû xîn",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cautiuar con violencia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lui⁵ laŋ³",
+        "tai_lo_standard": "luî-làng",
+        "phonological_basis": "17c Dominican orthography conversion: lūi (被) -> lui⁵ / luî; lâng (奴) -> laŋ³ / làng."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "cautiuar en la puerta",
+      "source_H": "硬擒来",
+      "source_M": "ngē quīm lāy.",
+      "source_R": "ngmēng guîn lây",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cautiuar en la puerta",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ŋe⁵ kim⁵ lai⁵",
+        "tai_lo_standard": "ngê-kîm-lâi",
+        "phonological_basis": "17c Dominican orthography conversion: ngē (硬) -> ŋe⁵ / ngê; quīm (擒) -> kim⁵ / kîm; lāy (来) -> lai⁵ / lâi."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Cascara - [疑:Cascara/Caxcara]",
+      "source_H": "殻",
+      "source_M": "câp.",
+      "source_R": "cō",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Cascara -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kap⁷",
+        "tai_lo_standard": "kap",
+        "phonological_basis": "17c Dominican orthography conversion: câp (殻) -> kap⁷ / kap."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "(cascara) [疑:cascara/caxcara]",
+      "source_H": "皮",
+      "source_M": "pūē.",
+      "source_R": "pŷ",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(cascara)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pue⁵",
+        "tai_lo_standard": "puê",
+        "phonological_basis": "17c Dominican orthography conversion: pūē (皮) -> pue⁵ / puê."
+      }
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 747,
+  "historical_folio": 713,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0747/pdf_0747_300dpi.png",
+  "page_header": "P. ante. A.",
+  "page_footer_printed": "- 713 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "pagar tributos -",
+      "source_H": "納",
+      "source_M": "lap búy. chīn chŷ nīō",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar tributos -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lap⁷ bui¹ tsin⁶ tsi³ nio⁶",
+        "tai_lo_standard": "lap-bui-tsīn-tsì-niō",
+        "phonological_basis": "17c Dominican orthography conversion: lap (納) -> lap⁷ / lap; búy (?) -> bui¹ / bui; chīn (?) -> tsin⁶ / tsīn; ch (?) -> tsi³ / tsì; nīō (?) -> nio⁶ / niō."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "pagar a dineros el Benef.o",
+      "source_H": "酥",
+      "source_M": "chó lè",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar a dineros el Benef.o",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso¹ le²",
+        "tai_lo_standard": "tso-lé",
+        "phonological_basis": "17c Dominican orthography conversion: chó (酥) -> tso¹ / tso; lè (?) -> le² / lé."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "pagar la posada o pagar de la posada",
+      "source_H": "眠 房 錢",
+      "source_M": "bīn pāng chŷ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar la posada o pagar de la posada",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bin⁵ paŋ⁵ tsʰi³",
+        "tai_lo_standard": "bîn-pâng-tshì",
+        "phonological_basis": "17c Dominican orthography conversion: bīn (眠) -> bin⁵ / bîn; pāng (房) -> paŋ⁵ / pâng; ch (錢) -> tsʰi³ / tshì."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "pagar la posada",
+      "source_H": "還 眠 房",
+      "source_M": "huān bīn pāng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar la posada",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan⁵ bin⁵ paŋ⁵",
+        "tai_lo_standard": "huân-bîn-pâng",
+        "phonological_basis": "17c Dominican orthography conversion: huān (還) -> huan⁵ / huân; bīn (眠) -> bin⁵ / bîn; pāng (房) -> paŋ⁵ / pâng."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "pagar lo justo -",
+      "source_H": "理 还",
+      "source_M": "ly huān",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar lo justo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "li⁵ huan⁵",
+        "tai_lo_standard": "lî-huân",
+        "phonological_basis": "17c Dominican orthography conversion: ly (理) -> li⁵ / lî; huān (还) -> huan⁵ / huân."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "pagar por dos -",
+      "source_H": "賠 還",
+      "source_M": "pūe huān",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar por dos -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pue⁵ huan⁵",
+        "tai_lo_standard": "puê-huân",
+        "phonological_basis": "17c Dominican orthography conversion: pūe (賠) -> pue⁵ / puê; huān (還) -> huan⁵ / huân."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "pagar por dos -",
+      "source_H": "代 賠",
+      "source_M": "tây pūe",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar por dos -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tai³ pue⁵",
+        "tai_lo_standard": "tài-puê",
+        "phonological_basis": "17c Dominican orthography conversion: tây (代) -> tai³ / tài; pūe (賠) -> pue⁵ / puê."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "pagar por el fio -",
+      "source_H": "克 巳 賠",
+      "source_M": "queg. quy pūe",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar por el fio -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰek⁷ ki⁵ pue⁵",
+        "tai_lo_standard": "khek-kî-puê",
+        "phonological_basis": "17c Dominican orthography conversion: queg (克) -> kʰek⁷ / khek; quy (巳) -> ki⁵ / kî; pūe (賠) -> pue⁵ / puê."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "pagar los lugares en el camino otros por otros -",
+      "source_H": "經 過",
+      "source_M": "quèng cūe",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar los lugares en el camino otros por otros -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "keŋ² kue⁵",
+        "tai_lo_standard": "kéng-kuê",
+        "phonological_basis": "17c Dominican orthography conversion: quèng (經) -> keŋ² / kéng; cūe (過) -> kue⁵ / kuê."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "pagar con puntualidad.",
+      "source_H": "清 [疑:扔/切]",
+      "source_M": "chēng chiēt",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar con puntualidad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ⁵ tsiet⁷",
+        "tai_lo_standard": "tsêng-tsiet",
+        "phonological_basis": "17c Dominican orthography conversion: chēng (清) -> tseŋ⁵ / tsêng; chiēt (?) -> tsiet⁷ / tsiet."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "pagar el tributo -",
+      "source_H": "秤 錢 糧",
+      "source_M": "chīn chŷ nīō",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar el tributo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin⁵ tsʰi³ nio⁵",
+        "tai_lo_standard": "tsîn-tshì-niô",
+        "phonological_basis": "17c Dominican orthography conversion: chīn (秤) -> tsin⁵ / tsîn; ch (錢) -> tsʰi³ / tshì; nīō (糧) -> nio⁵ / niô."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "pagar por dos los deme -",
+      "source_H": "足 額",
+      "source_M": "chiog gieg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar por dos los deme -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiok⁷ giek⁷",
+        "tai_lo_standard": "tsiok-giek",
+        "phonological_basis": "17c Dominican orthography conversion: chiog (足) -> tsiok⁷ / tsiok; gieg (額) -> giek⁷ / giek."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "pagar por dos los deme -",
+      "source_H": "足 數",
+      "source_M": "chiog siau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar por dos los deme -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiok⁷ siau³",
+        "tai_lo_standard": "tsiok-siàu",
+        "phonological_basis": "17c Dominican orthography conversion: chiog (足) -> tsiok⁷ / tsiok; siau (數) -> siau³ / siàu."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "pagar .12. taes por el mas a caso -",
+      "source_H": "消 碑",
+      "source_M": "siāu pāy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar .12. taes por el mas a caso -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siau⁵ pai⁵",
+        "tai_lo_standard": "siâu-pâi",
+        "phonological_basis": "17c Dominican orthography conversion: siāu (消) -> siau⁵ / siâu; pāy (碑) -> pai⁵ / pâi."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "pagar el pres lo patente -",
+      "source_H": "新 收 銀",
+      "source_M": "sīn sīū gīn",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar el pres lo patente -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sin⁵ siu⁵ gin⁵",
+        "tai_lo_standard": "sîn-siû-gîn",
+        "phonological_basis": "17c Dominican orthography conversion: sīn (新) -> sin⁵ / sîn; sīū (收) -> siu⁵ / siû; gīn (銀) -> gin⁵ / gîn."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "pagar su pecado sin dañar a otro -",
+      "source_H": "身佐 身舵 當",
+      "source_M": "sīn chô sīn tām pōng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar su pecado sin dañar a otro -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sin⁵ tso³ sin⁵ tam⁵ pɔŋ⁵",
+        "tai_lo_standard": "sîn-tsò-sîn-tâm-pông",
+        "phonological_basis": "17c Dominican orthography conversion: sīn (身) -> sin⁵ / sîn; chô (佐) -> tso³ / tsò; sīn (身) -> sin⁵ / sîn; tām (舵) -> tam⁵ / tâm; pōng (當) -> pɔŋ⁵ / pông."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "pagar la condenacion -",
+      "source_H": "罪 贖",
+      "source_M": "chǔe siog",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar la condenacion -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsue² siok⁸",
+        "tai_lo_standard": "tsué-sio̍k",
+        "phonological_basis": "17c Dominican orthography conversion: chǔe (罪) -> tsue² / tsué; siog (贖) -> siok⁸ / sio̍k."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "pagar el q̃to -",
+      "source_H": "聘 銀",
+      "source_M": "pēng gīn",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar el q[ue]to -",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q̃"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "peŋ⁵ gin⁵",
+        "tai_lo_standard": "pêng-gîn",
+        "phonological_basis": "17c Dominican orthography conversion: pēng (聘) -> peŋ⁵ / pêng; gīn (銀) -> gin⁵ / gîn."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "pagar el q̃to -",
+      "source_H": "定 聘",
+      "source_M": "tēng pēng. tē siā̃",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar el q[ue]to -",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q̃"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teŋ⁶ peŋ² te³ sĩã⁶",
+        "tai_lo_standard": "tēng-péng-tè-siānn",
+        "phonological_basis": "17c Dominican orthography conversion: tēng (定) -> teŋ⁶ / tēng; pēng (聘) -> peŋ² / péng; tē (?) -> te³ / tè; siā̃ (?) -> sĩã⁶ / siānn."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "pagar a los soldados -",
+      "source_H": "出 糶",
+      "source_M": "chu niō. lōā pōng niō̃",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar a los soldados -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰuʔ⁷ nio⁵ loa⁶ pɔŋ⁶ nĩõ³",
+        "tai_lo_standard": "tshuh-niô-loā-pōng-niònn",
+        "phonological_basis": "17c Dominican orthography conversion: chu (出) -> tsʰuʔ⁷ / tshuh; niō (糶) -> nio⁵ / niô; lōā (?) -> loa⁶ / loā; pōng (?) -> pɔŋ⁶ / pōng; niō̃ (?) -> nĩõ³ / niònn."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "pagar de contrado -",
+      "source_H": "吊 水 交 關",
+      "source_M": "thâu chùy càu cuān",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar de contrado -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰau³ tsui² kau² kuan⁵",
+        "tai_lo_standard": "thàu-tsuí-káu-kuân",
+        "phonological_basis": "17c Dominican orthography conversion: thâu (吊) -> tʰau³ / thàu; chùy (水) -> tsui² / tsuí; càu (交) -> kau² / káu; cuān (關) -> kuan⁵ / kuân."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "pagar por fuerza la deuda -",
+      "source_H": "追 給 主",
+      "source_M": "tùy gûip chù",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "pagar por fuerza la deuda -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tui² guip⁷ tsu²",
+        "tai_lo_standard": "tuí-guip-tsú",
+        "phonological_basis": "17c Dominican orthography conversion: tùy (追) -> tui² / tuí; gûip (給) -> guip⁷ / guip; chù (主) -> tsu² / tsú."
+      }
+    }
+  ]
+}

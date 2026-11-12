@@ -1,0 +1,410 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 213,
+  "historical_folio": 184,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0213/pdf_0213_300dpi.png",
+  "page_header": "C. ante. A.",
+  "page_footer_printed": "- 184 -",
+  "page_footer_handwritten": "12",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "camaros valos y muchos.",
+      "source_H": "極 采",
+      "source_M": "choā sāy",
+      "source_R": "chiē sǐ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "camaros valos y muchos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsoa⁵ sai⁵",
+        "tai_lo_standard": "tsoâ-sâi",
+        "phonological_basis": "17c Dominican orthography conversion: choā (極) -> tsoa⁵ / tsoâ; sāy (采) -> sai⁵ / sâi."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "camaras deſangre.",
+      "source_H": "紅 痢",
+      "source_M": "ang ū",
+      "source_R": "hông lī",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "camaras deſangre.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "aŋ⁵ u⁵",
+        "tai_lo_standard": "âng-û",
+        "phonological_basis": "17c Dominican orthography conversion: ang (紅) -> aŋ⁵ / âng; ū (痢) -> u⁵ / û."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "camaras blancos.",
+      "source_H": "白 痢",
+      "source_M": "peg ū.",
+      "source_R": "pê lī",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "camaras blancos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pek⁸ u⁵",
+        "tai_lo_standard": "pe̍k-û",
+        "phonological_basis": "17c Dominican orthography conversion: peg (白) -> pek⁸ / pe̍k; ū (痢) -> u⁵ / û."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "camaras qualesquiera",
+      "source_H": "小 痢",
+      "source_M": "siò ū",
+      "source_R": "siào lī",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "camaras qualesquiera",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio² u⁵",
+        "tai_lo_standard": "sió-û",
+        "phonological_basis": "17c Dominican orthography conversion: siò (小) -> sio² / sió; ū (痢) -> u⁵ / û."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "camaras.",
+      "source_H": "采 肚瀉 [疑:采/屎]",
+      "source_M": "Say hūi sīa",
+      "source_R": "sǐ hū sie",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "camaras.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sai⁵ hui⁵ sia⁵",
+        "tai_lo_standard": "sâi-huî-siâ",
+        "phonological_basis": "17c Dominican orthography conversion: Say (采) -> sai⁵ / sâi; hūi (肚) -> hui⁵ / huî; sīa (瀉) -> sia⁵ / siâ."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Camarin",
+      "source_H": "寮",
+      "source_M": "liaū,",
+      "source_R": "liào",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camarin",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liau⁵",
+        "tai_lo_standard": "liâu",
+        "phonological_basis": "17c Dominican orthography conversion: liaū (寮) -> liau⁵ / liâu."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Camarones.",
+      "source_H": "蝦",
+      "source_M": "hē.",
+      "source_R": "hiā",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camarones.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "he⁵",
+        "tai_lo_standard": "hê",
+        "phonological_basis": "17c Dominican orthography conversion: hē (蝦) -> he⁵ / hê."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "camarones limpios",
+      "source_H": "蝦 米",
+      "source_M": "hē bǒ.",
+      "source_R": "hiǎ mǐ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "camarones limpios",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "he⁵ bo²",
+        "tai_lo_standard": "hê-bó",
+        "phonological_basis": "17c Dominican orthography conversion: hē (蝦) -> he⁵ / hê; bǒ (米) -> bo² / bó."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Camarote del piloto.",
+      "source_H": "尾 架 [疑:架/桅]",
+      "source_M": "buè quié",
+      "source_R": "buey guia",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camarote del piloto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue² kie¹",
+        "tai_lo_standard": "bué-kie",
+        "phonological_basis": "17c Dominican orthography conversion: buè (尾) -> bue² / bué; quié (架) -> kie¹ / kie."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "camarote del piloto.",
+      "source_H": "尾 樓",
+      "source_M": "buè lau.",
+      "source_R": "buey koū",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "camarote del piloto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue² lau⁵",
+        "tai_lo_standard": "bué-lâu",
+        "phonological_basis": "17c Dominican orthography conversion: buè (尾) -> bue² / bué; lau (樓) -> lau⁵ / lâu."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "camarote del piloto.",
+      "source_H": "尾 接",
+      "source_M": "buè chŷ.",
+      "source_R": "buey bou chiē",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "camarote del piloto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue² tsi³",
+        "tai_lo_standard": "bué-tsì",
+        "phonological_basis": "17c Dominican orthography conversion: buè (尾) -> bue² / bué; ch (接) -> tsi³ / tsì."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Camboxa",
+      "source_H": "[空]",
+      "source_M": "[残]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camboxa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Camello.",
+      "source_H": "駝",
+      "source_M": "fo",
+      "source_R": "fo",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camello.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fo¹",
+        "tai_lo_standard": "fo",
+        "phonological_basis": "17c Dominican orthography conversion: fo (駝) -> fo¹ / fo."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "camello",
+      "source_H": "駱",
+      "source_M": "lǒg.",
+      "source_R": "lǒg",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "camello",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lɔk⁷",
+        "tai_lo_standard": "lok",
+        "phonological_basis": "17c Dominican orthography conversion: lǒg (駱) -> lɔk⁷ / lok."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "camello",
+      "source_H": "駱 駝",
+      "source_M": "lǒg fǒ.",
+      "source_R": "lǒg fô",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "camello",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lɔk⁷ fo²",
+        "tai_lo_standard": "lok-fó",
+        "phonological_basis": "17c Dominican orthography conversion: lǒg (駱) -> lɔk⁷ / lok; fǒ (駝) -> fo² / fó."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Camino",
+      "source_H": "路",
+      "source_M": "lǒu",
+      "source_R": "lū",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Camino",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lou²",
+        "tai_lo_standard": "lóu",
+        "phonological_basis": "17c Dominican orthography conversion: lǒu (路) -> lou² / lóu."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "camino Iahǔ.",
+      "source_H": "堰 [疑:堰/堤]",
+      "source_M": "fiā",
+      "source_R": "cheāy",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "camino Iahǔ.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fia⁵",
+        "tai_lo_standard": "fiâ",
+        "phonological_basis": "17c Dominican orthography conversion: fiā (堰) -> fia⁵ / fiâ."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "camino facid",
+      "source_H": "路 途",
+      "source_M": "lǒu haū [残]",
+      "source_R": "lū mǐ",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "camino facid",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lou² hau⁵",
+        "tai_lo_standard": "lóu-hâu",
+        "phonological_basis": "17c Dominican orthography conversion: lǒu (路) -> lou² / lóu; haū (途) -> hau⁵ / hâu."
+      }
+    }
+  ]
+}

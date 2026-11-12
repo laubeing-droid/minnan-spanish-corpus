@@ -1,0 +1,414 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 216,
+  "historical_folio": 187,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0216/pdf_0216_300dpi.png",
+  "page_header": "C. ante. A.",
+  "page_footer_printed": "- 187 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Canal",
+      "source_H": "尾 錯",
+      "source_M": "biǎ chū.",
+      "source_R": "và chôin.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Canal",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bia² tsu⁵",
+        "tai_lo_standard": "biá-tsû",
+        "phonological_basis": "17c Dominican orthography conversion: biǎ (尾) -> bia² / biá; chū (錯) -> tsu⁵ / tsû."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Canal qualquiera",
+      "source_H": "小 流",
+      "source_M": "séy lāu",
+      "source_R": "siào léi.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Canal qualquiera",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sei¹ lau⁵",
+        "tai_lo_standard": "sei-lâu",
+        "phonological_basis": "17c Dominican orthography conversion: séy (小) -> sei¹ / sei; lāu (流) -> lau⁵ / lâu."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "canal maestra.",
+      "source_H": "行 流",
+      "source_M": "guã lāu",
+      "source_R": "hâng lîn.",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "canal maestra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gũã⁵ lau⁵",
+        "tai_lo_standard": "guânn-lâu",
+        "phonological_basis": "17c Dominican orthography conversion: guã (行) -> gũã⁵ / guânn; lāu (流) -> lau⁵ / lâu."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "canal maestra.",
+      "source_H": "大 流",
+      "source_M": "tuǎ lāu",
+      "source_R": "tà lîn.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "canal maestra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tua² lau⁵",
+        "tai_lo_standard": "tuá-lâu",
+        "phonological_basis": "17c Dominican orthography conversion: tuǎ (大) -> tua² / tuá; lāu (流) -> lau⁵ / lâu."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "canal dema deza[疑:deza/dera].",
+      "source_H": "拾",
+      "source_M": "ham",
+      "source_R": "'hâm.",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "canal dema deza.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ham¹",
+        "tai_lo_standard": "ham",
+        "phonological_basis": "17c Dominican orthography conversion: ham (拾) -> ham¹ / ham."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Canal pequeña q. hacella.",
+      "source_H": "編 拾",
+      "source_M": "piēn hām.",
+      "source_R": "piēn hâm.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Canal pequeña q. hacella.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pien⁵ ham⁵",
+        "tai_lo_standard": "piên-hâm",
+        "phonological_basis": "17c Dominican orthography conversion: piēn (編) -> pien⁵ / piên; hām (拾) -> ham⁵ / hâm."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Canas.",
+      "source_H": "白 毛",
+      "source_M": "Pe mō.",
+      "source_R": "pè mâin.",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Canas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe⁵ mo⁵",
+        "tai_lo_standard": "pê-mô",
+        "phonological_basis": "17c Dominican orthography conversion: Pe (白) -> pe⁵ / pê; mō (毛) -> mo⁵ / mô."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "canas, entrecanas.",
+      "source_H": "慘 白",
+      "source_M": "chàm peg.",
+      "source_R": "chân pē.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "canas, entrecanas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsam² pek⁸",
+        "tai_lo_standard": "tsám-pe̍k",
+        "phonological_basis": "17c Dominican orthography conversion: chàm (慘) -> tsam² / tsám; peg (白) -> pek⁸ / pe̍k."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Canasto. q. cesta.",
+      "source_H": "篷[疑:篷/蓬]",
+      "source_M": "Biēn.",
+      "source_R": "piēn.",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Canasto. q. cesta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bien⁵",
+        "tai_lo_standard": "biên",
+        "phonological_basis": "17c Dominican orthography conversion: Biēn (篷) -> bien⁵ / biên."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "canasto pequeño.:",
+      "source_H": "豆",
+      "source_M": "Toã.",
+      "source_R": "sēn.",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "canasto pequeño.:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tõã¹",
+        "tai_lo_standard": "toann",
+        "phonological_basis": "17c Dominican orthography conversion: Toã (豆) -> tõã¹ / toann."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Canas[疑:Canas/Caña].",
+      "source_H": "竹",
+      "source_M": "Tég. 5 yeu.",
+      "source_R": "chō.",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Canas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tek⁷ ieu¹",
+        "tai_lo_standard": "tek-ieu",
+        "phonological_basis": "17c Dominican orthography conversion: Tég (竹) -> tek⁷ / tek; yeu (?) -> ieu¹ / ieu."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "caña dela Vela.",
+      "source_H": "柃[疑:柃/拴] 竹",
+      "source_M": "lēng tég,",
+      "source_R": "lōng chō.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "caña dela Vela.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "leŋ⁵ tek⁷",
+        "tai_lo_standard": "lêng-tek",
+        "phonological_basis": "17c Dominican orthography conversion: lēng (柃) -> leŋ⁵ / lêng; tég (竹) -> tek⁷ / tek."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "canas pequeñas p̄ contar.",
+      "source_H": "籌",
+      "source_M": "Tīu.",
+      "source_R": "chên.",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "canas pequeñas p̄ contar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiu⁵",
+        "tai_lo_standard": "tiû",
+        "phonological_basis": "17c Dominican orthography conversion: Tīu (籌) -> tiu⁵ / tiû."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Caña de pescar. fio cua.",
+      "source_H": "管",
+      "source_M": "tw.［划删涂改词难辨］",
+      "source_R": "cuàn.",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Caña de pescar. fio cua.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tw¹",
+        "tai_lo_standard": "tw",
+        "phonological_basis": "17c Dominican orthography conversion: tw (管) -> tw¹ / tw."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "cana exprimida, despue de comida la caña dulce.",
+      "source_H": "撫[疑:撫/無] 婆",
+      "source_M": "chiǎ pō.",
+      "source_R": "chý pò.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cana exprimida, despue de comida la caña dulce.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsia² po⁵",
+        "tai_lo_standard": "tsiá-pô",
+        "phonological_basis": "17c Dominican orthography conversion: chiǎ (撫) -> tsia² / tsiá; pō (婆) -> po⁵ / pô."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "cana rajada.",
+      "source_H": "篾",
+      "source_M": "bỹ.",
+      "source_R": "mīe.",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cana rajada.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bi²",
+        "tai_lo_standard": "bí",
+        "phonological_basis": "17c Dominican orthography conversion: b (篾) -> bi² / bí."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Caña p̄ botar el champan",
+      "source_H": "橋[疑:橋/簥]",
+      "source_M": "tý cō. tý gīn.",
+      "source_R": "cōn.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Caña p̄ botar el champan",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [
+          {
+            "term": "champan",
+            "hanzi": "舢舨 / 唐船",
+            "tai_lo": "sam-pán",
+            "zh_note": "往返閩南與呂宋之華人海船或大型舢舨（Champán）",
+            "en_note": "Chinese trading junk or sampan vessel"
+          }
+        ],
+        "reconstructed_17th_c_hokkien": "ti² ko⁶ ti⁶ gin⁶",
+        "tai_lo_standard": "tí-kō-tī-gīn",
+        "phonological_basis": "17c Dominican orthography conversion: t (橋) -> ti² / tí; cō (?) -> ko⁶ / kō; t (?) -> ti⁶ / tī; gīn (?) -> gin⁶ / gīn."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Caña p̄ sirue de cuna.",
+      "source_H": "搢[疑:搢/搖]",
+      "source_M": "chý cō.",
+      "source_R": "chēng.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Caña p̄ sirue de cuna.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi² ko⁶",
+        "tai_lo_standard": "tsí-kō",
+        "phonological_basis": "17c Dominican orthography conversion: ch (搢) -> tsi² / tsí; cō (?) -> ko⁶ / kō."
+      }
+    }
+  ]
+}

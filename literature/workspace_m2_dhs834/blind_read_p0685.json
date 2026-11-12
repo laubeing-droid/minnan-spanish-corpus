@@ -1,0 +1,404 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 685,
+  "historical_folio": 651,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0685/pdf_0685_300dpi.png",
+  "page_header": "M. ante. U.",
+  "page_footer_printed": "- 651 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "mucho tiempo.",
+      "source_H": "久長",
+      "source_M": "cu fū̃g.",
+      "source_R": "ni ca gùe chím muchotiempos [疑:ca/cu]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mucho tiempo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ku¹ fũk⁷",
+        "tai_lo_standard": "ku-fuk",
+        "phonological_basis": "17c Dominican orthography conversion: cu (久) -> ku¹ / ku; fū̃g (長) -> fũk⁷ / fuk."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "muchos de un dolor. [疑:dolor/color]",
+      "source_H": "多樣色",
+      "source_M": "chey yo lég [疑:leg/seg]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "muchos de un dolor.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsei² io² lek⁷ lek⁷ sek⁷",
+        "tai_lo_standard": "tséi-ió-lek-lek-sek",
+        "phonological_basis": "17c Dominican orthography conversion: chey (多) -> tsei² / tséi; yo (樣) -> io² / ió; lég (色) -> lek⁷ / lek; leg (?) -> lek⁷ / lek; seg (?) -> sek⁷ / sek."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "muchos coracones, no convienen ~",
+      "source_H": "衆心不一",
+      "source_M": "chiòng sīm pūn it",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "muchos coracones, no convienen ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsioŋ² sim³ pun⁵ it⁷",
+        "tai_lo_standard": "tsióng-sìm-pûn-it",
+        "phonological_basis": "17c Dominican orthography conversion: chiòng (衆) -> tsioŋ² / tsióng; sīm (心) -> sim³ / sìm; pūn (不) -> pun⁵ / pûn; it (一) -> it⁷ / it."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "mucho muy muchos.",
+      "source_H": "太旺",
+      "source_M": "fhây õng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mucho muy muchos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fhai³ ɔ̃ŋ⁵",
+        "tai_lo_standard": "fhài-ông",
+        "phonological_basis": "17c Dominican orthography conversion: fhây (太) -> fhai³ / fhài; õng (旺) -> ɔ̃ŋ⁵ / ông."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "muchas palabras, negocios.",
+      "source_H": "沿滔",
+      "source_M": "fo so.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "muchas palabras, negocios.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fo² so²",
+        "tai_lo_standard": "fó-só",
+        "phonological_basis": "17c Dominican orthography conversion: fo (沿) -> fo² / fó; so (滔) -> so² / só."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "muchas palabras, negocios.",
+      "source_H": "沿徹",
+      "source_M": "fo fier.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "muchas palabras, negocios.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fo² fier⁵",
+        "tai_lo_standard": "fó-fiêr",
+        "phonological_basis": "17c Dominican orthography conversion: fo (沿) -> fo² / fó; fier (徹) -> fier⁵ / fiêr."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "mucho dinero.",
+      "source_H": "長錢",
+      "source_M": "fūng chȳ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mucho dinero.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fuŋ⁵ tsʰi⁵",
+        "tai_lo_standard": "fûng-tshî",
+        "phonological_basis": "17c Dominican orthography conversion: fūng (長) -> fuŋ⁵ / fûng; ch (錢) -> tsʰi⁵ / tshî."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "mucho mas -",
+      "source_H": "越自發",
+      "source_M": "vâr chû huân",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mucho mas -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "var³ tsu³ huan³",
+        "tai_lo_standard": "vàr-tsù-huàn",
+        "phonological_basis": "17c Dominican orthography conversion: vâr (越) -> var³ / vàr; chû (自) -> tsu³ / tsù; huân (發) -> huan³ / huàn."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "mucho tiempo ~",
+      "source_H": "久長",
+      "source_M": "iù fūng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mucho tiempo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu² fuŋ⁵",
+        "tai_lo_standard": "iú-fûng",
+        "phonological_basis": "17c Dominican orthography conversion: iù (久) -> iu² / iú; fūng (長) -> fuŋ⁵ / fûng."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "muchotiempos a ~",
+      "source_H": "年久月深",
+      "source_M": "nī gùe chím",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "muchotiempos a ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ni⁵ gue² tsim¹",
+        "tai_lo_standard": "nî-gué-tsim",
+        "phonological_basis": "17c Dominican orthography conversion: nī (年) -> ni⁵ / nî; gùe (久) -> gue² / gué; chím (月) -> tsim¹ / tsim."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "muchos mi llareu [疑:llareu/llares]",
+      "source_H": "數百萬",
+      "source_M": "gûi pe bân",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "muchos mi llareu",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui³ peʔ⁸ ban³",
+        "tai_lo_standard": "guì-pe̍h-bàn",
+        "phonological_basis": "17c Dominican orthography conversion: gûi (數) -> gui³ / guì; pe (百) -> peʔ⁸ / pe̍h; bân (萬) -> ban³ / bàn."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "mucho nombre -",
+      "source_H": "萬",
+      "source_M": "bân.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mucho nombre -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ban³",
+        "tai_lo_standard": "bàn",
+        "phonological_basis": "17c Dominican orthography conversion: bân (萬) -> ban³ / bàn."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Mudable, quy [疑:quy/quel] vestir en vn so ~",
+      "source_H": "無常",
+      "source_M": "bū fiāng [疑:fi/si]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mudable, quy vestir en vn so ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bu⁵ fiaŋ⁵ fi¹ si¹",
+        "tai_lo_standard": "bû-fiâng-fi-si",
+        "phonological_basis": "17c Dominican orthography conversion: bū (無) -> bu⁵ / bû; fiāng (常) -> fiaŋ⁵ / fiâng; fi (?) -> fi¹ / fi; si (?) -> si¹ / si."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "mudable, esté triste, esté alegre ~",
+      "source_H": "变面孔",
+      "source_M": "py fīn cãñg [疑:fin/bin]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mudable, esté triste, esté alegre ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pi⁵ fin⁵ kãŋ⁵ fin¹ bin¹",
+        "tai_lo_standard": "pî-fîn-kâng-fin-bin",
+        "phonological_basis": "17c Dominican orthography conversion: py (变) -> pi⁵ / pî; fīn (面) -> fin⁵ / fîn; cãñg (孔) -> kãŋ⁵ / kâng; fin (?) -> fin¹ / fin; bin (?) -> bin¹ / bin."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Mudar.",
+      "source_H": "嶢欹",
+      "source_M": "giâu guí.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mudar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "giau³ gui¹",
+        "tai_lo_standard": "giàu-gui",
+        "phonological_basis": "17c Dominican orthography conversion: giâu (嶢) -> giau³ / giàu; guí (欹) -> gui¹ / gui."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "mudar ~",
+      "source_H": "嶢被人",
+      "source_M": "giâu py lãng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mudar ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "giau³ pi² lãŋ⁵",
+        "tai_lo_standard": "giàu-pí-lâng",
+        "phonological_basis": "17c Dominican orthography conversion: giâu (嶢) -> giau³ / giàu; py (被) -> pi² / pí; lãng (人) -> lãŋ⁵ / lâng."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "mudar ~",
+      "source_H": "嶢掝[疑:掝/破]",
+      "source_M": "giâu pūa.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mudar ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "giau³ pua⁵",
+        "tai_lo_standard": "giàu-puâ",
+        "phonological_basis": "17c Dominican orthography conversion: giâu (嶢) -> giau³ / giàu; pūa (掝) -> pua⁵ / puâ."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Mudar el cuer, o pluma [疑:cuer/cuerpo].",
+      "source_H": "脫",
+      "source_M": "ñīy : fūy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Mudar el cuer, o pluma .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "nĩĩ⁵ fui⁶",
+        "tai_lo_standard": "nîinn-fuī",
+        "phonological_basis": "17c Dominican orthography conversion: ñīy (脫) -> nĩĩ⁵ / nîinn; fūy (?) -> fui⁶ / fuī."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "mudarse instantanea mente ~ .",
+      "source_H": "变",
+      "source_M": "piên : pŷ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "mudarse instantanea mente ~ .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pien³ pi³",
+        "tai_lo_standard": "pièn-pì",
+        "phonological_basis": "17c Dominican orthography conversion: piên (变) -> pien³ / pièn; p (?) -> pi³ / pì."
+      }
+    }
+  ]
+}

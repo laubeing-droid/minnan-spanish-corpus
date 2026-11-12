@@ -1,0 +1,27 @@
+{
+  "frozen_utc": "2026-10-16T08:26:24.616056+00:00",
+  "source": "Grady2019 PDF10/printed8 image; PDF11/printed9 table",
+  "items": [
+    {
+      "id": "D03",
+      "position": "topmost handwritten row, target second Chinese character",
+      "letters": "hog",
+      "author_tone_code": "/-",
+      "coverage": "Manuscript letter distinction illustrated printed8; tone explicitly printed9 table. Shared target word with D04; not independent phonological cases."
+    },
+    {
+      "id": "D04",
+      "position": "bottommost handwritten row, target second Chinese character",
+      "letters": "hoc",
+      "author_tone_code": "/-",
+      "coverage": "Same as D03; author labels less frequent spelling wrong but here retain actual spelling, do not score modernization as correct."
+    }
+  ],
+  "rubric": {
+    "raw_shape": "Record observable principal diagonal and secondary stroke; describe uncertainty. No requirement to imitate exact Unicode geometry.",
+    "code": "Match author slash-plus-short-bar /-. If only generic cross/circumflex or both codes without selection, uncertain/not resolved, not automatically wrong.",
+    "letters": "Exact literal hog/hoc; preserving uncertainty separately. Do not normalize both to same coda.",
+    "phonetics": "Not scored; author phonetic reconstruction is interpretive.",
+    "limits": "One research article, two rows same character; no global accuracy or causal improvement estimate."
+  }
+}

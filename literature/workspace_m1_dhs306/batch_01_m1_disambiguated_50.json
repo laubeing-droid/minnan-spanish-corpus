@@ -1,0 +1,2131 @@
+{
+  "batch_id": "batch_01_m1_disambiguated_50",
+  "provenance": {
+    "protocol": "v3.1_FINAL_M1_DISAMBIGUATION",
+    "source_queue": "literature/workspace_m1_dhs306/l_layer_gaps_queue.json",
+    "queue_index_range": [
+      0,
+      49
+    ],
+    "total_entries": 50,
+    "dhs_source_edition": "DHS 1626–1642 Manila Manuscript (UST Archives)"
+  },
+  "entries": [
+    {
+      "entry_id": "DHS0835-11",
+      "layer_0_visual_anchor": {
+        "page_pdf": 835,
+        "page_folio": 797,
+        "position_in_page": 11,
+        "bounding_box_hint": "row 11, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Preguntarse por las patrias q̃ se conozen",
+        "source_H": "相 會",
+        "source_M": "sio hue〔sio升斜；hue凹角〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Preguntarse por las patrias q[ue] se conozen",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "互問家鄉／來處；相會時探詢祖籍鄉貫",
+        "en_disambiguated": "To ask one another about their homelands or native places upon meeting.",
+        "syntactic_notes": "Spanish describes the social conversational formula upon initial encounter; Minnan condenses to the pragmatic event (相會)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "sio¹ hue⁶",
+        "phonological_basis": "Reflects Chiang-chiu colloquial register in Manila Sangley manuscript."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sio-huē",
+        "moe_code": "04642",
+        "hanzi_standard": "相會"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "L gives detailed situational expansion, while H/M condenses to the focal event."
+      }
+    },
+    {
+      "entry_id": "DHS0835-12",
+      "layer_0_visual_anchor": {
+        "page_pdf": 835,
+        "page_folio": 797,
+        "position_in_page": 12,
+        "bounding_box_hint": "row 12, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "pregunto a Vm.",
+        "source_H": "請 問",
+        "source_M": "cheng muy〔cheng降斜+小c；muy凹角〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Pregunto a V[uestra] m[erced]",
+        "abbreviations_expanded": [
+          {
+            "abbr": "Vm.",
+            "expansion": "V[uestra] m[erced]"
+          }
+        ],
+        "zh_disambiguated": "請問您；謹向閣下請教",
+        "en_disambiguated": "I ask Your Grace / I inquire of you.",
+        "syntactic_notes": "Vm. (Vuestra merced) is standard Early Modern Spanish honorific form of address, corresponding to polite 請問."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜+小c)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰiəŋ³ bui⁶",
+        "phonological_basis": "Colloquial Minnan b- initial in muy (問)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tshiánn-mn̄g",
+        "moe_code": "09903",
+        "hanzi_standard": "請問"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Direct pragmatic speech act formula matching Spanish honorific address."
+      }
+    },
+    {
+      "entry_id": "DHS0835-19",
+      "layer_0_visual_anchor": {
+        "page_pdf": 835,
+        "page_folio": 797,
+        "position_in_page": 19,
+        "bounding_box_hint": "row 19, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "premiar a el P.e por el hijo Mandarin",
+        "source_H": "封",
+        "source_M": "hong siang〔hong升斜；siang降斜〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Premiar a el P[adr]e por el hijo Mandarin",
+        "abbreviations_expanded": [
+          {
+            "abbr": "P.e",
+            "expansion": "P[adr]e"
+          }
+        ],
+        "zh_disambiguated": "因其子為官而榮封其父（子貴封父、封贈之制）",
+        "en_disambiguated": "To grant imperial honors/enfeoffment to the father on account of the son being an official (mandarin).",
+        "syntactic_notes": "P.e unambiguously represents Padre (father), contrasting with el hijo (son). Reflects Ming imperial civil service honorifics (封贈)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "hɔŋ¹ siɔŋ⁵",
+        "phonological_basis": "Zhangzhou historical initial for 封 is glottal fricative h- (never labial stop p-); siang is T05/T02."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "hong-sióng",
+        "moe_code": "04018",
+        "hanzi_standard": "封賞"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Explains the Chinese feudal/imperial rank conferral on parents through Spanish institutional vocabulary."
+      }
+    },
+    {
+      "entry_id": "DHS0835-20",
+      "layer_0_visual_anchor": {
+        "page_pdf": 835,
+        "page_folio": 797,
+        "position_in_page": 20,
+        "bounding_box_hint": "row 20, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "premiar a el hijo por seruicios del P.e",
+        "source_H": "襲",
+        "source_M": "sit〔升斜帶支〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Premiar a el hijo por seruicios del P[adr]e",
+        "abbreviations_expanded": [
+          {
+            "abbr": "P.e",
+            "expansion": "P[adr]e"
+          }
+        ],
+        "zh_disambiguated": "因父之功勳而榮賞／蔭封其子（父功襲子、世襲之制）",
+        "en_disambiguated": "To reward the son for the merits/services of the father (hereditary privilege / ennoblement).",
+        "syntactic_notes": "Paraphrastic institutional definition of hereditary succession (蔭襲/世襲)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (升斜帶支)"
+        ],
+        "reconstructed_17th_c_hokkien": "sip⁸",
+        "phonological_basis": "Historic literary reading of 襲 in Zhangzhou Minnan retains entering tone -p / -t."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sip",
+        "moe_code": "11985",
+        "hanzi_standard": "襲"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Institutional calque describing hereditary reward."
+      }
+    },
+    {
+      "entry_id": "DHS0836-04",
+      "layer_0_visual_anchor": {
+        "page_pdf": 836,
+        "page_folio": 798,
+        "position_in_page": 4,
+        "bounding_box_hint": "row 4, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "premiar Dios, o el Rey",
+        "source_H": "勅 封",
+        "source_M": "tit hong〔tit升斜帶支+小c；hong升斜〕",
+        "source_R": "〔空；長音跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Premiar Dios, o el Rey",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "勅封；由天主或君王降旨頒賜爵封",
+        "en_disambiguated": "To confer divine or royal enfeoffment/charter (勅封).",
+        "syntactic_notes": "Dios o el Rey represents supreme heavenly or earthly monarchical authority."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (升斜帶支+小c)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "tʰit⁷ hɔŋ¹",
+        "phonological_basis": "Historical Zhangzhou literary reading of 勅 preserves dental stop -t coda (tit), not velar -k; 封 has fricative h- initial (hɔŋ¹)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "thik-hong",
+        "moe_code": "05739",
+        "hanzi_standard": "勅封"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Direct conceptual equivalence between European royal charter and Chinese imperial decree."
+      }
+    },
+    {
+      "entry_id": "DHS0836-05",
+      "layer_0_visual_anchor": {
+        "page_pdf": 836,
+        "page_folio": 798,
+        "position_in_page": 5,
+        "bounding_box_hint": "row 5, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "premiar Dios, o el rey",
+        "source_H": "勅 賜",
+        "source_M": "tit su〔tit升斜帶支+小c；su尖角〕",
+        "source_R": "〔空；長音跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Premiar Dios, o el rey",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "勅賜；由天主或君王降旨頒賜恩賞",
+        "en_disambiguated": "To confer divine or royal bounty/gift by imperial or royal decree.",
+        "syntactic_notes": "Parallels row 04, distinguishing 賜 (bestowal of gifts/privileges) from 封 (enfeoffment)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (升斜帶支+小c)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "tʰit⁷ su³",
+        "phonological_basis": "Zhangzhou literary tit (勅) with dental stop -t coda and su (賜) with T03."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "thik-sù",
+        "moe_code": "05740",
+        "hanzi_standard": "勅賜"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Direct lexical/institutional equivalence."
+      }
+    },
+    {
+      "entry_id": "DHS0836-08",
+      "layer_0_visual_anchor": {
+        "page_pdf": 836,
+        "page_folio": 798,
+        "position_in_page": 8,
+        "bounding_box_hint": "row 8, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "premiar a el hijo los meritos del P.e",
+        "source_H": "誥 封",
+        "source_M": "co hong〔co尖角+小c；hong升斜〕",
+        "source_R": "〔空；長音跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Premiar a el hijo los meritos del P[adr]e",
+        "abbreviations_expanded": [
+          {
+            "abbr": "P.e",
+            "expansion": "P[adr]e"
+          }
+        ],
+        "zh_disambiguated": "誥封；因父之功績而頒誥榮封其子",
+        "en_disambiguated": "To confer imperial patent/enfeoffment on the son in recognition of the father's merits.",
+        "syntactic_notes": "誥封 strictly designates imperial patents of nobility granted to officials or descendants."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽+小c)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "kɔ³ hɔŋ¹",
+        "phonological_basis": "co represents 誥 (kɔ³), hong represents 封 (hɔŋ¹)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "kò-hong",
+        "moe_code": "07432",
+        "hanzi_standard": "誥封"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Institutional legal translation."
+      }
+    },
+    {
+      "entry_id": "DHS0836-09",
+      "layer_0_visual_anchor": {
+        "page_pdf": 836,
+        "page_folio": 798,
+        "position_in_page": 9,
+        "bounding_box_hint": "row 9, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "premiar a el hijo los meritos del P.e",
+        "source_H": "襲 蔭",
+        "source_M": "sit im〔sit升斜帶支；im尖角重墨〕",
+        "source_R": "〔空；長音跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Premiar a el hijo los meritos del P[adr]e",
+        "abbreviations_expanded": [
+          {
+            "abbr": "P.e",
+            "expansion": "P[adr]e"
+          }
+        ],
+        "zh_disambiguated": "襲蔭；因父功而承襲官爵恩蔭",
+        "en_disambiguated": "To inherit official rank or ancestral privilege through the father's merits (hereditary shadow privilege).",
+        "syntactic_notes": "Pair with row 08, contrasting 誥封 with 襲蔭 (hereditary protection privilege)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (升斜帶支)",
+          "T03 (尖頂帽重墨)"
+        ],
+        "reconstructed_17th_c_hokkien": "sip⁸ im¹",
+        "phonological_basis": "sit (襲) entering tone; im (蔭) yin-qu or yin-ping."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sip-ìm",
+        "moe_code": "11986",
+        "hanzi_standard": "襲蔭"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Institutional legal translation."
+      }
+    },
+    {
+      "entry_id": "DHS0836-10",
+      "layer_0_visual_anchor": {
+        "page_pdf": 836,
+        "page_folio": 798,
+        "position_in_page": 10,
+        "bounding_box_hint": "row 10, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "premiar a el P.e por el hijo mandarin",
+        "source_H": "封 贈",
+        "source_M": "hong cheng〔hong升斜；cheng凹角〕",
+        "source_R": "〔空；長音跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Premiar a el P[adr]e por el hijo mandarin",
+        "abbreviations_expanded": [
+          {
+            "abbr": "P.e",
+            "expansion": "P[adr]e"
+          }
+        ],
+        "zh_disambiguated": "封贈；因其子為官而受朝廷封典贈官",
+        "en_disambiguated": "To confer retrospective or posthumous honors/titles upon the father because of the mandarin son.",
+        "syntactic_notes": "封贈 refers specifically to titles granted to living parents (封) and deceased parents (贈)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "hɔŋ¹ tsiəŋ³",
+        "phonological_basis": "hong (封, hɔŋ¹), cheng (贈, tsiəŋ³)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "hong-tsīng",
+        "moe_code": "04019",
+        "hanzi_standard": "封贈"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Institutional legal translation."
+      }
+    },
+    {
+      "entry_id": "DHS0836-15",
+      "layer_0_visual_anchor": {
+        "page_pdf": 836,
+        "page_folio": 798,
+        "position_in_page": 15,
+        "bounding_box_hint": "row 15, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "prenda de amor p̃ memoria",
+        "source_H": "古 記",
+        "source_M": "cou quy〔cou降斜；quy尖角〕",
+        "source_R": "〔空；長音跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Prenda de amor p[ara] memoria",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p̃",
+            "expansion": "p[ara]"
+          }
+        ],
+        "zh_disambiguated": "古記；信物、紀念物、留念信物",
+        "en_disambiguated": "A token of love given as a keepsake / souvenir.",
+        "syntactic_notes": "p̃ represents para; 古記 in early Minnan specifically means a keepsake or pledge token."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "kɔ² ki³",
+        "phonological_basis": "cou (kɔ²), quy (ki³)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "kóo-kì",
+        "moe_code": "06051",
+        "hanzi_standard": "古記"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Direct semantic equivalence for a keepsake or token of love."
+      }
+    },
+    {
+      "entry_id": "DHS0837-10",
+      "layer_0_visual_anchor": {
+        "page_pdf": 837,
+        "page_folio": 799,
+        "position_in_page": 10,
+        "bounding_box_hint": "row 10, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "prensar raso",
+        "source_H": "錾〔疑〕",
+        "source_M": "cham〔凹角〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Prensar raso",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "錾；壓平、壓光緞料",
+        "en_disambiguated": "To press or calender satin (raso) fabric.",
+        "syntactic_notes": "Prensar raso describes the finishing process of pressing smooth silk/satin cloth."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsam²",
+        "phonological_basis": "cham reflects historical affricate ts- with T04 tone mark."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsàm",
+        "moe_code": "",
+        "hanzi_standard": "錾"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-3",
+        "definition": "Contextual extension / polysemic gloss",
+        "rationale": "Technical textile calquing."
+      }
+    },
+    {
+      "entry_id": "DHS0837-11",
+      "layer_0_visual_anchor": {
+        "page_pdf": 837,
+        "page_folio": 799,
+        "position_in_page": 11,
+        "bounding_box_hint": "row 11, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "prensar raso",
+        "source_H": "錾〔疑〕 花",
+        "source_M": "cham hua〔cham凹角；hua升斜〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Prensar raso",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "錾花；在緞料上壓印花紋",
+        "en_disambiguated": "To emboss or press floral patterns onto satin fabric.",
+        "syntactic_notes": "Compounds 錾 with 花, specifying patterned embossing."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsam² hua¹",
+        "phonological_basis": "cham (tsam²), hua (hua¹)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsàm-hua",
+        "moe_code": "",
+        "hanzi_standard": "錾花"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-3",
+        "definition": "Contextual extension / polysemic gloss",
+        "rationale": "Technical textile craft terminology."
+      }
+    },
+    {
+      "entry_id": "DHS0838-03",
+      "layer_0_visual_anchor": {
+        "page_pdf": 838,
+        "page_folio": 800,
+        "position_in_page": 3,
+        "bounding_box_hint": "row 3, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presente de dinero, o presentarlo",
+        "source_H": "折",
+        "source_M": "chien: tia: chy〔chien升斜帶支；tia升斜帶支+小c；chy升斜帶支重墨〕 salir a recebir",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presente de dinero, o presentarlo",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "折；以銀錢充當禮金，或呈送銀禮",
+        "en_disambiguated": "A monetary gift (折禮/折銀), or to present money in place of physical gifts.",
+        "syntactic_notes": "折 reflects Ming-Qing practice of折乾/折色 (commuting physical tributes/gifts into silver money)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (升斜帶支)",
+          "T06/T07 (升斜帶支+小c)",
+          "T06/T07 (升斜帶支重墨)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsiat⁷ / tia⁷ / tsi⁷",
+        "phonological_basis": "Three vernacular variant pronunciations of 折 given in manuscript."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsiat",
+        "moe_code": "03891",
+        "hanzi_standard": "折"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Institutional commercial/gift custom calque."
+      }
+    },
+    {
+      "entry_id": "DHS0838-06",
+      "layer_0_visual_anchor": {
+        "page_pdf": 838,
+        "page_folio": 800,
+        "position_in_page": 6,
+        "bounding_box_hint": "row 6, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presente del camino",
+        "source_H": "迓",
+        "source_M": "ge〔凹角；音首疑〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presente del camino",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "迓；程儀、路禮、途中迎迓餽贈",
+        "en_disambiguated": "A travel gift / journey gratuity (程儀/迓禮).",
+        "syntactic_notes": "Presente del camino refers to gifts given to travelers along their route."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "ge⁶",
+        "phonological_basis": "ge corresponds to colloquial/literary reading of 迓 (gā/gē)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "gā",
+        "moe_code": "04938",
+        "hanzi_standard": "迓"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-2",
+        "definition": "Near synonym / register or stylistic differentiation",
+        "rationale": "Pragmatic cultural gift etiquette."
+      }
+    },
+    {
+      "entry_id": "DHS0838-08",
+      "layer_0_visual_anchor": {
+        "page_pdf": 838,
+        "page_folio": 800,
+        "position_in_page": 8,
+        "bounding_box_hint": "row 8, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presente de piecas cubierto de ropas",
+        "source_H": "表 裏",
+        "source_M": "piau ly〔皆降斜〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presente de piecas cubierto de ropas",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "表裏；衣料疋頭、成對之表裏衣料禮物",
+        "en_disambiguated": "A ceremonial gift consisting of fabric lengths/silk bolts for lining and outer garments (表裏).",
+        "syntactic_notes": "表裏 in Ming-Qing etiquette refers to a complementary set of outer and lining fabrics presented as gifts."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "piau² li²",
+        "phonological_basis": "piau reflects 表 (T02), ly reflects 裏 (T02)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "piáu-lí",
+        "moe_code": "",
+        "hanzi_standard": "表裏"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Direct institutional material culture calque."
+      }
+    },
+    {
+      "entry_id": "DHS0838-10",
+      "layer_0_visual_anchor": {
+        "page_pdf": 838,
+        "page_folio": 800,
+        "position_in_page": 10,
+        "bounding_box_hint": "row 10, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presente q̃ se lleua en las manos",
+        "source_H": "搬 請",
+        "source_M": "poa chia〔poa刪改上調尖角疑；chia降斜+小c〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presente q[ue] se lleua en las manos",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "搬請；隨身攜帶呈遞之伴手見面禮",
+        "en_disambiguated": "A hand-carried personal gift presented when visiting or inviting someone.",
+        "syntactic_notes": "L translates the bodily action of carrying a gift in the hands (手禮/搬請)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T02 (降斜+小c)"
+        ],
+        "reconstructed_17th_c_hokkien": "pua¹ tsʰia²",
+        "phonological_basis": "poa (搬), chia (請)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "puann-tshiánn",
+        "moe_code": "",
+        "hanzi_standard": "搬請"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Paraphrastic situational translation of hand gifts."
+      }
+    },
+    {
+      "entry_id": "DHS0838-13",
+      "layer_0_visual_anchor": {
+        "page_pdf": 838,
+        "page_folio": 800,
+        "position_in_page": 13,
+        "bounding_box_hint": "row 13, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presente q̃ da el muerto a su entierro",
+        "source_H": "祭 礼",
+        "source_M": "chey ley〔chey尖角重墨；ley降斜〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presente q[ue] da el muerto a su entierro",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "祭礼；喪葬祭禮、弔奠之物",
+        "en_disambiguated": "Funeral offerings or gifts presented for the deceased at burial.",
+        "syntactic_notes": "L describes the mortuary gift ritual; H/M provides the general term 祭礼."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽重墨)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "tse³ le²",
+        "phonological_basis": "chey (祭, tse³), ley (礼, le²)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsè-lé",
+        "moe_code": "04689",
+        "hanzi_standard": "祭禮"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Cultural mortuary ritual calque."
+      }
+    },
+    {
+      "entry_id": "DHS0838-14",
+      "layer_0_visual_anchor": {
+        "page_pdf": 838,
+        "page_folio": 800,
+        "position_in_page": 14,
+        "bounding_box_hint": "row 14, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presentar el dia del nacimiento q̃ cumple años",
+        "source_H": "生 日",
+        "source_M": "se zit〔se升斜+小m；zit升斜帶支〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presentar el dia del nacimiento q[ue] cumple años",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "生日；於誕日敬獻壽禮",
+        "en_disambiguated": "To give a gift on someone's birthday (celebrating birth anniversary).",
+        "syntactic_notes": "L expands the occasion into a full descriptive relative clause."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜+小m)",
+          "T06/T07 (升斜帶支)"
+        ],
+        "reconstructed_17th_c_hokkien": "se¹ zit⁸",
+        "phonological_basis": "se (生, se¹), zit (日, zit⁸ with entering tone mark)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "senn-ji̍t",
+        "moe_code": "01859",
+        "hanzi_standard": "生日"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Event-based situational translation."
+      }
+    },
+    {
+      "entry_id": "DHS0838-16",
+      "layer_0_visual_anchor": {
+        "page_pdf": 838,
+        "page_folio": 800,
+        "position_in_page": 16,
+        "bounding_box_hint": "row 16, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presentar el Mandarin su retorica",
+        "source_H": "納 卷",
+        "source_M": "lap cuy〔lap升斜帶支；cuy尖角+小m〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presentar a el viejo el dia que cumple años",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "慶壽、行壽；為長者祝壽進獻禮品",
+        "en_disambiguated": "To present gifts to an elder on their birthday (celebrating longevity).",
+        "syntactic_notes": "Distinguishes 慶壽 (longevity celebration for elders) from generic 生日."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽+小c)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "kʰiəŋ³ siu⁶",
+        "phonological_basis": "queng (慶, kʰiəŋ³), siu (壽, siu⁶)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "khìng-siū",
+        "moe_code": "05978",
+        "hanzi_standard": "慶壽"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Cultural age-stratified celebratory gift terminology."
+      }
+    },
+    {
+      "entry_id": "DHS0838-17",
+      "layer_0_visual_anchor": {
+        "page_pdf": 838,
+        "page_folio": 800,
+        "position_in_page": 17,
+        "bounding_box_hint": "row 17, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presentar a el viejo el dia que cumple años",
+        "source_H": "慶 壽",
+        "source_M": "queng siu, gia siu〔queng尖角+小c；siu凹角；gia尖角+小2〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presentar a el maior cosas q[ue] no son de comer",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "送表裡；餽贈長輩非食用之衣料疋帛禮物",
+        "en_disambiguated": "To present non-edible gifts (such as silk fabric / attire) to a superior or elder.",
+        "syntactic_notes": "L explicitly contrasts non-food gifts (cosas que no son de comer) with subsequent food gifts."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T02 (降斜)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "saŋ³ piau² li²",
+        "phonological_basis": "sang (送), piau (表), ly (裡)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sàng piáu-lí",
+        "moe_code": "",
+        "hanzi_standard": "送表裏"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Taxonomic classification of gift customs."
+      }
+    },
+    {
+      "entry_id": "DHS0838-18",
+      "layer_0_visual_anchor": {
+        "page_pdf": 838,
+        "page_folio": 800,
+        "position_in_page": 18,
+        "bounding_box_hint": "row 18, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presentar a el maior cosas q̃ no son de comer",
+        "source_H": "送 表 裡",
+        "source_M": "sang piau ly〔sang尖角；piau/ly降斜〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presentar a el maior cosas de comer",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "下程；餽贈過境貴客或長輩之食物禮品",
+        "en_disambiguated": "To present foodstuffs / provisions to a superior or visiting dignitary (下程).",
+        "syntactic_notes": "下程 in traditional Chinese administration designates provisions and feast delicacies delivered to traveling officials."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)",
+          "T05 (橫+小m)"
+        ],
+        "reconstructed_17th_c_hokkien": "he⁶ tiaŋ⁵",
+        "phonological_basis": "he (下), tia (程, tiaŋ⁵)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "hē-thîng",
+        "moe_code": "01235",
+        "hanzi_standard": "下程"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Administrative food provision calque."
+      }
+    },
+    {
+      "entry_id": "DHS0838-19",
+      "layer_0_visual_anchor": {
+        "page_pdf": 838,
+        "page_folio": 800,
+        "position_in_page": 19,
+        "bounding_box_hint": "row 19, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presentar a el maior cosas de comer",
+        "source_H": "下 程",
+        "source_M": "he tia〔he凹角；tia橫+小m〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presentar a el maior cosas de comer",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "送路費；贈送盤纏行資",
+        "en_disambiguated": "To present travel expenses / journey funds to an elder or departing friend.",
+        "syntactic_notes": "Colloquial term for providing journey provisions/money."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T04 (凹角)",
+          "T03 (尖頂帽重墨)"
+        ],
+        "reconstructed_17th_c_hokkien": "saŋ³ lo⁶ hui³",
+        "phonological_basis": "sang (送), lou (路), huy (費)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sàng lōo-huì",
+        "moe_code": "",
+        "hanzi_standard": "送路費"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Direct semantic calque."
+      }
+    },
+    {
+      "entry_id": "DHS0838-20",
+      "layer_0_visual_anchor": {
+        "page_pdf": 838,
+        "page_folio": 800,
+        "position_in_page": 20,
+        "bounding_box_hint": "row 20, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presentar a el maior cosas de comer",
+        "source_H": "送 路 費",
+        "source_M": "sang lou huy〔sang尖角；lou凹角；huy尖角重墨〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presentar vna Bandeja de colacion",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "送餞盒；餽贈盛裝點心果品之餞別提盒",
+        "en_disambiguated": "To present a tiered gift box (food hamper) filled with confections or refreshments.",
+        "syntactic_notes": "Bandeja de colacion translates 餞盒 (banquet/confectionery gift box)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T04 (凹角塗改)",
+          "T06/T07 (升斜帶支重墨)"
+        ],
+        "reconstructed_17th_c_hokkien": "saŋ³ tsian³ ap⁷",
+        "phonological_basis": "ap (盒) with entering tone coda -p / -t."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sàng tsiàn-a̍h",
+        "moe_code": "",
+        "hanzi_standard": "送餞盒"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Material culture culinary gift vessel calque."
+      }
+    },
+    {
+      "entry_id": "DHS0838-21",
+      "layer_0_visual_anchor": {
+        "page_pdf": 838,
+        "page_folio": 800,
+        "position_in_page": 21,
+        "bounding_box_hint": "row 21, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presentar vna Bandeja de colacion",
+        "source_H": "送 餞 盒",
+        "source_M": "sang chian ap〔sang尖角；chian凹角塗改；ap升斜帶支重墨〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presentar vna Bandeja de colacion",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "餞盤；餞別餽贈之點心茶盤",
+        "en_disambiguated": "A banquet tray of refreshments presented as a parting gift.",
+        "syntactic_notes": "Pair with row 23, substituting 盒 (box) with 盤 (tray)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T05 (橫帶支+小m)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsian³ puaŋ⁵",
+        "phonological_basis": "chian (餞), poa (盤, puaŋ⁵)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsiàn-puânn",
+        "moe_code": "",
+        "hanzi_standard": "餞盤"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Material culture culinary gift vessel calque."
+      }
+    },
+    {
+      "entry_id": "DHS0839-01",
+      "layer_0_visual_anchor": {
+        "page_pdf": 839,
+        "page_folio": 801,
+        "position_in_page": 1,
+        "bounding_box_hint": "row 1, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presente q̃ se da pasado el año",
+        "source_H": "送 年",
+        "source_M": "sang ny〔sang尖角；ny橫〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presente",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "礼物理；禮物、餽贈之物",
+        "en_disambiguated": "A gift or present.",
+        "syntactic_notes": "Generic noun for gifts, doubled with 理 for cadence."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜)",
+          "T06/T07 (升斜帶支)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "le² but⁸ li²",
+        "phonological_basis": "ley (礼), but (物), ly (理)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "lé-bu̍t",
+        "moe_code": "04690",
+        "hanzi_standard": "禮物"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Direct lexical equivalence."
+      }
+    },
+    {
+      "entry_id": "DHS0839-02",
+      "layer_0_visual_anchor": {
+        "page_pdf": 839,
+        "page_folio": 801,
+        "position_in_page": 2,
+        "bounding_box_hint": "row 2, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presente p̃ el camino",
+        "source_H": "送 風",
+        "source_M": "sang hong〔sang尖角；hong升斜〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presentar algo",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "送礼；餽贈禮物、送達賀禮",
+        "en_disambiguated": "To present or give a gift.",
+        "syntactic_notes": "Standard verbal expression for gift giving."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "saŋ³ le²",
+        "phonological_basis": "sang (送), ley (礼)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sàng-lé",
+        "moe_code": "03862",
+        "hanzi_standard": "送禮"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Direct verbal equivalence."
+      }
+    },
+    {
+      "entry_id": "DHS0839-03",
+      "layer_0_visual_anchor": {
+        "page_pdf": 839,
+        "page_folio": 801,
+        "position_in_page": 3,
+        "bounding_box_hint": "row 3, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presente p̃ el camino",
+        "source_H": "送 別",
+        "source_M": "sang piet〔sang尖角；piet升斜帶支〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presentar",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "送礼；行禮、餽贈",
+        "en_disambiguated": "To present; to give gifts.",
+        "syntactic_notes": "Absolute verbal form of row 26."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "saŋ³ le²",
+        "phonological_basis": "Identical phonetic base to row 26."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "sàng-lé",
+        "moe_code": "03862",
+        "hanzi_standard": "送禮"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Direct verbal equivalence."
+      }
+    },
+    {
+      "entry_id": "DHS0839-05",
+      "layer_0_visual_anchor": {
+        "page_pdf": 839,
+        "page_folio": 801,
+        "position_in_page": 5,
+        "bounding_box_hint": "row 5, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presente de la visita",
+        "source_H": "贄 見 礼",
+        "source_M": "chy quien ley〔chy/quien尖角；ley降斜〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presente de visita",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "見面礼；初次拜會呈送之見面賀禮",
+        "en_disambiguated": "A courtesy gift presented upon a visit / initial meeting.",
+        "syntactic_notes": "Presente de visita translates 見面礼 (courtesy visitation gift)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T04 (凹角)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "kin³ bin⁶ le²",
+        "phonological_basis": "kin (見), bin (面), ley (礼)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "kìnn-bīn-lé",
+        "moe_code": "03816",
+        "hanzi_standard": "見面禮"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Direct pragmatic social custom equivalence."
+      }
+    },
+    {
+      "entry_id": "DHS0839-07",
+      "layer_0_visual_anchor": {
+        "page_pdf": 839,
+        "page_folio": 801,
+        "position_in_page": 7,
+        "bounding_box_hint": "row 7, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presentar a el S.or p̃ obligalle",
+        "source_H": "投 降",
+        "source_M": "tau hang〔皆橫〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presentar a el S[eñ]or p[ara] obligalle",
+        "abbreviations_expanded": [
+          {
+            "abbr": "S.or",
+            "expansion": "S[eñ]or"
+          },
+          {
+            "abbr": "p̃",
+            "expansion": "p[ara]"
+          }
+        ],
+        "zh_disambiguated": "投降；呈送降書降物以求款附於領主",
+        "en_disambiguated": "To surrender and present tokens/tribute to the Lord to obligate him / seek peace.",
+        "syntactic_notes": "S.or represents Señor. Obligalle (obligarle) reflects early modern enclitic pronoun assimilation."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (橫)",
+          "T05 (橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "tau⁵ haŋ⁵",
+        "phonological_basis": "tau (投), hang (降)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tâu-hâng",
+        "moe_code": "03290",
+        "hanzi_standard": "投降"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Feudal and military submission protocol translation."
+      }
+    },
+    {
+      "entry_id": "DHS0839-08",
+      "layer_0_visual_anchor": {
+        "page_pdf": 839,
+        "page_folio": 801,
+        "position_in_page": 8,
+        "bounding_box_hint": "row 8, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presente p̃ Mandarin",
+        "source_H": "茶 菓",
+        "source_M": "te cue〔te橫及雙點；cue降斜〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presente p[ara] Mandarin",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p̃",
+            "expansion": "p[ara]"
+          }
+        ],
+        "zh_disambiguated": "茶菓；進呈予官員之茶點果品手禮",
+        "en_disambiguated": "Tea and refreshments presented as a courtesy gift to a mandarin.",
+        "syntactic_notes": "Tea and confectioneries (茶菓) constituted standard introductory courtesies for civil officials."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (橫及雙點)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "te⁵ kue²",
+        "phonological_basis": "te (茶), cue (菓)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tê-kó",
+        "moe_code": "04033",
+        "hanzi_standard": "茶菓"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Official etiquette protocol calque."
+      }
+    },
+    {
+      "entry_id": "DHS0839-10",
+      "layer_0_visual_anchor": {
+        "page_pdf": 839,
+        "page_folio": 801,
+        "position_in_page": 10,
+        "bounding_box_hint": "row 10, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presentar dando el p̃ bien",
+        "source_H": "賀 儀",
+        "source_M": "ho gy〔皆凹角重墨〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presentar dando el p[ro]vecho bien",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p̃",
+            "expansion": "p[ro]vecho"
+          }
+        ],
+        "zh_disambiguated": "賀儀；餽贈賀禮利市以申吉祥祝願",
+        "en_disambiguated": "To present gifts of good fortune / congratulatory silver gratuities.",
+        "syntactic_notes": "p̃ bien represents provecho bien (congratulatory bounty/benefit)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角重墨)",
+          "T04 (凹角重墨)"
+        ],
+        "reconstructed_17th_c_hokkien": "hɔ⁶ gi⁵",
+        "phonological_basis": "ho (賀), gy (儀)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "hō-gî",
+        "moe_code": "",
+        "hanzi_standard": "賀儀"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Congratulatory gift protocol calque."
+      }
+    },
+    {
+      "entry_id": "DHS0839-11",
+      "layer_0_visual_anchor": {
+        "page_pdf": 839,
+        "page_folio": 801,
+        "position_in_page": 11,
+        "bounding_box_hint": "row 11, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presentar dando el p̃ bien",
+        "source_H": "賀 礼",
+        "source_M": "ho ley〔ho凹角；ley降斜〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presentar dando el p[ro]vecho bien",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p̃",
+            "expansion": "p[ro]vecho"
+          }
+        ],
+        "zh_disambiguated": "賀礼；餽送祝賀禮節金品",
+        "en_disambiguated": "To present congratulatory gifts expressing celebratory bounty.",
+        "syntactic_notes": "Pair with row 31, substituting 儀 with 礼."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "hɔ⁶ le²",
+        "phonological_basis": "ho (賀), ley (礼)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "hō-lé",
+        "moe_code": "04958",
+        "hanzi_standard": "賀禮"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Direct semantic equivalence."
+      }
+    },
+    {
+      "entry_id": "DHS0839-13",
+      "layer_0_visual_anchor": {
+        "page_pdf": 839,
+        "page_folio": 801,
+        "position_in_page": 13,
+        "bounding_box_hint": "row 13, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Presente, presencia",
+        "source_H": "現",
+        "source_M": "hien〔凹角〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presente, presencia",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "現；在場、當前、顯露",
+        "en_disambiguated": "Present; presence, being visibly present.",
+        "syntactic_notes": "Single Hanzi root 現 signifying temporal and spatial presence."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "hian⁶",
+        "phonological_basis": "hien (現) with T04 tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "hiān",
+        "moe_code": "05151",
+        "hanzi_standard": "現"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Direct conceptual root equivalence."
+      }
+    },
+    {
+      "entry_id": "DHS0839-14",
+      "layer_0_visual_anchor": {
+        "page_pdf": 839,
+        "page_folio": 801,
+        "position_in_page": 14,
+        "bounding_box_hint": "row 14, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presente presencia",
+        "source_H": "前",
+        "source_M": "cheng〔橫〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presente presencia",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "前；在前、座前、眼前",
+        "en_disambiguated": "Present, presence; in front of.",
+        "syntactic_notes": "Spatial preposition/noun corresponding to Spanish en presencia."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsiəŋ⁵",
+        "phonological_basis": "cheng reflects Chiang-chiu literary 前 (tsiəŋ⁵)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsiân",
+        "moe_code": "04639",
+        "hanzi_standard": "前"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Direct spatial/locative equivalence."
+      }
+    },
+    {
+      "entry_id": "DHS0839-15",
+      "layer_0_visual_anchor": {
+        "page_pdf": 839,
+        "page_folio": 801,
+        "position_in_page": 15,
+        "bounding_box_hint": "row 15, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presente, en presencia",
+        "source_H": "面 前",
+        "source_M": "bin cheng〔bin凹角；cheng橫〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presente, en presencia",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "面前；當面、在當事人面前",
+        "en_disambiguated": "In person, in the presence of someone, face-to-face.",
+        "syntactic_notes": "Compounds 面 and 前, matching en presencia."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)",
+          "T05 (橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "bin⁶ tsiəŋ⁵",
+        "phonological_basis": "bin (面), cheng (前)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "bīn-tsiân",
+        "moe_code": "04899",
+        "hanzi_standard": "面前"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Direct locative equivalence."
+      }
+    },
+    {
+      "entry_id": "DHS0839-16",
+      "layer_0_visual_anchor": {
+        "page_pdf": 839,
+        "page_folio": 801,
+        "position_in_page": 16,
+        "bounding_box_hint": "row 16, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presente, en presencia",
+        "source_H": "對 面 會",
+        "source_M": "tuy bin hue〔tuy尖角；bin/hue凹角〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presente, en presencia",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "對面會；當面相會、面洽",
+        "en_disambiguated": "To meet face-to-face, meeting in the presence of one another.",
+        "syntactic_notes": "Verbal action of face-to-face rendezvous (對面會)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)",
+          "T04 (凹角)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "tui³ bin⁶ hue⁶",
+        "phonological_basis": "tuy (對), bin (面), hue (會)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tuì-bīn-huē",
+        "moe_code": "",
+        "hanzi_standard": "對面會"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-2",
+        "definition": "Near synonym / register or stylistic differentiation",
+        "rationale": "Colloquial verb phrase expressing reciprocal meeting."
+      }
+    },
+    {
+      "entry_id": "DHS0839-18",
+      "layer_0_visual_anchor": {
+        "page_pdf": 839,
+        "page_folio": 801,
+        "position_in_page": 18,
+        "bounding_box_hint": "row 18, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presente cosa",
+        "source_H": "淺 近",
+        "source_M": "chien quin〔chien降斜+小c；quin凹角〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presente cosa",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "淺近；眼前尋常之事物、近處淺顯之物",
+        "en_disambiguated": "A proximate, ordinary, or immediately present thing.",
+        "syntactic_notes": "Spanish adj+noun construction qualifying something near or present."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T02 (降斜+小c)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰian² kin⁶",
+        "phonological_basis": "chien (淺, tsʰian²), quin (近, kin⁶)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tshián-kīn",
+        "moe_code": "06020",
+        "hanzi_standard": "淺近"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-2",
+        "definition": "Near synonym / register or stylistic differentiation",
+        "rationale": "Near synonym qualifying immediate or accessible objects."
+      }
+    },
+    {
+      "entry_id": "DHS0839-19",
+      "layer_0_visual_anchor": {
+        "page_pdf": 839,
+        "page_folio": 801,
+        "position_in_page": 19,
+        "bounding_box_hint": "row 19, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presentarse el Mandarin llamado",
+        "source_H": "投 到",
+        "source_M": "tau to〔tau橫與墨塊；to尖角〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presentarse el Mandarin llamado",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "投到；官員奉召到案銷差、應召點卯",
+        "en_disambiguated": "For a summoned mandarin/official to report and present himself to superior authority.",
+        "syntactic_notes": "投到 is a specific Ming legal term for reporting upon official summons or arrival at post."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (橫與墨塊)",
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "tau⁵ to³",
+        "phonological_basis": "tau (投), to (到)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tâu-tòo",
+        "moe_code": "",
+        "hanzi_standard": "投到"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Administrative legal reporting formula."
+      }
+    },
+    {
+      "entry_id": "DHS0839-20",
+      "layer_0_visual_anchor": {
+        "page_pdf": 839,
+        "page_folio": 801,
+        "position_in_page": 20,
+        "bounding_box_hint": "row 20, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Presidente del consejo",
+        "source_H": "状",
+        "source_M": "chong〔凹角〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presidente del consejo",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "状；掌管案牘牒狀、領袖議事首長",
+        "en_disambiguated": "The presiding officer of a council / official responsible for petitions.",
+        "syntactic_notes": "Translates Spanish administrative head (presidente) through court terminology."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsioŋ⁶",
+        "phonological_basis": "chong reflects Chiang-chiu literary 狀 (tsioŋ⁶)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsōng",
+        "moe_code": "04646",
+        "hanzi_standard": "狀"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Administrative bureaucratic title calque."
+      }
+    },
+    {
+      "entry_id": "DHS0839-21",
+      "layer_0_visual_anchor": {
+        "page_pdf": 839,
+        "page_folio": 801,
+        "position_in_page": 21,
+        "bounding_box_hint": "row 21, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presidente del consejo",
+        "source_H": "状 元",
+        "source_M": "chong guan〔chong凹角；guan橫〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presidente del consejo",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "状元；殿試第一名，藉喻首揆領袖",
+        "en_disambiguated": "The leading scholar of the palace examination (Optimus); metaphorically the head of council.",
+        "syntactic_notes": "Uses highest civil honor (狀元) as an analog for premier / president of council."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (凹角)",
+          "T05 (橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsioŋ⁶ guan⁵",
+        "phonological_basis": "chong (狀), guan (元)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsōng-guân",
+        "moe_code": "04647",
+        "hanzi_standard": "狀元"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Imperial examination title metaphorically applied to European councils."
+      }
+    },
+    {
+      "entry_id": "DHS0840-01",
+      "layer_0_visual_anchor": {
+        "page_pdf": 840,
+        "page_folio": 802,
+        "position_in_page": 1,
+        "bounding_box_hint": "row 1, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "presidente de consejo real〔虫損〕",
+        "source_H": "閣 老",
+        "source_M": "cog lo〔cog升斜帶支；lo降斜〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presidente de consejo real",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "閣老；內閣大學士、御前重臣",
+        "en_disambiguated": "President of the Royal Council; Grand Secretary (Cabinet minister).",
+        "syntactic_notes": "閣老 perfectly maps Spanish Consejo Real (Royal Council) to Ming Grand Secretariat (內閣)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (升斜帶支)",
+          "T02 (降斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "kɔk⁷ lɔ²",
+        "phonological_basis": "cog (閣) entering tone coda -k, lo (老) T02."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "koh-nóo",
+        "moe_code": "06052",
+        "hanzi_standard": "閣老"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "High-level institutional governmental equivalent."
+      }
+    },
+    {
+      "entry_id": "DHS0840-09",
+      "layer_0_visual_anchor": {
+        "page_pdf": 840,
+        "page_folio": 802,
+        "position_in_page": 9,
+        "bounding_box_hint": "row 9, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "preso por culpa de muerte",
+        "source_H": "囚 罪",
+        "source_M": "siu chue〔siu橫；chue凹角〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Preso por culpa de muerte",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "囚罪；因身負死罪被囚之重犯",
+        "en_disambiguated": "A prisoner detained on a capital / murder charge.",
+        "syntactic_notes": "Culpa de muerte corresponds to capital offenses (死罪)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (橫)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "siu⁵ tsue⁶",
+        "phonological_basis": "siu (囚, siu¹), chue (罪, tsue⁶)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "siû-tsuē",
+        "moe_code": "",
+        "hanzi_standard": "囚罪"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Penal legal classification calque."
+      }
+    },
+    {
+      "entry_id": "DHS0840-10",
+      "layer_0_visual_anchor": {
+        "page_pdf": 840,
+        "page_folio": 802,
+        "position_in_page": 10,
+        "bounding_box_hint": "row 10, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "preso q̃ pide las patentes",
+        "source_H": "囚 頭",
+        "source_M": "siu tau〔siu橫；tau橫+小c〕",
+        "source_R": "〔空；長注跨欄〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Preso q[ue] pide las patentes",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "囚頭；向新入獄者索求買監錢之牢頭禁子",
+        "en_disambiguated": "A head prisoner / cell boss who extorts fees (patentes) from inmates.",
+        "syntactic_notes": "Patentes here refers to prison customary extortion fees collected by head inmates (囚頭/牢頭)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (橫)",
+          "T05 (橫+小c)"
+        ],
+        "reconstructed_17th_c_hokkien": "siu⁵ tʰau⁵",
+        "phonological_basis": "siu (囚), tau (頭)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "siû-thâu",
+        "moe_code": "",
+        "hanzi_standard": "囚頭"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Penal customary institutional gloss."
+      }
+    },
+    {
+      "entry_id": "DHS0842-01",
+      "layer_0_visual_anchor": {
+        "page_pdf": 842,
+        "page_folio": 804,
+        "position_in_page": 1,
+        "bounding_box_hint": "row 1, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "〔圈〕presto en un momento ~〔虫损跨字〕",
+        "source_H": "[疑:愴愴]",
+        "source_M": "〔圈〕chong⟨升干附支附c重墨;未决⟩ chong⟨升干附支附c重墨;未决⟩ :",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presto en un momento",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "愴愴（或匆匆）；急遽、轉瞬之間、非常迅速",
+        "en_disambiguated": "Instantly, in a flash, very swiftly.",
+        "syntactic_notes": "Reduplicated adverb describing hurried motion; H glyph doubtful ([疑:愴愴])."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06/T07 (升干附支附c重墨)",
+          "T06/T07 (升干附支附c重墨)"
+        ],
+        "reconstructed_17th_c_hokkien": "tsʰɔŋ¹ tsʰɔŋ¹",
+        "phonological_basis": "chong chong reduplicated entering/aspirated tone form."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tshong-tshong",
+        "moe_code": "",
+        "hanzi_standard": "愴愴"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-2",
+        "definition": "Near synonym / register or stylistic differentiation",
+        "rationale": "Adverbial temporal modifier."
+      }
+    },
+    {
+      "entry_id": "DHS0842-05",
+      "layer_0_visual_anchor": {
+        "page_pdf": 842,
+        "page_folio": 804,
+        "position_in_page": 5,
+        "bounding_box_hint": "row 5, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Presumir ~ vᵉ vano.",
+        "source_H": "僭",
+        "source_M": "S. [疑:siem;首重写]⟨谷;v⟩ cho⟨峰;^⟩",
+        "source_R": "hacer algo de su cabeça sin [疑:consu...;末端裁断] / [疑:...tado]"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presumir, v[eas]e vano",
+        "abbreviations_expanded": [
+          {
+            "abbr": "vᵉ",
+            "expansion": "v[eas]e"
+          }
+        ],
+        "zh_disambiguated": "僭；自負、擅專自為、踰矩自誇",
+        "en_disambiguated": "To presume, to be conceited or act arrogantly without consultation.",
+        "syntactic_notes": "vᵉ represents véase (cross-reference to vano). R notes: hacer algo de su cabeça sin consultado."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (谷)",
+          "T03 (峰)"
+        ],
+        "reconstructed_17th_c_hokkien": "siam⁶ tso³",
+        "phonological_basis": "S. siem (僭, siam⁶), cho (做, tso³)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tsiàm-tsò",
+        "moe_code": "",
+        "hanzi_standard": "僭做"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Moral/behavioral psychological calque."
+      }
+    },
+    {
+      "entry_id": "DHS0842-11",
+      "layer_0_visual_anchor": {
+        "page_pdf": 842,
+        "page_folio": 804,
+        "position_in_page": 11,
+        "bounding_box_hint": "row 11, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "〔划删行间字〕presumptuoso q̃ [疑:trata ...]",
+        "source_H": "〔空〕",
+        "source_M": "〔空〕",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Presumptuoso q[ue] trata",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "〔已刪劃條目〕自負者、妄自尊大之人",
+        "en_disambiguated": "[Struck-through entry] Presumptuous person who behaves boastfully.",
+        "syntactic_notes": "Entry was struck through interlinearly in manuscript; columns H, M, R are blank."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [],
+        "reconstructed_17th_c_hokkien": "",
+        "phonological_basis": "Canceled diplomatic line."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "",
+        "moe_code": "",
+        "hanzi_standard": ""
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-5",
+        "definition": "Divergent / asymmetric translation",
+        "rationale": "Manuscript cancellation."
+      }
+    },
+    {
+      "entry_id": "DHS0842-19",
+      "layer_0_visual_anchor": {
+        "page_pdf": 842,
+        "page_folio": 804,
+        "position_in_page": 19,
+        "bounding_box_hint": "row 19, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "pretender, tener grandes hu / mos ~",
+        "source_H": "軒昂",
+        "source_M": "hien⟨升;/⟩ gang⟨横;—⟩.",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Pretender, tener grandes humos",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "軒昂；心懷高遠志向、意氣自豪",
+        "en_disambiguated": "To aspire to great things; to carry oneself with high dignity or grand ambitions.",
+        "syntactic_notes": "Tener grandes humos is a Spanish idiom for high airs/ambitions, rendered by literary 軒昂."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T05 (橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "hian¹ gaŋ⁵",
+        "phonological_basis": "hien (軒, hian¹), gang (昂, gaŋ⁵)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "hian-gông",
+        "moe_code": "05152",
+        "hanzi_standard": "軒昂"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Idiomatic literary equivalence."
+      }
+    },
+    {
+      "entry_id": "DHS0842-20",
+      "layer_0_visual_anchor": {
+        "page_pdf": 842,
+        "page_folio": 804,
+        "position_in_page": 20,
+        "bounding_box_hint": "row 20, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "pretender grandes cosas / como Reynos &ᵃ ~",
+        "source_H": "男兒志",
+        "source_M": "lam⟨横;—⟩ xy⟨横;—⟩ chy⟨峰;^⟩.",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Pretender grandes cosas como Reynos et c[aeter]a",
+        "abbreviations_expanded": [
+          {
+            "abbr": "&ᵃ",
+            "expansion": "et c[aeter]a"
+          }
+        ],
+        "zh_disambiguated": "男兒志；男子漢之雄心大志、圖謀天下王業",
+        "en_disambiguated": "To aim at great enterprises such as realms/kingdoms (a true man's ambition).",
+        "syntactic_notes": "&ᵃ represents et caetera. 男兒志 idiomatically encapsulates masculine grand ambition."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (橫)",
+          "T05 (橫)",
+          "T03 (峰)"
+        ],
+        "reconstructed_17th_c_hokkien": "lam⁵ zi⁵ tsi³",
+        "phonological_basis": "lam (男), xy (兒), chy (志)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "lâm-jî-tsì",
+        "moe_code": "",
+        "hanzi_standard": "男兒志"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-4",
+        "definition": "Institutional calque / paraphrastic cultural gloss",
+        "rationale": "Cultural gendered idiomatic expression of political ambition."
+      }
+    },
+    {
+      "entry_id": "DHS0843-04",
+      "layer_0_visual_anchor": {
+        "page_pdf": 843,
+        "page_folio": 805,
+        "position_in_page": 4,
+        "bounding_box_hint": "row 4, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Preterito vᵉ passado.",
+        "source_H": "〔空〕",
+        "source_M": "〔空〕",
+        "source_R": "hey."
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Preterito, v[eas]e passado",
+        "abbreviations_expanded": [
+          {
+            "abbr": "vᵉ",
+            "expansion": "v[eas]e"
+          }
+        ],
+        "zh_disambiguated": "過去；過往、前事、過去時態",
+        "en_disambiguated": "Past / preterite tense; see passado.",
+        "syntactic_notes": "Grammatical/temporal index cross-reference heading; H and M blank, R notes hey (係)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [],
+        "reconstructed_17th_c_hokkien": "",
+        "phonological_basis": "Grammatical cross-reference entry without vernacular gloss."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "",
+        "moe_code": "",
+        "hanzi_standard": ""
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-5",
+        "definition": "Divergent / asymmetric translation",
+        "rationale": "Meta-linguistic cross-reference index entry."
+      }
+    },
+    {
+      "entry_id": "DHS0844-01",
+      "layer_0_visual_anchor": {
+        "page_pdf": 844,
+        "page_folio": 806,
+        "position_in_page": 1,
+        "bounding_box_hint": "row 1, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "〔划删〕el [未辨字:重写及虫损] Primero, el 2. &. en orden〔旁补未辨〕",
+        "source_H": "在",
+        "source_M": "〔上补涂写未辨〕tay⟨谷;v⟩ : chay⟨谷;v⟩ ; tey⟨谷;v⟩ it⟨升干附支;首/-，候^⟩. tey⟨谷;v⟩ xi⟨谷;v⟩",
+        "source_R": "1º 2º"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Primero, el 2.º et c[aeter]a en orden",
+        "abbreviations_expanded": [
+          {
+            "abbr": "2.º",
+            "expansion": "segundo"
+          },
+          {
+            "abbr": "&.",
+            "expansion": "et c[aeter]a"
+          }
+        ],
+        "zh_disambiguated": "第一、第二等；按次序排列之第一、第二",
+        "en_disambiguated": "First, second, and so on in numerical order (ordinals).",
+        "syntactic_notes": "Ordinal counting formula; M gives variants tay/chay/tey it (第一), tey xi (第二)."
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T04 (谷)",
+          "T06/T07 (升干附支)",
+          "T04 (谷)",
+          "T04 (谷)"
+        ],
+        "reconstructed_17th_c_hokkien": "te⁶ it⁷ / te⁶ zi⁶",
+        "phonological_basis": "tey (第), it (一), xi (二)."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "tē-it / tē-jī",
+        "moe_code": "05737",
+        "hanzi_standard": "第一"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Ordinal numeral formulaic equivalence."
+      }
+    }
+  ]
+}

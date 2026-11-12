@@ -1,0 +1,33 @@
+{
+  "pages": [
+    {
+      "pdf_page": 410,
+      "historical_folio": 376,
+      "page_header": "E. ante. L.",
+      "page_footer_printed": "- 376 -",
+      "page_footer_handwritten": "",
+      "notes": "盲读仅据三横带（每带恰读一次，未用整页/subcol 复读，遵守三带读毕立即成文流程）。行序对齐依红色栏线与三带重叠行（親/自已/寒/凍露行）校定。右上角铅笔手写页码 188（位于页顶右角，非页脚）。第 1 行 ellos 之汉字栏空白，gni:/guyno. 归属该行存疑。第 4-5 行汉字（已/己、予/尹）与 M 栏 jonmo 一词为全页最弱读处。带分辨率下多枚声调符形状不能定类，凡 T99 与 [疑:A/B] 处待人工以 subcol2_hanzi_full / subcol3_minnan / subcol4_mandarin_right 校订。第 16 行 L 栏尾 ')' 似为条目组收括号而非词条文字。长体 s 照抄为 ſ。",
+      "entries": [
+        {"position": 1, "source_L": "ellos", "source_H": "[空]", "source_M": "gni:", "source_R": "guyno.", "tone_marks_M": [], "tone_marks_R": []},
+        {"position": 2, "source_L": "el.", "source_H": "伊", "source_M": "gí", "source_R": "yǐ [疑:yǐ/i]", "tone_marks_M": ["T01 (升斜)"], "tone_marks_R": ["T99 (污損難辨)"]},
+        {"position": 3, "source_L": "[空]", "source_H": "彼", "source_M": "sī [疑:sī/hī]", "source_R": "bǐ", "tone_marks_M": ["T05 (平橫)"], "tone_marks_R": ["T02 (降斜)"]},
+        {"position": 4, "source_L": "el mesmo.", "source_H": "已 [疑:已/己]", "source_M": "gǔy", "source_R": "jǐn [疑:jǐn/jin]", "tone_marks_M": ["T99 (污損難辨)"], "tone_marks_R": ["T99 (污損難辨)"]},
+        {"position": 5, "source_L": "el mesmo, yo mesmo.", "source_H": "予 [疑:予/尹]", "source_M": "ī jonmo", "source_R": "xīn [疑:xīn/xin]", "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)", "T99 (污損難辨)"], "tone_marks_R": ["T99 (污損難辨)"]},
+        {"position": 6, "source_L": "el mesmo, yo mesmo. el mesmo", "source_H": "親", "source_M": "chīn cĩg [疑:cĩg/ig]", "source_R": "chīn", "tone_marks_M": ["T03 (尖頂帽)", "T99 (污損難辨)"], "tone_marks_R": ["T03 (尖頂帽)"]},
+        {"position": 7, "source_L": "el mesmo.", "source_H": "自已 [疑:已/己]", "source_M": "chū gǔy ig", "source_R": "chū gǔn", "tone_marks_M": ["T04 (凹角)", "T02 (降斜)", "T01 (升斜)"], "tone_marks_R": ["T99 (污損難辨)", "T99 (污損難辨)"]},
+        {"position": 8, "source_L": "el mesmo", "source_H": "独已 [疑:已/己]", "source_M": "tǎg gǔy ig", "source_R": "tō gǔn", "tone_marks_M": ["T04 (凹角)", "T02 (降斜)", "T01 (升斜)"], "tone_marks_R": ["T99 (污損難辨)", "T99 (污損難辨)"]},
+        {"position": 9, "source_L": "el mesmo.", "source_H": "伊独已 [疑:已/己]", "source_M": "i tǎg gǔy ig", "source_R": "i tō gǔn", "tone_marks_M": ["T01 (升斜)", "T04 (凹角)", "T02 (降斜)", "T01 (升斜)"], "tone_marks_R": ["T99 (污損難辨)", "T99 (污損難辨)", "T99 (污損難辨)"]},
+        {"position": 10, "source_L": "el mesmo.", "source_H": "自家", "source_M": "chū quē ig", "source_R": "chū guīⁿ", "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)", "T99 (污損難辨)"], "tone_marks_R": ["T99 (污損難辨)", "T99 (污損難辨)"]},
+        {"position": 11, "source_L": "el mesmo baixo. [疑:baixo/boixo]", "source_H": "親口說", "source_M": "chīn chǔy sǔe", "source_R": "chīn guēn chǔe", "tone_marks_M": ["T03 (尖頂帽)", "T99 (污損難辨)", "T99 (污損難辨)"], "tone_marks_R": ["T99 (污損難辨)", "T99 (污損難辨)", "T99 (污損難辨)"]},
+        {"position": 12, "source_L": "el solo. anoⁿ. [疑:anoⁿ/anda]", "source_H": "逐步行", "source_M": "tǎg pō quiāⁿ [疑:quiāⁿ/guīā]", "source_R": "chō pūn hiāng", "tone_marks_M": ["T99 (污損難辨)", "T05 (平橫)", "T99 (污損難辨)"], "tone_marks_R": ["T99 (污損難辨)", "T99 (污損難辨)", "T03 (尖頂帽)"]},
+        {"position": 13, "source_L": "* Elada costa.", "source_H": "霜", "source_M": "tsng [疑:tsng/chng]", "source_R": "zoāng [疑:zoāng/choāng]", "tone_marks_M": ["T06/T07 (交叉入聲號)"], "tone_marks_R": ["T99 (污損難辨)"]},
+        {"position": 14, "source_L": "elada costa, muy fría.", "source_H": "寒", "source_M": "guāⁿ [疑:guāⁿ/uā]", "source_R": "cān", "tone_marks_M": ["T99 (污損難辨)"], "tone_marks_R": ["T05 (平橫)"]},
+        {"position": 15, "source_L": "elada coſta", "source_H": "凍露", "source_M": "tàng lō", "source_R": "tōng lū", "tone_marks_M": ["T05 (平橫)", "T05 (平橫)"], "tone_marks_R": ["T05 (平橫)", "T05 (平橫)"]},
+        {"position": 16, "source_L": "elada coſta)", "source_H": "凝", "source_M": "gēn ī dam", "source_R": "ngīn [疑:ngīn/gin]", "tone_marks_M": ["T05 (平橫)", "T99 (污損難辨)", "T99 (污損難辨)"], "tone_marks_R": ["T99 (污損難辨)"]},
+        {"position": 17, "source_L": "Elegante.", "source_H": "象", "source_M": "chiô", "source_R": "siong", "tone_marks_M": ["T03 (尖頂帽)"], "tone_marks_R": ["T99 (污損難辨)"]},
+        {"position": 18, "source_L": "Elegancia rhetorica,", "source_H": "文", "source_M": "bûn", "source_R": "vûn", "tone_marks_M": ["T03 (尖頂帽)"], "tone_marks_R": ["T03 (尖頂帽)"]},
+        {"position": 19, "source_L": "Elegir bacio; [疑:bacio/vacio]", "source_H": "虛 [疑:虛/虚]", "source_M": "hy̌ hū", "source_R": "hy̌", "tone_marks_M": ["T04 (凹角)", "T05 (平橫)"], "tone_marks_R": ["T04 (凹角)"]}
+      ]
+    }
+  ]
+}

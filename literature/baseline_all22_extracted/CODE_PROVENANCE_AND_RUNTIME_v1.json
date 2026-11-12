@@ -1,0 +1,19 @@
+{
+  "created_utc": "2026-10-16T17:58:17.211040+00:00",
+  "script": "save_aust_v3.py",
+  "original_path": "/tmp/save_aust_v3.py",
+  "original_path_currently_exists": false,
+  "snapshot_original_path": "/workspace/scratch/3ee2b91a8980/minnan_continuation/handoff_21sources_20261016_v1/small_code_snapshots/save_aust_v3.py",
+  "snapshot_package_paths": [
+    "companions/22_AUST_Tomo211_fragments/external_references/small_code_snapshots/save_aust_v3.py",
+    "companions/92_prior21_handoff_history/small_code_snapshots/save_aust_v3.py"
+  ],
+  "bytes": 5043,
+  "sha256": "4a0d344a8ae125651cbd8d97f8efe0240dd5c0f77a46dd9ff2e4dfdac82b1023",
+  "matches_prior_recorded_original_SHA256": true,
+  "evidence_of_copy_and_static_integrity": "companions/92_prior21_handoff_history/WORK_RECORD_existing_artifact_verification_v1.md and actual_code_index_v1.json",
+  "runtime_status": "Unverified execution; retained as historical source-code evidence, not a validated executable tool.",
+  "runtime_evidence_found_in_checked_handoff_records": null,
+  "historical_script_executed_during_packaging": false,
+  "scope_note": "File presence, hash agreement, and matching output artifact names are not proof of an observed successful runtime."
+}

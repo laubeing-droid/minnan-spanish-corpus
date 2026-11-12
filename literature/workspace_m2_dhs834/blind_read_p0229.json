@@ -1,0 +1,450 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 229,
+  "historical_folio": 200,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0229/pdf_0229_300dpi.png",
+  "page_header": "C. arixe. [疑:carxe]",
+  "page_footer_printed": "- 200 -",
+  "page_footer_handwritten": "100",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Carmin.",
+      "source_H": "胭",
+      "source_M": "ién chŷ.",
+      "source_R": "yen",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Carmin.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ien¹ tsi³",
+        "tai_lo_standard": "ien-tsì",
+        "phonological_basis": "17c Dominican orthography conversion: ién (胭) -> ien¹ / ien; ch (?) -> tsi³ / tsì."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Carne.",
+      "source_H": "肉",
+      "source_M": "Bá. lach.",
+      "source_R": "gō",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Carne.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba¹",
+        "tai_lo_standard": "ba",
+        "phonological_basis": "17c Dominican orthography conversion: Bá (肉) -> ba¹ / ba."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "carne salada.",
+      "source_H": "鹹肉",
+      "source_M": "guiâm bá",
+      "source_R": "hân gō",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carne salada.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guiam³ ba¹",
+        "tai_lo_standard": "guiàm-ba",
+        "phonological_basis": "17c Dominican orthography conversion: guiâm (鹹) -> guiam³ / guiàm; bá (肉) -> ba¹ / ba."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "carne ~~[划删]~~ guerro.",
+      "source_H": "肉骨",
+      "source_M": "Bá cūt",
+      "source_R": "gō cūt",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carne ~~~~ guerro.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba¹ kut⁸",
+        "tai_lo_standard": "ba-ku̍t",
+        "phonological_basis": "17c Dominican orthography conversion: Bá (肉) -> ba¹ / ba; cūt (骨) -> kut⁸ / ku̍t."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "carne salada ~~valarga~~.",
+      "source_H": "糟肉",
+      "source_M": "châu bá",
+      "source_R": "châū gō",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carne salada ~~valarga~~.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsau³ ba¹",
+        "tai_lo_standard": "tsàu-ba",
+        "phonological_basis": "17c Dominican orthography conversion: châu (糟) -> tsau³ / tsàu; bá (肉) -> ba¹ / ba."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "carne colorada del ojo.",
+      "source_H": "目睭上紅紗",
+      "source_M": "Bag chiù chiō̃ ang se",
+      "source_R": "mo chiû siang hông sâ",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carne colorada del ojo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bak⁸ tsiu² tsĩõ¹ aŋ¹ se¹",
+        "tai_lo_standard": "ba̍k-tsiú-tsionn-ang-se",
+        "phonological_basis": "17c Dominican orthography conversion: Bag (目) -> bak⁸ / ba̍k; chiù (睭) -> tsiu² / tsiú; chiō̃ (上) -> tsĩõ¹ / tsionn; ang (紅) -> aŋ¹ / ang; se (紗) -> se¹ / se."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "carne hedionda",
+      "source_H": "臭豬肉",
+      "source_M": "châu Bag",
+      "source_R": "chiû gō",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carne hedionda",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsau³ bak⁷",
+        "tai_lo_standard": "tsàu-bak",
+        "phonological_basis": "17c Dominican orthography conversion: châu (臭) -> tsau³ / tsàu; Bag (豬) -> bak⁷ / bak."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Carne cruda.",
+      "source_H": "肉腥",
+      "source_M": "Bá se. ~~chī̃~~",
+      "source_R": "gō ceig",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Carne cruda.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba¹ se² tsĩ⁶",
+        "tai_lo_standard": "ba-sé-tsīnn",
+        "phonological_basis": "17c Dominican orthography conversion: Bá (肉) -> ba¹ / ba; se (腥) -> se² / sé; chī̃ (?) -> tsĩ⁶ / tsīnn."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "carne colorada del ojo. y tiene otros claros ynos",
+      "source_H": "障翳 [疑:停/障]",
+      "source_M": "chiāng ī.",
+      "source_R": "chiāng ī",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carne colorada del ojo. y tiene otros claros ynos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiaŋ⁵ i⁵",
+        "tai_lo_standard": "tsiâng-î",
+        "phonological_basis": "17c Dominican orthography conversion: chiāng (障) -> tsiaŋ⁵ / tsiâng; ī (翳) -> i⁵ / î."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "carne que sacrifican los padres —",
+      "source_H": "胙肉",
+      "source_M": "chū xiāng tâi",
+      "source_R": "chō gō",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carne que sacrifican los padres —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu⁵ dziaŋ⁵ tai³",
+        "tai_lo_standard": "tsû-jiâng-tài",
+        "phonological_basis": "17c Dominican orthography conversion: chū (胙) -> tsu⁵ / tsû; xiāng (肉) -> dziaŋ⁵ / jiâng; tâi (?) -> tai³ / tài."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "carne del cuerpo del animal",
+      "source_H": "肌膚",
+      "source_M": "quy hū.",
+      "source_R": "gǔin hǔ",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carne del cuerpo del animal",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki¹ hu⁵",
+        "tai_lo_standard": "ki-hû",
+        "phonological_basis": "17c Dominican orthography conversion: quy (肌) -> ki¹ / ki; hū (膚) -> hu⁵ / hû."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "carne que sacrifican al cielo",
+      "source_H": "腊天",
+      "source_M": "huān, tiēn,",
+      "source_R": "cǎn tiēn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carne que sacrifican al cielo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan⁵ tʰien⁵",
+        "tai_lo_standard": "huân-thiên",
+        "phonological_basis": "17c Dominican orthography conversion: huān (腊) -> huan⁵ / huân; tiēn (天) -> tʰien⁵ / thiên."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Carnex.",
+      "source_H": "羊羔牯",
+      "source_M": "yō̃ co cūi, cá̃g",
+      "source_R": "yâng càū cú",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Carnex.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ĩõ⁵ ko¹ kui⁵ kãk⁷",
+        "tai_lo_standard": "iônn-ko-kuî-kak",
+        "phonological_basis": "17c Dominican orthography conversion: yō̃ (羊) -> ĩõ⁵ / iônn; co (羔) -> ko¹ / ko; cūi (牯) -> kui⁵ / kuî; cá̃g (?) -> kãk⁷ / kak."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Carnicero.",
+      "source_H": "屠",
+      "source_M": "Tōū.",
+      "source_R": "chû°",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Carnicero.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tou⁵",
+        "tai_lo_standard": "tôu",
+        "phonological_basis": "17c Dominican orthography conversion: Tōū (屠) -> tou⁵ / tôu."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "carnicero.",
+      "source_H": "刣屠 [疑:刣/创]",
+      "source_M": "tāy tou",
+      "source_R": "tāy chû°",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carnicero.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "taiʔ⁷ tou⁵",
+        "tai_lo_standard": "taih-tôu",
+        "phonological_basis": "17c Dominican orthography conversion: tāy (刣) -> taiʔ⁷ / taih; tou (屠) -> tou⁵ / tôu."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "carnicero.",
+      "source_H": "屠户",
+      "source_M": "tou hōu",
+      "source_R": "chû° hū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "carnicero.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tou⁵ hou³",
+        "tai_lo_standard": "tôu-hòu",
+        "phonological_basis": "17c Dominican orthography conversion: tou (屠) -> tou⁵ / tôu; hōu (户) -> hou³ / hòu."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Carniceria.",
+      "source_H": "屠店",
+      "source_M": "tou tiam.",
+      "source_R": "chû° tiēn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Carniceria.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tou⁵ tiam³",
+        "tai_lo_standard": "tôu-tiàm",
+        "phonological_basis": "17c Dominican orthography conversion: tou (屠) -> tou⁵ / tôu; tiam (店) -> tiam³ / tiàm."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Carrnicerin.",
+      "source_H": "刣猪寮 [疑:刣/创]",
+      "source_M": "~~vē~~ tāy tū liāu",
+      "source_R": "tāy chû° liâu",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Carrnicerin.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ve⁵ tai⁵ tu⁵ liau⁶",
+        "tai_lo_standard": "vê-tâi-tû-liāu",
+        "phonological_basis": "17c Dominican orthography conversion: vē (刣) -> ve⁵ / vê; tāy (猪) -> tai⁵ / tâi; tū (寮) -> tu⁵ / tû; liāu (?) -> liau⁶ / liāu."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "[空]",
+      "source_H": "io Co La hurba del carnero [疑]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    }
+  ]
+}

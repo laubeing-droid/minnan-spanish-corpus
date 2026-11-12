@@ -1,0 +1,15 @@
+{
+  "ledger_type": "UNCERTAIN_GLOSS",
+  "description": "词义未定账：早期西语生僻词头、同格附加未知语源词（如 Cinco 伴随词 pram.）",
+  "entries": [
+    {
+      "entry_id": "DHS_P0256_CINCO_PRAM",
+      "source_id": "01_DHS_Hispanico_Sinicum",
+      "pdf_page": 256,
+      "term": "pram.",
+      "context": "Cinco | 五 | gou: ngou. pram.",
+      "status": "LANGUAGE_AFFILIATION_PENDING",
+      "notes": "非闽南语正词，可能为其他族群借词或编纂手注，保留原样不强行解释为闽南异读"
+    }
+  ]
+}

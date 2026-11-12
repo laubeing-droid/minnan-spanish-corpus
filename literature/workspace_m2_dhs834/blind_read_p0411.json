@@ -1,0 +1,428 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 411,
+  "historical_folio": 377,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0411/pdf_0411_300dpi.png",
+  "page_header": "E. ante. M.",
+  "page_footer_printed": "- 377 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "elegir a el mas digno .",
+      "source_H": "濃",
+      "source_M": "guiàu",
+      "source_R": "quiàn",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "elegir a el mas digno .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guiau²",
+        "tai_lo_standard": "guiáu",
+        "phonological_basis": "17c Dominican orthography conversion: guiàu (濃) -> guiau² / guiáu."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "elegir a el mas digno .",
+      "source_H": "高 選",
+      "source_M": "có goàn",
+      "source_R": "côn zùen",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "elegir a el mas digno .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko¹ goan²",
+        "tai_lo_standard": "ko-goán",
+        "phonological_basis": "17c Dominican orthography conversion: có (高) -> ko¹ / ko; goàn (選) -> goan² / goán."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "elegir el buen camino, y mal tino . =",
+      "source_H": "虛 心",
+      "source_M": "hý sīm: 1. hú sīm",
+      "source_R": "hý fīm",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "elegir el buen camino, y mal tino . =",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi¹ sim⁵ hu¹ sim⁶",
+        "tai_lo_standard": "hi-sîm-hu-sīm",
+        "phonological_basis": "17c Dominican orthography conversion: h (虛) -> hi¹ / hi; sīm (心) -> sim⁵ / sîm; hú (?) -> hu¹ / hu; sīm (?) -> sim⁶ / sīm."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "elegir la sepultura .",
+      "source_H": "看 [疑:看/省] 風 水",
+      "source_M": "ùa hōng zūy: 1. fūy",
+      "source_R": "cûn fōng zūi",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "elegir la sepultura .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ua² hɔŋ⁵ tsui⁵ fui⁶",
+        "tai_lo_standard": "uá-hông-tsuî-fuī",
+        "phonological_basis": "17c Dominican orthography conversion: ùa (看) -> ua² / uá; hōng (風) -> hɔŋ⁵ / hông; zūy (水) -> tsui⁵ / tsuî; fūy (?) -> fui⁶ / fuī."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "E.",
+      "source_H": "ante.",
+      "source_M": "M.",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "E.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mi¹",
+        "tai_lo_standard": "mi",
+        "phonological_basis": "17c Dominican orthography conversion: M (?) -> mi¹ / mi."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Embajador —",
+      "source_H": "使",
+      "source_M": "sû: 1. cap sây",
+      "source_R": "zū: 1. cǎp sày",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Embajador —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su³ kap⁷ sai³",
+        "tai_lo_standard": "sù-kap-sài",
+        "phonological_basis": "17c Dominican orthography conversion: sû (使) -> su³ / sù; cap (?) -> kap⁷ / kap; sây (?) -> sai³ / sài."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "embajador -",
+      "source_H": "差",
+      "source_M": "chě",
+      "source_R": "chǒy",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "embajador -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse²",
+        "tai_lo_standard": "tsé",
+        "phonological_basis": "17c Dominican orthography conversion: chě (差) -> tse² / tsé."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "embajador .",
+      "source_H": "欽 差",
+      "source_M": "quím chě.",
+      "source_R": "quìm chǒy",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "embajador .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kim¹ tse²",
+        "tai_lo_standard": "kim-tsé",
+        "phonological_basis": "17c Dominican orthography conversion: quím (欽) -> kim¹ / kim; chě (差) -> tse² / tsé."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "embajadori .",
+      "source_H": "差 使",
+      "source_M": "chě sǎy:",
+      "source_R": "chǒy sū.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "embajadori .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse² sai²",
+        "tai_lo_standard": "tsé-sái",
+        "phonological_basis": "17c Dominican orthography conversion: chě (差) -> tse² / tsé; sǎy (使) -> sai² / sái."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "embajador .",
+      "source_H": "未 [疑:未/来] 使",
+      "source_M": "lāy sây",
+      "source_R": "lāy zū: 1. zū",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "embajador .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lai⁵ sai³",
+        "tai_lo_standard": "lâi-sài",
+        "phonological_basis": "17c Dominican orthography conversion: lāy (未) -> lai⁵ / lâi; sây (使) -> sai³ / sài."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "embajador .",
+      "source_H": "未 [疑:未/来] 通",
+      "source_M": "lāy tōng.",
+      "source_R": "lāy tōng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "embajador .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lai⁵ tʰɔŋ⁵",
+        "tai_lo_standard": "lâi-thông",
+        "phonological_basis": "17c Dominican orthography conversion: lāy (未) -> lai⁵ / lâi; tōng (通) -> tʰɔŋ⁵ / thông."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "embajador",
+      "source_H": "使 者",
+      "source_M": "súchià.",
+      "source_R": "zūn chiě",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "embajador",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "suchia¹",
+        "tai_lo_standard": "suchia",
+        "phonological_basis": "17c Dominican orthography conversion: súchià (使) -> suchia¹ / suchia."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Embarcar, embarcar se -",
+      "source_H": "下",
+      "source_M": "Hè chūn lò chūn. bajar su navio",
+      "source_R": "hǐa",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Embarcar, embarcar se -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "he² tsun⁶ lo² tsun⁶",
+        "tai_lo_standard": "hé-tsūn-ló-tsūn",
+        "phonological_basis": "17c Dominican orthography conversion: Hè (下) -> he² / hé; chūn (?) -> tsun⁶ / tsūn; lò (?) -> lo² / ló; chūn (?) -> tsun⁶ / tsūn."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Embarcarse .",
+      "source_H": "按 舡 去",
+      "source_M": "ân chûn cû̃",
+      "source_R": "ngūn chūon qū",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Embarcarse .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "an³ tsun³ kʰũ³",
+        "tai_lo_standard": "àn-tsùn-khùnn",
+        "phonological_basis": "17c Dominican orthography conversion: ân (按) -> an³ / àn; chûn (舡) -> tsun³ / tsùn; cû̃ (去) -> kʰũ³ / khùnn."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Embarcarse, embarcar",
+      "source_H": "下 舡",
+      "source_M": "hě chūn",
+      "source_R": "hī chūen",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Embarcarse, embarcar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "he² tsun⁵",
+        "tai_lo_standard": "hé-tsûn",
+        "phonological_basis": "17c Dominican orthography conversion: hě (下) -> he² / hé; chūn (舡) -> tsun⁵ / tsûn."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "embarcarse -",
+      "source_H": "落 舡",
+      "source_M": "lò chūn",
+      "source_R": "lò chūen",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "embarcarse -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lo² tsun⁵",
+        "tai_lo_standard": "ló-tsûn",
+        "phonological_basis": "17c Dominican orthography conversion: lò (落) -> lo² / ló; chūn (舡) -> tsun⁵ / tsûn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Embarcadero, dose don al rii bus -",
+      "source_H": "津",
+      "source_M": "chīn.",
+      "source_R": "chièn",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Embarcadero, dose don al rii bus -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin⁵",
+        "tai_lo_standard": "tsîn",
+        "phonological_basis": "17c Dominican orthography conversion: chīn (津) -> tsin⁵ / tsîn."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "embarcadero —",
+      "source_H": "路 頭",
+      "source_M": "lòu tāu. bē tāu",
+      "source_R": "lū sēu",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "embarcadero —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lou² tʰau⁵ be⁶ tau⁶",
+        "tai_lo_standard": "lóu-thâu-bē-tāu",
+        "phonological_basis": "17c Dominican orthography conversion: lòu (路) -> lou² / lóu; tāu (頭) -> tʰau⁵ / thâu; bē (?) -> be⁶ / bē; tāu (?) -> tau⁶ / tāu."
+      }
+    }
+  ]
+}

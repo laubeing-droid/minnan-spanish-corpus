@@ -1,0 +1,485 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 318,
+  "historical_folio": 289,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0318/pdf_0318_300dpi.png",
+  "page_header": "C. ante. R.",
+  "page_footer_printed": "- 289 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 21,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Criar niños . [interl. giog]",
+      "source_H": "養",
+      "source_M": "iàng chỹc",
+      "source_R": "yàng",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Criar niños .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iaŋ² tsi¹ ki¹",
+        "tai_lo_standard": "iáng-tsi-ki",
+        "phonological_basis": "17c Dominican orthography conversion: iàng (養) -> iaŋ² / iáng; ch (?) -> tsi¹ / tsi; c (?) -> ki¹ / ki."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "criar niños .",
+      "source_H": "養",
+      "source_M": "io chỹc",
+      "source_R": "yàng",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar niños .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "io¹ tsi¹ ki¹",
+        "tai_lo_standard": "io-tsi-ki",
+        "phonological_basis": "17c Dominican orthography conversion: io (養) -> io¹ / io; ch (?) -> tsi¹ / tsi; c (?) -> ki¹ / ki."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "criar, producir la cosa fruta &c .",
+      "source_H": "發",
+      "source_M": "hûat.",
+      "source_R": "fà",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar, producir la cosa fruta &c .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huat⁷",
+        "tai_lo_standard": "huat",
+        "phonological_basis": "17c Dominican orthography conversion: hûat (發) -> huat⁷ / huat."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "criar, producir .",
+      "source_H": "生",
+      "source_M": "sé.",
+      "source_R": "sěng",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar, producir .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "se¹",
+        "tai_lo_standard": "se",
+        "phonological_basis": "17c Dominican orthography conversion: sé (生) -> se¹ / se."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "criar los hijos .",
+      "source_H": "鞠",
+      "source_M": "quiôg.",
+      "source_R": "quiô",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar los hijos .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiok⁷",
+        "tai_lo_standard": "kiok",
+        "phonological_basis": "17c Dominican orthography conversion: quiôg (鞠) -> kiok⁷ / kiok."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "criar animales, y hijos .",
+      "source_H": "飼",
+      "source_M": "chỹc",
+      "source_R": "chī",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar animales, y hijos .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi¹ ki¹",
+        "tai_lo_standard": "tsi-ki",
+        "phonological_basis": "17c Dominican orthography conversion: ch (飼) -> tsi¹ / tsi; c (?) -> ki¹ / ki."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "criar mascando la comida .",
+      "source_H": "哺",
+      "source_M": "pou.",
+      "source_R": "pû",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar mascando la comida .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pou¹",
+        "tai_lo_standard": "pou",
+        "phonological_basis": "17c Dominican orthography conversion: pou (哺) -> pou¹ / pou."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "criar, alimentar niños .",
+      "source_H": "撫養",
+      "source_M": "bû iàng",
+      "source_R": "bû yàng",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar, alimentar niños .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bu³ iaŋ²",
+        "tai_lo_standard": "bù-iáng",
+        "phonological_basis": "17c Dominican orthography conversion: bû (撫) -> bu³ / bù; iàng (養) -> iaŋ² / iáng."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "criar con deios -",
+      "source_H": "變化",
+      "source_M": "piên huâ",
+      "source_R": "pièn huâ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar con deios -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pien³ hua³",
+        "tai_lo_standard": "pièn-huà",
+        "phonological_basis": "17c Dominican orthography conversion: piên (變) -> pien³ / pièn; huâ (化) -> hua³ / huà."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "criar como Dios .",
+      "source_H": "法大",
+      "source_M": "hûat tôa",
+      "source_R": "fà tā",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar como Dios .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huat⁷ toa³",
+        "tai_lo_standard": "huat-toà",
+        "phonological_basis": "17c Dominican orthography conversion: hûat (法) -> huat⁷ / huat; tôa (大) -> toa³ / toà."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "criar niños .",
+      "source_H": "養育",
+      "source_M": "iàng iôg.",
+      "source_R": "yàng yô",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar niños .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iaŋ² iok⁷",
+        "tai_lo_standard": "iáng-iok",
+        "phonological_basis": "17c Dominican orthography conversion: iàng (養) -> iaŋ² / iáng; iôg (育) -> iok⁷ / iok."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "criar niños .",
+      "source_H": "養飼",
+      "source_M": "iô chỹc",
+      "source_R": "yàng chī",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar niños .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "io³ tsi¹ ki¹",
+        "tai_lo_standard": "iò-tsi-ki",
+        "phonological_basis": "17c Dominican orthography conversion: iô (養) -> io³ / iò; ch (飼) -> tsi¹ / tsi; c (?) -> ki¹ / ki."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "criar con leche .",
+      "source_H": "飼乳",
+      "source_M": "chỹc ny. L. Ley.",
+      "source_R": "chī jü",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar con leche .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi¹ ki¹ ni¹ li¹ lei¹",
+        "tai_lo_standard": "tsi-ki-ni-li-lei",
+        "phonological_basis": "17c Dominican orthography conversion: ch (飼) -> tsi¹ / tsi; c (乳) -> ki¹ / ki; ny (?) -> ni¹ / ni; L (?) -> li¹ / li; Ley (?) -> lei¹ / lei."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "criar con leche .",
+      "source_H": "飼人",
+      "source_M": "chỹc lâng",
+      "source_R": "chī jên",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar con leche .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi¹ ki¹ laŋ³",
+        "tai_lo_standard": "tsi-ki-làng",
+        "phonological_basis": "17c Dominican orthography conversion: ch (飼) -> tsi¹ / tsi; c (人) -> ki¹ / ki; lâng (?) -> laŋ³ / làng."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "criar como la ama .",
+      "source_H": "飼小子",
+      "source_M": "chỹc sêy giã",
+      "source_R": "chī siâu chī",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar como la ama .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi³ ki¹ sei³ gĩã¹",
+        "tai_lo_standard": "tsì-ki-sèi-giann",
+        "phonological_basis": "17c Dominican orthography conversion: ch (飼) -> tsi³ / tsì; c (小) -> ki¹ / ki; sêy (子) -> sei³ / sèi; giã (?) -> gĩã¹ / giann."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "criar como la ama, mascando la comida .",
+      "source_H": "哺小子",
+      "source_M": "pou sêy giã.",
+      "source_R": "pû siâu chī",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar como la ama, mascando la comida .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pou¹ sei³ gĩã¹",
+        "tai_lo_standard": "pou-sèi-giann",
+        "phonological_basis": "17c Dominican orthography conversion: pou (哺) -> pou¹ / pou; sêy (小) -> sei³ / sèi; giã (子) -> gĩã¹ / giann."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "criarse hasta ser muy grande .",
+      "source_H": "飼尔郎大[疑:郎/即]",
+      "source_M": "chỹc lî chiã tòa.",
+      "source_R": "chī ny chī tā",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criarse hasta ser muy grande .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi³ ki¹ li² tsĩã¹ toa²",
+        "tai_lo_standard": "tsì-ki-lí-tsiann-toá",
+        "phonological_basis": "17c Dominican orthography conversion: ch (飼) -> tsi³ / tsì; c (尔) -> ki¹ / ki; lî (郎) -> li² / lí; chiã (大) -> tsĩã¹ / tsiann; tòa (?) -> toa² / toá."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "criar ma[残]ho .",
+      "source_H": "上薄[疑:薄/薦]",
+      "source_M": "chiô pu.",
+      "source_R": "siang mu",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar maho .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsio³ pu¹",
+        "tai_lo_standard": "tsiò-pu",
+        "phonological_basis": "17c Dominican orthography conversion: chiô (上) -> tsio³ / tsiò; pu (薄) -> pu¹ / pu."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "criar ma[残]ho .",
+      "source_H": "生鬚",
+      "source_M": "sé chôu.",
+      "source_R": "sěng chiu",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar maho .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "se¹ tsou³",
+        "tai_lo_standard": "se-tsòu",
+        "phonological_basis": "17c Dominican orthography conversion: sé (生) -> se¹ / se; chôu (鬚) -> tsou³ / tsòu."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "criar puercos .",
+      "source_H": "糞飼猪[疑:糞/料]",
+      "source_M": "pûn chỹc tí.",
+      "source_R": "cām chī chŷ",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar puercos .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pun³ tsi¹ ki¹ ti¹",
+        "tai_lo_standard": "pùn-tsi-ki-ti",
+        "phonological_basis": "17c Dominican orthography conversion: pûn (糞) -> pun³ / pùn; ch (飼) -> tsi¹ / tsi; c (猪) -> ki¹ / ki; tí (?) -> ti¹ / ti."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "criar callos en las manos .",
+      "source_H": "手成癬[疑:癬/癩]",
+      "source_M": "chiũ chiã lâng.",
+      "source_R": "chiu chēng pân",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "criar callos en las manos .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsĩũ¹ tsĩã¹ laŋ³",
+        "tai_lo_standard": "tsiunn-tsiann-làng",
+        "phonological_basis": "17c Dominican orthography conversion: chiũ (手) -> tsĩũ¹ / tsiunn; chiã (成) -> tsĩã¹ / tsiann; lâng (癬) -> laŋ³ / làng."
+      }
+    }
+  ]
+}

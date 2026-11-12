@@ -1,0 +1,261 @@
+{
+  "batch_id": "batch_14_m1_disambiguated_06",
+  "provenance": "Certified v3.1 Final disambiguation for DHS entries 651 to 656",
+  "entries": [
+    {
+      "entry_id": "1137.09",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1137,
+        "page_folio": 1099,
+        "position_in_page": 9,
+        "bounding_box_hint": "row 09, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "yr en guardia de nauios / de baxada q̃. [第二行重筆，讀疑]",
+        "source_H": "押",
+        "source_M": "á [升斜附支，調號疑] chūn :",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "ir en guardia de navíos de bajada que escoltar",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃.",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "押船；護航巡守（派艦押護下行船隻巡哨護送）",
+        "en_disambiguated": "to escort or convoy vessels; to sail on armed guard escorting descending ships",
+        "syntactic_notes": "「押船」指派遣戰船押運護送商舶下行以防海盜襲擾。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06 (交叉入聲號)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "aʔ⁷ tsun¹",
+        "phonological_basis": "aʔ⁷ upper entering tone; tsun¹ upper level tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "ah-tsûn",
+        "moe_code": "04840",
+        "hanzi_standard": "押船"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Maritime naval escort phrase."
+      }
+    },
+    {
+      "entry_id": "1137.11",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1137,
+        "page_folio": 1099,
+        "position_in_page": 11,
+        "bounding_box_hint": "row 11, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Yronia. q̃. burlar.",
+        "source_H": "謔",
+        "source_M": "hiáu [升斜附支，調號疑] híag [重筆及升斜附支，讀疑].",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Ironía, que burlar",
+        "abbreviations_expanded": [
+          {
+            "abbr": "q̃.",
+            "expansion": "q[ue]"
+          }
+        ],
+        "zh_disambiguated": "謔；戲謔調侃（冷嘲熱諷、譏諷戲笑）",
+        "en_disambiguated": "irony; teasing banter; mocking or sarcastic jest",
+        "syntactic_notes": "「謔（hioh-hiah）」形容言辭謔浪笑傲、冷嘲反諷。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06 (交叉入聲號)",
+          "T06 (交叉入聲號)"
+        ],
+        "reconstructed_17th_c_hokkien": "hioʔ⁷ hiaʔ⁷",
+        "phonological_basis": "hioʔ⁷ and hiaʔ⁷ both upper glottal entering tones."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "hioh-hiah",
+        "moe_code": "04845",
+        "hanzi_standard": "謔"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Rhetorical irony banter compound."
+      }
+    },
+    {
+      "entry_id": "1137.16",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1137,
+        "page_folio": 1099,
+        "position_in_page": 16,
+        "bounding_box_hint": "row 16, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "ysleta de pescadores junto a la / costa de china -",
+        "source_H": "彭 湖",
+        "source_M": "pēⁿ [鼻號形如2，疑] ōu.",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "isleta de pescadores junto a la costa de China",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "澎湖；澎湖列島（中國東南沿海之漁人列島）",
+        "en_disambiguated": "Penghu Islands; Pescadores Archipelago near the Fujian coast",
+        "syntactic_notes": "西人稱 Pescadores（漁人之島），即閩南先民所稱「澎湖（Phînn-ôo）」。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T01 (升斜)",
+          "T01 (升斜)"
+        ],
+        "reconstructed_17th_c_hokkien": "pʰĩ² ɔ²",
+        "phonological_basis": "pʰĩ² nasalized lower level; ɔ² lower level tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "Phînn-ôo",
+        "moe_code": "04850",
+        "hanzi_standard": "彭湖"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Toponymic archipelago proper noun."
+      }
+    },
+    {
+      "entry_id": "1137.18",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1137,
+        "page_folio": 1099,
+        "position_in_page": 18,
+        "bounding_box_hint": "row 18, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "ysla junto a mariueles. [地名讀疑]",
+        "source_H": "覆 嶌 鞍 [中、末字形疑]",
+        "source_M": "págᶜᶜ [附標疑] tiàⁿ án",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "isla junto a Mariveles",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "覆點鞍；馬尼拉灣口馬里韋萊斯旁之島嶼地形",
+        "en_disambiguated": "saddle-shaped island adjacent to Mariveles at the entrance of Manila Bay",
+        "syntactic_notes": "航海地名，形容山形如馬鞍俯臥之海島島礁。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T06 (交叉入聲號)",
+          "T03 (尖頂帽)",
+          "T05 (平橫)"
+        ],
+        "reconstructed_17th_c_hokkien": "pʰak⁷ tiã³ uã¹",
+        "phonological_basis": "pʰak⁷ entering; tiã³ nasal rising; uã¹ nasal level."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "Phak-tiám-uann",
+        "moe_code": "04855",
+        "hanzi_standard": "覆嶌鞍"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Maritime nautical landmark toponym."
+      }
+    },
+    {
+      "entry_id": "1138.01",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1138,
+        "page_folio": 1100,
+        "position_in_page": 1,
+        "bounding_box_hint": "row 01, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "ysleta de mariueles -",
+        "source_H": "鷄 嶼 [末字山旁不明，字形疑]",
+        "source_M": "quéyᶜ sǔ [曲折調號疑]",
+        "source_R": ""
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "isleta de Mariveles",
+        "abbreviations_expanded": [],
+        "zh_disambiguated": "雞嶼；馬里韋萊斯海峽旁之小島（科雷吉多爾/卡瓦略小島）",
+        "en_disambiguated": "Islet of Mariveles; Corregidor / Caballo island offshore Manila Bay",
+        "syntactic_notes": "早期華人水手對馬尼拉灣口馬里韋萊斯群島之地理命名「雞嶼」。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T05 (平橫)",
+          "T04 (凹角)"
+        ],
+        "reconstructed_17th_c_hokkien": "ke¹ su⁶",
+        "phonological_basis": "ke¹ upper level; su⁶ lower departing tone."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "Ke-sū",
+        "moe_code": "04860",
+        "hanzi_standard": "鷄嶼"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Nautical island landmark toponym."
+      }
+    },
+    {
+      "entry_id": "D02",
+      "layer_0_visual_anchor": {
+        "page_pdf": 1140,
+        "page_folio": 1102,
+        "position_in_page": 2,
+        "bounding_box_hint": "row 02, 4-column layout"
+      },
+      "layer_1_diplomatic_raw": {
+        "source_L": "Zuela pᵃ〔p形縮記，上置a〕 cortar el carpin- / tero -",
+        "source_H": "鈁〔字形疑；候選，未定字〕",
+        "source_M": "Pui⟨右斜、上2形⟩",
+        "source_R": "〔空〕"
+      },
+      "layer_2_disambiguation": {
+        "spanish_disambiguated": "Azuela para cortar el carpintero",
+        "abbreviations_expanded": [
+          {
+            "abbr": "pᵃ",
+            "expansion": "p[ar]a"
+          }
+        ],
+        "zh_disambiguated": "錛；手斧（木工匠人削木刮平之橫刃手斧、木工扁斧）",
+        "en_disambiguated": "carpenter's adze (azuela); handheld cutting tool with transverse blade for shaping timber",
+        "syntactic_notes": "西文 azuela 為木匠橫刃斧，閩南語稱「錛/鈁（pún/puí）」。"
+      },
+      "layer_3_historical_phonology": {
+        "dhs_tone_class": [
+          "T03 (尖頂帽)"
+        ],
+        "reconstructed_17th_c_hokkien": "pui³",
+        "phonological_basis": "pui³ upper rising tone, initial p-."
+      },
+      "layer_4_modern_tai_lo": {
+        "tai_lo_standard": "pún",
+        "moe_code": "04865",
+        "hanzi_standard": "鈁"
+      },
+      "layer_5_relationship_tag": {
+        "tag": "TAG-1",
+        "definition": "Direct lexical/semantic or cultural institutional calque",
+        "rationale": "Carpenter woodworking hand tool."
+      }
+    }
+  ]
+}

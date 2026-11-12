@@ -1,0 +1,516 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 103,
+  "historical_folio": 74,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0103/pdf_0103_300dpi.png",
+  "page_header": "A. ante. N.",
+  "page_footer_printed": "- 74 -",
+  "page_footer_handwritten": "37",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "animal domestico.",
+      "source_H": "出袖 [疑:袖/祖]",
+      "source_M": "chūñ fīū",
+      "source_R": "chūt jiñ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animal domestico.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰũn⁵ fiu⁵",
+        "tai_lo_standard": "tshûn-fîu",
+        "phonological_basis": "17c Dominican orthography conversion: chūñ (出) -> tsʰũn⁵ / tshûn; fīū (袖) -> fiu⁵ / fîu."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "animal domestico",
+      "source_H": "六畜",
+      "source_M": "liōñ chiōg,",
+      "source_R": "loc chō",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animal domestico",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lĩõn⁵ tsiok⁷",
+        "tai_lo_standard": "liôn-tsiok",
+        "phonological_basis": "17c Dominican orthography conversion: liōñ (六) -> lĩõn⁵ / liôn; chiōg (畜) -> tsiok⁷ / tsiok."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "animal macho -",
+      "source_H": "雄",
+      "source_M": "hiōñ ; cang : còu",
+      "source_R": "hiòng",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animal macho -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hĩõn⁵ kaŋ⁶ kou²",
+        "tai_lo_standard": "hiôn-kāng-kóu",
+        "phonological_basis": "17c Dominican orthography conversion: hiōñ (雄) -> hĩõn⁵ / hiôn; cang (?) -> kaŋ⁶ / kāng; còu (?) -> kou² / kóu."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "a[残]",
+      "source_H": "牯 [疑:牯/牡]",
+      "source_M": "[残]",
+      "source_R": "cù",
+      "tone_marks_M": [],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "a",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "animal hembra",
+      "source_H": "母",
+      "source_M": "gū bǒ:",
+      "source_R": "mù",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animal hembra",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gu⁵ bo⁶",
+        "tai_lo_standard": "gû-bō",
+        "phonological_basis": "17c Dominican orthography conversion: gū (母) -> gu⁵ / gû; bǒ (?) -> bo⁶ / bō."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "animal ganescria en casa.",
+      "source_H": "頭牲",
+      "source_M": "chiū lāu thīū sēng.",
+      "source_R": "keñ fēñg",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animal ganescria en casa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰiu⁵ lau⁵ tʰiu⁶ seŋ⁶",
+        "tai_lo_standard": "tshiû-lâu-thiū-sēng",
+        "phonological_basis": "17c Dominican orthography conversion: chiū (頭) -> tsʰiu⁵ / tshiû; lāu (牲) -> lau⁵ / lâu; thīū (?) -> tʰiu⁶ / thiū; sēng (?) -> seŋ⁶ / sēng."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "animal en celos -",
+      "source_H": "風乱走 [疑:乱/亂]",
+      "source_M": "hōng loān chǎu.",
+      "source_R": "hǒng loān chèiñ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animal en celos -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ⁵ loan⁵ tsau²",
+        "tai_lo_standard": "hông-loân-tsáu",
+        "phonological_basis": "17c Dominican orthography conversion: hōng (風) -> hɔŋ⁵ / hông; loān (乱) -> loan⁵ / loân; chǎu (走) -> tsau² / tsáu."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "animal [残]",
+      "source_H": "獸",
+      "source_M": "[残] sīt.",
+      "source_R": "sīñ",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animal",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sit⁷",
+        "tai_lo_standard": "sit",
+        "phonological_basis": "17c Dominican orthography conversion: sīt (獸) -> sit⁷ / sit."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "animales ferozes connarios entre si.",
+      "source_H": "獸相食",
+      "source_M": "sū siāng sit,",
+      "source_R": "sīñ siāng sī",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animales ferozes connarios entre si.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su⁵ siaŋ⁵ sit⁸",
+        "tai_lo_standard": "sû-siâng-si̍t",
+        "phonological_basis": "17c Dominican orthography conversion: sū (獸) -> su⁵ / sû; siāng (相) -> siaŋ⁵ / siâng; sit (食) -> sit⁸ / si̍t."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "animal feroz. fiera",
+      "source_H": "惡獸",
+      "source_M": "of sūñ.",
+      "source_R": "oc sīñ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animal feroz. fiera",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "of⁵ sũn⁵",
+        "tai_lo_standard": "ôf-sûn",
+        "phonological_basis": "17c Dominican orthography conversion: of (惡) -> of⁵ / ôf; sūñ (獸) -> sũn⁵ / sûn."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Animar.",
+      "source_H": "勉 [疑:勉/兔]",
+      "source_M": "bièn.",
+      "source_R": "mieá",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Animar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bien²",
+        "tai_lo_standard": "bién",
+        "phonological_basis": "17c Dominican orthography conversion: bièn (勉) -> bien² / bién."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "animar, dar prissa",
+      "source_H": "勉励 [疑:励/厉]",
+      "source_M": "biēñ lēy",
+      "source_R": "mièn lī",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animar, dar prissa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bĩẽn⁵ lei⁵",
+        "tai_lo_standard": "biên-lêi",
+        "phonological_basis": "17c Dominican orthography conversion: biēñ (勉) -> bĩẽn⁵ / biên; lēy (励) -> lei⁵ / lêi."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "animarse a cañ fuerças de fi.",
+      "source_H": "竭力",
+      "source_M": "guièt ley",
+      "source_R": "guièt lig",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animarse a cañ fuerças de fi.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guiet⁷ lei¹",
+        "tai_lo_standard": "guiet-lei",
+        "phonological_basis": "17c Dominican orthography conversion: guièt (竭) -> guiet⁷ / guiet; ley (力) -> lei¹ / lei."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "animera, hazer los pudiere",
+      "source_H": "出力",
+      "source_M": "chūt lat",
+      "source_R": "chūt līg",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animera, hazer los pudiere",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰut⁷ lat⁸",
+        "tai_lo_standard": "tshut-la̍t",
+        "phonological_basis": "17c Dominican orthography conversion: chūt (出) -> tsʰut⁷ / tshut; lat (力) -> lat⁸ / la̍t."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Animar, animo",
+      "source_H": "膽",
+      "source_M": "tāñ.",
+      "source_R": "tàn",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Animar, animo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tãn⁵",
+        "tai_lo_standard": "tân",
+        "phonological_basis": "17c Dominican orthography conversion: tāñ (膽) -> tãn⁵ / tân."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Animo y prudencia.",
+      "source_H": "膽智",
+      "source_M": "tāñ chī.",
+      "source_R": "tàn chī.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Animo y prudencia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tãn⁵ tsi⁵",
+        "tai_lo_standard": "tân-tsî",
+        "phonological_basis": "17c Dominican orthography conversion: tāñ (膽) -> tãn⁵ / tân; chī (智) -> tsi⁵ / tsî."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "animo grande -",
+      "source_H": "膽大",
+      "source_M": "tāñ tōa",
+      "source_R": "tàn tà",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo grande -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tãn⁵ toa²",
+        "tai_lo_standard": "tân-toá",
+        "phonological_basis": "17c Dominican orthography conversion: tāñ (膽) -> tãn⁵ / tân; tōa (大) -> toa² / toá."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "animo y animarse - mufarse:",
+      "source_H": "發憤",
+      "source_M": "huāt hūn.",
+      "source_R": "fān fūn",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo y animarse - mufarse:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huat⁷ hun⁵",
+        "tai_lo_standard": "huat-hûn",
+        "phonological_basis": "17c Dominican orthography conversion: huāt (發) -> huat⁷ / huat; hūn (憤) -> hun⁵ / hûn."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "animo valentia -",
+      "source_H": "勇",
+      "source_M": "iòng.",
+      "source_R": "yòng",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo valentia -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ioŋ²",
+        "tai_lo_standard": "ióng",
+        "phonological_basis": "17c Dominican orthography conversion: iòng (勇) -> ioŋ² / ióng."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "animo, animoso, fuerças, vi[残].",
+      "source_H": "勇猛",
+      "source_M": "iòng bēñg.",
+      "source_R": "yòng",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo, animoso, fuerças, vi.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ioŋ² bẽŋ⁵",
+        "tai_lo_standard": "ióng-bêng",
+        "phonological_basis": "17c Dominican orthography conversion: iòng (勇) -> ioŋ² / ióng; bēñg (猛) -> bẽŋ⁵ / bêng."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "animoso, valenton -",
+      "source_H": "勇勇年",
+      "source_M": "iōng iōng nī.",
+      "source_R": "yòng yòng niēñ",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animoso, valenton -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ioŋ⁵ ioŋ⁵ ni⁵",
+        "tai_lo_standard": "iông-iông-nî",
+        "phonological_basis": "17c Dominican orthography conversion: iōng (勇) -> ioŋ⁵ / iông; iōng (勇) -> ioŋ⁵ / iông; nī (年) -> ni⁵ / nî."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "animo y concito.",
+      "source_H": "勇銳",
+      "source_M": "iòng xūè.",
+      "source_R": "yòng xūī",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "animo y concito.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ioŋ² dzue²",
+        "tai_lo_standard": "ióng-jué",
+        "phonological_basis": "17c Dominican orthography conversion: iòng (勇) -> ioŋ² / ióng; xūè (銳) -> dzue² / jué."
+      }
+    }
+  ]
+}
