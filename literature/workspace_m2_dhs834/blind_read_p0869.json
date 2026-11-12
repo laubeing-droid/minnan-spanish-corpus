@@ -1,0 +1,428 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 869,
+  "historical_folio": 831,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0869/pdf_0869_300dpi.png",
+  "page_header": "L. ante. U.",
+  "page_footer_printed": "- 831 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "que cosa?",
+      "source_H": "奈何",
+      "source_M": "may ho",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que cosa?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mai² ho⁵",
+        "tai_lo_standard": "mái-hô",
+        "phonological_basis": "17c Dominican orthography conversion: may (奈) -> mai² / mái; ho (何) -> ho⁵ / hô."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "que cosa?",
+      "source_H": "是也物",
+      "source_M": "sy my my",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que cosa?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si³ mi¹ mi¹",
+        "tai_lo_standard": "sì-mi-mi",
+        "phonological_basis": "17c Dominican orthography conversion: sy (是) -> si³ / sì; my (也) -> mi¹ / mi; my (物) -> mi¹ / mi."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "que?",
+      "source_H": "見教",
+      "source_M": "guien cau.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guien³ kau³",
+        "tai_lo_standard": "guièn-kàu",
+        "phonological_basis": "17c Dominican orthography conversion: guien (見) -> guien³ / guièn; cau (教) -> kau³ / kàu."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "que negocio?",
+      "source_H": "亚是也事",
+      "source_M": "a sy my su.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que negocio?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "a⁵ si³ mi¹ su⁶",
+        "tai_lo_standard": "â-sì-mi-sū",
+        "phonological_basis": "17c Dominican orthography conversion: a (亚) -> a⁵ / â; sy (是) -> si³ / sì; my (也) -> mi¹ / mi; su (事) -> su⁶ / sū."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "que?",
+      "source_H": "某件事",
+      "source_M": "boi quia su",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "boi² kia¹ su⁶",
+        "tai_lo_standard": "bói-kia-sū",
+        "phonological_basis": "17c Dominican orthography conversion: boi (某) -> boi² / bói; quia (件) -> kia¹ / kia; su (事) -> su⁶ / sū."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "que?",
+      "source_H": "事路",
+      "source_M": "su lou.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su⁶ lou²",
+        "tai_lo_standard": "sū-lóu",
+        "phonological_basis": "17c Dominican orthography conversion: su (事) -> su⁶ / sū; lou (路) -> lou² / lóu."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "que?",
+      "source_H": "幾",
+      "source_M": "xoa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzoa²",
+        "tai_lo_standard": "joá",
+        "phonological_basis": "17c Dominican orthography conversion: xoa (幾) -> dzoa² / joá."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "que quiees?",
+      "source_H": "要是也事",
+      "source_M": "bue sy mi su.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que quiees?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue³ si¹ mi¹ su⁶",
+        "tai_lo_standard": "buè-si-mi-sū",
+        "phonological_basis": "17c Dominican orthography conversion: bue (要) -> bue³ / buè; sy (是) -> si¹ / si; mi (也) -> mi¹ / mi; su (事) -> su⁶ / sū."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "que quieri?",
+      "source_H": "有是也見教",
+      "source_M": "v sy my guien cau.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que quieri?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "v² si¹ mi³ guien³ kau¹",
+        "tai_lo_standard": "v́-si-mì-guièn-kau",
+        "phonological_basis": "17c Dominican orthography conversion: v (有) -> v² / v́; sy (是) -> si¹ / si; my (也) -> mi³ / mì; guien (見) -> guien³ / guièn; cau (教) -> kau¹ / kau."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "que quieri? respondiendo.",
+      "source_H": "嗳亚",
+      "source_M": "ay ya",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que quieri? respondiendo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ai³ ia¹",
+        "tai_lo_standard": "ài-ia",
+        "phonological_basis": "17c Dominican orthography conversion: ay (嗳) -> ai³ / ài; ya (亚) -> ia¹ / ia."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "que pecado fez?/? hechos?",
+      "source_H": "生罪靠",
+      "source_M": "sec goe cua.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que pecado fez?/? hechos?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sek⁷ goe² kua³",
+        "tai_lo_standard": "sek-goé-kuà",
+        "phonological_basis": "17c Dominican orthography conversion: sec (生) -> sek⁷ / sek; goe (罪) -> goe² / goé; cua (靠) -> kua³ / kuà."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "?honbre este? de calidad?",
+      "source_H": "是也城人",
+      "source_M": "sy my sia lang.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "?honbre este? de calidad?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si² mi¹ sia⁵ laŋ⁵",
+        "tai_lo_standard": "sí-mi-siâ-lâng",
+        "phonological_basis": "17c Dominican orthography conversion: sy (是) -> si² / sí; my (也) -> mi¹ / mi; sia (城) -> sia⁵ / siâ; lang (人) -> laŋ⁵ / lâng."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "que dia?",
+      "source_H": "值一日",
+      "source_M": "ry chit xit.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que dia?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ri¹ tsit⁷ dzit⁸",
+        "tai_lo_standard": "ri-tsit-ji̍t",
+        "phonological_basis": "17c Dominican orthography conversion: ry (值) -> ri¹ / ri; chit (一) -> tsit⁷ / tsit; xit (日) -> dzit⁸ / ji̍t."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "que ?an ?rables?",
+      "source_H": "幾却",
+      "source_M": "xoa quep.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que ?an ?rables?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzoa² kep⁷",
+        "tai_lo_standard": "joá-kep",
+        "phonological_basis": "17c Dominican orthography conversion: xoa (幾) -> dzoa² / joá; quep (却) -> kep⁷ / kep."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "que hacer?",
+      "source_H": "做也",
+      "source_M": "chio my.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que hacer?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsio³ mi¹",
+        "tai_lo_standard": "tsiò-mi",
+        "phonological_basis": "17c Dominican orthography conversion: chio (做) -> tsio³ / tsiò; my (也) -> mi¹ / mi."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "que meade hacer?",
+      "source_H": "杂我何",
+      "source_M": "nay gua ho.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que meade hacer?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "nai² gua³ ho⁵",
+        "tai_lo_standard": "nái-guà-hô",
+        "phonological_basis": "17c Dominican orthography conversion: nay (杂) -> nai² / nái; gua (我) -> gua³ / guà; ho (何) -> ho⁵ / hô."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "que saber?",
+      "source_H": "識是也",
+      "source_M": "ban sy my.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que saber?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ban³ si² mi³",
+        "tai_lo_standard": "bàn-sí-mì",
+        "phonological_basis": "17c Dominican orthography conversion: ban (識) -> ban³ / bàn; sy (是) -> si² / sí; my (也) -> mi³ / mì."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "que era, ano, mes nacio!",
+      "source_H": "貴造",
+      "source_M": "cui cho",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que era, ano, mes nacio!",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kui³ tso²",
+        "tai_lo_standard": "kuì-tsó",
+        "phonological_basis": "17c Dominican orthography conversion: cui (貴) -> kui³ / kuì; cho (造) -> tso² / tsó."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "que quiere, que manda vm.",
+      "source_H": "執事",
+      "source_M": "chip su",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que quiere, que manda vm.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsip⁷ su⁶",
+        "tai_lo_standard": "tsip-sū",
+        "phonological_basis": "17c Dominican orthography conversion: chip (執) -> tsip⁷ / tsip; su (事) -> su⁶ / sū."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "que inconueniente ay?",
+      "source_H": "何方",
+      "source_M": "ho hong.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que inconueniente ay?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho⁵ hɔŋ²",
+        "tai_lo_standard": "hô-hóng",
+        "phonological_basis": "17c Dominican orthography conversion: ho (何) -> ho⁵ / hô; hong (方) -> hɔŋ² / hóng."
+      }
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 888,
+  "historical_folio": 850,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0888/pdf_0888_300dpi.png",
+  "page_header": "R. ante.",
+  "page_footer_printed": "- 850 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "reboloso maltez ero- [疑:maltez ero/malterzen]",
+      "source_H": "鵌頭不讓人 [疑:鵌/鵰]",
+      "source_M": "tiau tam ni lang [T99:第三四音节上方另有涂改墨迹]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "reboloso maltez ero-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiau¹ tʰam³ ni³ laŋ³ ti¹",
+        "tai_lo_standard": "tiau-thàm-nì-làng-ti",
+        "phonological_basis": "17c Dominican orthography conversion: tiau (鵌) -> tiau¹ / tiau; tam (頭) -> tʰam³ / thàm; ni (不) -> ni³ / nì; lang (讓) -> laŋ³ / làng; T (人) -> ti¹ / ti."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "reboloso e leitista, perjudicial- [疑:e leitista 拼写难辨]",
+      "source_H": "刁人",
+      "source_M": "tiau lang.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "reboloso e leitista, perjudicial-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiau¹ laŋ³",
+        "tai_lo_standard": "tiau-làng",
+        "phonological_basis": "17c Dominican orthography conversion: tiau (刁) -> tiau¹ / tiau; lang (人) -> laŋ³ / làng."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Reboluer, emboluer.",
+      "source_H": "捒 [疑:捒/揀]",
+      "source_M": "chau.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Reboluer, emboluer.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsau¹",
+        "tai_lo_standard": "tsau",
+        "phonological_basis": "17c Dominican orthography conversion: chau (捒) -> tsau¹ / tsau."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "reboluer, emboluer",
+      "source_H": "紛",
+      "source_M": "hun.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "reboluer, emboluer",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hun³",
+        "tai_lo_standard": "hùn",
+        "phonological_basis": "17c Dominican orthography conversion: hun (紛) -> hun³ / hùn."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "rebolver enconpalos- [疑:enconpalos 拼写难辨]",
+      "source_H": "撥",
+      "source_M": "chu:choar m-choa. [疑:chu/tu]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rebolver enconpalos-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu³ tsoarʔ⁷ mi¹ tsoa¹ tsu¹ tu¹",
+        "tai_lo_standard": "tsù-tsoarh-mi-tsoa-tsu-tu",
+        "phonological_basis": "17c Dominican orthography conversion: chu (撥) -> tsu³ / tsù; choar (?) -> tsoarʔ⁷ / tsoarh; m (?) -> mi¹ / mi; choa (?) -> tsoa¹ / tsoa; chu (?) -> tsu¹ / tsu; tu (?) -> tu¹ / tu."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "rebolver enconpalo ~ [疑:enconpalo 拼写难辨]",
+      "source_H": "繩",
+      "source_M": "chu [疑:chu/tu] （圈选）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rebolver enconpalo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu¹ tsu¹ tu¹",
+        "tai_lo_standard": "tsu-tsu-tu",
+        "phonological_basis": "17c Dominican orthography conversion: chu (繩) -> tsu¹ / tsu; chu (?) -> tsu¹ / tsu; tu (?) -> tu¹ / tu."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "rebolver el agua enturiando la.",
+      "source_H": "露",
+      "source_M": "lai lou.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rebolver el agua enturiando la.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lai⁵ lou⁶",
+        "tai_lo_standard": "lâi-lōu",
+        "phonological_basis": "17c Dominican orthography conversion: lai (露) -> lai⁵ / lâi; lou (?) -> lou⁶ / lōu."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "rebolver el agua -",
+      "source_H": "捲",
+      "source_M": "guiau.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rebolver el agua -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guiau²",
+        "tai_lo_standard": "guiáu",
+        "phonological_basis": "17c Dominican orthography conversion: guiau (捲) -> guiau² / guiáu."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "rebolverse mas con algo .",
+      "source_H": "盤",
+      "source_M": "poan. （圈选）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rebolverse mas con algo .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "poan¹",
+        "tai_lo_standard": "poan",
+        "phonological_basis": "17c Dominican orthography conversion: poan (盤) -> poan¹ / poan."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "rebolver contradecir -",
+      "source_H": "叛",
+      "source_M": "poan.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rebolver contradecir -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "poan²",
+        "tai_lo_standard": "poán",
+        "phonological_basis": "17c Dominican orthography conversion: poan (叛) -> poan² / poán."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "rebolver andara el rededor = o consoable ~ [疑:o consoable 拼写难辨]",
+      "source_H": "轉",
+      "source_M": "choan: [残(涂改块)] : lin hin.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rebolver andara el rededor = o consoable ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsoan¹ lin¹ hin³",
+        "tai_lo_standard": "tsoan-lin-hìn",
+        "phonological_basis": "17c Dominican orthography conversion: choan (轉) -> tsoan¹ / tsoan; lin (?) -> lin¹ / lin; hin (?) -> hin³ / hìn."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "rebolver contradecir .",
+      "source_H": "盤 桃 [疑:桃/逃]",
+      "source_M": "poan:poan tau:poan to. Uno con otro.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T04 (凹角)",
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rebolver contradecir .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "poan¹ poan² tau² poan⁶ to³ uno¹ kon¹ otro¹",
+        "tai_lo_standard": "poan-poán-táu-poān-tò-uno-kon-otro",
+        "phonological_basis": "17c Dominican orthography conversion: poan (盤) -> poan¹ / poan; poan (桃) -> poan² / poán; tau (?) -> tau² / táu; poan (?) -> poan⁶ / poān; to (?) -> to³ / tò; Uno (?) -> uno¹ / uno; con (?) -> kon¹ / kon; otro (?) -> otro¹ / otro."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "rebolver contradecir -",
+      "source_H": "悖 謬",
+      "source_M": "pue bu hin xin. [疑:hin xin/hin lin]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rebolver contradecir -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pue² bu³ hin⁶ dzin⁶ hin¹ dzin¹ hin¹ lin¹",
+        "tai_lo_standard": "pué-bù-hīn-jīn-hin-jin-hin-lin",
+        "phonological_basis": "17c Dominican orthography conversion: pue (悖) -> pue² / pué; bu (謬) -> bu³ / bù; hin (?) -> hin⁶ / hīn; xin (?) -> dzin⁶ / jīn; hin (?) -> hin¹ / hin; xin (?) -> dzin¹ / jin; hin (?) -> hin¹ / hin; lin (?) -> lin¹ / lin."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "rebolver contradecir -",
+      "source_H": "悖 逆",
+      "source_M": "pue gieg ..",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rebolver contradecir -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pue² giek⁸",
+        "tai_lo_standard": "pué-gie̍k",
+        "phonological_basis": "17c Dominican orthography conversion: pue (悖) -> pue² / pué; gieg (逆) -> giek⁸ / gie̍k."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "rebolver ~ traer ael redor [疑:traer a/traera]",
+      "source_H": "捲 葬 轉",
+      "source_M": "guiau lin try. [残:第二音节上有墨渍]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rebolver ~ traer ael redor",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guiau² lin¹ tri¹",
+        "tai_lo_standard": "guiáu-lin-tri",
+        "phonological_basis": "17c Dominican orthography conversion: guiau (捲) -> guiau² / guiáu; lin (葬) -> lin¹ / lin; try (轉) -> tri¹ / tri."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "rebolverlo en algo ~",
+      "source_H": "纒 帶",
+      "source_M": "ty toa ..",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rebolverlo en algo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti⁵ toa²",
+        "tai_lo_standard": "tî-toá",
+        "phonological_basis": "17c Dominican orthography conversion: ty (纒) -> ti⁵ / tî; toa (帶) -> toa² / toá."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "rebolver haciendo circulo o como corona ~ .",
+      "source_H": "温. 成 箍 [疑:箍/簍]",
+      "source_M": "on chia cou ..",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rebolver haciendo circulo o como corona ~ .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "on⁵ tsia⁵ kou¹",
+        "tai_lo_standard": "ôn-tsiâ-kou",
+        "phonological_basis": "17c Dominican orthography conversion: on (温) -> on⁵ / ôn; chia (成) -> tsia⁵ / tsiâ; cou (箍) -> kou¹ / kou."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "rebolver como agua en madero ~",
+      "source_H": "温 成 温",
+      "source_M": "on chia on .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rebolver como agua en madero ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "on⁵ tsia⁵ on⁵",
+        "tai_lo_standard": "ôn-tsiâ-ôn",
+        "phonological_basis": "17c Dominican orthography conversion: on (温) -> on⁵ / ôn; chia (成) -> tsia⁵ / tsiâ; on (温) -> on⁵ / ôn."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "rebolver como el malsin.",
+      "source_H": "鵰頭人 [疑:鵰/鵝]",
+      "source_M": "tiau tau lang.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rebolver como el malsin.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiau¹ tʰau⁵ laŋ³",
+        "tai_lo_standard": "tiau-thâu-làng",
+        "phonological_basis": "17c Dominican orthography conversion: tiau (鵰) -> tiau¹ / tiau; tau (頭) -> tʰau⁵ / thâu; lang (人) -> laŋ³ / làng."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "rebolver ael rededor ~",
+      "source_H": "個",
+      "source_M": "se.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rebolver ael rededor ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "se²",
+        "tai_lo_standard": "sé",
+        "phonological_basis": "17c Dominican orthography conversion: se (個) -> se² / sé."
+      }
+    }
+  ]
+}
