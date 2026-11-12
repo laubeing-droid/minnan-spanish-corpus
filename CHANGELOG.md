@@ -12,6 +12,7 @@
 - `docs/HISTORICAL_BACKGROUND.md` & `docs/BIBLIOGRAPHY.md`：经联网检索扩充大帆船贸易与漳州月港—马尼拉涧内走廊、多明我会先驱（Miguel de Benavides O.P.、Juan Cobo O.P.、Francisco Blancas de San José O.P.、Melchor de Mançano O.P.）与华人刻工龚容（Juan de Vera）史实；补齐 Piet van der Loon（1966–1967, *Asia Major* N.S. 12.1: 1–43 & 13.1–2: 95–186）、刘莉美（2020《汉学研究》38.2: 215–236；2005《中外文学》33.10: 121–131）及 2023 年西班牙索里亚公爵基金会首届国际西班牙语学研讨会首奖官方西文题名；为 `HISTORICAL_BACKGROUND.md` 新增道地西班牙文与英文学术节要（§四、§五）
 - `README.es.md`、`README.en.md`、`docs/SIGNIFICANCE.md`、`docs/GLOSSARY.md`、`docs/USAGE.es.md`：全面清理早期机器翻译遗留的西语硬伤（如英文词未译 `"La scholarship moderna"` / `"finales checking"`、伪西语词 `"disambiguación"` → `"desambiguación"`、链接错指等）与英语语法瑕疵，并与中文正本同步收窄后的学术口径（解除 `update pending`）
 - `docs/DATA_SCHEMA.md` & `docs/SCOPE_AND_LIMITS.md`：同步标注 M1 主卷三种 `entry_id` 历史命名实测分布与 5,106 条 Core 记录的合龙占位边界
+- `docs/METHODOLOGY.md` §6（新，现任）：递归自我改进闭环（RSI）与硬刹车——闭环图、编译步人守门原则（工作流永不自改脚本，经验总结员只写知识不写代码）、九条硬刹车清单（每条均拦过真实事故）、"校对准确"目标锚定（字面忠实性判断一律不得自动化）；英/西节要顺延为 §7/§8 并在英文摘要补第 5 点
 
 ## 文档溯源审校 — 2026-11-12
 

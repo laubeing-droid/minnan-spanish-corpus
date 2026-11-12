@@ -105,15 +105,60 @@ PDF 原件 ──slice──▶ 300dpi 横带+纵栏 ──▶ 精读员并行�
 }
 ```
 
-## 6. English Summary
+## 6. 递归自我改进闭环与硬刹车（Recursive Self-Improvement Loop & Hard Brakes）
+
+本工程的管线具备**递归自我改进**（recursive self-improvement, RSI）机制：运行产生的失败数据会被
+结构化沉淀为教训，教训再被编译成管线的守卫与返修器，下一轮运行即继承更强的防御。闭环形状：
+
+```
+运行缺口补读
+   ↓ 失败数据：findings 台账 / 缺陷扫查 / 冷读抽检差异 / 合并失败
+经验沉淀：docs/LESSONS.md（事故→根因→对策→可迁移性）
+   ↓ 【编译步——人工守门】由现任施工方审读教训、修改工作流脚本（AmendWorkflow）
+增强版运行（新增返修员 / 缺陷扫查器 / 缺页记账 / 经验总结员）
+   ↓ 内置经验总结员阶段：把本轮失败再次结构化写回 LESSONS / PROJECT_HISTORY / CHANGELOG
+（下一轮编译的输入已自动生成 → 循环）
+```
+
+### 6.1 编译步不自动化（人守门原则）
+
+闭环里**唯一的非自动环节是"编译"**：把教训变成代码（修改工作流脚本）由人工或现任施工方执行，
+工作流**永不自我修改自己的脚本**。内置的经验总结员只写**知识**（文档），不写**代码**；
+不设任何自动调 AmendWorkflow 修改自身的阶段。这是刻意设计：无门的自改进循环能力上限更高，
+但翻车也是递归的——本项目以**校对准确**为唯一目标，自动性的收益不抵忠实性风险。
+
+### 6.2 硬刹车清单（每一条都拦过真实事故）
+
+| # | 硬刹车 | 位置 | 拦什么 |
+| --- | --- | --- | --- |
+| 1 | `architect_gatekeeper.py` 声明不可改 | 数据验收底门 | 任何"改验收器让它通过"的路径（施工方自己也不例外） |
+| 2 | M1 冻结区（`workspace_m1_dhs306/` 只读） | 项目级 | 对已封盘语料的就地修改；问题一律入 `evidence_ledger/` 待架构师裁定 |
+| 3 | 覆盖判定荒谬上限（缺口 >160 页即终止） | 工作流 | 覆盖判定脚本本身算错时的错误级联 |
+| 4 | 连续 3 批彻底失败即终止运行 | 工作流 | 系统性崩溃被无限重试掩盖 |
+| 5 | 批次外问题即熔断（`scanOutside` / `outsideIssue`） | 工作流·修复员 | 修复者越权触碰其他批次或其他线 |
+| 6 | 合并返修两轮上限 / 缺陷自动返修上限 40 处 | 工作流 | 返修本身失败时的无限循环；自动返修超限放大错误（超限转人工） |
+| 7 | 读图上限（≤8 次）+ 一次通过写盘 | 工作流·精读员 | 模型空转与"越改越像想象"的复读风险 |
+| 8 | 教训入库前**反查**（免疫机制） | 流程纪律 | 错误教训被编译进守卫并固化——140 页悬案先由 Gemini 解密、再由现任逐条反查实测后方入文档 |
+| 9 | 终止条件来自现实 | 工作流 | 页读完 / 队列清空 / 门禁 PASS 即收敛，不进行无限自改进 |
+
+### 6.3 目标锚定
+
+全部刹车服务于唯一目标：**校对准确**（字面忠实于原件）。据此划定的自动化边界：
+凡影响**字面忠实性**的判断，一律不得自动化——AI 可以扫查、返修机械缺陷（调码白名单外、
+净化残留、四栏全空），但凡涉及"图上到底写了什么"的语义裁决，归人工校对线（[COLLATION_GUIDE.md](COLLATION_GUIDE.md)）。
+递归自我改进在本项目中作为**方法论实验**运行，以人工守门为前提，此声明是对
+[SCOPE_AND_LIMITS.md](SCOPE_AND_LIMITS.md) 的补充。
+
+## 7. English Summary
 
 This repository preserves outputs from distinct construction stages—including reference-assisted baseline drafts (`baseline_all22_extracted/`), the M1 disambiguated/merged layer (`workspace_m1_dhs306/`), and the M2 pure visual blind-read records (`workspace_m2_dhs834/`)—which must not be conflated into a single uniform claim of completion. Under **Blind-Read Protocol v3.1 (M2)**:
 1. **Visual Independence (`WITHOUT_PRIOR_DRAFT`)**: Transcription relies solely on 300 dpi page slices (6% soft gutter overlap on 2-column supplement pages; orthogonal 3 horizontal bands + 4 vertical sub-columns on 4-column pages), without consulting prior drafts or "correcting" manuscript spellings via phonological hindsight.
 2. **Orthographic Purity & Deterministic Sanitization**: The four diplomatic columns (Spanish headword `L`, Chinese character `H`, 17th-century Dominican Hokkien romanization `M`, and Mandarin gloss `R`) are isolated from derived layers. Modern POJ/Tâi-lô features (`k-/kh-/ts-/tsh-/chh-`, `-k` codas, `U+030D` vertical lines, and `U+207F` superscript `ⁿ`) are strictly banned from `source_M` and deterministically sanitized/checked at commit.
 3. **Geometric Tone Dictionary (`T00–T07 / T99`)**: Manuscript diacritics are recorded strictly by visual geometry rather than inferred tone values or checked-coda letters (`-p/-t/-c`).
 4. **Immutable Gatekeeper & Four-Ledger Separation**: Every committed page is SHA-256-sealed into `BLIND_READ_MANIFEST.json` (`LOCKED_BEFORE_COLLATION`) and audited by `architect_gatekeeper.py` (which enforces orthographic bans, SHA-256 verification, and `Counter`-based anti-template frequency caps). Engineering gate passage (`[PASS]`) verifies structural and pipeline compliance rather than final philological certification; all single-pass blind reads require downstream human collation (`COLLATION_QUEUE.json`), and unresolved issues are separated into four dedicated evidence ledgers (`ledger_1` through `ledger_4`).
+5. **Human-Gated Recursive Self-Improvement & Hard Brakes (§6, canonical in Chinese)**: incident data is distilled into `docs/LESSONS.md` and compiled — by the human-supervised maintainer, never by the workflow itself — into new pipeline guards (repair agents, defect sweeps, missing-page ledgers). A hard-brake inventory (immutable gatekeeper, frozen M1 zone, sanity caps, repair-round limits, failure circuit-breakers, pre-registration counter-verification of lessons, real-world termination conditions) bounds the loop. Sole goal: transcription fidelity for human collation.
 
-## 7. Resumen en español
+## 8. Resumen en español
 
 Este repositorio conserva productos de distintas etapas de trabajo —incluidos los borradores iniciales asistidos por referencias (`baseline_all22_extracted/`), la capa de desambiguación y fusión M1 (`workspace_m1_dhs306/`) y los registros de lectura ciega puramente visual M2 (`workspace_m2_dhs834/`); dichas etapas no deben confundirse ni presentarse como una única validación filológica final. Según el **Protocolo de Lectura Ciega v3.1 (M2)**:
 1. **Independencia visual (`WITHOUT_PRIOR_DRAFT`)**: La transcripción se realiza exclusivamente a partir de teselas de imagen a 300 ppp (con un solapamiento suave del 6 % en el margen central para el suplemento a dos columnas, y doble corte ortogonal en 3 bandas horizontales + 4 subcolumnas verticales para el cuerpo principal a cuatro columnas), prohibiéndose consultar borradores previos o «corregir» la grafía manuscrita mediante conjeturas fonológicas retrospectivas.
