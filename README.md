@@ -6,7 +6,7 @@
 > 以可复现的工程方法完成的全文盲读转写、历史音系推导与校对语料库。
 
 **文档导航**：[方法论](docs/METHODOLOGY.md) · [数据字典](docs/DATA_SCHEMA.md) · [22源总目](docs/SOURCES.md) · [校对手册](docs/COLLATION_GUIDE.md) · [实际意义](docs/SIGNIFICANCE.md) · [项目历史](docs/PROJECT_HISTORY.md) · [使用方法](docs/USAGE.md) · [更新日志](CHANGELOG.md)
-**参考**：[范围与局限声明](docs/SCOPE_AND_LIMITS.md) · [四账制度](docs/LEDGERS.md) · [声调几何图鉴](docs/TONE_MARKS.md) · [入门书目](docs/BIBLIOGRAPHY.md) · [术语表](docs/GLOSSARY.md) · [贡献指南](CONTRIBUTING.md)
+**参考**：[范围与局限声明](docs/SCOPE_AND_LIMITS.md) · [四账制度](docs/LEDGERS.md) · [声调几何图鉴](docs/TONE_MARKS.md) · [工程经验教训](docs/LESSONS.md) · [入门书目](docs/BIBLIOGRAPHY.md) · [术语表](docs/GLOSSARY.md) · [贡献指南](CONTRIBUTING.md)
 **接手史档**：完整移交边界与历史导出说明见 [`literature/00–04_*.md`](literature/00_从这里开始.md)（迁移原始件，未改写）
 
 ---

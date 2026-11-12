@@ -16,6 +16,8 @@
 - `docs/SCOPE_AND_LIMITS.md`：范围与局限声明（"文件搬迁不增加学术完成数量"）
 - `docs/TONE_MARKS.md`：声调几何图鉴 + 全库 47,720 调号频次实测（827 封存页）
 - `docs/BIBLIOGRAPHY.md`（只收可确证条目）、`docs/GLOSSARY.md`（三语术语表）、`CONTRIBUTING.md`
+- `docs/LESSONS.md`：工程经验教训 13 条（模型施工/确定性管线/编排成本/发布版权四类，
+  事故→根因→对策→可迁移性）+ 未解决事项诚实清单
 - `docs/`：校对队列与封存 schema 说明
 - 缺口补读工作流：M1 主卷页面覆盖审计发现的 140 页缺块（845–849、855–859…）按 M2 协议补读，
   实时进度见 `BLIND_READ_MANIFEST.json`
