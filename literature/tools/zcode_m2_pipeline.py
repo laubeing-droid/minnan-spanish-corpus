@@ -74,7 +74,13 @@ def normalize_tone_list(tones: List[str]) -> List[str]:
         if code in TONE_NORMALIZER:
             out.append(TONE_NORMALIZER[code])
         else:
-            out.append(t_str)
+            # RSI 编译（2026-11-12）：调标白名单强制——p0041 型非规范字面（如 `無號/輕聲`、
+            # `chun=T03 [疑:T03/T04]`）在 commit 即拒收，不再放行到封存件（allow-list 优先于 deny-list）。
+            raise ValueError(
+                f"非规范调标字面: '{t_str}'（八代码白名单外）——须先修正原始件再 commit。"
+                "白名单: T00 (無標號) / T01 (升斜) / T02 (降斜) / T03 (尖頂帽) / T04 (凹角) / "
+                "T05 (平橫) / T06/T07 (交叉入聲號) / T99 (污損難辨)"
+            )
     return out
 
 
@@ -231,15 +237,19 @@ def cmd_status() -> None:
 
     target_supp = set(range(30, 41)) - excluded    # 11 pages (0030-0040)
     target_main = set(range(41, 835)) - excluded   # 794 pages (0041-0834), minus modern front matter
+    target_gap = set(range(835, 1141)) - excluded  # 缺口补读段（RSI 编译：全书覆盖账务，防静默缺页）
     done_supp = sorted(target_supp & done_pages)
     rem_supp = sorted(target_supp - done_pages)
     done_main = sorted(target_main & done_pages)
     rem_main = sorted(target_main - done_pages)
+    done_gap = sorted(target_gap & done_pages)
+    rem_gap = sorted(target_gap - done_pages)
 
     print("=== DHS M2 BLIND READING PROGRESS ===")
     print(f"1. 18c Supplement (PDF 0030-0040): {len(done_supp)}/{len(target_supp)} done | Next: {rem_supp[:5]}")
     print(f"2. 17c Main Body  (PDF 0041-0834): {len(done_main)}/{len(target_main)} done | Next: {rem_main[:5]}")
-    print(f"3. Modern front matter excluded (non-lexicographic): {len(excluded)} {sorted(excluded)}")
+    print(f"3. Gap Segment    (PDF 0835-1140): {len(done_gap)} pages sealed by M2 gap-fill (full-segment accounting reconciled by gate v1.1 union check)")
+    print(f"4. Modern front matter excluded (non-lexicographic): {len(excluded)} {sorted(excluded)}")
 
 
 def main():

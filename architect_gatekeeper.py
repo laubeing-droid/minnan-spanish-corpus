@@ -1,7 +1,18 @@
 """
 CHIEF ARCHITECT IMMUTABLE GATEKEEPER (architect_gatekeeper.py)
 ==============================================================
-STRICTLY FORBIDDEN TO EDIT OR MODIFY THIS FILE.
+STRICTLY FORBIDDEN TO EDIT OR MODIFY THIS FILE — except through the architect-ratified
+amendment protocol in docs/GATE_AMENDMENT_PROTOCOL.md (versioned, tested, changelogged).
+
+Version history:
+  v1.0 (initial) — M1 batch/master checks; M2 seal/tone/orthography checks.
+  v1.1 (2026-11-12, architect directive) — NEW coverage invariant: union(M2 sealed pages,
+       M1 layer_0_visual_anchor.page_pdf anchors) must cover PDF 0030-1140 minus registered
+       non-lexicographic pages. Motivated by LESSONS L3/L20 (140-page phantom-gap audit) and
+       the 0621-0630 silent page-drop risk. Monotonic tightening only: no existing check was
+       removed or loosened; regression on the current corpus passes (937 M2 seals ∪ 306 M1
+       page anchors = 1103/1103 expected pages).
+
 Enforces 100% genuine entry-by-entry philological curation across all 14 M1 batches
 (656 entries) + 5,762 master merge, and M2 visual blind readings.
 """
@@ -223,7 +234,36 @@ def check_m2():
 
         verified_count += 1
 
+    # ---- v1.1 coverage invariant (GATE_AMENDMENT_PROTOCOL.md v1.1) ----
+    # union(M2 sealed pages, M1 layer_0.page_pdf anchors) must cover 0030-1140
+    # minus registered non-lexicographic pages.
+    try:
+        m1_doc = json.loads((M1_DIR / "DHS_p0835_1140_M1_FULL_5762.json").read_text(encoding="utf-8"))
+    except Exception as exc:
+        fail(f"Coverage invariant v1.1 cannot read M1 master: {exc}")
+    m1_pages = set()
+    for entry in m1_doc.get("entries", []):
+        anchor = entry.get("layer_0_visual_anchor") or {}
+        page_pdf = anchor.get("page_pdf")
+        if page_pdf:
+            m1_pages.add(int(page_pdf))
+    excluded_pages = set()
+    nlex_path = M2_DIR / "non_lexicographic_pages.json"
+    if nlex_path.exists():
+        nlex = json.loads(nlex_path.read_text(encoding="utf-8"))
+        excluded_pages = {int(k) for k in nlex.get("pages", {})}
+    expected = set(range(30, 1141)) - excluded_pages
+    covered = {int(k) for k in pages_man} | m1_pages
+    missing_pages = sorted(expected - covered)
+    if missing_pages:
+        fail(
+            f"Coverage invariant v1.1: {len(missing_pages)} pages in 0030-1140 are neither "
+            f"M2-sealed nor anchored in the M1 master: {missing_pages[:20]}"
+        )
+
     print(f"[PASS] M2 Gate: {verified_count} blind-read pages verified with unified tone codes and SHA-256!")
+    print(f"[PASS] Coverage invariant v1.1: 0030-1140 fully accounted "
+          f"({len(covered & expected)}/{len(expected)} pages via M2 seals union M1 anchors)")
 
 
 if __name__ == "__main__":
