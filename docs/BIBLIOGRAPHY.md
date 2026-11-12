@@ -26,9 +26,8 @@
    手稿的历史/社会/语言学语境分析与文本整理。
 
 4. **van der Loon, Piet. "The Manila Incunabula and Early Hokkien Studies."**
-   *Asia Major*（New Series），两部分连载于 1960 年代后期。
-   —— 马尼拉早期汉文摇篮本（《无极天主真传实录》《辩证教真传实录》等）与早期闽南语
-   罗马字研究的奠基性论文，涉及本库 Line 5 等文献的馆藏史。（具体卷期页码待补）
+   *Asia Major* (New Series): **Part 1**, Vol. 12, Part 1 (1966), pp. **1–43**; **Part 2**, Vol. 13, Parts 1–2 (1967), pp. **95–186**.
+   —— 马尼拉早期汉文摇篮本（《无极天主正教真传实录》《辩正教真传实录》《基督教教义》等）与 16–17 世纪闽南语罗马字研究的奠基性论文，直接考证本库 Line 1、Line 2、Line 4、Line 5 等文献的编纂与馆藏史。
 
 5. **《閩南—西班牙歷史文獻叢刊》**。新竹：国立清华大学出版社。
    “9 册”是叢刊一至四的实体册数口径，不是叢刊一至九，也不是当前出版总数。按出版社书目列示如下（书名保留繁体）：
@@ -47,10 +46,9 @@
 
    叢刊编号、实体册数、项目 22 个 PDF 与 9 条书组线是四种单位，不可互换。书目存在也不证明本库完成了相应语言内容。
 
-6. **《明心宝鉴》（*Beng Sim Po Cam*, Espejo racional del claro corazón）**。
-   高母羡（Juan Cobo, O.P.）译，约 1590 年代马尼拉。
-   —— 已知最早译为西方语言的中国典籍；本库 Line 4（BNE MSS/6040 抄本，315 页）即此译本
-   的手稿对勘本。
+6. **《明心宝鉴》（*Libro chino intitulado Beng Sim Po Cam, que quiere decir Espejo rico del claro corazón*）**。
+   高母羡（Fray Juan Cobo, O.P.）译，约 1590–1592 年马尼拉（1595 年由 Fray Miguel de Benavides, O.P. 呈献西班牙王储腓力三世）。
+   —— 已知最早译为西方语言的中国典籍；本库 Line 4（西班牙国家图书馆 BNE MSS/6040 抄本，315 页）即此译本的手稿对勘本。
 
 ## 本轮补入的可核研究
 
@@ -60,16 +58,20 @@
 8. **José, Regalado Trota**. “Baybay, baybayin, Binondo, and the Parian: Documents on the Evolution of the Mestizo Sangley.” *Philippiniana Sacra* 57(172), January–April 2022, 91–134.
    [期刊官方全文](https://philsacra.ust.edu.ph/admin/downloadarticle?id=31807A9F07051C6772A80370FFA68773)。涉及 AUST/APAF 与 DHS 材料；不能据此替代待核的 HAB 专题书目。
 
-9. **Lien, Chinfa**. “In Search for the Dialectal Variants of Hokkien Based on the Early Bilingual Hokkien-Spanish Dictionary.” In Barbara Meisterernst (ed.), *When the West meets the East: Early Western Accounts of the Languages of the Sinosphere and their Impact on the History of Chinese Linguistics*. Wiesbaden: Harrassowitz, 2023, 15–35. ISBN 9783447120654.
+9. **Lien, Chinfa（連金發）**. “In Search for the Dialectal Variants of Hokkien Based on the Early Bilingual Hokkien-Spanish Dictionary.” In Barbara Meisterernst (ed.), *When the West meets the East: Early Western Accounts of the Languages of the Sinosphere and their Impact on the History of Chinese Linguistics*. Wiesbaden: Harrassowitz, 2023, 15–35. ISBN 9783447120654.
    [出版社预览](https://api.pageplace.de/preview/DT0400.9783447394314_A47710814/preview-9783447394314_A47710814.pdf)。这篇是早期双语辞典方言变体研究，不能当作《漳州话语法》专论。
+
+10. **劉莉美（Liu, Li-mei）**。〈馬尼拉閩南語文獻《西班牙—華語辭典》與西班牙傳教士高母羨〉。《漢學研究》（*Chinese Studies*），第 38 卷第 2 期（總第 101 期），2020 年 6 月，頁 **215–236**。
+    —— 探讨《西班牙—华语辞典》（DHS）的编纂脉络与多明我会士高母羡（Juan Cobo, O.P.）在马尼拉华语传教传统中的关联。
+
+11. **劉莉美（Liu, Li-mei）**。〈當西方遇見東方——從《明心寶鑑》兩本西班牙黃金時期譯本看宗教理解下的偏見與對話〉。《中外文學》（*Chung Wai Literary Monthly*），第 33 卷第 10 期（總第 394 期），2005 年 3 月，頁 **121–131**。
+
+12. **Lee, Fabio Yuchung（李毓中, dir.）**. *«El primer contacto de las lenguas de dos imperios: manuscritos en chino-español-hokkien en las costas del Mar Meridional de China durante la primera globalización»*. Seminario premiado en la **I Edición del Certamen de Seminarios de Hispanismo Internacional**, Fundación Duques de Soria (Convento de La Merced, Soria, España, julio de 2023).
 
 ## 背景研究（待核实后补录）
 
-* 刘莉美（2020，华艺线上图书馆）：高母羡（Juan Cobo）与《西班牙─华语辞典》研究综述；
 * Regalado T. José 关于 HAB 馆藏唐人手稿的特定整理研究：精确篇名与出处待补；上列第 8 项不替代这一条。
-* 连金發（Chinfa Lien）关于早期闽南语罗马字文献与《漳州话语法》的语言学研究；
-* 清华大学新闻稿（2024）：李毓中团队获首届索里亚公爵国际西班牙语学研究讲座首奖、
-  DHS 重新发现与当时《闽南—西班牙历史文献丛刊》的出版（详见 [HISTORICAL_BACKGROUND.md](HISTORICAL_BACKGROUND.md) 数据源）；
+* 连金發（Chinfa Lien）关于《漳州话语法》（*Arte de la Lengua Chio Chiu*）特定语法专题的单篇论文精确卷期；
 * BNE / BnF / ONB / HAB / UST 各源的馆藏目录著录信息。
 
 ## 引用本库

@@ -8,7 +8,9 @@
 ## A. M1 主卷六层结构
 
 文件：`literature/workspace_m1_dhs306/DHS_p0835_1140_M1_FULL_5762.json`
-顶层：`{ "entries": [ ... ] }`，共 5,762 条。`entry_id` 不保证统一格式：除 `DHS0835-01`，批次件还有 `1137.09`、`D02`。定位须读取 `layer_0_visual_anchor`，不可只靠 ID 字符串推算页码。
+顶层：`{ "entries": [ ... ] }`，共 5,762 条（本地实测 `layer_0_visual_anchor.page_pdf` 覆盖 `835–1140` 全部 306 页）。`entry_id` 不保证统一格式：因继承自 62 个移交批次包原始底账，实测分布为 `DHS0835-01` 型（34 批 166 页，3,110 条）、`0845.01` 型（27 批 135 页，2,553 条 + 末页 `D02` 1 条）、`DHS1080.01` 型（Batch 49 共 5 页，98 条）。定位须读取 `layer_0_visual_anchor`，不可只靠 ID 字符串推算页码。
+
+> **数据使用重要提示（前任 Gemini 补注）**：主卷 5,762 条中，656 条待消歧词条（同步单列于 `batch_01_certified.json` ~ `batch_14_certified.json`）具备完整的 `source_L/H/M/R` 四栏与逐条重构音系；而其余 **5,106 条 `CORE` 词条**（如下方 `DHS0835-01` 示例）在当年 `merge_m1_master_5762.py` 合龙时仅合入了 L 层审定释义，`source_H/M/R` 为空字符串且音系层被填入了硬编码占位值 `"sio¹ hue⁵"` / `"sio-huê"`（详见 [LESSONS.md](LESSONS.md) L3、L20）。检索 `835–1140` 段完整四栏与音系时，请优先结合 `batch_01..14` 及 `workspace_m2_dhs834/blind_read_p0845..1140.json` 补读件使用。
 
 | 层 | 字段 | 含义 |
 | --- | --- | --- |

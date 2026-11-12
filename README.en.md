@@ -1,105 +1,87 @@
 # minnan-spanish-corpus · Early Minnan–Spanish Bilingual Historical Document Corpus
 
-> update pending — The Chinese README is canonical. This is a work-in-progress corpus; full linguistic acceptance and complete blind-read coverage are not established by this documentation review. The 22 sources count PDFs, not 22 independent books.
+> The Chinese README ([README.md](README.md)) is canonical. This is an active work-in-progress corpus: pipeline sealing and automated gate passage (`[PASS]`) verify structural integrity and orthographic rules, but do not substitute for full page-by-page philological collation. The 22 sources count registered PDF files (3,139 physical page positions across 9 document lines), not 22 independent books.
 
 [简体中文](README.md) | [English](README.en.md) | [Español](README.es.md)
 
-> **22 early Minnan–Spanish bilingual historical documents** left by the Dominican mission
-> and the Sangley (Chinese) community of 17th-century Manila: full-text blind-read
-> transcriptions, historical phonological derivations, and collation-ready corpus data,
-> produced with a reproducible engineering pipeline.
+> **22 early Minnan–Spanish bilingual historical document sources** left by the Dominican mission
+> (Province of the Most Holy Rosary) and the Sangley (Southern Fujianese) community of 16th- and
+> 17th-century Manila: diplomatic blind-read transcriptions, historical phonological derivations,
+> and collation-ready corpus data produced through a reproducible, auditable engineering pipeline.
 
-**Docs**: [Methodology](docs/METHODOLOGY.md) · [Significance](docs/SIGNIFICANCE.md) · [Project History](docs/PROJECT_HISTORY.md) · [Usage](docs/USAGE.en.md) · [Changelog](CHANGELOG.md)
+**Docs**: [Historical Background](docs/HISTORICAL_BACKGROUND.md) · [Methodology](docs/METHODOLOGY.md) · [Significance](docs/SIGNIFICANCE.md) · [Data Schema](docs/DATA_SCHEMA.md) · [Project History](docs/PROJECT_HISTORY.md) · [Engineering Lessons](docs/LESSONS.md) · [Usage](docs/USAGE.en.md) · [Changelog](CHANGELOG.md)
 
 ---
 
-## 1. What is studied
+## 1. What Is Studied
 
-Around 1590–1700, Dominican friars in Manila recorded the Zhangzhou dialect of Hokkien
-(Minnan) in Spanish-based orthography to evangelize the Sangley Chinese, leaving
-dictionaries, grammars, catechisms, translations and lay documents. This project
-industrially curates all **22 surviving originals — 3,139 physical pages across 9 book lines**:
+Between ca. 1590 and 1700, Dominican friars in Manila—working closely with Sangley Chinese interpreters and scribes—recorded the Zhangzhou-based dialect of Hokkien (Southern Min, *lengua Chio Chiu*) in Golden Age Spanish orthography to evangelize and communicate with the overseas Chinese community, leaving dictionaries, grammars, catechisms, apologetic treatises, translations, and secular manuscripts. This repository structures all **22 surviving source PDFs — 3,139 physical page positions across 9 document lines**:
 
-| Line | Work | Holding | Pages |
+| Line | Work | Holding Institution & Shelfmark | PDF Pages |
 | --- | --- | --- | ---: |
-| 1 | *Dictionario Hispánico Sinicum* (Spanish–Chinese dictionary) | UST Archives, Manila | 1,140 |
-| 2 | *Arte de la Lengua Chio Chiu* (Zhangzhou grammar) | UB Ms. 1027 | 122 |
-| 3 | *Manila Chinese Manuscripts*, vols. 1–14 | HAB 91.2 Extrav 01–14 | 461 |
-| 4 | *Beng Sim Po Cam* (Mirror of the Clear Heart), Chinese–Spanish | BNE MSS/6040 | 315 |
-| 5 | *Apología de la Verdadera Religión* (woodblock print) | BNE R/33396 | 164 |
-| 6 | Chinese–Spanish dictionary, Paris parallel copy | BnF Chinois 9276 | 178 |
-| 7 | Chinese–Spanish dictionary, Rome copy | Biblioteca Angelica Ms. 60 | 169 |
-| 8 | *Xinkan Liaoshi Zhengjiao Bianlan* (catechism) | ONB Sin 282-A | 580 |
-| 9 | Zhangzhou catechism / *Arte Sangley* fragments | AUST Tomo 211 | 10 |
+| 1 | *Dictionario Hispanico Sinicum* (Spanish–Chinese/Hokkien dictionary) | UST Archives, Manila (Libros 215, 2 PDFs) | 1,140 |
+| 2 | *Arte de la Lengua Chio Chiu* (Zhangzhou Hokkien grammar, ca. 1620) | CRAI Univ. of Barcelona, Ms. 1027 | 122 |
+| 3 | *Manila Chinese Manuscripts*, vols. 1–14 | HAB Wolfenbüttel, 91.2 Extrav. 01–14 | 461 |
+| 4 | *Beng Sim Po Cam* (*Espejo rico del claro corazón*, trans. Juan Cobo, O.P.) | Biblioteca Nacional de España, MSS/6040 | 315 |
+| 5 | *Apología de la verdadera religión* (*Shilu* 《無極天主正教真傳實錄》, 1593 woodblock) | Biblioteca Nacional de España, R/33396 | 164 |
+| 6 | Chinese–Spanish dictionary, Paris copy | Bibliothèque nationale de France, Chinois 9276 | 178 |
+| 7 | Chinese–Spanish dictionary, Rome copy | Biblioteca Angelica, Mss. Fondo Antico 60 | 169 |
+| 8 | *Xinkan Liaoshi Zhengjiao Bianlan* (bilingual catechism) | Österreichische Nationalbibliothek, Sin 282-A | 580 |
+| 9 | Zhangzhou catechism & *Arte Sangley* fragments | UST Archives, Manila, Tomo 211 | 10 |
 
-## 2. Method (summary)
+## 2. Method (Summary)
 
-* **Pure blind-read protocol (v3.1)** — transcription follows the page image only; phonological
-  knowledge must never "correct" the lettering, so the corpus remains independent 17th-century evidence.
-* **Six-layer data isolation** — the four manuscript columns (Spanish head L, Chinese characters H,
-  Hokkien manuscript spelling M, Mandarin gloss R) are transcribed verbatim; 17th-century Zhangzhou
-  IPA and modern MOE Tâi-lô are derived by deterministic engines into separate layers.
-* **Blind hash sealing + immutable gate** — every page is SHA-256 sealed on commit;
-  `architect_gatekeeper.py` (declared unmodifiable) independently checks orthographic purity,
-  tone-code validity and seal integrity, with anti-template and anti-fabrication rules.
-  Full details: **[docs/METHODOLOGY.md](docs/METHODOLOGY.md)**.
+* **Pure Blind-Read Protocol (v3.1, `WITHOUT_PRIOR_DRAFT`)**: Visual transcription on the M2 line follows the 300 dpi page slices alone without consulting legacy drafts; phonological hindsight must never "correct" manuscript spellings, and modern POJ/Tâi-lô orthography is strictly banned from `source_M`.
+* **Six-Layer Data Isolation (`layer_0` to `layer_5`)**: The four diplomatic columns (Spanish headword `L`, Chinese character `H`, 17th-century Dominican Hokkien romanization `M`, and Mandarin gloss `R`) are transcribed verbatim; 17th-century Zhangzhou IPA reconstructions and modern MOE Tâi-lô equivalents are computed by deterministic engines into separate layers.
+* **Pre-Collation SHA-256 Sealing & Immutable Gatekeeper**: Every committed blind-read page is SHA-256-sealed (`LOCKED_BEFORE_COLLATION`); `architect_gatekeeper.py` (declared unmodifiable) independently verifies orthographic purity, geometric tone-code validity (`T00–T07 / T99`), and `Counter`-based anti-template thresholds. Full details: **[docs/METHODOLOGY.md](docs/METHODOLOGY.md)**.
 
-## 3. Why it matters (summary)
+## 3. Why It Matters (Summary)
 
-The earliest and largest synchronic character–sound corpus of 17th-century Zhangzhou Hokkien;
-structured primary material for the history of the Manila Sangley community, of Chinese–Western
-translation (including the earliest known Western translation of a Chinese book, *Beng Sim Po Cam*),
-and of Catholic printing in Chinese; plus a reproducible-data paradigm for endangered-manuscript
-philology. See **[docs/SIGNIFICANCE.md](docs/SIGNIFICANCE.md)**.
+Provides essential **character-to-sound collation material** for early Zhangzhou-based Hokkien, and structured primary sources for the social history of the Manila Sangley community, the history of Chinese–Western translation (including the earliest known translation of a Chinese classic into a European language, Juan Cobo's *Beng Sim Po Cam*), and the history of Catholic Chinese printing. More importantly, using these documents as a testbed, the project explores a **complete research-engineering methodology for "Computational and Generative Minnan Historical & Philological Studies"**—progressing from source and material convergence, research questions, and evidentiary constraints to historical phenomenon identification, comparative analysis, hypothesis testing, and human scholarly judgment. **Corpora and collation are the foundation, not the endpoint; current philological-engineering outputs are kept strictly distinct from the full research workflow still under exploration, and engineering sealing is never conflated with completed historical scholarship.** See **[docs/SIGNIFICANCE.md](docs/SIGNIFICANCE.md)** and **[docs/HISTORICAL_BACKGROUND.md](docs/HISTORICAL_BACKGROUND.md)**.
 
-## 4. Repository map
+## 4. Repository Map
 
 | Path | Contents |
 | --- | --- |
-| `literature/workspace_m1_dhs306/` | Sealed corpus for dictionary pp. 835–1140 (5,762-entry master + 14 batch packages) |
-| `literature/workspace_m2_dhs834/` | Sealed blind-read pages for pp. 0030–0834, SHA-256 manifest, non-lexicographic page register, collation queue |
-| `literature/baseline_all22_extracted/` | Baseline first drafts for all 22 sources (732 markdown working files) |
-| `literature/historical_dhs/` · `ledgers/` | Dictionary full first-draft body; unresolved-glyph ledgers |
-| `literature/tools/` | Deterministic engines: tile slicing, 17c sanitization & phonology, Spanish abbreviation expansion, sealing pipeline |
-| `architect_gatekeeper.py` | Immutable acceptance gate |
-| `.zcode/workflow-drafts/` | Blind-read construction protocols (workflow scripts) |
-| `literature/source22_actual_mapping.json` etc. | Source inventory, integrity checks, transfer manifests, metadata |
+| `literature/workspace_m1_dhs306/` | Frozen M1 zone for dictionary pp. 835–1140 (5,762-entry master + 14 disambiguated batch packages; see scope note in [DATA_SCHEMA.md](docs/DATA_SCHEMA.md)) |
+| `literature/workspace_m2_dhs834/` | Sealed M2 blind-read pages (pp. 0030–0834 + 140 gap-fill pages in pp. 0845–1140), SHA-256 manifest, non-lexicographic page register, and collation queue |
+| `literature/baseline_all22_extracted/` | Legacy baseline drafts for all 22 sources (732 Markdown working files) |
+| `literature/evidence_ledger/` | Four separated evidence ledgers (unresolved glyphs, unproven phonology, uncertain glosses, pending operations; see [LEDGERS.md](docs/LEDGERS.md)) |
+| `literature/tools/` | Deterministic engines: tile slicing (`column_slicer.py`), 17c orthographic sanitization & phonology (`hokkien_17c_converter.py`), Spanish abbreviation expansion (`spanish_17c_expander.py`), and M2 pipeline (`zcode_m2_pipeline.py`) |
+| `architect_gatekeeper.py` | Immutable acceptance gate (anti-fabrication and anti-template verifier) |
+| `.zcode/workflow-drafts/` | Blind-read construction and audit workflow scripts |
+| `literature/source22_actual_mapping.json` | Inventory of all 22 source PDFs, SHA-256 anchors, and transfer metadata |
 
-> Source PDFs and page-scan tiles are **not** in this repository (rights); corpus coordinates
-> refer to PDF page numbers.
+> Source PDFs and scanned page tiles are **not** distributed in this repository for copyright reasons; all corpus coordinates reference original PDF page numbers.
 
-## 5. Quick start
+## 5. Quick Start
 
 ```bash
 python architect_gatekeeper.py                              # verify integrity of all sealed data
-python literature/tools/zcode_m2_pipeline.py status         # dictionary-line progress
-python literature/tools/zcode_m2_pipeline.py slice --start 845 --end 849   # rebuild tiles from the source PDF
+python literature/tools/zcode_m2_pipeline.py status         # check dictionary-line progress
+python literature/tools/zcode_m2_pipeline.py slice --start 845 --end 849   # rebuild tiles from local source PDF
 ```
 
-Schemas, the three-step transcription protocol and the collation queue:
-**[docs/USAGE.md](docs/USAGE.md)** ([English](docs/USAGE.en.md) / [Español](docs/USAGE.es.md)).
+Schemas, the three-step transcription protocol, and the collation queue:
+**[docs/USAGE.en.md](docs/USAGE.en.md)** ([中文](docs/USAGE.md) / [Español](docs/USAGE.es.md)).
 
-## 6. Status
+## 6. Current Status
 
-Work in progress: blind-read sealing covers the entire dictionary line; the project is now in the
-**manual collation** stage. Fine-grained progress and incident log: **[docs/PROJECT_HISTORY.md](docs/PROJECT_HISTORY.md)**;
-version history: **[CHANGELOG.md](CHANGELOG.md)**.
+Work in progress: M2 blind-read sealing covers pp. 0030–0834 (797 lexicographic pages sealed + 8 modern publisher pages excluded by registration) and is actively completing the 140 gap-fill pages in pp. 0845–1140; the project is transitioning into **manual philological collation** (`COLLATION_QUEUE.json`). For the full construction history and the forensic resolution of the 140-page gap mystery, see **[docs/PROJECT_HISTORY.md](docs/PROJECT_HISTORY.md)** and **[docs/LESSONS.md](docs/LESSONS.md)**.
 
-## 7. Rights & license
+## 7. Rights & License
 
-* Corpus, code and docs: **[CC BY-NC-SA 4.0](LICENSE)** — attribution, **non-commercial**, share-alike.
-* Modern facsimile/photographic editions of the 22 documents remain with their holding libraries
-  and publishers (dictionary facsimile © National Tsing Hua University Press) and are not
-  redistributed here; the 17th-century manuscripts themselves are in the public domain.
+* Original transcriptions, code, and documentation in this repository: **[CC BY-NC-SA 4.0](LICENSE)** — attribution, **non-commercial**, share-alike.
+* Modern facsimile and photographic editions of the 22 documents remain the property of their holding libraries and publishers (collection facsimile © National Tsing Hua University Press) and are not redistributed here; the underlying 17th-century manuscript texts are in the public domain.
 
 ## 8. Citation
 
 ```bibtex
 @misc{minnan_spanish_corpus_2026,
-  title  = {minnan-spanish-corpus: blind-read corpus and tooling for 22 early Minnan--Spanish bilingual historical documents},
+  title  = {minnan-spanish-corpus: blind-read corpus and tooling for 22 early Minnan--Spanish bilingual historical document sources},
   author = {Minnan Historical Documents Working Group},
   year   = {2026},
   url    = {https://github.com/laubeing-droid/minnan-spanish-corpus},
-  note   = {CC BY-NC-SA 4.0; source scans excluded for rights reasons}
+  note   = {CC BY-NC-SA 4.0; source scans excluded for copyright reasons}
 }
 ```

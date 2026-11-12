@@ -10,11 +10,11 @@
 
 | What you want | Where |
 | --- | --- |
-| Sealed corpus for dictionary pp. 835–1140 (six layers incl. disambiguation/phonology/Tâi-lô) | `literature/workspace_m1_dhs306/DHS_p0835_1140_M1_FULL_5762.json` |
-| Per-page sealed blind reads for pp. 0030–0834 | `literature/workspace_m2_dhs834/blind_read_pXXXX.json` |
-| Master ledger with SHA-256 seals | `literature/workspace_m2_dhs834/BLIND_READ_MANIFEST.json` |
-| Manual collation worklist (sorted by severity) | `literature/workspace_m2_dhs834/COLLATION_QUEUE.json` |
-| Register of non-lexicographic pages (modern title pages etc.) | `literature/workspace_m2_dhs834/non_lexicographic_pages.json` |
+| Frozen M1 zone for dictionary pp. 835–1140 (six layers: disambiguation/phonology/Tâi-lô; see scope note in [DATA_SCHEMA.md](DATA_SCHEMA.md)) | `literature/workspace_m1_dhs306/DHS_p0835_1140_M1_FULL_5762.json` |
+| Per-page sealed blind reads (pp. 0030–0834 and gap-fill pages in pp. 0845–1140) | `literature/workspace_m2_dhs834/blind_read_pXXXX.json` |
+| Master manifest with SHA-256 seals | `literature/workspace_m2_dhs834/BLIND_READ_MANIFEST.json` |
+| Manual philological collation queue (sorted by severity) | `literature/workspace_m2_dhs834/COLLATION_QUEUE.json` |
+| Register of non-lexicographic pages (modern title pages, etc.) | `literature/workspace_m2_dhs834/non_lexicographic_pages.json` |
 | Baseline first drafts of all 22 sources | `literature/baseline_all22_extracted/body/` |
 
 ## 2. Verify data integrity

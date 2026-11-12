@@ -10,10 +10,10 @@
 
 | Qué busca | Dónde |
 | --- | --- |
-| Corpus sellado del diccionario págs. 835–1140 (seis capas: disambiguación/fonología/Tâi-lô) | `literature/workspace_m1_dhs306/DHS_p0835_1140_M1_FULL_5762.json` |
-| Lecturas ciegas selladas página a página, págs. 0030–0834 | `literature/workspace_m2_dhs834/blind_read_pXXXX.json` |
-| Libro maestro de sellos SHA-256 | `literature/workspace_m2_dhs834/BLIND_READ_MANIFEST.json` |
-| Lista de trabajo de cotejo manual (ordenada por severidad) | `literature/workspace_m2_dhs834/COLLATION_QUEUE.json` |
+| Zona congelada M1 del diccionario págs. 835–1140 (seis capas: desambiguación/fonología/Tâi-lô; véase nota en [DATA_SCHEMA.md](DATA_SCHEMA.md)) | `literature/workspace_m1_dhs306/DHS_p0835_1140_M1_FULL_5762.json` |
+| Lecturas ciegas selladas página a página (págs. 0030–0834 y complemento en 0845–1140) | `literature/workspace_m2_dhs834/blind_read_pXXXX.json` |
+| Manifiesto maestro de sellos SHA-256 | `literature/workspace_m2_dhs834/BLIND_READ_MANIFEST.json` |
+| Cola de trabajo de cotejo filológico manual (ordenada por severidad) | `literature/workspace_m2_dhs834/COLLATION_QUEUE.json` |
 | Registro de páginas no lexicográficas (portadas modernas, etc.) | `literature/workspace_m2_dhs834/non_lexicographic_pages.json` |
 | Borradores base de las 22 fuentes | `literature/baseline_all22_extracted/body/` |
 
