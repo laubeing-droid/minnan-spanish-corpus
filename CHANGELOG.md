@@ -3,6 +3,22 @@
 > 版本沿革（进度细账与事故记录见 [docs/PROJECT_HISTORY.md](docs/PROJECT_HISTORY.md)）。
 > 语义化版本：0.x = 施工/校对期；1.0.0 = 首批书卷人工校对完成。
 
+## [0.2.2] — 2026-11-12 · 缺口补读收官：全书 0030–1140 盲读封存贯通
+
+### Added
+- **缺口段 0845–1140 补读封存**：140 页 / 2,733 条，14 批全部 commit + 门禁 PASS；M2 清单总量达
+  **937 封存页 / 18,150 条**（`architect_gatekeeper.py` 收官实测 `[PASS] M2 Gate: 937 blind-read
+  pages verified`）
+- 在库缺陷返修扫查上线：调码白名单外 / 净化残留 / 四栏全空三类机械缺陷确定性扫查；
+  本轮报 **1,810 处**（非规范调标字面约 1,797 为主），超自动返修上限 40，整体转人工校对线
+- 冷读抽检 6/6 页无 major（3 clean / 3 minor，详见工作台报告）
+- 数据提交：`77093f7`（224 文件，封存件 + manifest + raw 件 + 队列）
+
+### Verified
+- 收官门禁 `[PASS] M1 100% COMPLETE` + `[PASS] M2 Gate: 937 blind-read pages verified`
+- `zcode_m2_pipeline.py status`：18c 补充本 11/11、17c 正编 786/786、现代页排除 8；缺口段 140/140 在册
+- 校对队列 884 页（高 671 / 中 213）落盘 `COLLATION_QUEUE.json`
+
 ## [0.2.1] — 2026-11-12 · 前任施工方（Gemini）规则溯源、翻车教训补全、140 页悬案解密与西/英双语审校
 
 ### Added & Calibrated
@@ -48,6 +64,17 @@
 
 ### Verified
 - M2 封存线 0030–0834 全量过门禁：797 页 / 15,417 条；8 页现代出版页登记排除
+- 缺口补读 140 页收官（2026-11-12）：0845–1140 段 14 批 2,733 条全部 commit 入库并过门禁
+  （实测 `architect_gatekeeper.py` → `[PASS] M2 Gate: 937 blind-read pages verified`，
+  937 = 797 既有 + 140 本轮；`zcode_m2_pipeline.py status` 两段 done 全满、`Next: []`；
+  140 页全部 `LOCKED_BEFORE_COLLATION` 在册）；M1 主卷同页口径实测 2,652 条分账并存，
+  不相加、不互替
+- 缺陷扫查发现 1,810 处内容级缺陷（四栏全空条目 / `source_M` 净化残留 U+207F/U+030D /
+  非规范调标字面等），超过自动返修上限（40），整体转人工校对线，不做自动返修
+  （工作清单见 `COLLATION_QUEUE.json`）；冷读抽检 6 页 124 栏位，差异 11 处均为
+  minor/clean 级，无 major
+- 文档同步：`docs/LESSONS.md` 新增 L22–L25（缺口补读轮翻车与经验）；
+  `docs/PROJECT_HISTORY.md`「三、M2 盲读主线」补「缺口补读收官（140 页）」段
 
 ## [0.1.0] — 2026-11-12 · 首次公开备份
 

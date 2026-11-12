@@ -72,7 +72,7 @@ Esquemas de datos, protocolo de transcripción en tres pasos y uso de la cola de
 
 ## 6. Estado actual
 
-Trabajo en curso: el sellado de lectura ciega cubre el tramo 0030–0834 (797 páginas de diccionario selladas + 8 páginas preliminares modernas excluidas por registro) y avanza sobre las 140 páginas de complemento del tramo 0845–1140; el proyecto entra ahora en la etapa de **cotejo filológico manual** (`COLLATION_QUEUE.json`). Historial detallado e informe sobre la resolución del enigma de las 140 páginas: **[docs/PROJECT_HISTORY.md](docs/PROJECT_HISTORY.md)** y **[docs/LESSONS.md](docs/LESSONS.md)**.
+Completado el relleno de lagunas (2026-11-12): el sellado de lectura ciega cubre ya toda la línea del diccionario — págs. 0030–0834 (797 páginas lexicográficas / 15.417 entradas) más las 140 páginas de complemento de las págs. 0845–1140 (2.733 entradas), en total **937 páginas selladas / 18.150 entradas**; puerta final PASS; 8 páginas preliminares modernas excluidas por registro. El proyecto entra ahora en la etapa de **cotejo filológico manual** (cola: 884 páginas — 671 altas / 213 medias — véase `COLLATION_QUEUE.json`; otras 1.810 observaciones de defectos mecánicos se transfirieron a la línea de cotejo). Historial detallado e informe sobre la resolución del enigma de las 140 páginas: **[docs/PROJECT_HISTORY.md](docs/PROJECT_HISTORY.md)** y **[docs/LESSONS.md](docs/LESSONS.md)**.
 
 ## 7. Derechos y licencia
 

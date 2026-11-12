@@ -67,7 +67,7 @@ Schemas, the three-step transcription protocol, and the collation queue:
 
 ## 6. Current Status
 
-Work in progress: M2 blind-read sealing covers pp. 0030–0834 (797 lexicographic pages sealed + 8 modern publisher pages excluded by registration) and is actively completing the 140 gap-fill pages in pp. 0845–1140; the project is transitioning into **manual philological collation** (`COLLATION_QUEUE.json`). For the full construction history and the forensic resolution of the 140-page gap mystery, see **[docs/PROJECT_HISTORY.md](docs/PROJECT_HISTORY.md)** and **[docs/LESSONS.md](docs/LESSONS.md)**.
+Gap-fill complete (2026-11-12): M2 blind-read sealing now covers the full dictionary line — pp. 0030–0834 (797 lexicographic pages / 15,417 entries) plus the 140 gap-fill pages of pp. 0845–1140 (2,733 entries), totaling **937 sealed pages / 18,150 entries**; final gate PASS; 8 modern publisher pages excluded by registration. The project has entered **manual philological collation** (queue: 884 pages — 671 high / 213 medium — see `COLLATION_QUEUE.json`; a further 1,810 mechanical-defect findings were transferred to the collation line). For the full construction history and the forensic resolution of the 140-page gap mystery, see **[docs/PROJECT_HISTORY.md](docs/PROJECT_HISTORY.md)** and **[docs/LESSONS.md](docs/LESSONS.md)**.
 
 ## 7. Rights & License
 
