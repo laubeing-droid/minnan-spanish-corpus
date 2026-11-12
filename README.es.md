@@ -1,5 +1,7 @@
 # minnan-spanish-corpus · Corpus de documentos históricos bilingües minnan–español
 
+> update pending — The Chinese README is canonical. This is a work-in-progress corpus; full linguistic acceptance and complete blind-read coverage are not established by this documentation review. The 22 sources count PDFs, not 22 independent books.
+
 [简体中文](README.md) | [English](README.en.md) | [Español](README.es.md)
 
 > **22 documentos históricos bilingües minnan–español** dejados por la misión dominica y la

@@ -1,14 +1,14 @@
 # 数据字典 / Data Schema（双 schema 对照）
 
 > [中文 canonical]。解析数据前必读。所有 JSON 均为 UTF-8（`ensure_ascii=False`）。
-> 本文档由实测字段并集生成（M1 主卷 5,762 条全字段核查；统计见文末）。
+> 本轮以公开批次 JSON 与生成器只读核对字段定义；主卷 5,762 条的原统计保留为历史快照，不冒称本轮逐条重核。
 
 ---
 
-## A. M1 主卷七层结构
+## A. M1 主卷六层结构
 
 文件：`literature/workspace_m1_dhs306/DHS_p0835_1140_M1_FULL_5762.json`
-顶层：`{ "entries": [ ... ] }`，共 5,762 条。每条 `entry_id` 形如 `DHS0835-01`（`DHS` + PDF 四位页码 + 页内序号）。
+顶层：`{ "entries": [ ... ] }`，共 5,762 条。`entry_id` 不保证统一格式：除 `DHS0835-01`，批次件还有 `1137.09`、`D02`。定位须读取 `layer_0_visual_anchor`，不可只靠 ID 字符串推算页码。
 
 | 层 | 字段 | 含义 |
 | --- | --- | --- |
@@ -17,13 +17,13 @@
 | `layer_2_disambiguation` | `spanish_disambiguated` / `abbreviations_expanded` / `zh_disambiguated` / `en_disambiguated` / `syntactic_notes` | 消歧层：西语缩写展开与词头定形；中/英释义；句法备注 |
 | `layer_3_historical_phonology` | `dhs_tone_class` / `reconstructed_17th_c_hokkien` / `phonological_basis` | 历史音系层：声调类（几何代码数组）、17 世纪漳州音重构、逐条音理依据 |
 | `layer_4_modern_tai_lo` | `tai_lo_standard` / `moe_code` / `hanzi_standard` | 现代参照层：教育部台罗标准形、MOE 编码、标准字形 |
-| `layer_5_relationship_tag` | `tag` / `definition` / `rationale` | 关系标签层：词条与 handoff 基线的对勘关系 + 逐条理由 |
+| `layer_5_relationship_tag` | `tag` / `definition` / `rationale` | 关系标签层：西语与汉字/释义之间的语义关系分类 + 逐条理由；不是与 handoff 基线的差异标签 |
 
-### layer_5 标签体系（全库实测分布）
+### layer_5 标签体系（历史统计，非本轮全库复算）
 
 | 标签 | 定义（原文） | 条数 | 占比 |
 | --- | --- | ---: | ---: |
-| TAG-1 | Direct lexical/semantic or cultural institutional calque（直接词汇/语义或文化直承） | 5,552 | 96.4% |
+| TAG-1 | Direct lexical/semantic or cultural institutional calque（直接词汇/语义对应或文化制度仿译） | 5,552 | 96.4% |
 | TAG-4 | Institutional calque / paraphrastic cultural gloss（机构承借/释译性文化注） | 146 | 2.5% |
 | TAG-2 | Near synonym / register or stylistic differentiation（近义/语域风格分化） | 50 | 0.9% |
 | TAG-3 | Contextual extension / polysemic gloss（语境引申/多义注） | 10 | 0.2% |
@@ -77,5 +77,13 @@
 
 ## D. 统计快照（本文档生成时）
 
-* M1 主卷：5,762 条；7 层字段在抽样并集中无缺位。
-* M2 封存：827 页 / 声调标记 47,720 个（频次见 [TONE_MARKS.md](TONE_MARKS.md)）；数字随缺口补读实时增长。
+* M1 主卷历史登记为 5,762 条；`layer_0` 至 `layer_5` 是六个层对象，`entry_id` 是标识字段，不是第七层。
+* M2 封存：827 页 / 声调标记 47,720 个（频次见 [TONE_MARKS.md](TONE_MARKS.md)）；这是既有文档快照，不是实时计数。
+
+## E. 本轮核对依据与解释边界
+
+只读核对：[批次 14](../literature/workspace_m1_dhs306/batch_14_m1_disambiguated_06.json)、[批次生成器](../literature/workspace_m1_dhs306/build_all_m1_batches.py) 的 `TAG_DEFS` 与 `rationale`。TAG-1 与 TAG-4 的现存英文定义有语义重叠，保留原值，不擅自补造互斥定义。标签出现、字段非空或确定性生成均不证明逐条解释成立；标记分布不是校对通过率。
+
+`moe_code` 是数据中的编码字段；没有逐条官方词目核对证据时，不可把非空编码当作教育部认证。
+M1 的 `source_*` 是历史转写字段；M2 封存前存在净化步骤，封存输出不能替代净化前的原始视觉记录。
+`AUDITED_VISUALLY_VERIFIED` 是生产端状态字面，不独立证明人工校对或真正双盲完成。

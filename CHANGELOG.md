@@ -3,6 +3,15 @@
 > 版本沿革（进度细账与事故记录见 [docs/PROJECT_HISTORY.md](docs/PROJECT_HISTORY.md)）。
 > 语义化版本：0.x = 施工/校对期；1.0.0 = 首批书卷人工校对完成。
 
+## 文档溯源审校 — 2026-11-12
+
+- 核对 22 源公开登记的页位与哈希锚；区分来源 PDF、独立书、物理页位与语言完成数量。
+- 修正 M1 六个 layer 对象、混合 ID 格式及 TAG-1～5 的语义关系口径；不改任何封盘数据。
+- 补 52 ZIP 的迁移史、DHS v107 与独立盲读的区别；收窄门禁 PASS、覆盖、复核与全量完成的宣称。
+- 补高田時雄、Regalado Trota José、連金發的可核书目；修正丛刊九册与系列编号混淆及 Cobo 会籍。
+- 保留不确定书目、原图与完整主卷未重核事项。外文更新待同步处明确标记。
+- 本轮只改文档，未运行学术管线或修改受限文件；具体范围见 [审校记录](docs/DOCUMENTATION_AUDIT.md)。
+
 ## [0.2.0] — 2026-11-12 · 仓库门面与缺口补读启动
 
 ### Added
@@ -12,7 +21,7 @@
   周振鹤《中欧语言接触的先声》→ 李毓中团队丛刊 9 册与 2023 索里亚公爵奖）及历史/当代人物双表
 - 三语 README（汉/英/西）、方法论 METHODOLOGY、实际意义 SIGNIFICANCE（三语）、
   项目历史 PROJECT_HISTORY、使用方法 USAGE（三语）、CC BY-NC-SA 4.0 LICENSE
-- `docs/DATA_SCHEMA.md`：M1 主卷七层结构（含 layer_0 视觉锚点与 layer_5 关系标签 TAG-1~5
+- `docs/DATA_SCHEMA.md`：M1 主卷结构（旧文称七层；本轮澄清为六个 layer 对象）（含 layer_0 视觉锚点与 layer_5 关系标签 TAG-1~5
   全库实测分布）与 M2 封存件 schema 的对照数据字典
 - `docs/SOURCES.md`：22 源总目（馆藏号 / 页位 / SHA-256 锚 / body 初稿映射 / 线状态）
 - `docs/COLLATION_GUIDE.md`：人工校对手册（裁决规范、p0621 双版本案、p0041 非规范调标专案）

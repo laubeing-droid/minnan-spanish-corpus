@@ -4,13 +4,15 @@
 
 ---
 
-## 1. 语料分层：六层物理隔离
+## 1. DHS 四栏版式的观察层与派生层
 
-每一条辞典/文献数据分属六个互不污染的层：
+以下 L/H/M/R 是 DHS 四栏页的来源角色，不是所有 22 来源通用的固定版式，也不等同于 M1 的六个 `layer_*` 存储对象。历史阅读稿、参考辅助校对、M1 整理层与 M2 盲读封存件须分别说明生成方法，不能统一追认为盲读成果。
+
+按处理职责区分如下：
 
 | 层 | 内容 | 来源 |
 | --- | --- | --- |
-| L | 西班牙语词头/释义栏（照录 + 缩写展开） | 页面视觉 |
+| L | 西班牙语词头/释义栏照录（缩写展开另属派生层） | 页面视觉 |
 | H | 汉字栏（含俗字、[疑:A/B] 存疑标注） | 页面视觉 |
 | M | 闽南语原稿音写栏（17 世纪多明我会拼写） | 页面视觉 |
 | R | 右栏官话对音 | 页面视觉 |
@@ -43,7 +45,7 @@
 5. **三步施工法**：`slice`（300dpi 横带+纵栏切片）→ 精读员纯视觉转写 `raw_part_pXXXX.json` →
    `commit`（净化、推导、封存）+ `architect_gatekeeper.py` 验收。**严禁直接手写封存件。**
 
-## 3. 双盲哈希封存与不可改门禁
+## 3. 盲读封存、完整性校验与不可改门禁
 
 * 每页 `commit` 时：净化正字 → 声调标签规范化 → 西语缩写展开 → IPA/台罗推导 → 写 `blind_read_pXXXX.json`
   → 计算全文件 SHA-256 → 登入 `BLIND_READ_MANIFEST.json`（`status: LOCKED_BEFORE_COLLATION`）。
@@ -52,7 +54,9 @@
   * **M1 线**：逐条核对队列 ID、封存批次数、台罗/IPA/依据非空且反模板（同值超限即拒收——防 LLM 批量编造）、
     主卷总条数（5,762）；
   * **M2 线**：逐页 SHA-256 对账、禁用声调代码、`source_M` 现代拼写/鼻化符残留扫描、页条目下限（豁免登记页）。
-* 门禁输出 `[PASS]` 是每批入库的唯一验收标准。
+* 门禁 `[PASS]` 只表示该批满足检查器实际覆盖的工程入库条件，不表示逐字正确、历史拟音已证成、独立复核完成或全量学术验收。盲读封存、人工校对与语言内容验收分别记账。
+* 哈希证明字节一致，不证明读者未看旧稿。未有两名互不知结果的独立读者及过程证据，不把封存称为“双盲”。
+* raw 原读与净化／规范化结果须分辨，转换可追溯；确定性转换不证明疑字、历史音值或词义正确，证据不足仍保留未决。
 
 ## 4. 施工管线与质量机制
 
@@ -103,7 +107,7 @@ PDF 原件 ──slice──▶ 300dpi 横带+纵栏 ──▶ 精读员并行�
 
 ## 6. English summary
 
-The corpus is produced by a *pure blind-read protocol*: transcription follows the page image only
+The repository preserves different stages, including reference-assisted drafts and M2 blind-read records. These must not be retrospectively treated as one blind-read corpus. The M2 protocol specifies: transcription follows the page image only
 (no phonological "corrections"), the four manuscript columns (Spanish head, Chinese characters,
 Hokkien manuscript spelling, Mandarin gloss) are kept verbatim in isolated layers, tone marks are
 recorded as **geometric shapes** (T00–T07, T99) rather than inferred tone values, and every page is
@@ -115,4 +119,4 @@ catch "totals match but pages missing" gaps; non-lexicographic modern publisher 
 by registration. Limitations: blind reads are single-pass and require the human collation stage
 that follows; the MOE layer is a modern reference only.
 
-> Versión española: pendiente del cotejo; el resumen inglés es canónico hasta entonces.
+> Versión española: pendiente del cotejo; el texto chino es canónico.
