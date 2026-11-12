@@ -1,0 +1,503 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1028,
+  "historical_folio": 990,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1028/pdf_1028_300dpi.png",
+  "page_header": "",
+  "page_footer_printed": "- 990 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "tiempo, a buen tiempo",
+      "source_H": "正行時",
+      "source_M": "chià qũia sy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tiempo, a buen tiempo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsia² kĩã¹ si⁵",
+        "tai_lo_standard": "tsiá-kiann-sî",
+        "phonological_basis": "17c Dominican orthography conversion: chià (正) -> tsia² / tsiá; qũia (行) -> kĩã¹ / kiann; sy (時) -> si⁵ / sî."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "tiempo largo",
+      "source_H": "好久",
+      "source_M": "hō cù",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tiempo largo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho⁵ ku²",
+        "tai_lo_standard": "hô-kú",
+        "phonological_basis": "17c Dominican orthography conversion: hō (好) -> ho⁵ / hô; cù (久) -> ku² / kú."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "tiempo larga",
+      "source_H": "悠久",
+      "source_M": "iù cù",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tiempo larga",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu² ku²",
+        "tai_lo_standard": "iú-kú",
+        "phonological_basis": "17c Dominican orthography conversion: iù (悠) -> iu² / iú; cù (久) -> ku² / kú."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "tiempo este tiempo",
+      "source_H": "時景",
+      "source_M": "sȳ quèng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tiempo este tiempo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si⁵ keŋ²",
+        "tai_lo_standard": "sî-kéng",
+        "phonological_basis": "17c Dominican orthography conversion: s (時) -> si⁵ / sî; quèng (景) -> keŋ² / kéng."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "tiempo templado ~ sea:",
+      "source_H": "燮理陰陽[疑:燮/癉]",
+      "source_M": "sien lȳ im iāng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tiempo templado ~ sea:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sien¹ li⁵ im¹ iaŋ⁵",
+        "tai_lo_standard": "sien-lî-im-iâng",
+        "phonological_basis": "17c Dominican orthography conversion: sien (燮) -> sien¹ / sien; l (理) -> li⁵ / lî; im (陰) -> im¹ / im; iāng (陽) -> iaŋ⁵ / iâng."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "tiempo bueno aproposito.",
+      "source_H": "好天時",
+      "source_M": "hò tỹ sȳ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tiempo bueno aproposito.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho² tʰi⁵ si⁵",
+        "tai_lo_standard": "hó-thî-sî",
+        "phonological_basis": "17c Dominican orthography conversion: hò (好) -> ho² / hó; t (天) -> tʰi⁵ / thî; s (時) -> si⁵ / sî."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "tiempo fuera ya, a buena fuera ya pfagan. ~ &",
+      "source_H": "可还",
+      "source_M": "tang huān",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tiempo fuera ya, a buena fuera ya pfagan. ~ &",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "taŋ¹ huan⁵",
+        "tai_lo_standard": "tang-huân",
+        "phonological_basis": "17c Dominican orthography conversion: tang (可) -> taŋ¹ / tang; huān (还) -> huan⁵ / huân."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "tiempo cierto, determinado.",
+      "source_H": "定時",
+      "source_M": "tiā̃ sȳ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tiempo cierto, determinado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tĩã⁶ si⁵",
+        "tai_lo_standard": "tiānn-sî",
+        "phonological_basis": "17c Dominican orthography conversion: tiā̃ (定) -> tĩã⁶ / tiānn; s (時) -> si⁵ / sî."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "tiempo, en cierto tiempo, yela:",
+      "source_H": "霜降",
+      "source_M": "gang câng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tiempo, en cierto tiempo, yela:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gaŋ¹ kaŋ³",
+        "tai_lo_standard": "gang-kàng",
+        "phonological_basis": "17c Dominican orthography conversion: gang (霜) -> gaŋ¹ / gang; câng (降) -> kaŋ³ / kàng."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "tiempo de yelos -",
+      "source_H": "霜寒雪凍",
+      "source_M": "gang uā̃ tē tâng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tiempo de yelos -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gaŋ¹ ũã⁵ te⁵ taŋ³",
+        "tai_lo_standard": "gang-uânn-tê-tàng",
+        "phonological_basis": "17c Dominican orthography conversion: gang (霜) -> gaŋ¹ / gang; uā̃ (寒) -> ũã⁵ / uânn; tē (雪) -> te⁵ / tê; tâng (凍) -> taŋ³ / tàng."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "tiempo, a buen tiempo.",
+      "source_H": "正及時",
+      "source_M": "chià guip sȳ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tiempo, a buen tiempo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsia² guip⁸ si⁵",
+        "tai_lo_standard": "tsiá-gui̍p-sî",
+        "phonological_basis": "17c Dominican orthography conversion: chià (正) -> tsia² / tsiá; guip (及) -> guip⁸ / gui̍p; s (時) -> si⁵ / sî."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "tiempo abuentiempo ~",
+      "source_H": "著時",
+      "source_M": "tiō sȳ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tiempo abuentiempo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tio⁵ si⁵",
+        "tai_lo_standard": "tiô-sî",
+        "phonological_basis": "17c Dominican orthography conversion: tiō (著) -> tio⁵ / tiô; s (時) -> si⁵ / sî."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "tiempo abuen tiempo.",
+      "source_H": "合時",
+      "source_M": "hap sȳ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tiempo abuen tiempo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hap⁸ si⁵",
+        "tai_lo_standard": "ha̍p-sî",
+        "phonological_basis": "17c Dominican orthography conversion: hap (合) -> hap⁸ / ha̍p; s (時) -> si⁵ / sî."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "tiempo abuen tiempo.",
+      "source_H": "赴時",
+      "source_M": "hù sȳ, hù xit",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tiempo abuen tiempo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu² si⁵ hu² dzit⁷",
+        "tai_lo_standard": "hú-sî-hú-jit",
+        "phonological_basis": "17c Dominican orthography conversion: hù (赴) -> hu² / hú; s (時) -> si⁵ / sî; hù (?) -> hu² / hú; xit (?) -> dzit⁷ / jit."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "tiempo de invierno.[疑:invierno/registro]",
+      "source_H": "一任",
+      "source_M": "chit xim",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tiempo de invierno.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsit⁷ dzim¹",
+        "tai_lo_standard": "tsit-jim",
+        "phonological_basis": "17c Dominican orthography conversion: chit (一) -> tsit⁷ / tsit; xim (任) -> dzim¹ / jim."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Tienda -",
+      "source_H": "店",
+      "source_M": "tiam",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tienda -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiam³",
+        "tai_lo_standard": "tiàm",
+        "phonological_basis": "17c Dominican orthography conversion: tiam (店) -> tiam³ / tiàm."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "tienda",
+      "source_H": "舖",
+      "source_M": "pou",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tienda",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pou³",
+        "tai_lo_standard": "pòu",
+        "phonological_basis": "17c Dominican orthography conversion: pou (舖) -> pou³ / pòu."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "tienda, numeral ~",
+      "source_H": "坎",
+      "source_M": "cam",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tienda, numeral ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kam¹",
+        "tai_lo_standard": "kam",
+        "phonological_basis": "17c Dominican orthography conversion: cam (坎) -> kam¹ / kam."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "tienda",
+      "source_H": "鋪舍",
+      "source_M": "pon sia.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tienda",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pon³ sia³",
+        "tai_lo_standard": "pòn-sià",
+        "phonological_basis": "17c Dominican orthography conversion: pon (鋪) -> pon³ / pòn; sia (舍) -> sia³ / sià."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "tienda",
+      "source_H": "坎店",
+      "source_M": "cam tiam.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tienda",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kam² tiam³",
+        "tai_lo_standard": "kám-tiàm",
+        "phonological_basis": "17c Dominican orthography conversion: cam (坎) -> kam² / kám; tiam (店) -> tiam³ / tiàm."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "tienda",
+      "source_H": "店家",
+      "source_M": "tiam que",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tienda",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiam³ ke¹",
+        "tai_lo_standard": "tiàm-ke",
+        "phonological_basis": "17c Dominican orthography conversion: tiam (店) -> tiam³ / tiàm; que (家) -> ke¹ / ke."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "Firmo, fenertienn ~ / f. moderado, modesto, cuidadoso &",
+      "source_H": "慎",
+      "source_M": "sin",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Firmo, fenertienn ~ / f. moderado, modesto, cuidadoso &",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sin¹",
+        "tai_lo_standard": "sin",
+        "phonological_basis": "17c Dominican orthography conversion: sin (慎) -> sin¹ / sin."
+      }
+    }
+  ]
+}

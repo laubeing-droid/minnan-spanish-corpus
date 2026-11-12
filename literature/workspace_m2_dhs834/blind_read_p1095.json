@@ -1,0 +1,417 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1095,
+  "historical_folio": 1057,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1095/pdf_1095_300dpi.png",
+  "page_header": "V",
+  "page_footer_printed": "- 1057 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Viguela de 4 ordenes -",
+      "source_H": "琵琶琴",
+      "source_M": "py pë quīm",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Viguela de 4 ordenes -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pi¹ pi¹ kim⁵",
+        "tai_lo_standard": "pi-pi-kîm",
+        "phonological_basis": "17c Dominican orthography conversion: py (琵) -> pi¹ / pi; p (琶) -> pi¹ / pi; quīm (琴) -> kim⁵ / kîm."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Viguelas grandes y pequeñas en consó y depond'cia templa day -",
+      "source_H": "琴瑟和鳴",
+      "source_M": "quīm sê hō bēng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Viguelas grandes y pequeñas en consó y depond'cia templa day -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kim⁵ se³ ho⁵ beŋ⁵",
+        "tai_lo_standard": "kîm-sè-hô-bêng",
+        "phonological_basis": "17c Dominican orthography conversion: quīm (琴) -> kim⁵ / kîm; sê (瑟) -> se³ / sè; hō (和) -> ho⁵ / hô; bēng (鳴) -> beŋ⁵ / bêng."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Vil cosa -",
+      "source_H": "村",
+      "source_M": "chũn ¿ chũi::",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vil cosa -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰũn¹ tsũĩ⁶",
+        "tai_lo_standard": "tshun-tsuīnn",
+        "phonological_basis": "17c Dominican orthography conversion: chũn (村) -> tsʰũn¹ / tshun; chũi (?) -> tsũĩ⁶ / tsuīnn."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "vil cosa -",
+      "source_H": "儀 [疑:儀/傳]",
+      "source_M": "hān.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vil cosa -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "han³",
+        "tai_lo_standard": "hàn",
+        "phonological_basis": "17c Dominican orthography conversion: hān (儀) -> han³ / hàn."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Vil bajo -",
+      "source_H": "卑賤",
+      "source_M": "pỹ chiên",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vil bajo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pi² tsien³",
+        "tai_lo_standard": "pí-tsièn",
+        "phonological_basis": "17c Dominican orthography conversion: p (卑) -> pi² / pí; chiên (賤) -> tsien³ / tsièn."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "vil bajo -",
+      "source_H": "卑下",
+      "source_M": "pỹ hẽ::",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vil bajo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pi² hẽ²",
+        "tai_lo_standard": "pí-hénn",
+        "phonological_basis": "17c Dominican orthography conversion: p (卑) -> pi² / pí; hẽ (下) -> hẽ² / hénn."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "vil bajo.",
+      "source_H": "[空]",
+      "source_M": "fiāu jîn:",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vil bajo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fiau⁶ dzin³",
+        "tai_lo_standard": "fiāu-jìn",
+        "phonological_basis": "17c Dominican orthography conversion: fiāu (?) -> fiau⁶ / fiāu; jîn (?) -> dzin³ / jìn."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "vil hombre - ⁇Co",
+      "source_H": "粗人",
+      "source_M": "chōu lǎng : bō cū :",
+      "source_R": "(chōu siǒ lǎng · villano.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vil hombre - ⁇Co",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰou⁵ laŋ¹ bo⁶ ku⁶",
+        "tai_lo_standard": "tshôu-lang-bō-kū",
+        "phonological_basis": "17c Dominican orthography conversion: chōu (粗) -> tsʰou⁵ / tshôu; lǎng (人) -> laŋ¹ / lang; bō (?) -> bo⁶ / bō; cū (?) -> ku⁶ / kū."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "vil hombre -",
+      "source_H": "村人",
+      "source_M": "chūi lǎng : iǵ :",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vil hombre -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰui⁵ laŋ¹ i¹",
+        "tai_lo_standard": "tshuî-lang-i",
+        "phonological_basis": "17c Dominican orthography conversion: chūi (村) -> tsʰui⁵ / tshuî; lǎng (人) -> laŋ¹ / lang; i (?) -> i¹ / i."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "vil hombre villano -",
+      "source_H": "村夫",
+      "source_M": "chún hú::",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vil hombre villano -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰun¹ hu¹",
+        "tai_lo_standard": "tshun-hu",
+        "phonological_basis": "17c Dominican orthography conversion: chún (村) -> tsʰun¹ / tshun; hú (夫) -> hu¹ / hu."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "vil y bajos eres -",
+      "source_H": "微毒 [疑:毒/賤]",
+      "source_M": "vē ƈǒ::",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vil y bajos eres -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ve⁵ o²",
+        "tai_lo_standard": "vê-ó",
+        "phonological_basis": "17c Dominican orthography conversion: vē (微) -> ve⁵ / vê; ǒ (毒) -> o² / ó."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "vil, de bajos pensamientos no tiene sabigre enel go-",
+      "source_H": "無志人",
+      "source_M": "bō chǐ lǎng::",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vil, de bajos pensamientos no tiene sabigre enel go-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bo⁵ tsi² laŋ¹",
+        "tai_lo_standard": "bô-tsí-lang",
+        "phonological_basis": "17c Dominican orthography conversion: bō (無) -> bo⁵ / bô; chǐ (志) -> tsi² / tsí; lǎng (人) -> laŋ¹ / lang."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "vil sin Juicio ni cobdicia.",
+      "source_H": "賤相",
+      "source_M": "chiẽn siàng::",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vil sin Juicio ni cobdicia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsĩẽn² siaŋ²",
+        "tai_lo_standard": "tsién-siáng",
+        "phonological_basis": "17c Dominican orthography conversion: chiẽn (賤) -> tsĩẽn² / tsién; siàng (相) -> siaŋ² / siáng."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "(vil grueso, villano)",
+      "source_H": "粗侉人 [疑:侉/俗]",
+      "source_M": "(chòu siǒ lâng.)",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(vil grueso, villano)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰou² sio² laŋ¹",
+        "tai_lo_standard": "tshóu-sió-lang",
+        "phonological_basis": "17c Dominican orthography conversion: chòu (粗) -> tsʰou² / tshóu; siǒ (侉) -> sio² / sió; lâng (人) -> laŋ¹ / lang."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Vilango -",
+      "source_H": "狗脚",
+      "source_M": "caù cá :",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vilango -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kau² ka¹",
+        "tai_lo_standard": "káu-ka",
+        "phonological_basis": "17c Dominican orthography conversion: caù (狗) -> kau² / káu; cá (脚) -> ka¹ / ka."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Vilango. p̃. alguacil.",
+      "source_H": "狗箝 [疑:箝/鉗]",
+      "source_M": "caù chūe :",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vilango. p̃. alguacil.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kau² tsue⁵",
+        "tai_lo_standard": "káu-tsuê",
+        "phonological_basis": "17c Dominican orthography conversion: caù (狗) -> kau² / káu; chūe (箝) -> tsue⁵ / tsuê."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Villano -",
+      "source_H": "村",
+      "source_M": "chūi.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Villano -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰui⁵",
+        "tai_lo_standard": "tshuî",
+        "phonological_basis": "17c Dominican orthography conversion: chūi (村) -> tsʰui⁵ / tshuî."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Villere ~",
+      "source_H": "帖",
+      "source_M": "tiap::",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Villere ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiap⁷",
+        "tai_lo_standard": "tiap",
+        "phonological_basis": "17c Dominican orthography conversion: tiap (帖) -> tiap⁷ / tiap."
+      }
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1017,
+  "historical_folio": 979,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1017/pdf_1017_300dpi.png",
+  "page_header": "",
+  "page_footer_printed": "- 979 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Temprano-（首字母花体大写，大字词头）",
+      "source_H": "早",
+      "source_M": "chà",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Temprano-（首字母花体大写，大字词头）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsa²",
+        "tai_lo_standard": "tsá",
+        "phonological_basis": "17c Dominican orthography conversion: chà (早) -> tsa² / tsá."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "temprano-",
+      "source_H": "夙 [疑:夙/凤]",
+      "source_M": "[残]（字迹重笔涂改难辨）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "temprano-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "temprano-",
+      "source_H": "旦",
+      "source_M": "tân [疑:â 上似另有平横]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "temprano-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tan³ a³",
+        "tai_lo_standard": "tàn-à",
+        "phonological_basis": "17c Dominican orthography conversion: tân (旦) -> tan³ / tàn; â (?) -> a³ / à."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "temprano-",
+      "source_H": "放早",
+      "source_M": "pâng chà",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "temprano-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paŋ³ tsa²",
+        "tai_lo_standard": "pàng-tsá",
+        "phonological_basis": "17c Dominican orthography conversion: pâng (放) -> paŋ³ / pàng; chà (早) -> tsa² / tsá."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "temprano-",
+      "source_H": "趜早 [疑:趜/趕]",
+      "source_M": "tân chà [疑:首字母 t/k]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "temprano-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tan³ tsa² ti¹ ik⁷",
+        "tai_lo_standard": "tàn-tsá-ti-ik",
+        "phonological_basis": "17c Dominican orthography conversion: tân (趜) -> tan³ / tàn; chà (早) -> tsa² / tsá; t (?) -> ti¹ / ti; k (?) -> ik⁷ / ik."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "temprano-",
+      "source_H": "清早",
+      "source_M": "chẽ chà（n 上为鼻化小钩，写作上标 n）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "temprano-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsẽ² tsa² ni¹ ni¹",
+        "tai_lo_standard": "tsénn-tsá-ni-ni",
+        "phonological_basis": "17c Dominican orthography conversion: chẽ (清) -> tsẽ² / tsénn; chà (早) -> tsa² / tsá; n (?) -> ni¹ / ni; n (?) -> ni¹ / ni."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "temprano, mas temprano. / mui temprano.",
+      "source_H": "放可早 [疑:可/較]",
+      "source_M": "pâng ca chà（ca 上大交叉号，疑涂改或入声交叉号）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "temprano, mas temprano. / mui temprano.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paŋ³ kaʔ⁷ tsa² ka¹",
+        "tai_lo_standard": "pàng-kah-tsá-ka",
+        "phonological_basis": "17c Dominican orthography conversion: pâng (放) -> paŋ³ / pàng; ca (可) -> kaʔ⁷ / kah; chà (早) -> tsa² / tsá; ca (?) -> ka¹ / ka."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "temprano y tarde.",
+      "source_H": "夙夜 [疑:夙/凤]",
+      "source_M": "tiog yā [疑:首字母 t/s；中字符难辨]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "temprano y tarde.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiok⁷ ia⁵ ti¹ si¹",
+        "tai_lo_standard": "tiok-iâ-ti-si",
+        "phonological_basis": "17c Dominican orthography conversion: tiog (夙) -> tiok⁷ / tiok; yā (夜) -> ia⁵ / iâ; t (?) -> ti¹ / ti; s (?) -> si¹ / si."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Tenazas-（首字母花体大写，大字词头）[疑:末字 z/ç]",
+      "source_H": "鏻 [疑:鏻/鉗]",
+      "source_M": "gūy（另有上标小字[残]）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tenazas-（首字母花体大写，大字词头）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui⁵",
+        "tai_lo_standard": "guî",
+        "phonological_basis": "17c Dominican orthography conversion: gūy (鏻) -> gui⁵ / guî."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "tenazas- [疑:tenacar]",
+      "source_H": "鉍 [疑:鉍/鉗]",
+      "source_M": "guiam（i 上小上标号[残]）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tenazas-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guiam¹ i¹",
+        "tai_lo_standard": "guiam-i",
+        "phonological_basis": "17c Dominican orthography conversion: guiam (鉍) -> guiam¹ / guiam; i (?) -> i¹ / i."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "tenazas- [疑:tenacar]",
+      "source_H": "鏑",
+      "source_M": "tiâ. hā nge nguīna（各词上标小号[残]）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tenazas-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tia³ ha⁶ ŋe¹ ŋuina⁶",
+        "tai_lo_standard": "tià-hā-nge-nguinā",
+        "phonological_basis": "17c Dominican orthography conversion: tiâ (鏑) -> tia³ / tià; hā (?) -> ha⁶ / hā; nge (?) -> ŋe¹ / nge; nguīna (?) -> ŋuina⁶ / nguinā."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "tenazas- [疑:tenacar]（词行带圈花饰）",
+      "source_H": "起波浪",
+      "source_M": "gūy pō nuñ（各上标小号[残]）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tenazas- （词行带圈花饰）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui⁵ po⁵ nũn¹",
+        "tai_lo_standard": "guî-pô-nun",
+        "phonological_basis": "17c Dominican orthography conversion: gūy (起) -> gui⁵ / guî; pō (波) -> po⁵ / pô; nuñ (浪) -> nũn¹ / nun."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "tenazas, la presa, o boca della- [疑:首词拼写]",
+      "source_H": "起波",
+      "source_M": "gūy pō（上标小号[残]）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tenazas, la presa, o boca della-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui⁵ po⁵",
+        "tai_lo_standard": "guî-pô",
+        "phonological_basis": "17c Dominican orthography conversion: gūy (起) -> gui⁵ / guî; pō (波) -> po⁵ / pô."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "tenazuelas pequeñas（整词圈注）",
+      "source_H": "鏑鋏 [疑:鋏/鈌]",
+      "source_M": "tiâ nge（整词圈注；nge 上小号[残]）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tenazuelas pequeñas（整词圈注）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tia³ ŋe¹ ŋe¹",
+        "tai_lo_standard": "tià-nge-nge",
+        "phonological_basis": "17c Dominican orthography conversion: tiâ (鏑) -> tia³ / tià; nge (鋏) -> ŋe¹ / nge; nge (?) -> ŋe¹ / nge."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "tenazuelas del cangrejo.",
+      "source_H": "蟳蟥 [疑:蟥/蠙]",
+      "source_M": "chim coñ（末字符疑 ñ/õ 难辨；chim 之 i 上疑有平横）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tenazuelas del cangrejo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsim⁵ kõn¹ nĩ¹ õ¹ tsim¹ i¹",
+        "tai_lo_standard": "tsîm-kon-ninn-onn-tsim-i",
+        "phonological_basis": "17c Dominican orthography conversion: chim (蟳) -> tsim⁵ / tsîm; coñ (蟥) -> kõn¹ / kon; ñ (?) -> nĩ¹ / ninn; õ (?) -> õ¹ / onn; chim (?) -> tsim¹ / tsim; i (?) -> i¹ / i."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "tender, extender-（首字母花体大写，大字词头）",
+      "source_H": "披（字下另有栏间小字[残]，疑音节注记）",
+      "source_M": "[残]（大写花体 P 形起笔，后接 y 及小号，全词难辨）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tender, extender-（首字母花体大写，大字词头）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pi¹ i¹",
+        "tai_lo_standard": "pi-i",
+        "phonological_basis": "17c Dominican orthography conversion: P (披) -> pi¹ / pi; y (字) -> i¹ / i."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "tender, extender: extender.（整行圈注）",
+      "source_H": "舒",
+      "source_M": "chu.（u 上小号[残]）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tender, extender: extender.（整行圈注）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu¹ u¹",
+        "tai_lo_standard": "tsu-u",
+        "phonological_basis": "17c Dominican orthography conversion: chu (舒) -> tsu¹ / tsu; u (?) -> u¹ / u."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "tendero: y mercader-（跨两行书写：…y mer / cader）",
+      "source_H": "店主",
+      "source_M": "tiam chù [疑:â 位于 i/a 之间]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tendero: y mercader-（跨两行书写：…y mer / cader）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiam³ tsu² a³ i¹ a¹",
+        "tai_lo_standard": "tiàm-tsú-à-i-a",
+        "phonological_basis": "17c Dominican orthography conversion: tiam (店) -> tiam³ / tiàm; chù (主) -> tsu² / tsú; â (?) -> a³ / à; i (?) -> i¹ / i; a (?) -> a¹ / a."
+      }
+    }
+  ]
+}

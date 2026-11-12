@@ -1,0 +1,481 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1129,
+  "historical_folio": 1091,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1129/pdf_1129_300dpi.png",
+  "page_header": "",
+  "page_footer_printed": "- 1091 -",
+  "page_footer_handwritten": "5446 [疑:5446/3446]",
+  "total_positions_recorded": 21,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Lngrin, pegar ãna dir. [疑:首字母L/Y]",
+      "source_H": "接",
+      "source_M": "chiap.",
+      "source_R": "yodien [疑:首字母y/g]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Lngrin, pegar ãna dir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiap⁷",
+        "tai_lo_standard": "tsiap",
+        "phonological_basis": "17c Dominican orthography conversion: chiap (接) -> tsiap⁷ / tsiap."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Ynglati [残]",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynglati",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Lngran- [疑:首字母L/Y]",
+      "source_H": "忘形骸",
+      "source_M": "bong heng hai.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Lngran-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bɔŋ³ heŋ³ hai³",
+        "tai_lo_standard": "bòng-hèng-hài",
+        "phonological_basis": "17c Dominican orthography conversion: bong (忘) -> bɔŋ³ / bòng; heng (形) -> heŋ³ / hèng; hai (骸) -> hai³ / hài."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Yngran-",
+      "source_H": "苟[疑:苟/茍][残]謝",
+      "source_M": "po po sia.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Yngran-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "po¹ po³ sia³",
+        "tai_lo_standard": "po-pò-sià",
+        "phonological_basis": "17c Dominican orthography conversion: po (苟) -> po¹ / po; po (謝) -> po³ / pò; sia (?) -> sia³ / sià."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Yngran-",
+      "source_H": "消行",
+      "source_M": "po heng.",
+      "source_R": "[涂销]pue çon [残]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Yngran-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "po¹ heŋ³",
+        "tai_lo_standard": "po-hèng",
+        "phonological_basis": "17c Dominican orthography conversion: po (消) -> po¹ / po; heng (行) -> heŋ³ / hèng."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Yngran-",
+      "source_H": "背義",
+      "source_M": "pue gi [涂销:青舛半反(疑)]",
+      "source_R": "poan",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Yngran-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pue² gi¹",
+        "tai_lo_standard": "pué-gi",
+        "phonological_basis": "17c Dominican orthography conversion: pue (背) -> pue² / pué; gi (義) -> gi¹ / gi."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Yngran-",
+      "source_H": "佬苟 [疑:佬苟/僥苟]",
+      "source_M": "hian po [残]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Yngran-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hian⁵ po¹",
+        "tai_lo_standard": "hiân-po",
+        "phonological_basis": "17c Dominican orthography conversion: hian (佬) -> hian⁵ / hiân; po (苟) -> po¹ / po."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Yngran-",
+      "source_H": "負義",
+      "source_M": "hu gi; tay ba: bu ba [疑:tay/fay]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Yngran-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu² gi⁵ tai¹ ba³ bu² ba³ tai¹ fai¹",
+        "tai_lo_standard": "hú-gî-tai-bà-bú-bà-tai-fai",
+        "phonological_basis": "17c Dominican orthography conversion: hu (負) -> hu² / hú; gi (義) -> gi⁵ / gî; tay (?) -> tai¹ / tai; ba (?) -> ba³ / bà; bu (?) -> bu² / bú; ba (?) -> ba³ / bà; tay (?) -> tai¹ / tai; fay (?) -> fai¹ / fai."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Yngran- decamedio. [残]",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Yngran- decamedio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Ynhavil.? neaio. [残]",
+      "source_H": "銅",
+      "source_M": "cou.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynhavil.? neaio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kou³",
+        "tai_lo_standard": "kòu",
+        "phonological_basis": "17c Dominican orthography conversion: cou (銅) -> kou³ / kòu."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "(Ynhavil, necio o.)",
+      "source_H": "不肖",
+      "source_M": "pur siau.",
+      "source_R": "in obcionk [残]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(Ynhavil, necio o.)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pur³ siau³",
+        "tai_lo_standard": "pùr-siàu",
+        "phonological_basis": "17c Dominican orthography conversion: pur (不) -> pur³ / pùr; siau (肖) -> siau³ / siàu."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "ynhabil, sin talento.",
+      "source_H": "不才",
+      "source_M": "pur chai.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ynhabil, sin talento.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pur³ tsai⁵",
+        "tai_lo_standard": "pùr-tsâi",
+        "phonological_basis": "17c Dominican orthography conversion: pur (不) -> pur³ / pùr; chai (才) -> tsai⁵ / tsâi."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "(yn habie, p² povā-) [残]",
+      "source_H": "無用",
+      "source_M": "Bo iong. sin pochos [残]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T00 (無標號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(yn habie, p² povā-)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bo³ ioŋ³ sin¹ pochos¹",
+        "tai_lo_standard": "bò-iòng-sin-pochos",
+        "phonological_basis": "17c Dominican orthography conversion: Bo (無) -> bo³ / bò; iong (用) -> ioŋ³ / iòng; sin (?) -> sin¹ / sin; pochos (?) -> pochos¹ / pochos."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Ynguito- [疑:nguito/ngusto]",
+      "source_H": "枉",
+      "source_M": "cong.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynguito-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ²",
+        "tai_lo_standard": "kóng",
+        "phonological_basis": "17c Dominican orthography conversion: cong (枉) -> kɔŋ² / kóng."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Ynguito cruel- [疑:nguito/ngusto]",
+      "source_H": "残",
+      "source_M": "chan: chã xim id [残]",
+      "source_R": "chan mi. malicia con caujara- [残]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T00 (無標號)",
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynguito cruel-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsan⁵ tsã¹ dzim¹ id¹",
+        "tai_lo_standard": "tsân-tsann-jim-id",
+        "phonological_basis": "17c Dominican orthography conversion: chan (残) -> tsan⁵ / tsân; chã (?) -> tsã¹ / tsann; xim (?) -> dzim¹ / jim; id (?) -> id¹ / id."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "ynguto sin vaçon, nola mira [疑:vaçon/raçon]",
+      "source_H": "偏見",
+      "source_M": "pien quien.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ynguto sin vaçon, nola mira",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pʰien² kien¹",
+        "tai_lo_standard": "phién-kien",
+        "phonological_basis": "17c Dominican orthography conversion: pien (偏) -> pʰien² / phién; quien (見) -> kien¹ / kien."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Ynfutta mente- [疑:futta/justa]",
+      "source_H": "究枉 [疑:究枉/冤枉]",
+      "source_M": "van ong.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynfutta mente-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "van¹ ɔŋ¹",
+        "tai_lo_standard": "van-ong",
+        "phonological_basis": "17c Dominican orthography conversion: van (究) -> van¹ / van; ong (枉) -> ɔŋ¹ / ong."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Yngradiente.?. degobe deper. [残]",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Yngradiente.?. degobe deper.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Ynocente.[疑:ſ/&]. justo. bueno. santo -",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynocente.. justo. bueno. santo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Ynnumerable.",
+      "source_H": "[残][疑:秧/秋]筹得",
+      "source_M": "bey ¿ui ¿n [残]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynnumerable.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bei¹ ui¹ ni¹",
+        "tai_lo_standard": "bei-ui-ni",
+        "phonological_basis": "17c Dominican orthography conversion: bey (筹) -> bei¹ / bei; ui (得) -> ui¹ / ui; n (?) -> ni¹ / ni."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "[残]",
+      "source_H": "[残]",
+      "source_M": "[残]",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    }
+  ]
+}

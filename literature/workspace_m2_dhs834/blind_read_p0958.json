@@ -1,0 +1,391 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 958,
+  "historical_folio": 920,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0958/pdf_0958_300dpi.png",
+  "page_header": "S. ante.",
+  "page_footer_printed": "- 920 -",
+  "page_footer_handwritten": "460",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Secretamente -",
+      "source_H": "密",
+      "source_M": "bit : bit [疑:bit/bir]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secretamente -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bit⁷ bit⁷ bit⁷ bir¹",
+        "tai_lo_standard": "bit-bit-bit-bir",
+        "phonological_basis": "17c Dominican orthography conversion: bit (密) -> bit⁷ / bit; bit (?) -> bit⁷ / bit; bit (?) -> bit⁷ / bit; bir (?) -> bir¹ / bir."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Secretamente, aescondida -",
+      "source_H": "偷",
+      "source_M": "tau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secretamente, aescondida -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰau¹",
+        "tai_lo_standard": "thau",
+        "phonological_basis": "17c Dominican orthography conversion: tau (偷) -> tʰau¹ / thau."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Secretamente -",
+      "source_H": "秘密 [疑:秘/私]",
+      "source_M": "pi bit",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secretamente -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pi¹ bit⁷",
+        "tai_lo_standard": "pi-bit",
+        "phonological_basis": "17c Dominican orthography conversion: pi (秘) -> pi¹ / pi; bit (密) -> bit⁷ / bit."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Secretario .",
+      "source_H": "總 書",
+      "source_M": "chõg su [疑:chõg/song]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secretario .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsɔ̃k⁷ su¹ tsɔ̃k⁷ sɔŋ¹",
+        "tai_lo_standard": "tsok-su-tsok-song",
+        "phonological_basis": "17c Dominican orthography conversion: chõg (總) -> tsɔ̃k⁷ / tsok; su (書) -> su¹ / su; chõg (?) -> tsɔ̃k⁷ / tsok; song (?) -> sɔŋ¹ / song."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Secretario del infierno.",
+      "source_H": "判 官",
+      "source_M": "poã cuã",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secretario del infierno.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pʰõã¹ kũã¹",
+        "tai_lo_standard": "phoann-kuann",
+        "phonological_basis": "17c Dominican orthography conversion: poã (判) -> pʰõã¹ / phoann; cuã (官) -> kũã¹ / kuann."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Secretario del Mandarin.",
+      "source_H": "縣 吏",
+      "source_M": "uan ly",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secretario del Mandarin.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "uan¹ li¹",
+        "tai_lo_standard": "uan-li",
+        "phonological_basis": "17c Dominican orthography conversion: uan (縣) -> uan¹ / uan; ly (吏) -> li¹ / li."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Secretario del mandarin .",
+      "source_H": "察 頭 吏 [疑:察/案]",
+      "source_M": "oa tau ly",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secretario del mandarin .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "oa¹ tʰau¹ li¹",
+        "tai_lo_standard": "oa-thau-li",
+        "phonological_basis": "17c Dominican orthography conversion: oa (察) -> oa¹ / oa; tau (頭) -> tʰau¹ / thau; ly (吏) -> li¹ / li."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Secreto, o secreto.",
+      "source_H": "暗 靜",
+      "source_M": "am che",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secreto, o secreto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "am¹ tse¹",
+        "tai_lo_standard": "am-tse",
+        "phonological_basis": "17c Dominican orthography conversion: am (暗) -> am¹ / am; che (靜) -> tse¹ / tse."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Secretos, nadie lo sabe.",
+      "source_H": "机 密",
+      "source_M": "guĩ bit",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secretos, nadie lo sabe.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gũĩ¹ bit⁷",
+        "tai_lo_standard": "guinn-bit",
+        "phonological_basis": "17c Dominican orthography conversion: guĩ (机) -> gũĩ¹ / guinn; bit (密) -> bit⁷ / bit."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Secretos, nadie lo sabe -（词条外有椭圆笔圈花饰）",
+      "source_H": "無 人 知",
+      "source_M": "bo lãg chai [疑:chai/chay]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T00 (無標號)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secretos, nadie lo sabe -（词条外有椭圆笔圈花饰）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bo⁵ lãk⁷ tsai¹ tsai¹ tsai¹",
+        "tai_lo_standard": "bô-lak-tsai-tsai-tsai",
+        "phonological_basis": "17c Dominican orthography conversion: bo (無) -> bo⁵ / bô; lãg (人) -> lãk⁷ / lak; chai (知) -> tsai¹ / tsai; chai (?) -> tsai¹ / tsai; chay (?) -> tsai¹ / tsai."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Secretos del coraçon -",
+      "source_H": "許 裏 情",
+      "source_M": "su tiõg cheng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T00 (無標號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secretos del coraçon -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su² tĩõk⁷ tseŋ¹",
+        "tai_lo_standard": "sú-tiok-tseng",
+        "phonological_basis": "17c Dominican orthography conversion: su (許) -> su² / sú; tiõg (裏) -> tĩõk⁷ / tiok; cheng (情) -> tseŋ¹ / tseng."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Secretos del coraçon .（词条下有波浪线花饰）",
+      "source_H": "許 裏 曲",
+      "source_M": "su tiõg quioc [疑:quioc/cuoc]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T00 (無標號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secretos del coraçon .（词条下有波浪线花饰）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su² tĩõk⁷ kʰiok⁷ kiok⁷ kuok⁷",
+        "tai_lo_standard": "sú-tiok-khiok-kiok-kuok",
+        "phonological_basis": "17c Dominican orthography conversion: su (許) -> su² / sú; tiõg (裏) -> tĩõk⁷ / tiok; quioc (曲) -> kʰiok⁷ / khiok; quioc (?) -> kiok⁷ / kiok; cuoc (?) -> kuok⁷ / kuok."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Secretos, guardarlo bien lo que le dicen -（左栏占两行）",
+      "source_H": "兜 收 [疑:兜/兌]",
+      "source_M": "tau su",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secretos, guardarlo bien lo que le dicen -（左栏占两行）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tau¹ su¹",
+        "tai_lo_standard": "tau-su",
+        "phonological_basis": "17c Dominican orthography conversion: tau (兜) -> tau¹ / tau; su (收) -> su¹ / su."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Secretos guardarlo. id est.（词条外有椭圆笔圈与括弧花饰）",
+      "source_H": "兜 執 [疑:兜/兌]",
+      "source_M": "tau chip",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secretos guardarlo. id est.（词条外有椭圆笔圈与括弧花饰）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tau¹ tsip⁷",
+        "tai_lo_standard": "tau-tsip",
+        "phonological_basis": "17c Dominican orthography conversion: tau (兜) -> tau¹ / tau; chip (執) -> tsip⁷ / tsip."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Sed -（大字花体起始词条）",
+      "source_H": "渴",
+      "source_M": "ia : ca [疑:ia/ua]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sed -（大字花体起始词条）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iaʔ⁷ kaʔ⁷ ia¹ ua¹",
+        "tai_lo_standard": "iah-kah-ia-ua",
+        "phonological_basis": "17c Dominican orthography conversion: ia (渴) -> iaʔ⁷ / iah; ca (?) -> kaʔ⁷ / kah; ia (?) -> ia¹ / ia; ua (?) -> ua¹ / ua."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Sed -（词条外有矩形笔框）",
+      "source_H": "清 渴",
+      "source_M": "co cua",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sed -（词条外有矩形笔框）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko¹ kua¹",
+        "tai_lo_standard": "ko-kua",
+        "phonological_basis": "17c Dominican orthography conversion: co (清) -> ko¹ / ko; cua (渴) -> kua¹ / kua."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Sed. Seca Boca -（词条外有矩形笔框，与上行同框连笔）",
+      "source_H": "口 乾",
+      "source_M": "chuy ta",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sed. Seca Boca -（词条外有矩形笔框，与上行同框连笔）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui¹ ta¹",
+        "tai_lo_standard": "tsui-ta",
+        "phonological_basis": "17c Dominican orthography conversion: chuy (口) -> tsui¹ / tsui; ta (乾) -> ta¹ / ta."
+      }
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 975,
+  "historical_folio": 937,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0975/pdf_0975_300dpi.png",
+  "page_header": "ante. [手写]",
+  "page_footer_printed": "- 937 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Sierra mui alta",
+      "source_H": "峻嶺",
+      "source_M": "chun nia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "chun=T03 [疑:T03/T04]",
+        "nia=T02 [疑:T01/T02]"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sierra mui alta",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsun³ nia¹",
+        "tai_lo_standard": "tsùn-nia",
+        "phonological_basis": "17c Dominican orthography conversion: chun (峻) -> tsun³ / tsùn; nia (嶺) -> nia¹ / nia."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Sierra para serrar-",
+      "source_H": "鋸",
+      "source_M": "cu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "cu=T06 [疑:T06/T07]"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sierra para serrar-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuʔ⁷",
+        "tai_lo_standard": "kuh",
+        "phonological_basis": "17c Dominican orthography conversion: cu (鋸) -> kuʔ⁷ / kuh."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Sierra, montecillo.",
+      "source_H": "丘山",
+      "source_M": "quiun san",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "quiun=T04 [疑:T04/T02]",
+        "san=T01"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sierra, montecillo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiun² san¹",
+        "tai_lo_standard": "kiún-san",
+        "phonological_basis": "17c Dominican orthography conversion: quiun (丘) -> kiun² / kiún; san (山) -> san¹ / san."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Trecha pequena.",
+      "source_H": "丘陵",
+      "source_M": "quiun leng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "quiun=T04 [疑:T04/T02]",
+        "leng=T05"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Trecha pequena.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiun² leŋ⁵",
+        "tai_lo_standard": "kiún-lêng",
+        "phonological_basis": "17c Dominican orthography conversion: quiun (丘) -> kiun² / kiún; leng (陵) -> leŋ⁵ / lêng."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "fijo",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fijo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "sierno [疑:sierno/sierra]",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sierno",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Siete~",
+      "source_H": "七",
+      "source_M": "chit",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "chit=T06 [疑:T06/T07]"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Siete~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰit⁷",
+        "tai_lo_standard": "tshit",
+        "phonological_basis": "17c Dominican orthography conversion: chit (七) -> tsʰit⁷ / tshit."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Signos del Zodiaco.",
+      "source_H": "節氣",
+      "source_M": "che quy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "che=T01 [疑:T01/T06]",
+        "quy=T04 [疑:T04/T06]"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Signos del Zodiaco.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseʔ⁷ kʰiʔ⁷",
+        "tai_lo_standard": "tseh-khih",
+        "phonological_basis": "17c Dominican orthography conversion: che (節) -> tseʔ⁷ / tseh; quy (氣) -> kʰiʔ⁷ / khih."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Silla, o banco-",
+      "source_H": "椅",
+      "source_M": "y",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "y=T02 [疑:T01/T02]"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Silla, o banco-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "i¹",
+        "tai_lo_standard": "i",
+        "phonological_basis": "17c Dominican orthography conversion: y (椅) -> i¹ / i."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Silla-",
+      "source_H": "交椅",
+      "source_M": "cau y",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "cau=T01",
+        "y=T02 [疑:T01/T02]"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Silla-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kau¹ i¹",
+        "tai_lo_standard": "kau-i",
+        "phonological_basis": "17c Dominican orthography conversion: cau (交) -> kau¹ / kau; y (椅) -> i¹ / i."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Silla de manos-",
+      "source_H": "轎",
+      "source_M": "quio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "quio=T04 [疑:T04/T03]"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Silla de manos-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kio³",
+        "tai_lo_standard": "kiò",
+        "phonological_basis": "17c Dominican orthography conversion: quio (轎) -> kio³ / kiò."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Silla de caballo~",
+      "source_H": "鞍",
+      "source_M": "oa [疑:oa/ua]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "oa=T03 [疑:T03/T04]"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Silla de caballo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "oa³ oa¹ ua¹",
+        "tai_lo_standard": "oà-oa-ua",
+        "phonological_basis": "17c Dominican orthography conversion: oa (鞍) -> oa³ / oà; oa (?) -> oa¹ / oa; ua (?) -> ua¹ / ua."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Silla que va dentro de la silla de manos-",
+      "source_H": "轎椅",
+      "source_M": "quio y",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "quio=T04 [疑:T04/T03]",
+        "y=T02 [疑:T01/T02]"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Silla que va dentro de la silla de manos-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kio³ i¹",
+        "tai_lo_standard": "kiò-i",
+        "phonological_basis": "17c Dominican orthography conversion: quio (轎) -> kio³ / kiò; y (椅) -> i¹ / i."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Silla que va dentro de la silla de manos~",
+      "source_H": "轎生 [疑:生/乘]",
+      "source_M": "quio che",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "quio=T04 [疑:T04/T03]",
+        "che=T04 [疑:T04/T03]"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Silla que va dentro de la silla de manos~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kio³ tse³",
+        "tai_lo_standard": "kiò-tsè",
+        "phonological_basis": "17c Dominican orthography conversion: quio (轎) -> kio³ / kiò; che (生) -> tse³ / tsè."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Silla de mandarin en que se sienta~",
+      "source_H": "學士椅",
+      "source_M": "hag su y",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "hag=T02 [疑:T02/T06]",
+        "su=T04 [疑:T04/T05]",
+        "y=T02 [疑:T01/T02]"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Silla de mandarin en que se sienta~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hak⁸ su² i¹",
+        "tai_lo_standard": "ha̍k-sú-i",
+        "phonological_basis": "17c Dominican orthography conversion: hag (學) -> hak⁸ / ha̍k; su (士) -> su² / sú; y (椅) -> i¹ / i."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Siluar",
+      "source_H": "咬指仔",
+      "source_M": "ca chuy ya",
+      "source_R": "un siluar",
+      "tone_marks_M": [
+        "ca=T02 [疑:T01/T02]",
+        "chuy=T01",
+        "ya=T01 [疑:T01/T02]"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Siluar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ka¹ tsui¹ ia¹",
+        "tai_lo_standard": "ka-tsui-ia",
+        "phonological_basis": "17c Dominican orthography conversion: ca (咬) -> ka¹ / ka; chuy (指) -> tsui¹ / tsui; ya (仔) -> ia¹ / ia."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Siluar pasito-",
+      "source_H": "呼啾",
+      "source_M": "hou chiu pasito",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "hou=T01 [疑:T01/T02]",
+        "chiu=T05 [疑:T05/T99]"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Siluar pasito-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hou¹ tsiu⁵ pasito¹",
+        "tai_lo_standard": "hou-tsiû-pasito",
+        "phonological_basis": "17c Dominican orthography conversion: hou (呼) -> hou¹ / hou; chiu (啾) -> tsiu⁵ / tsiû; pasito (?) -> pasito¹ / pasito."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Simiente del animal-",
+      "source_H": "精",
+      "source_M": "cheng:",
+      "source_R": "Ṽheng ching tenerla y entendran [残]",
+      "tone_marks_M": [
+        "cheng=T01 [疑:T01/T99]"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Simiente del animal-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ¹",
+        "tai_lo_standard": "tseng",
+        "phonological_basis": "17c Dominican orthography conversion: cheng (精) -> tseŋ¹ / tseng."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Simiente del hombre-",
+      "source_H": "骨",
+      "source_M": "siau",
+      "source_R": "pⁿ hombé: l. leg: [残]",
+      "tone_marks_M": [
+        "siau=T00"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Simiente del hombre-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siau¹",
+        "tai_lo_standard": "siau",
+        "phonological_basis": "17c Dominican orthography conversion: siau (骨) -> siau¹ / siau."
+      }
+    }
+  ]
+}

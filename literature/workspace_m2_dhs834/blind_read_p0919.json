@@ -1,0 +1,320 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 919,
+  "historical_folio": 881,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0919/pdf_0919_300dpi.png",
+  "page_header": "R. ante. E.[疑:E/F] I[疑:I/1]",
+  "page_footer_printed": "- 881 -",
+  "page_footer_handwritten": "40",
+  "total_positions_recorded": 15,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Reinçidir en la culpa. [疑:Reinçidir/Reincidir]",
+      "source_H": "反 色",
+      "source_M": "huan seg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Reinçidir en la culpa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huan² sek⁷",
+        "tai_lo_standard": "huán-sek",
+        "phonological_basis": "17c Dominican orthography conversion: huan (反) -> huan² / huán; seg (色) -> sek⁷ / sek."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Residencia. y[疑:y/J] Boluer",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Residencia. y Boluer",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Reirse-",
+      "source_H": "咲",
+      "source_M": "chio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Reirse-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsio³",
+        "tai_lo_standard": "tsiò",
+        "phonological_basis": "17c Dominican orthography conversion: chio (咲) -> tsio³ / tsiò."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "reirse a carcajadas-",
+      "source_H": "怙 咲",
+      "source_M": "cou chio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "reirse a carcajadas-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kou² tsio³",
+        "tai_lo_standard": "kóu-tsiò",
+        "phonological_basis": "17c Dominican orthography conversion: cou (怙) -> kou² / kóu; chio (咲) -> tsio³ / tsiò."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "reirse a carcajadas（圈划）",
+      "source_H": "呵 ヒ 咲",
+      "source_M": "o o chio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "reirse a carcajadas（圈划）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "o¹ o¹ tsio³",
+        "tai_lo_standard": "o-o-tsiò",
+        "phonological_basis": "17c Dominican orthography conversion: o (呵) -> o¹ / o; o (咲) -> o¹ / o; chio (?) -> tsio³ / tsiò."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Reçongar- [疑:Reçongar/Recongar]",
+      "source_H": "詈",
+      "source_M": "ly",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Reçongar-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "li²",
+        "tai_lo_standard": "lí",
+        "phonological_basis": "17c Dominican orthography conversion: ly (詈) -> li² / lí."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "reçongar（圈划）",
+      "source_H": "念 路",
+      "source_M": "liam lou. liam ley",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "reçongar（圈划）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liam² lou²",
+        "tai_lo_standard": "liám-lóu",
+        "phonological_basis": "17c Dominican orthography conversion: liam (念) -> liam² / liám; lou (路) -> lou² / lóu."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "reçongar y murmurar.",
+      "source_H": "念 詈",
+      "source_M": "liam ly",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "reçongar y murmurar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liam² li²",
+        "tai_lo_standard": "liám-lí",
+        "phonological_basis": "17c Dominican orthography conversion: liam (念) -> liam² / liám; ly (詈) -> li² / lí."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "rezar. [疑:rezar/alzar]",
+      "source_H": "[空]",
+      "source_M": "Liam Queng[疑:Queng/Cang]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rezar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liam⁶ keŋ¹",
+        "tai_lo_standard": "liām-keng",
+        "phonological_basis": "17c Dominican orthography conversion: Liam (?) -> liam⁶ / liām; Queng (?) -> keŋ¹ / keng."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "R. ante. I",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "R. ante. I",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Ribera, o calçadilla del pantano-",
+      "source_H": "岸",
+      "source_M": "huã.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ribera, o calçadilla del pantano-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hũã²",
+        "tai_lo_standard": "huánn",
+        "phonological_basis": "17c Dominican orthography conversion: huã (岸) -> hũã² / huánn."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "ribera del rio q̃ sale del monte.",
+      "source_H": "溪 岸",
+      "source_M": "quey huã",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ribera del rio q̃ sale del monte.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kei¹ hũã²",
+        "tai_lo_standard": "kei-huánn",
+        "phonological_basis": "17c Dominican orthography conversion: quey (溪) -> kei¹ / kei; huã (岸) -> hũã² / huánn."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "ribera, o ribaço junto a el camino-",
+      "source_H": "上 坎",
+      "source_M": "chio[疑:chio/chiõ] cam.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ribera, o ribaço junto a el camino-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsio¹ kam¹",
+        "tai_lo_standard": "tsio-kam",
+        "phonological_basis": "17c Dominican orthography conversion: chio (上) -> tsio¹ / tsio; cam (坎) -> kam¹ / kam."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Ribete-",
+      "source_H": "袺[疑:袺/裙] 䋠[疑:䋠/補]",
+      "source_M": "cun pou.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ribete-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kun⁵ pou⁶",
+        "tai_lo_standard": "kûn-pōu",
+        "phonological_basis": "17c Dominican orthography conversion: cun (袺) -> kun⁵ / kûn; pou (?) -> pou⁶ / pōu."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Rico-",
+      "source_H": "冨",
+      "source_M": "Pu. hu. cuy. ỹ sabio. pu lang. 〔换行〕 chay ong. ong[疑:ong/iong] hua. ut hu cuy:",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T00 (無標號)",
+        "T00 (無標號)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T00 (無標號)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rico-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "puʔ⁷ hu³ kui³ sabio¹ pu¹ laŋ³ tsai⁶ ɔŋ⁶ ɔŋ⁶ hua¹ ut⁷ hu¹ kui³",
+        "tai_lo_standard": "puh-hù-kuì-sabio-pu-làng-tsāi-ōng-ōng-hua-ut-hu-kuì",
+        "phonological_basis": "17c Dominican orthography conversion: Pu (冨) -> puʔ⁷ / puh; hu (?) -> hu³ / hù; cuy (?) -> kui³ / kuì; sabio (?) -> sabio¹ / sabio; pu (?) -> pu¹ / pu; lang (?) -> laŋ³ / làng; chay (?) -> tsai⁶ / tsāi; ong (?) -> ɔŋ⁶ / ōng; ong (?) -> ɔŋ⁶ / ōng; hua (?) -> hua¹ / hua; ut (?) -> ut⁷ / ut; hu (?) -> hu¹ / hu; cuy (?) -> kui³ / kuì."
+      }
+    }
+  ]
+}

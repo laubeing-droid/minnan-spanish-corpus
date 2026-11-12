@@ -1,0 +1,349 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1065,
+  "historical_folio": 1027,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1065/pdf_1065_300dpi.png",
+  "page_header": "",
+  "page_footer_printed": "- 1027 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 16,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "tocar[疑:tocar/trocar] de posando dermuaccio[n] [残] / o llenando se ay - tocando [残]",
+      "source_H": "换過去",
+      "source_M": "bũ ũ cu [疑] / oa cue cu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tocar de posando dermuaccio / o llenando se ay - tocando",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bũ¹ ũ¹ kʰu¹ oa¹ kue¹ ku¹",
+        "tai_lo_standard": "bunn-unn-khu-oa-kue-ku",
+        "phonological_basis": "17c Dominican orthography conversion: bũ (换) -> bũ¹ / bunn; ũ (過) -> ũ¹ / unn; cu (去) -> kʰu¹ / khu; oa (?) -> oa¹ / oa; cue (?) -> kue¹ / kue; cu (?) -> ku¹ / ku."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "tocar el coracon, caeventa guanta [疑]",
+      "source_H": "囬心",
+      "source_M": "huẽ sim .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tocar el coracon, caeventa guanta",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hũẽ¹ sim¹",
+        "tai_lo_standard": "huenn-sim",
+        "phonological_basis": "17c Dominican orthography conversion: huẽ (囬) -> hũẽ¹ / huenn; sim (心) -> sim¹ / sim."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "troje[疑:j/f] —",
+      "source_H": "廪",
+      "source_M": "lim :",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "troje —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lim²",
+        "tai_lo_standard": "lím",
+        "phonological_basis": "17c Dominican orthography conversion: lim (廪) -> lim² / lím."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "(troje —)",
+      "source_H": "倉",
+      "source_M": "chõng [残] chũmg :",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(troje —)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsɔ̃ŋ¹ tsũmk⁷",
+        "tai_lo_standard": "tsong-tsumk",
+        "phonological_basis": "17c Dominican orthography conversion: chõng (倉) -> tsɔ̃ŋ¹ / tsong; chũmg (?) -> tsũmk⁷ / tsumk."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "troje de arrozificio — [疑]",
+      "source_H": "粟倉",
+      "source_M": "che[疑:h/x] chũmg .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "troje de arrozificio —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse¹ tsũmk⁷",
+        "tai_lo_standard": "tse-tsumk",
+        "phonological_basis": "17c Dominican orthography conversion: che (粟) -> tse¹ / tse; chũmg (倉) -> tsũmk⁷ / tsumk."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "troje de cualquiera cosa —",
+      "source_H": "倉廪",
+      "source_M": "chõng lim :",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "troje de cualquiera cosa —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsɔ̃ŋ¹ lim²",
+        "tai_lo_standard": "tsong-lím",
+        "phonological_basis": "17c Dominican orthography conversion: chõng (倉) -> tsɔ̃ŋ¹ / tsong; lim (廪) -> lim² / lím."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Trompa de elefante",
+      "source_H": "象鼻",
+      "source_M": "chiõ pỹ .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Trompa de elefante",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsĩõ¹ pi¹",
+        "tai_lo_standard": "tsionn-pi",
+        "phonological_basis": "17c Dominican orthography conversion: chiõ (象) -> tsĩõ¹ / tsionn; p (鼻) -> pi¹ / pi."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Trompeta —",
+      "source_H": "簧[疑:簧/笙]愛[疑:愛/篤]",
+      "source_M": "Jun ay Co mo la sul furio sau cap :",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T00 (無標號)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T00 (無標號)",
+        "T00 (無標號)",
+        "T00 (無標號)",
+        "T00 (無標號)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Trompeta —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzun³ ai¹ ko⁶ mo⁶ la¹ sul¹ furio¹ sau¹ kap⁷",
+        "tai_lo_standard": "jùn-ai-kō-mō-la-sul-furio-sau-kap",
+        "phonological_basis": "17c Dominican orthography conversion: Jun (簧) -> dzun³ / jùn; ay (愛) -> ai¹ / ai; Co (?) -> ko⁶ / kō; mo (?) -> mo⁶ / mō; la (?) -> la¹ / la; sul (?) -> sul¹ / sul; furio (?) -> furio¹ / furio; sau (?) -> sau¹ / sau; cap (?) -> kap⁷ / kap."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Trompetero —",
+      "source_H": "吹首",
+      "source_M": "him[疑:him/tim] tun gun sau cap : Nangu lato caro / chue siu .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T00 (無標號)",
+        "T00 (無標號)",
+        "T00 (無標號)",
+        "T99 (污損難辨)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Trompetero —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "him¹ tun² gun⁶ sau² kap⁷ nangu¹ lato¹ karo¹ tsue¹ siu¹",
+        "tai_lo_standard": "him-tún-gūn-sáu-kap-nangu-lato-karo-tsue-siu",
+        "phonological_basis": "17c Dominican orthography conversion: him (吹) -> him¹ / him; tun (首) -> tun² / tún; gun (?) -> gun⁶ / gūn; sau (?) -> sau² / sáu; cap (?) -> kap⁷ / kap; Nangu (?) -> nangu¹ / nangu; lato (?) -> lato¹ / lato; caro (?) -> karo¹ / karo; chue (?) -> tsue¹ / tsue; siu (?) -> siu¹ / siu."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Trompo —",
+      "source_H": "簾[疑:簾/軬]",
+      "source_M": "lien .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Trompo —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lien¹",
+        "tai_lo_standard": "lien",
+        "phonological_basis": "17c Dominican orthography conversion: lien (簾) -> lien¹ / lien."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "(Trompo —)",
+      "source_H": "扦[疑:扦/扞]落",
+      "source_M": "can log .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(Trompo —)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kan¹ lɔk⁸",
+        "tai_lo_standard": "kan-lo̍k",
+        "phonological_basis": "17c Dominican orthography conversion: can (扦) -> kan¹ / kan; log (落) -> lɔk⁸ / lo̍k."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Tronco de familia",
+      "source_H": "祖宗",
+      "source_M": "choĩ chong .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tronco de familia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsõĩ¹ tsɔŋ¹",
+        "tai_lo_standard": "tsoinn-tsong",
+        "phonological_basis": "17c Dominican orthography conversion: choĩ (祖) -> tsõĩ¹ / tsoinn; chong (宗) -> tsɔŋ¹ / tsong."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Tronco de arbol — y / origen —",
+      "source_H": "樹頭",
+      "source_M": "chiu taũ .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tronco de arbol — y / origen —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiuʔ⁷ tʰãũ¹",
+        "tai_lo_standard": "tsiuh-thaunn",
+        "phonological_basis": "17c Dominican orthography conversion: chiu (樹) -> tsiuʔ⁷ / tsiuh; taũ (頭) -> tʰãũ¹ / thaunn."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Trono Real :",
+      "source_H": "帝位",
+      "source_M": "hey[疑:hey/tey] uy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Trono Real :",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hei³ ui²",
+        "tai_lo_standard": "hèi-uí",
+        "phonological_basis": "17c Dominican orthography conversion: hey (帝) -> hei³ / hèi; uy (位) -> ui² / uí."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Tropecar, [残:划除字] dar larpis y cav :",
+      "source_H": "蹶[疑:蹶/躡]跌[疑:跌/跤]",
+      "source_M": "ta c[残] aue cav. LOE :",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tropecar, dar larpis y cav :",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ta³ ki¹ aue¹ kav¹ loe¹",
+        "tai_lo_standard": "tà-ki-aue-kav-loe",
+        "phonological_basis": "17c Dominican orthography conversion: ta (蹶) -> ta³ / tà; c (跌) -> ki¹ / ki; aue (?) -> aue¹ / aue; cav (?) -> kav¹ / kav; LOE (?) -> loe¹ / loe."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "tropecar y caer —",
+      "source_H": "着跤",
+      "source_M": "tio poa .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tropecar y caer —",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tio² poa²",
+        "tai_lo_standard": "tió-poá",
+        "phonological_basis": "17c Dominican orthography conversion: tio (着) -> tio² / tió; poa (跤) -> poa² / poá."
+      }
+    }
+  ]
+}

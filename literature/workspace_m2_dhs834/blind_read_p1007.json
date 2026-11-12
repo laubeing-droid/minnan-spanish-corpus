@@ -1,0 +1,415 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1007,
+  "historical_folio": 969,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1007/pdf_1007_300dpi.png",
+  "page_header": "",
+  "page_footer_printed": "- 969 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Tañer: y tocar –",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tañer: y tocar –",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Tañer cascabel .",
+      "source_H": "搖 鈴 [残:首字左半被栏缘裁切,右旁似䍃]",
+      "source_M": "yo lẽng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tañer cascabel .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "io⁵ lẽŋ⁵",
+        "tai_lo_standard": "iô-lêng",
+        "phonological_basis": "17c Dominican orthography conversion: yo (搖) -> io⁵ / iô; lẽng (鈴) -> lẽŋ⁵ / lêng."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Tañer y cantar –",
+      "source_H": "彈 唱 [疑:唱/咲]",
+      "source_M": "toa chiõ [残:chio 上仅见鼻化小钩,是否另有斜号难辨]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tañer y cantar –",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toa⁵ tsʰĩõ¹ tsio¹",
+        "tai_lo_standard": "toâ-tshionn-tsio",
+        "phonological_basis": "17c Dominican orthography conversion: toa (彈) -> toa⁵ / toâ; chiõ (唱) -> tsʰĩõ¹ / tshionn; chio (?) -> tsio¹ / tsio."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Tanjingue pescado . [残:首词字母串 Tanjingue/Tangiingue 难辨]",
+      "source_H": "馬 交 魚",
+      "source_M": "be ca hu [残:末字元音 i/u 难辨]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tanjingue pescado .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "be¹ ka¹ hu⁵ i¹ u¹",
+        "tai_lo_standard": "be-ka-hû-i-u",
+        "phonological_basis": "17c Dominican orthography conversion: be (馬) -> be¹ / be; ca (交) -> ka¹ / ka; hu (魚) -> hu⁵ / hû; i (?) -> i¹ / i; u (?) -> u¹ / u."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Tañear el samelluo del vestido – f. medir, conjeturar – pengar – [残:samelluo/pengar 拼法难辨]",
+      "source_H": "相 体 裁 縫 [残:首尾字被栏缘略裁]",
+      "source_M": "siang te chay hõng [残:hong 后鼻化钩存疑]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tañear el samelluo del vestido – f. medir, conjeturar – pengar –",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siaŋ¹ te³ tsai³ hɔ̃ŋ⁵ hɔŋ¹",
+        "tai_lo_standard": "siang-tè-tsài-hông-hong",
+        "phonological_basis": "17c Dominican orthography conversion: siang (相) -> siaŋ¹ / siang; te (体) -> te³ / tè; chay (裁) -> tsai³ / tsài; hõng (縫) -> hɔ̃ŋ⁵ / hông; hong (?) -> hɔŋ¹ / hong."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Tapar algo . [残:Tapar 与 algo 间夹有小词,疑 Tapar algo/Tapar que algo]",
+      "source_H": "盖",
+      "source_M": "cua",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tapar algo .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kua³",
+        "tai_lo_standard": "kuà",
+        "phonological_basis": "17c Dominican orthography conversion: cua (盖) -> kua³ / kuà."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Tapar – [残:手绘圈选]",
+      "source_H": "盒 盖",
+      "source_M": "ab cua / tong tan sub-box: [残:第二行末词首字母 d/s 及标点难辨]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tapar –",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ab¹ kua³ tɔŋ³ tan¹ sub¹ box¹ d¹ si¹",
+        "tai_lo_standard": "ab-kuà-tòng-tan-sub-box-d-si",
+        "phonological_basis": "17c Dominican orthography conversion: ab (盒) -> ab¹ / ab; cua (盖) -> kua³ / kuà; tong (?) -> tɔŋ³ / tòng; tan (?) -> tan¹ / tan; sub (?) -> sub¹ / sub; box (?) -> box¹ / box; d (?) -> d¹ / d; s (?) -> si¹ / si."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Tapar y cubrir [残:第二词首字母 c/m 难辨,抄作 cubrir]",
+      "source_H": "聞 [疑:聞/問]",
+      "source_M": "cha coan c [残:尾字 c 及其上小钩难辨]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tapar y cubrir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsa³ koan³ ki¹ ki¹",
+        "tai_lo_standard": "tsà-koàn-ki-ki",
+        "phonological_basis": "17c Dominican orthography conversion: cha (聞) -> tsa³ / tsà; coan (?) -> koan³ / koàn; c (?) -> ki¹ / ki; c (?) -> ki¹ / ki."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Tapar –",
+      "source_H": "遮",
+      "source_M": "chia pay. E chia ta. chuã [残:行尾被右缘裁切]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T00 (無標號)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tapar –",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsia³ pai³ e¹ tsia³ ta³ tsũã³",
+        "tai_lo_standard": "tsià-pài-e-tsià-tà-tsuànn",
+        "phonological_basis": "17c Dominican orthography conversion: chia (遮) -> tsia³ / tsià; pay (?) -> pai³ / pài; E (?) -> e¹ / e; chia (?) -> tsia³ / tsià; ta (?) -> ta³ / tà; chuã (?) -> tsũã³ / tsuànn."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Tapar –",
+      "source_H": "罩",
+      "source_M": "ta [残:疑 ta/ha]",
+      "source_R": "amparandole. [残:对位略偏上,或属 pos9 注记]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tapar –",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ta³ ta¹ ha¹",
+        "tai_lo_standard": "tà-ta-ha",
+        "phonological_basis": "17c Dominican orthography conversion: ta (罩) -> ta³ / tà; ta (?) -> ta¹ / ta; ha (?) -> ha¹ / ha."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Tapar .",
+      "source_H": "障",
+      "source_M": "chiãng [残:鼻化钩存疑]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tapar .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsĩãŋ³",
+        "tai_lo_standard": "tsiàng",
+        "phonological_basis": "17c Dominican orthography conversion: chiãng (障) -> tsĩãŋ³ / tsiàng."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Tapar con manta el cuerpo –",
+      "source_H": "蓋 [残:与 pos20 盖 字繁简写法分辨存疑]",
+      "source_M": "cay",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tapar con manta el cuerpo –",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kai³",
+        "tai_lo_standard": "kài",
+        "phonological_basis": "17c Dominican orthography conversion: cay (蓋) -> kai³ / kài."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Tapar –",
+      "source_H": "掩",
+      "source_M": "iam: chia iãm [残:三处斜号方向按升斜记,存疑]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tapar –",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iam¹ tsia¹ ĩãm¹",
+        "tai_lo_standard": "iam-tsia-iam",
+        "phonological_basis": "17c Dominican orthography conversion: iam (掩) -> iam¹ / iam; chia (?) -> tsia¹ / tsia; iãm (?) -> ĩãm¹ / iam."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Tapar .",
+      "source_H": "覆",
+      "source_M": "pag",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tapar .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pak⁷",
+        "tai_lo_standard": "pak",
+        "phonological_basis": "17c Dominican orthography conversion: pag (覆) -> pak⁷ / pak."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Tapar .",
+      "source_H": "[残:字形结构无法确认,似上'耂/殸'类部件下'口/𡉜'类部件]",
+      "source_M": "queng [残:手绘圈选]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tapar .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "keŋ³",
+        "tai_lo_standard": "kèng",
+        "phonological_basis": "17c Dominican orthography conversion: queng (?) -> keŋ³ / kèng."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Tapar . [残:此行无对应汉字/闽南语,单独立行存疑]",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tapar .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Tapar poniendo delante –",
+      "source_H": "截",
+      "source_M": "chier [残:尾字母似 r,或为 t]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tapar poniendo delante –",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsier³ r¹ ti¹",
+        "tai_lo_standard": "tsièr-r-ti",
+        "phonological_basis": "17c Dominican orthography conversion: chier (截) -> tsier³ / tsièr; r (?) -> r¹ / r; t (?) -> ti¹ / ti."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Tapar, cerrar. como agujero. junta. [残:agujero/junta 拼法按所见抄]",
+      "source_H": "塞",
+      "source_M": "seg. star hoa. sar bã. pũng [残:各词首字母及鼻化钩多处难辨]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tapar, cerrar. como agujero. junta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sek⁷",
+        "tai_lo_standard": "sek",
+        "phonological_basis": "17c Dominican orthography conversion: seg (塞) -> sek⁷ / sek."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Tapar como paredon –",
+      "source_H": "圍",
+      "source_M": "ui [残:末字是否带鼻化钩难辨]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tapar como paredon –",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ui⁵",
+        "tai_lo_standard": "uî",
+        "phonological_basis": "17c Dominican orthography conversion: ui (圍) -> ui⁵ / uî."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Tapar carbon – [残:手绘圈选加斜杠]",
+      "source_H": "盖 [残:与 pos12 蓋 字繁简写法分辨存疑]",
+      "source_M": "cay [残:手绘圈选]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tapar carbon –",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kai³",
+        "tai_lo_standard": "kài",
+        "phonological_basis": "17c Dominican orthography conversion: cay (盖) -> kai³ / kài."
+      }
+    }
+  ]
+}

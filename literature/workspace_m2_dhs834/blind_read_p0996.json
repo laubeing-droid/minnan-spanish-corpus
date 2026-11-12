@@ -1,0 +1,514 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 996,
+  "historical_folio": 958,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0996/pdf_0996_300dpi.png",
+  "page_header": "S. ante. U.",
+  "page_footer_printed": "- 958 -",
+  "page_footer_handwritten": "479 [疑:479/979]",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "sudar-",
+      "source_H": "汗出",
+      "source_M": "hân chus [疑:末尾交叉號/s]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "3",
+        ",",
+        "T",
+        "9",
+        "9"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sudar-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "han³ tsʰus¹ si¹",
+        "tai_lo_standard": "hàn-tshus-si",
+        "phonological_basis": "17c Dominican orthography conversion: hân (汗) -> han³ / hàn; chus (出) -> tsʰus¹ / tshus; s (?) -> si¹ / si."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "sudarel enfermo-",
+      "source_H": "發汗",
+      "source_M": "hiat han [疑:hiat/hiân]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "3",
+        ",",
+        "T",
+        "9",
+        "9"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sudarel enfermo-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hiat⁷ han¹ hiat⁷ hian³",
+        "tai_lo_standard": "hiat-han-hiat-hiàn",
+        "phonological_basis": "17c Dominican orthography conversion: hiat (發) -> hiat⁷ / hiat; han (汗) -> han¹ / han; hiat (?) -> hiat⁷ / hiat; hiân (?) -> hian³ / hiàn."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Suegro~",
+      "source_H": "夫",
+      "source_M": "tio ; tiang",
+      "source_R": "[残:涂划字迹,尾部似 uenic]",
+      "tone_marks_M": [
+        "T",
+        "9",
+        "9",
+        ",",
+        "T",
+        "9",
+        "9"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Suegro~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tio¹ tiaŋ¹",
+        "tai_lo_standard": "tio-tiang",
+        "phonological_basis": "17c Dominican orthography conversion: tio (夫) -> tio¹ / tio; tiang (?) -> tiaŋ¹ / tiang."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "suego- [疑:o/w]",
+      "source_H": "岳",
+      "source_M": "ga",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "9",
+        "9"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "suego-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ga¹",
+        "tai_lo_standard": "ga",
+        "phonological_basis": "17c Dominican orthography conversion: ga (岳) -> ga¹ / ga."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "suegro-",
+      "source_H": "家官",
+      "source_M": "gue cua.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "9",
+        "9",
+        ",",
+        "T",
+        "9",
+        "9"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "suegro-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue¹ kua¹",
+        "tai_lo_standard": "gue-kua",
+        "phonological_basis": "17c Dominican orthography conversion: gue (家) -> gue¹ / gue; cua (官) -> kua¹ / kua."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "suegav-",
+      "source_H": "大人",
+      "source_M": "tio lang.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "9",
+        "9",
+        ",",
+        "T",
+        "9",
+        "9"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "suegav-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tio¹ laŋ¹",
+        "tai_lo_standard": "tio-lang",
+        "phonological_basis": "17c Dominican orthography conversion: tio (大) -> tio¹ / tio; lang (人) -> laŋ¹ / lang."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "suegro.Đ.delamuger [疑:花体Đ为缩写符]",
+      "source_H": "岳父",
+      "source_M": "gag hu [疑:gag/gağu]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "9",
+        "9",
+        ",",
+        "T",
+        "9",
+        "9"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "suegro.Đ.delamuger",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gak⁷ hu¹ gak⁷ ga¹ u¹",
+        "tai_lo_standard": "gak-hu-gak-ga-u",
+        "phonological_basis": "17c Dominican orthography conversion: gag (岳) -> gak⁷ / gak; hu (父) -> hu¹ / hu; gag (?) -> gak⁷ / gak; ga (?) -> ga¹ / ga; u (?) -> u¹ / u."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Suegra.m.delamuger.",
+      "source_H": "岳母",
+      "source_M": "gag bou",
+      "source_R": "mic qua mic [疑:qua/que]",
+      "tone_marks_M": [
+        "T",
+        "9",
+        "9",
+        ",",
+        "T",
+        "9",
+        "9"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "0",
+        ",",
+        "T",
+        "0",
+        "0",
+        ",",
+        "T",
+        "0",
+        "0"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Suegra.m.delamuger.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gak⁷ bou¹",
+        "tai_lo_standard": "gak-bou",
+        "phonological_basis": "17c Dominican orthography conversion: gag (岳) -> gak⁷ / gak; bou (母) -> bou¹ / bou."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "suegrain.delamuger. [疑:in/im]",
+      "source_H": "外母",
+      "source_M": "gua bo",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "9",
+        "9",
+        ",",
+        "T",
+        "9",
+        "9"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "suegrain.delamuger.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gua¹ bo¹",
+        "tai_lo_standard": "gua-bo",
+        "phonological_basis": "17c Dominican orthography conversion: gua (外) -> gua¹ / gua; bo (母) -> bo¹ / bo."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Suegra~",
+      "source_H": "夫姆",
+      "source_M": "tio m [疑:符号难辨]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "9",
+        "9",
+        ",",
+        "T",
+        "9",
+        "9"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Suegra~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tio¹ mi¹",
+        "tai_lo_standard": "tio-mi",
+        "phonological_basis": "17c Dominican orthography conversion: tio (夫) -> tio¹ / tio; m (姆) -> mi¹ / mi."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "suegra-",
+      "source_H": "大家",
+      "source_M": "toa que",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "9",
+        "9",
+        ",",
+        "T",
+        "9",
+        "9"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "suegra-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toa¹ ke¹",
+        "tai_lo_standard": "toa-ke",
+        "phonological_basis": "17c Dominican orthography conversion: toa (大) -> toa¹ / toa; que (家) -> ke¹ / ke."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Suelas del capat~.",
+      "source_H": "底",
+      "source_M": "tey.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "9",
+        "9"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Suelas del capat~.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tei¹",
+        "tai_lo_standard": "tei",
+        "phonological_basis": "17c Dominican orthography conversion: tey (底) -> tei¹ / tei."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "suelas del capatos-",
+      "source_H": "鞋底",
+      "source_M": "ey tey",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "9",
+        "9",
+        ",",
+        "T",
+        "9",
+        "9"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "suelas del capatos-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ei¹ tei¹",
+        "tai_lo_standard": "ei-tei",
+        "phonological_basis": "17c Dominican orthography conversion: ey (鞋) -> ei¹ / ei; tey (底) -> tei¹ / tei."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "suelas de cuero-",
+      "source_H": "皮底",
+      "source_M": "pue tey",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "9",
+        "9",
+        ",",
+        "T",
+        "9",
+        "9"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "suelas de cuero-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pue¹ tei¹",
+        "tai_lo_standard": "pue-tei",
+        "phonological_basis": "17c Dominican orthography conversion: pue (皮) -> pue¹ / pue; tey (底) -> tei¹ / tei."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "suelas clabe[r/t]eadas dela botaga-",
+      "source_H": "珠釘靴",
+      "source_M": "chiu teng hia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "9",
+        "9",
+        ",",
+        "T",
+        "9",
+        "9",
+        ",",
+        "T",
+        "0",
+        "1"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "suelas clabeeadas dela botaga-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiu¹ teŋ¹ hia¹",
+        "tai_lo_standard": "tsiu-teng-hia",
+        "phonological_basis": "17c Dominican orthography conversion: chiu (珠) -> tsiu¹ / tsiu; teng (釘) -> teŋ¹ / teng; hia (靴) -> hia¹ / hia."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Suelo, o baxo de algo.",
+      "source_H": "底",
+      "source_M": "tey",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "9",
+        "9"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Suelo, o baxo de algo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tei¹",
+        "tai_lo_standard": "tei",
+        "phonological_basis": "17c Dominican orthography conversion: tey (底) -> tei¹ / tei."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "suelo, baxo de algo.",
+      "source_H": "宙",
+      "source_M": "tiu y malanpuya.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "9",
+        "9",
+        ",",
+        "T",
+        "0",
+        "0",
+        ",",
+        "T",
+        "0",
+        "0"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "suelo, baxo de algo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiu¹ i¹ malanpuia¹",
+        "tai_lo_standard": "tiu-i-malanpuia",
+        "phonological_basis": "17c Dominican orthography conversion: tiu (宙) -> tiu¹ / tiu; y (?) -> i¹ / i; malanpuya (?) -> malanpuia¹ / malanpuia."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "suelo del navio dosea el caßre- [疑:dosea/adsea]",
+      "source_H": "舡底 [疑:舡/船]",
+      "source_M": "chun tey",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "9",
+        "9",
+        ",",
+        "T",
+        "9",
+        "9"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "suelo del navio dosea el caßre-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsun¹ tei¹",
+        "tai_lo_standard": "tsun-tei",
+        "phonological_basis": "17c Dominican orthography conversion: chun (舡) -> tsun¹ / tsun; tey (底) -> tei¹ / tei."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Suelo de carahay-",
+      "source_H": "島臍",
+      "source_M": "tiam chay [疑:tiam/tia;chay/chay]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "9",
+        "9",
+        ",",
+        "T",
+        "9",
+        "9"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Suelo de carahay-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiam¹ tsai¹ tiam¹ tia¹ tsai¹ tsai¹",
+        "tai_lo_standard": "tiam-tsai-tiam-tia-tsai-tsai",
+        "phonological_basis": "17c Dominican orthography conversion: tiam (島) -> tiam¹ / tiam; chay (臍) -> tsai¹ / tsai; tiam (?) -> tiam¹ / tiam; tia (?) -> tia¹ / tia; chay (?) -> tsai¹ / tsai; chay (?) -> tsai¹ / tsai."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Suelto. q. libera. [疑:q/9]",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Suelto. q. libera.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    }
+  ]
+}

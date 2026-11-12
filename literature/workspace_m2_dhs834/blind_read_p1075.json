@@ -1,0 +1,434 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1075,
+  "historical_folio": 1037,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1075/pdf_1075_300dpi.png",
+  "page_header": "ante [两侧花体符号未确证]",
+  "page_footer_printed": "- 1037 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Vela de Rosario",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vela de Rosario",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "vela de navio +",
+      "source_H": "帆篷",
+      "source_M": "hong pang.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vela de navio +",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ⁵ paŋ⁵",
+        "tai_lo_standard": "hông-pâng",
+        "phonological_basis": "17c Dominican orthography conversion: hong (帆) -> hɔŋ⁵ / hông; pang (篷) -> paŋ⁵ / pâng."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "vela de gavia ~",
+      "source_H": "頭巾頂",
+      "source_M": "tau quin feng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vela de gavia ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰau⁵ kin¹ feŋ²",
+        "tai_lo_standard": "thâu-kin-féng",
+        "phonological_basis": "17c Dominican orthography conversion: tau (頭) -> tʰau⁵ / thâu; quin (巾) -> kin¹ / kin; feng (頂) -> feŋ² / féng."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Velar ut[疑:ut/at] zentinelas -",
+      "source_H": "防",
+      "source_M": "hong: cuan hung41 preuenirse",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Velar ut zentinelas -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ⁵ kuan¹ huŋ⁶ preuenirse¹",
+        "tai_lo_standard": "hông-kuan-hūng-preuenirse",
+        "phonological_basis": "17c Dominican orthography conversion: hong (防) -> hɔŋ⁵ / hông; cuan (?) -> kuan¹ / kuan; hung (?) -> huŋ⁶ / hūng; preuenirse (?) -> preuenirse¹ / preuenirse."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Velar de qual quier manera ~",
+      "source_H": "守",
+      "source_M": "chiù. cuâ chiàu[疑:chiàu/chiaùi].",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Velar de qual quier manera ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiu² kua³ tsiau²",
+        "tai_lo_standard": "tsiú-kuà-tsiáu",
+        "phonological_basis": "17c Dominican orthography conversion: chiù (守) -> tsiu² / tsiú; cuâ (?) -> kua³ / kuà; chiàu (?) -> tsiau² / tsiáu."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Velar subedito, cuidar ~",
+      "source_H": "鎮",
+      "source_M": "fin.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Velar subedito, cuidar ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fin³",
+        "tai_lo_standard": "fìn",
+        "phonological_basis": "17c Dominican orthography conversion: fin (鎮) -> fin³ / fìn."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Velar cuidando -",
+      "source_H": "鎮守",
+      "source_M": "fin siù",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Velar cuidando -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fin³ siu²",
+        "tai_lo_standard": "fìn-siú",
+        "phonological_basis": "17c Dominican orthography conversion: fin (鎮) -> fin³ / fìn; siù (守) -> siu² / siú."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "velar de qual quier manera",
+      "source_H": "省守[疑:省]",
+      "source_M": "cuâ chiù.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "velar de qual quier manera",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kua³ tsiu²",
+        "tai_lo_standard": "kuà-tsiú",
+        "phonological_basis": "17c Dominican orthography conversion: cuâ (省) -> kua³ / kuà; chiù (守) -> tsiu² / tsiú."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Veleidad -",
+      "source_H": "略乙准[疑:中字乙形]",
+      "source_M": "lio lio chun.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Veleidad -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lio² lio² tsun²",
+        "tai_lo_standard": "lió-lió-tsún",
+        "phonological_basis": "17c Dominican orthography conversion: lio (略) -> lio² / lió; lio (乙) -> lio² / lió; chun (准) -> tsun² / tsún."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Veleta deltejado ~",
+      "source_H": "[空]",
+      "source_M": "sung hoy qy[疑:qy/gy].",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Veleta deltejado ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "suŋ⁶ hoi⁶ qi⁶",
+        "tai_lo_standard": "sūng-hōi-qī",
+        "phonological_basis": "17c Dominican orthography conversion: sung (?) -> suŋ⁶ / sūng; hoy (?) -> hoi⁶ / hōi; qy (?) -> qi⁶ / qī."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Velocidad ~",
+      "source_H": "沛",
+      "source_M": "pay",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Velocidad ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pai³",
+        "tai_lo_standard": "pài",
+        "phonological_basis": "17c Dominican orthography conversion: pay (沛) -> pai³ / pài."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Velocidad",
+      "source_H": "沛行",
+      "source_M": "pay quan.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Velocidad",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pai³ kan⁵",
+        "tai_lo_standard": "pài-kân",
+        "phonological_basis": "17c Dominican orthography conversion: pay (沛) -> pai³ / pài; quan (行) -> kan⁵ / kân."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "velocidad de la corriente -",
+      "source_H": "沛流",
+      "source_M": "pay liu.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "velocidad de la corriente -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pai³ liu⁵",
+        "tai_lo_standard": "pài-liû",
+        "phonological_basis": "17c Dominican orthography conversion: pay (沛) -> pai³ / pài; liu (流) -> liu⁵ / liû."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "f. ligero, presa &c.",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "f. ligero, presa &c.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Vena ~",
+      "source_H": "筋",
+      "source_M": "quin.",
+      "source_R": "se day [疑:day/ʃay]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vena ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kin¹",
+        "tai_lo_standard": "kin",
+        "phonological_basis": "17c Dominican orthography conversion: quin (筋) -> kin¹ / kin."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "vena",
+      "source_H": "血筋",
+      "source_M": "bue[疑:b/h] quin",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vena",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bue³ kin¹",
+        "tai_lo_standard": "buè-kin",
+        "phonological_basis": "17c Dominican orthography conversion: bue (血) -> bue³ / buè; quin (筋) -> kin¹ / kin."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Venado -",
+      "source_H": "鹿",
+      "source_M": "loc",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Venado -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lɔk⁸",
+        "tai_lo_standard": "lo̍k",
+        "phonological_basis": "17c Dominican orthography conversion: loc (鹿) -> lɔk⁸ / lo̍k."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "venado -",
+      "source_H": "璋[疑:璋/獐]",
+      "source_M": "quio: ciembo:",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "venado -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kio² kiembo¹",
+        "tai_lo_standard": "kió-kiembo",
+        "phonological_basis": "17c Dominican orthography conversion: quio (璋) -> kio² / kió; ciembo (?) -> kiembo¹ / kiembo."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Vencer -",
+      "source_H": "贏",
+      "source_M": "ia bo[疑:bo/go,浓墨涂改] li,eng: & pangī: sue coe.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vencer -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ia⁵ bo¹ li⁶ eŋ⁶ pangi³ sue³ koe¹",
+        "tai_lo_standard": "iâ-bo-lī-ēng-pàngi-suè-koe",
+        "phonological_basis": "17c Dominican orthography conversion: ia (贏) -> ia⁵ / iâ; bo (?) -> bo¹ / bo; li (?) -> li⁶ / lī; eng (?) -> eŋ⁶ / ēng; pangī (?) -> pangi³ / pàngi; sue (?) -> sue³ / suè; coe (?) -> koe¹ / koe."
+      }
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1076,
+  "historical_folio": 1038,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1076/pdf_1076_300dpi.png",
+  "page_header": "ante",
+  "page_footer_printed": "- 1038 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "vencer",
+      "source_H": "平",
+      "source_M": "pan",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vencer",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pan⁵",
+        "tai_lo_standard": "pân",
+        "phonological_basis": "17c Dominican orthography conversion: pan (平) -> pan⁵ / pân."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "vencer, exceder",
+      "source_H": "勝",
+      "source_M": "seng cui [疑:cui/cue]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vencer, exceder",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "seŋ³ kui² kui¹ kue¹",
+        "tai_lo_standard": "sèng-kuí-kui-kue",
+        "phonological_basis": "17c Dominican orthography conversion: seng (勝) -> seŋ³ / sèng; cui (?) -> kui² / kuí; cui (?) -> kui¹ / kui; cue (?) -> kue¹ / kue."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "vencer, exceder",
+      "source_H": "勝過",
+      "source_M": "seng cue",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vencer, exceder",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "seŋ³ kue³",
+        "tai_lo_standard": "sèng-kuè",
+        "phonological_basis": "17c Dominican orthography conversion: seng (勝) -> seŋ³ / sèng; cue (過) -> kue³ / kuè."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "vencer, luchar [疑:luchar]",
+      "source_H": "打贏",
+      "source_M": "pa yã",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vencer, luchar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paʔ⁷ ĩã¹",
+        "tai_lo_standard": "pah-iann",
+        "phonological_basis": "17c Dominican orthography conversion: pa (打) -> paʔ⁷ / pah; yã (贏) -> ĩã¹ / iann."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "vencer",
+      "source_H": "平宜 [疑:宜/亘]",
+      "source_M": "pan ŋy [疑:ŋy/gy]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vencer",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pan⁵ i¹ i¹ gi¹",
+        "tai_lo_standard": "pân-i-i-gi",
+        "phonological_basis": "17c Dominican orthography conversion: pan (平) -> pan⁵ / pân; y (宜) -> i¹ / i; y (?) -> i¹ / i; gy (?) -> gi¹ / gi."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "vencer",
+      "source_H": "賽過",
+      "source_M": "sue cue",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vencer",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sue³ kue³",
+        "tai_lo_standard": "suè-kuè",
+        "phonological_basis": "17c Dominican orthography conversion: sue (賽) -> sue³ / suè; cue (過) -> kue³ / kuè."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "vencer, y conquistar Reyno.",
+      "source_H": "克伐",
+      "source_M": "queg huan",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vencer, y conquistar Reyno.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰek⁷ huan³",
+        "tai_lo_standard": "khek-huàn",
+        "phonological_basis": "17c Dominican orthography conversion: queg (克) -> kʰek⁷ / khek; huan (伐) -> huan³ / huàn."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "vencer a el exercito contrario",
+      "source_H": "陣勢",
+      "source_M": "tin ŋy [疑:ŋy/gy]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vencer a el exercito contrario",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tin⁵ i¹ i¹ gi¹",
+        "tai_lo_standard": "tîn-i-i-gi",
+        "phonological_basis": "17c Dominican orthography conversion: tin (陣) -> tin⁵ / tîn; y (勢) -> i¹ / i; y (?) -> i¹ / i; gy (?) -> gi¹ / gi."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "vencer a el exercito contrario",
+      "source_H": "贏陣 [疑:贏/羸]",
+      "source_M": "yã tin",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vencer a el exercito contrario",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ĩã⁵ tin¹",
+        "tai_lo_standard": "iânn-tin",
+        "phonological_basis": "17c Dominican orthography conversion: yã (贏) -> ĩã⁵ / iânn; tin (陣) -> tin¹ / tin."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "vencer a el exercito contrario",
+      "source_H": "戰贏",
+      "source_M": "chien yã",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vencer a el exercito contrario",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsien³ ĩã¹",
+        "tai_lo_standard": "tsièn-iann",
+        "phonological_basis": "17c Dominican orthography conversion: chien (戰) -> tsien³ / tsièn; yã (贏) -> ĩã¹ / iann."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "vencer a el exercito contrario",
+      "source_H": "戰勝了",
+      "source_M": "chien seng liau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vencer a el exercito contrario",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsien³ seŋ³ liau²",
+        "tai_lo_standard": "tsièn-sèng-liáu",
+        "phonological_basis": "17c Dominican orthography conversion: chien (戰) -> tsien³ / tsièn; seng (勝) -> seŋ³ / sèng; liau (了) -> liau² / liáu."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "vencer siempre",
+      "source_H": "陣[残]贏",
+      "source_M": "tĩ tĩ yã",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vencer siempre",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tĩ¹ tĩ¹ ĩã¹",
+        "tai_lo_standard": "tinn-tinn-iann",
+        "phonological_basis": "17c Dominican orthography conversion: tĩ (陣) -> tĩ¹ / tinn; tĩ (贏) -> tĩ¹ / tinn; yã (?) -> ĩã¹ / iann."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Vencido quadio. [疑:quadio/vencido]",
+      "source_H": "輸",
+      "source_M": "su",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vencido quadio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su¹",
+        "tai_lo_standard": "su",
+        "phonological_basis": "17c Dominican orthography conversion: su (輸) -> su¹ / su."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "vencido",
+      "source_H": "打輸",
+      "source_M": "pa su",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vencido",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paʔ⁷ su¹",
+        "tai_lo_standard": "pah-su",
+        "phonological_basis": "17c Dominican orthography conversion: pa (打) -> paʔ⁷ / pah; su (輸) -> su¹ / su."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "vencido venguero, o guerra, o comúnmente [疑:venguero; comúnmente]",
+      "source_H": "戰輸",
+      "source_M": "chien su",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vencido venguero, o guerra, o comúnmente",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsien³ su¹",
+        "tai_lo_standard": "tsièn-su",
+        "phonological_basis": "17c Dominican orthography conversion: chien (戰) -> tsien³ / tsièn; su (輸) -> su¹ / su."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "vencido en guerra -",
+      "source_H": "戰敗",
+      "source_M": "chien pay",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vencido en guerra -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsien³ pai²",
+        "tai_lo_standard": "tsièn-pái",
+        "phonological_basis": "17c Dominican orthography conversion: chien (戰) -> tsien³ / tsièn; pay (敗) -> pai² / pái."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "vencido siempre",
+      "source_H": "陣[残]輸",
+      "source_M": "tĩ tĩ su",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vencido siempre",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tĩ¹ tĩ¹ su¹",
+        "tai_lo_standard": "tinn-tinn-su",
+        "phonological_basis": "17c Dominican orthography conversion: tĩ (陣) -> tĩ¹ / tinn; tĩ (輸) -> tĩ¹ / tinn; su (?) -> su¹ / su."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "vencido andar de vencida",
+      "source_H": "戰不過",
+      "source_M": "chien m̄ cue",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vencido andar de vencida",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsien³ mi⁵ kue¹",
+        "tai_lo_standard": "tsièn-mî-kue",
+        "phonological_basis": "17c Dominican orthography conversion: chien (戰) -> tsien³ / tsièn; m̄ (不) -> mi⁵ / mî; cue (過) -> kue¹ / kue."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Vendabal~",
+      "source_H": "西南",
+      "source_M": "say lam",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vendabal~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sai⁵ lam⁵",
+        "tai_lo_standard": "sâi-lâm",
+        "phonological_basis": "17c Dominican orthography conversion: say (西) -> sai⁵ / sâi; lam (南) -> lam⁵ / lâm."
+      }
+    }
+  ]
+}

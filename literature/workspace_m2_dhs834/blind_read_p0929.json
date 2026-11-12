@@ -1,0 +1,462 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 929,
+  "historical_folio": 891,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0929/pdf_0929_300dpi.png",
+  "page_header": "ante. [残:左端另有花体字母迹形似fa/Sa难辨;右端小圈0]",
+  "page_footer_printed": "- 891 -",
+  "page_footer_handwritten": "[空]",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "rosa temple, pa abrir.",
+      "source_H": "咲 口",
+      "source_M": "chio chuĩ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rosa temple, pa abrir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsio¹ tsũĩ¹",
+        "tai_lo_standard": "tsio-tsuinn",
+        "phonological_basis": "17c Dominican orthography conversion: chio (咲) -> tsio¹ / tsio; chuĩ (口) -> tsũĩ¹ / tsuinn."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "rosa buena, a abrir p.[圈选]",
+      "source_H": "含 蔗[疑:蔗/蕊]",
+      "source_M": "ham lui.[圈选]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rosa buena, a abrir p.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ham⁵ lui¹",
+        "tai_lo_standard": "hâm-lui",
+        "phonological_basis": "17c Dominican orthography conversion: ham (含) -> ham⁵ / hâm; lui (蔗) -> lui¹ / lui."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "rosa buena a abrir p.[圈选]",
+      "source_H": "花 蔗[疑:蔗/蕊]",
+      "source_M": "hua lui.[圈选]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rosa buena a abrir p.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hua⁵ lui¹",
+        "tai_lo_standard": "huâ-lui",
+        "phonological_basis": "17c Dominican orthography conversion: hua (花) -> hua⁵ / huâ; lui (蔗) -> lui¹ / lui."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "rosa y ya abrir -[残:y字上方另有小符号难辨]",
+      "source_H": "開 成 蔗[疑:蔗/蕊]",
+      "source_M": "gui chia lui.[疑:gui/9ui]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rosa y ya abrir -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui¹ tsia⁵ lui¹ gui¹ ui¹",
+        "tai_lo_standard": "gui-tsiâ-lui-gui-ui",
+        "phonological_basis": "17c Dominican orthography conversion: gui (開) -> gui¹ / gui; chia (成) -> tsia⁵ / tsiâ; lui (蔗) -> lui¹ / lui; gui (?) -> gui¹ / gui; ui (?) -> ui¹ / ui."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "rosa marchita -",
+      "source_H": "花 謝",
+      "source_M": "hua sia.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rosa marchita -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hua¹ sia²",
+        "tai_lo_standard": "hua-siá",
+        "phonological_basis": "17c Dominican orthography conversion: hua (花) -> hua¹ / hua; sia (謝) -> sia² / siá."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "rosa de fuerça de bomba.[疑:fuerça/fuego]",
+      "source_H": "牡 丹",
+      "source_M": "bou tan.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rosa de fuerça de bomba.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bou¹ tan¹",
+        "tai_lo_standard": "bou-tan",
+        "phonological_basis": "17c Dominican orthography conversion: bou (牡) -> bou¹ / bou; tan (丹) -> tan¹ / tan."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Rozal ~",
+      "source_H": "花 義[疑:義/藂]",
+      "source_M": "hua chang.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rozal ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hua⁵ tsaŋ⁵",
+        "tai_lo_standard": "huâ-tsâng",
+        "phonological_basis": "17c Dominican orthography conversion: hua (花) -> hua⁵ / huâ; chang (義) -> tsaŋ⁵ / tsâng."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Rostbriuero, triste -[疑:Rostbriuero/Rostriuero]",
+      "source_H": "砲",
+      "source_M": "Pu.[残:P与u间另有v形小号难辨]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rostbriuero, triste -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pu² pi¹ u¹ v¹",
+        "tai_lo_standard": "pú-pi-u-v",
+        "phonological_basis": "17c Dominican orthography conversion: Pu (砲) -> pu² / pú; P (?) -> pi¹ / pi; u (?) -> u¹ / u; v (?) -> v¹ / v."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "rostbriuero, mala condicionado.",
+      "source_H": "拘",
+      "source_M": "au.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rostbriuero, mala condicionado.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "au³",
+        "tai_lo_standard": "àu",
+        "phonological_basis": "17c Dominican orthography conversion: au (拘) -> au³ / àu."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Rostro ~",
+      "source_H": "面",
+      "source_M": "bin. bien.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rostro ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bin²",
+        "tai_lo_standard": "bín",
+        "phonological_basis": "17c Dominican orthography conversion: bin (面) -> bin² / bín."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "rostro-[圈选]",
+      "source_H": "貌",
+      "source_M": "mau.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rostro-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mau⁵",
+        "tai_lo_standard": "mâu",
+        "phonological_basis": "17c Dominican orthography conversion: mau (貌) -> mau⁵ / mâu."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "rostro-[圈选]",
+      "source_H": "形",
+      "source_M": "heng figura.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rostro-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "heŋ⁵ figura¹",
+        "tai_lo_standard": "hêng-figura",
+        "phonological_basis": "17c Dominican orthography conversion: heng (形) -> heŋ⁵ / hêng; figura (?) -> figura¹ / figura."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "rostro alegre-[圈选]",
+      "source_H": "天[残:其前汉字栏内另有小字bin]",
+      "source_M": "ion atigu.[整行删除线:作废]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rostro alegre-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ion¹ atigu¹",
+        "tai_lo_standard": "ion-atigu",
+        "phonological_basis": "17c Dominican orthography conversion: ion (天) -> ion¹ / ion; atigu (?) -> atigu¹ / atigu."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "rostro-[圈选]",
+      "source_H": "面 孔",
+      "source_M": "bin cang.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rostro-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bin² kaŋ²",
+        "tai_lo_standard": "bín-káng",
+        "phonological_basis": "17c Dominican orthography conversion: bin (面) -> bin² / bín; cang (孔) -> kaŋ² / káng."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "rostro hermoso -",
+      "source_H": "面 貌",
+      "source_M": "bin mau.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rostro hermoso -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bin⁵ mau⁵",
+        "tai_lo_standard": "bîn-mâu",
+        "phonological_basis": "17c Dominican orthography conversion: bin (面) -> bin⁵ / bîn; mau (貌) -> mau⁵ / mâu."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "rostro hermoso-[圈选]",
+      "source_H": "美 貌",
+      "source_M": "bi mau.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rostro hermoso-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bi² mau²",
+        "tai_lo_standard": "bí-máu",
+        "phonological_basis": "17c Dominican orthography conversion: bi (美) -> bi² / bí; mau (貌) -> mau² / máu."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "rostro hermoso-[圈选]",
+      "source_H": "顏 容",
+      "source_M": "gan iong.",
+      "source_R": "yan gian mujer hermosa[残:右上另有小字两行形似chut/sup难辨]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T00 (無標號)",
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rostro hermoso-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gan¹ ioŋ⁵",
+        "tai_lo_standard": "gan-iông",
+        "phonological_basis": "17c Dominican orthography conversion: gan (顏) -> gan¹ / gan; iong (容) -> ioŋ⁵ / iông."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "rostro con cido -",
+      "source_H": "面 色",
+      "source_M": "bin seg.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rostro con cido -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bin⁵ sek⁷",
+        "tai_lo_standard": "bîn-sek",
+        "phonological_basis": "17c Dominican orthography conversion: bin (面) -> bin⁵ / bîn; seg (色) -> sek⁷ / sek."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "rostro flaco, ingo -",
+      "source_H": "枯 蕉",
+      "source_M": "cou chiau.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rostro flaco, ingo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kou³ tsiau³",
+        "tai_lo_standard": "kòu-tsiàu",
+        "phonological_basis": "17c Dominican orthography conversion: cou (枯) -> kou³ / kòu; chiau (蕉) -> tsiau³ / tsiàu."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "rostro alegre -",
+      "source_H": "面 熟[疑:熟/熱]",
+      "source_M": "bin xie.",
+      "source_R": "bin xin ey gan algu jin cendido.[疑:gan/qan]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T00 (無標號)",
+        "T00 (無標號)",
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rostro alegre -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bin⁵ dzie³",
+        "tai_lo_standard": "bîn-jiè",
+        "phonological_basis": "17c Dominican orthography conversion: bin (面) -> bin⁵ / bîn; xie (熟) -> dzie³ / jiè."
+      }
+    }
+  ]
+}

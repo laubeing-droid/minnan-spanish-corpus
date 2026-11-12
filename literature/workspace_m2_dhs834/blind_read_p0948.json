@@ -1,0 +1,378 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 948,
+  "historical_folio": 910,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0948/pdf_0948_300dpi.png",
+  "page_header": "S. ante",
+  "page_footer_printed": "- 910 -",
+  "page_footer_handwritten": "45",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Sandalo-",
+      "source_H": "檀",
+      "source_M": "voa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sandalo-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "voa¹",
+        "tai_lo_standard": "voa",
+        "phonological_basis": "17c Dominican orthography conversion: voa (檀) -> voa¹ / voa."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Sandallo-",
+      "source_H": "檀 香",
+      "source_M": "voa hiõ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sandallo-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "voa¹ hĩõ¹",
+        "tai_lo_standard": "voa-hionn",
+        "phonological_basis": "17c Dominican orthography conversion: voa (檀) -> voa¹ / voa; hiõ (香) -> hĩõ¹ / hionn."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Sandia-",
+      "source_H": "瓜",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sandia-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "San dǎ",
+      "source_H": "瓜",
+      "source_M": "cuá",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "San dǎ",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kua¹",
+        "tai_lo_standard": "kua",
+        "phonological_basis": "17c Dominican orthography conversion: cuá (瓜) -> kua¹ / kua."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Sandìa",
+      "source_H": "西",
+      "source_M": "sáy ; sy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sandìa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sai¹ si¹",
+        "tai_lo_standard": "sai-si",
+        "phonological_basis": "17c Dominican orthography conversion: sáy (西) -> sai¹ / sai; sy (?) -> si¹ / si."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Sandrà",
+      "source_H": "西 瓜",
+      "source_M": "sý cuá ; sý cue",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sandrà",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si¹ kua¹ si¹ kue¹",
+        "tai_lo_standard": "si-kua-si-kue",
+        "phonological_basis": "17c Dominican orthography conversion: s (西) -> si¹ / si; cuá (瓜) -> kua¹ / kua; s (?) -> si¹ / si; cue (?) -> kue¹ / kue."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Sandia pegnia ô no se puede comer.",
+      "source_H": "鎮[疑:鎮/真] 藤 瓜",
+      "source_M": "sen tin cuá",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sandia pegnia ô no se puede comer.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sen¹ tin¹ kua¹",
+        "tai_lo_standard": "sen-tin-kua",
+        "phonological_basis": "17c Dominican orthography conversion: sen (鎮) -> sen¹ / sen; tin (藤) -> tin¹ / tin; cuá (瓜) -> kua¹ / kua."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Sangrar",
+      "source_H": "軟 針",
+      "source_M": "cháp chiam",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sangrar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsap⁷ tsiam¹",
+        "tai_lo_standard": "tsap-tsiam",
+        "phonological_basis": "17c Dominican orthography conversion: cháp (軟) -> tsap⁷ / tsap; chiam (針) -> tsiam¹ / tsiam."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Sangrar.",
+      "source_H": "放 血",
+      "source_M": "pang húe",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sangrar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paŋ¹ hue¹",
+        "tai_lo_standard": "pang-hue",
+        "phonological_basis": "17c Dominican orthography conversion: pang (放) -> paŋ¹ / pang; húe (血) -> hue¹ / hue."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Sangrar-",
+      "source_H": "軟 血",
+      "source_M": "cháp húe ; cháp húê",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sangrar-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsap⁷ hue¹ tsap⁷ hue¹",
+        "tai_lo_standard": "tsap-hue-tsap-hue",
+        "phonological_basis": "17c Dominican orthography conversion: cháp (軟) -> tsap⁷ / tsap; húe (血) -> hue¹ / hue; cháp (?) -> tsap⁷ / tsap; húê (?) -> hue¹ / hue."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Sangrar-",
+      "source_H": "咯 血",
+      "source_M": "cong húe",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sangrar-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ¹ hue¹",
+        "tai_lo_standard": "kong-hue",
+        "phonological_basis": "17c Dominican orthography conversion: cong (咯) -> kɔŋ¹ / kong; húe (血) -> hue¹ / hue."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Sangre-",
+      "source_H": "血",
+      "source_M": "húe ; hûê",
+      "source_R": "cham",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sangre-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hue¹ hue³",
+        "tai_lo_standard": "hue-huè",
+        "phonological_basis": "17c Dominican orthography conversion: húe (血) -> hue¹ / hue; hûê (?) -> hue³ / huè."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Sangre negra",
+      "source_H": "脂",
+      "source_M": "chí",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sangre negra",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi¹",
+        "tai_lo_standard": "tsi",
+        "phonological_basis": "17c Dominican orthography conversion: chí (脂) -> tsi¹ / tsi."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Sangre negra~ o chep nall-",
+      "source_H": "脂 血",
+      "source_M": "chí húe .o [疑:chuh xa/luh xa]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sangre negra~ o chep nall-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi¹ hue¹ o¹ tsuʔ⁷ dza¹ luʔ⁷ dza¹",
+        "tai_lo_standard": "tsi-hue-o-tsuh-ja-luh-ja",
+        "phonological_basis": "17c Dominican orthography conversion: chí (脂) -> tsi¹ / tsi; húe (血) -> hue¹ / hue; o (?) -> o¹ / o; chuh (?) -> tsuʔ⁷ / tsuh; xa (?) -> dza¹ / ja; luh (?) -> luʔ⁷ / luh; xa (?) -> dza¹ / ja."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Sangre negra",
+      "source_H": "鳥 紅 血",
+      "source_M": "oé ã hûê",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T00 (無標號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sangre negra",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "oe¹ ã¹ hue³",
+        "tai_lo_standard": "oe-ann-huè",
+        "phonological_basis": "17c Dominican orthography conversion: oé (鳥) -> oe¹ / oe; ã (紅) -> ã¹ / ann; hûê (血) -> hue³ / huè."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Sangre [疑:exra/extra] venal-",
+      "source_H": "血 氣 不 調",
+      "source_M": "hiễ gǔĩ pǔt [疑:pǔt/pǔo] tiāu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sangre venal-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi³ gũĩ³ put⁷ put⁷ puo⁶ tiau⁶",
+        "tai_lo_standard": "hì-guìnn-put-put-puō-tiāu",
+        "phonological_basis": "17c Dominican orthography conversion: hi (血) -> hi³ / hì; gǔĩ (氣) -> gũĩ³ / guìnn; pǔt (不) -> put⁷ / put; pǔt (調) -> put⁷ / put; pǔo (?) -> puo⁶ / puō; tiāu (?) -> tiau⁶ / tiāu."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Sanguijuela-",
+      "source_H": "蜈",
+      "source_M": "gōo",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sanguijuela-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "goo⁵",
+        "tai_lo_standard": "gôo",
+        "phonological_basis": "17c Dominican orthography conversion: gōo (蜈) -> goo⁵ / gôo."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Sanguijuela-",
+      "source_H": "蜈 蚿[疑:蚿/蚘]",
+      "source_M": "gōo gǔĩ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sanguijuela-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "goo⁵ gũĩ³",
+        "tai_lo_standard": "gôo-guìnn",
+        "phonological_basis": "17c Dominican orthography conversion: gōo (蜈) -> goo⁵ / gôo; gǔĩ (蚿) -> gũĩ³ / guìnn."
+      }
+    }
+  ]
+}

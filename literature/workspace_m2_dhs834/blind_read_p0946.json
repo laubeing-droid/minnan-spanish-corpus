@@ -1,0 +1,504 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 946,
+  "historical_folio": 908,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0946/pdf_0946_300dpi.png",
+  "page_header": "S",
+  "page_footer_printed": "- 908 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Salir sobre el agua chumbis.",
+      "source_H": "浮[疑:浮/淨]出未",
+      "source_M": "pūi chūr lāy [疑:pūi/pû]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir sobre el agua chumbis.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pui⁵ tsʰurʔ⁷ lai⁵ pui⁶ pu³",
+        "tai_lo_standard": "puî-tshurh-lâi-puī-pù",
+        "phonological_basis": "17c Dominican orthography conversion: pūi (浮) -> pui⁵ / puî; chūr (出) -> tsʰurʔ⁷ / tshurh; lāy (未) -> lai⁵ / lâi; pūi (?) -> pui⁶ / puī; pû (?) -> pu³ / pù."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Salir el aviso de centinela a correr la costa",
+      "source_H": "出哨",
+      "source_M": "chur sau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir el aviso de centinela a correr la costa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰurʔ⁷ sau³",
+        "tai_lo_standard": "tshurh-sàu",
+        "phonological_basis": "17c Dominican orthography conversion: chur (出) -> tsʰurʔ⁷ / tshurh; sau (哨) -> sau³ / sàu."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Salir bubas.",
+      "source_H": "生天疱",
+      "source_M": "sẽ tien pau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir bubas.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sẽ¹ tʰien¹ pau³",
+        "tai_lo_standard": "senn-thien-pàu",
+        "phonological_basis": "17c Dominican orthography conversion: sẽ (生) -> sẽ¹ / senn; tien (天) -> tʰien¹ / thien; pau (疱) -> pau³ / pàu."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Salir con los giintos en la pufia ~ [疑:giintos/gintens]",
+      "source_H": "争去做",
+      "source_M": "chẽ cu chô",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir con los giintos en la pufia ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsẽ¹ kʰu³ tso³",
+        "tai_lo_standard": "tsenn-khù-tsò",
+        "phonological_basis": "17c Dominican orthography conversion: chẽ (争) -> tsẽ¹ / tsenn; cu (去) -> kʰu³ / khù; chô (做) -> tso³ / tsò."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Salir a receiuir al mayor viene ~ [疑:viene/iene]",
+      "source_H": "參見",
+      "source_M": "cham qui",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir a receiuir al mayor viene ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsam¹ ki¹",
+        "tai_lo_standard": "tsam-ki",
+        "phonological_basis": "17c Dominican orthography conversion: cham (參) -> tsam¹ / tsam; qui (見) -> ki¹ / ki."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Salir a receiuir el mayor.",
+      "source_H": "迎接",
+      "source_M": "jia quiap",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir a receiuir el mayor.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzia¹ kiap⁷",
+        "tai_lo_standard": "jia-kiap",
+        "phonological_basis": "17c Dominican orthography conversion: jia (迎) -> dzia¹ / jia; quiap (接) -> kiap⁷ / kiap."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Salir la agua abaxo ballony. [疑:abaxo/abrao]",
+      "source_H": "掗[疑:掗/拐]氣",
+      "source_M": "cheng gui",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir la agua abaxo ballony.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ⁵ gui³",
+        "tai_lo_standard": "tsêng-guì",
+        "phonological_basis": "17c Dominican orthography conversion: cheng (掗) -> tseŋ⁵ / tsêng; gui (氣) -> gui³ / guì."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Salir fuera el bostro, allexa [疑:bostro/oxtrro]",
+      "source_H": "拄[疑:拄/扢]人面",
+      "source_M": "cheng lang bin",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir fuera el bostro, allexa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ³ laŋ⁵ bin²",
+        "tai_lo_standard": "tsèng-lâng-bín",
+        "phonological_basis": "17c Dominican orthography conversion: cheng (拄) -> tseŋ³ / tsèng; lang (人) -> laŋ⁵ / lâng; bin (面) -> bin² / bín."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Salir a rod en la calle, de çillo [疑:行尾另有小字殘注 P2B/1920]",
+      "source_H": "左右是",
+      "source_M": "cho iu sy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir a rod en la calle, de çillo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso¹ iu² si²",
+        "tai_lo_standard": "tso-iú-sí",
+        "phonological_basis": "17c Dominican orthography conversion: cho (左) -> tso¹ / tso; iu (右) -> iu² / iú; sy (是) -> si² / sí."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Salir de la pretension mandarin ~",
+      "source_H": "出使",
+      "source_M": "chur su",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir de la pretension mandarin ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰurʔ⁷ su¹",
+        "tai_lo_standard": "tshurh-su",
+        "phonological_basis": "17c Dominican orthography conversion: chur (出) -> tsʰurʔ⁷ / tshurh; su (使) -> su¹ / su."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Salir fuera ~",
+      "source_H": "出外",
+      "source_M": "chur gua",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir fuera ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰurʔ⁷ gua²",
+        "tai_lo_standard": "tshurh-guá",
+        "phonological_basis": "17c Dominican orthography conversion: chur (出) -> tsʰurʔ⁷ / tshurh; gua (外) -> gua² / guá."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Salir fuera.",
+      "source_H": "出去",
+      "source_M": "chur cu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir fuera.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰurʔ⁷ kʰu¹",
+        "tai_lo_standard": "tshurh-khu",
+        "phonological_basis": "17c Dominican orthography conversion: chur (出) -> tsʰurʔ⁷ / tshurh; cu (去) -> kʰu¹ / khu."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Salir la agua reyma acebarse ~ [疑:reyma]",
+      "source_H": "出築[疑:築/篤]",
+      "source_M": "chur chay",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir la agua reyma acebarse ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰurʔ⁷ tsai³",
+        "tai_lo_standard": "tshurh-tsài",
+        "phonological_basis": "17c Dominican orthography conversion: chur (出) -> tsʰurʔ⁷ / tshurh; chay (築) -> tsai³ / tsài."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Salir de casa.",
+      "source_H": "出門",
+      "source_M": "chur mui",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir de casa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰurʔ⁷ mui⁵",
+        "tai_lo_standard": "tshurh-muî",
+        "phonological_basis": "17c Dominican orthography conversion: chur (出) -> tsʰurʔ⁷ / tshurh; mui (門) -> mui⁵ / muî."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Salir la armada a correr la costa y boluer ~",
+      "source_H": "出汛",
+      "source_M": "chur sun",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir la armada a correr la costa y boluer ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰurʔ⁷ sun³",
+        "tai_lo_standard": "tshurh-sùn",
+        "phonological_basis": "17c Dominican orthography conversion: chur (出) -> tsʰurʔ⁷ / tshurh; sun (汛) -> sun³ / sùn."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Salir en publico el escandido ~ [疑:escandido]",
+      "source_H": "出頭",
+      "source_M": "chur thau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir en publico el escandido ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰurʔ⁷ tʰau⁵",
+        "tai_lo_standard": "tshurh-thâu",
+        "phonological_basis": "17c Dominican orthography conversion: chur (出) -> tsʰurʔ⁷ / tshurh; thau (頭) -> tʰau⁵ / thâu."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Salir en paz del fuego.",
+      "source_H": "捍[疑:捍/扞]平過",
+      "source_M": "hua pe cue",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir en paz del fuego.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hua² pe⁵ kue¹",
+        "tai_lo_standard": "huá-pê-kue",
+        "phonological_basis": "17c Dominican orthography conversion: hua (捍) -> hua² / huá; pe (平) -> pe⁵ / pê; cue (過) -> kue¹ / kue."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Salir a luz.",
+      "source_H": "發現",
+      "source_M": "huat hien",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir a luz.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huat⁷ hien⁵",
+        "tai_lo_standard": "huat-hiên",
+        "phonological_basis": "17c Dominican orthography conversion: huat (發) -> huat⁷ / huat; hien (現) -> hien⁵ / hiên."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Salir el Real audiencia.",
+      "source_H": "出朝",
+      "source_M": "chur tiau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir el Real audiencia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰurʔ⁷ tiau⁵",
+        "tai_lo_standard": "tshurh-tiâu",
+        "phonological_basis": "17c Dominican orthography conversion: chur (出) -> tsʰurʔ⁷ / tshurh; tiau (朝) -> tiau⁵ / tiâu."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Salir el sol ~",
+      "source_H": "白[疑:白/日]上",
+      "source_M": "xit chio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir el sol ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzit⁸ tsio³",
+        "tai_lo_standard": "ji̍t-tsiò",
+        "phonological_basis": "17c Dominican orthography conversion: xit (白) -> dzit⁸ / ji̍t; chio (上) -> tsio³ / tsiò."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "Salir las paredes de las miuras ~ [疑:miuras]",
+      "source_H": "贓[疑:贓/臧]落",
+      "source_M": "zo lo",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir las paredes de las miuras ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso¹ lo¹",
+        "tai_lo_standard": "tso-lo",
+        "phonological_basis": "17c Dominican orthography conversion: zo (贓) -> tso¹ / tso; lo (落) -> lo¹ / lo."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "Salir de esclavo p mandarin ~ [疑:p/a]",
+      "source_H": "出身",
+      "source_M": "chur sin",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salir de esclavo p mandarin ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰurʔ⁷ sin⁵",
+        "tai_lo_standard": "tshurh-sîn",
+        "phonological_basis": "17c Dominican orthography conversion: chur (出) -> tsʰurʔ⁷ / tshurh; sin (身) -> sin⁵ / sîn."
+      }
+    }
+  ]
+}

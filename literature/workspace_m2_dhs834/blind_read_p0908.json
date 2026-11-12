@@ -1,0 +1,431 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 908,
+  "historical_folio": 870,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0908/pdf_0908_300dpi.png",
+  "page_header": "P. ante. R.",
+  "page_footer_printed": "- 870 -",
+  "page_footer_handwritten": "935",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "repudiar a la muger~",
+      "source_H": "休離",
+      "source_M": "hiū lŷ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "repudiar a la muger~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hiu² li⁵",
+        "tai_lo_standard": "hiú-lî",
+        "phonological_basis": "17c Dominican orthography conversion: hiū (休) -> hiu² / hiú; l (離) -> li⁵ / lî."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "repudiar ala muger~",
+      "source_H": "離某[疑:某/人]",
+      "source_M": "lŷ bou.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "repudiar ala muger~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "li⁵ bou¹",
+        "tai_lo_standard": "lî-bou",
+        "phonological_basis": "17c Dominican orthography conversion: l (離) -> li⁵ / lî; bou (某) -> bou¹ / bou."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Repugnar a la conv[残] la boin~",
+      "source_H": "忠言逆耳",
+      "source_M": "ciong gien gieñ ūy. [疑]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Repugnar a la conv la boin~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kioŋ⁵ gien¹ gĩẽʔ⁸ ui⁵",
+        "tai_lo_standard": "kiông-gien-gie̍h-uî",
+        "phonological_basis": "17c Dominican orthography conversion: ciong (忠) -> kioŋ⁵ / kiông; gien (言) -> gien¹ / gien; gieñ (逆) -> gĩẽʔ⁸ / gie̍h; ūy (耳) -> ui⁵ / uî."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Repulgar~",
+      "source_H": "粘補[疑:粘/拒]",
+      "source_M": "chiām pou.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Repulgar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiam⁵ pou⁵",
+        "tai_lo_standard": "tsiâm-pôu",
+        "phonological_basis": "17c Dominican orthography conversion: chiām (粘) -> tsiam⁵ / tsiâm; pou (補) -> pou⁵ / pôu."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "repulgar~",
+      "source_H": "縫補",
+      "source_M": "pāng pou.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "repulgar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "paŋ⁵ pou⁵",
+        "tai_lo_standard": "pâng-pôu",
+        "phonological_basis": "17c Dominican orthography conversion: pāng (縫) -> paŋ⁵ / pâng; pou (補) -> pou⁵ / pôu."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Requisitoriaª prehender",
+      "source_H": "文牒",
+      "source_M": "būn tiâp .",
+      "source_R": "lag tael bon . co gûi liure Manila [疑]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Requisitoriaª prehender",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bun⁵ tiap⁷",
+        "tai_lo_standard": "bûn-tiap",
+        "phonological_basis": "17c Dominican orthography conversion: būn (文) -> bun⁵ / bûn; tiâp (牒) -> tiap⁷ / tiap."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Resbalar~",
+      "source_H": "跌",
+      "source_M": "tut.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Resbalar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tut⁷",
+        "tai_lo_standard": "tut",
+        "phonological_basis": "17c Dominican orthography conversion: tut (跌) -> tut⁷ / tut."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "resbalar",
+      "source_H": "滑",
+      "source_M": "cut.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "resbalar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kut⁸",
+        "tai_lo_standard": "ku̍t",
+        "phonological_basis": "17c Dominican orthography conversion: cut (滑) -> kut⁸ / ku̍t."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "resbalar",
+      "source_H": "滑澤",
+      "source_M": "cut tia.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "resbalar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kut⁸ tia²",
+        "tai_lo_standard": "ku̍t-tiá",
+        "phonological_basis": "17c Dominican orthography conversion: cut (滑) -> kut⁸ / ku̍t; tia (澤) -> tia² / tiá."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Rescatar~",
+      "source_H": "贖",
+      "source_M": "sioh. [疑:h/k]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rescatar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sioʔ⁸ hi¹ ik⁷",
+        "tai_lo_standard": "sio̍h-hi-ik",
+        "phonological_basis": "17c Dominican orthography conversion: sioh (贖) -> sioʔ⁸ / sio̍h; h (?) -> hi¹ / hi; k (?) -> ik⁷ / ik."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "rescatar la culpa lexe. [疑]",
+      "source_H": "秤罪贖",
+      "source_M": "chim chue sio.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rescatar la culpa lexe.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsim¹ tsueʔ⁷ sioʔ⁸",
+        "tai_lo_standard": "tsim-tsueh-sio̍h",
+        "phonological_basis": "17c Dominican orthography conversion: chim (秤) -> tsim¹ / tsim; chue (罪) -> tsueʔ⁷ / tsueh; sio (贖) -> sioʔ⁸ / sio̍h."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Resfriado, pasmo.",
+      "source_H": "麻",
+      "source_M": "mōa.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Resfriado, pasmo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "moa⁵",
+        "tai_lo_standard": "moâ",
+        "phonological_basis": "17c Dominican orthography conversion: mōa (麻) -> moa⁵ / moâ."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "resfriado pasmo.",
+      "source_H": "感風",
+      "source_M": "cam hoñg. [疑]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "resfriado pasmo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kam² hɔ̃ŋ¹",
+        "tai_lo_standard": "kám-hong",
+        "phonological_basis": "17c Dominican orthography conversion: cam (感) -> kam² / kám; hoñg (風) -> hɔ̃ŋ¹ / hong."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "resfriado pasmo~",
+      "source_H": "感冷",
+      "source_M": "cam leng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "resfriado pasmo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kam² leŋ²",
+        "tai_lo_standard": "kám-léng",
+        "phonological_basis": "17c Dominican orthography conversion: cam (感) -> kam² / kám; leng (冷) -> leŋ² / léng."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "resfriado pasmo~",
+      "source_H": "感冷[疑:冷/凊]",
+      "source_M": "cam chin.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "resfriado pasmo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kam² tsin³",
+        "tai_lo_standard": "kám-tsìn",
+        "phonological_basis": "17c Dominican orthography conversion: cam (感) -> kam² / kám; chin (冷) -> tsin³ / tsìn."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Residencia, y tomella~",
+      "source_H": "查",
+      "source_M": "che. [疑]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Residencia, y tomella~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse¹",
+        "tai_lo_standard": "tse",
+        "phonological_basis": "17c Dominican orthography conversion: che (查) -> tse¹ / tse."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "residencia, y tomalla~ [疑:tomalla/tomella]",
+      "source_H": "查盤[疑:盤/鹽]",
+      "source_M": "che poā̃. [疑]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "residencia, y tomalla~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse¹ põã⁵",
+        "tai_lo_standard": "tse-poânn",
+        "phonological_basis": "17c Dominican orthography conversion: che (查) -> tse¹ / tse; poā̃ (盤) -> põã⁵ / poânn."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Resistir. repugnar~",
+      "source_H": "逆",
+      "source_M": "ngo gieē.",
+      "source_R": "Liong chu [疑]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Resistir. repugnar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ŋo² giee⁶",
+        "tai_lo_standard": "ngó-giēe",
+        "phonological_basis": "17c Dominican orthography conversion: ngo (逆) -> ŋo² / ngó; gieē (?) -> giee⁶ / giēe."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "resistir",
+      "source_H": "敵",
+      "source_M": "teg teg. : dey tong [疑]",
+      "source_R": "al contrax io.",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "resistir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tek⁷ tek⁷ dei⁶ tɔŋ¹",
+        "tai_lo_standard": "tek-tek-dēi-tong",
+        "phonological_basis": "17c Dominican orthography conversion: teg (敵) -> tek⁷ / tek; teg (?) -> tek⁷ / tek; dey (?) -> dei⁶ / dēi; tong (?) -> tɔŋ¹ / tong."
+      }
+    }
+  ]
+}

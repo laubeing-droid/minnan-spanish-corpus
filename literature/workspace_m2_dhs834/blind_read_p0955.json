@@ -1,0 +1,432 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 955,
+  "historical_folio": 917,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0955/pdf_0955_300dpi.png",
+  "page_header": "ante.",
+  "page_footer_printed": "- 917 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "seco- tiempo. noy agua",
+      "source_H": "旱",
+      "source_M": "vẫ ty.",
+      "source_R": "bôchuy",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seco- tiempo. noy agua",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "v³ ti¹",
+        "tai_lo_standard": "v̀-ti",
+        "phonological_basis": "17c Dominican orthography conversion: v (旱) -> v³ / v̀; ty (?) -> ti¹ / ti."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "seco-",
+      "source_H": "鰮 [疑:鰮/鯆]",
+      "source_M": "ley hu.",
+      "source_R": "piscado seco.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seco-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lei² hu⁶",
+        "tai_lo_standard": "léi-hū",
+        "phonological_basis": "17c Dominican orthography conversion: ley (鰮) -> lei² / léi; hu (?) -> hu⁶ / hū."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "seco no lluebe-",
+      "source_H": "旱",
+      "source_M": "hǎn.",
+      "source_R": "seco no llube.",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seco no lluebe-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "han²",
+        "tai_lo_standard": "hán",
+        "phonological_basis": "17c Dominican orthography conversion: hǎn (旱) -> han² / hán."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "[空]",
+      "source_H": "涛 [疑:涛/澇]",
+      "source_M": "cô.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko³",
+        "tai_lo_standard": "kò",
+        "phonological_basis": "17c Dominican orthography conversion: cô (涛) -> ko³ / kò."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "✗ seco sin fugo",
+      "source_H": "焦",
+      "source_M": "tá.",
+      "source_R": "tá liam secoia.",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T99 (污損難辨)",
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "✗ seco sin fugo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ta¹",
+        "tai_lo_standard": "ta",
+        "phonological_basis": "17c Dominican orthography conversion: tá (焦) -> ta¹ / ta."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "seco- como pan, o mosigta.",
+      "source_H": "乾燥",
+      "source_M": "cān çô..",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seco- como pan, o mosigta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kan⁵ o³",
+        "tai_lo_standard": "kân-ò",
+        "phonological_basis": "17c Dominican orthography conversion: cān (乾) -> kan⁵ / kân; ô (燥) -> o³ / ò."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "seco, lugar seco-",
+      "source_H": "乾焦",
+      "source_M": "cān tá.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seco, lugar seco-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kan⁵ ta¹",
+        "tai_lo_standard": "kân-ta",
+        "phonological_basis": "17c Dominican orthography conversion: cān (乾) -> kan⁵ / kân; tá (焦) -> ta¹ / ta."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "seco ya -",
+      "source_H": "焦了",
+      "source_M": "tá liàu.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seco ya -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ta¹ liau²",
+        "tai_lo_standard": "ta-liáu",
+        "phonological_basis": "17c Dominican orthography conversion: tá (焦) -> ta¹ / ta; liàu (了) -> liau² / liáu."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "seco como trigo eno spiya.",
+      "source_H": "枯涛 [疑:涛/槁]",
+      "source_M": "cǒ.",
+      "source_R": "cou coⁿ.",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seco como trigo eno spiya.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko²",
+        "tai_lo_standard": "kó",
+        "phonological_basis": "17c Dominican orthography conversion: cǒ (枯) -> ko² / kó."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "seco mui seco-",
+      "source_H": "物蘋[z形重文号] [疑:蘋/薄]",
+      "source_M": "my fou fou.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seco mui seco-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mi¹ fou² fou⁶",
+        "tai_lo_standard": "mi-fóu-fōu",
+        "phonological_basis": "17c Dominican orthography conversion: my (物) -> mi¹ / mi; fou (蘋) -> fou² / fóu; fou (?) -> fou⁶ / fōu."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Secretar-",
+      "source_H": "估",
+      "source_M": "cou",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secretar-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kou²",
+        "tai_lo_standard": "kóu",
+        "phonological_basis": "17c Dominican orthography conversion: cou (估) -> kou² / kóu."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Secretar-",
+      "source_H": "估家顧 [疑:顧/顯]",
+      "source_M": "coi què hue.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secretar-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "koi² ke² hue¹",
+        "tai_lo_standard": "kói-ké-hue",
+        "phonological_basis": "17c Dominican orthography conversion: coi (估) -> koi² / kói; què (家) -> ke² / ké; hue (顧) -> hue¹ / hue."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Secreta.",
+      "source_H": "廁",
+      "source_M": "che.",
+      "source_R": "pun con.",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secreta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse²",
+        "tai_lo_standard": "tsé",
+        "phonological_basis": "17c Dominican orthography conversion: che (廁) -> tse² / tsé."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Secreta.",
+      "source_H": "學 [疑:學/覺]",
+      "source_M": "hag",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secreta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hak⁸",
+        "tai_lo_standard": "ha̍k",
+        "phonological_basis": "17c Dominican orthography conversion: hag (學) -> hak⁸ / ha̍k."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Secreta.",
+      "source_H": "尿廁",
+      "source_M": "say che.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secreta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sai² tse²",
+        "tai_lo_standard": "sái-tsé",
+        "phonological_basis": "17c Dominican orthography conversion: say (尿) -> sai² / sái; che (廁) -> tse² / tsé."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Secreta.",
+      "source_H": "尿學 [疑:學/覺]",
+      "source_M": "say hag.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secreta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sai² hak⁸",
+        "tai_lo_standard": "sái-ha̍k",
+        "phonological_basis": "17c Dominican orthography conversion: say (尿) -> sai² / sái; hag (學) -> hak⁸ / ha̍k."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Secreta.",
+      "source_H": "廁池",
+      "source_M": "che ty.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secreta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse² tʰi⁵",
+        "tai_lo_standard": "tsé-thî",
+        "phonological_basis": "17c Dominican orthography conversion: che (廁) -> tse² / tsé; ty (池) -> tʰi⁵ / thî."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Secreta.",
+      "source_H": "私己房 [疑:己/已]",
+      "source_M": "say quia pango.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secreta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sai² kia¹ pango⁵",
+        "tai_lo_standard": "sái-kia-pângo",
+        "phonological_basis": "17c Dominican orthography conversion: say (私) -> sai² / sái; quia (己) -> kia¹ / kia; pango (房) -> pango⁵ / pângo."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Secreta particular dentro-",
+      "source_H": "私房",
+      "source_M": "su pango.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Secreta particular dentro-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su¹ pango⁵",
+        "tai_lo_standard": "su-pângo",
+        "phonological_basis": "17c Dominican orthography conversion: su (私) -> su¹ / su; pango (房) -> pango⁵ / pângo."
+      }
+    }
+  ]
+}

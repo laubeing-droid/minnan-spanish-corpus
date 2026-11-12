@@ -1,0 +1,149 @@
+{
+  "pages": [
+    {
+      "pdf_page": 919,
+      "historical_folio": 881,
+      "page_header": "R. ante. E.[疑:E/F] I[疑:I/1]",
+      "page_footer_printed": "- 881 -",
+      "page_footer_handwritten": "40",
+      "notes": "手稿辞典页（四栏正编，朱丝栏）。页脚印刷页码「- 881 -」清晰，historical_folio=881；页顶左上角有铅笔淡写「40」，录入 page_footer_handwritten（位置在页顶而非页脚）。页顶花体段标读作「R. ante. E. I」：第三个花体大写字母有上横、中横及左下大回环，E/F 难定；末字为带顶钩的竖笔，I/1 难定。页面中部（第9条与第11条之间，上下各隔数行空白界格）另有大号空心字段标「R. ante. I」（I 上有一小撇），按行序立为第10条，H/M/R 均[空]。右栏（第4栏）全页无独立文字，仅朱栏线与背面透墨灰痕，source_R 一律[空]；第7条 M 栏末词 ley 及第15条 M 栏两行文字越过第3/4栏界线延伸入右栏区域，整段仍录入 source_M。第15条（Rico）M 栏为两行，行间以〔换行〕标示（编者标记，非手稿墨迹），其中 ỹ sabio 为夹写的西班牙语、ut 疑为拉丁语，均记 T00；首词 Pu 的 u 上为交叉形小号记 T06/T07；第二行第二个 ong 前有一高位小点（或为 iong 之 i 点）且其上符号难辨记 T99；lang 上为长平横，其 ng 上方似另有波浪小钩未抄入；该条各音节调符细小，T03/T05 之分存疑。source_M 一律只抄字母，声调符按音节顺序记入 tone_marks_M。第3-5条 chio 上方均为两层小符：上层为开口向右的小钩（似送气符，未写入 source_M），下层声调符形状介于尖頂帽与交叉之间，统一按尖頂帽（T03）抄录，存疑。第1条 seg 上为交叉形入声号（T06/T07，两式未能区分）。第7条后二音节（liam ley）上方符号较前二者细小，形近短凹弧，仍按凹角（T04）记，存疑。第8条 ly 之后有一竖向墨渍，未抄入。第9条为小字补写（L 栏 rezar. 与 M 栏 Liam Keng 同行，无汉字）：L 栏词形 rezar/alzar 存疑；M 栏第二词首字母在手稿中为 K 形字母（照所见抄，非现代化拼写；引擎净化会将其改写为 qu-/c-，须人工核对原图），其后似另有一短撇，元音 e/a 难辨，其上符号难辨记 T99。第11、12条 hua 上方有上标小 n（鼻化符，抄作 ⁿ）及凹角号；第12条 quey 上方符号形如 ч（或为送气小钩，或为凹角），记 T99。第13条 chio 上方有一簇小符（形似凹角加小 n，或为上标 un），鼻化与声调难分，cam 上方为一短竖加小钩，均记 T99。第5条汉字栏中间小字形似「ヒ」，疑为重文（同字）符号，照形抄录。第14条汉字：首字左旁衤、右旁似吉（或君），抄作袺并附疑；次字左旁糹、右旁似甫，抄作䋠并附疑。第15条汉字作冖头之「冨」。第5、7条 L 栏词语被墨线圈框（第5条框左另有「+」号）。第1、6-8条西语词中 c 下似有小钩，抄作 ç（Reinçidir、Reçongar、reçongar），ç/c 存疑；第2条「Residencia.」后为带长尾的 y 形字母（y/J 难定）加「Boluer」，该行汉字栏与闽南语栏空白。第11条 M 栏右侧近栏线处有一团墨渍，非文字。读图共8次（三横带各1次、汉字栏1次、西语栏1次、右栏1次、闽南语栏2次），存疑处均已就地标注，待人工校订。",
+      "entries": [
+        {
+          "position": 1,
+          "source_L": "Reinçidir en la culpa. [疑:Reinçidir/Reincidir]",
+          "source_H": "反 色",
+          "source_M": "huan seg",
+          "source_R": "[空]",
+          "tone_marks_M": ["T02 (降斜)", "T06/T07 (交叉入聲號)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 2,
+          "source_L": "Residencia. y[疑:y/J] Boluer",
+          "source_H": "[空]",
+          "source_M": "[空]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 3,
+          "source_L": "Reirse-",
+          "source_H": "咲",
+          "source_M": "chio",
+          "source_R": "[空]",
+          "tone_marks_M": ["T03 (尖頂帽)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 4,
+          "source_L": "reirse a carcajadas-",
+          "source_H": "怙 咲",
+          "source_M": "cou chio",
+          "source_R": "[空]",
+          "tone_marks_M": ["T04 (凹角)", "T03 (尖頂帽)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 5,
+          "source_L": "reirse a carcajadas（圈划）",
+          "source_H": "呵 ヒ 咲",
+          "source_M": "o o chio",
+          "source_R": "[空]",
+          "tone_marks_M": ["T01 (升斜)", "T01 (升斜)", "T03 (尖頂帽)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 6,
+          "source_L": "Reçongar- [疑:Reçongar/Recongar]",
+          "source_H": "詈",
+          "source_M": "ly",
+          "source_R": "[空]",
+          "tone_marks_M": ["T04 (凹角)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 7,
+          "source_L": "reçongar（圈划）",
+          "source_H": "念 路",
+          "source_M": "liam lou. liam ley",
+          "source_R": "[空]",
+          "tone_marks_M": ["T04 (凹角)", "T04 (凹角)", "T04 (凹角)", "T04 (凹角)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 8,
+          "source_L": "reçongar y murmurar.",
+          "source_H": "念 詈",
+          "source_M": "liam ly",
+          "source_R": "[空]",
+          "tone_marks_M": ["T04 (凹角)", "T04 (凹角)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 9,
+          "source_L": "rezar. [疑:rezar/alzar]",
+          "source_H": "[空]",
+          "source_M": "Liam Keng[疑:Keng/Kang]",
+          "source_R": "[空]",
+          "tone_marks_M": ["T04 (凹角)", "T99 (污損難辨)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 10,
+          "source_L": "R. ante. I",
+          "source_H": "[空]",
+          "source_M": "[空]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 11,
+          "source_L": "Ribera, o calçadilla del pantano-",
+          "source_H": "岸",
+          "source_M": "huaⁿ.",
+          "source_R": "[空]",
+          "tone_marks_M": ["T04 (凹角)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 12,
+          "source_L": "ribera del rio q̃ sale del monte.",
+          "source_H": "溪 岸",
+          "source_M": "quey huaⁿ",
+          "source_R": "[空]",
+          "tone_marks_M": ["T99 (污損難辨)", "T04 (凹角)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 13,
+          "source_L": "ribera, o ribaço junto a el camino-",
+          "source_H": "上 坎",
+          "source_M": "chio[疑:chio/chioⁿ] cam.",
+          "source_R": "[空]",
+          "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 14,
+          "source_L": "Ribete-",
+          "source_H": "袺[疑:袺/裙] 䋠[疑:䋠/補]",
+          "source_M": "cun pou.",
+          "source_R": "[空]",
+          "tone_marks_M": ["T05 (平橫)", "T05 (平橫)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 15,
+          "source_L": "Rico-",
+          "source_H": "冨",
+          "source_M": "Pu. hu. cuy. ỹ sabio. pu lang. 〔换行〕 chay ong. ong[疑:ong/iong] hua. ut hu cuy:",
+          "source_R": "[空]",
+          "tone_marks_M": ["T06/T07 (交叉入聲號)", "T03 (尖頂帽)", "T03 (尖頂帽)", "T00 (無標號)", "T00 (無標號)", "T03 (尖頂帽)", "T05 (平橫)", "T05 (平橫)", "T05 (平橫)", "T99 (污損難辨)", "T05 (平橫)", "T00 (無標號)", "T03 (尖頂帽)", "T03 (尖頂帽)"],
+          "tone_marks_R": []
+        }
+      ]
+    }
+  ]
+}

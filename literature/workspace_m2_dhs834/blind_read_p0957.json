@@ -1,0 +1,438 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 957,
+  "historical_folio": 919,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0957/pdf_0957_300dpi.png",
+  "page_header": "ande.",
+  "page_footer_printed": "- 919 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 21,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "seguir el moço fugitivo.",
+      "source_H": "隨少年",
+      "source_M": "fan fan lien",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seguir el moço fugitivo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fan¹ fan³ lien⁵",
+        "tai_lo_standard": "fan-fàn-liên",
+        "phonological_basis": "17c Dominican orthography conversion: fan (隨) -> fan¹ / fan; fan (少) -> fan³ / fàn; lien (年) -> lien⁵ / liên."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "seguir ael que huie.",
+      "source_H": "追趕",
+      "source_M": "qui cua ..",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seguir ael que huie.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki¹ kua³",
+        "tai_lo_standard": "ki-kuà",
+        "phonological_basis": "17c Dominican orthography conversion: qui (追) -> ki¹ / ki; cua (趕) -> kua³ / kuà."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "seguir sepordos caminos",
+      "source_H": "隨起隨倒",
+      "source_M": "qui qui qui [疑:xo/ho]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seguir sepordos caminos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki⁵ kʰi² ki³ dzo² ho¹",
+        "tai_lo_standard": "kî-khí-kì-jó-ho",
+        "phonological_basis": "17c Dominican orthography conversion: qui (隨) -> ki⁵ / kî; qui (起) -> kʰi² / khí; qui (隨) -> ki³ / kì; xo (倒) -> dzo² / jó; ho (?) -> ho¹ / ho."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "seguir lo q le mandaren",
+      "source_H": "隨發落",
+      "source_M": "qui huay lo",
+      "source_R": "obedecer",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seguir lo q le mandaren",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki⁵ huai³ lo²",
+        "tai_lo_standard": "kî-huài-ló",
+        "phonological_basis": "17c Dominican orthography conversion: qui (隨) -> ki⁵ / kî; huay (發) -> huai³ / huài; lo (落) -> lo² / ló."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "seguir su industria -",
+      "source_H": "隨乖巧",
+      "source_M": "qui cuay ca.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seguir su industria -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki⁵ kuai¹ ka²",
+        "tai_lo_standard": "kî-kuai-ká",
+        "phonological_basis": "17c Dominican orthography conversion: qui (隨) -> ki⁵ / kî; cuay (乖) -> kuai¹ / kuai; ca (巧) -> ka² / ká."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "seguir y obrar su voluntad",
+      "source_H": "隨意",
+      "source_M": "qui guan",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seguir y obrar su voluntad",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki⁵ guan²",
+        "tai_lo_standard": "kî-guán",
+        "phonological_basis": "17c Dominican orthography conversion: qui (隨) -> ki⁵ / kî; guan (意) -> guan² / guán."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "seguir la regla y andar por ella -",
+      "source_H": "循規蹈矩",
+      "source_M": "sun ui ho cu / c hip ley. leya lauxian ca: [残:第二行小字逐字难辨]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T00 (無標號)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seguir la regla y andar por ella -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sun⁵ ui¹ ho¹ ku² ki¹ hip⁷ lei¹",
+        "tai_lo_standard": "sûn-ui-ho-kú-ki-hip-lei",
+        "phonological_basis": "17c Dominican orthography conversion: sun (循) -> sun⁵ / sûn; ui (規) -> ui¹ / ui; ho (蹈) -> ho¹ / ho; cu (矩) -> ku² / kú; c (?) -> ki¹ / ki; hip (?) -> hip⁷ / hip; ley (?) -> lei¹ / lei."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Segundo en orden.",
+      "source_H": "亞",
+      "source_M": "a",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Segundo en orden.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "a²",
+        "tai_lo_standard": "á",
+        "phonological_basis": "17c Dominican orthography conversion: a (亞) -> a² / á."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "segundo",
+      "source_H": "二",
+      "source_M": "xy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "segundo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzi¹",
+        "tai_lo_standard": "ji",
+        "phonological_basis": "17c Dominican orthography conversion: xy (二) -> dzi¹ / ji."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "segundo en orden.",
+      "source_H": "亞魁",
+      "source_M": "a cue ..",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "segundo en orden.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "a³ kue²",
+        "tai_lo_standard": "à-kué",
+        "phonological_basis": "17c Dominican orthography conversion: a (亞) -> a³ / à; cue (魁) -> kue² / kué."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "segundo en licencia.",
+      "source_H": "榜眼",
+      "source_M": "pong gien.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "segundo en licencia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pɔŋ² gien²",
+        "tai_lo_standard": "póng-gién",
+        "phonological_basis": "17c Dominican orthography conversion: pong (榜) -> pɔŋ² / póng; gien (眼) -> gien² / gién."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "segundo sabio -",
+      "source_H": "亞聖",
+      "source_M": "a sey.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "segundo sabio -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "a³ sei³",
+        "tai_lo_standard": "à-sèi",
+        "phonological_basis": "17c Dominican orthography conversion: a (亞) -> a³ / à; sey (聖) -> sei³ / sèi."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "segundo en dignidad.",
+      "source_H": "第二",
+      "source_M": "tey xy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "segundo en dignidad.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tei² dzi²",
+        "tai_lo_standard": "téi-jí",
+        "phonological_basis": "17c Dominican orthography conversion: tey (第) -> tei² / téi; xy (二) -> dzi² / jí."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "segunda vez.",
+      "source_H": "各",
+      "source_M": "co: coy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "segunda vez.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko³ koi³",
+        "tai_lo_standard": "kò-kòi",
+        "phonological_basis": "17c Dominican orthography conversion: co (各) -> ko³ / kò; coy (?) -> koi³ / kòi."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Seguro -",
+      "source_H": "當",
+      "source_M": "tong.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Seguro -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tɔŋ²",
+        "tai_lo_standard": "tóng",
+        "phonological_basis": "17c Dominican orthography conversion: tong (當) -> tɔŋ² / tóng."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "seguro",
+      "source_H": "停",
+      "source_M": "teng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seguro",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teŋ³",
+        "tai_lo_standard": "tèng",
+        "phonological_basis": "17c Dominican orthography conversion: teng (停) -> teŋ³ / tèng."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "seguro sin molestia.",
+      "source_H": "穩",
+      "source_M": "un tong [疑:un或on]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seguro sin molestia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "un³ tɔŋ³ un¹ on¹",
+        "tai_lo_standard": "ùn-tòng-un-on",
+        "phonological_basis": "17c Dominican orthography conversion: un (穩) -> un³ / ùn; tong (?) -> tɔŋ³ / tòng; un (?) -> un¹ / un; on (?) -> on¹ / on."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "seguro. firme.",
+      "source_H": "停當",
+      "source_M": "teng tong.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seguro. firme.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teŋ² tɔŋ³",
+        "tai_lo_standard": "téng-tòng",
+        "phonological_basis": "17c Dominican orthography conversion: teng (停) -> teŋ² / téng; tong (當) -> tɔŋ³ / tòng."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "seguro, cierto.",
+      "source_H": "的當",
+      "source_M": "teg tong ciao",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seguro, cierto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tek⁷ tɔŋ³ kiao¹",
+        "tai_lo_standard": "tek-tòng-kiao",
+        "phonological_basis": "17c Dominican orthography conversion: teg (的) -> tek⁷ / tek; tong (當) -> tɔŋ³ / tòng; ciao (?) -> kiao¹ / kiao."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "seguro, cierto.",
+      "source_H": "確當",
+      "source_M": "cac tong coy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seguro, cierto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kak⁷ tɔŋ³ koi¹",
+        "tai_lo_standard": "kak-tòng-koi",
+        "phonological_basis": "17c Dominican orthography conversion: cac (確) -> kak⁷ / kak; tong (當) -> tɔŋ³ / tòng; coy (?) -> koi¹ / koi."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": ". Seguro de dios fedan. jin chim. seguro ia seguro, comul y abraza Manco ala puente, po gio cale... [残:通栏附注首行，缩写连写多处难辨，末词后另见淡写16字样] / [残:第二行小字仅辨 fin acabado 字样]",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": ". Seguro de dios fedan. jin chim. seguro ia seguro, comul y abraza Manco ala puente, po gio cale... /",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    }
+  ]
+}

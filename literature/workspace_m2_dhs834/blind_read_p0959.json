@@ -1,0 +1,385 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 959,
+  "historical_folio": 921,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0959/pdf_0959_300dpi.png",
+  "page_header": "S. ante. E [疑:E/F]",
+  "page_footer_printed": "- 921 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Sed. boca sedienta -",
+      "source_H": "口 渴",
+      "source_M": "chui cua",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sed. boca sedienta -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui³ kua³",
+        "tai_lo_standard": "tsuì-kuà",
+        "phonological_basis": "17c Dominican orthography conversion: chui (口) -> tsui³ / tsuì; cua (渴) -> kua³ / kuà."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Seda.",
+      "source_H": "絲",
+      "source_M": "sy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Seda.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si¹",
+        "tai_lo_standard": "si",
+        "phonological_basis": "17c Dominican orthography conversion: sy (絲) -> si¹ / si."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "seda floxa.",
+      "source_H": "絨",
+      "source_M": "xiong",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seda floxa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzioŋ⁵",
+        "tai_lo_standard": "jiông",
+        "phonological_basis": "17c Dominican orthography conversion: xiong (絨) -> dzioŋ⁵ / jiông."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "seda de Paquin .",
+      "source_H": "垻 [疑:垻/填]",
+      "source_M": "pa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seda de Paquin .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pa³",
+        "tai_lo_standard": "pà",
+        "phonological_basis": "17c Dominican orthography conversion: pa (垻) -> pa³ / pà."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "seda de paquin -",
+      "source_H": "垻 [疑:垻/填] 系 [疑:系/絲]",
+      "source_M": "pa sy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seda de paquin -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pa³ si¹",
+        "tai_lo_standard": "pà-si",
+        "phonological_basis": "17c Dominican orthography conversion: pa (垻) -> pa³ / pà; sy (系) -> si¹ / si."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "seda [划去一词，难辨] pª texer - [疑:texer/fexer]",
+      "source_H": "経 仔",
+      "source_M": "quẽ ia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seda pª texer -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kẽ¹ ia²",
+        "tai_lo_standard": "kenn-iá",
+        "phonological_basis": "17c Dominican orthography conversion: quẽ (経) -> kẽ¹ / kenn; ia (仔) -> ia² / iá."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "seda floxa curada -",
+      "source_H": "熟 系 [疑:系/絲]",
+      "source_M": "seg sy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seda floxa curada -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sek⁷ si¹",
+        "tai_lo_standard": "sek-si",
+        "phonological_basis": "17c Dominican orthography conversion: seg (熟) -> sek⁷ / sek; sy (系) -> si¹ / si."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "seda floxa curada -",
+      "source_H": "湖 系 [疑:系/絲]",
+      "source_M": "hou [疑:hou/hon] sy",
+      "source_R": "se curta grua asillamada [疑:拼写不清]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seda floxa curada -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hou⁵ hou¹ hon¹ si¹",
+        "tai_lo_standard": "hôu-hou-hon-si",
+        "phonological_basis": "17c Dominican orthography conversion: hou (湖) -> hou⁵ / hôu; hou (系) -> hou¹ / hou; hon (?) -> hon¹ / hon; sy (?) -> si¹ / si."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "seda torcida -",
+      "source_H": "左 線",
+      "source_M": "cho çoã [疑:çoa/Goa]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "seda torcida -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso² õã³ oa¹ goa¹",
+        "tai_lo_standard": "tsó-oànn-oa-goa",
+        "phonological_basis": "17c Dominican orthography conversion: cho (左) -> tso² / tsó; oã (線) -> õã³ / oànn; oa (?) -> oa¹ / oa; Goa (?) -> goa¹ / goa."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Sedal pª pescar -",
+      "source_H": "繩",
+      "source_M": "chin",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sedal pª pescar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin⁵",
+        "tai_lo_standard": "tsîn",
+        "phonological_basis": "17c Dominican orthography conversion: chin (繩) -> tsin⁵ / tsîn."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "sedal pª pescar -",
+      "source_H": "釣 繩",
+      "source_M": "tio chin",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sedal pª pescar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tio³ tsin⁵",
+        "tai_lo_standard": "tiò-tsîn",
+        "phonological_basis": "17c Dominican orthography conversion: tio (釣) -> tio³ / tiò; chin (繩) -> tsin⁵ / tsîn."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "sedal pª pescar -",
+      "source_H": "絲 綸",
+      "source_M": "sy lun",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sedal pª pescar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si¹ lun⁵",
+        "tai_lo_standard": "si-lûn",
+        "phonological_basis": "17c Dominican orthography conversion: sy (絲) -> si¹ / si; lun (綸) -> lun⁵ / lûn."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Segar -",
+      "source_H": "割",
+      "source_M": "cua",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Segar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kua³",
+        "tai_lo_standard": "kuà",
+        "phonological_basis": "17c Dominican orthography conversion: cua (割) -> kua³ / kuà."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Segador -",
+      "source_H": "田 客",
+      "source_M": "chan que",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Segador -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰan⁵ kʰe¹",
+        "tai_lo_standard": "tshân-khe",
+        "phonological_basis": "17c Dominican orthography conversion: chan (田) -> tsʰan⁵ / tshân; que (客) -> kʰe¹ / khe."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Segregar [疑:Segregar/Segan]（划去）；其下 Seguro（划去）",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Segregar （划去）；其下 Seguro（划去）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Seguir ymitar -",
+      "source_H": "趲 [疑:趲/趁]",
+      "source_M": "tan",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Seguir ymitar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tan³",
+        "tai_lo_standard": "tàn",
+        "phonological_basis": "17c Dominican orthography conversion: tan (趲) -> tan³ / tàn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Seguir ymitar -",
+      "source_H": "從",
+      "source_M": "chiong",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Seguir ymitar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsioŋ⁵",
+        "tai_lo_standard": "tsiông",
+        "phonological_basis": "17c Dominican orthography conversion: chiong (從) -> tsioŋ⁵ / tsiông."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Seguir, ir en seguimiento.",
+      "source_H": "帶",
+      "source_M": "tue（栏内右侧淡墨小字：tan [疑:tan/tam]）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Seguir, ir en seguimiento.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tue³ tan¹ tan¹ tam¹",
+        "tai_lo_standard": "tuè-tan-tan-tam",
+        "phonological_basis": "17c Dominican orthography conversion: tue (帶) -> tue³ / tuè; tan (?) -> tan¹ / tan; tan (?) -> tan¹ / tan; tam (?) -> tam¹ / tam."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Seguir -",
+      "source_H": "任 從",
+      "source_M": "xim [疑:xim/sim] chiong",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Seguir -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzim² dzim⁵ sim¹ tsioŋ¹",
+        "tai_lo_standard": "jím-jîm-sim-tsiong",
+        "phonological_basis": "17c Dominican orthography conversion: xim (任) -> dzim² / jím; xim (從) -> dzim⁵ / jîm; sim (?) -> sim¹ / sim; chiong (?) -> tsioŋ¹ / tsiong."
+      }
+    }
+  ]
+}

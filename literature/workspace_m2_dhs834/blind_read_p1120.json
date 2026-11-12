@@ -1,0 +1,386 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1120,
+  "historical_folio": 1082,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1120/pdf_1120_300dpi.png",
+  "page_header": "",
+  "page_footer_printed": "- 1082 -",
+  "page_footer_handwritten": "54",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "ymi para Dios en pucdo [疑:pucdo/fucdo] trima y enteerrar la ~",
+      "source_H": "体天主行",
+      "source_M": "rey tien chu heng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T00 (無標號)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ymi para Dios en pucdo trima y enteerrar la ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "rei² tʰien¹ tsu¹ heŋ⁵",
+        "tai_lo_standard": "réi-thien-tsu-hêng",
+        "phonological_basis": "17c Dominican orthography conversion: rey (体) -> rei² / réi; tien (天) -> tʰien¹ / thien; chu (主) -> tsu¹ / tsu; heng (行) -> heŋ⁵ / hêng."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "ymi tarales en viento lo auil ~",
+      "source_H": "什疾人",
+      "source_M": "chap chit lang.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)",
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ymi tarales en viento lo auil ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsap⁷ tsit⁷ laŋ²",
+        "tai_lo_standard": "tsap-tsit-láng",
+        "phonological_basis": "17c Dominican orthography conversion: chap (什) -> tsap⁷ / tsap; chit (疾) -> tsit⁷ / tsit; lang (人) -> laŋ² / láng."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "ymi tarlo Bueno ~",
+      "source_H": "[空]",
+      "source_M": "hou yu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ymi tarlo Bueno ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hou⁶ iu⁶",
+        "tai_lo_standard": "hōu-iū",
+        "phonological_basis": "17c Dominican orthography conversion: hou (?) -> hou⁶ / hōu; yu (?) -> iu⁶ / iū."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "ymi tarlo antiguo",
+      "source_H": "依原",
+      "source_M": "y guan.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ymi tarlo antiguo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "i¹ guan⁵",
+        "tai_lo_standard": "i-guân",
+        "phonological_basis": "17c Dominican orthography conversion: y (依) -> i¹ / i; guan (原) -> guan⁵ / guân."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "ymi tarlo antiguo",
+      "source_H": "依舊",
+      "source_M": "y guiū.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ymi tarlo antiguo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "i¹ guiu⁵",
+        "tai_lo_standard": "i-guîu",
+        "phonological_basis": "17c Dominican orthography conversion: y (依) -> i¹ / i; guiū (舊) -> guiu⁵ / guîu."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Ymmoble, firme. [疑:oble/able]",
+      "source_H": "固",
+      "source_M": "cou",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ymmoble, firme.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kou³",
+        "tai_lo_standard": "kòu",
+        "phonological_basis": "17c Dominican orthography conversion: cou (固) -> kou³ / kòu."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "ym mob le firme ~",
+      "source_H": "堅固",
+      "source_M": "guien cou.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ym mob le firme ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guien¹ kou²",
+        "tai_lo_standard": "guien-kóu",
+        "phonological_basis": "17c Dominican orthography conversion: guien (堅) -> guien¹ / guien; cou (固) -> kou² / kóu."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "ym mob le firme ~",
+      "source_H": "堅有 [疑:有/定]",
+      "source_M": "guien teng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ym mob le firme ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guien¹ teŋ¹",
+        "tai_lo_standard": "guien-teng",
+        "phonological_basis": "17c Dominican orthography conversion: guien (堅) -> guien¹ / guien; teng (有) -> teŋ¹ / teng."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Ympaciente.",
+      "source_H": "腹肚淺",
+      "source_M": "pag tou cuin.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ympaciente.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pak⁷ tou² kʰuin²",
+        "tai_lo_standard": "pak-tóu-khuín",
+        "phonological_basis": "17c Dominican orthography conversion: pag (腹) -> pak⁷ / pak; tou (肚) -> tou² / tóu; cuin (淺) -> kʰuin² / khuín."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "ympaciente",
+      "source_H": "淺腹",
+      "source_M": "cuin pag.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ympaciente",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰuin⁵ pak⁷",
+        "tai_lo_standard": "khuîn-pak",
+        "phonological_basis": "17c Dominican orthography conversion: cuin (淺) -> kʰuin⁵ / khuîn; pag (腹) -> pak⁷ / pak."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "ympaciente · y stedhico, condición ~",
+      "source_H": "無量",
+      "source_M": "Bu liang; y colexios. condicion",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ympaciente · y stedhico, condición ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bu³ liaŋ³ i¹ kolexios¹",
+        "tai_lo_standard": "bù-liàng-i-kolexios",
+        "phonological_basis": "17c Dominican orthography conversion: Bu (無) -> bu³ / bù; liang (量) -> liaŋ³ / liàng; y (?) -> i¹ / i; colexios (?) -> kolexios¹ / kolexios."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Ympedir. y prohibir",
+      "source_H": "禁",
+      "source_M": "guin. [疑:guin/guim]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ympedir. y prohibir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guin¹ guin¹ guim¹",
+        "tai_lo_standard": "guin-guin-guim",
+        "phonological_basis": "17c Dominican orthography conversion: guin (禁) -> guin¹ / guin; guin (?) -> guin¹ / guin; guim (?) -> guim¹ / guim."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "ympedir la buena dotrina.",
+      "source_H": "悮 [疑:悮/誤]",
+      "source_M": "gou.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ympedir la buena dotrina.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gou³",
+        "tai_lo_standard": "gòu",
+        "phonological_basis": "17c Dominican orthography conversion: gou (悮) -> gou³ / gòu."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "ympedir la agua p[残] ño pase ~",
+      "source_H": "滯",
+      "source_M": "Fy. [疑:Fy/Ty]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ympedir la agua p ño pase ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fi⁵ fi¹ ti¹",
+        "tai_lo_standard": "fî-fi-ti",
+        "phonological_basis": "17c Dominican orthography conversion: Fy (滯) -> fi⁵ / fî; Fy (?) -> fi¹ / fi; Ty (?) -> ti¹ / ti."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "ympedir el paso ~",
+      "source_H": "閘",
+      "source_M": "cha.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ympedir el paso ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsa³",
+        "tai_lo_standard": "tsà",
+        "phonological_basis": "17c Dominican orthography conversion: cha (閘) -> tsa³ / tsà."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "m.",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "m.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Ympedido real = gran mbi embue ~ [疑:embue/embuo]",
+      "source_H": "健勁",
+      "source_M": "guiong quin.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ympedido real = gran mbi embue ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guioŋ¹ kin¹",
+        "tai_lo_standard": "guiong-kin",
+        "phonological_basis": "17c Dominican orthography conversion: guiong (健) -> guioŋ¹ / guiong; quin (勁) -> kin¹ / kin."
+      }
+    }
+  ]
+}

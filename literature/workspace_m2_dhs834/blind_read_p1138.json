@@ -1,0 +1,367 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1138,
+  "historical_folio": 1100,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1138/pdf_1138_300dpi.png",
+  "page_header": "",
+  "page_footer_printed": "- 1100 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 16,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "[残]",
+      "source_H": "[残]",
+      "source_M": "[残]",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "ysleta de mariquelas -",
+      "source_H": "雞 奠[疑:奠/嶼]",
+      "source_M": "queysu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ysleta de mariquelas -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "keisu¹",
+        "tai_lo_standard": "keisu",
+        "phonological_basis": "17c Dominican orthography conversion: queysu (雞) -> keisu¹ / keisu."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Y.",
+      "source_H": "ante.",
+      "source_M": "U.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Y.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "u¹",
+        "tai_lo_standard": "u",
+        "phonological_basis": "17c Dominican orthography conversion: U (?) -> u¹ / u."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Yugo de bacay [残] -",
+      "source_H": "軛",
+      "source_M": "e",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Yugo de bacay -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "e³",
+        "tai_lo_standard": "è",
+        "phonological_basis": "17c Dominican orthography conversion: e (軛) -> e³ / è."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "yugo ~",
+      "source_H": "鉮 腳 車",
+      "source_M": "ley cachia.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "yugo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lei¹ kachia¹",
+        "tai_lo_standard": "lei-kachia",
+        "phonological_basis": "17c Dominican orthography conversion: ley (鉮) -> lei¹ / lei; cachia (腳) -> kachia¹ / kachia."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "yugo -",
+      "source_H": "鉮 頭 銍[疑:銍/銛]",
+      "source_M": "ley tause.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "yugo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lei¹ tʰause¹",
+        "tai_lo_standard": "lei-thause",
+        "phonological_basis": "17c Dominican orthography conversion: ley (鉮) -> lei¹ / lei; tause (頭) -> tʰause¹ / thause."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "yugo.",
+      "source_H": "牛 桃",
+      "source_M": "fu ta ..",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "yugo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fu⁵ ta¹",
+        "tai_lo_standard": "fû-ta",
+        "phonological_basis": "17c Dominican orthography conversion: fu (牛) -> fu⁵ / fû; ta (桃) -> ta¹ / ta."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Zungue ~ [疑:Z/Y]",
+      "source_H": "鉄 鉆",
+      "source_M": "tʸ fiam",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Zungue ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiʔ⁷ fiam¹",
+        "tai_lo_standard": "tih-fiam",
+        "phonological_basis": "17c Dominican orthography conversion: t (鉄) -> tiʔ⁷ / tih; fiam (鉆) -> fiam¹ / fiam."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Z.",
+      "source_H": "ante.",
+      "source_M": "A.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Z.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "a¹",
+        "tai_lo_standard": "a",
+        "phonological_basis": "17c Dominican orthography conversion: A (?) -> a¹ / a."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Zaherir con el benefi-cio ~",
+      "source_H": "謬",
+      "source_M": "lin: 6u [疑:6/b]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Zaherir con el benefi-cio ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lin¹ u¹ bi¹",
+        "tai_lo_standard": "lin-u-bi",
+        "phonological_basis": "17c Dominican orthography conversion: lin (謬) -> lin¹ / lin; u (?) -> u¹ / u; b (?) -> bi¹ / bi."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Zaherir con el benefici- [残]",
+      "source_H": "怪",
+      "source_M": "cua: cuay",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Zaherir con el benefici-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kua¹ kuai¹",
+        "tai_lo_standard": "kua-kuai",
+        "phonological_basis": "17c Dominican orthography conversion: cua (怪) -> kua¹ / kua; cuay (?) -> kuai¹ / kuai."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Za herir. ide3 .",
+      "source_H": "帰 咎",
+      "source_M": "cui quiu.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Za herir. ide3 .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kui¹ kiu¹",
+        "tai_lo_standard": "kui-kiu",
+        "phonological_basis": "17c Dominican orthography conversion: cui (帰) -> kui¹ / kui; quiu (咎) -> kiu¹ / kiu."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Zaherir. ide3 .",
+      "source_H": "跟 霄 伊",
+      "source_M": "quin quay.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Zaherir. ide3 .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kin¹ kai¹",
+        "tai_lo_standard": "kin-kai",
+        "phonological_basis": "17c Dominican orthography conversion: quin (跟) -> kin¹ / kin; quay (霄) -> kai¹ / kai."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Za herix. ide3 .",
+      "source_H": "帰 託",
+      "source_M": "cui roc ..",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Za herix. ide3 .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kui¹ rok⁷",
+        "tai_lo_standard": "kui-rok",
+        "phonological_basis": "17c Dominican orthography conversion: cui (帰) -> kui¹ / kui; roc (託) -> rok⁷ / rok."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Zaherir con susculpas -",
+      "source_H": "敲 剖[疑:剖/削] 人",
+      "source_M": "cau sia lang.",
+      "source_R": "cau cua lang:",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Zaherir con susculpas -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kau² sia¹ laŋ¹",
+        "tai_lo_standard": "káu-sia-lang",
+        "phonological_basis": "17c Dominican orthography conversion: cau (敲) -> kau² / káu; sia (剖) -> sia¹ / sia; lang (人) -> laŋ¹ / lang."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Zaherir con sus culpas",
+      "source_H": "体 記[疑:体/休]",
+      "source_M": "fey ng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T00 (無標號)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Zaherir con sus culpas",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fei¹ ŋi¹",
+        "tai_lo_standard": "fei-ngi",
+        "phonological_basis": "17c Dominican orthography conversion: fey (体) -> fei¹ / fei; ng (記) -> ŋi¹ / ngi."
+      }
+    }
+  ]
+}

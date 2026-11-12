@@ -1,0 +1,429 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 928,
+  "historical_folio": 890,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0928/pdf_0928_300dpi.png",
+  "page_header": "R. ante. [疑:右圈内字母难辨，形似Q/O]",
+  "page_footer_printed": "- 890 -",
+  "page_footer_handwritten": "445",
+  "total_positions_recorded": 21,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Rondar~",
+      "source_H": "哨",
+      "source_M": "saû.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rondar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sau³",
+        "tai_lo_standard": "sàu",
+        "phonological_basis": "17c Dominican orthography conversion: saû (哨) -> sau³ / sàu."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "rondar~",
+      "source_H": "巡",
+      "source_M": "chūn saû.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rondar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsun⁵ sau³",
+        "tai_lo_standard": "tsûn-sàu",
+        "phonological_basis": "17c Dominican orthography conversion: chūn (巡) -> tsun⁵ / tsûn; saû (?) -> sau³ / sàu."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "ronder~",
+      "source_H": "哨 探",
+      "source_M": "saû tàm.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ronder~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sau³ tam²",
+        "tai_lo_standard": "sàu-tám",
+        "phonological_basis": "17c Dominican orthography conversion: saû (哨) -> sau³ / sàu; tàm (探) -> tam² / tám."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "rondar~",
+      "source_H": "操 練 軍 馬",
+      "source_M": "châu liēn cūn bè.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rondar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsau³ lien⁵ kun⁵ be²",
+        "tai_lo_standard": "tsàu-liên-kûn-bé",
+        "phonological_basis": "17c Dominican orthography conversion: châu (操) -> tsau³ / tsàu; liēn (練) -> lien⁵ / liên; cūn (軍) -> kun⁵ / kûn; bè (馬) -> be² / bé."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "rondar.",
+      "source_H": "巡 守",
+      "source_M": "chūn chiù.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rondar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsun⁵ tsiu²",
+        "tai_lo_standard": "tsûn-tsiú",
+        "phonological_basis": "17c Dominican orthography conversion: chūn (巡) -> tsun⁵ / tsûn; chiù (守) -> tsiu² / tsiú."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "rondar~",
+      "source_H": "巡 緝",
+      "source_M": "chūn chíp.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rondar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsun⁵ tsip⁷",
+        "tai_lo_standard": "tsûn-tsip",
+        "phonological_basis": "17c Dominican orthography conversion: chūn (巡) -> tsun⁵ / tsûn; chíp (緝) -> tsip⁷ / tsip."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "rondar~",
+      "source_H": "守 更",
+      "source_M": "chiù quẽ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rondar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiu² kẽ¹",
+        "tai_lo_standard": "tsiú-kenn",
+        "phonological_basis": "17c Dominican orthography conversion: chiù (守) -> tsiu² / tsiú; quẽ (更) -> kẽ¹ / kenn."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "rondar~",
+      "source_H": "巡 更",
+      "source_M": "chūn quẽ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rondar~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsun⁵ kẽ¹",
+        "tai_lo_standard": "tsûn-kenn",
+        "phonological_basis": "17c Dominican orthography conversion: chūn (巡) -> tsun⁵ / tsûn; quẽ (更) -> kẽ¹ / kenn."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "rondar.",
+      "source_H": "巡 看 [疑:看/眷]",
+      "source_M": "chūn chiẫ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rondar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsun⁵ tsʰi³",
+        "tai_lo_standard": "tsûn-tshì",
+        "phonological_basis": "17c Dominican orthography conversion: chūn (巡) -> tsun⁵ / tsûn; chi (看) -> tsʰi³ / tshì."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Ropa de la cama~",
+      "source_H": "鋪",
+      "source_M": "póu.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ropa de la cama~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pou¹",
+        "tai_lo_standard": "pou",
+        "phonological_basis": "17c Dominican orthography conversion: póu (鋪) -> pou¹ / pou."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "ropa con colcha de algodón",
+      "source_H": "綿 襦",
+      "source_M": "mŷ hiū.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ropa con colcha de algodón",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mi³ hiu⁵",
+        "tai_lo_standard": "mì-hiû",
+        "phonological_basis": "17c Dominican orthography conversion: m (綿) -> mi³ / mì; hiū (襦) -> hiu⁵ / hiû."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "ropa de lebantar de Mandarín [疑:lebantar/levantar]",
+      "source_H": "員 領",
+      "source_M": "oân nià.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ropa de lebantar de Mandarín",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "oan³ nia²",
+        "tai_lo_standard": "oàn-niá",
+        "phonological_basis": "17c Dominican orthography conversion: oân (員) -> oan³ / oàn; nià (領) -> nia² / niá."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "ropa de lebantar de levado [残]",
+      "source_H": "披 風",
+      "source_M": "pý hong.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ropa de lebantar de levado",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pi¹ hɔŋ¹",
+        "tai_lo_standard": "pi-hong",
+        "phonological_basis": "17c Dominican orthography conversion: p (披) -> pi¹ / pi; hong (風) -> hɔŋ¹ / hong."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Rossa~",
+      "source_H": "花",
+      "source_M": "hûa.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rossa~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hua³",
+        "tai_lo_standard": "huà",
+        "phonological_basis": "17c Dominican orthography conversion: hûa (花) -> hua³ / huà."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "rosa~",
+      "source_H": "芝",
+      "source_M": "chỹ [抹消·后词不可辨].",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rosa~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi¹",
+        "tai_lo_standard": "tsi",
+        "phonological_basis": "17c Dominican orthography conversion: ch (芝) -> tsi¹ / tsi."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "rosa~",
+      "source_H": "芳",
+      "source_M": "hoỹ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rosa~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho¹",
+        "tai_lo_standard": "ho",
+        "phonological_basis": "17c Dominican orthography conversion: ho (芳) -> ho¹ / ho."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "rosa q se cria en el agua.",
+      "source_H": "耦 [旁有抹消笔划]",
+      "source_M": "[抹消] liēn ngâu.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rosa q se cria en el agua.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lien⁵ ŋau³",
+        "tai_lo_standard": "liên-ngàu",
+        "phonological_basis": "17c Dominican orthography conversion: liēn (耦) -> lien⁵ / liên; ngâu (?) -> ŋau³ / ngàu."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "rosa de oro q se da por premio.",
+      "source_H": "瓊",
+      "source_M": "quēng hûa.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rosa de oro q se da por premio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "keŋ⁵ hua³",
+        "tai_lo_standard": "kêng-huà",
+        "phonological_basis": "17c Dominican orthography conversion: quēng (瓊) -> keŋ⁵ / kêng; hûa (?) -> hua³ / huà."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "rosa de alexandria.",
+      "source_H": "蔷",
+      "source_M": "chiỗ [圈注].",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rosa de alexandria.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi³",
+        "tai_lo_standard": "tsì",
+        "phonological_basis": "17c Dominican orthography conversion: chi (蔷) -> tsi³ / tsì."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "rosa q aun no abierta~",
+      "source_H": "含",
+      "source_M": "hām luy·hûa luy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rosa q aun no abierta~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ham⁵ lui¹ hua³ lui¹",
+        "tai_lo_standard": "hâm-lui-huà-lui",
+        "phonological_basis": "17c Dominican orthography conversion: hām (含) -> ham⁵ / hâm; luy (?) -> lui¹ / lui; hûa (?) -> hua³ / huà; luy (?) -> lui¹ / lui."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "rosa de alexandria.",
+      "source_H": "蔷 薇 花",
+      "source_M": "chiỗ bŷ hûa.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rosa de alexandria.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi³ bi³ hua³",
+        "tai_lo_standard": "tsì-bì-huà",
+        "phonological_basis": "17c Dominican orthography conversion: chi (蔷) -> tsi³ / tsì; b (薇) -> bi³ / bì; hûa (花) -> hua³ / huà."
+      }
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 987,
+  "historical_folio": 949,
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0987/pdf_0987_300dpi.png",
+  "page_header": "S. ante. O:",
+  "page_footer_printed": "- 949 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "sombreros",
+      "source_H": "冠",
+      "source_M": "quan",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "1"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "0"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sombreros",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kan¹",
+        "tai_lo_standard": "kan",
+        "phonological_basis": "17c Dominican orthography conversion: quan (冠) -> kan¹ / kan."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "sombreros de Mandarin",
+      "source_H": "冕",
+      "source_M": "bien. quan bin,",
+      "source_R": "bin conquisto aborrecido. [疑:conquisto]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "2",
+        ",",
+        "T",
+        "0",
+        "1",
+        ",",
+        "T",
+        "0",
+        "2"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "2"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sombreros de Mandarin",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bien¹",
+        "tai_lo_standard": "bien",
+        "phonological_basis": "17c Dominican orthography conversion: bien (冕) -> bien¹ / bien."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "sombreros de Mandarin",
+      "source_H": "袟帽 [疑:袟/秩]",
+      "source_M": "se bo",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "1",
+        ",",
+        "T",
+        "0",
+        "2"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "0"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sombreros de Mandarin",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "se¹ bo¹",
+        "tai_lo_standard": "se-bo",
+        "phonological_basis": "17c Dominican orthography conversion: se (袟) -> se¹ / se; bo (帽) -> bo¹ / bo."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "sombreros de caña",
+      "source_H": "笠",
+      "source_M": "le",
+      "source_R": "le hiu. asad el sombrero tiene genillo: [疑:asad]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "2"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "2",
+        ",",
+        "T",
+        "0",
+        "1"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sombreros de caña",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "le¹",
+        "tai_lo_standard": "le",
+        "phonological_basis": "17c Dominican orthography conversion: le (笠) -> le¹ / le."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "sombreros",
+      "source_H": "帽仔",
+      "source_M": "bo gia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "2",
+        ",",
+        "T",
+        "0",
+        "1"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "0"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sombreros",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bo¹ gia¹",
+        "tai_lo_standard": "bo-gia",
+        "phonological_basis": "17c Dominican orthography conversion: bo (帽) -> bo¹ / bo; gia (仔) -> gia¹ / gia."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "sombreros de cualquiera lo que sea preser[残]",
+      "source_H": "小帽",
+      "source_M": "sio bo",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "1",
+        ",",
+        "T",
+        "0",
+        "2"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "0"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sombreros de cualquiera lo que sea preser",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio¹ bo¹",
+        "tai_lo_standard": "sio-bo",
+        "phonological_basis": "17c Dominican orthography conversion: sio (小) -> sio¹ / sio; bo (帽) -> bo¹ / bo."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "sombreros bien compuestos",
+      "source_H": "冠冕",
+      "source_M": "quan bien",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "1",
+        ",",
+        "T",
+        "0",
+        "2"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "0"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sombreros bien compuestos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kan¹ bien¹",
+        "tai_lo_standard": "kan-bien",
+        "phonological_basis": "17c Dominican orthography conversion: quan (冠) -> kan¹ / kan; bien (冕) -> bien¹ / bien."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "sombreros, chirete de noble [疑:chirete/obierte]",
+      "source_H": "頭巾",
+      "source_M": "quin",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "1"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "0"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sombreros, chirete de noble",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰin¹",
+        "tai_lo_standard": "khin",
+        "phonological_basis": "17c Dominican orthography conversion: quin (頭) -> kʰin¹ / khin."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "sombreros pespuntados [疑:pespuntados/bespuntados]",
+      "source_H": "走珠帽",
+      "source_M": "chai chu bo",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "2",
+        ",",
+        "T",
+        "0",
+        "1",
+        ",",
+        "T",
+        "0",
+        "2"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "0"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sombreros pespuntados",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsai¹ tsu¹ bo¹",
+        "tai_lo_standard": "tsai-tsu-bo",
+        "phonological_basis": "17c Dominican orthography conversion: chai (走) -> tsai¹ / tsai; chu (珠) -> tsu¹ / tsu; bo (帽) -> bo¹ / bo."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Sombrio -",
+      "source_H": "陰森",
+      "source_M": "im som",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "1",
+        ",",
+        "T",
+        "0",
+        "1"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "0"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sombrio -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "im¹ som¹",
+        "tai_lo_standard": "im-som",
+        "phonological_basis": "17c Dominican orthography conversion: im (陰) -> im¹ / im; som (森) -> som¹ / som."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "sombria",
+      "source_H": "陰影",
+      "source_M": "im ia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "1",
+        ",",
+        "T",
+        "0",
+        "2"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "0"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sombria",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "im¹ ia¹",
+        "tai_lo_standard": "im-ia",
+        "phonological_basis": "17c Dominican orthography conversion: im (陰) -> im¹ / im; ia (影) -> ia¹ / ia."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Somero, de poco fondo.. gt. superficial",
+      "source_H": "浅 [疑:浅/淺]",
+      "source_M": "chien: quin [疑:quin]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "2",
+        ",",
+        "T",
+        "0",
+        "1"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "0"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Somero, de poco fondo.. gt. superficial",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsien¹ kin¹ kin¹",
+        "tai_lo_standard": "tsien-kin-kin",
+        "phonological_basis": "17c Dominican orthography conversion: chien (浅) -> tsien¹ / tsien; quin (?) -> kin¹ / kin; quin (?) -> kin¹ / kin."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Sonajas -",
+      "source_H": "三那鼓 [疑:那/吶]",
+      "source_M": "sa na cou",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "3",
+        ",",
+        "T",
+        "0",
+        "2",
+        ",",
+        "T",
+        "0",
+        "2"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "0"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sonajas -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sa¹ na¹ kou¹",
+        "tai_lo_standard": "sa-na-kou",
+        "phonological_basis": "17c Dominican orthography conversion: sa (三) -> sa¹ / sa; na (那) -> na¹ / na; cou (鼓) -> kou¹ / kou."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "sonajas -",
+      "source_H": "錢那鼓 [疑:那/吶]",
+      "source_M": "chy na cou",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "3",
+        ",",
+        "T",
+        "0",
+        "2",
+        ",",
+        "T",
+        "0",
+        "2"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "0"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sonajas -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰi¹ na¹ kou¹",
+        "tai_lo_standard": "tshi-na-kou",
+        "phonological_basis": "17c Dominican orthography conversion: chy (錢) -> tsʰi¹ / tshi; na (那) -> na¹ / na; cou (鼓) -> kou¹ / kou."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Sonajas que lleua el Mandarin q. qua a hablar el Rey [疑:qua]",
+      "source_H": "玉珮叮噹",
+      "source_M": "gioj [疑:gioj/giog] pue teng tang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "1",
+        ",",
+        "T",
+        "0",
+        "1",
+        ",",
+        "T",
+        "0",
+        "3",
+        ",",
+        "T",
+        "0",
+        "1"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "0"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sonajas que lleua el Mandarin q. qua a hablar el Rey",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gioj¹ gioj¹ giok⁷ pue¹ teŋ¹ taŋ¹",
+        "tai_lo_standard": "gioj-gioj-giok-pue-teng-tang",
+        "phonological_basis": "17c Dominican orthography conversion: gioj (玉) -> gioj¹ / gioj; gioj (珮) -> gioj¹ / gioj; giog (叮) -> giok⁷ / giok; pue (噹) -> pue¹ / pue; teng (?) -> teŋ¹ / teng; tang (?) -> taŋ¹ / tang."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Sonar -",
+      "source_H": "响 [疑:响/響]",
+      "source_M": "hiang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "1"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "0"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sonar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hiaŋ¹",
+        "tai_lo_standard": "hiang",
+        "phonological_basis": "17c Dominican orthography conversion: hiang (响) -> hiaŋ¹ / hiang."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "sonar como trueno - pieça",
+      "source_H": "震",
+      "source_M": "chin",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "2"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "0"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sonar como trueno - pieça",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin¹",
+        "tai_lo_standard": "tsin",
+        "phonological_basis": "17c Dominican orthography conversion: chin (震) -> tsin¹ / tsin."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "sonar los mocos [疑:mocos/nocos]",
+      "source_H": "挖 [疑:挖/捾]",
+      "source_M": "cheng py ty san",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T",
+        "0",
+        "2",
+        ",",
+        "T",
+        "0",
+        "3",
+        ",",
+        "T",
+        "0",
+        "3",
+        ",",
+        "T",
+        "0",
+        "1"
+      ],
+      "tone_marks_R": [
+        "T",
+        "0",
+        "0"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sonar los mocos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tseŋ¹ pi¹ ti¹ san¹",
+        "tai_lo_standard": "tseng-pi-ti-san",
+        "phonological_basis": "17c Dominican orthography conversion: cheng (挖) -> tseŋ¹ / tseng; py (?) -> pi¹ / pi; ty (?) -> ti¹ / ti; san (?) -> san¹ / san."
+      }
+    }
+  ]
+}

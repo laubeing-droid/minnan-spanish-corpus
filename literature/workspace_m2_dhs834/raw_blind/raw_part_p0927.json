@@ -1,0 +1,185 @@
+{
+  "pages": [
+    {
+      "pdf_page": 927,
+      "historical_folio": 889,
+      "page_header": "R. ante. O.",
+      "page_footer_printed": "- 889 -",
+      "page_footer_handwritten": "",
+      "notes": "手稿辞典页（四栏正编，朱丝栏界格，纸面黄斑与透墨较多）。页脚印刷页码「- 889 -」清晰，historical_folio=889；未见手写页码。页顶手写花体段标读作「R. ante. O.」，R 为大花体、ante 小写、末为椭圆 O（疑 O/0，按字母段标记），R 与 ante 之间有淡灰透墨残迹未抄。右栏（第4栏）全页无文字，source_R 一律[空]。行序与分行：第1-6条为 Romana 词条组（第2-5条左侧有曲括号弧线括为一组，第5条 romana grande 为组末），第7-15条为 Romper 词条组（第11-13条另有曲括号弧线；第8条词被墨圈圈划；第15条整行被椭圆墨圈圈划），第16条 Punzha，第17-19条 Ronco 组；第6条位于第1/2横带交界处、第14-15条位于第2/3横带交界处，均只按一次计。source_M 一律只抄字母：浮空调符不并入字母；字母上附着的颚化符 ñ（tañg/tiañg/guñg/cheñg/ñio）与长音符（tȳ、iuān）按所见并入。全页反复出现位于词上方的波浪状小钩（形似小 n/ℓ），见于 E2 nio、E4 nio、E17-19 Bo Sia 等上方，无法断定是统一调符还是鼻化符，一律记 T99 且不并入字母（不凭音韵知识补写 ⁿ）。E1/E3/E7/E13 的 chim、cau chim、poa 上为清晰尖顶帽记 T03；E5 M 栏首字母 T/Z 难定按 tang 抄，a 上小凹角记 T04 存疑，尾词 gzg84. 含 8、4 形字符，完全无法断读，抄所见并标[残]；E6 汉字近榷（或員：M 栏 iuan 配員于义更合，但字形无外框、呈左右结构）附疑；E8 pe 上小符难辨 T99；E9/E15 fia 首上有小上标钩（似送气 h 形，fia/thia 连写难辨，未并入字母），ly 上符难辨，均 T99；E9 L 栏后两词（blad8、uniDO）近乎不可辨，抄所见并整行标[残]；E10 tiang 的 a 上为升斜记 T01，ñio 上符难辨 T99；E14 L 栏 uernido、porpone、iuuicho 诸词难辨整行标[残]，M 栏第二词 guñg[疑:guñg/kuñg]；E15 L 栏两行以〔换行〕标示，首词 cueri[疑:cueri/oueri]，行末 88~ 为两枚 8 形花写并标[残]；E16 ou 上为斜向小撇记 T01 存疑，lai 无符记 T00，L 栏 Punzha 的 z-h 连写疑为 z 加饰笔（Punza）；E17-19 Bo Sia 按闽南语栏放大图记为大写 B、S；E18 hau 上小符难辨 T99；E19 tȳ 的 y 上长音符并入字母、t 上另有小上标钩未归类记 T99，chin 上方除尖顶帽外另有一圆形墨团（污渍或另符）记 T99；E18/E19 汉字栏末字近支，与 E17 之聲字形明显不同，附疑 支/聲；E16 汉字首字近島（不排除鳥），据 notes 记录不加疑标。读图共5次（三横带各1次、闽南语栏1次、汉字栏1次；右栏全空故未读 subcol4），存疑处均已就地标注，待人工校订。",
+      "entries": [
+        {
+          "position": 1,
+          "source_L": "Romana-",
+          "source_H": "秤",
+          "source_M": "chim",
+          "source_R": "[空]",
+          "tone_marks_M": ["T03 (尖頂帽)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 2,
+          "source_L": "romana-",
+          "source_H": "量",
+          "source_M": "nio",
+          "source_R": "[空]",
+          "tone_marks_M": ["T99 (污損難辨)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 3,
+          "source_L": "romana-",
+          "source_H": "到 秤",
+          "source_M": "cau chim",
+          "source_R": "[空]",
+          "tone_marks_M": ["T03 (尖頂帽)", "T03 (尖頂帽)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 4,
+          "source_L": "romana-",
+          "source_H": "鉄 量",
+          "source_M": "tȳ nio",
+          "source_R": "[空]",
+          "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 5,
+          "source_L": "romana grande-",
+          "source_H": "重 秤",
+          "source_M": "tañg chim gzg84. [残]",
+          "source_R": "[空]",
+          "tone_marks_M": ["T04 (凹角)", "T03 (尖頂帽)", "T99 (污損難辨)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 6,
+          "source_L": "romana braço dela romana.",
+          "source_H": "榷[疑:榷/員]",
+          "source_M": "iuān",
+          "source_R": "[空]",
+          "tone_marks_M": ["T00 (無標號)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 7,
+          "source_L": "Romper-",
+          "source_H": "破",
+          "source_M": "poa",
+          "source_R": "[空]",
+          "tone_marks_M": ["T03 (尖頂帽)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 8,
+          "source_L": "romper:（圈划）",
+          "source_H": "扒",
+          "source_M": "pe",
+          "source_R": "[空]",
+          "tone_marks_M": ["T99 (污損難辨)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 9,
+          "source_L": "romper deshaciendo otra blad8 uniDO. [残]",
+          "source_H": "拆",
+          "source_M": "fia ly.",
+          "source_R": "[空]",
+          "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 10,
+          "source_L": "romper estirando-",
+          "source_H": "張",
+          "source_M": "tiañg : ñio",
+          "source_R": "[空]",
+          "tone_marks_M": ["T01 (升斜)", "T99 (污損難辨)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 11,
+          "source_L": "romper estirando-",
+          "source_H": "裂",
+          "source_M": "ly",
+          "source_R": "[空]",
+          "tone_marks_M": ["T99 (污損難辨)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 12,
+          "source_L": "romper tirando-",
+          "source_H": "扒 裂",
+          "source_M": "pe ly",
+          "source_R": "[空]",
+          "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 13,
+          "source_L": "romper tirando-",
+          "source_H": "扒 破",
+          "source_M": "pe poa.",
+          "source_R": "[空]",
+          "tone_marks_M": ["T99 (污損難辨)", "T03 (尖頂帽)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 14,
+          "source_L": "romperse el uernido porpone do iuuicho~ [残]",
+          "source_H": "打 契 穿",
+          "source_M": "pa guñg[疑:guñg/kuñg] cheñg",
+          "source_R": "[空]",
+          "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)", "T99 (污損難辨)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 15,
+          "source_L": "romper como papel, cueri[疑:cueri/oueri] 〔换行〕 do 88~ [残]（圈划）",
+          "source_H": "拆 裂",
+          "source_M": "fia ly.",
+          "source_R": "[空]",
+          "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 16,
+          "source_L": "Punzha-",
+          "source_H": "島 病",
+          "source_M": "ou lai,",
+          "source_R": "[空]",
+          "tone_marks_M": ["T01 (升斜)", "T00 (無標號)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 17,
+          "source_L": "Ronco-",
+          "source_H": "無 聲",
+          "source_M": "Bo Sia",
+          "source_R": "[空]",
+          "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 18,
+          "source_L": "ronco de bocear-",
+          "source_H": "吼 尽 無 支[疑:支/聲]",
+          "source_M": "hau chin Bo Sia",
+          "source_R": "[空]",
+          "tone_marks_M": ["T99 (污損難辨)", "T03 (尖頂帽)", "T99 (污損難辨)", "T99 (污損難辨)"],
+          "tone_marks_R": []
+        },
+        {
+          "position": 19,
+          "source_L": "ronco de llorar-",
+          "source_H": "啼 尽 無 支[疑:支/聲]",
+          "source_M": "tȳ chin Bo Sia",
+          "source_R": "[空]",
+          "tone_marks_M": ["T99 (污損難辨)", "T99 (污損難辨)", "T99 (污損難辨)", "T99 (污損難辨)"],
+          "tone_marks_R": []
+        }
+      ]
+    }
+  ]
+}
