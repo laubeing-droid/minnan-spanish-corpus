@@ -1,8 +1,8 @@
 # 校对工作包 · p0802（severity: high）
 
+- 队列备注：印刷页脚'- 764 -'清晰，historical_folio=764。页顶段标记为大写P、ante、大写I，抄作'P. ante. I.'；页顶边缘另见半截残笔大字P（疑透背或前页残留）。右上角手写圈号'48'（笔画介于47/48之间），其下另有铅笔'¿709'与'98r'两处现代标记；手写页码填48存疑。第4栏（
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0802.json`（16 条）
 - 页图：`literature/tiles/01_DHS/page_0802/pdf_0802_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：印刷页脚'- 764 -'清晰，historical_folio=764。页顶段标记为大写P、ante、大写I，抄作'P. ante. I.'；页顶边缘另见半截残笔大字P（疑透背或前页残留）。右上角手写圈号'48'（笔画介于47/48之间），其下另有铅笔'¿709'与'98r'两处现代标记；手写页码填48存疑。第4栏（
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

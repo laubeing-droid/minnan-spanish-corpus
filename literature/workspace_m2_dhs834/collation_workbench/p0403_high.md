@@ -1,8 +1,8 @@
 # 校对工作包 · p0403（severity: high）
 
+- 队列备注：正常四栏手稿辞典页（D 段 Dorar/Dormir 系列），非现代出版页。页脚印刷页码 '- 369 -' 清晰，故 historical_folio=369 非估算；右上角有被裁切的残笔（似手写标记），未计入 footer 字段。行对齐以三横带+整页 300dpi 判定：全页 22 行（含末行仅占位的空行）；底部 
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0403.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0403/pdf_0403_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：正常四栏手稿辞典页（D 段 Dorar/Dormir 系列），非现代出版页。页脚印刷页码 '- 369 -' 清晰，故 historical_folio=369 非估算；右上角有被裁切的残笔（似手写标记），未计入 footer 字段。行对齐以三横带+整页 300dpi 判定：全页 22 行（含末行仅占位的空行）；底部 
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

@@ -1,8 +1,8 @@
 # 校对工作包 · p0363（severity: high）
 
+- 队列备注：印刷页脚 - 334 - 已填 historical_folio=334；右上角另有铅笔手写 167（不在页脚位置）。页顶字母段标记为花体大写 D + ante.。L 栏缩写按最可能读法转写：lamug̃f.=la muger、elcapamt.=el casamto、p̃=por；行首 +/⊥ 为稿本修订与校对记号（
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0363.json`（17 条）
 - 页图：`literature/tiles/01_DHS/page_0363/pdf_0363_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：印刷页脚 - 334 - 已填 historical_folio=334；右上角另有铅笔手写 167（不在页脚位置）。页顶字母段标记为花体大写 D + ante.。L 栏缩写按最可能读法转写：lamug̃f.=la muger、elcapamt.=el casamto、p̃=por；行首 +/⊥ 为稿本修订与校对记号（
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

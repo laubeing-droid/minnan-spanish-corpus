@@ -1,8 +1,8 @@
 # 校对工作包 · p0949（severity: high）
 
+- 队列备注：辞典正编页，S 词段（Santo→Sardinas），共 21 行。印刷页脚 - 911 -，historical_folio=911 为实读非估算；页顶手写大型花体 S. 与 ante 记号照录为页眉，右上另有大型钩划；中缝右缘有现代出版物灰底节段字母标签 S，非手稿内容未抄录。存难点：行1 seng 上记号作尖顶帽
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0949.json`（21 条）
 - 页图：`literature/tiles/01_DHS/page_0949/pdf_0949_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：辞典正编页，S 词段（Santo→Sardinas），共 21 行。印刷页脚 - 911 -，historical_folio=911 为实读非估算；页顶手写大型花体 S. 与 ante 记号照录为页眉，右上另有大型钩划；中缝右缘有现代出版物灰底节段字母标签 S，非手稿内容未抄录。存难点：行1 seng 上记号作尖顶帽
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

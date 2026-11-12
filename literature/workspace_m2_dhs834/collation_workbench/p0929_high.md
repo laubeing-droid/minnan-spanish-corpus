@@ -1,8 +1,8 @@
 # 校对工作包 · p0929（severity: high）
 
+- 队列备注：手写辞典正编页，非现代出版物页。印刷页脚'- 891 -'清晰（页码非估算，且与pdf905→867之差值一致）。汉字区为两个并列子栏，两字俱录于source_H并以空格分隔；source_M为闽南罗马字栏，竖线右侧官话/西语旁注录source_R（多数行为[空]）。第2、3行罗马字及第11-14行左栏rostro-四
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0929.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_0929/pdf_0929_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：手写辞典正编页，非现代出版物页。印刷页脚'- 891 -'清晰（页码非估算，且与pdf905→867之差值一致）。汉字区为两个并列子栏，两字俱录于source_H并以空格分隔；source_M为闽南罗马字栏，竖线右侧官话/西语旁注录source_R（多数行为[空]）。第2、3行罗马字及第11-14行左栏rostro-四
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

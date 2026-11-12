@@ -1,8 +1,8 @@
 # 校对工作包 · p1006（severity: high）
 
+- 队列备注：手写红栏账簿式辞典页，非现代出版页。行3为第2、4行之间的涂销/墨渍残行（H、M 栏仅余污渍），故标 [残]。position 8 为深色墨改窜行：汉字栏内写的不是汉字而是罗马字 cheⁿ chuⁿ，L 栏 Tamboho ranroz 与右栏 si mabu…ai（放大图示尾段 …vai）均难辨，性质存疑。'coi'
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1006.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_1006/pdf_1006_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：手写红栏账簿式辞典页，非现代出版页。行3为第2、4行之间的涂销/墨渍残行（H、M 栏仅余污渍），故标 [残]。position 8 为深色墨改窜行：汉字栏内写的不是汉字而是罗马字 cheⁿ chuⁿ，L 栏 Tamboho ranroz 与右栏 si mabu…ai（放大图示尾段 …vai）均难辨，性质存疑。'coi'
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

@@ -1,8 +1,8 @@
 # 校对工作包 · p0114（severity: high）
 
+- 队列备注：盲抄依据：三条横带图锁定23行四栏行对齐，subcol2/subcol3/subcol4整列图细读字母与声调符，整页300dpi核对左栏行归属、页眉花体与圈注；subcol3复读一次。共读图8次（达上限）。存疑待人工校订：(1)行6左栏第二词抄作 aîropech，反复读图仍难辨（或为 al preseche 类法律用
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0114.json`（23 条）
 - 页图：`literature/tiles/01_DHS/page_0114/pdf_0114_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：盲抄依据：三条横带图锁定23行四栏行对齐，subcol2/subcol3/subcol4整列图细读字母与声调符，整页300dpi核对左栏行归属、页眉花体与圈注；subcol3复读一次。共读图8次（达上限）。存疑待人工校订：(1)行6左栏第二词抄作 aîropech，反复读图仍难辨（或为 al preseche 类法律用
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

@@ -1,8 +1,8 @@
 # 校对工作包 · p0876（severity: high）
 
+- 队列备注：手稿四栏辞典页（Q 段，左缘有印刷体字母标记 Q）。页眉手写 L. ante. U.（首字母疑 L/J）；右上角铅笔手写 419（非页脚，故 page_footer_handwritten 留空）。印刷页脚 - 838 -。右栏几乎全空，仅第5行 nana.；第1行右栏为背面透字（Gui gui 形，照 [残] 处理）
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0876.json`（18 条）
 - 页图：`literature/tiles/01_DHS/page_0876/pdf_0876_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：手稿四栏辞典页（Q 段，左缘有印刷体字母标记 Q）。页眉手写 L. ante. U.（首字母疑 L/J）；右上角铅笔手写 419（非页脚，故 page_footer_handwritten 留空）。印刷页脚 - 838 -。右栏几乎全空，仅第5行 nana.；第1行右栏为背面透字（Gui gui 形，照 [残] 处理）
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

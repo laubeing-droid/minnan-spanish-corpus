@@ -1,8 +1,8 @@
 # 校对工作包 · p0627（severity: high）
 
+- 队列备注：页顶手写页眉仅清晰见『ante』，右侧一词被污渍与撕边遮盖不辨，左上另有涂划；印刷页脚清晰作『- 593 -』（与任务书估页594差一，以视觉读取为准）。R栏整页基本空白，仅pos15右缘远端见小字『hū』，暂按R栏收录、归属待校订；pos17 M栏行末缀西文『en las espaldas』（与L栏词组重复），照抄于
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0627.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0627/pdf_0627_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页顶手写页眉仅清晰见『ante』，右侧一词被污渍与撕边遮盖不辨，左上另有涂划；印刷页脚清晰作『- 593 -』（与任务书估页594差一，以视觉读取为准）。R栏整页基本空白，仅pos15右缘远端见小字『hū』，暂按R栏收录、归属待校订；pos17 M栏行末缀西文『en las espaldas』（与L栏词组重复），照抄于
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

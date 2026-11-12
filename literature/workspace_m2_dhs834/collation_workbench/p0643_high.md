@@ -1,8 +1,8 @@
 # 校对工作包 · p0643（severity: high）
 
+- 队列备注：正常四栏手稿页（非现代出版页）。页顶左首花体大字母形似 N（亦可能为 M，本页词条多为 M- 词首），中央 ante.、右端 A.，照所见记 'N. ante. A.'，待人工校订。页面右缘有一黑色印刷体 'M' 戳记，非栏内文字。L 栏左缘被裁切：第1/3/5/7/9/11行 'nidad…' 前疑有被切掉的 '[D
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0643.json`（17 条）
 - 页图：`literature/tiles/01_DHS/page_0643/pdf_0643_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：正常四栏手稿页（非现代出版页）。页顶左首花体大字母形似 N（亦可能为 M，本页词条多为 M- 词首），中央 ante.、右端 A.，照所见记 'N. ante. A.'，待人工校订。页面右缘有一黑色印刷体 'M' 戳记，非栏内文字。L 栏左缘被裁切：第1/3/5/7/9/11行 'nidad…' 前疑有被切掉的 '[D
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

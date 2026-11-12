@@ -1,8 +1,8 @@
 # 校对工作包 · p0856（severity: high）
 
+- 队列备注：页脚印刷页码"- 818 -"清晰；页右上另有铅笔编号"409"(非页脚，故 page_footer_handwritten 留空)。页眉四记号自左至右：花体 P. / 手写 ante. / 花体 R. / 最右 U.。band_y1 底部空白网格区末端另见一行横贯的 "P. ante. V." 标记(本页对下一页的提
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0856.json`（16 条）
 - 页图：`literature/tiles/01_DHS/page_0856/pdf_0856_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页脚印刷页码"- 818 -"清晰；页右上另有铅笔编号"409"(非页脚，故 page_footer_handwritten 留空)。页眉四记号自左至右：花体 P. / 手写 ante. / 花体 R. / 最右 U.。band_y1 底部空白网格区末端另见一行横贯的 "P. ante. V." 标记(本页对下一页的提
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

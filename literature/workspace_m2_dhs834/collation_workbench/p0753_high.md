@@ -1,8 +1,8 @@
 # 校对工作包 · p0753（severity: high）
 
+- 队列备注：页右上及右缘撕裂、水渍明显；页顶 'G. ante.' 右侧另有大花体记号，形似手写 7 或花体字母，难辨，未录入 page_footer_handwritten。本页声调符多为音节上方几何小符号，凡与元音结合的横线/斜点已并入 source_M 字面，几何小符号仅逐个录入 tone_marks_M。第12/13行 L
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0753.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0753/pdf_0753_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页右上及右缘撕裂、水渍明显；页顶 'G. ante.' 右侧另有大花体记号，形似手写 7 或花体字母，难辨，未录入 page_footer_handwritten。本页声调符多为音节上方几何小符号，凡与元音结合的横线/斜点已并入 source_M 字面，几何小符号仅逐个录入 tone_marks_M。第12/13行 L
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

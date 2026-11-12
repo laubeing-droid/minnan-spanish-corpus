@@ -1,8 +1,8 @@
 # 校对工作包 · p0897（severity: high）
 
+- 队列备注：纯视觉盲读（读图7次：三横带各1次+子栏2/3各1次+各重读1次）。页眉仅可辨手写 ante.，两侧各一花体大字记号难辨未抄。印刷页脚 - 859 -，按规则填 859。第4栏（右 Mandarin 栏）整页空白，source_R 全部 [空]。行7（Regir gobernar 行）汉字栏与闽南栏皆空。行15-18 
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0897.json`（21 条）
 - 页图：`literature/tiles/01_DHS/page_0897/pdf_0897_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：纯视觉盲读（读图7次：三横带各1次+子栏2/3各1次+各重读1次）。页眉仅可辨手写 ante.，两侧各一花体大字记号难辨未抄。印刷页脚 - 859 -，按规则填 859。第4栏（右 Mandarin 栏）整页空白，source_R 全部 [空]。行7（Regir gobernar 行）汉字栏与闽南栏皆空。行15-18 
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

@@ -1,8 +1,8 @@
 # 校对工作包 · p0859（severity: high）
 
+- 队列备注：四栏手写辞典页（p-phone→puerta/puerto/pujar 段）；右栏（官话栏）整页无清晰字迹、仅见背透淡墨，一律标[空]未抄透背；行1左栏带圈记及 ANT 小注、deema 之 m/n 难断；行2汉第二字、行3/4隘字、行7灣字、行15/16首字、行17揀字均难辨附疑；行7第3栏为单独符号状字形无法按字母
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0859.json`（19 条）
 - 页图：`literature/tiles/01_DHS/page_0859/pdf_0859_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：四栏手写辞典页（p-phone→puerta/puerto/pujar 段）；右栏（官话栏）整页无清晰字迹、仅见背透淡墨，一律标[空]未抄透背；行1左栏带圈记及 ANT 小注、deema 之 m/n 难断；行2汉第二字、行3/4隘字、行7灣字、行15/16首字、行17揀字均难辨附疑；行7第3栏为单独符号状字形无法按字母
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

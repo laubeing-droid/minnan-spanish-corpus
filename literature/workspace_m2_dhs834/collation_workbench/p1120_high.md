@@ -1,8 +1,8 @@
 # 校对工作包 · p1120（severity: high）
 
+- 队列备注：右栏(第4栏)整页空白。左缘纸边破损致第1-2行L栏部分字迹难辨（'pucdo'存疑、第14行para后一小段涂改记号作[残]）。页脚印刷页码'- 1082 -'；手写页码'54'位于右上角非页脚。天头有潦草手迹与墨渍不可辨[残]。左缘有印刷字母标签'Y'（拇指索引），故page_header留空。L栏椭圆括弧将第4-
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1120.json`（17 条）
 - 页图：`literature/tiles/01_DHS/page_1120/pdf_1120_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：右栏(第4栏)整页空白。左缘纸边破损致第1-2行L栏部分字迹难辨（'pucdo'存疑、第14行para后一小段涂改记号作[残]）。页脚印刷页码'- 1082 -'；手写页码'54'位于右上角非页脚。天头有潦草手迹与墨渍不可辨[残]。左缘有印刷字母标签'Y'（拇指索引），故page_header留空。L栏椭圆括弧将第4-
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

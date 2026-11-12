@@ -1,8 +1,8 @@
 # 校对工作包 · p0169（severity: high）
 
+- 队列备注：盲读依据：三横带 + subcol2/3/4 + 自300dpi原图裁切M/R栏两幅原生分辨率局部图，共读图8次（未重读同一图第二次）。本文件原存一份先前盲读，本稿为独立重抄并整页覆盖；两读分歧处经[疑:]标签与本备注保留线索，反复读图仍存疑，待人工校订。(1) 连笔首字母 h/f、K/S、J/f、q/g、s/x 多处
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0169.json`（19 条）
 - 页图：`literature/tiles/01_DHS/page_0169/pdf_0169_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：盲读依据：三横带 + subcol2/3/4 + 自300dpi原图裁切M/R栏两幅原生分辨率局部图，共读图8次（未重读同一图第二次）。本文件原存一份先前盲读，本稿为独立重抄并整页覆盖；两读分歧处经[疑:]标签与本备注保留线索，反复读图仍存疑，待人工校订。(1) 连笔首字母 h/f、K/S、J/f、q/g、s/x 多处
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

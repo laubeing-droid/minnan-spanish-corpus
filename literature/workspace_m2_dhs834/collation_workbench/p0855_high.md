@@ -1,8 +1,8 @@
 # 校对工作包 · p0855（severity: high）
 
+- 队列备注：盲读自三张横带图（各读一次），并参读汉字分栏图、闽南语分栏图各一次；右栏分栏图未读。右栏（官话栏）整页无注音，仅第13行西语旁注 sabe qᵈᵒ adeobrar. 与第18行 industria 自闽南语栏写起并越过栏线伸入右栏，均随行录入 source_M，source_R 记[空]。第3行：汉字「文」「牒」之间
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0855.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_0855/pdf_0855_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：盲读自三张横带图（各读一次），并参读汉字分栏图、闽南语分栏图各一次；右栏分栏图未读。右栏（官话栏）整页无注音，仅第13行西语旁注 sabe qᵈᵒ adeobrar. 与第18行 industria 自闽南语栏写起并越过栏线伸入右栏，均随行录入 source_M，source_R 记[空]。第3行：汉字「文」「牒」之间
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

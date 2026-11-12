@@ -1,8 +1,8 @@
 # 校对工作包 · p1007（severity: medium）
 
+- 队列备注：本页为 Tapar(遮盖)词族四栏表,页脚印刷页码 - 969 -。页顶另有淡淡手写残迹(似 "...apre... P."),疑为透墨/边注而非字母段标,故 page_header 留空。左栏多行带手绘编辑记号:pos7 圈选、pos9-pos11 括线、pos15 圈选、pos20 圈选加斜杠。pos16 为左栏多
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1007.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_1007/pdf_1007_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：本页为 Tapar(遮盖)词族四栏表,页脚印刷页码 - 969 -。页顶另有淡淡手写残迹(似 "...apre... P."),疑为透墨/边注而非字母段标,故 page_header 留空。左栏多行带手绘编辑记号:pos7 圈选、pos9-pos11 括线、pos15 圈选、pos20 圈选加斜杠。pos16 为左栏多
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

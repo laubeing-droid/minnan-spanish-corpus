@@ -1,8 +1,8 @@
 # 校对工作包 · p1082（severity: high）
 
+- 队列备注：读图共6次：三横带各1次 + subcol2汉字1次 + subcol3闽南语初读1次重读1次；右栏子图未读——三横带中右栏均只见红栏线与红渍、无墨书文字，全部记[空]。声调几何归类约定：T01=升斜(´)，T03=尖顶帽(^)，T04=凹角(v形)，T05=平横(‾)，T06=入声小勾(✓形，多落于 ſít 类入声字
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1082.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_1082/pdf_1082_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：读图共6次：三横带各1次 + subcol2汉字1次 + subcol3闽南语初读1次重读1次；右栏子图未读——三横带中右栏均只见红栏线与红渍、无墨书文字，全部记[空]。声调几何归类约定：T01=升斜(´)，T03=尖顶帽(^)，T04=凹角(v形)，T05=平横(‾)，T06=入声小勾(✓形，多落于 ſít 类入声字
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

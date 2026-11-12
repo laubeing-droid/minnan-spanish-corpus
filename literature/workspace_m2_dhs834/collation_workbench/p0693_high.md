@@ -1,8 +1,8 @@
 # 校对工作包 · p0693（severity: high）
 
+- 队列备注：页顶手写页标读作 'N. ante. A.'，末字母 A/H 于横带分辨率下难分；页中部另有同文大字分段标记 'N. ante. A.'（非词条行，未计入 entries），其后起为 N 部条目。本页两段：上半 muy 同义组 10 行（花括号括起、跨页续前页），下半 Nabos/Nacar/Nacir 3 行。声调符
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0693.json`（13 条）
 - 页图：`literature/tiles/01_DHS/page_0693/pdf_0693_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页顶手写页标读作 'N. ante. A.'，末字母 A/H 于横带分辨率下难分；页中部另有同文大字分段标记 'N. ante. A.'（非词条行，未计入 entries），其后起为 N 部条目。本页两段：上半 muy 同义组 10 行（花括号括起、跨页续前页），下半 Nabos/Nacar/Nacir 3 行。声调符
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

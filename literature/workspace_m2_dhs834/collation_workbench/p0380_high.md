@@ -1,8 +1,8 @@
 # 校对工作包 · p0380（severity: high）
 
+- 队列备注：三横带各恰读一次即写盘，未读分栏放大图，未返工。页顶：左大字母 D 与 'ante.' 清晰；其后见一段涂销字迹，右上角大字母被墨渍覆盖、形近 G/D，暂记 'D. ante. G.' 待人工校订。position 11、19 为原页空栅格行，四栏皆空，照实抄 [空]。存疑处：pos2 M 第二式 Būē 双横痕存疑、
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0380.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0380/pdf_0380_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：三横带各恰读一次即写盘，未读分栏放大图，未返工。页顶：左大字母 D 与 'ante.' 清晰；其后见一段涂销字迹，右上角大字母被墨渍覆盖、形近 G/D，暂记 'D. ante. G.' 待人工校订。position 11、19 为原页空栅格行，四栏皆空，照实抄 [空]。存疑处：pos2 M 第二式 Būē 双横痕存疑、
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

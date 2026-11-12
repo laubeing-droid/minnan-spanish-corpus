@@ -1,8 +1,8 @@
 # 校对工作包 · p0145（severity: high）
 
+- 队列备注：盲读视觉抄录，读图8次（三横带+subcol2/3/4，其中top横带重读1次，已达上限）。页脚印刷页码 -116-；手写页码 58 位于页右上角（非页脚）。要点：(1) M/R两栏相对L/H栏整体下错约半行，已按音节数与词条内容对齐——R栏读音与同行汉字官话音一一吻合（R8 tong liang chay=棟樑材、R
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0145.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0145/pdf_0145_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：盲读视觉抄录，读图8次（三横带+subcol2/3/4，其中top横带重读1次，已达上限）。页脚印刷页码 -116-；手写页码 58 位于页右上角（非页脚）。要点：(1) M/R两栏相对L/H栏整体下错约半行，已按音节数与词条内容对齐——R栏读音与同行汉字官话音一一吻合（R8 tong liang chay=棟樑材、R
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

@@ -1,8 +1,8 @@
 # 校对工作包 · p1016（severity: high）
 
+- 队列备注：手稿四栏红格表（Templança/Templo/Templo de 字头组），非整页残损。页顶仅有手写边注 "Añol -"，无印刷字母段头，故 page_header 留空。行间两处空白格行（position 5-6 间、8-9 间）未计条目。存难点：pos2 西文行拼写不确定（medi…/by uasas 或 p
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1016.json`（19 条）
 - 页图：`literature/tiles/01_DHS/page_1016/pdf_1016_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：手稿四栏红格表（Templança/Templo/Templo de 字头组），非整页残损。页顶仅有手写边注 "Añol -"，无印刷字母段头，故 page_header 留空。行间两处空白格行（position 5-6 间、8-9 间）未计条目。存难点：pos2 西文行拼写不确定（medi…/by uasas 或 p
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

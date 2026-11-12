@@ -1,8 +1,8 @@
 # 校对工作包 · p1111（severity: high）
 
+- 队列备注：本页为辞典正文页（V/U段，Vuestra/Vuestro敬称词条群）。第3行为段落分隔行「V. / ante / U.」（V.居左栏、ante居汉字栏位、U.居闽南语栏位），照行序录为条目3；页顶另有手写「P ante」及左右两处「U」标记，首字母潦草疑为P或V。圈记以()表示；上标以^表示；划除词以[划除:...]
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1111.json`（21 条）
 - 页图：`literature/tiles/01_DHS/page_1111/pdf_1111_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：本页为辞典正文页（V/U段，Vuestra/Vuestro敬称词条群）。第3行为段落分隔行「V. / ante / U.」（V.居左栏、ante居汉字栏位、U.居闽南语栏位），照行序录为条目3；页顶另有手写「P ante」及左右两处「U」标记，首字母潦草疑为P或V。圈记以()表示；上标以^表示；划除词以[划除:...]
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

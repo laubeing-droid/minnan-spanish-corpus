@@ -1,8 +1,8 @@
 # 校对工作包 · p1060（severity: medium）
 
+- 队列备注：页脚印刷码 - 1022 -；铅笔页码 511 在右上角页边（非页脚，故 footer_handwritten 留空）；页顶另有涂划花押与铅笔痕迹，未入栏位。汉字栏第3条左格为带圈重涂字不可辨，记[残]，右格为申。第2栏疑难点：position8 句/旬、position21 彙/隸，均附[疑:A/B]。positio
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1060.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_1060/pdf_1060_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页脚印刷码 - 1022 -；铅笔页码 511 在右上角页边（非页脚，故 footer_handwritten 留空）；页顶另有涂划花押与铅笔痕迹，未入栏位。汉字栏第3条左格为带圈重涂字不可辨，记[残]，右格为申。第2栏疑难点：position8 句/旬、position21 彙/隸，均附[疑:A/B]。positio
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

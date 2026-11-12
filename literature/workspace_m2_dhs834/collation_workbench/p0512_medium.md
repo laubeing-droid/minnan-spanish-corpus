@@ -1,8 +1,8 @@
 # 校对工作包 · p0512（severity: medium）
 
+- 队列备注：四栏正编页：页顶字母标记 G. ante. A.；印刷页脚 - 478 -。手写数字 739（另有小字 36）位于页面右上角空白处而非页脚，暂记于 page_footer_handwritten。声调符为极小手绘笔势，按几何形状判定；第6行 cap、第12行 pe、第14行 ien、第15行 am 等处形状难辨标 T9
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0512.json`（16 条）
 - 页图：`literature/tiles/01_DHS/page_0512/pdf_0512_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：四栏正编页：页顶字母标记 G. ante. A.；印刷页脚 - 478 -。手写数字 739（另有小字 36）位于页面右上角空白处而非页脚，暂记于 page_footer_handwritten。声调符为极小手绘笔势，按几何形状判定；第6行 cap、第12行 pe、第14行 ien、第15行 am 等处形状难辨标 T9
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

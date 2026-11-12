@@ -1,8 +1,8 @@
 # 校对工作包 · p0251（severity: high）
 
+- 队列备注：本页页眉手写 "C. ante. F."；页脚印刷 "- 222 -"（historical_folio=222 据此直读，非估算）。页左上另有手写数字痕（似 34）及右上角似 ‖ 的记号，未纳入页脚字段。第2行 M 栏 e 上为双点调符，几何字典无对应码，记 T99。第4行 M 栏末字母 g/t 难分（或读 bay 
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0251.json`（16 条）
 - 页图：`literature/tiles/01_DHS/page_0251/pdf_0251_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：本页页眉手写 "C. ante. F."；页脚印刷 "- 222 -"（historical_folio=222 据此直读，非估算）。页左上另有手写数字痕（似 34）及右上角似 ‖ 的记号，未纳入页脚字段。第2行 M 栏 e 上为双点调符，几何字典无对应码，记 T99。第4行 M 栏末字母 g/t 难分（或读 bay 
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

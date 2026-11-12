@@ -1,8 +1,8 @@
 # 校对工作包 · p1029（severity: high）
 
+- 队列备注：纯视觉抄录；M栏只抄字母+鼻化钩ⁿ，元音附加声调笔划按几何字典编码入 tone_marks_M。1) 页脚印刷页码 - 991 -。2) 右栏（第4栏）整栏无本面书写，仅透印倒影淡字（土行右侧淡影 ni、龍穴行右侧淡圈等），source_R 全部 [空]。3) 一条蓝灰色纵向折痕贯穿闽南语栏，非字迹；页顶左侧另有笔括号
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1029.json`（19 条）
 - 页图：`literature/tiles/01_DHS/page_1029/pdf_1029_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：纯视觉抄录；M栏只抄字母+鼻化钩ⁿ，元音附加声调笔划按几何字典编码入 tone_marks_M。1) 页脚印刷页码 - 991 -。2) 右栏（第4栏）整栏无本面书写，仅透印倒影淡字（土行右侧淡影 ni、龍穴行右侧淡圈等），source_R 全部 [空]。3) 一条蓝灰色纵向折痕贯穿闽南语栏，非字迹；页顶左侧另有笔括号
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

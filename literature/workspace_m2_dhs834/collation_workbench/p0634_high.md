@@ -1,8 +1,8 @@
 # 校对工作包 · p0634（severity: high）
 
+- 队列备注：正常手写四栏辞典页（madre…→Maestro 段），非重复拍摄。该路径原存前次草稿，本次按本 run 盲读覆写，与草稿字形判读差异均列于此供人工校订。页顶中手写节标 ante.，其右上大写字母 A 花饰；页顶右上另有手写数字 97（钢笔）与 300（铅笔），不在页脚，为保存观察照抄入 page_footer_han
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0634.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_0634/pdf_0634_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：正常手写四栏辞典页（madre…→Maestro 段），非重复拍摄。该路径原存前次草稿，本次按本 run 盲读覆写，与草稿字形判读差异均列于此供人工校订。页顶中手写节标 ante.，其右上大写字母 A 花饰；页顶右上另有手写数字 97（钢笔）与 300（铅笔），不在页脚，为保存观察照抄入 page_footer_han
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

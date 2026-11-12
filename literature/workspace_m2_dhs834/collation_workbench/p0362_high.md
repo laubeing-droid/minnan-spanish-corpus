@@ -1,8 +1,8 @@
 # 校对工作包 · p0362（severity: high）
 
+- 队列备注：页脚印刷页码 - 333 - 清晰，页码非估算。行4、行9 无汉字，罗马字直接写在汉字栏位置（在 subcol2 裁切区 x[813,1219] 内可见，见 pdf_0362_tiles_manifest.json），已按视觉位置归入 source_H，栏位归属待人工校订；行4 罗马字字尾另有 '::' 标记，且第二音
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0362.json`（17 条）
 - 页图：`literature/tiles/01_DHS/page_0362/pdf_0362_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页脚印刷页码 - 333 - 清晰，页码非估算。行4、行9 无汉字，罗马字直接写在汉字栏位置（在 subcol2 裁切区 x[813,1219] 内可见，见 pdf_0362_tiles_manifest.json），已按视觉位置归入 source_H，栏位归属待人工校订；行4 罗马字字尾另有 '::' 标记，且第二音
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

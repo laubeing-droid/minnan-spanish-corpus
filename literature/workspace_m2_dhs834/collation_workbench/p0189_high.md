@@ -1,8 +1,8 @@
 # 校对工作包 · p0189（severity: high）
 
+- 队列备注：印刷页脚清晰 '- 160 -'，historical_folio=160 非估算。页右上手写小字编号 '80'（非页脚，未计入 footer 字段）。页首字母段标记 'B. ante. B.'。行1 L 栏 'Brozar el pan' 之后有大块墨渍，其后字样不可辨，就地标 [残]。多处字母潦草存疑：Brozar
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0189.json`（19 条）
 - 页图：`literature/tiles/01_DHS/page_0189/pdf_0189_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：印刷页脚清晰 '- 160 -'，historical_folio=160 非估算。页右上手写小字编号 '80'（非页脚，未计入 footer 字段）。页首字母段标记 'B. ante. B.'。行1 L 栏 'Brozar el pan' 之后有大块墨渍，其后字样不可辨，就地标 [残]。多处字母潦草存疑：Brozar
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

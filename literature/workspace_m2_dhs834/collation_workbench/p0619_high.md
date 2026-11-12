@@ -1,8 +1,8 @@
 # 校对工作包 · p0619（severity: high）
 
+- 队列备注：正常四栏手稿辞典页（Lugar- 词条组），页脚印刷码 - 585 -，无手写页码。页顶手写标记 ante. 后一字形似 U/V（带长尾卷曲），按 U. 抄录待校。第1行R栏罕见有字 geroc（首字母 g/k 存疑），其余各行R栏为空。第3行M栏中 hūn maⁿ. 为写于壇字左侧的小字旁注，按行序并入M栏；壇字疑 
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0619.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0619/pdf_0619_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：正常四栏手稿辞典页（Lugar- 词条组），页脚印刷码 - 585 -，无手写页码。页顶手写标记 ante. 后一字形似 U/V（带长尾卷曲），按 U. 抄录待校。第1行R栏罕见有字 geroc（首字母 g/k 存疑），其余各行R栏为空。第3行M栏中 hūn maⁿ. 为写于壇字左侧的小字旁注，按行序并入M栏；壇字疑 
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

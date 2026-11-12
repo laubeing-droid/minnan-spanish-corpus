@@ -1,8 +1,8 @@
 # 校对工作包 · p1114（severity: high）
 
+- 队列备注：辞典正编页（Y/diota-dolo 段）。页眉 Y. ante. D.，其中 ante. 为手写补入，页顶另有淡墨 ante 一处；页右上角黑笔手写 68（或 63），其下灰色笔迹似 348/388（疑现代编目号，难辨，未入正文）。第 7 行为第 6 行 ydiota desaprouechado 的圈注重写行，汉字
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1114.json`（21 条）
 - 页图：`literature/tiles/01_DHS/page_1114/pdf_1114_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：辞典正编页（Y/diota-dolo 段）。页眉 Y. ante. D.，其中 ante. 为手写补入，页顶另有淡墨 ante 一处；页右上角黑笔手写 68（或 63），其下灰色笔迹似 348/388（疑现代编目号，难辨，未入正文）。第 7 行为第 6 行 ydiota desaprouechado 的圈注重写行，汉字
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

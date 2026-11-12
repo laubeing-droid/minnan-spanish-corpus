@@ -1,8 +1,8 @@
 # 校对工作包 · p0956（severity: high）
 
+- 队列备注：手稿辞典正编页（S 段 Seguir 条目群），非现代出版页。读图共 5 次：三条横带 + subcol2_hanzi_full + subcol3_minnan 各一次，均在预算 8 次内，横带未重读。页顶中部手写 'ante.' 加花体缠绕花饰，未见左右字母段标记；右上缘另有手写斜体数字（形似 259/959，难以
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0956.json`（21 条）
 - 页图：`literature/tiles/01_DHS/page_0956/pdf_0956_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：手稿辞典正编页（S 段 Seguir 条目群），非现代出版页。读图共 5 次：三条横带 + subcol2_hanzi_full + subcol3_minnan 各一次，均在预算 8 次内，横带未重读。页顶中部手写 'ante.' 加花体缠绕花饰，未见左右字母段标记；右上缘另有手写斜体数字（形似 259/959，难以
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

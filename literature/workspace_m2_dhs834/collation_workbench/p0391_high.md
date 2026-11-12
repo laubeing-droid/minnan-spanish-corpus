@@ -1,8 +1,8 @@
 # 校对工作包 · p0391（severity: high）
 
+- 队列备注：反复读图仍存疑、待人工校订之处：(1) 全页 M 栏声调符几何为本页最大难点——大量大型 V 形勾记按凹角 T04 抄录、小尖帽按 T03 抄录，但两类形状在手写体中易混，凡几何不確者已标 T99（行1、行16、行17）；(2) 行1 M 栏 'chap chap' 处有大块墨渍涂改，声调符全部 T99，首汉字左半残（
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0391.json`（17 条）
 - 页图：`literature/tiles/01_DHS/page_0391/pdf_0391_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：反复读图仍存疑、待人工校订之处：(1) 全页 M 栏声调符几何为本页最大难点——大量大型 V 形勾记按凹角 T04 抄录、小尖帽按 T03 抄录，但两类形状在手写体中易混，凡几何不確者已标 T99（行1、行16、行17）；(2) 行1 M 栏 'chap chap' 处有大块墨渍涂改，声调符全部 T99，首汉字左半残（
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

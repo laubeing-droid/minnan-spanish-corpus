@@ -1,8 +1,8 @@
 # 校对工作包 · p1110（severity: high）
 
+- 队列备注：页脚印刷 '- 1072 -' 清晰可读，故取 1072（非默认估算 1077）；右上角另有一枚铅笔手写页码，形似 '586'（首字 5/3/S 存疑），已填 page_footer_handwritten。页顶空白处有铅笔淡写标记残迹（形如 'V … ante … S?'，尾字母存疑），而页中墨笔大写分隔行确为 'V
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1110.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_1110/pdf_1110_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页脚印刷 '- 1072 -' 清晰可读，故取 1072（非默认估算 1077）；右上角另有一枚铅笔手写页码，形似 '586'（首字 5/3/S 存疑），已填 page_footer_handwritten。页顶空白处有铅笔淡写标记残迹（形如 'V … ante … S?'，尾字母存疑），而页中墨笔大写分隔行确为 'V
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

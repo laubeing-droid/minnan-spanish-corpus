@@ -1,8 +1,8 @@
 # 校对工作包 · p0969（severity: high）
 
+- 队列备注：手写辞典正编页（Ser/Serrar 组），四栏目视对齐：西文｜汉字｜闽南罗马字｜官话右栏——官话栏整页空白，仅第3栏长句尾部溢入其区域（如 beñ bag.）。页脚印刷 '- 931 -'。页顶中央有淡棕残字 'ampe:' 疑为对面叶透印非本页内容，右上角花押一笔；左缘竖排（旋转90°）边注数行[残]，仅可辨 'p
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0969.json`（19 条）
 - 页图：`literature/tiles/01_DHS/page_0969/pdf_0969_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：手写辞典正编页（Ser/Serrar 组），四栏目视对齐：西文｜汉字｜闽南罗马字｜官话右栏——官话栏整页空白，仅第3栏长句尾部溢入其区域（如 beñ bag.）。页脚印刷 '- 931 -'。页顶中央有淡棕残字 'ampe:' 疑为对面叶透印非本页内容，右上角花押一笔；左缘竖排（旋转90°）边注数行[残]，仅可辨 'p
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

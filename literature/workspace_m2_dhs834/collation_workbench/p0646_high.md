@@ -1,8 +1,8 @@
 # 校对工作包 · p0646（severity: high）
 
+- 队列备注：四栏手稿辞典页（M 字母段）。页顶花体大字母 M、H 夹手写 ante；印刷页脚 - 612 -；页右上手写旁注 Los 306（蓝铅笔，非页脚，故 handwritten 留空）。官话右栏经专图核对整栏近空白（仅红栏线与极淡痕迹），仅行13 S22c、行14 xít 两条字迹紧贴/略越 M-R 分栏竖线，按位置暂归 
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0646.json`（18 条）
 - 页图：`literature/tiles/01_DHS/page_0646/pdf_0646_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：四栏手稿辞典页（M 字母段）。页顶花体大字母 M、H 夹手写 ante；印刷页脚 - 612 -；页右上手写旁注 Los 306（蓝铅笔，非页脚，故 handwritten 留空）。官话右栏经专图核对整栏近空白（仅红栏线与极淡痕迹），仅行13 S22c、行14 xít 两条字迹紧贴/略越 M-R 分栏竖线，按位置暂归 
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

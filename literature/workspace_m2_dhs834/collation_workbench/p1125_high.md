@@ -1,8 +1,8 @@
 # 校对工作包 · p1125（severity: high）
 
+- 队列备注：手写页码 544 位于页面右上角（铅笔），非页脚；印刷页脚为现代出版物页码 - 1087 -，故 historical_folio 取 1087。右栏（第4栏）仅有背面透印反字与红色栅格，无本页条目，全部记 [空]。页顶无字母段标记。全页罗马字词尾鼻音钩（m/n/ⁿ）形近难分，按所见抄写（如 chin/chim、cam
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1125.json`（18 条）
 - 页图：`literature/tiles/01_DHS/page_1125/pdf_1125_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：手写页码 544 位于页面右上角（铅笔），非页脚；印刷页脚为现代出版物页码 - 1087 -，故 historical_folio 取 1087。右栏（第4栏）仅有背面透印反字与红色栅格，无本页条目，全部记 [空]。页顶无字母段标记。全页罗马字词尾鼻音钩（m/n/ⁿ）形近难分，按所见抄写（如 chin/chim、cam
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

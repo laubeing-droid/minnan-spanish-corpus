@@ -1,8 +1,8 @@
 # 校对工作包 · p0454（severity: high）
 
+- 队列备注：页眉花体大写首字母形近E/F，因与同页Eſcrivano、Eſcrivir之放大首字母同一花体，判为E，记作'E. ante. S.'，待人工校订；右上角铅笔手写编号210位于页顶而非页脚，已记入page_footer_handwritten并在此注明位置；左页边灰底'E'为扫描标签，非手稿内容。第4条M栏混入西语小注
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0454.json`（19 条）
 - 页图：`literature/tiles/01_DHS/page_0454/pdf_0454_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页眉花体大写首字母形近E/F，因与同页Eſcrivano、Eſcrivir之放大首字母同一花体，判为E，记作'E. ante. S.'，待人工校订；右上角铅笔手写编号210位于页顶而非页脚，已记入page_footer_handwritten并在此注明位置；左页边灰底'E'为扫描标签，非手稿内容。第4条M栏混入西语小注
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

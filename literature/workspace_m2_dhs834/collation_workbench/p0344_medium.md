@@ -1,8 +1,8 @@
 # 校对工作包 · p0344（severity: medium）
 
+- 队列备注：页脚印刷页码 -315-，历史页码一致（PDF 344−29=315，与 p0030 样板 offset 相同）。页右上角撕裂并有墨渍；右栏有一条纵贯整页的游离笔痕；行16 R 'chì' 前有一段被横线划销的涂改字迹（似 'massapa…day'），行18 处有大墨团划过，均未计入栏位文本。行1、2、8、10、17
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0344.json`（18 条）
 - 页图：`literature/tiles/01_DHS/page_0344/pdf_0344_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页脚印刷页码 -315-，历史页码一致（PDF 344−29=315，与 p0030 样板 offset 相同）。页右上角撕裂并有墨渍；右栏有一条纵贯整页的游离笔痕；行16 R 'chì' 前有一段被横线划销的涂改字迹（似 'massapa…day'），行18 处有大墨团划过，均未计入栏位文本。行1、2、8、10、17
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

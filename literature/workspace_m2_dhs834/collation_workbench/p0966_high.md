@@ -1,8 +1,8 @@
 # 校对工作包 · p0966（severity: high）
 
+- 队列备注：印刷页脚 - 928 -；手写页码 964 位于页右上缘（非页脚），故照录于 page_footer_handwritten。页顶花体大写 S 为字母段标记，另有花饰笔痕与页缘笔试（que…状），不计入词条。圆括号 (…) 表示手稿圈选，非原文括号。source_M 仅保留字母与鼻化钩 ⁿ，声调记号按几何字典转码，没把
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0966.json`（19 条）
 - 页图：`literature/tiles/01_DHS/page_0966/pdf_0966_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：印刷页脚 - 928 -；手写页码 964 位于页右上缘（非页脚），故照录于 page_footer_handwritten。页顶花体大写 S 为字母段标记，另有花饰笔痕与页缘笔试（que…状），不计入词条。圆括号 (…) 表示手稿圈选，非原文括号。source_M 仅保留字母与鼻化钩 ⁿ，声调记号按几何字典转码，没把
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

@@ -1,8 +1,8 @@
 # 校对工作包 · p0117（severity: high）
 
+- 队列备注：本文件为本次盲读定稿，与该路径原有的一版前次盲读稿逐条比对后合并：凡前稿读法与我所见图版像素相符且较完整者采信（行3西语 'como d. deuinidi bote nor.'、行9 'sabiduria por'、行15 'qualquier'、行16 'a facer lo que fuere'、行21-22西语
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0117.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0117/pdf_0117_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：本文件为本次盲读定稿，与该路径原有的一版前次盲读稿逐条比对后合并：凡前稿读法与我所见图版像素相符且较完整者采信（行3西语 'como d. deuinidi bote nor.'、行9 'sabiduria por'、行15 'qualquier'、行16 'a facer lo que fuere'、行21-22西语
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

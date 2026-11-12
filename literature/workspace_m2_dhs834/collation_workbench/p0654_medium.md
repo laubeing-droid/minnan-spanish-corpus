@@ -1,8 +1,8 @@
 # 校对工作包 · p0654（severity: medium）
 
+- 队列备注：印刷页脚清晰读得 '- 620 -'，historical_folio=620 非估测。page_header 之 'M' 为页顶花体大写字母（与页面左缘黑底白字 'M' 字母段标签相应，本页属 M 段），其后淡写 'ante'。右上角另有手写铅笔 'Loí 38' 与 '310'，非页脚，未入栏位。第3栏闽南罗马字多
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0654.json`（18 条）
 - 页图：`literature/tiles/01_DHS/page_0654/pdf_0654_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：印刷页脚清晰读得 '- 620 -'，historical_folio=620 非估测。page_header 之 'M' 为页顶花体大写字母（与页面左缘黑底白字 'M' 字母段标签相应，本页属 M 段），其后淡写 'ante'。右上角另有手写铅笔 'Loí 38' 与 '310'，非页脚，未入栏位。第3栏闽南罗马字多
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

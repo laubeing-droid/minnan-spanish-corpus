@@ -1,8 +1,8 @@
 # 校对工作包 · p0158（severity: medium）
 
+- 队列备注：本页21行，四栏对齐完整，页脚印刷页码 - 129 -，页首花体字母段标记 B. ante. A.（末字形似A/H，两遍读图按A抄）。行1-2为圈划删除条目，行1 R栏字上有重写覆盖，仅抄可见之 iēⁿ liēⁿ。多处小声调符细小、v形/尖帽/入声叉难分类（本按形记：v=凹角T04、^=尖頂帽T03、横=平橫T05），
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0158.json`（21 条）
 - 页图：`literature/tiles/01_DHS/page_0158/pdf_0158_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：本页21行，四栏对齐完整，页脚印刷页码 - 129 -，页首花体字母段标记 B. ante. A.（末字形似A/H，两遍读图按A抄）。行1-2为圈划删除条目，行1 R栏字上有重写覆盖，仅抄可见之 iēⁿ liēⁿ。多处小声调符细小、v形/尖帽/入声叉难分类（本按形记：v=凹角T04、^=尖頂帽T03、横=平橫T05），
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

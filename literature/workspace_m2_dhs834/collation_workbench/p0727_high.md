@@ -1,8 +1,8 @@
 # 校对工作包 · p0727（severity: high）
 
+- 队列备注：四栏正编页，共20行，三横带在行6-7与行15-16处重叠，行对齐已核无错行。页顶橙色渍块盖住页眉右段，渍上有大字手写迹难辨，页眉仅录 O. ante.；页脚印刷 - 693 - 清晰（非缺损，故不按694估算）。存疑待人工校订处：行1-3 L栏 obscuro 后字形作 g（本稿 g 常代 que，照所见录）；行3 
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0727.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_0727/pdf_0727_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：四栏正编页，共20行，三横带在行6-7与行15-16处重叠，行对齐已核无错行。页顶橙色渍块盖住页眉右段，渍上有大字手写迹难辨，页眉仅录 O. ante.；页脚印刷 - 693 - 清晰（非缺损，故不按694估算）。存疑待人工校订处：行1-3 L栏 obscuro 后字形作 g（本稿 g 常代 que，照所见录）；行3 
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

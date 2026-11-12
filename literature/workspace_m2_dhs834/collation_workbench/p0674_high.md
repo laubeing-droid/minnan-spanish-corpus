@@ -1,8 +1,8 @@
 # 校对工作包 · p0674（severity: high）
 
+- 队列备注：四栏正编手稿页（M 段 Mocos→Modelo，共18行）。页眉墨笔 'M. ante. O.'，其上另有浅笔草书 'M. ante - O.'；右上角手写 '117' 与浅灰 '370'（或390），均非页脚故 page_footer_handwritten 留空；印刷页脚 '- 640 -'。第4栏（官话）除行1
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0674.json`（18 条）
 - 页图：`literature/tiles/01_DHS/page_0674/pdf_0674_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：四栏正编手稿页（M 段 Mocos→Modelo，共18行）。页眉墨笔 'M. ante. O.'，其上另有浅笔草书 'M. ante - O.'；右上角手写 '117' 与浅灰 '370'（或390），均非页脚故 page_footer_handwritten 留空；印刷页脚 '- 640 -'。第4栏（官话）除行1
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

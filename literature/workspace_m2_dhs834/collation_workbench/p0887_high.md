@@ -1,8 +1,8 @@
 # 校对工作包 · p0887（severity: high）
 
+- 队列备注：本页为 R 段正编（rebentar / rebolcarse / reboltoso 词群）。页顶中 handwritten 'ante'、右侧大写花体 R；左侧另有一花体大字母记号未能辨出，未见明确 'P.'，故 page_header 记 'ante. R.'。印刷页脚 '- 849 -'，historical_
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0887.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_0887/pdf_0887_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：本页为 R 段正编（rebentar / rebolcarse / reboltoso 词群）。页顶中 handwritten 'ante'、右侧大写花体 R；左侧另有一花体大字母记号未能辨出，未见明确 'P.'，故 page_header 记 'ante. R.'。印刷页脚 '- 849 -'，historical_
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

@@ -1,8 +1,8 @@
 # 校对工作包 · p0177（severity: high）
 
+- 队列备注：页眉花体首字母与正文 Bocabulario 之首笔同形，录作 B；其后 'O.' 或为 'C.'，待校订。右上角有铅笔手写 '74'（位于页顶非页脚，未计入 page_footer_handwritten）。声调几何符在横带分辨率下仅部分可辨，凡不能确证形状者一律记 T99，建议人工放大复核（尤其 M 栏行1/2/5
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0177.json`（18 条）
 - 页图：`literature/tiles/01_DHS/page_0177/pdf_0177_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页眉花体首字母与正文 Bocabulario 之首笔同形，录作 B；其后 'O.' 或为 'C.'，待校订。右上角有铅笔手写 '74'（位于页顶非页脚，未计入 page_footer_handwritten）。声调几何符在横带分辨率下仅部分可辨，凡不能确证形状者一律记 T99，建议人工放大复核（尤其 M 栏行1/2/5
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

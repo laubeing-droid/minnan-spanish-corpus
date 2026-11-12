@@ -1,8 +1,8 @@
 # 校对工作包 · p0156（severity: high）
 
+- 队列备注：重跑盲读（读图8次：3横带+subcol2+subcol3+subcol4+subcol1+300dpi上部12行M/R定点裁片）。写入前该路径已存在2025-11-06前一轮盲读（22条、圈注附source_R首、钩形字母读ç、页眉记L），已按本ask覆写为本次读法；旧轮关键差异：①未把整行划掉的废行计入（旧轮22条
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0156.json`（23 条）
 - 页图：`literature/tiles/01_DHS/page_0156/pdf_0156_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：重跑盲读（读图8次：3横带+subcol2+subcol3+subcol4+subcol1+300dpi上部12行M/R定点裁片）。写入前该路径已存在2025-11-06前一轮盲读（22条、圈注附source_R首、钩形字母读ç、页眉记L），已按本ask覆写为本次读法；旧轮关键差异：①未把整行划掉的废行计入（旧轮22条
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

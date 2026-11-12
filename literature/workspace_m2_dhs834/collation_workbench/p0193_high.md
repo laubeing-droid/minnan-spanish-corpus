@@ -1,8 +1,8 @@
 # 校对工作包 · p0193（severity: high）
 
+- 队列备注：页码：印刷页脚 - 164 - 清晰可读；右上角另有铅笔手写页码 82（位于页顶非页脚），已录 page_footer_handwritten。行1 M 栏末尾有一划去字（整词墨线划销，难辨）。行2 M 栏行间夹注 intal… 残损，疑为西语 intacta；R 标是否两音节 bû hiâ/bûiâ 待校。行3 M 
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0193.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_0193/pdf_0193_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页码：印刷页脚 - 164 - 清晰可读；右上角另有铅笔手写页码 82（位于页顶非页脚），已录 page_footer_handwritten。行1 M 栏末尾有一划去字（整词墨线划销，难辨）。行2 M 栏行间夹注 intal… 残损，疑为西语 intacta；R 标是否两音节 bû hiâ/bûiâ 待校。行3 M 
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

@@ -1,8 +1,8 @@
 # 校对工作包 · p0916（severity: high）
 
+- 队列备注：四栏正编页（reuerencia 词群，R 字母段，页顶手写 ante. 并有左缘大写 R 竖栏标记与花押）。三横带在拜落、拜揖、深踝三行处重叠，已去重，共 21 行。印刷页脚 '- 878 -'；页右上手写灰色编号形似 '939'（非页脚，故 footer 手写栏留空）。多数条目带圈画或下划线（已在个别明显处标注圈画
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0916.json`（21 条）
 - 页图：`literature/tiles/01_DHS/page_0916/pdf_0916_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：四栏正编页（reuerencia 词群，R 字母段，页顶手写 ante. 并有左缘大写 R 竖栏标记与花押）。三横带在拜落、拜揖、深踝三行处重叠，已去重，共 21 行。印刷页脚 '- 878 -'；页右上手写灰色编号形似 '939'（非页脚，故 footer 手写栏留空）。多数条目带圈画或下划线（已在个别明显处标注圈画
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

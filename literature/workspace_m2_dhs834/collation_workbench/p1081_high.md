@@ -1,8 +1,8 @@
 # 校对工作包 · p1081（severity: high）
 
+- 队列备注：手稿花体四栏页（西语|汉字|闽南罗马字|右侧官话栏），右栏全页基本空白。右上角有大花饰疑手写记号未辨读；第10行有淡墨残迹（似 Abro examingbolo）横跨栏区、归属存疑；第11行右栏有淡墨残迹；第19行 L/H 栏间有插字残迹；第1、2、8行右侧有涂改；第14-17行左侧有分组括弧连线；band y1 扫描
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1081.json`（21 条）
 - 页图：`literature/tiles/01_DHS/page_1081/pdf_1081_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：手稿花体四栏页（西语|汉字|闽南罗马字|右侧官话栏），右栏全页基本空白。右上角有大花饰疑手写记号未辨读；第10行有淡墨残迹（似 Abro examingbolo）横跨栏区、归属存疑；第11行右栏有淡墨残迹；第19行 L/H 栏间有插字残迹；第1、2、8行右侧有涂改；第14-17行左侧有分组括弧连线；band y1 扫描
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

@@ -1,8 +1,8 @@
 # 校对工作包 · p0996（severity: high）
 
+- 队列备注：手写页码 479 位于页眉右上角（非页脚），首字 4/9 潦草存疑。页顶边缘另有残迹不可辨，未计入条目。左栏第1、2行（sudar- / sudarel enfermo-）带长斜删除线；第3行右栏为涂划废字，仅尾部似 …uenic 可辨。第1行闽南语 hân chhus 末尾带高挑交叉号（疑入声號 T06/T07，难辨
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0996.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_0996/pdf_0996_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：手写页码 479 位于页眉右上角（非页脚），首字 4/9 潦草存疑。页顶边缘另有残迹不可辨，未计入条目。左栏第1、2行（sudar- / sudarel enfermo-）带长斜删除线；第3行右栏为涂划废字，仅尾部似 …uenic 可辨。第1行闽南语 hân chhus 末尾带高挑交叉号（疑入声號 T06/T07，难辨
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

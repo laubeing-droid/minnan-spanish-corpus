@@ -1,8 +1,8 @@
 # 校对工作包 · p0347（severity: high）
 
+- 队列备注：整页为手写四栏正编，无缺损、非重复拍摄页；共21行，四栏同行对齐经三横带核对无误（PDF 347 − 印刷页脚 318 = 29，与样板页 30/1 偏移一致互证）。读图共8次达上限（bands×3 + subcol2/3/4各1次 + subcol3/4各重读1次），以下存疑待人工校订：(1)多处声调符在尖頂帽ˆ/凹
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0347.json`（21 条）
 - 页图：`literature/tiles/01_DHS/page_0347/pdf_0347_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：整页为手写四栏正编，无缺损、非重复拍摄页；共21行，四栏同行对齐经三横带核对无误（PDF 347 − 印刷页脚 318 = 29，与样板页 30/1 偏移一致互证）。读图共8次达上限（bands×3 + subcol2/3/4各1次 + subcol3/4各重读1次），以下存疑待人工校订：(1)多处声调符在尖頂帽ˆ/凹
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

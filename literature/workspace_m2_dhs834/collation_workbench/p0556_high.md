@@ -1,8 +1,8 @@
 # 校对工作包 · p0556（severity: high）
 
+- 队列备注：页码：印刷页脚 '- 522 -' 清晰可读，historical_folio=522 非估算；页顶右缘另有蓝笔手写 '58'，其下更有一淡蓝笔痕（约作 76，难辨未录），按样板惯例将 '58' 记入 page_footer_handwritten。页顶花体字母段标记读作 'H. ante. F.'，末一大写形近 F/
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0556.json`（21 条）
 - 页图：`literature/tiles/01_DHS/page_0556/pdf_0556_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页码：印刷页脚 '- 522 -' 清晰可读，historical_folio=522 非估算；页顶右缘另有蓝笔手写 '58'，其下更有一淡蓝笔痕（约作 76，难辨未录），按样板惯例将 '58' 记入 page_footer_handwritten。页顶花体字母段标记读作 'H. ante. F.'，末一大写形近 F/
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

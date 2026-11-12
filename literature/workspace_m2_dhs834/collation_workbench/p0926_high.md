@@ -1,8 +1,8 @@
 # 校对工作包 · p0926（severity: high）
 
+- 队列备注：页眉：手写花体「R.」字母段标；另有手写「arike.」、圈注「O.」、右上铅笔「944」（非页脚）。左缘灰底印刷「R」为现代版式叠加，非手稿。行9、行10闽南栏词后有删除线涂抹字不可辨，故缀[残]。行16左栏多处插入涂改，仅「rogar eficaçmente」「ata」「puede rogar」及小字插入「ſe ſ
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0926.json`（21 条）
 - 页图：`literature/tiles/01_DHS/page_0926/pdf_0926_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页眉：手写花体「R.」字母段标；另有手写「arike.」、圈注「O.」、右上铅笔「944」（非页脚）。左缘灰底印刷「R」为现代版式叠加，非手稿。行9、行10闽南栏词后有删除线涂抹字不可辨，故缀[残]。行16左栏多处插入涂改，仅「rogar eficaçmente」「ata」「puede rogar」及小字插入「ſe ſ
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

@@ -1,8 +1,8 @@
 # 校对工作包 · p0474（severity: high）
 
+- 队列备注：四栏正编页。手写页码位于右上角（蓝铅笔，形似228，存疑），非页脚。全页R栏（官话）为空，仅红色栏线与背面透印残影。行1-4左栏首词连笔存疑（estrvar/estrñar）；行5左栏尾词疑为 un candelero，M栏照抄含西文 altar 字样之 Fāy miūa altar.；行6汉字疑为番（M栏 huán 
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0474.json`（18 条）
 - 页图：`literature/tiles/01_DHS/page_0474/pdf_0474_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：四栏正编页。手写页码位于右上角（蓝铅笔，形似228，存疑），非页脚。全页R栏（官话）为空，仅红色栏线与背面透印残影。行1-4左栏首词连笔存疑（estrvar/estrñar）；行5左栏尾词疑为 un candelero，M栏照抄含西文 altar 字样之 Fāy miūa altar.；行6汉字疑为番（M栏 huán 
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

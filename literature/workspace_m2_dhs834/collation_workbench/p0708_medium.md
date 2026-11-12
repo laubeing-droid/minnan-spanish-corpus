@@ -1,8 +1,8 @@
 # 校对工作包 · p0708（severity: medium）
 
+- 队列备注：正常四栏手稿辞典页（非现代出版页）。三条横带各恰读一次、未重读；未运行任何 pipeline 命令。页脚印刷页码 '- 674 -'，故 historical_folio=674；页首右上角另有手写数字 134（深色）与 337（蓝紫斜写），因不在页脚未入 footer 字段，仅记于此。页顶字母段标记 'N. ante
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0708.json`（23 条）
 - 页图：`literature/tiles/01_DHS/page_0708/pdf_0708_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：正常四栏手稿辞典页（非现代出版页）。三条横带各恰读一次、未重读；未运行任何 pipeline 命令。页脚印刷页码 '- 674 -'，故 historical_folio=674；页首右上角另有手写数字 134（深色）与 337（蓝紫斜写），因不在页脚未入 footer 字段，仅记于此。页顶字母段标记 'N. ante
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

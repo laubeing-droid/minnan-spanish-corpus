@@ -1,8 +1,8 @@
 # 校对工作包 · p0822（severity: high）
 
+- 队列备注：正常四栏手稿辞典页（P 字母段，polvo/polvora/polucion 条）。右栏（第4栏官话）整栏空白，仅背面透字残影，source_R 全部 [空]（已核对 pdf_0822_subcol4_mandarin_right.png）。右上角另有墨写编号疑为 "1205"（潦草存疑）与铅笔 "389"（已记入 p
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0822.json`（18 条）
 - 页图：`literature/tiles/01_DHS/page_0822/pdf_0822_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：正常四栏手稿辞典页（P 字母段，polvo/polvora/polucion 条）。右栏（第4栏官话）整栏空白，仅背面透字残影，source_R 全部 [空]（已核对 pdf_0822_subcol4_mandarin_right.png）。右上角另有墨写编号疑为 "1205"（潦草存疑）与铅笔 "389"（已记入 p
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

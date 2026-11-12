@@ -1,8 +1,8 @@
 # 校对工作包 · p0071（severity: high）
 
+- 队列备注：页码：印刷页脚 '- 42 -' 清晰可读，historical_folio=42 非估算；右上角另有铅笔手写页码 '21'（位于页顶右缘）。页顶手写花体字母段标记读作 'A. ante. L.'。全页四栏 21 行同行对齐（已用三条横带图核对）。逐条存难点：①第1行 L 栏首词为花体大写开头，逐字母读作 'A. la
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0071.json`（21 条）
 - 页图：`literature/tiles/01_DHS/page_0071/pdf_0071_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页码：印刷页脚 '- 42 -' 清晰可读，historical_folio=42 非估算；右上角另有铅笔手写页码 '21'（位于页顶右缘）。页顶手写花体字母段标记读作 'A. ante. L.'。全页四栏 21 行同行对齐（已用三条横带图核对）。逐条存难点：①第1行 L 栏首词为花体大写开头，逐字母读作 'A. la
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

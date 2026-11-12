@@ -1,8 +1,8 @@
 # 校对工作包 · p0773（severity: high）
 
+- 队列备注：页顶左侧花体大字为 P，中间 ante. 清晰，右端另有一花体字母（形似 A/Q/R）无法确证，未抄入 page_header。整页共 22 行；第 4 行（托通過）L 栏空、第 5 行（pasar desolpe ~）H/M 栏空；R 栏（官话）整页空。声调符在现有分辨率下几何形状难以逐一确证：leg 三行的小角形标
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0773.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0773/pdf_0773_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页顶左侧花体大字为 P，中间 ante. 清晰，右端另有一花体字母（形似 A/Q/R）无法确证，未抄入 page_header。整页共 22 行；第 4 行（托通過）L 栏空、第 5 行（pasar desolpe ~）H/M 栏空；R 栏（官话）整页空。声调符在现有分辨率下几何形状难以逐一确证：leg 三行的小角形标
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

@@ -1,8 +1,8 @@
 # 校对工作包 · p0084（severity: medium）
 
+- 队列备注：頁眉手寫 A. ante. L.；印刷頁腳 - 55 -；全頁未見手寫頁碼。中縫折線貫穿全頁，左緣數行有小破損但文字可辨（damaged=false）。要點：①R欄第1行同基線並置淡墨 che cuāñ · 與濃墨 voāng tāñ，歸屬存疑；②R欄2/3行屯字首母直立無橫槓（t/f/h 難辨，抄 t），R欄9行兩詞
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0084.json`（19 条）
 - 页图：`literature/tiles/01_DHS/page_0084/pdf_0084_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：頁眉手寫 A. ante. L.；印刷頁腳 - 55 -；全頁未見手寫頁碼。中縫折線貫穿全頁，左緣數行有小破損但文字可辨（damaged=false）。要點：①R欄第1行同基線並置淡墨 che cuāñ · 與濃墨 voāng tāñ，歸屬存疑；②R欄2/3行屯字首母直立無橫槓（t/f/h 難辨，抄 t），R欄9行兩詞
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

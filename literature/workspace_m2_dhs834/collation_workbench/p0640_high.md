@@ -1,8 +1,8 @@
 # 校对工作包 · p0640（severity: high）
 
+- 队列备注：印刷页脚 '- 606 -' 清晰。左页边中部印有大写字母 M（字母段标记），页顶另有手写 'ante .' 字样，page_header 记 'M. ante.'。右上角页边有手写 '2oo'、一团涂划墨迹及铅笔字 '303'，页左上亦有涂划笔画，均系页边手写，未计入页脚字段。第4栏（官话栏）整栏空白，仅红色栏线与渍
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0640.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0640/pdf_0640_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：印刷页脚 '- 606 -' 清晰。左页边中部印有大写字母 M（字母段标记），页顶另有手写 'ante .' 字样，page_header 记 'M. ante.'。右上角页边有手写 '2oo'、一团涂划墨迹及铅笔字 '303'，页左上亦有涂划笔画，均系页边手写，未计入页脚字段。第4栏（官话栏）整栏空白，仅红色栏线与渍
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

@@ -1,8 +1,8 @@
 # 校对工作包 · p0754（severity: high）
 
+- 队列备注：本页为四栏正编辞典页（西语 palo—Pan 段），非现代出版物页。页脚印刷 '- 720 -' 清晰，historical_folio=720 非估算；页顶无字母段标记，页顶中央手写一词形似 'amoe.'（[疑:amoe/amore]），右上角另有手写归档数字 '497 / 360'（非页脚，未计入页脚字段）；左页
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0754.json`（18 条）
 - 页图：`literature/tiles/01_DHS/page_0754/pdf_0754_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：本页为四栏正编辞典页（西语 palo—Pan 段），非现代出版物页。页脚印刷 '- 720 -' 清晰，historical_folio=720 非估算；页顶无字母段标记，页顶中央手写一词形似 'amoe.'（[疑:amoe/amore]），右上角另有手写归档数字 '497 / 360'（非页脚，未计入页脚字段）；左页
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

@@ -1,8 +1,8 @@
 # 校对工作包 · p0209（severity: high）
 
+- 队列备注：本页为四栏正编，字母段标 C（页顶大写 C 与 ante、H. 字样）。共抄 20 行。主要存难点，请人工校订：(1) 第1行整行经重改：L 栏文字被椭圆圈划（视为标注非删除）；H 栏首字上有涂划并叠写斜体西语旁注 'Cal del othion -'（按物理位置抄入 source_H，归属存疑）；M 栏 'ō cag
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0209.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_0209/pdf_0209_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：本页为四栏正编，字母段标 C（页顶大写 C 与 ante、H. 字样）。共抄 20 行。主要存难点，请人工校订：(1) 第1行整行经重改：L 栏文字被椭圆圈划（视为标注非删除）；H 栏首字上有涂划并叠写斜体西语旁注 'Cal del othion -'（按物理位置抄入 source_H，归属存疑）；M 栏 'ō cag
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

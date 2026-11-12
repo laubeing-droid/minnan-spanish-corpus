@@ -1,8 +1,8 @@
 # 校对工作包 · p0937（severity: high）
 
+- 队列备注：S 字母段正编页（Sabio→Sacabuche），版式完好无重页。页眉手写 'S. ante. A.'（末尾大写花体字母形近 A，存疑）。行1 西文栏行间另插有一小字（形近 hiong/henu）不可辨，记 [残]。行12 汉字栏空白、闽南语中段音节不可辨 [残]。行18 为淡褪残行，仅存污渍状笔迹，汉字/闽南语均 
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0937.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0937/pdf_0937_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：S 字母段正编页（Sabio→Sacabuche），版式完好无重页。页眉手写 'S. ante. A.'（末尾大写花体字母形近 A，存疑）。行1 西文栏行间另插有一小字（形近 hiong/henu）不可辨，记 [残]。行12 汉字栏空白、闽南语中段音节不可辨 [残]。行18 为淡褪残行，仅存污渍状笔迹，汉字/闽南语均 
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

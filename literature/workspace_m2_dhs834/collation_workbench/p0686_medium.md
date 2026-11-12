@@ -1,8 +1,8 @@
 # 校对工作包 · p0686（severity: medium）
 
+- 队列备注：本页为 M 部 Mudar- 草稿页，23 行四栏（本次为覆盖重写：写入前发现存在前一次运行的盲抄稿 raw_part_p0686.json，已按本次读图结果覆盖，两稿分歧点列于末段供人工校订）。第4栏（官话）整栏无内容，source_R 全部 [空]（三张全宽横带右侧仅见红色栏线与零星红痕）。页顶手写标记：大花体段首
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0686.json`（23 条）
 - 页图：`literature/tiles/01_DHS/page_0686/pdf_0686_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：本页为 M 部 Mudar- 草稿页，23 行四栏（本次为覆盖重写：写入前发现存在前一次运行的盲抄稿 raw_part_p0686.json，已按本次读图结果覆盖，两稿分歧点列于末段供人工校订）。第4栏（官话）整栏无内容，source_R 全部 [空]（三张全宽横带右侧仅见红色栏线与零星红痕）。页顶手写标记：大花体段首
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

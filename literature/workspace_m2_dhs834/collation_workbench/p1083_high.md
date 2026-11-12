@@ -1,8 +1,8 @@
 # 校对工作包 · p1083（severity: high）
 
+- 队列备注：页面顶缘为手写花体旁注（左花饰似'N.'、中央铅笔淡字似'anité/anté'、右花体连笔），非印刷字母段标，故 page_header 留空；另页缘散见铅笔小痕（似'8'）不可辨。第1行西文下方另有缩行小注一行，字形难辨，暂读'Gñ. Cüilante'[疑]，未计入条目。第3栏多处首字母为长s形花体（ſ，与f形变
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1083.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_1083/pdf_1083_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页面顶缘为手写花体旁注（左花饰似'N.'、中央铅笔淡字似'anité/anté'、右花体连笔），非印刷字母段标，故 page_header 留空；另页缘散见铅笔小痕（似'8'）不可辨。第1行西文下方另有缩行小注一行，字形难辨，暂读'Gñ. Cüilante'[疑]，未计入条目。第3栏多处首字母为长s形花体（ſ，与f形变
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

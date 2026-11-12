@@ -1,8 +1,8 @@
 # 校对工作包 · p1099（severity: high）
 
+- 队列备注：页脚印刷码'- 1061 -'直接可读，页码非估算。页顶边缘有极淡残印（不可辨）与手写旁注'ante.'，左上另有铅笔小记（似'20'），均非栏内容，故 page_header 留空。M栏多处首字母为高笔无横画长形字（f/t 难分），一律就地标 [疑:f/t]，未以音韵知识修正；声调小钩按声调几何字典归类为目视最佳判断
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1099.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_1099/pdf_1099_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页脚印刷码'- 1061 -'直接可读，页码非估算。页顶边缘有极淡残印（不可辨）与手写旁注'ante.'，左上另有铅笔小记（似'20'），均非栏内容，故 page_header 留空。M栏多处首字母为高笔无横画长形字（f/t 难分），一律就地标 [疑:f/t]，未以音韵知识修正；声调小钩按声调几何字典归类为目视最佳判断
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

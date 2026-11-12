@@ -1,8 +1,8 @@
 # 校对工作包 · p0569（severity: high）
 
+- 队列备注：四栏正编页：L=西语、H=汉字、M=闽南罗马字；R 栏（官话）整页无字，全部填[空]。页眉为大花体字母（无法辨认）+ 'ante.'，照抄 'ante.'。页脚印刷页码 '- 535 -' 清晰，historical_folio=535；未见手写页码。M 栏第2、9、18、20行文字向右延伸至 R 栏区，已整体归入 s
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0569.json`（23 条）
 - 页图：`literature/tiles/01_DHS/page_0569/pdf_0569_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：四栏正编页：L=西语、H=汉字、M=闽南罗马字；R 栏（官话）整页无字，全部填[空]。页眉为大花体字母（无法辨认）+ 'ante.'，照抄 'ante.'。页脚印刷页码 '- 535 -' 清晰，historical_folio=535；未见手写页码。M 栏第2、9、18、20行文字向右延伸至 R 栏区，已整体归入 s
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

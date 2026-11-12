@@ -1,8 +1,8 @@
 # 校对工作包 · p0998（severity: high）
 
+- 队列备注：印刷页脚在三横带图与右栏图中均未见清晰印刷页码，historical_folio 按规程估填 965；页顶有手写字段标记 S. ante. U.，右上角另有手写页码疑为 980。原稿长体 s（ſ）一律转写作 s。第8行西语栏含后加删除线、字面难辨；第18/19行西语栏字迹潦草仅得大概已标 [残]。多处田/刃+心字形（忍
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0998.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0998/pdf_0998_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：印刷页脚在三横带图与右栏图中均未见清晰印刷页码，historical_folio 按规程估填 965；页顶有手写字段标记 S. ante. U.，右上角另有手写页码疑为 980。原稿长体 s（ſ）一律转写作 s。第8行西语栏含后加删除线、字面难辨；第18/19行西语栏字迹潦草仅得大概已标 [残]。多处田/刃+心字形（忍
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

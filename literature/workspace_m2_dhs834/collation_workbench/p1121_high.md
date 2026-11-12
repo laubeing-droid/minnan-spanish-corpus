@@ -1,8 +1,8 @@
 # 校对工作包 · p1121（severity: high）
 
+- 队列备注：印刷页脚 '- 1083 -'，historical_folio=1083（非估算）。页顶表格上方有斜体花字 'art.'，为上页末条接写/catchword，未计入条目，page_header 留空。第2栏第6-8行第二字位为一小钩形符号（照抄作'乛'），结合 M 栏叠词（bōng bōng / Siàu Siàu 
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1121.json`（17 条）
 - 页图：`literature/tiles/01_DHS/page_1121/pdf_1121_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：印刷页脚 '- 1083 -'，historical_folio=1083（非估算）。页顶表格上方有斜体花字 'art.'，为上页末条接写/catchword，未计入条目，page_header 留空。第2栏第6-8行第二字位为一小钩形符号（照抄作'乛'），结合 M 栏叠词（bōng bōng / Siàu Siàu 
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

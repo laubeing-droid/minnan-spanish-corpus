@@ -1,8 +1,8 @@
 # 校对工作包 · p0111（severity: high）
 
+- 队列备注：页眉：页顶左上灰底段标 'A'，页顶中部手写 'ante'，记 'A. ante.'；右上角斜写手写页码 '41'（位于页顶，非页脚，照实录入 page_footer_handwritten）。印刷页脚 '- 82 -' 清晰 → historical_folio=82（非估算）。全页 22 行四栏（L西语/H汉字/M
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0111.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0111/pdf_0111_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页眉：页顶左上灰底段标 'A'，页顶中部手写 'ante'，记 'A. ante.'；右上角斜写手写页码 '41'（位于页顶，非页脚，照实录入 page_footer_handwritten）。印刷页脚 '- 82 -' 清晰 → historical_folio=82（非估算）。全页 22 行四栏（L西语/H汉字/M
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

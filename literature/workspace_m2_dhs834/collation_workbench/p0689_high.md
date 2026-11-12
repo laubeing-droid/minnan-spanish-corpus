@@ -1,8 +1,8 @@
 # 校对工作包 · p0689（severity: high）
 
+- 队列备注：页眉左侧大花体首符潦草读作 Ny（或为装饰符号），中 ante.、右 U.；另一盲读旧稿仅录 inte. U.，待校订。页脚印刷 - 655 - 清晰，无手写页码。R 栏（官话）整页无内容：右缘所见 chiang hū/corrupta/guāy/ultima 诸尾笔经与 subcol4_mandarin_right 
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0689.json`（21 条）
 - 页图：`literature/tiles/01_DHS/page_0689/pdf_0689_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页眉左侧大花体首符潦草读作 Ny（或为装饰符号），中 ante.、右 U.；另一盲读旧稿仅录 inte. U.，待校订。页脚印刷 - 655 - 清晰，无手写页码。R 栏（官话）整页无内容：右缘所见 chiang hū/corrupta/guāy/ultima 诸尾笔经与 subcol4_mandarin_right 
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

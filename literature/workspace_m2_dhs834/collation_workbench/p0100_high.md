@@ -1,8 +1,8 @@
 # 校对工作包 · p0100（severity: high）
 
+- 队列备注：页码：印刷页脚 '- 71 -'（band_y2_bot 底部清晰）→ historical_folio=71 非估算；页顶右缘未见铅笔页码，page_footer_handwritten 留空；页顶花体字母段标记 'A. ante. N.'（与 p0099 同式，末大字母 N/M 形近按 N 录）。全页四栏正编 20
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0100.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_0100/pdf_0100_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页码：印刷页脚 '- 71 -'（band_y2_bot 底部清晰）→ historical_folio=71 非估算；页顶右缘未见铅笔页码，page_footer_handwritten 留空；页顶花体字母段标记 'A. ante. N.'（与 p0099 同式，末大字母 N/M 形近按 N 录）。全页四栏正编 20
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

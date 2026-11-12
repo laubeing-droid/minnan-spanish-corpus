@@ -1,8 +1,8 @@
 # 校对工作包 · p0136（severity: high）
 
+- 队列备注：盲读独立完成：共读图 8 次（band y0/y1/y2 三横带 + subcol2 汉字 + subcol3 闽南语 + subcol4 官话 + subcol1 西语边栏 + 300dpi 整页），未运行任何 pipeline。行序四栏对齐经三横带逐行核对，共 22 行，无错行。页眉手写花体 'A. ante. S
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0136.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0136/pdf_0136_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：盲读独立完成：共读图 8 次（band y0/y1/y2 三横带 + subcol2 汉字 + subcol3 闽南语 + subcol4 官话 + subcol1 西语边栏 + 300dpi 整页），未运行任何 pipeline。行序四栏对齐经三横带逐行核对，共 22 行，无错行。页眉手写花体 'A. ante. S
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

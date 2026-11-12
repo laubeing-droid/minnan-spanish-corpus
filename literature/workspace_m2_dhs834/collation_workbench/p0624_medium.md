@@ -1,8 +1,8 @@
 # 校对工作包 · p0624（severity: medium）
 
+- 队列备注：正常四栏正编页（Ll- 段），共17行，横带 y0/y1、y1/y2 重叠行已合并，无重复计行。印刷页脚 - 590 - 清晰；右上角另有手写数字两行（形似 92 / 95，第二字亦似 96），疑为编目号而非页码，故 page_footer_handwritten 留空。页顶：大号 Ll 花体起首字母（带涂改）、ant
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0624.json`（17 条）
 - 页图：`literature/tiles/01_DHS/page_0624/pdf_0624_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：正常四栏正编页（Ll- 段），共17行，横带 y0/y1、y1/y2 重叠行已合并，无重复计行。印刷页脚 - 590 - 清晰；右上角另有手写数字两行（形似 92 / 95，第二字亦似 96），疑为编目号而非页码，故 page_footer_handwritten 留空。页顶：大号 Ll 花体起首字母（带涂改）、ant
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

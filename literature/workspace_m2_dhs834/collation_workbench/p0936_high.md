@@ -1,8 +1,8 @@
 # 校对工作包 · p0936（severity: high）
 
+- 队列备注：页顶手写字母段标记 S. 与 ante.（未见 R.），右上另有铅笔手写页码 449（不在页脚，故填于 page_footer_handwritten）及一大笔墨花押；印刷页脚 - 898 -。第4栏（官话右栏）整页空白。长 s 字形（ſabio/ſanto/ſeng 等）统一照抄为 ſ，R1 首字母或为花体大写 S 
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0936.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0936/pdf_0936_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页顶手写字母段标记 S. 与 ante.（未见 R.），右上另有铅笔手写页码 449（不在页脚，故填于 page_footer_handwritten）及一大笔墨花押；印刷页脚 - 898 -。第4栏（官话右栏）整页空白。长 s 字形（ſabio/ſanto/ſeng 等）统一照抄为 ſ，R1 首字母或为花体大写 S 
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

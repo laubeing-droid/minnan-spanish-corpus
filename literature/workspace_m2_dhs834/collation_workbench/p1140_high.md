@@ -1,8 +1,8 @@
 # 校对工作包 · p1140（severity: high）
 
+- 队列备注：页脚印刷页码「- 1102 -」（照抄，非估算）。页顶边缘有手写涂记（形如「n̂te」及「5.5-1」状记号），属页顶余白手迹，非段落字母标记，故未记入 page_header。本页右栏（官话）全空，source_R 均为 [空]。第6条「Contar」为带花饰方框的分节大标题，独立成行。其下数词表为两子栏并列表：左子
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1140.json`（46 条）
 - 页图：`literature/tiles/01_DHS/page_1140/pdf_1140_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页脚印刷页码「- 1102 -」（照抄，非估算）。页顶边缘有手写涂记（形如「n̂te」及「5.5-1」状记号），属页顶余白手迹，非段落字母标记，故未记入 page_header。本页右栏（官话）全空，source_R 均为 [空]。第6条「Contar」为带花饰方框的分节大标题，独立成行。其下数词表为两子栏并列表：左子
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

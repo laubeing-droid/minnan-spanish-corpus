@@ -1,8 +1,8 @@
 # 校对工作包 · p0337（severity: high）
 
+- 队列备注：本頁為手稿四欄正編（L西語/H漢字/M閩南/R官話），無殘缺重頁。頁腳印刷「- 308 -」；手寫頁碼「154」位於頁右上角（非頁腳處）。頁頂標題「D. ante. H.」。框選改寫條目：position 2-3 同一改寫框（舊式在上、新式在下）、7、9-10 同框、18、20。反復讀圖仍存疑、待人工校訂之處：(1) 
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0337.json`（23 条）
 - 页图：`literature/tiles/01_DHS/page_0337/pdf_0337_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：本頁為手稿四欄正編（L西語/H漢字/M閩南/R官話），無殘缺重頁。頁腳印刷「- 308 -」；手寫頁碼「154」位於頁右上角（非頁腳處）。頁頂標題「D. ante. H.」。框選改寫條目：position 2-3 同一改寫框（舊式在上、新式在下）、7、9-10 同框、18、20。反復讀圖仍存疑、待人工校訂之處：(1) 
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

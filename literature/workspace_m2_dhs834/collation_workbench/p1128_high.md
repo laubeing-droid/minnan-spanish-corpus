@@ -1,8 +1,8 @@
 # 校对工作包 · p1128（severity: high）
 
+- 队列备注：无印刷段标；页顶仅有背页透印手写残迹（que 等），未抄。右栏（第4栏）三条横带全程仅红栏线、无字迹，source_R 一律[空]，故未另读 subcol4。第2、3条之间有一条空置红栏行（仅栏线），未计条目。第2条闽南语行前有墨渍团（形似K），非字。淡墨小字：第9条行尾 primaria、第15条上方 bon.，疑为
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1128.json`（17 条）
 - 页图：`literature/tiles/01_DHS/page_1128/pdf_1128_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：无印刷段标；页顶仅有背页透印手写残迹（que 等），未抄。右栏（第4栏）三条横带全程仅红栏线、无字迹，source_R 一律[空]，故未另读 subcol4。第2、3条之间有一条空置红栏行（仅栏线），未计条目。第2条闽南语行前有墨渍团（形似K），非字。淡墨小字：第9条行尾 primaria、第15条上方 bon.，疑为
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

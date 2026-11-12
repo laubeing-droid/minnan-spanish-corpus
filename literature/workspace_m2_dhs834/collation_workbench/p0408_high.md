@@ -1,8 +1,8 @@
 # 校对工作包 · p0408（severity: high）
 
+- 队列备注：頁頂段標字跡疑為 abre/ante（中帶與底帶同類段標均清晰作 ante.），待人工校訂。右上角淡鉛筆手寫數字疑 187；中帶左緣另有縱寫 B2 字跡。Duro 塊第1行遭作者刪劃並有墨污，M 欄僅抄可辨部分。中帶下部有段標 E. ante. C.、底帶有 [殘塊] ante. D. 分隔行，其間約5行空白紅欄，均未
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0408.json`（14 条）
 - 页图：`literature/tiles/01_DHS/page_0408/pdf_0408_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：頁頂段標字跡疑為 abre/ante（中帶與底帶同類段標均清晰作 ante.），待人工校訂。右上角淡鉛筆手寫數字疑 187；中帶左緣另有縱寫 B2 字跡。Duro 塊第1行遭作者刪劃並有墨污，M 欄僅抄可辨部分。中帶下部有段標 E. ante. C.、底帶有 [殘塊] ante. D. 分隔行，其間約5行空白紅欄，均未
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

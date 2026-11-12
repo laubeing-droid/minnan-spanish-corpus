@@ -1,8 +1,8 @@
 # 校对工作包 · p1122（severity: high）
 
+- 队列备注：印刷页脚 '- 1084 -'；手写页码位于页右上角（抄作 522，[疑:521/522]，非页脚位置）。第2条右栏文本被页右缘截断（comedimien 后残）。词条首字母花体 I/y 难分：第1条大字照所见抄 Importunar.，第22条大字照所见抄 Ymportuno.，小写重复行照所见抄 ymportuna
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1122.json`（23 条）
 - 页图：`literature/tiles/01_DHS/page_1122/pdf_1122_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：印刷页脚 '- 1084 -'；手写页码位于页右上角（抄作 522，[疑:521/522]，非页脚位置）。第2条右栏文本被页右缘截断（comedimien 后残）。词条首字母花体 I/y 难分：第1条大字照所见抄 Importunar.，第22条大字照所见抄 Ymportuno.，小写重复行照所见抄 ymportuna
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

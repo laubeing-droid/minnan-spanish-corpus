@@ -1,8 +1,8 @@
 # 校对工作包 · p0298（severity: medium）
 
+- 队列备注：行2為被橢圓圈刪之重出條目(+Contemplar.),其H/M/R欄空白;L欄左緣行2-4另有+記號。行1前三漢字(目[疑:目/自]明想)書於L欄尾,H欄另見「入神」;M1小字上方另有極小修正符,下方有大字劃刪難辨;R1末音節下行另書sīn。行3 chiam聲調符幾何難辨(T99)且上方有小字修正符;行4 M右旁另注
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0298.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_0298/pdf_0298_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：行2為被橢圓圈刪之重出條目(+Contemplar.),其H/M/R欄空白;L欄左緣行2-4另有+記號。行1前三漢字(目[疑:目/自]明想)書於L欄尾,H欄另見「入神」;M1小字上方另有極小修正符,下方有大字劃刪難辨;R1末音節下行另書sīn。行3 chiam聲調符幾何難辨(T99)且上方有小字修正符;行4 M右旁另注
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

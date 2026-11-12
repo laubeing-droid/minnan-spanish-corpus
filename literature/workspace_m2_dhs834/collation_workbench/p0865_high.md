@@ -1,8 +1,8 @@
 # 校对工作包 · p0865（severity: high）
 
+- 队列备注：页脚印刷页码清晰为 '- 827 -'（非估算）。页顶为手写字母段标记：左花体大写字母形近 L（疑 L/Q）+ 'ante' + 'U'（疑 U/V），照抄作 'L. ante. U.'。第8行闽南语栏内叠写两行小字西文旁注 'que hombre o qual qu...'（跨行涂写，未计入 source_M）；该行
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0865.json`（17 条）
 - 页图：`literature/tiles/01_DHS/page_0865/pdf_0865_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页脚印刷页码清晰为 '- 827 -'（非估算）。页顶为手写字母段标记：左花体大写字母形近 L（疑 L/Q）+ 'ante' + 'U'（疑 U/V），照抄作 'L. ante. U.'。第8行闽南语栏内叠写两行小字西文旁注 'que hombre o qual qu...'（跨行涂写，未计入 source_M）；该行
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

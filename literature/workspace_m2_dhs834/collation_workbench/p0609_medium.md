@@ -1,8 +1,8 @@
 # 校对工作包 · p0609（severity: medium）
 
+- 队列备注：写入前发现同路径已有先前抄录稿，本次以本轮盲读覆盖。页顶左侧大写花体记号（形似 L）、右侧另一花体记号，均未确读；中央手写 ante. 作 page_header。页脚印 '- 575 -'，无手写页码。右栏（官话栏）整栏空白，source_R 全部 [空]。逐行存疑：p1 行有红笔划线贯穿且上方有淡墨重写记号，cam
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0609.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0609/pdf_0609_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：写入前发现同路径已有先前抄录稿，本次以本轮盲读覆盖。页顶左侧大写花体记号（形似 L）、右侧另一花体记号，均未确读；中央手写 ante. 作 page_header。页脚印 '- 575 -'，无手写页码。右栏（官话栏）整栏空白，source_R 全部 [空]。逐行存疑：p1 行有红笔划线贯穿且上方有淡墨重写记号，cam
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

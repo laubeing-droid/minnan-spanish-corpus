@@ -1,8 +1,8 @@
 # 校对工作包 · p0849（severity: medium）
 
+- 队列备注：本页为 P 段（Procurar/Prodigo 等）正编四栏页，非现代出版物。页脚印刷页码"- 811 -"清晰；页顶左"P"右"R"大写旁标、中缝手写"ante."。右栏（第4栏）整页空白，各 source_R 均为[空]。全页红色印刷格线为版式界栏；多处朱红污渍与背面透印（含透印字迹/水印），未影响行序判读。第6
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0849.json`（18 条）
 - 页图：`literature/tiles/01_DHS/page_0849/pdf_0849_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：本页为 P 段（Procurar/Prodigo 等）正编四栏页，非现代出版物。页脚印刷页码"- 811 -"清晰；页顶左"P"右"R"大写旁标、中缝手写"ante."。右栏（第4栏）整页空白，各 source_R 均为[空]。全页红色印刷格线为版式界栏；多处朱红污渍与背面透印（含透印字迹/水印），未影响行序判读。第6
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

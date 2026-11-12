@@ -1,8 +1,8 @@
 # 校对工作包 · p0607（severity: medium）
 
+- 队列备注：页顶字母段标记抄作 L. ante. L.（右端字形 I/L 难辨）；页中部另有一行分段标记（左端大字母疑 A./L.，右端疑 I./L.，其上有铅笔问号 ?，其下接数行空白红线后另起 Libelo 词条群）——按结构性标记未计入 entries，仅在此注明，故 Libelo 三条为 position 15–17。第1
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0607.json`（17 条）
 - 页图：`literature/tiles/01_DHS/page_0607/pdf_0607_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页顶字母段标记抄作 L. ante. L.（右端字形 I/L 难辨）；页中部另有一行分段标记（左端大字母疑 A./L.，右端疑 I./L.，其上有铅笔问号 ?，其下接数行空白红线后另起 Libelo 词条群）——按结构性标记未计入 entries，仅在此注明，故 Libelo 三条为 position 15–17。第1
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

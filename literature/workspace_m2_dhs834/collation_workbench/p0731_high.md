@@ -1,8 +1,8 @@
 # 校对工作包 · p0731（severity: high）
 
+- 队列备注：页码估算：页脚未见清晰印刷页码（页底红栏线以下仅有透背残影与污渍、页缘卷曲撕裂），按指令填698并注明页码估算；紧邻前页PDF730印刷页脚为-696-。页顶另有手写标记 O - ante 加花体缩写（疑J.L./L.G.，未定）；O. ante. L. 分段标记位于第2条与第3条之间，前2条属上一段ojos组，其后为
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0731.json`（16 条）
 - 页图：`literature/tiles/01_DHS/page_0731/pdf_0731_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页码估算：页脚未见清晰印刷页码（页底红栏线以下仅有透背残影与污渍、页缘卷曲撕裂），按指令填698并注明页码估算；紧邻前页PDF730印刷页脚为-696-。页顶另有手写标记 O - ante 加花体缩写（疑J.L./L.G.，未定）；O. ante. L. 分段标记位于第2条与第3条之间，前2条属上一段ojos组，其后为
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

@@ -1,8 +1,8 @@
 # 校对工作包 · p0997（severity: high）
 
+- 队列备注：页顶手写段标 'S. ante. [疑:V/U].';页脚印刷页码 '- 959 -'(historical_folio=959 实读非估算)。第4栏(官话栏)整栏无字,仅第6/11/13/14/17行闽南语尾部溢入该栏区,已并入 source_M,故 source_R 全部[空]。第11行中段[残]处及其右侧下划线边
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0997.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_0997/pdf_0997_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页顶手写段标 'S. ante. [疑:V/U].';页脚印刷页码 '- 959 -'(historical_folio=959 实读非估算)。第4栏(官话栏)整栏无字,仅第6/11/13/14/17行闽南语尾部溢入该栏区,已并入 source_M,故 source_R 全部[空]。第11行中段[残]处及其右侧下划线边
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

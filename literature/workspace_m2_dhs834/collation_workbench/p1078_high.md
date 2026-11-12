@@ -1,8 +1,8 @@
 # 校对工作包 · p1078（severity: high）
 
+- 队列备注：四栏正编页（西文|汉字|罗马字|右栏全空）。右栏经 subcol4 图核验仅有红栏线与透背，无条目。页顶手写段标 'V. ante.'（左侧 'V.'、中部 'ante'，右上另有花体花押，均手写）。页脚印 '- 1040 -'，无手写页码；右上缘另有淡铅笔痕 [疑:50/540]，未计入页脚。汉字栏行中小钩形叠字符以
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1078.json`（21 条）
 - 页图：`literature/tiles/01_DHS/page_1078/pdf_1078_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：四栏正编页（西文|汉字|罗马字|右栏全空）。右栏经 subcol4 图核验仅有红栏线与透背，无条目。页顶手写段标 'V. ante.'（左侧 'V.'、中部 'ante'，右上另有花体花押，均手写）。页脚印 '- 1040 -'，无手写页码；右上缘另有淡铅笔痕 [疑:50/540]，未计入页脚。汉字栏行中小钩形叠字符以
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

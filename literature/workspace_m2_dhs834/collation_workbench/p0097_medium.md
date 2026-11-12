@@ -1,8 +1,8 @@
 # 校对工作包 · p0097（severity: medium）
 
+- 队列备注：盲讀抄錄（本頁 17 行，讀圖 8 次後定稿）。1) 輸出路徑原存一份前次盲抄本（11月6日），本次按要求以獨立讀圖結果覆蓋，未參照其內容改字；兩讀主要分歧供校訂：行2 圈注首字母（本讀 Fulay/前讀 Pulay）、行8 L 欄詞切分（本讀 glames má anchura delaragued/前讀 y lla
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0097.json`（17 条）
 - 页图：`literature/tiles/01_DHS/page_0097/pdf_0097_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：盲讀抄錄（本頁 17 行，讀圖 8 次後定稿）。1) 輸出路徑原存一份前次盲抄本（11月6日），本次按要求以獨立讀圖結果覆蓋，未參照其內容改字；兩讀主要分歧供校訂：行2 圈注首字母（本讀 Fulay/前讀 Pulay）、行8 L 欄詞切分（本讀 glames má anchura delaragued/前讀 y lla
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

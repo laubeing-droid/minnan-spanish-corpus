@@ -1,8 +1,8 @@
 # 校对工作包 · p0214（severity: high）
 
+- 队列备注：页脚印刷页码清晰为 '- 185 -'（非估算，历史页码 185）。页顶字母段标记为手写 'C. ante. A.'。全页 20 行，行序由三横带图锁定。反复读图仍存疑、待人工校订之处：① 行4 L 栏 'Camino fuera camabroy os.' 字迹难解，照形抄录；② 行4 汉字形近'歌'，但 M/R 栏
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0214.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_0214/pdf_0214_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页脚印刷页码清晰为 '- 185 -'（非估算，历史页码 185）。页顶字母段标记为手写 'C. ante. A.'。全页 20 行，行序由三横带图锁定。反复读图仍存疑、待人工校订之处：① 行4 L 栏 'Camino fuera camabroy os.' 字迹难解，照形抄录；② 行4 汉字形近'歌'，但 M/R 栏
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

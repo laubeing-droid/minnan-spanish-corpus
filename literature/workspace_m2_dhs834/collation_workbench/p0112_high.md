@@ -1,8 +1,8 @@
 # 校对工作包 · p0112（severity: high）
 
+- 队列备注：本页为四栏正编整页，非重复拍摄；共 22 行，四栏同行对齐已用三条横带锁定，页脚印刷『- 83 -』为实数（非估算）。本会话共读图 8 次：三条横带、subcol2 汉字栏、subcol3 闽南栏、subcol4 官话栏、subcol1 西语栏各一次，subcol1 因 L 栏存疑按限额重读核对一次，未超『总数 8、同
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0112.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0112/pdf_0112_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：本页为四栏正编整页，非重复拍摄；共 22 行，四栏同行对齐已用三条横带锁定，页脚印刷『- 83 -』为实数（非估算）。本会话共读图 8 次：三条横带、subcol2 汉字栏、subcol3 闽南栏、subcol4 官话栏、subcol1 西语栏各一次，subcol1 因 L 栏存疑按限额重读核对一次，未超『总数 8、同
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

@@ -1,8 +1,8 @@
 # 校对工作包 · p0182（severity: high）
 
+- 队列备注：页顶手写标记视觉形如 '48. ante. O.'；本页全为 Bo- 词目且体例为 'X. ante. Y.'，亦可能为 'B. ante. O.' 之草写，照字形抄录，待人工校订。页脚印刷码 '- 153 -' 清晰，无手写页码。L1、L3、L12-14 带手稿圈选，L3-5 另有框线，均为圈选记号未抄入正文；第8条
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0182.json`（15 条）
 - 页图：`literature/tiles/01_DHS/page_0182/pdf_0182_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页顶手写标记视觉形如 '48. ante. O.'；本页全为 Bo- 词目且体例为 'X. ante. Y.'，亦可能为 'B. ante. O.' 之草写，照字形抄录，待人工校订。页脚印刷码 '- 153 -' 清晰，无手写页码。L1、L3、L12-14 带手稿圈选，L3-5 另有框线，均为圈选记号未抄入正文；第8条
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

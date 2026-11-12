@@ -1,8 +1,8 @@
 # 校对工作包 · p0598（severity: high）
 
+- 队列备注：L 段正编页（四栏）。页顶中央书 ante.、右侧花体大写 L 为段标，另有一长笔花饰难辨；右上角墨笔 79 与蓝铅笔 187 为后人编号，左缘灰底 L 为现代藏书标签，均未入正编字段。第 6 行 L./ante./E.（花体装饰字母）疑为互见或分隔标记而非词条。第 4 栏除第 6 行 E. 与第 14 行 xien（
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0598.json`（18 条）
 - 页图：`literature/tiles/01_DHS/page_0598/pdf_0598_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：L 段正编页（四栏）。页顶中央书 ante.、右侧花体大写 L 为段标，另有一长笔花饰难辨；右上角墨笔 79 与蓝铅笔 187 为后人编号，左缘灰底 L 为现代藏书标签，均未入正编字段。第 6 行 L./ante./E.（花体装饰字母）疑为互见或分隔标记而非词条。第 4 栏除第 6 行 E. 与第 14 行 xien（
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

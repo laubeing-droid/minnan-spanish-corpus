@@ -1,8 +1,8 @@
 # 校对工作包 · p0461（severity: high）
 
+- 队列备注：本页为 E 段（Espada–Espanol）正常四栏手稿页，非现代出版页；页脚印刷 - 427 - 清晰，右下角另有一斜向手写小字，形似 149，存疑待核。多处为scribal划改圈注：position 2/4/5/11/12 的 L 栏原文被划掉并另圈注同词小字，均按所见照抄；position 7 R 栏有一被划掉
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0461.json`（14 条）
 - 页图：`literature/tiles/01_DHS/page_0461/pdf_0461_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：本页为 E 段（Espada–Espanol）正常四栏手稿页，非现代出版页；页脚印刷 - 427 - 清晰，右下角另有一斜向手写小字，形似 149，存疑待核。多处为scribal划改圈注：position 2/4/5/11/12 的 L 栏原文被划掉并另圈注同词小字，均按所见照抄；position 7 R 栏有一被划掉
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

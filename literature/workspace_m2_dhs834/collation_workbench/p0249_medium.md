@@ -1,8 +1,8 @@
 # 校对工作包 · p0249（severity: medium）
 
+- 队列备注：页中部第10、11条之间另有手写大字段落标记「C. Ante H」，未计入条目。手写数字「110」位于页右上角（非页脚）。第14条L栏champangrande被笔线圈划掉、M栏chō亦被圈出，系订正记号，照抄。第9条M栏iam上方墨渍遮盖声调符位置，标T99。第11条M栏Te与第12条M栏末音节te上方为两点状符号，
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0249.json`（18 条）
 - 页图：`literature/tiles/01_DHS/page_0249/pdf_0249_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页中部第10、11条之间另有手写大字段落标记「C. Ante H」，未计入条目。手写数字「110」位于页右上角（非页脚）。第14条L栏champangrande被笔线圈划掉、M栏chō亦被圈出，系订正记号，照抄。第9条M栏iam上方墨渍遮盖声调符位置，标T99。第11条M栏Te与第12条M栏末音节te上方为两点状符号，
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

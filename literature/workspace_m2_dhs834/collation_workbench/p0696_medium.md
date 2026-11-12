@@ -1,8 +1,8 @@
 # 校对工作包 · p0696（severity: medium）
 
+- 队列备注：三横带（band_y0_top / band_y1_mid / band_y2_bot）各恰好读一次，互相衔接锁定20行，未重读任何图。页左上角烧损污渍，页顶部与右半多处背面透印残影（红划线底纹），均未计入正文。页顶手写段标记 N. ante. A.（大写字母潦草，辨认度中等）；右上角铅笔手写页码 331 位于页顶非页
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0696.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_0696/pdf_0696_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：三横带（band_y0_top / band_y1_mid / band_y2_bot）各恰好读一次，互相衔接锁定20行，未重读任何图。页左上角烧损污渍，页顶部与右半多处背面透印残影（红划线底纹），均未计入正文。页顶手写段标记 N. ante. A.（大写字母潦草，辨认度中等）；右上角铅笔手写页码 331 位于页顶非页
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

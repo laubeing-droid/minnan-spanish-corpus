@@ -1,8 +1,8 @@
 # 校对工作包 · p0317（severity: medium）
 
+- 队列备注：页眉「C. ante.」后带大笔花饰；右上角另有手写页码「144」（在页顶非页脚，故 page_footer_handwritten 留空）。第1-2行 M 栏「hog」之 g 为所见字面照抄。第2行 L 栏首词 crecer/creer 形近、行尾淡笔字母按 a 抄，待校订。第3行 M 栏首字母为长体下行笔，形近 ſ
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0317.json`（19 条）
 - 页图：`literature/tiles/01_DHS/page_0317/pdf_0317_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页眉「C. ante.」后带大笔花饰；右上角另有手写页码「144」（在页顶非页脚，故 page_footer_handwritten 留空）。第1-2行 M 栏「hog」之 g 为所见字面照抄。第2行 L 栏首词 crecer/creer 形近、行尾淡笔字母按 a 抄，待校订。第3行 M 栏首字母为长体下行笔，形近 ſ
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

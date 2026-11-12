@@ -1,8 +1,8 @@
 # 校对工作包 · p0081（severity: medium）
 
+- 队列备注：页脚印刷页码 - 52 -； manuscript 右上角另有铅笔手写页码 26。页眉手写 “A. ante. L.”（中间词读 ante，t 横画可辨；末尾大花写字母形似 L，存疑）。第4/7/15行 M-R 栏缝处有 “+” 记号，未计入声调。第5行 M 栏 gūy 之后栏缝处有淡墨小字 “ha.”（按位置归入 M
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0081.json`（17 条）
 - 页图：`literature/tiles/01_DHS/page_0081/pdf_0081_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页脚印刷页码 - 52 -； manuscript 右上角另有铅笔手写页码 26。页眉手写 “A. ante. L.”（中间词读 ante，t 横画可辨；末尾大花写字母形似 L，存疑）。第4/7/15行 M-R 栏缝处有 “+” 记号，未计入声调。第5行 M 栏 gūy 之后栏缝处有淡墨小字 “ha.”（按位置归入 M
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

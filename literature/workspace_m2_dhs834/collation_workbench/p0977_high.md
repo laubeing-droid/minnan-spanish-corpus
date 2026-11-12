@@ -1,8 +1,8 @@
 # 校对工作包 · p0977（severity: high）
 
+- 队列备注：四栏正编页。页脚印刷页码清晰为 - 939 -（与既有页 pdf→folio +38 偏移一致，非估算）。页顶标记照抄 'S. ante. O.'，末一大写圈形字母 O/Q 难辨。右栏（第四栏 Mandarin）整页无任何正文条目，仅余透纸鬼影、竖向纹路与纸缘褐色污渍，故 source_R 全部 [空]（经 subco
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0977.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_0977/pdf_0977_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：四栏正编页。页脚印刷页码清晰为 - 939 -（与既有页 pdf→folio +38 偏移一致，非估算）。页顶标记照抄 'S. ante. O.'，末一大写圈形字母 O/Q 难辨。右栏（第四栏 Mandarin）整页无任何正文条目，仅余透纸鬼影、竖向纹路与纸缘褐色污渍，故 source_R 全部 [空]（经 subco
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

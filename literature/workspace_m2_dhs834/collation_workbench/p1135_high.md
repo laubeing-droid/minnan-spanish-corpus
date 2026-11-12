@@ -1,8 +1,8 @@
 # 校对工作包 · p1135（severity: high）
 
+- 队列备注：整页为 Y 字母段辞典正文页（含 'Y . ante . O .' 分段行）。纸质残损：右上角撕裂缺损，右侧大片透背镜像字迹均未抄录。左栏手写词 ynvril 第2-3字母（n/v/o/u 之间）难辨，按最可能视觉 ynvril 抄录；第16行 ministro [疑:minundo]、第18行 escrivimien
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1135.json`（19 条）
 - 页图：`literature/tiles/01_DHS/page_1135/pdf_1135_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：整页为 Y 字母段辞典正文页（含 'Y . ante . O .' 分段行）。纸质残损：右上角撕裂缺损，右侧大片透背镜像字迹均未抄录。左栏手写词 ynvril 第2-3字母（n/v/o/u 之间）难辨，按最可能视觉 ynvril 抄录；第16行 ministro [疑:minundo]、第18行 escrivimien
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

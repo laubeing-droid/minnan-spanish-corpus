@@ -1,8 +1,8 @@
 # 校对工作包 · p0668（severity: high）
 
+- 队列备注：本页为正常四栏辞典页（非现代出版页）。页脚印刷页码清晰为 "- 634 -"（直读，非估算）。页顶右上角有两处手写编号：深墨水（似 "44"）与浅灰铅笔 "317"，均在页顶右上角而非页脚，照实并入 page_footer_handwritten 抄为 "44 / 317"。页首左侧花体大字母似 "M."（与全页 me
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0668.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_0668/pdf_0668_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：本页为正常四栏辞典页（非现代出版页）。页脚印刷页码清晰为 "- 634 -"（直读，非估算）。页顶右上角有两处手写编号：深墨水（似 "44"）与浅灰铅笔 "317"，均在页顶右上角而非页脚，照实并入 page_footer_handwritten 抄为 "44 / 317"。页首左侧花体大字母似 "M."（与全页 me
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

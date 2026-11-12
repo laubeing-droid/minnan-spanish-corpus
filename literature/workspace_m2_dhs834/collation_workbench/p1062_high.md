@@ -1,8 +1,8 @@
 # 校对工作包 · p1062（severity: high）
 
+- 队列备注：印刷页脚为 - 1024 -，historical_folio=1024。无印刷字母段页眉：页边仅有手写 'quie.'（顶中）与右上角手写记号（似 '8R'）、右缘淡铅笔数字（似 '679'），均系页边手迹未入字段。第4栏整页空白。整页布满橙红格线洇渍并多处墨渍/手写圈划：r1-r3 左栏与闽南栏有手写括弧圈组，r6
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1062.json`（21 条）
 - 页图：`literature/tiles/01_DHS/page_1062/pdf_1062_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：印刷页脚为 - 1024 -，historical_folio=1024。无印刷字母段页眉：页边仅有手写 'quie.'（顶中）与右上角手写记号（似 '8R'）、右缘淡铅笔数字（似 '679'），均系页边手迹未入字段。第4栏整页空白。整页布满橙红格线洇渍并多处墨渍/手写圈划：r1-r3 左栏与闽南栏有手写括弧圈组，r6
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

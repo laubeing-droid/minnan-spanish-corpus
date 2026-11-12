@@ -1,8 +1,8 @@
 # 校对工作包 · p0440（severity: high）
 
+- 队列备注：印刷页脚 - 406 - 清晰；右上页缘另有手写页码 203（非页脚位置）。页顶花体大写字母形近 F/E，因本页条目均为 entonces/entrañas/entrar 等 E 段词而记作 E. ante. G.；左缘灰框 E 为扫描附加标记，非手稿内容。条目4为行间挤写小字，首字母 t/f 存疑；条目8 M 栏尾词
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0440.json`（21 条）
 - 页图：`literature/tiles/01_DHS/page_0440/pdf_0440_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：印刷页脚 - 406 - 清晰；右上页缘另有手写页码 203（非页脚位置）。页顶花体大写字母形近 F/E，因本页条目均为 entonces/entrañas/entrar 等 E 段词而记作 E. ante. G.；左缘灰框 E 为扫描附加标记，非手稿内容。条目4为行间挤写小字，首字母 t/f 存疑；条目8 M 栏尾词
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

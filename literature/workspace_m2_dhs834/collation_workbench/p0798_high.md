@@ -1,8 +1,8 @@
 # 校对工作包 · p0798（severity: high）
 
+- 队列备注：正常四栏手稿页（Pescado/Pescador/Pescar 段），第4栏(R)全页空白仅红栏线。页顶左右两个花体大字母形近 S 与 E，但本页条目全属 P 段，疑为花体 P/Q 之误读，待人工校订。手写页码位于页顶右上角，形似 L77，判读作 477，存疑。M 栏多处以字母上方小 v/ˇ 形记号标调，几何归属按最接
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0798.json`（21 条）
 - 页图：`literature/tiles/01_DHS/page_0798/pdf_0798_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：正常四栏手稿页（Pescado/Pescador/Pescar 段），第4栏(R)全页空白仅红栏线。页顶左右两个花体大字母形近 S 与 E，但本页条目全属 P 段，疑为花体 P/Q 之误读，待人工校订。手写页码位于页顶右上角，形似 L77，判读作 477，存疑。M 栏多处以字母上方小 v/ˇ 形记号标调，几何归属按最接
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

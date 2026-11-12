@@ -1,8 +1,8 @@
 # 校对工作包 · p0845（severity: medium）
 
+- 队列备注：P 段正编（principal/principe 词条），四栏布局完整可辨，非残页。第 3-6、15 行闽南语词上方的“4”形上标符按 T04（凹角）处理；第 8、10、11、13 行的小钩状上标符几何难辨记 T99。鼻化小钩一律写作 ⁿ。第 8 行右栏有墨笔圈注 "ne."（上另有一小符记 T99）；第 9 行西班牙
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0845.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_0845/pdf_0845_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：P 段正编（principal/principe 词条），四栏布局完整可辨，非残页。第 3-6、15 行闽南语词上方的“4”形上标符按 T04（凹角）处理；第 8、10、11、13 行的小钩状上标符几何难辨记 T99。鼻化小钩一律写作 ⁿ。第 8 行右栏有墨笔圈注 "ne."（上另有一小符记 T99）；第 9 行西班牙
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

@@ -1,8 +1,8 @@
 # 校对工作包 · p0637（severity: high）
 
+- 队列备注：手稿四栏正编页，R栏(官话)整页空白。页脚印刷'- 603 -'清晰，无手写页码；页顶仅见手写'und.'与'V.'记号及页缘撕裂水渍，非字母段标记，header留空。存疑待校订处：e4 L'todo'、e8 M首词('hog gies')、e9 L'genoja'(或enoja)、e10 M'Tim tyg'(或im
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0637.json`（19 条）
 - 页图：`literature/tiles/01_DHS/page_0637/pdf_0637_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：手稿四栏正编页，R栏(官话)整页空白。页脚印刷'- 603 -'清晰，无手写页码；页顶仅见手写'und.'与'V.'记号及页缘撕裂水渍，非字母段标记，header留空。存疑待校订处：e4 L'todo'、e8 M首词('hog gies')、e9 L'genoja'(或enoja)、e10 M'Tim tyg'(或im
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

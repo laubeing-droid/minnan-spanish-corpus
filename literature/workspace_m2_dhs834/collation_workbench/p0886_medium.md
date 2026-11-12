@@ -1,8 +1,8 @@
 # 校对工作包 · p0886（severity: medium）
 
+- 队列备注：右栏（官话栏）全页空白。position 5 汉字栏下方有小字旁注 "cascos"[疑]；position 8 汉字栏下方有小字旁注（似 "ctta"，难辨），闽南语栏第二词被涂划删除。position 2、15-16、18 及 9-13 的西语栏有手绘圈框。position 19 闽南语末词被墨涂污。positio
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0886.json`（19 条）
 - 页图：`literature/tiles/01_DHS/page_0886/pdf_0886_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：右栏（官话栏）全页空白。position 5 汉字栏下方有小字旁注 "cascos"[疑]；position 8 汉字栏下方有小字旁注（似 "ctta"，难辨），闽南语栏第二词被涂划删除。position 2、15-16、18 及 9-13 的西语栏有手绘圈框。position 19 闽南语末词被墨涂污。positio
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

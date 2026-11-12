@@ -1,8 +1,8 @@
 # 校对工作包 · p0703（severity: high）
 
+- 队列备注：页码非估算:整页图页脚印刷页码清晰读出 '- 669 -'(注意:本路径原存一份先前盲读草稿,读作 '(69)'/folio 69,与整页图不符,本次已按实读覆盖;其 20 条行序与本读一致,个别字词读法歧异已吸收进下列存疑说明)。页顶手写大字母 N 与 'ante.' 抄为 page_header。多处难点已就地标注
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0703.json`（20 条）
 - 页图：`literature/tiles/01_DHS/page_0703/pdf_0703_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页码非估算:整页图页脚印刷页码清晰读出 '- 669 -'(注意:本路径原存一份先前盲读草稿,读作 '(69)'/folio 69,与整页图不符,本次已按实读覆盖;其 20 条行序与本读一致,个别字词读法歧异已吸收进下列存疑说明)。页顶手写大字母 N 与 'ante.' 抄为 page_header。多处难点已就地标注
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

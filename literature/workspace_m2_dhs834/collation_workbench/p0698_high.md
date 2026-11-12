@@ -1,8 +1,8 @@
 # 校对工作包 · p0698（severity: high）
 
+- 队列备注：本页为手稿四栏辞典页（N 段）。本文件为本轮盲读重抄，覆盖同名旧版盲读文件；未照抄旧版字面，仅并列分歧供校订。页脚印刷清晰读作 "- 664 -"，historical_folio=664 为实读非估算；页眉右上铅笔疑为 "L203/L2c3" 与 "332v"（若为332v按对页折算应作665，与印刷页脚664=33
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0698.json`（16 条）
 - 页图：`literature/tiles/01_DHS/page_0698/pdf_0698_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：本页为手稿四栏辞典页（N 段）。本文件为本轮盲读重抄，覆盖同名旧版盲读文件；未照抄旧版字面，仅并列分歧供校订。页脚印刷清晰读作 "- 664 -"，historical_folio=664 为实读非估算；页眉右上铅笔疑为 "L203/L2c3" 与 "332v"（若为332v按对页折算应作665，与印刷页脚664=33
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

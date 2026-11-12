@@ -1,8 +1,8 @@
 # 校对工作包 · p0614（severity: medium）
 
+- 队列备注：正常四栏手稿辞典页（L段），非现代出版物；版面完整（damaged=false），唯页顶中央有污渍致印刷表头不可辨、右上纸角撕裂（未损及词条行）。页脚印刷 - 580 -，页脚无手写页码；页顶手写 ante. 与 L.，右上另有手写 27（墨水）与 290（蓝铅笔）记号；左缘印刷段字母 L。共15行，四栏对齐按三横带图
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0614.json`（15 条）
 - 页图：`literature/tiles/01_DHS/page_0614/pdf_0614_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：正常四栏手稿辞典页（L段），非现代出版物；版面完整（damaged=false），唯页顶中央有污渍致印刷表头不可辨、右上纸角撕裂（未损及词条行）。页脚印刷 - 580 -，页脚无手写页码；页顶手写 ante. 与 L.，右上另有手写 27（墨水）与 290（蓝铅笔）记号；左缘印刷段字母 L。共15行，四栏对齐按三横带图
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

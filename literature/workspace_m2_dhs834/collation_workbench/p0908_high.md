@@ -1,8 +1,8 @@
 # 校对工作包 · p0908（severity: high）
 
+- 队列备注：印刷页脚 '- 870 -'；右上角另有灰色手写页码似 '935'（疑 935/936），按手写页码记入 page_footer_handwritten。页顶手写标记 'P. ante. R.'（带大写 R 花饰）。全页为手写四栏（西文/汉字/闽南罗马字/右栏几全空白仅橙色渍与红格线）。第6行有斜向续写批注自闽南栏跨入
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0908.json`（19 条）
 - 页图：`literature/tiles/01_DHS/page_0908/pdf_0908_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：印刷页脚 '- 870 -'；右上角另有灰色手写页码似 '935'（疑 935/936），按手写页码记入 page_footer_handwritten。页顶手写标记 'P. ante. R.'（带大写 R 花饰）。全页为手写四栏（西文/汉字/闽南罗马字/右栏几全空白仅橙色渍与红格线）。第6行有斜向续写批注自闽南栏跨入
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

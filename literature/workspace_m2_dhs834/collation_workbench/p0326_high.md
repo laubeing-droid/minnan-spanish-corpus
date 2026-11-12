@@ -1,8 +1,8 @@
 # 校对工作包 · p0326（severity: high）
 
+- 队列备注：盲读仅依三张横带图（band_y0/y1/y2 各恰读一次）即写档，未读 subcol2/3/4 高清分栏图（受强制流程限制），所有 [残]/[疑:]/T99 待人工以分栏图校订。页眉手写 'C. ante. U.'，末字母或为 H；印刷页脚 '- 297 -' 为影印本印页码（故 historical_folio=2
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0326.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0326/pdf_0326_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：盲读仅依三张横带图（band_y0/y1/y2 各恰读一次）即写档，未读 subcol2/3/4 高清分栏图（受强制流程限制），所有 [残]/[疑:]/T99 待人工以分栏图校订。页眉手写 'C. ante. U.'，末字母或为 H；印刷页脚 '- 297 -' 为影印本印页码（故 historical_folio=2
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

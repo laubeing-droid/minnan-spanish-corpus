@@ -1,8 +1,8 @@
 # 校对工作包 · p0999（severity: high）
 
+- 队列备注：手写页码『80』为铅笔、位于页左上角（非页脚）；页顶手写字母段标记 ante. U.（S 段末）；印刷页脚 - 961 -。行1第2栏汉字上为雨字头、下部难辨（暂记霎，疑零/霍）；行11汉字下部似火（暂记炙，疑焚）。整页西班牙草书 f/j、t/f 极易混淆：afutar、Sujetos、fāu（疑tāu）、jim（疑x
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0999.json`（17 条）
 - 页图：`literature/tiles/01_DHS/page_0999/pdf_0999_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：手写页码『80』为铅笔、位于页左上角（非页脚）；页顶手写字母段标记 ante. U.（S 段末）；印刷页脚 - 961 -。行1第2栏汉字上为雨字头、下部难辨（暂记霎，疑零/霍）；行11汉字下部似火（暂记炙，疑焚）。整页西班牙草书 f/j、t/f 极易混淆：afutar、Sujetos、fāu（疑tāu）、jim（疑x
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

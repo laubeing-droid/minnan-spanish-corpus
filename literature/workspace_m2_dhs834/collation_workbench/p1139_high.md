@@ -1,8 +1,8 @@
 # 校对工作包 · p1139（severity: high）
 
+- 队列备注：全頁右上角大面積缺損（膠帶白痕＋污漬），第4欄通欄污損僅餘隱約透視墨跡（pos1-14 標[残]）。頁頂殘見花體 ante 字樣；右上角另有手寫記號形近 D5/⌀5（非頁腳，未入 footer 欄）。印刷頁腳 - 1101 -，historical_folio 取 1101。段首標記行 pos5/11/14 為「花體飾
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1139.json`（16 条）
 - 页图：`literature/tiles/01_DHS/page_1139/pdf_1139_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：全頁右上角大面積缺損（膠帶白痕＋污漬），第4欄通欄污損僅餘隱約透視墨跡（pos1-14 標[残]）。頁頂殘見花體 ante 字樣；右上角另有手寫記號形近 D5/⌀5（非頁腳，未入 footer 欄）。印刷頁腳 - 1101 -，historical_folio 取 1101。段首標記行 pos5/11/14 為「花體飾
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

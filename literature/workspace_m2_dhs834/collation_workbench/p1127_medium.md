@@ -1,8 +1,8 @@
 # 校对工作包 · p1127（severity: medium）
 
+- 队列备注：纯视觉抄录。页顶仅淡墨草书残迹（似 Ante），无法确读故 page_header 记 [残]；左上另有渗印式大花体残迹。右上角铅笔手写数字似 543（或 545），位于页顶非页脚，故不入 page_footer_handwritten。右缘灰底 Y 标签为 PDF 加工元素，非手稿内容。第4栏除行16同行右延文本外仅
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1127.json`（17 条）
 - 页图：`literature/tiles/01_DHS/page_1127/pdf_1127_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：纯视觉抄录。页顶仅淡墨草书残迹（似 Ante），无法确读故 page_header 记 [残]；左上另有渗印式大花体残迹。右上角铅笔手写数字似 543（或 545），位于页顶非页脚，故不入 page_footer_handwritten。右缘灰底 Y 标签为 PDF 加工元素，非手稿内容。第4栏除行16同行右延文本外仅
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

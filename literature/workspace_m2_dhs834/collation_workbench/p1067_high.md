@@ -1,8 +1,8 @@
 # 校对工作包 · p1067（severity: high）
 
+- 队列备注：四栏正编辞典页（T 段 Tuerto 系→F 段 Fulido/Fumulto 系过渡页），页脚印刷 1029，无手写页码。页顶有手写小字 adice .（非字母段标记，故 page_header 留空）；页顶印刷横带淡损不可辨。西文第1、2、5、6、8、10、13、17行为圈选，行6左缘另有小加号标记，行12、19字
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1067.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_1067/pdf_1067_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：四栏正编辞典页（T 段 Tuerto 系→F 段 Fulido/Fumulto 系过渡页），页脚印刷 1029，无手写页码。页顶有手写小字 adice .（非字母段标记，故 page_header 留空）；页顶印刷横带淡损不可辨。西文第1、2、5、6、8、10、13、17行为圈选，行6左缘另有小加号标记，行12、19字
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

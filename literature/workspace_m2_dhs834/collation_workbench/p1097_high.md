@@ -1,8 +1,8 @@
 # 校对工作包 · p1097（severity: high）
 
+- 队列备注：盲读据三横带+三张切图(共6次读图)完成；三带行对齐一致无错行。页码：印刷页脚 '- 1059 -' 清晰，非估算。本页为 V-词条(Virgen/Virrey/Virtud…)三栏正编(西/汉/闽南罗马字)，第4栏仅 position 4 见 'hog teg:'，其余空；'Santidad iz.'(pos9)跨第
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p1097.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_1097/pdf_1097_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：盲读据三横带+三张切图(共6次读图)完成；三带行对齐一致无错行。页码：印刷页脚 '- 1059 -' 清晰，非估算。本页为 V-词条(Virgen/Virrey/Virtud…)三栏正编(西/汉/闽南罗马字)，第4栏仅 position 4 见 'hog teg:'，其余空；'Santidad iz.'(pos9)跨第
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

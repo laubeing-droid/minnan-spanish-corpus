@@ -1,8 +1,8 @@
 # 校对工作包 · p0484（severity: high）
 
+- 队列备注：依強制流程僅讀三橫帶（各一次）後即寫出，未再讀分欄放大圖。印刷頁腳『- 450 -』，historical_folio=450。頁右上角另有手寫墨字『22』與鉛筆『225』（位於頁頂非頁腳，未入 footer 欄）。第4欄（官話欄）全頁未見本頁正面墨跡，右側僅大量背面透印反字，故 source_R 除第1行外一律 [空
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0484.json`（18 条）
 - 页图：`literature/tiles/01_DHS/page_0484/pdf_0484_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：依強制流程僅讀三橫帶（各一次）後即寫出，未再讀分欄放大圖。印刷頁腳『- 450 -』，historical_folio=450。頁右上角另有手寫墨字『22』與鉛筆『225』（位於頁頂非頁腳，未入 footer 欄）。第4欄（官話欄）全頁未見本頁正面墨跡，右側僅大量背面透印反字，故 source_R 除第1行外一律 [空
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

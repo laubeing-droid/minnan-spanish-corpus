@@ -1,8 +1,8 @@
 # 校对工作包 · p0308（severity: high）
 
+- 队列备注：本页为 C 段（Corriente/Corromperse/Cortar 系列）四栏正编。读图 7 次：三横带、subcol2 汉字栏、subcol3 闽南语栏、subcol4 右栏、整页 300dpi，未超 8 次上限。页码说明：印刷页脚实测 "- 279 -"，historical_folio=279 为实测非估算
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0308.json`（22 条）
 - 页图：`literature/tiles/01_DHS/page_0308/pdf_0308_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：本页为 C 段（Corriente/Corromperse/Cortar 系列）四栏正编。读图 7 次：三横带、subcol2 汉字栏、subcol3 闽南语栏、subcol4 右栏、整页 300dpi，未超 8 次上限。页码说明：印刷页脚实测 "- 279 -"，historical_folio=279 为实测非估算
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

@@ -1,8 +1,8 @@
 # 校对工作包 · p0947（severity: high）
 
+- 队列备注：印刷页脚 - 909 -，页码非估算。页顶左 S.、中 ante.，右侧另有一高挑花押式记号（形似 A/H，难辨）未抄入 page_header。第1、2行 L 栏 Salir 之 i 上疑有小撇，未抄。第2行 L 栏有墨笔圈选；闽南栏第5-7行外围有大圈选墨迹，第16-18行一带亦有圈选/括号墨迹。第4、8行 tau
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0947.json`（18 条）
 - 页图：`literature/tiles/01_DHS/page_0947/pdf_0947_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：印刷页脚 - 909 -，页码非估算。页顶左 S.、中 ante.，右侧另有一高挑花押式记号（形似 A/H，难辨）未抄入 page_header。第1、2行 L 栏 Salir 之 i 上疑有小撇，未抄。第2行 L 栏有墨笔圈选；闽南栏第5-7行外围有大圈选墨迹，第16-18行一带亦有圈选/括号墨迹。第4、8行 tau
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

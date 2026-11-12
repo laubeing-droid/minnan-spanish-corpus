@@ -1,8 +1,8 @@
 # 校对工作包 · p0906（severity: high）
 
+- 队列备注：印刷页脚 '- 868 -'，historical_folio=868；右上角另有铅笔编号 '434'（ archival 编号，非页脚，未计入）。页眉：左 't. R.'（首字形 t/C 难辨）、中段淡写 'ante'、右侧花体 'A'。栏位：第1栏西语、第2栏汉字、第3栏闽南罗马字、第4栏右栏（官话/旁注，本页多空
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0906.json`（16 条）
 - 页图：`literature/tiles/01_DHS/page_0906/pdf_0906_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：印刷页脚 '- 868 -'，historical_folio=868；右上角另有铅笔编号 '434'（ archival 编号，非页脚，未计入）。页眉：左 't. R.'（首字形 t/C 难辨）、中段淡写 'ante'、右侧花体 'A'。栏位：第1栏西语、第2栏汉字、第3栏闽南罗马字、第4栏右栏（官话/旁注，本页多空
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

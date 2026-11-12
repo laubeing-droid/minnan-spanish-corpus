@@ -1,8 +1,8 @@
 # 校对工作包 · p0745（severity: high）
 
+- 队列备注：页脚清晰印作 '- 711 -'（实际读得，非估算）。页顶右侧段标字母形近 H、笔画略斜，存疑。第2行汉字首字 [疑:忍/訥]，第9/11/12行 '舵' 字 [疑:舵/航]，第13/14行 '冤' 字 [疑:冤/宛]。M 栏 'fam' 起首字母形近 f/ſ/J，存疑；第2行 L 栏 'sufrir' 首字母 s/ç
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0745.json`（18 条）
 - 页图：`literature/tiles/01_DHS/page_0745/pdf_0745_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：页脚清晰印作 '- 711 -'（实际读得，非估算）。页顶右侧段标字母形近 H、笔画略斜，存疑。第2行汉字首字 [疑:忍/訥]，第9/11/12行 '舵' 字 [疑:舵/航]，第13/14行 '冤' 字 [疑:冤/宛]。M 栏 'fam' 起首字母形近 f/ſ/J，存疑；第2行 L 栏 'sufrir' 首字母 s/ç
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 

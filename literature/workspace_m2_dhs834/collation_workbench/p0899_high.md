@@ -1,8 +1,8 @@
 # 校对工作包 · p0899（severity: high）
 
+- 队列备注：手稿辞典页（四栏正编，红格线，R 段词条：refalgar~remar）。页顶边缘被裁切、有淡淡一行残字[残]无法辨读；页顶左缘有手写'30.'，页顶中部有花体'ant…'及大写花饰字母，属页边涂记而非字母段标记，故 page_header 留空。页脚印刷页码'- 861 -'清晰。整页有大量橙红污渍贯穿行间，第7行 
 - 封存件：`literature/workspace_m2_dhs834/blind_read_p0899.json`（18 条）
 - 页图：`literature/tiles/01_DHS/page_0899/pdf_0899_band_y0_top.png` · `_band_y1_mid.png` · `_band_y2_bot.png`；纵栏 `_subcol2_hanzi_full.png` / `_subcol3_minnan.png` / `_subcol4_mandarin_right.png`
-- 队列备注：手稿辞典页（四栏正编，红格线，R 段词条：refalgar~remar）。页顶边缘被裁切、有淡淡一行残字[残]无法辨读；页顶左缘有手写'30.'，页顶中部有花体'ant…'及大写花饰字母，属页边涂记而非字母段标记，故 page_header 留空。页脚印刷页码'- 861 -'清晰。整页有大量橙红污渍贯穿行间，第7行 
 
 > 裁决：忠实（F）/ 需修（X：写出应录值）/ 存疑（Q：入四账并注明）。字面忠实性以图为准，禁止以音韵知识改字。
 
