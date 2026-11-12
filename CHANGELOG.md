@@ -8,6 +8,14 @@
 ### Added
 - 三语 README（汉/英/西）、方法论 METHODOLOGY、实际意义 SIGNIFICANCE（三语）、
   项目历史 PROJECT_HISTORY、使用方法 USAGE（三语）、CC BY-NC-SA 4.0 LICENSE
+- `docs/DATA_SCHEMA.md`：M1 主卷七层结构（含 layer_0 视觉锚点与 layer_5 关系标签 TAG-1~5
+  全库实测分布）与 M2 封存件 schema 的对照数据字典
+- `docs/SOURCES.md`：22 源总目（馆藏号 / 页位 / SHA-256 锚 / body 初稿映射 / 线状态）
+- `docs/COLLATION_GUIDE.md`：人工校对手册（裁决规范、p0621 双版本案、p0041 非规范调标专案）
+- `docs/LEDGERS.md`：四账制度（未决字形 8 / 缺证音值 0 / 词义未定 1 / 未执行工序 3，入账销账规则）
+- `docs/SCOPE_AND_LIMITS.md`：范围与局限声明（"文件搬迁不增加学术完成数量"）
+- `docs/TONE_MARKS.md`：声调几何图鉴 + 全库 47,720 调号频次实测（827 封存页）
+- `docs/BIBLIOGRAPHY.md`（只收可确证条目）、`docs/GLOSSARY.md`（三语术语表）、`CONTRIBUTING.md`
 - `docs/`：校对队列与封存 schema 说明
 - 缺口补读工作流：M1 主卷页面覆盖审计发现的 140 页缺块（845–849、855–859…）按 M2 协议补读，
   实时进度见 `BLIND_READ_MANIFEST.json`
