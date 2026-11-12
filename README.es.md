@@ -4,11 +4,7 @@
 
 [简体中文](README.md) | [English](README.en.md) | [Español](README.es.md)
 
-> **22 fuentes documentales históricas bilingües minnan–español** legadas por la misión dominica
-> (Provincia del Santísimo Rosario) y la comunidad sangley (china de origen minnan) en la Manila de
-> los siglos XVI y XVII: transcripciones diplomáticas de lectura ciega, derivaciones fonológicas
-> históricas y datos estructurados listos para el cotejo filológico, producidos mediante un flujo de
-> ingeniería reproducible y auditable.
+Este repositorio reúne borradores históricos, datos organizados por capas y registros sellados de lectura ciega de 22 PDF sobre el contacto temprano entre el hokkien y el español. Permite localizar materiales, comparar lecturas y continuar el cotejo. Los resultados proceden de etapas distintas y todavía no cuentan con una revisión filológica independiente de todo el conjunto.
 
 **Documentación**: [Contexto histórico](docs/HISTORICAL_BACKGROUND.md) · [Metodología](docs/METHODOLOGY.md) · [Importancia](docs/SIGNIFICANCE.md) · [Esquema de datos](docs/DATA_SCHEMA.md) · [Historia del proyecto](docs/PROJECT_HISTORY.md) · [Lecciones de ingeniería](docs/LESSONS.md) · [Uso](docs/USAGE.es.md) · [Registro de cambios](CHANGELOG.md)
 
@@ -36,13 +32,17 @@ catecismos, tratados apologéticos, traducciones y documentos civiles. Este proy
 
 ## 2. Método (resumen)
 
-* **Protocolo de lectura ciega (v3.1, `WITHOUT_PRIOR_DRAFT`)**: la transcripción visual en la línea M2 sigue exclusivamente la imagen de la página sin consultar borradores previos; queda prohibido «corregir» la grafía manuscrita mediante conjeturas fonológicas o contaminarla con romanizaciones modernas (POJ / Tâi-lô).
-* **Aislamiento en seis capas (`layer_0` a `layer_5`)**: las cuatro columnas diplomáticas del manuscrito (lema español `L`, caracteres chinos `H`, grafía hokkien misionera `M` y glosa en mandarín `R`) se transcriben literalmente; la reconstrucción fonológica (IPA del dialecto de Zhangzhou del siglo XVII) y el estándar moderno Tâi-lô (MOE) se calculan mediante motores deterministas en capas separadas.
-* **Sellado de integridad SHA-256 + puerta de aceptación inmutable**: cada página de lectura ciega se sella con SHA-256 al confirmarse (`LOCKED_BEFORE_COLLATION`); `architect_gatekeeper.py` (declarado inmodificable) verifica de forma independiente la pureza ortográfica hispano-dominica, la validez de los ocho códigos tonales geométricos (`T00–T07 / T99`) y la ausencia de plantillas fabricadas. Véase **[docs/METHODOLOGY.md](docs/METHODOLOGY.md)** (§7 en español).
+La transcripción se distingue de la interpretación. El protocolo M2 (v3.1, `WITHOUT_PRIOR_DRAFT`) exige leer las imágenes sin consultar borradores anteriores. Los conocimientos fonológicos modernos no deben utilizarse para reescribir las grafías históricas. Se conservan también borradores elaborados con ayuda de referencias, sin presentarlos retrospectivamente como lecturas ciegas independientes.
 
-## 3. Importancia (resumen)
+En DHS, las cuatro columnas registran lemas españoles (`L`), caracteres chinos (`H`), grafías hokkien (`M`) y lecturas en mandarín (`R`). Las reconstrucciones fonológicas y las correspondencias modernas en Tâi-lô del MOE se guardan por separado. Una conversión determinista permite repetir el procedimiento, pero no demuestra por sí sola que la lectura o el valor fonético sean correctos. Este formato no se aplica automáticamente a todas las fuentes. El [esquema de datos](docs/DATA_SCHEMA.md) explica las seis capas (`layer_0` a `layer_5`).
 
-Aporta un material fundamental de **correspondencia entre grafía sinográfica y transcripción fonética** para el hokkien de base zhangzhou del siglo XVII, así como fuentes primarias estructuradas para la historia social de la comunidad sangley del Parián de Manila, la historia de la traducción sino-hispánica (incluida la primera traducción conocida de un libro clásico chino a una lengua europea, el *Beng Sim Po Cam* de fray Juan Cobo) y la historia de los incunables filipinos impresos por Juan de Vera (Keng Yong). Más importante aún, tomando este fondo documental como banco de pruebas, el proyecto explora una **metodología integral de ingeniería de investigación para la «Historia y filología computacional y generativa del minnan»**: desde la convergencia de fuentes y materiales, la definición de problemas y restricciones probatorias, hasta la identificación de fenómenos históricos, el análisis comparativo, el contraste de hipótesis y el juicio crítico del historiador. **El corpus y el cotejo constituyen los cimientos, no la meta final; los resultados técnicos ya acumulados se distinguen rigurosamente del flujo completo de investigación en fase de exploración, sin equiparar jamás el sellado de ingeniería con una validación académica consumada.** Véanse **[docs/SIGNIFICANCE.md](docs/SIGNIFICANCE.md)** y **[docs/HISTORICAL_BACKGROUND.md](docs/HISTORICAL_BACKGROUND.md)**.
+Los hashes SHA-256 registran las páginas selladas (`LOCKED_BEFORE_COLLATION`). El archivo inmodificable `architect_gatekeeper.py` comprueba las condiciones de ortografía, códigos tonales (`T00–T07 / T99`) e integridad que implementa, incluidos los controles contra el uso de plantillas. Superarlos no sustituye el cotejo filológico. La [metodología](docs/METHODOLOGY.md) detalla el procedimiento y sus límites.
+
+## 3. Importancia
+
+Estos documentos permiten comparar caracteres y grafías tempranas del hokkien de base zhangzhou, así como estudiar la comunidad sangley de Manila, la traducción sino-hispánica y la impresión de textos católicos chinos. El *Beng Sim Po Cam* de Juan Cobo, por ejemplo, es la primera traducción conocida de un clásico chino a una lengua europea. Los diccionarios y documentos civiles registran otros contextos de uso lingüístico que deben estudiarse atendiendo a la historia y a los testimonios de cada obra.
+
+El proyecto también explora cómo los métodos computacionales y generativos pueden ayudar a investigar la historia y filología del minnan. El trabajo incluye delimitar fuentes y preguntas, identificar fenómenos, comparar materiales, contrastar explicaciones y someter los resultados al juicio del investigador. La transcripción y el cotejo son la base, no el final de ese proceso. El documento de [importancia del proyecto](docs/SIGNIFICANCE.md) distingue los resultados existentes del método completo todavía en desarrollo; el [contexto histórico](docs/HISTORICAL_BACKGROUND.md) presenta el marco de las fuentes.
 
 ## 4. Mapa del repositorio
 
@@ -59,7 +59,9 @@ Aporta un material fundamental de **correspondencia entre grafía sinográfica y
 
 > Los archivos PDF originales y las teselas de imagen escaneadas **no** se incluyen en este repositorio por derechos de edición; todas las coordenadas del corpus se refieren a los números de página del PDF original.
 
-## 5. Inicio rápido
+## 5. Cómo empezar
+
+Para leer o citar materiales, consulte la [guía de uso](docs/USAGE.es.md) o la [guía para Agent](docs/AGENT_GUIDE.md); no hace falta ejecutar programas. Los comandos siguientes se dirigen a quienes mantienen el proyecto. El corte genera archivos locales y requiere acceso legítimo al PDF original y autorización para esa tarea.
 
 ```bash
 python architect_gatekeeper.py                              # verificar la integridad de todos los datos sellados

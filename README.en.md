@@ -4,10 +4,7 @@
 
 [简体中文](README.md) | [English](README.en.md) | [Español](README.es.md)
 
-> **22 early Minnan–Spanish bilingual historical document sources** left by the Dominican mission
-> (Province of the Most Holy Rosary) and the Sangley (Southern Fujianese) community of 16th- and
-> 17th-century Manila: diplomatic blind-read transcriptions, historical phonological derivations,
-> and collation-ready corpus data produced through a reproducible, auditable engineering pipeline.
+This repository brings together legacy drafts, layered data and sealed blind-read records for 22 registered source PDFs concerning early Hokkien–Spanish language contact. It is intended for finding material, comparing readings and continuing collation. These outputs come from different stages of work and have not all undergone independent philological review.
 
 **Docs**: [Historical Background](docs/HISTORICAL_BACKGROUND.md) · [Methodology](docs/METHODOLOGY.md) · [Significance](docs/SIGNIFICANCE.md) · [Data Schema](docs/DATA_SCHEMA.md) · [Project History](docs/PROJECT_HISTORY.md) · [Engineering Lessons](docs/LESSONS.md) · [Usage](docs/USAGE.en.md) · [Changelog](CHANGELOG.md)
 
@@ -15,7 +12,7 @@
 
 ## 1. What Is Studied
 
-Between ca. 1590 and 1700, Dominican friars in Manila—working closely with Sangley Chinese interpreters and scribes—recorded the Zhangzhou-based dialect of Hokkien (Southern Min, *lengua Chio Chiu*) in Golden Age Spanish orthography to evangelize and communicate with the overseas Chinese community, leaving dictionaries, grammars, catechisms, apologetic treatises, translations, and secular manuscripts. This repository structures all **22 surviving source PDFs — 3,139 physical page positions across 9 document lines**:
+Between ca. 1590 and 1700, Dominican friars in Manila—working closely with Sangley Chinese interpreters and scribes—recorded the Zhangzhou-based dialect of Hokkien (Southern Min, *lengua Chio Chiu*) in Golden Age Spanish orthography to evangelize and communicate with the overseas Chinese community, leaving dictionaries, grammars, catechisms, apologetic treatises, translations, and secular manuscripts. The project organizes **22 registered source PDFs: 3,139 physical page positions across 9 document lines**. PDF page positions are not original folio numbers or a count of fully collated pages:
 
 | Line | Work | Holding Institution & Shelfmark | PDF Pages |
 | --- | --- | --- | ---: |
@@ -31,13 +28,17 @@ Between ca. 1590 and 1700, Dominican friars in Manila—working closely with San
 
 ## 2. Method (Summary)
 
-* **Pure Blind-Read Protocol (v3.1, `WITHOUT_PRIOR_DRAFT`)**: Visual transcription on the M2 line follows the 300 dpi page slices alone without consulting legacy drafts; phonological hindsight must never "correct" manuscript spellings, and modern POJ/Tâi-lô orthography is strictly banned from `source_M`.
-* **Six-Layer Data Isolation (`layer_0` to `layer_5`)**: The four diplomatic columns (Spanish headword `L`, Chinese character `H`, 17th-century Dominican Hokkien romanization `M`, and Mandarin gloss `R`) are transcribed verbatim; 17th-century Zhangzhou IPA reconstructions and modern MOE Tâi-lô equivalents are computed by deterministic engines into separate layers.
-* **Pre-Collation SHA-256 Sealing & Immutable Gatekeeper**: Every committed blind-read page is SHA-256-sealed (`LOCKED_BEFORE_COLLATION`); `architect_gatekeeper.py` (declared unmodifiable) independently verifies orthographic purity, geometric tone-code validity (`T00–T07 / T99`), and `Counter`-based anti-template thresholds. Full details: **[docs/METHODOLOGY.md](docs/METHODOLOGY.md)**.
+Transcription and interpretation are separate tasks. The M2 blind-read protocol (v3.1, `WITHOUT_PRIOR_DRAFT`) requires reading 300 dpi page slices without consulting legacy drafts. Modern phonological expectations must not be used to rewrite historical spellings. Earlier reference-assisted drafts remain available, but are not retrospectively treated as independent blind readings.
 
-## 3. Why It Matters (Summary)
+For DHS, the four source columns contain Spanish headwords (`L`), Chinese characters (`H`), Hokkien romanization (`M`) and Mandarin readings (`R`). Historical phonological reconstructions and modern MOE Tâi-lô comparisons are stored separately from these observations. Deterministic conversion makes a procedure repeatable; it does not by itself establish the correct reading or historical sound value. The DHS layout is not a template for every source. See the [data schema](docs/DATA_SCHEMA.md) for the six stored layers (`layer_0` to `layer_5`).
 
-Provides essential **character-to-sound collation material** for early Zhangzhou-based Hokkien, and structured primary sources for the social history of the Manila Sangley community, the history of Chinese–Western translation (including the earliest known translation of a Chinese classic into a European language, Juan Cobo's *Beng Sim Po Cam*), and the history of Catholic Chinese printing. More importantly, using these documents as a testbed, the project explores a **complete research-engineering methodology for "Computational and Generative Minnan Historical & Philological Studies"**—progressing from source and material convergence, research questions, and evidentiary constraints to historical phenomenon identification, comparative analysis, hypothesis testing, and human scholarly judgment. **Corpora and collation are the foundation, not the endpoint; current philological-engineering outputs are kept strictly distinct from the full research workflow still under exploration, and engineering sealing is never conflated with completed historical scholarship.** See **[docs/SIGNIFICANCE.md](docs/SIGNIFICANCE.md)** and **[docs/HISTORICAL_BACKGROUND.md](docs/HISTORICAL_BACKGROUND.md)**.
+SHA-256 hashes register sealed blind-read pages (`LOCKED_BEFORE_COLLATION`). The immutable `architect_gatekeeper.py` checks the orthographic, tone-code (`T00–T07 / T99`) and integrity conditions it implements, including `Counter`-based anti-template thresholds. Passing those checks does not replace collation. The [methodology](docs/METHODOLOGY.md) explains the procedure and its limits.
+
+## 3. Why It Matters
+
+The documents offer material for comparing characters and early Zhangzhou-based Hokkien spellings, and for studying the Manila Sangley community, Chinese–Western translation and Catholic Chinese printing. Juan Cobo's *Beng Sim Po Cam*, for example, is the earliest known translation of a Chinese classic into a European language. Dictionaries and secular manuscripts record other settings of language use; their interpretation requires attention to each work's history and witnesses.
+
+The wider aim is to explore how computational and generative methods can support Minnan historical research. That means defining sources and questions, identifying patterns worth investigating, comparing evidence, testing explanations and leaving the final judgment to researchers. Transcription and collation provide the basis for this work, not a substitute for it. The [significance document](docs/SIGNIFICANCE.md) distinguishes existing outputs from the full research workflow still under development; the [historical background](docs/HISTORICAL_BACKGROUND.md) introduces the sources' setting.
 
 ## 4. Repository Map
 
@@ -54,7 +55,9 @@ Provides essential **character-to-sound collation material** for early Zhangzhou
 
 > Source PDFs and scanned page tiles are **not** distributed in this repository for copyright reasons; all corpus coordinates reference original PDF page numbers.
 
-## 5. Quick Start
+## 5. Getting Started
+
+For reading and citation, begin with the [usage guide](docs/USAGE.en.md) or the [Agent guide](docs/AGENT_GUIDE.md); no script execution is needed. The commands below are for maintainers. Slicing creates local files and requires lawful access to the source PDF and authorization for that work.
 
 ```bash
 python architect_gatekeeper.py                              # verify integrity of all sealed data

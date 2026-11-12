@@ -1,6 +1,6 @@
 # 使用方法 / Usage
 
-> [中文](docs/USAGE.md) | [English](docs/USAGE.en.md) | [Español](docs/USAGE.es.md)
+> [中文](USAGE.md) | [English](USAGE.en.md) | [Español](USAGE.es.md)
 > 环境要求：Python ≥ 3.10，**零第三方依赖**（全部标准库）。所有命令在仓库根目录执行。
 
 ---
@@ -22,8 +22,9 @@
 python architect_gatekeeper.py
 ```
 
-输出 `[PASS] M1 ...` 与 `[PASS] M2 Gate: N blind-read pages verified` 即为全库一致。
-该文件**声明不可修改**——它同时是反伪造验收器，任何对本文件的编辑都会使验收失效。
+输出 `[PASS] M1 ...` 与 `[PASS] M2 Gate: N blind-read pages verified`，表示检查器所覆盖的一致性条件通过。这不等于原图读法、历史音值或全库语言内容已经验收，具体检查范围见 [方法论](METHODOLOGY.md) 第 3 节。
+
+`architect_gatekeeper.py` **声明不可修改**。它也承担反伪造检查；不能通过修改验收器使数据通过。
 
 ## 3. 查看施工进度
 

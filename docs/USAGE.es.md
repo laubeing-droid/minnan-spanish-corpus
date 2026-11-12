@@ -1,6 +1,6 @@
 # Uso / 使用方法 (Español)
 
-> [中文](docs/USAGE.md) | [English](docs/USAGE.en.md) | [Español](docs/USAGE.es.md)
+> [中文](USAGE.md) | [English](USAGE.en.md) | [Español](USAGE.es.md)
 > Requisitos: Python ≥ 3.10, **sin dependencias de terceros** (solo biblioteca estándar).
 > Ejecutar todos los comandos desde la raíz del repositorio.
 
@@ -23,9 +23,9 @@
 python architect_gatekeeper.py
 ```
 
-`[PASS] M1 ...` y `[PASS] M2 Gate: N blind-read pages verified` significan que todo el repositorio
-es consistente. El archivo está **declarado inmodificable** — es también el verificador
-antifalsificación; editarlo anula la aceptación.
+`[PASS] M1 ...` y `[PASS] M2 Gate: N blind-read pages verified` indican que se cumplen las condiciones de coherencia comprobadas por el verificador. No certifican las lecturas del manuscrito, los valores fonéticos históricos ni la calidad filológica de todo el corpus. El alcance y los límites de estas comprobaciones se explican en §3 de [METHODOLOGY.md](METHODOLOGY.md).
+
+`architect_gatekeeper.py` está **declarado inmodificable** y también comprueba posibles fabricaciones. No se debe modificar para conseguir que los datos sean aceptados.
 
 ## 3. Progreso
 

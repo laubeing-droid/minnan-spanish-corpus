@@ -1,8 +1,10 @@
 # 22 源总目 / Source Catalogue
 
-> [中文 canonical]。固定范围：22 份来源 PDF、3,139 物理页位、9 条书组执行线。
-> 本轮核对公开 `source22_actual_mapping.json` 与 2026-10-16 `SOURCE_INVENTORY_ALL22_v1.md`：22 项页位合计 3,139，表列 SHA-256 前 16 位与登记一致。本轮未重新取得全部 PDF 重算哈希。
-> `body 初稿` = `literature/baseline_all22_extracted/body/` 下的既有全文初稿文件。
+本页以中文为准，列出项目登记的 22 份来源 PDF，合计 3,139 个物理页位，按 9 条书组线组织。查找材料时，先用源 ID 确认文件，再核对馆藏登记和页位。
+
+此前文档审校核对了公开的 `source22_actual_mapping.json` 与 2026-10-16 的 `SOURCE_INVENTORY_ALL22_v1.md`：22 项页位合计为 3,139，表列 SHA-256 前 16 位与登记一致。这是登记信息之间的核对，并未重新取得全部 PDF 计算哈希。
+
+表中的 `body 初稿` 指 `literature/baseline_all22_extracted/body/` 下已有的全文初稿文件。文件名中的版本或 final 字样不代替内容验收记录。
 
 ## 总表
 

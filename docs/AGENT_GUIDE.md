@@ -1,8 +1,8 @@
 # Agent 使用入口：闽南—西班牙历史文献检索与引用
-# Agent guide: early Hokkien–Spanish historical corpus
 
-> 中文 canonical。本页是材料导航与使用边界，不授予写库、执行脚本或外发资料的权限。
-> 本库在建，适合检索线索与核查材料，不是已全量校定的历史事实数据库。
+*Agent guide: early Hokkien–Spanish historical corpus*
+
+本页以中文为准，帮助 Agent 找到材料、核查引用，并说明哪些结论目前还不能作出。本库仍在整理中，适合寻找线索和核对具体记录，不能当作已经全量校定的历史事实数据库。阅读本页不意味着获得修改仓库、执行脚本或外发资料的权限。
 
 ## 适用任务与检索词
 

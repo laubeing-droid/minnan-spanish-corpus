@@ -1,6 +1,6 @@
 # Usage / 使用方法 (English)
 
-> [中文](docs/USAGE.md) | [English](docs/USAGE.en.md) | [Español](docs/USAGE.es.md)
+> [中文](USAGE.md) | [English](USAGE.en.md) | [Español](USAGE.es.md)
 > Requirements: Python ≥ 3.10, **no third-party dependencies** (standard library only).
 > Run all commands from the repository root.
 
@@ -23,9 +23,9 @@
 python architect_gatekeeper.py
 ```
 
-`[PASS] M1 ...` and `[PASS] M2 Gate: N blind-read pages verified` mean the whole repository is
-consistent. The file is **declared unmodifiable** — it is also the anti-fabrication verifier;
-editing it invalidates acceptance.
+`[PASS] M1 ...` and `[PASS] M2 Gate: N blind-read pages verified` mean that the consistency conditions covered by the checker have passed. They do not certify manuscript readings, historical sound values, or the philological quality of the whole corpus. See §3 of [METHODOLOGY.md](METHODOLOGY.md) for the checks and their limits.
+
+`architect_gatekeeper.py` is **declared unmodifiable** and also checks for fabrication. Do not change the verifier to make data pass.
 
 ## 3. Progress
 
