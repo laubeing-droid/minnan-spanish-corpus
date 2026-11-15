@@ -1,0 +1,351 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1012,
+  "historical_folio": "481 (手写，右上角)",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1012/pdf_1012_300dpi.png",
+  "page_header": "[残]（手写页眉花体，可辨 ante 字樣，餘污損難辨）",
+  "page_footer_printed": "- 974 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "cegar el cegado sin cal-",
+      "source_H": "感 尾",
+      "source_M": "cam bia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "cegar el cegado sin cal-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kam¹ bia²",
+        "tai_lo_standard": "kam-biá",
+        "phonological_basis": "17c Dominican orthography conversion: cam (感) -> kam¹ / kam; bia (尾) -> bia² / biá."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Fejar, do uuen la feja -",
+      "source_H": "[疑:尾/耳] 炉",
+      "source_M": "hia lou",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fejar, do uuen la feja -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hia² lou²",
+        "tai_lo_standard": "hiá-lóu",
+        "phonological_basis": "17c Dominican orthography conversion: hia (炉) -> hia² / hiá; lou (?) -> lou² / lóu."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Tessura, vorneual- [残]",
+      "source_H": "[疑:錠/鍉]",
+      "source_M": "tia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tessura, vorneual-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tia¹",
+        "tai_lo_standard": "tia",
+        "phonological_basis": "17c Dominican orthography conversion: tia (?) -> tia¹ / tia."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Tela del oír do está el órgano del oír - tela de los tejidos -",
+      "source_H": "耳 鏡",
+      "source_M": "boy quia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tela del oír do está el órgano del oír - tela de los tejidos -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "boi² kia²",
+        "tai_lo_standard": "bói-kiá",
+        "phonological_basis": "17c Dominican orthography conversion: boy (耳) -> boi² / bói; quia (鏡) -> kia² / kiá."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "[空]",
+      "source_H": "膜",
+      "source_M": "mo",
+      "source_R": "como cuo.",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mo²",
+        "tai_lo_standard": "mó",
+        "phonological_basis": "17c Dominican orthography conversion: mo (膜) -> mo² / mó."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Tela del cedazo",
+      "source_H": "篩 斗 紗",
+      "source_M": "say fau se",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tela del cedazo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sai¹ fau¹ se¹",
+        "tai_lo_standard": "sai-fau-se",
+        "phonological_basis": "17c Dominican orthography conversion: say (篩) -> sai¹ / sai; fau (斗) -> fau¹ / fau; se (紗) -> se¹ / se."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Tela del telar antes de tejerse. v. pieça, lienzo - &.",
+      "source_H": "系 經",
+      "source_M": "si que",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tela del telar antes de tejerse. v. pieça, lienzo - &.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si¹ ke³",
+        "tai_lo_standard": "si-kè",
+        "phonological_basis": "17c Dominican orthography conversion: si (系) -> si¹ / si; que (經) -> ke³ / kè."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Telar-",
+      "source_H": "机",
+      "source_M": "cuj",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Telar-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuj¹",
+        "tai_lo_standard": "kuj",
+        "phonological_basis": "17c Dominican orthography conversion: cuj (机) -> kuj¹ / kuj."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Telar-（原稿圈起）",
+      "source_H": "織 机",
+      "source_M": "chit cui",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Telar-（原稿圈起）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsit⁷ kui¹",
+        "tai_lo_standard": "tsit-kui",
+        "phonological_basis": "17c Dominican orthography conversion: chit (織) -> tsit⁷ / tsit; cui (机) -> kui¹ / kui."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Telaraña.",
+      "source_H": "蛛",
+      "source_M": "tu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Telaraña.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tu¹",
+        "tai_lo_standard": "tu",
+        "phonological_basis": "17c Dominican orthography conversion: tu (蛛) -> tu¹ / tu."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Telaña del polbo -",
+      "source_H": "埃",
+      "source_M": "ay",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Telaña del polbo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ai¹",
+        "tai_lo_standard": "ai",
+        "phonological_basis": "17c Dominican orthography conversion: ay (埃) -> ai¹ / ai."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Telaraña（原稿圈起）",
+      "source_H": "螃 蜺 系",
+      "source_M": "lapia sy [& de laraña takla（手写连记，墨迹续入右栏）]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Telaraña（原稿圈起）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lapia⁵ si¹ de¹ lãrãnã¹ takla¹",
+        "tai_lo_standard": "lâpia-si-de-laranann-takla",
+        "phonological_basis": "17c Dominican orthography conversion: lapia (螃) -> lapia⁵ / lâpia; sy (蜺) -> si¹ / si; de (系) -> de¹ / de; laraña (?) -> lãrãnã¹ / laranann; takla (?) -> takla¹ / takla."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "telaraña que está texiendo.",
+      "source_H": "蜘 蛛 系",
+      "source_M": "ty tu sy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "telaraña que está texiendo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti¹ tu¹ si¹",
+        "tai_lo_standard": "ti-tu-si",
+        "phonological_basis": "17c Dominican orthography conversion: ty (蜘) -> ti¹ / ti; tu (蛛) -> tu¹ / tu; sy (系) -> si¹ / si."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "telaraña acabada de texer-",
+      "source_H": "蜘 蛛",
+      "source_M": "ty tu bang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "telaraña acabada de texer-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ti¹ tu¹ baŋ¹",
+        "tai_lo_standard": "ti-tu-bang",
+        "phonological_basis": "17c Dominican orthography conversion: ty (蜘) -> ti¹ / ti; tu (蛛) -> tu¹ / tu; bang (?) -> baŋ¹ / bang."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Tema del examen.",
+      "source_H": "題 目",
+      "source_M": "tey boj",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tema del examen.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tei⁵ boj²",
+        "tai_lo_standard": "têi-bój",
+        "phonological_basis": "17c Dominican orthography conversion: tey (題) -> tei⁵ / têi; boj (目) -> boj² / bój."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "tema del examen（原稿圈起）；下附划线删除小注: v. tít, acenço, porcian &",
+      "source_H": "題 頭",
+      "source_M": "tey tau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tema del examen（原稿圈起）；下附划线删除小注: v. tít, acenço, porcian &",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tei⁵ tʰau¹",
+        "tai_lo_standard": "têi-thau",
+        "phonological_basis": "17c Dominican orthography conversion: tey (題) -> tei⁵ / têi; tau (頭) -> tʰau¹ / thau."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "tema a porta & porhaì & odio rincor;",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tema a porta & porhaì & odio rincor;",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 890,
+  "historical_folio": "426 (右上角鉛筆頁碼)",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0890/pdf_0890_300dpi.png",
+  "page_header": "邊緣塗鴉: 'ño.' / 'año.' (手寫潦草, 非辭典正文)",
+  "page_footer_printed": "- 852 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Receta de medicina.",
+      "source_H": "藥方",
+      "source_M": "io hoeng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Receta de medicina.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "io² hoeŋ⁵",
+        "tai_lo_standard": "ió-hoêng",
+        "phonological_basis": "17c Dominican orthography conversion: io (藥) -> io² / ió; hoeng (方) -> hoeŋ⁵ / hoêng."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Recibir ~ nia.",
+      "source_H": "受",
+      "source_M": "fiu leng iu. leng lap.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T99 (污損難辨)",
+        "T02 (降斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Recibir ~ nia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fiu⁶ leŋ² iu¹",
+        "tai_lo_standard": "fīu-léng-iu",
+        "phonological_basis": "17c Dominican orthography conversion: fiu (受) -> fiu⁶ / fīu; leng (?) -> leŋ² / léng; iu (?) -> iu¹ / iu."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "recibir (圈劃)",
+      "source_H": "承",
+      "source_M": "fin feng iu. fin iu. ay tav iu.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir (圈劃)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fin⁵ feŋ¹ iu⁶ fin¹ iu¹ ai¹ tav¹ iu¹",
+        "tai_lo_standard": "fîn-feng-iū-fin-iu-ai-tav-iu",
+        "phonological_basis": "17c Dominican orthography conversion: fin (承) -> fin⁵ / fîn; feng (?) -> feŋ¹ / feng; iu (?) -> iu⁶ / iū; fin (?) -> fin¹ / fin; iu (?) -> iu¹ / iu; ay (?) -> ai¹ / ai; tav (?) -> tav¹ / tav; iu (?) -> iu¹ / iu."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "recibir ~",
+      "source_H": "領",
+      "source_M": "leng: nia (圈劃)",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "leŋ² nia²",
+        "tai_lo_standard": "léng-niá",
+        "phonological_basis": "17c Dominican orthography conversion: leng (領) -> leŋ² / léng; nia (?) -> nia² / niá."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "recibir lo g go day.",
+      "source_H": "俯",
+      "source_M": "fiu.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir lo g go day.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fiu⁵",
+        "tai_lo_standard": "fîu",
+        "phonological_basis": "17c Dominican orthography conversion: fiu (俯) -> fiu⁵ / fîu."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "recibir lo que me dan ~ saliao cibii",
+      "source_H": "際",
+      "source_M": "chay. chiap",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir lo que me dan ~ saliao cibii",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsai¹",
+        "tai_lo_standard": "tsai",
+        "phonological_basis": "17c Dominican orthography conversion: chay (際) -> tsai¹ / tsai."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "recibir lo g me dan ~ (圈劃)",
+      "source_H": "接",
+      "source_M": "chy: chiap (圈劃)",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir lo g me dan ~ (圈劃)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi¹ tsiap⁷",
+        "tai_lo_standard": "tsi-tsiap",
+        "phonological_basis": "17c Dominican orthography conversion: chy (接) -> tsi¹ / tsi; chiap (?) -> tsiap⁷ / tsiap."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "recibir el beneficio ~",
+      "source_H": "沐恩",
+      "source_M": "fian.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir el beneficio ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fian²",
+        "tai_lo_standard": "fián",
+        "phonological_basis": "17c Dominican orthography conversion: fian (沐) -> fian² / fián."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "recibir ba~~~ [残](墨條劃掉)",
+      "source_H": "[残]",
+      "source_M": "bojin (圈劃)",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir ba~~~ (墨條劃掉)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bojin¹",
+        "tai_lo_standard": "bojin",
+        "phonological_basis": "17c Dominican orthography conversion: bojin (?) -> bojin¹ / bojin."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "recibir en credito",
+      "source_H": "領",
+      "source_M": "nia.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir en credito",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "nia²",
+        "tai_lo_standard": "niá",
+        "phonological_basis": "17c Dominican orthography conversion: nia (領) -> nia² / niá."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "recibir tributo ~ utile encomendero",
+      "source_H": "糧",
+      "source_M": "nio hou.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir tributo ~ utile encomendero",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "nio⁵ hou³",
+        "tai_lo_standard": "niô-hòu",
+        "phonological_basis": "17c Dominican orthography conversion: nio (糧) -> nio⁵ / niô; hou (?) -> hou³ / hòu."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "recibir agrauios (圈劃)",
+      "source_H": "屈",
+      "source_M": "jiu iu (圈劃)",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir agrauios (圈劃)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dziu² iu¹",
+        "tai_lo_standard": "jiú-iu",
+        "phonological_basis": "17c Dominican orthography conversion: jiu (屈) -> dziu² / jiú; iu (?) -> iu¹ / iu."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "recibir dentro desy ...",
+      "source_H": "懷",
+      "source_M": "huay in.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir dentro desy ...",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huai⁵ in¹",
+        "tai_lo_standard": "huâi-in",
+        "phonological_basis": "17c Dominican orthography conversion: huay (懷) -> huai⁵ / huâi; in (?) -> in¹ / in."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "recibir dentro desy (圈劃)",
+      "source_H": "投",
+      "source_M": "tau ie.",
+      "source_R": "concibia",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir dentro desy (圈劃)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tau⁵ ie¹",
+        "tai_lo_standard": "tâu-ie",
+        "phonological_basis": "17c Dominican orthography conversion: tau (投) -> tau⁵ / tâu; ie (?) -> ie¹ / ie."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "recibir Dio el sacriffo ~ iu iu.",
+      "source_H": "餉",
+      "source_M": "iu iu.",
+      "source_R": "hiang. regn war nabios jo hiang.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir Dio el sacriffo ~ iu iu.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu² iu¹",
+        "tai_lo_standard": "iú-iu",
+        "phonological_basis": "17c Dominican orthography conversion: iu (餉) -> iu² / iú; iu (?) -> iu¹ / iu."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "recibir al guerped",
+      "source_H": "迎",
+      "source_M": "fia. geng chiap",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir al guerped",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fia⁵",
+        "tai_lo_standard": "fiâ",
+        "phonological_basis": "17c Dominican orthography conversion: fia (迎) -> fia⁵ / fiâ."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "recibir (括號併列)",
+      "source_H": "領納",
+      "source_M": "leng lap",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir (括號併列)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "leŋ² lap⁷",
+        "tai_lo_standard": "léng-lap",
+        "phonological_basis": "17c Dominican orthography conversion: leng (領) -> leŋ² / léng; lap (納) -> lap⁷ / lap."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "recibir ~ (括號併列)",
+      "source_H": "承領",
+      "source_M": "feng leng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir ~ (括號併列)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "feŋ⁵ leŋ²",
+        "tai_lo_standard": "fêng-léng",
+        "phonological_basis": "17c Dominican orthography conversion: feng (承) -> feŋ⁵ / fêng; leng (領) -> leŋ² / léng."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "recibir ~ (括號併列)",
+      "source_H": "承受",
+      "source_M": "feng fiu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir ~ (括號併列)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "feŋ⁵ fiu⁶",
+        "tai_lo_standard": "fêng-fīu",
+        "phonological_basis": "17c Dominican orthography conversion: feng (承) -> feŋ⁵ / fêng; fiu (受) -> fiu⁶ / fīu."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "recibir dinero para emplear.",
+      "source_H": "領錢",
+      "source_M": "nia chy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recibir dinero para emplear.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "nia² tsʰi¹",
+        "tai_lo_standard": "niá-tshi",
+        "phonological_basis": "17c Dominican orthography conversion: nia (領) -> nia² / niá; chy (錢) -> tsʰi¹ / tshi."
+      }
+    }
+  ]
+}

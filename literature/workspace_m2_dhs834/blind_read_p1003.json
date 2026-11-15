@@ -1,0 +1,495 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1003,
+  "historical_folio": "",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1003/pdf_1003_300dpi.png",
+  "page_header": "gate. (页顶手写涂记)",
+  "page_footer_printed": "- 965 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "habla p̃ hay q tocando sona p̃",
+      "source_H": "碑牌",
+      "source_M": "hip peg. toa pe.",
+      "source_R": "[残] unas... oyas",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "habla p̃ hay q tocando sona p̃",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hip⁷ pek⁷ toa⁶ pe⁶",
+        "tai_lo_standard": "hip-pek-toā-pē",
+        "phonological_basis": "17c Dominican orthography conversion: hip (碑) -> hip⁷ / hip; peg (牌) -> pek⁷ / pek; toa (?) -> toa⁶ / toā; pe (?) -> pe⁶ / pē."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "habla p̃ epitafio / habla p̃a epitafio",
+      "source_H": "碑記",
+      "source_M": "pe pay. / pe quy (两读并录)",
+      "source_R": "hablilla de huesos. [残]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "habla p̃ epitafio / habla p[ara]a epitafio",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p̃",
+            "expansion": "p̃"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe⁵ pai¹ pe⁶ ki³",
+        "tai_lo_standard": "pê-pai-pē-kì",
+        "phonological_basis": "17c Dominican orthography conversion: pe (碑) -> pe⁵ / pê; pay (記) -> pai¹ / pai; pe (?) -> pe⁶ / pē; quy (?) -> ki³ / kì."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "habla p̃ sin que de pp. say las manos [残]",
+      "source_H": "枷枷",
+      "source_M": "que lui",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "habla p̃ sin que de pp. say las manos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ke⁵ lui³",
+        "tai_lo_standard": "kê-luì",
+        "phonological_basis": "17c Dominican orthography conversion: que (枷) -> ke⁵ / kê; lui (枷) -> lui³ / luì."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "habla eng̃ siempre la bandera p̃a castilla de la ventana",
+      "source_H": "旗竿夾",
+      "source_M": "gui ua nge",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "habla eng̃ siempre la bandera p[ara]a castilla de la ventana",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p̃",
+            "expansion": "p̃"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui⁵ ua⁵ ŋe¹",
+        "tai_lo_standard": "guî-uâ-nge",
+        "phonological_basis": "17c Dominican orthography conversion: gui (旗) -> gui⁵ / guî; ua (竿) -> ua⁵ / uâ; nge (夾) -> ŋe¹ / nge."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "habla p̃ sin que desaparecido",
+      "source_H": "架只架許",
+      "source_M": "gue chi gue hu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "habla p̃ sin que desaparecido",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue² tsi² gue² hu²",
+        "tai_lo_standard": "gué-tsí-gué-hú",
+        "phonological_basis": "17c Dominican orthography conversion: gue (架) -> gue² / gué; chi (只) -> tsi² / tsí; gue (架) -> gue² / gué; hu (許) -> hu² / hú."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "habla de axedrez",
+      "source_H": "棋盤",
+      "source_M": "guy poa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "habla de axedrez",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui⁵ poa³",
+        "tai_lo_standard": "guî-poà",
+        "phonological_basis": "17c Dominican orthography conversion: guy (棋) -> gui⁵ / guî; poa (盤) -> poa³ / poà."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "habla de pino",
+      "source_H": "杉艚",
+      "source_M": "sam cho",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "habla de pino",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "saʔ⁷ tso³",
+        "tai_lo_standard": "sah-tsò",
+        "phonological_basis": "17c Dominican orthography conversion: sam (杉) -> saʔ⁷ / sah; cho (艚) -> tso³ / tsò."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "habla eng̃ cuando escribe, apunta las cosas en la audiencia",
+      "source_H": "時碑",
+      "source_M": "si pe : si pe",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "habla eng̃ cuando escribe, apunta las cosas en la audiencia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si⁵ pe⁵ si⁶ pe⁶",
+        "tai_lo_standard": "sî-pê-sī-pē",
+        "phonological_basis": "17c Dominican orthography conversion: si (時) -> si⁵ / sî; pe (碑) -> pe⁵ / pê; si (?) -> si⁶ / sī; pe (?) -> pe⁶ / pē."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "habla p̃a atauder",
+      "source_H": "壽板",
+      "source_M": "seu pan cua cha pang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T00 (無標號)",
+        "T00 (無標號)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "habla p[ara]a atauder",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p̃",
+            "expansion": "p̃"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "seu⁵ pan¹ kua¹ tsa² paŋ³",
+        "tai_lo_standard": "sêu-pan-kua-tsá-pàng",
+        "phonological_basis": "17c Dominican orthography conversion: seu (壽) -> seu⁵ / sêu; pan (板) -> pan¹ / pan; cua (?) -> kua¹ / kua; cha (?) -> tsa² / tsá; pang (?) -> paŋ³ / pàng."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "habla p̃ sin que de escalera p̃a la cama",
+      "source_H": "踏枋",
+      "source_M": "ta pang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "habla p̃ sin que de escalera p[ara]a la cama",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p̃",
+            "expansion": "p̃"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ta² paŋ³",
+        "tai_lo_standard": "tá-pàng",
+        "phonological_basis": "17c Dominican orthography conversion: ta (踏) -> ta² / tá; pang (枋) -> paŋ³ / pàng."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "habla pequeña con bolita p̃a contar",
+      "source_H": "算盤",
+      "source_M": "sing poa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "habla pequeña con bolita p[ara]a contar",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p̃",
+            "expansion": "p̃"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siŋ³ poa³",
+        "tai_lo_standard": "sìng-poà",
+        "phonological_basis": "17c Dominican orthography conversion: sing (算) -> siŋ³ / sìng; poa (盤) -> poa³ / poà."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "habla p̃ que sanchel cadera o acel pesueco [残]",
+      "source_H": "柴枷",
+      "source_M": "cha que",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "habla p̃ que sanchel cadera o acel pesueco",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰa³ ke⁵",
+        "tai_lo_standard": "tshà-kê",
+        "phonological_basis": "17c Dominican orthography conversion: cha (柴) -> tsʰa³ / tshà; que (枷) -> ke⁵ / kê."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "habla de bodegon, taverna",
+      "source_H": "酒飯",
+      "source_M": "chiu pun",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "habla de bodegon, taverna",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiu² pun⁵",
+        "tai_lo_standard": "tsiú-pûn",
+        "phonological_basis": "17c Dominican orthography conversion: chiu (酒) -> tsiu² / tsiú; pun (飯) -> pun⁵ / pûn."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "habla del braco",
+      "source_H": "手股",
+      "source_M": "chiu co",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "habla del braco",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiu² ko³",
+        "tai_lo_standard": "tsiú-kò",
+        "phonological_basis": "17c Dominican orthography conversion: chiu (手) -> tsiu² / tsiú; co (股) -> ko³ / kò."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "habla de marfil q llevan los mandarines, y mandauera al Rey",
+      "source_H": "牙笏",
+      "source_M": "ge hut",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "habla de marfil q llevan los mandarines, y mandauera al Rey",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ge³ hut⁷",
+        "tai_lo_standard": "gè-hut",
+        "phonological_basis": "17c Dominican orthography conversion: ge (牙) -> ge³ / gè; hut (笏) -> hut⁷ / hut."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "habla del pecho",
+      "source_H": "胷膈骨",
+      "source_M": "heng que cur",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T00 (無標號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "habla del pecho",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "heŋ⁵ ke¹ kur⁵",
+        "tai_lo_standard": "hêng-ke-kûr",
+        "phonological_basis": "17c Dominican orthography conversion: heng (胷) -> heŋ⁵ / hêng; que (膈) -> ke¹ / ke; cur (骨) -> kur⁵ / kûr."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "habla con albayalde p̃a escribir",
+      "source_H": "粉牌",
+      "source_M": "hun pay",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "habla con albayalde p[ara]a escribir",
+        "abbreviations_expanded": [
+          {
+            "abbr": "p̃",
+            "expansion": "p̃"
+          }
+        ],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hun⁵ pai⁵",
+        "tai_lo_standard": "hûn-pâi",
+        "phonological_basis": "17c Dominican orthography conversion: hun (粉) -> hun⁵ / hûn; pay (牌) -> pai⁵ / pâi."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "tablas grandes q escan(mas) de camas [残]",
+      "source_H": "大枋",
+      "source_M": "toa pang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tablas grandes q escan(mas) de camas",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toa⁵ paŋ³",
+        "tai_lo_standard": "toâ-pàng",
+        "phonological_basis": "17c Dominican orthography conversion: toa (大) -> toa⁵ / toâ; pang (枋) -> paŋ³ / pàng."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Tablado",
+      "source_H": "架",
+      "source_M": "gue",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tablado",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue²",
+        "tai_lo_standard": "gué",
+        "phonological_basis": "17c Dominican orthography conversion: gue (架) -> gue² / gué."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Tablao",
+      "source_H": "棚",
+      "source_M": "pe",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tablao",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe³",
+        "tai_lo_standard": "pè",
+        "phonological_basis": "17c Dominican orthography conversion: pe (棚) -> pe³ / pè."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "Tablado, hacerlo",
+      "source_H": "搭架",
+      "source_M": "ta gue",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tablado, hacerlo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ta² gue²",
+        "tai_lo_standard": "tá-gué",
+        "phonological_basis": "17c Dominican orthography conversion: ta (搭) -> ta² / tá; gue (架) -> gue² / gué."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "Tablado de comediantes",
+      "source_H": "戲棚",
+      "source_M": "hi pe",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tablado de comediantes",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi⁵ pe³",
+        "tai_lo_standard": "hî-pè",
+        "phonological_basis": "17c Dominican orthography conversion: hi (戲) -> hi⁵ / hî; pe (棚) -> pe³ / pè."
+      }
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1041,
+  "historical_folio": "",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1041/pdf_1041_300dpi.png",
+  "page_header": "ante (頁頂手寫淡字，僅可辨 ante)",
+  "page_footer_printed": "- 1003 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "tomar, arrebatar -",
+      "source_H": "侵 取",
+      "source_M": "chim chu.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar, arrebatar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsim¹ tsu¹",
+        "tai_lo_standard": "tsim-tsu",
+        "phonological_basis": "17c Dominican orthography conversion: chim (侵) -> tsim¹ / tsim; chu (取) -> tsu¹ / tsu."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "tomar arrebatar (外加橢圓圈)",
+      "source_H": "侵 占",
+      "source_M": "chim chiam.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar arrebatar (外加橢圓圈)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsim¹ tsiam³",
+        "tai_lo_standard": "tsim-tsiàm",
+        "phonological_basis": "17c Dominican orthography conversion: chim (侵) -> tsim¹ / tsim; chiam (占) -> tsiam³ / tsiàm."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "[空]",
+      "source_H": "唔 脉",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "tomar el pulso.",
+      "source_H": "省 脉",
+      "source_M": "ua me; may me.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar el pulso.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ua¹ me¹ mai² me¹",
+        "tai_lo_standard": "ua-me-mái-me",
+        "phonological_basis": "17c Dominican orthography conversion: ua (省) -> ua¹ / ua; me (脉) -> me¹ / me; may (?) -> mai² / mái; me (?) -> me¹ / me."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "tomolo y vulvempino.",
+      "source_H": "打 不 帶",
+      "source_M": "pa m tva.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomolo y vulvempino.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pa¹ mi³ tva¹",
+        "tai_lo_standard": "pa-mì-tva",
+        "phonological_basis": "17c Dominican orthography conversion: pa (打) -> pa¹ / pa; m (不) -> mi³ / mì; tva (帶) -> tva¹ / tva."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "tomar se las aues -",
+      "source_H": "相 踏",
+      "source_M": "sio ta.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar se las aues -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio¹ taʔ⁷",
+        "tai_lo_standard": "sio-tah",
+        "phonological_basis": "17c Dominican orthography conversion: sio (相) -> sio¹ / sio; ta (踏) -> taʔ⁷ / tah."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "tomar se los animales",
+      "source_H": "相 帶",
+      "source_M": "sio tva.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar se los animales",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio¹ tva³",
+        "tai_lo_standard": "sio-tvà",
+        "phonological_basis": "17c Dominican orthography conversion: sio (相) -> sio¹ / sio; tva (帶) -> tva³ / tvà."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "tomar de memoria -",
+      "source_H": "念 帶",
+      "source_M": "liam tva.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar de memoria -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "liam² tva³",
+        "tai_lo_standard": "liám-tvà",
+        "phonological_basis": "17c Dominican orthography conversion: liam (念) -> liam² / liám; tva (帶) -> tva³ / tvà."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "tomar de memoria (外加橢圓圈)",
+      "source_H": "做 記",
+      "source_M": "cho quy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar de memoria (外加橢圓圈)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso² ki³",
+        "tai_lo_standard": "tsó-kì",
+        "phonological_basis": "17c Dominican orthography conversion: cho (做) -> tso² / tsó; quy (記) -> ki³ / kì."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "tomar apretando la mano.",
+      "source_H": "执 帶 處",
+      "source_M": "quim tva te.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar apretando la mano.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kim² tva³ tʰe³",
+        "tai_lo_standard": "kím-tvà-thè",
+        "phonological_basis": "17c Dominican orthography conversion: quim (执) -> kim² / kím; tva (帶) -> tva³ / tvà; te (處) -> tʰe³ / thè."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "tomar medicina pel fuego -",
+      "source_H": "降 火",
+      "source_M": "cang hue.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar medicina pel fuego -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kaŋ³ hue²",
+        "tai_lo_standard": "kàng-hué",
+        "phonological_basis": "17c Dominican orthography conversion: cang (降) -> kaŋ³ / kàng; hue (火) -> hue² / hué."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "tomar residencia -",
+      "source_H": "考 察",
+      "source_M": "co chau.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar residencia -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko¹ tsau¹",
+        "tai_lo_standard": "ko-tsau",
+        "phonological_basis": "17c Dominican orthography conversion: co (考) -> ko¹ / ko; chau (察) -> tsau¹ / tsau."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "tomar residencia. (外加橢圓圈)",
+      "source_H": "查 判",
+      "source_M": "che pau.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar residencia. (外加橢圓圈)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tse² pʰau¹",
+        "tai_lo_standard": "tsé-phau",
+        "phonological_basis": "17c Dominican orthography conversion: che (查) -> tse² / tsé; pau (判) -> pʰau¹ / phau."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "tomar Reyno.",
+      "source_H": "攻 劫",
+      "source_M": "cong quiap.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar Reyno.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ¹ kiap⁷",
+        "tai_lo_standard": "kong-kiap",
+        "phonological_basis": "17c Dominican orthography conversion: cong (攻) -> kɔŋ¹ / kong; quiap (劫) -> kiap⁷ / kiap."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "tomarse lecin -",
+      "source_H": "生 銑",
+      "source_M": "se sien.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomarse lecin -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "se¹ sien¹",
+        "tai_lo_standard": "se-sien",
+        "phonological_basis": "17c Dominican orthography conversion: se (生) -> se¹ / se; sien (銑) -> sien¹ / sien."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "tomar el fresco - (外加橢圓圈)",
+      "source_H": "乘 涼",
+      "source_M": "seng liang. (外加橢圓圈)",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar el fresco - (外加橢圓圈)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "seŋ² liaŋ³",
+        "tai_lo_standard": "séng-liàng",
+        "phonological_basis": "17c Dominican orthography conversion: seng (乘) -> seŋ² / séng; liang (涼) -> liaŋ³ / liàng."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "tomar auello spesa -",
+      "source_H": "提 動",
+      "source_M": "se tang.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar auello spesa -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "se¹ taŋ²",
+        "tai_lo_standard": "se-táng",
+        "phonological_basis": "17c Dominican orthography conversion: se (提) -> se¹ / se; tang (動) -> taŋ² / táng."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "tomar a su cargo -",
+      "source_H": "是 伊 事",
+      "source_M": "si y su.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar a su cargo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si² i² su¹",
+        "tai_lo_standard": "sí-í-su",
+        "phonological_basis": "17c Dominican orthography conversion: si (是) -> si² / sí; y (伊) -> i² / í; su (事) -> su¹ / su."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "tomar a mi cargo.",
+      "source_H": "是 我 事",
+      "source_M": "si gua su.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar a mi cargo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si¹ gua² su²",
+        "tai_lo_standard": "si-guá-sú",
+        "phonological_basis": "17c Dominican orthography conversion: si (是) -> si¹ / si; gua (我) -> gua² / guá; su (事) -> su² / sú."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "tomar a mi cargo. (外加橢圓圈)",
+      "source_H": "是 我 事 那",
+      "source_M": "si gua tay no.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar a mi cargo. (外加橢圓圈)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si¹ gua² tai² no²",
+        "tai_lo_standard": "si-guá-tái-nó",
+        "phonological_basis": "17c Dominican orthography conversion: si (是) -> si¹ / si; gua (我) -> gua² / guá; tay (事) -> tai² / tái; no (那) -> no² / nó."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "tomar senal.",
+      "source_H": "提 定",
+      "source_M": "se quia.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar senal.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "se¹ kia¹",
+        "tai_lo_standard": "se-kia",
+        "phonological_basis": "17c Dominican orthography conversion: se (提) -> se¹ / se; quia (定) -> kia¹ / kia."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "tomar y llevarlo a ellas un de bajo el manto -",
+      "source_H": "提 進 去",
+      "source_M": "se py qui.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tomar y llevarlo a ellas un de bajo el manto -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "se¹ pi¹ kʰi³",
+        "tai_lo_standard": "se-pi-khì",
+        "phonological_basis": "17c Dominican orthography conversion: se (提) -> se¹ / se; py (進) -> pi¹ / pi; qui (去) -> kʰi³ / khì."
+      }
+    }
+  ]
+}

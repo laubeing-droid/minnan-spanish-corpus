@@ -1,0 +1,419 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 950,
+  "historical_folio": "926 (鉛筆右上角)",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0950/pdf_0950_300dpi.png",
+  "page_header": "ante. / A. (手寫頁眉)",
+  "page_footer_printed": "- 912 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Salsa.",
+      "source_H": "米 醬",
+      "source_M": "by chio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salsa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bi¹ tsio³",
+        "tai_lo_standard": "bi-tsiò",
+        "phonological_basis": "17c Dominican orthography conversion: by (米) -> bi¹ / bi; chio (醬) -> tsio³ / tsiò."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Salsa de frixoles -",
+      "source_H": "塩 糟 醬 醋",
+      "source_M": "iam chau chio chou",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salsa de frixoles -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iam⁵ tsau³ tsio³ tsʰou³",
+        "tai_lo_standard": "iâm-tsàu-tsiò-tshòu",
+        "phonological_basis": "17c Dominican orthography conversion: iam (塩) -> iam⁵ / iâm; chau (糟) -> tsau³ / tsàu; chio (醬) -> tsio³ / tsiò; chou (醋) -> tsʰou³ / tshòu."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Saltar -",
+      "source_H": "躍",
+      "source_M": "tio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Saltar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tio⁵",
+        "tai_lo_standard": "tiô",
+        "phonological_basis": "17c Dominican orthography conversion: tio (躍) -> tio⁵ / tiô."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "saltar encima -",
+      "source_H": "踰",
+      "source_M": "pva",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "saltar encima -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pva¹",
+        "tai_lo_standard": "pva",
+        "phonological_basis": "17c Dominican orthography conversion: pva (踰) -> pva¹ / pva."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "saltar hacia arriba lo que hierbe.",
+      "source_H": "沸",
+      "source_M": "pui cun",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "saltar hacia arriba lo que hierbe.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pui³ kun²",
+        "tai_lo_standard": "puì-kún",
+        "phonological_basis": "17c Dominican orthography conversion: pui (沸) -> pui³ / puì; cun (?) -> kun² / kún."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "saltar hacia arriba el pescado -",
+      "source_H": "跳",
+      "source_M": "tiau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "saltar hacia arriba el pescado -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiau³",
+        "tai_lo_standard": "tiàu",
+        "phonological_basis": "17c Dominican orthography conversion: tiau (跳) -> tiau³ / tiàu."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "saltar de placer -",
+      "source_H": "蹦",
+      "source_M": "iong iag",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "saltar de placer -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ioŋ² iak⁷",
+        "tai_lo_standard": "ióng-iak",
+        "phonological_basis": "17c Dominican orthography conversion: iong (蹦) -> ioŋ² / ióng; iag (?) -> iak⁷ / iak."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Saltar [疑:sauzriba/朝上] como el perro:",
+      "source_H": "[疑:跳/罩] 上 椅",
+      "source_M": "ta chio y",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Saltar como el perro:",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ta³ tsio³ i¹",
+        "tai_lo_standard": "tà-tsiò-i",
+        "phonological_basis": "17c Dominican orthography conversion: ta (上) -> ta³ / tà; chio (椅) -> tsio³ / tsiò; y (?) -> i¹ / i."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Saltar asti lla -",
+      "source_H": "[疑:湓/溢]",
+      "source_M": "pun",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Saltar asti lla -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pun¹",
+        "tai_lo_standard": "pun",
+        "phonological_basis": "17c Dominican orthography conversion: pun (?) -> pun¹ / pun."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Saltar hacia arriba -",
+      "source_H": "霸 上 去",
+      "source_M": "pa chio cu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Saltar hacia arriba -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pa² tsio³ kʰu⁵",
+        "tai_lo_standard": "pá-tsiò-khû",
+        "phonological_basis": "17c Dominican orthography conversion: pa (霸) -> pa² / pá; chio (上) -> tsio³ / tsiò; cu (去) -> kʰu⁵ / khû."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Saltar la pared -",
+      "source_H": "踰 墙",
+      "source_M": "poa chio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Saltar la pared -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "poa¹ tsio⁵",
+        "tai_lo_standard": "poa-tsiô",
+        "phonological_basis": "17c Dominican orthography conversion: poa (踰) -> poa¹ / poa; chio (墙) -> tsio⁵ / tsiô."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "(Saltar la pared -)",
+      "source_H": "跳 過 墙",
+      "source_M": "tiau cue chio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(Saltar la pared -)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiau³ kue¹ tsio⁵",
+        "tai_lo_standard": "tiàu-kue-tsiô",
+        "phonological_basis": "17c Dominican orthography conversion: tiau (跳) -> tiau³ / tiàu; cue (過) -> kue¹ / kue; chio (墙) -> tsio⁵ / tsiô."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Saltar el agua hirbiendo.",
+      "source_H": "沸 出 来",
+      "source_M": "pui chur lay",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Saltar el agua hirbiendo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pui³ tsʰur¹ lai⁵",
+        "tai_lo_standard": "puì-tshur-lâi",
+        "phonological_basis": "17c Dominican orthography conversion: pui (沸) -> pui³ / puì; chur (出) -> tsʰur¹ / tshur; lay (来) -> lai⁵ / lâi."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Saltar en el pozo -",
+      "source_H": "跳 落 水",
+      "source_M": "tiau lo chui",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Saltar en el pozo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tiau³ lo¹ tsui³",
+        "tai_lo_standard": "tiàu-lo-tsuì",
+        "phonological_basis": "17c Dominican orthography conversion: tiau (跳) -> tiau³ / tiàu; lo (落) -> lo¹ / lo; chui (水) -> tsui³ / tsuì."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "(Saltar de placer)",
+      "source_H": "蹦 躍",
+      "source_M": "iong iag",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(Saltar de placer)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ioŋ² iak⁷",
+        "tai_lo_standard": "ióng-iak",
+        "phonological_basis": "17c Dominican orthography conversion: iong (蹦) -> ioŋ² / ióng; iag (躍) -> iak⁷ / iak."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Salteador -",
+      "source_H": "劫 賊",
+      "source_M": "quiap char",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salteador -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiap⁷ tsar³",
+        "tai_lo_standard": "kiap-tsàr",
+        "phonological_basis": "17c Dominican orthography conversion: quiap (劫) -> kiap⁷ / kiap; char (賊) -> tsar³ / tsàr."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Saltar, ides -",
+      "source_H": "劫 人",
+      "source_M": "quiap lang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Saltar, ides -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiap⁷ laŋ⁵",
+        "tai_lo_standard": "kiap-lâng",
+        "phonological_basis": "17c Dominican orthography conversion: quiap (劫) -> kiap⁷ / kiap; lang (人) -> laŋ⁵ / lâng."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "(Salteador - saltear)",
+      "source_H": "剥 民",
+      "source_M": "pag bin",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(Salteador - saltear)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pak⁷ bin¹",
+        "tai_lo_standard": "pak-bin",
+        "phonological_basis": "17c Dominican orthography conversion: pag (剥) -> pak⁷ / pak; bin (民) -> bin¹ / bin."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Salteador, desollador.",
+      "source_H": "[疑:民/皮]",
+      "source_M": "pag bin",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salteador, desollador.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pak⁷ bin¹",
+        "tai_lo_standard": "pak-bin",
+        "phonological_basis": "17c Dominican orthography conversion: pag (?) -> pak⁷ / pak; bin (?) -> bin¹ / bin."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Salud -",
+      "source_H": "康 寧",
+      "source_M": "cong lêng",
+      "source_R": "cong hay",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salud -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ² leŋ³",
+        "tai_lo_standard": "kóng-lèng",
+        "phonological_basis": "17c Dominican orthography conversion: cong (康) -> kɔŋ² / kóng; lêng (寧) -> leŋ³ / lèng."
+      }
+    }
+  ]
+}

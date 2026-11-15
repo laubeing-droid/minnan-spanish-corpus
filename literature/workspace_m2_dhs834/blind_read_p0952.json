@@ -1,0 +1,343 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 952,
+  "historical_folio": "457 (右上角手写)",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0952/pdf_0952_300dpi.png",
+  "page_header": "大字 S (栏首字母)；顶部中偏右 手写 ante.",
+  "page_footer_printed": "- 914 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 16,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Sargento mayor (mayor 圈改)；下重写 Sargento mayor-",
+      "source_H": "把 總",
+      "source_M": "pe chong",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sargento mayor (mayor 圈改)；下重写 Sargento mayor-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe¹ tsɔŋ²",
+        "tai_lo_standard": "pe-tsóng",
+        "phonological_basis": "17c Dominican orthography conversion: pe (把) -> pe¹ / pe; chong (總) -> tsɔŋ² / tsóng."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "[续] (同上 Sargento mayor 第二行)",
+      "source_H": "遊 擊",
+      "source_M": "iu queh",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(同上 Sargento mayor 第二行)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu⁵ keʔ⁷",
+        "tai_lo_standard": "iû-keh",
+        "phonological_basis": "17c Dominican orthography conversion: iu (遊) -> iu⁵ / iû; queh (擊) -> keʔ⁷ / keh."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Sarmiento~",
+      "source_H": "藤",
+      "source_M": "tin ; cun bu queerui [残]",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sarmiento~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tin⁵ kun² bu¹ keerui¹",
+        "tai_lo_standard": "tîn-kún-bu-keerui",
+        "phonological_basis": "17c Dominican orthography conversion: tin (藤) -> tin⁵ / tîn; cun (?) -> kun² / kún; bu (?) -> bu¹ / bu; queerui (?) -> keerui¹ / keerui."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Sarna~",
+      "source_H": "疥",
+      "source_M": "guey",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sarna~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guei¹",
+        "tai_lo_standard": "guei",
+        "phonological_basis": "17c Dominican orthography conversion: guey (疥) -> guei¹ / guei."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "(Sarna-) 圈出",
+      "source_H": "疥 癬",
+      "source_M": "guei sien",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(Sarna-) 圈出",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guei¹ sien²",
+        "tai_lo_standard": "guei-sién",
+        "phonological_basis": "17c Dominican orthography conversion: guei (疥) -> guei¹ / guei; sien (癬) -> sien² / sién."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Sarna gruesa, Haga",
+      "source_H": "疥 瘡",
+      "source_M": "guei chug",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sarna gruesa, Haga",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guei² tsʰuk⁷",
+        "tai_lo_standard": "guéi-tshuk",
+        "phonological_basis": "17c Dominican orthography conversion: guei (疥) -> guei² / guéi; chug (瘡) -> tsʰuk⁷ / tshuk."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Sarpullid~",
+      "source_H": "泖 [疑:泖/㾖]",
+      "source_M": "pui ya",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sarpullid~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pui¹ ia²",
+        "tai_lo_standard": "pui-iá",
+        "phonological_basis": "17c Dominican orthography conversion: pui (泖) -> pui¹ / pui; ya (?) -> ia² / iá."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "(Sarpullid-) 圈出",
+      "source_H": "泖 仔 [疑:泖/㾖]",
+      "source_M": "pui gia (整詞圈出)",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(Sarpullid-) 圈出",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pui¹ gia²",
+        "tai_lo_standard": "pui-giá",
+        "phonological_basis": "17c Dominican orthography conversion: pui (泖) -> pui¹ / pui; gia (仔) -> gia² / giá."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Sartas, y numeral~",
+      "source_H": "串",
+      "source_M": "chui",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sartas, y numeral~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui¹",
+        "tai_lo_standard": "tsui",
+        "phonological_basis": "17c Dominican orthography conversion: chui (串) -> tsui¹ / tsui."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Sartas como de rosario.",
+      "source_H": "串 成 串",
+      "source_M": "chui chia chui",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)",
+        "T99 (污損難辨)",
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sartas como de rosario.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui¹ tsia² tsui¹",
+        "tai_lo_standard": "tsui-tsiá-tsui",
+        "phonological_basis": "17c Dominican orthography conversion: chui (串) -> tsui¹ / tsui; chia (成) -> tsia² / tsiá; chui (串) -> tsui¹ / tsui."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Sastre~",
+      "source_H": "做 衣裳 人",
+      "source_M": "cho von chio lang",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sastre~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso² von² tsio⁵ laŋ⁵",
+        "tai_lo_standard": "tsó-vón-tsiô-lâng",
+        "phonological_basis": "17c Dominican orthography conversion: cho (做) -> tso² / tsó; von (衣) -> von² / vón; chio (裳) -> tsio⁵ / tsiô; lang (人) -> laŋ⁵ / lâng."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Satisfacer, satisfecho.",
+      "source_H": "優",
+      "source_M": "iu [残] chiute [残] tiene lof amenester bona uita [疑:同欄西班牙注]",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Satisfacer, satisfecho.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iu⁵ tsiute¹ tiene² lof¹ amenester¹ bona¹ uita¹",
+        "tai_lo_standard": "iû-tsiute-tiéne-lof-amenester-bona-uita",
+        "phonological_basis": "17c Dominican orthography conversion: iu (優) -> iu⁵ / iû; chiute (?) -> tsiute¹ / tsiute; tiene (?) -> tiene² / tiéne; lof (?) -> lof¹ / lof; amenester (?) -> amenester¹ / amenester; bona (?) -> bona¹ / bona; uita (?) -> uita¹ / uita."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "(Satisfacer satisfecho-) 圈出",
+      "source_H": "休",
+      "source_M": "hiu hiu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(Satisfacer satisfecho-) 圈出",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hiu⁵ hiu⁶",
+        "tai_lo_standard": "hiû-hiū",
+        "phonological_basis": "17c Dominican orthography conversion: hiu (休) -> hiu⁵ / hiû; hiu (?) -> hiu⁶ / hiū."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Satisfecho, contento.",
+      "source_H": "足",
+      "source_M": "chiog ; sim chiog chiong sim",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)",
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Satisfecho, contento.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiok⁷ sim² tsiok⁷ tsioŋ² sim¹",
+        "tai_lo_standard": "tsiok-sím-tsiok-tsióng-sim",
+        "phonological_basis": "17c Dominican orthography conversion: chiog (足) -> tsiok⁷ / tsiok; sim (?) -> sim² / sím; chiog (?) -> tsiok⁷ / tsiok; chiong (?) -> tsioŋ² / tsióng; sim (?) -> sim¹ / sim."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "(Satisfecho harto-) 圈出",
+      "source_H": "慊",
+      "source_M": "guiam (圈出)",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(Satisfecho harto-) 圈出",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guiam¹",
+        "tai_lo_standard": "guiam",
+        "phonological_basis": "17c Dominican orthography conversion: guiam (慊) -> guiam¹ / guiam."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "(Satisfecho harto-) 圈出 (第二行)",
+      "source_H": "快 慊",
+      "source_M": "cuai guiam (圈出)",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(Satisfecho harto-) 圈出 (第二行)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰuai⁵ guiam¹",
+        "tai_lo_standard": "khuâi-guiam",
+        "phonological_basis": "17c Dominican orthography conversion: cuai (快) -> kʰuai⁵ / khuâi; guiam (慊) -> guiam¹ / guiam."
+      }
+    }
+  ]
+}

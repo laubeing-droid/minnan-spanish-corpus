@@ -1,0 +1,396 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1054,
+  "historical_folio": "[疑:108/508]（右上角手写页码，首位字迹污损）",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1054/pdf_1054_300dpi.png",
+  "page_header": "[残] 手写淡墨字迹，似 \"ante.\"，污损难辨",
+  "page_footer_printed": "- 1016 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Fragoso, tumulo. 9. cosa fusrien~",
+      "source_H": "諠",
+      "source_M": "quan xiang",
+      "source_R": "loan lau.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fragoso, tumulo. 9. cosa fusrien~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kan¹ dziaŋ¹",
+        "tai_lo_standard": "kan-jiang",
+        "phonological_basis": "17c Dominican orthography conversion: quan (諠) -> kan¹ / kan; xiang (?) -> dziaŋ¹ / jiang."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Fragadero.",
+      "source_H": "管",
+      "source_M": "cuy an cuy",
+      "source_R": "pong pong co.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fragadero.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kui² an⁶ kui⁶",
+        "tai_lo_standard": "kuí-ān-kuī",
+        "phonological_basis": "17c Dominican orthography conversion: cuy (管) -> kui² / kuí; an (?) -> an⁶ / ān; cuy (?) -> kui⁶ / kuī."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "[空]",
+      "source_H": "咽",
+      "source_M": "ier.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ier²",
+        "tai_lo_standard": "iér",
+        "phonological_basis": "17c Dominican orthography conversion: ier (咽) -> ier² / iér."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Fragadero~",
+      "source_H": "項 管",
+      "source_M": "am cui",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fragadero~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "am² kui¹",
+        "tai_lo_standard": "ám-kui",
+        "phonological_basis": "17c Dominican orthography conversion: am (項) -> am² / ám; cui (管) -> kui¹ / kui."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Fragadero~",
+      "source_H": "毛 管 開",
+      "source_M": "mis cui cui.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fragadero~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mis¹ kui² kʰui²",
+        "tai_lo_standard": "mis-kuí-khuí",
+        "phonological_basis": "17c Dominican orthography conversion: mis (毛) -> mis¹ / mis; cui (管) -> kui² / kuí; cui (開) -> kʰui² / khuí."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Fragastro poro sdl cuerpo~",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fragastro poro sdl cuerpo~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Fragar~ engullir.",
+      "source_H": "咽",
+      "source_M": "ier chin liau",
+      "source_R": "Hoy.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fragar~ engullir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ier² tsin⁶ liau²",
+        "tai_lo_standard": "iér-tsīn-liáu",
+        "phonological_basis": "17c Dominican orthography conversion: ier (咽) -> ier² / iér; chin (?) -> tsin⁶ / tsīn; liau (?) -> liau² / liáu."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Fragar t.",
+      "source_H": "吞 落 去",
+      "source_M": "funlo cui.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fragar t.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "funlo¹ kui¹",
+        "tai_lo_standard": "funlo-kui",
+        "phonological_basis": "17c Dominican orthography conversion: funlo (吞) -> funlo¹ / funlo; cui (落) -> kui¹ / kui."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Fragar engullir~",
+      "source_H": "吞",
+      "source_M": "fun",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fragar engullir~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fun¹",
+        "tai_lo_standard": "fun",
+        "phonological_basis": "17c Dominican orthography conversion: fun (吞) -> fun¹ / fun."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Fragar engullir",
+      "source_H": "鋪 毀",
+      "source_M": "poinchuan golo iey.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fragar engullir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "poinchuan¹ golo¹ iei¹",
+        "tai_lo_standard": "poinchuan-golo-iei",
+        "phonological_basis": "17c Dominican orthography conversion: poinchuan (鋪) -> poinchuan¹ / poinchuan; golo (毀) -> golo¹ / golo; iey (?) -> iei¹ / iei."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Fragar engullir~",
+      "source_H": "咽 盡 了",
+      "source_M": "ier chin liau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fragar engullir~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ier² tsin² liau²",
+        "tai_lo_standard": "iér-tsín-liáu",
+        "phonological_basis": "17c Dominican orthography conversion: ier (咽) -> ier² / iér; chin (盡) -> tsin² / tsín; liau (了) -> liau² / liáu."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Fragon gotoso~",
+      "source_H": "濫 食",
+      "source_M": "lam chia",
+      "source_R": "joi chua.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fragon gotoso~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lam² tsia¹",
+        "tai_lo_standard": "lám-tsia",
+        "phonological_basis": "17c Dominican orthography conversion: lam (濫) -> lam² / lám; chia (食) -> tsia¹ / tsia."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Fragon siempre ando co mi ento~",
+      "source_H": "淸 口 食",
+      "source_M": "chin chui",
+      "source_R": "chia.",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fragon siempre ando co mi ento~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin² tsui²",
+        "tai_lo_standard": "tsín-tsuí",
+        "phonological_basis": "17c Dominican orthography conversion: chin (淸) -> tsin² / tsín; chui (口) -> tsui² / tsuí."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Framposso, malpagador~",
+      "source_H": "拖 延",
+      "source_M": "toa hui: toa giam: toa sian bue:",
+      "source_R": "toa iun: toa cau que: hang chim cau giap:",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Framposso, malpagador~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toa¹ hui¹ toa¹ giam¹ toa¹ sian¹ bue¹",
+        "tai_lo_standard": "toa-hui-toa-giam-toa-sian-bue",
+        "phonological_basis": "17c Dominican orthography conversion: toa (拖) -> toa¹ / toa; hui (延) -> hui¹ / hui; toa (?) -> toa¹ / toa; giam (?) -> giam¹ / giam; toa (?) -> toa¹ / toa; sian (?) -> sian¹ / sian; bue (?) -> bue¹ / bue."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Framposso qn paga prima pal mi cofa~",
+      "source_H": "拖 無 利",
+      "source_M": "toa bo lay.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Framposso qn paga prima pal mi cofa~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toa¹ bo⁵ lai¹",
+        "tai_lo_standard": "toa-bô-lai",
+        "phonological_basis": "17c Dominican orthography conversion: toa (拖) -> toa¹ / toa; bo (無) -> bo⁵ / bô; lay (利) -> lai¹ / lai."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Framposso malpagador~",
+      "source_H": "拖 質",
+      "source_M": "toa hu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Framposso malpagador~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toa¹ hu²",
+        "tai_lo_standard": "toa-hú",
+        "phonological_basis": "17c Dominican orthography conversion: toa (拖) -> toa¹ / toa; hu (質) -> hu² / hú."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Framposso malpagador~",
+      "source_H": "拖 欠",
+      "source_M": "toa guiam",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Framposso malpagador~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toa¹ guiam²",
+        "tai_lo_standard": "toa-guiám",
+        "phonological_basis": "17c Dominican orthography conversion: toa (拖) -> toa¹ / toa; guiam (欠) -> guiam² / guiám."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Framposso malpagador~",
+      "source_H": "拖 数 尾",
+      "source_M": "toa steu buo",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Framposso malpagador~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toa¹ steu¹ buo¹",
+        "tai_lo_standard": "toa-steu-buo",
+        "phonological_basis": "17c Dominican orthography conversion: toa (拖) -> toa¹ / toa; steu (数) -> steu¹ / steu; buo (尾) -> buo¹ / buo."
+      }
+    }
+  ]
+}

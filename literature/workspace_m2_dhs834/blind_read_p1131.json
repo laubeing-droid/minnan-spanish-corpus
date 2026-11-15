@@ -1,0 +1,465 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1131,
+  "historical_folio": "547",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1131/pdf_1131_300dpi.png",
+  "page_header": "",
+  "page_footer_printed": "- 1093 -",
+  "page_footer_handwritten": "547 (右上角手写编号)",
+  "total_positions_recorded": 22,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "inquietando los trabaxos el cuerpo -",
+      "source_H": "搅 擾",
+      "source_M": "guiàu xiaù",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "inquietando los trabaxos el cuerpo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guiau¹ dziau¹",
+        "tai_lo_standard": "guiau-jiau",
+        "phonological_basis": "17c Dominican orthography conversion: guiàu (搅) -> guiau¹ / guiau; xiaù (擾) -> dziau¹ / jiau."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "[残]",
+      "source_H": "寢食不安",
+      "source_M": "chin sit pur an",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin² sit⁸ pur³ an¹",
+        "tai_lo_standard": "tsín-si̍t-pùr-an",
+        "phonological_basis": "17c Dominican orthography conversion: chin (寢) -> tsin² / tsín; sit (食) -> sit⁸ / si̍t; pur (不) -> pur³ / pùr; an (安) -> an¹ / an."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Ynquirir -",
+      "source_H": "佐 人",
+      "source_M": "cho lang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynquirir -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso³ laŋ¹",
+        "tai_lo_standard": "tsò-lang",
+        "phonological_basis": "17c Dominican orthography conversion: cho (佐) -> tso³ / tsò; lang (人) -> laŋ¹ / lang."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "[空]",
+      "source_H": "錯 冐",
+      "source_M": "ho mo",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ho³ mo³",
+        "tai_lo_standard": "hò-mò",
+        "phonological_basis": "17c Dominican orthography conversion: ho (錯) -> ho³ / hò; mo (冐) -> mo³ / mò."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Ynquirir: preguntar. [残]",
+      "source_H": "審 打",
+      "source_M": "sim char",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynquirir: preguntar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sim² tsar⁵",
+        "tai_lo_standard": "sím-tsâr",
+        "phonological_basis": "17c Dominican orthography conversion: sim (審) -> sim² / sím; char (打) -> tsar⁵ / tsâr."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "de secreto inquirir.",
+      "source_H": "打",
+      "source_M": "fa: fa teng",
+      "source_R": "tam fia. idz.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "de secreto inquirir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fa³ fa³ teŋ¹",
+        "tai_lo_standard": "fà-fà-teng",
+        "phonological_basis": "17c Dominican orthography conversion: fa (打) -> fa³ / fà; fa (?) -> fa³ / fà; teng (?) -> teŋ¹ / teng."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Ynquirir: preguntar -",
+      "source_H": "訪",
+      "source_M": "hong giu: hong can",
+      "source_R": "kong sim. buyan: kong chue.",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynquirir: preguntar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ² giu¹ hɔŋ³ kan¹",
+        "tai_lo_standard": "hóng-giu-hòng-kan",
+        "phonological_basis": "17c Dominican orthography conversion: hong (訪) -> hɔŋ² / hóng; giu (?) -> giu¹ / giu; hong (?) -> hɔŋ³ / hòng; can (?) -> kan¹ / kan."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Ynquirir curiosa mente y persequir.",
+      "source_H": "格",
+      "source_M": "gueg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynquirir curiosa mente y persequir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guek⁷",
+        "tai_lo_standard": "guek",
+        "phonological_basis": "17c Dominican orthography conversion: gueg (格) -> guek⁷ / guek."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Ynquirir.",
+      "source_H": "訊 察",
+      "source_M": "gui char",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynquirir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui³ tsar⁵",
+        "tai_lo_standard": "guì-tsâr",
+        "phonological_basis": "17c Dominican orthography conversion: gui (訊) -> gui³ / guì; char (察) -> tsar⁵ / tsâr."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Ynquirir -",
+      "source_H": "追 究",
+      "source_M": "tui giu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynquirir -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tui¹ giu³",
+        "tai_lo_standard": "tui-giù",
+        "phonological_basis": "17c Dominican orthography conversion: tui (追) -> tui¹ / tui; giu (究) -> giu³ / giù."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Ynquirir",
+      "source_H": "審 奩",
+      "source_M": "sim sit",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynquirir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sim² sit⁷",
+        "tai_lo_standard": "sím-sit",
+        "phonological_basis": "17c Dominican orthography conversion: sim (審) -> sim² / sím; sit (奩) -> sit⁷ / sit."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Ynquirir",
+      "source_H": "審 問",
+      "source_M": "sim mui preguntar.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynquirir",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sim² mui² preguntar¹",
+        "tai_lo_standard": "sím-muí-preguntar",
+        "phonological_basis": "17c Dominican orthography conversion: sim (審) -> sim² / sím; mui (問) -> mui² / muí; preguntar (?) -> preguntar¹ / preguntar."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Ynquirir, preguntar -",
+      "source_H": "探 听",
+      "source_M": "tam fia abrigur so.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynquirir, preguntar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tam³ fia³ abrigur¹ so¹",
+        "tai_lo_standard": "tàm-fià-abrigur-so",
+        "phonological_basis": "17c Dominican orthography conversion: tam (探) -> tam³ / tàm; fia (听) -> fia³ / fià; abrigur (?) -> abrigur¹ / abrigur; so (?) -> so¹ / so."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Ynquirir -",
+      "source_H": "採 訪",
+      "source_M": "chai hong.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynquirir -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsai¹ hɔŋ²",
+        "tai_lo_standard": "tsai-hóng",
+        "phonological_basis": "17c Dominican orthography conversion: chai (採) -> tsai¹ / tsai; hong (訪) -> hɔŋ² / hóng."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Ynquirir.",
+      "source_H": "訪 求",
+      "source_M": "hong giu.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynquirir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ² giu¹",
+        "tai_lo_standard": "hóng-giu",
+        "phonological_basis": "17c Dominican orthography conversion: hong (訪) -> hɔŋ² / hóng; giu (求) -> giu¹ / giu."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Ynquirir de secretos -",
+      "source_H": "徵 訪",
+      "source_M": "by hong.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynquirir de secretos -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bi¹ hɔŋ²",
+        "tai_lo_standard": "bi-hóng",
+        "phonological_basis": "17c Dominican orthography conversion: by (徵) -> bi¹ / bi; hong (訪) -> hɔŋ² / hóng."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Ynquirir de secretos -",
+      "source_H": "採 訪",
+      "source_M": "chai hong.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynquirir de secretos -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsai¹ hɔŋ²",
+        "tai_lo_standard": "tsai-hóng",
+        "phonological_basis": "17c Dominican orthography conversion: chai (採) -> tsai¹ / tsai; hong (訪) -> hɔŋ² / hóng."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Ynquirir de secretos.",
+      "source_H": "打 探",
+      "source_M": "fa tam.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynquirir de secretos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fa³ tam³",
+        "tai_lo_standard": "fà-tàm",
+        "phonological_basis": "17c Dominican orthography conversion: fa (打) -> fa³ / fà; tam (探) -> tam³ / tàm."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Ynquirir de secretos -",
+      "source_H": "探 尋",
+      "source_M": "tam chue.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynquirir de secretos -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tam³ tsue³",
+        "tai_lo_standard": "tàm-tsuè",
+        "phonological_basis": "17c Dominican orthography conversion: tam (探) -> tam³ / tàm; chue (尋) -> tsue³ / tsuè."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Ynquirir, [por manera] de [residen]cia -",
+      "source_H": "考 察",
+      "source_M": "co char",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynquirir, de cia -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko² tsar⁵",
+        "tai_lo_standard": "kó-tsâr",
+        "phonological_basis": "17c Dominican orthography conversion: co (考) -> ko² / kó; char (察) -> tsar⁵ / tsâr."
+      }
+    },
+    {
+      "position": 21,
+      "source_L": "Ynquirir buscando -",
+      "source_H": "訪 尋",
+      "source_M": "hong sim: hong chue",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ynquirir buscando -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ² sim⁵ hɔŋ² tsue³",
+        "tai_lo_standard": "hóng-sîm-hóng-tsuè",
+        "phonological_basis": "17c Dominican orthography conversion: hong (訪) -> hɔŋ² / hóng; sim (尋) -> sim⁵ / sîm; hong (?) -> hɔŋ² / hóng; chue (?) -> tsue³ / tsuè."
+      }
+    },
+    {
+      "position": 22,
+      "source_L": "+ Ynquirir de secretos.",
+      "source_H": "打 听",
+      "source_M": "fa teng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "+ Ynquirir de secretos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fa³ teŋ³",
+        "tai_lo_standard": "fà-tèng",
+        "phonological_basis": "17c Dominican orthography conversion: fa (打) -> fa³ / fà; teng (听) -> teŋ³ / tèng."
+      }
+    }
+  ]
+}

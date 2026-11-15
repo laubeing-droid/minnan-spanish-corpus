@@ -1,0 +1,346 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 921,
+  "historical_folio": "",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0921/pdf_0921_300dpi.png",
+  "page_header": "Qd.（左上手寫墨跡）；1°（右上角手寫）",
+  "page_footer_printed": "- 883 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "ante.",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ante.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "rico, hombre noble",
+      "source_H": "富 戶",
+      "source_M": "hû hôu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rico, hombre noble",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu³ hou³",
+        "tai_lo_standard": "hù-hòu",
+        "phonological_basis": "17c Dominican orthography conversion: hû (富) -> hu³ / hù; hôu (戶) -> hou³ / hòu."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "ricos（原稿圈選）",
+      "source_H": "富 [疑:當/蓄]",
+      "source_M": "hû hiôg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "ricos（原稿圈選）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu³ hiok⁷",
+        "tai_lo_standard": "hù-hiok",
+        "phonological_basis": "17c Dominican orthography conversion: hû (富) -> hu³ / hù; hiôg (?) -> hiok⁷ / hiok."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "rica casa, bien provaida",
+      "source_H": "成家致富",
+      "source_M": "seng quiú ty hû",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rica casa, bien provaida",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "seŋ⁵ kiu¹ ti³ hu³",
+        "tai_lo_standard": "sêng-kiu-tì-hù",
+        "phonological_basis": "17c Dominican orthography conversion: seng (成) -> seŋ⁵ / sêng; quiú (家) -> kiu¹ / kiu; ty (致) -> ti³ / tì; hû (富) -> hu³ / hù."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "rico y tiene lo necessario",
+      "source_H": "充 裕",
+      "source_M": "chiong xū",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rico y tiene lo necessario",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsioŋ² dzu⁵",
+        "tai_lo_standard": "tsióng-jû",
+        "phonological_basis": "17c Dominican orthography conversion: chiong (充) -> tsioŋ² / tsióng; xū (裕) -> dzu⁵ / jû."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Rienda",
+      "source_H": "韁",
+      "source_M": "guio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rienda",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guio¹",
+        "tai_lo_standard": "guio",
+        "phonological_basis": "17c Dominican orthography conversion: guio (韁) -> guio¹ / guio."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "rienda de caballo（原稿圈選）",
+      "source_H": "馬 韁",
+      "source_M": "be quio",
+      "source_R": "de caballo（西文溢入右欄）",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rienda de caballo（原稿圈選）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "be¹ kio¹",
+        "tai_lo_standard": "be-kio",
+        "phonological_basis": "17c Dominican orthography conversion: be (馬) -> be¹ / be; quio (韁) -> kio¹ / kio."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Riesgo y peligro",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Riesgo y peligro",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Rigido hombre",
+      "source_H": "強",
+      "source_M": "guiang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rigido hombre",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guiaŋ⁵",
+        "tai_lo_standard": "guiâng",
+        "phonological_basis": "17c Dominican orthography conversion: guiang (強) -> guiaŋ⁵ / guiâng."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "rigido hombre",
+      "source_H": "剛",
+      "source_M": "cong giang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rigido hombre",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ¹ giaŋ⁶",
+        "tai_lo_standard": "kong-giāng",
+        "phonological_basis": "17c Dominican orthography conversion: cong (剛) -> kɔŋ¹ / kong; giang (?) -> giaŋ⁶ / giāng."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "rigido sin criança",
+      "source_H": "強 暴",
+      "source_M": "quiang po",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rigido sin criança",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiaŋ⁵ po¹",
+        "tai_lo_standard": "kiâng-po",
+        "phonological_basis": "17c Dominican orthography conversion: quiang (強) -> kiaŋ⁵ / kiâng; po (暴) -> po¹ / po."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "rigido",
+      "source_H": "強 口 嘴",
+      "source_M": "guio chui hui",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rigido",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guio¹ tsui³ hui³",
+        "tai_lo_standard": "guio-tsuì-huì",
+        "phonological_basis": "17c Dominican orthography conversion: guio (強) -> guio¹ / guio; chui (口) -> tsui³ / tsuì; hui (嘴) -> hui³ / huì."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "rigido",
+      "source_H": "剛 強",
+      "source_M": "cong quiang（原稿圈選）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rigido",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ¹ kiaŋ⁵",
+        "tai_lo_standard": "kong-kiâng",
+        "phonological_basis": "17c Dominican orthography conversion: cong (剛) -> kɔŋ¹ / kong; quiang (強) -> kiaŋ⁵ / kiâng."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "rigido, brabo",
+      "source_H": "口 斗 硬",
+      "source_M": "chiu tau geo",
+      "source_R": "brabo g rigido（西文溢入右欄）",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rigido, brabo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiu¹ tau¹ geo¹",
+        "tai_lo_standard": "tsiu-tau-geo",
+        "phonological_basis": "17c Dominican orthography conversion: chiu (口) -> tsiu¹ / tsiu; tau (斗) -> tau¹ / tau; geo (硬) -> geo¹ / geo."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Rigurosa cosa, riguroso y condicion",
+      "source_H": "嚴",
+      "source_M": "giam",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rigurosa cosa, riguroso y condicion",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "giam⁵",
+        "tai_lo_standard": "giâm",
+        "phonological_basis": "17c Dominican orthography conversion: giam (嚴) -> giam⁵ / giâm."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Rimero y monton",
+      "source_H": "[疑:疊/曡]",
+      "source_M": "chan",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rimero y monton",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsan⁶",
+        "tai_lo_standard": "tsān",
+        "phonological_basis": "17c Dominican orthography conversion: chan (?) -> tsan⁶ / tsān."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Rincon",
+      "source_H": "隔 壁",
+      "source_M": "que pia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rincon",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "keʔ⁷ pia³",
+        "tai_lo_standard": "keh-pià",
+        "phonological_basis": "17c Dominican orthography conversion: que (隔) -> keʔ⁷ / keh; pia (壁) -> pia³ / pià."
+      }
+    }
+  ]
+}

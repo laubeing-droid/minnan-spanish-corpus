@@ -1,0 +1,420 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1032,
+  "historical_folio": "997",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1032/pdf_1032_300dpi.png",
+  "page_header": "[手寫花體塗鴉一行，污損難辨]",
+  "page_footer_printed": "- 994 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "tintag^o grande. [疑:grande/enis]",
+      "source_H": "染布桶",
+      "source_M": "ny pou tang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tintag^o grande.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ni² pou³ tʰaŋ⁵",
+        "tai_lo_standard": "ní-pòu-thâng",
+        "phonological_basis": "17c Dominican orthography conversion: ny (染) -> ni² / ní; pou (布) -> pou³ / pòu; tang (桶) -> tʰaŋ⁵ / thâng."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Fintero-",
+      "source_H": "硯",
+      "source_M": "Hy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fintero-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi⁵",
+        "tai_lo_standard": "hî",
+        "phonological_basis": "17c Dominican orthography conversion: Hy (硯) -> hi⁵ / hî."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "[空]",
+      "source_H": "錫",
+      "source_M": "sia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sia¹",
+        "tai_lo_standard": "sia",
+        "phonological_basis": "17c Dominican orthography conversion: sia (錫) -> sia¹ / sia."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "fintero de carpintero",
+      "source_H": "墨斗繩",
+      "source_M": "bag tau chyn",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fintero de carpintero",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bak⁷ tau⁵ tsin⁵",
+        "tai_lo_standard": "bak-tâu-tsîn",
+        "phonological_basis": "17c Dominican orthography conversion: bag (墨) -> bak⁷ / bak; tau (斗) -> tau⁵ / tâu; chyn (繩) -> tsin⁵ / tsîn."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "fintero de carpintero.",
+      "source_H": "錫硯",
+      "source_M": "fia hy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fintero de carpintero.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fia³ hi⁵",
+        "tai_lo_standard": "fià-hî",
+        "phonological_basis": "17c Dominican orthography conversion: fia (錫) -> fia³ / fià; hy (硯) -> hi⁵ / hî."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "fintero grande-",
+      "source_H": "錫硯",
+      "source_M": "fia hy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fintero grande-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fia³ hi⁵",
+        "tai_lo_standard": "fià-hî",
+        "phonological_basis": "17c Dominican orthography conversion: fia (錫) -> fia³ / fià; hy (硯) -> hi⁵ / hî."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "fintero de china-",
+      "source_H": "硯池",
+      "source_M": "hy ty",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fintero de china-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi⁵ tʰi⁵",
+        "tai_lo_standard": "hî-thî",
+        "phonological_basis": "17c Dominican orthography conversion: hy (硯) -> hi⁵ / hî; ty (池) -> tʰi⁵ / thî."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "fintero de china-",
+      "source_H": "粉硯",
+      "source_M": "hun hy iof [疑:iof]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "fintero de china-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hun² hi⁵ iof¹ iof¹",
+        "tai_lo_standard": "hún-hî-iof-iof",
+        "phonological_basis": "17c Dominican orthography conversion: hun (粉) -> hun² / hún; hy (硯) -> hi⁵ / hî; iof (?) -> iof¹ / iof; iof (?) -> iof¹ / iof."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Fintorerw.",
+      "source_H": "染布人",
+      "source_M": "ny pou lang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fintorerw.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ni² pou³ laŋ⁵",
+        "tai_lo_standard": "ní-pòu-lâng",
+        "phonological_basis": "17c Dominican orthography conversion: ny (染) -> ni² / ní; pou (布) -> pou³ / pòu; lang (人) -> laŋ⁵ / lâng."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "tintorerw-",
+      "source_H": "染匠",
+      "source_M": "ny chio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tintorerw-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ni² tsioʔ⁷",
+        "tai_lo_standard": "ní-tsioh",
+        "phonological_basis": "17c Dominican orthography conversion: ny (染) -> ni² / ní; chio (匠) -> tsioʔ⁷ / tsioh."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "tinforenw-",
+      "source_H": "佐染",
+      "source_M": "cho ny",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tinforenw-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso³ ni²",
+        "tai_lo_standard": "tsò-ní",
+        "phonological_basis": "17c Dominican orthography conversion: cho (佐) -> tso³ / tsò; ny (染) -> ni² / ní."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Fio.",
+      "source_H": "叔",
+      "source_M": "cheg",
+      "source_R": "ma.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Fio.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsek⁷",
+        "tai_lo_standard": "tsek",
+        "phonological_basis": "17c Dominican orthography conversion: cheg (叔) -> tsek⁷ / tsek."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "tio,her^no mayor de mi 8e.",
+      "source_H": "伯",
+      "source_M": "pe",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tio,her^no mayor de mi 8e.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe¹",
+        "tai_lo_standard": "pe",
+        "phonological_basis": "17c Dominican orthography conversion: pe (伯) -> pe¹ / pe."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "tio,her^no mayor de mi 8e.",
+      "source_H": "大伯",
+      "source_M": "foa pe",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tio,her^no mayor de mi 8e.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "foa⁵ pe²",
+        "tai_lo_standard": "foâ-pé",
+        "phonological_basis": "17c Dominican orthography conversion: foa (大) -> foa⁵ / foâ; pe (伯) -> pe² / pé."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "tigher^no mayor de mi 8e",
+      "source_H": "外伯",
+      "source_M": "gua pe",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tigher^no mayor de mi 8e",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gua⁵ pe²",
+        "tai_lo_standard": "guâ-pé",
+        "phonological_basis": "17c Dominican orthography conversion: gua (外) -> gua⁵ / guâ; pe (伯) -> pe² / pé."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "tigher^no menos de mi 8e.",
+      "source_H": "二叔",
+      "source_M": "xi cheg mayora [疑:mayora]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tigher^no menos de mi 8e.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "dzi⁵ tsek⁷ maiora¹ maiora¹",
+        "tai_lo_standard": "jî-tsek-maiora-maiora",
+        "phonological_basis": "17c Dominican orthography conversion: xi (二) -> dzi⁵ / jî; cheg (叔) -> tsek⁷ / tsek; mayora (?) -> maiora¹ / maiora; mayora (?) -> maiora¹ / maiora."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "tigher^no menor de mi 8e.",
+      "source_H": "列位叔伯兄弟",
+      "source_M": "lien ny cheg pe hia ty iof [疑:iof]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tigher^no menor de mi 8e.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lien⁵ ni⁵ tsek⁷ pe² hia⁵ ti⁵ iof¹ iof¹",
+        "tai_lo_standard": "liên-nî-tsek-pé-hiâ-tî-iof-iof",
+        "phonological_basis": "17c Dominican orthography conversion: lien (列) -> lien⁵ / liên; ny (位) -> ni⁵ / nî; cheg (叔) -> tsek⁷ / tsek; pe (伯) -> pe² / pé; hia (兄) -> hia⁵ / hiâ; ty (弟) -> ti⁵ / tî; iof (?) -> iof¹ / iof; iof (?) -> iof¹ / iof."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "tigher^no mayor de mi aguelo.",
+      "source_H": "伯公",
+      "source_M": "pe cong",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tigher^no mayor de mi aguelo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pe² kɔŋ⁵",
+        "tai_lo_standard": "pé-kông",
+        "phonological_basis": "17c Dominican orthography conversion: pe (伯) -> pe² / pé; cong (公) -> kɔŋ⁵ / kông."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "tigher^no de mi aguelo-",
+      "source_H": "叔公",
+      "source_M": "cheg cong",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tigher^no de mi aguelo-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsek⁷ kɔŋ⁵",
+        "tai_lo_standard": "tsek-kông",
+        "phonological_basis": "17c Dominican orthography conversion: cheg (叔) -> tsek⁷ / tsek; cong (公) -> kɔŋ⁵ / kông."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "tio, casado con her^na de mi P^e",
+      "source_H": "姑丈",
+      "source_M": "cou tio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "tio, casado con her^na de mi P^e",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kou² tioʔ⁷",
+        "tai_lo_standard": "kóu-tioh",
+        "phonological_basis": "17c Dominican orthography conversion: cou (姑) -> kou² / kóu; tio (丈) -> tioʔ⁷ / tioh."
+      }
+    }
+  ]
+}

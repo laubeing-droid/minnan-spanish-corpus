@@ -1,0 +1,282 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 930,
+  "historical_folio": "q46 (手写，页眉右上；其上另有手写 96)",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0930/pdf_0930_300dpi.png",
+  "page_header": "手写大字导词：R. ante.. O. U.（页首）；正文上部另有手写大字 R. ante. V.",
+  "page_footer_printed": "- 892 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 14,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "rostro alegre, enxendido. / rostro alegre ~",
+      "source_H": "喜 顏；面 分",
+      "source_M": "hy jan (长音于 a)；bin hun (长音于 i、u)",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rostro alegre, enxendido. / rostro alegre ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi⁵ dzan⁵ a¹ bin¹ hun¹ i¹ u¹",
+        "tai_lo_standard": "hî-jân-a-bin-hun-i-u",
+        "phonological_basis": "17c Dominican orthography conversion: hy (喜) -> hi⁵ / hî; jan (顏) -> dzan⁵ / jân; a (面) -> a¹ / a; bin (分) -> bin¹ / bin; hun (?) -> hun¹ / hun; i (?) -> i¹ / i; u (?) -> u¹ / u."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Rubio~",
+      "source_H": "赤",
+      "source_M": "chia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rubio~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰia¹",
+        "tai_lo_standard": "tshia",
+        "phonological_basis": "17c Dominican orthography conversion: chia (赤) -> tsʰia¹ / tshia."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Rudo, rudeza ~",
+      "source_H": "惀 訩；魯 訩",
+      "source_M": "gu chun: hun mue; gu lou chuar gun choar [残，行末抵页缘被裁]；lou tun; chien loa; sun chuy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rudo, rudeza ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gu¹ tsun¹ hun¹ mue¹ gu¹ lou¹ tsuar¹ gun¹ tsoar¹ lou¹ tun¹ tsien¹ loa¹ sun¹ tsui¹",
+        "tai_lo_standard": "gu-tsun-hun-mue-gu-lou-tsuar-gun-tsoar-lou-tun-tsien-loa-sun-tsui",
+        "phonological_basis": "17c Dominican orthography conversion: gu (惀) -> gu¹ / gu; chun (訩) -> tsun¹ / tsun; hun (魯) -> hun¹ / hun; mue (訩) -> mue¹ / mue; gu (?) -> gu¹ / gu; lou (?) -> lou¹ / lou; chuar (?) -> tsuar¹ / tsuar; gun (?) -> gun¹ / gun; choar (?) -> tsoar¹ / tsoar; lou (?) -> lou¹ / lou; tun (?) -> tun¹ / tun; chien (?) -> tsien¹ / tsien; loa (?) -> loa¹ / loa; sun (?) -> sun¹ / sun; chuy (?) -> tsui¹ / tsui."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "rudo, rudeca ~",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rudo, rudeca ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "rudo, rudeca ~",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rudo, rudeca ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "rudo, rudeca ~",
+      "source_H": "拙",
+      "source_M": "chuar",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rudo, rudeca ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsuar¹",
+        "tai_lo_standard": "tsuar",
+        "phonological_basis": "17c Dominican orthography conversion: chuar (拙) -> tsuar¹ / tsuar."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "rudo, rudeca ~",
+      "source_H": "愚",
+      "source_M": "gu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rudo, rudeca ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gu⁵",
+        "tai_lo_standard": "gû",
+        "phonological_basis": "17c Dominican orthography conversion: gu (愚) -> gu⁵ / gû."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "rudo, rudeca ~",
+      "source_H": "魯 訩",
+      "source_M": "lou pun",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rudo, rudeca ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lou¹ pun¹",
+        "tai_lo_standard": "lou-pun",
+        "phonological_basis": "17c Dominican orthography conversion: lou (魯) -> lou¹ / lou; pun (訩) -> pun¹ / pun."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "rudo, rudeca ~",
+      "source_H": "剪 劣",
+      "source_M": "chien loa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rudo, rudeca ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsien² loa⁵",
+        "tai_lo_standard": "tsién-loâ",
+        "phonological_basis": "17c Dominican orthography conversion: chien (剪) -> tsien² / tsién; loa (劣) -> loa⁵ / loâ."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "rudo, rudeca ~",
+      "source_H": "愚 魯",
+      "source_M": "gu lou",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rudo, rudeca ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gu⁵ lou²",
+        "tai_lo_standard": "gû-lóu",
+        "phonological_basis": "17c Dominican orthography conversion: gu (愚) -> gu⁵ / gû; lou (魯) -> lou² / lóu."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "rudo, rudeca ~",
+      "source_H": "拙 見",
+      "source_M": "chuar guen",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rudo, rudeca ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsuar¹ guen¹",
+        "tai_lo_standard": "tsuar-guen",
+        "phonological_basis": "17c Dominican orthography conversion: chuar (拙) -> tsuar¹ / tsuar; guen (見) -> guen¹ / guen."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "rudo, rudeca ~",
+      "source_H": "拙 想",
+      "source_M": "chuar sio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rudo, rudeca ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsuar¹ sio¹",
+        "tai_lo_standard": "tsuar-sio",
+        "phonological_basis": "17c Dominican orthography conversion: chuar (拙) -> tsuar¹ / tsuar; sio (想) -> sio¹ / sio."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "rudo, rudeca ~",
+      "source_H": "愚 [疑:憃/惷]",
+      "source_M": "gu chun",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rudo, rudeca ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gu⁵ tsun¹",
+        "tai_lo_standard": "gû-tsun",
+        "phonological_basis": "17c Dominican orthography conversion: gu (愚) -> gu⁵ / gû; chun (?) -> tsun¹ / tsun."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "rudo, rudeca ~",
+      "source_H": "訩 口",
+      "source_M": "pun chui",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rudo, rudeca ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pun¹ tsui¹",
+        "tai_lo_standard": "pun-tsui",
+        "phonological_basis": "17c Dominican orthography conversion: pun (訩) -> pun¹ / pun; chui (口) -> tsui¹ / tsui."
+      }
+    }
+  ]
+}

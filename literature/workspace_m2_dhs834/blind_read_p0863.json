@@ -1,0 +1,394 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 863,
+  "historical_folio": "",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0863/pdf_0863_300dpi.png",
+  "page_header": "p. ante. U.",
+  "page_footer_printed": "- 825 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Puro sin mezcla,",
+      "source_H": "純",
+      "source_M": "chin",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Puro sin mezcla,",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin⁵",
+        "tai_lo_standard": "tsîn",
+        "phonological_basis": "17c Dominican orthography conversion: chin (純) -> tsin⁵ / tsîn."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "puro sin mezcla-",
+      "source_H": "純粹",
+      "source_M": "chin chuy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "puro sin mezcla-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin⁵ tsui¹",
+        "tai_lo_standard": "tsîn-tsui",
+        "phonological_basis": "17c Dominican orthography conversion: chin (純) -> tsin⁵ / tsîn; chuy (粹) -> tsui¹ / tsui."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "puro sin mezcla-",
+      "source_H": "純一不雜",
+      "source_M": "chin it put chap",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "puro sin mezcla-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsin⁵ it⁷ put⁷ tsap⁷",
+        "tai_lo_standard": "tsîn-it-put-tsap",
+        "phonological_basis": "17c Dominican orthography conversion: chin (純) -> tsin⁵ / tsîn; it (一) -> it⁷ / it; put (不) -> put⁷ / put; chap (雜) -> tsap⁷ / tsap."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Puta, putilla",
+      "source_H": "後生囡",
+      "source_M": "an se bo: an se niau.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Puta, putilla",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "an¹ se⁵ bo¹ an¹ se⁶ niau¹",
+        "tai_lo_standard": "an-sê-bo-an-sē-niau",
+        "phonological_basis": "17c Dominican orthography conversion: an (後) -> an¹ / an; se (生) -> se⁵ / sê; bo (囡) -> bo¹ / bo; an (?) -> an¹ / an; se (?) -> se⁶ / sē; niau (?) -> niau¹ / niau."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "puta-",
+      "source_H": "娼",
+      "source_M": "chiang.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "puta-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰiaŋ¹",
+        "tai_lo_standard": "tshiang",
+        "phonological_basis": "17c Dominican orthography conversion: chiang (娼) -> tsʰiaŋ¹ / tshiang."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "puta-",
+      "source_H": "臭猫",
+      "source_M": "chau ba.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "puta-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsau³ ba¹",
+        "tai_lo_standard": "tsàu-ba",
+        "phonological_basis": "17c Dominican orthography conversion: chau (臭) -> tsau³ / tsàu; ba (猫) -> ba¹ / ba."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "puta-",
+      "source_H": "娼妓",
+      "source_M": "chiang quy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "puta-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰiaŋ¹ ki⁵",
+        "tai_lo_standard": "tshiang-kî",
+        "phonological_basis": "17c Dominican orthography conversion: chiang (娼) -> tsʰiaŋ¹ / tshiang; quy (妓) -> ki⁵ / kî."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "puta-",
+      "source_H": "濟緊急",
+      "source_M": "chey quin quip.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "puta-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsei³ kin² kip⁷",
+        "tai_lo_standard": "tsèi-kín-kip",
+        "phonological_basis": "17c Dominican orthography conversion: chey (濟) -> tsei³ / tsèi; quin (緊) -> kin² / kín; quip (急) -> kip⁷ / kip."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "puta publica-",
+      "source_H": "娼婦",
+      "source_M": "chiang hu.",
+      "source_R": "publica.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "puta publica-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰiaŋ¹ hu¹",
+        "tai_lo_standard": "tshiang-hu",
+        "phonological_basis": "17c Dominican orthography conversion: chiang (娼) -> tsʰiaŋ¹ / tshiang; hu (婦) -> hu¹ / hu."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "puta publica-",
+      "source_H": "[残]",
+      "source_M": "ba fa: i ly",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "puta publica-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ba¹ fa¹ i¹ li¹",
+        "tai_lo_standard": "ba-fa-i-li",
+        "phonological_basis": "17c Dominican orthography conversion: ba (?) -> ba¹ / ba; fa (?) -> fa¹ / fa; i (?) -> i¹ / i; ly (?) -> li¹ / li."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "puta hermosada de punto.",
+      "source_H": "做猫人",
+      "source_M": "cho bo lang.",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "puta hermosada de punto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso³ bo⁵ laŋ¹",
+        "tai_lo_standard": "tsò-bô-lang",
+        "phonological_basis": "17c Dominican orthography conversion: cho (做) -> tso³ / tsò; bo (猫) -> bo⁵ / bô; lang (人) -> laŋ¹ / lang."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "puta, hedionda-",
+      "source_H": "臭狗母",
+      "source_M": "chau cau bo.",
+      "source_R": "hedionda",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "puta, hedionda-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsau³ kau¹ bo⁵",
+        "tai_lo_standard": "tsàu-kau-bô",
+        "phonological_basis": "17c Dominican orthography conversion: chau (臭) -> tsau³ / tsàu; cau (狗) -> kau¹ / kau; bo (母) -> bo⁵ / bô."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "puta bieja-",
+      "source_H": "老娼",
+      "source_M": "lau chiau. bieja",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "puta bieja-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lau² tsʰiau⁵",
+        "tai_lo_standard": "láu-tshiâu",
+        "phonological_basis": "17c Dominican orthography conversion: lau (老) -> lau² / láu; chiau (娼) -> tsʰiau⁵ / tshiâu."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "puta muerta, garo muerto, maldicion de mujeres-",
+      "source_H": "死猫",
+      "source_M": "sy niau.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "puta muerta, garo muerto, maldicion de mujeres-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si¹ niau⁵",
+        "tai_lo_standard": "si-niâu",
+        "phonological_basis": "17c Dominican orthography conversion: sy (死) -> si¹ / si; niau (猫) -> niau⁵ / niâu."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "puta hermosada de punto",
+      "source_H": "做猫婦人",
+      "source_M": "cho bo hu xin",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "puta hermosada de punto",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso³ bo⁵ hu¹ dzin¹",
+        "tai_lo_standard": "tsò-bô-hu-jin",
+        "phonological_basis": "17c Dominican orthography conversion: cho (做) -> tso³ / tsò; bo (猫) -> bo⁵ / bô; hu (婦) -> hu¹ / hu; xin (人) -> dzin¹ / jin."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Puteria-",
+      "source_H": "嫖院",
+      "source_M": "piau yn",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Puteria-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "piau⁵ in¹",
+        "tai_lo_standard": "piâu-in",
+        "phonological_basis": "17c Dominican orthography conversion: piau (嫖) -> piau⁵ / piâu; yn (院) -> in¹ / in."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "[空]",
+      "source_H": "[残]",
+      "source_M": "quy hia bo lan",
+      "source_R": "quy rey publica",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki¹ hia⁶ bo¹ lan⁶",
+        "tai_lo_standard": "ki-hiā-bo-lān",
+        "phonological_basis": "17c Dominican orthography conversion: quy (?) -> ki¹ / ki; hia (?) -> hia⁶ / hiā; bo (?) -> bo¹ / bo; lan (?) -> lan⁶ / lān."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Puto, bugarron",
+      "source_H": "契兄",
+      "source_M": "quey hing.",
+      "source_R": "tam chiany: muchacho. quy rey pezueno.",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Puto, bugarron",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰei³ hiŋ¹",
+        "tai_lo_standard": "khèi-hing",
+        "phonological_basis": "17c Dominican orthography conversion: quey (契) -> kʰei³ / khèi; hing (兄) -> hiŋ¹ / hing."
+      }
+    }
+  ]
+}

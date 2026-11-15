@@ -1,0 +1,413 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1088,
+  "historical_folio": "",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1088/pdf_1088_300dpi.png",
+  "page_header": "ande :（页眉手写涂鸦；右上角另有手写花押及编号涂鸦）",
+  "page_footer_printed": "- 1050 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Vete noramala",
+      "source_H": "吧 [残]",
+      "source_M": "hit [残]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vete noramala",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hit⁷",
+        "tai_lo_standard": "hit",
+        "phonological_basis": "17c Dominican orthography conversion: hit (吧) -> hit⁷ / hit."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Vete, bien te puedes ir -",
+      "source_H": "罔 去",
+      "source_M": "bong cu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vete, bien te puedes ir -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bɔŋ³ kʰu²",
+        "tai_lo_standard": "bòng-khú",
+        "phonological_basis": "17c Dominican orthography conversion: bong (罔) -> bɔŋ³ / bòng; cu (去) -> kʰu² / khú."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Vete day ~",
+      "source_H": "去 即",
+      "source_M": "ching vu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vete day ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰiŋ¹ vu¹",
+        "tai_lo_standard": "tshing-vu",
+        "phonological_basis": "17c Dominican orthography conversion: ching (去) -> tsʰiŋ¹ / tshing; vu (即) -> vu¹ / vu."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Vete, disho con amor -",
+      "source_H": "去 勝",
+      "source_M": "chi la",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vete, disho con amor -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰi¹ la²",
+        "tai_lo_standard": "tshi-lá",
+        "phonological_basis": "17c Dominican orthography conversion: chi (去) -> tsʰi¹ / tshi; la (勝) -> la² / lá."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "(Vete)",
+      "source_H": "開 去",
+      "source_M": "cui cu cuonhate.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(Vete)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰui² kʰu² kuonhate¹",
+        "tai_lo_standard": "khuí-khú-kuonhate",
+        "phonological_basis": "17c Dominican orthography conversion: cui (開) -> kʰui² / khuí; cu (去) -> kʰu² / khú; cuonhate (?) -> kuonhate¹ / kuonhate."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Vete por agora -",
+      "source_H": "且 開 即",
+      "source_M": "chia cui chia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vete por agora -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsia² kʰui² tsia¹",
+        "tai_lo_standard": "tsiá-khuí-tsia",
+        "phonological_basis": "17c Dominican orthography conversion: chia (且) -> tsia² / tsiá; cui (開) -> kʰui² / khuí; chia (即) -> tsia¹ / tsia."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Vete aesse lado ~",
+      "source_H": "行 邊 去",
+      "source_M": "guia py lu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vete aesse lado ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guia³ pi² lu³",
+        "tai_lo_standard": "guià-pí-lù",
+        "phonological_basis": "17c Dominican orthography conversion: guia (行) -> guia³ / guià; py (邊) -> pi² / pí; lu (去) -> lu³ / lù."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Vez -",
+      "source_H": "過",
+      "source_M": "cue",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vez -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kue³",
+        "tai_lo_standard": "kuè",
+        "phonological_basis": "17c Dominican orthography conversion: cue (過) -> kue³ / kuè."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Vez",
+      "source_H": "到",
+      "source_M": "to",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vez",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to²",
+        "tai_lo_standard": "tó",
+        "phonological_basis": "17c Dominican orthography conversion: to (到) -> to² / tó."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Vez ~",
+      "source_H": "逼",
+      "source_M": "pien",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vez ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pien⁵",
+        "tai_lo_standard": "piên",
+        "phonological_basis": "17c Dominican orthography conversion: pien (逼) -> pien⁵ / piên."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Vez ~",
+      "source_H": "載",
+      "source_M": "chey",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vez ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsei⁵",
+        "tai_lo_standard": "tsêi",
+        "phonological_basis": "17c Dominican orthography conversion: chey (載) -> tsei⁵ / tsêi."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Vez ~",
+      "source_H": "沓",
+      "source_M": "tuy dar bueltas",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T00 (無標號)",
+        "T00 (無標號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vez ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tui¹ dar¹ bueltas¹",
+        "tai_lo_standard": "tui-dar-bueltas",
+        "phonological_basis": "17c Dominican orthography conversion: tuy (沓) -> tui¹ / tui; dar (?) -> dar¹ / dar; bueltas (?) -> bueltas¹ / bueltas."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Vez ~",
+      "source_H": "遭",
+      "source_M": "cho",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vez ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso³",
+        "tai_lo_standard": "tsò",
+        "phonological_basis": "17c Dominican orthography conversion: cho (遭) -> tso³ / tsò."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Vez ~",
+      "source_H": "次",
+      "source_M": "chu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vez ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu²",
+        "tai_lo_standard": "tsú",
+        "phonological_basis": "17c Dominican orthography conversion: chu (次) -> tsu² / tsú."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Vecino, pern lugar -",
+      "source_H": "鄰",
+      "source_M": "lin",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Vecino, pern lugar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lin⁵",
+        "tai_lo_standard": "lîn",
+        "phonological_basis": "17c Dominican orthography conversion: lin (鄰) -> lin⁵ / lîn."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "vecinos pern lugar -",
+      "source_H": "鄰 居",
+      "source_M": "lin cu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vecinos pern lugar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lin⁵ ku³",
+        "tai_lo_standard": "lîn-kù",
+        "phonological_basis": "17c Dominican orthography conversion: lin (鄰) -> lin⁵ / lîn; cu (居) -> ku³ / kù."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "vecinos pern lugar ~",
+      "source_H": "厝 邊 人",
+      "source_M": "chu py lang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T00 (無標號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vecinos pern lugar ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu² pi¹ laŋ³",
+        "tai_lo_standard": "tsú-pi-làng",
+        "phonological_basis": "17c Dominican orthography conversion: chu (厝) -> tsu² / tsú; py (邊) -> pi¹ / pi; lang (人) -> laŋ³ / làng."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "vecinos pern lugar ~",
+      "source_H": "隔 壁 人",
+      "source_M": "gueq pia lang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vecinos pern lugar ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gueq⁵ pia³ laŋ³",
+        "tai_lo_standard": "guêq-pià-làng",
+        "phonological_basis": "17c Dominican orthography conversion: gueq (隔) -> gueq⁵ / guêq; pia (壁) -> pia³ / pià; lang (人) -> laŋ³ / làng."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "vecinos pared en medio -",
+      "source_H": "隔 壁",
+      "source_M": "gueq pia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vecinos pared en medio -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gueq⁵ pia³",
+        "tai_lo_standard": "guêq-pià",
+        "phonological_basis": "17c Dominican orthography conversion: gueq (隔) -> gueq⁵ / guêq; pia (壁) -> pia³ / pià."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "vecinos de la tierra ~",
+      "source_H": "當 地 人",
+      "source_M": "tong gei lang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "vecinos de la tierra ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tɔŋ³ gei³ laŋ³",
+        "tai_lo_standard": "tòng-gèi-làng",
+        "phonological_basis": "17c Dominican orthography conversion: tong (當) -> tɔŋ³ / tòng; gei (地) -> gei³ / gèi; lang (人) -> laŋ³ / làng."
+      }
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 902,
+  "historical_folio": "43…（右上角铅笔编号，尾字难辨）",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0902/pdf_0902_300dpi.png",
+  "page_header": "页眉花押：大字 R.（左上）；ante.（中上）；Z 形花押（右上）",
+  "page_footer_printed": "- 864 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "rempujar -",
+      "source_H": "挨",
+      "source_M": "ey",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rempujar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ei¹",
+        "tai_lo_standard": "ei",
+        "phonological_basis": "17c Dominican orthography conversion: ey (挨) -> ei¹ / ei."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "rempujar.",
+      "source_H": "[残]",
+      "source_M": "cong",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rempujar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ²",
+        "tai_lo_standard": "kóng",
+        "phonological_basis": "17c Dominican orthography conversion: cong (?) -> kɔŋ² / kóng."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "rempujar.",
+      "source_H": "研開去",
+      "source_M": "gue cui ca",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rempujar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gue¹ kʰui¹ kʰa³",
+        "tai_lo_standard": "gue-khui-khà",
+        "phonological_basis": "17c Dominican orthography conversion: gue (研) -> gue¹ / gue; cui (開) -> kʰui¹ / khui; ca (去) -> kʰa³ / khà."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "rempujar separate.",
+      "source_H": "掠開去",
+      "source_M": "sag cui cu",
+      "source_R": "ρ a fare aparte.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rempujar separate.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sak⁷ kʰui¹ kʰu³",
+        "tai_lo_standard": "sak-khui-khù",
+        "phonological_basis": "17c Dominican orthography conversion: sag (掠) -> sak⁷ / sak; cui (開) -> kʰui¹ / khui; cu (去) -> kʰu³ / khù."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "rempujar-que entre.",
+      "source_H": "掠入去",
+      "source_M": "sag xip cu",
+      "source_R": "a dentro.",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rempujar-que entre.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sak⁷ dzip⁸ kʰu³",
+        "tai_lo_standard": "sak-ji̍p-khù",
+        "phonological_basis": "17c Dominican orthography conversion: sag (掠) -> sak⁷ / sak; xip (入) -> dzip⁸ / ji̍p; cu (去) -> kʰu³ / khù."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "rempujar & caiga",
+      "source_H": "掠着跤",
+      "source_M": "sag tio poa",
+      "source_R": "ρ gu cayga",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rempujar & caiga",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sak⁷ tio¹ poa¹",
+        "tai_lo_standard": "sak-tio-poa",
+        "phonological_basis": "17c Dominican orthography conversion: sag (掠) -> sak⁷ / sak; tio (着) -> tio¹ / tio; poa (跤) -> poa¹ / poa."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "rempujar & salga -",
+      "source_H": "扒出耒",
+      "source_M": "pe chur lay",
+      "source_R": "ρ q sa ya",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rempujar & salga -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "peʔ⁷ tsʰur¹ lai¹",
+        "tai_lo_standard": "peh-tshur-lai",
+        "phonological_basis": "17c Dominican orthography conversion: pe (扒) -> peʔ⁷ / peh; chur (出) -> tsʰur¹ / tshur; lay (耒) -> lai¹ / lai."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Rempujar se -",
+      "source_H": "相車",
+      "source_M": "sio chia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rempujar se -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio¹ tsʰia¹",
+        "tai_lo_standard": "sio-tshia",
+        "phonological_basis": "17c Dominican orthography conversion: sio (相) -> sio¹ / sio; chia (車) -> tsʰia¹ / tshia."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "rempujar con hombros y manos.",
+      "source_H": "挨乙掠乙",
+      "source_M": "ey ey sag sag",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rempujar con hombros y manos.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ei¹ ei¹ sak⁷ sak⁷",
+        "tai_lo_standard": "ei-ei-sak-sak",
+        "phonological_basis": "17c Dominican orthography conversion: ey (挨) -> ei¹ / ei; ey (乙) -> ei¹ / ei; sag (掠) -> sak⁷ / sak; sag (乙) -> sak⁷ / sak."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "rempujar con abto con ompalo / que quien vence -",
+      "source_H": "[疑:拄/肚]臍",
+      "source_M": "tu chay",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rempujar con abto con ompalo / que quien vence -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tu³ tsai¹",
+        "tai_lo_standard": "tù-tsai",
+        "phonological_basis": "17c Dominican orthography conversion: tu (臍) -> tu³ / tù; chay (?) -> tsai¹ / tsai."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "rempujar el viento ventana, y puerta -",
+      "source_H": "霜風",
+      "source_M": "cong hong",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rempujar el viento ventana, y puerta -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ¹ hɔŋ¹",
+        "tai_lo_standard": "kong-hong",
+        "phonological_basis": "17c Dominican orthography conversion: cong (霜) -> kɔŋ¹ / kong; hong (風) -> hɔŋ¹ / hong."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Rempujarse aguantando, o avesar",
+      "source_H": "相輪守更",
+      "source_M": "sio tun chiu que",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rempujarse aguantando, o avesar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sio⁵ tun⁵ tsiu¹ ke¹",
+        "tai_lo_standard": "siô-tûn-tsiu-ke",
+        "phonological_basis": "17c Dominican orthography conversion: sio (相) -> sio⁵ / siô; tun (輪) -> tun⁵ / tûn; chiu (守) -> tsiu¹ / tsiu; que (更) -> ke¹ / ke."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Remunerar & xc & Pviar [删除线]",
+      "source_H": "[空]",
+      "source_M": "[空]",
+      "source_R": "[空]",
+      "tone_marks_M": [],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Remunerar & xc & Pviar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Rena cuajo -",
+      "source_H": "蛆",
+      "source_M": "chu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rena cuajo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu¹",
+        "tai_lo_standard": "tsu",
+        "phonological_basis": "17c Dominican orthography conversion: chu (蛆) -> tsu¹ / tsu."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Tenarenacuajo.",
+      "source_H": "蛆虫",
+      "source_M": "chu fang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Tenarenacuajo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsu¹ faŋ¹",
+        "tai_lo_standard": "tsu-fang",
+        "phonological_basis": "17c Dominican orthography conversion: chu (蛆) -> tsu¹ / tsu; fang (虫) -> faŋ¹ / fang."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "renacuajo -",
+      "source_H": "水蛆",
+      "source_M": "chuy chu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "renacuajo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui² tsu¹",
+        "tai_lo_standard": "tsuí-tsu",
+        "phonological_basis": "17c Dominican orthography conversion: chuy (水) -> tsui² / tsuí; chu (蛆) -> tsu¹ / tsu."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "Rencor- q'envidia.",
+      "source_H": "恨",
+      "source_M": "hun",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rencor- q'envidia.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hun¹",
+        "tai_lo_standard": "hun",
+        "phonological_basis": "17c Dominican orthography conversion: hun (恨) -> hun¹ / hun."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "rencor.",
+      "source_H": "怨",
+      "source_M": "van",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rencor.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "van³",
+        "tai_lo_standard": "vàn",
+        "phonological_basis": "17c Dominican orthography conversion: van (怨) -> van³ / vàn."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "rencor. de envidia",
+      "source_H": "愠",
+      "source_M": "on",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rencor. de envidia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "on³",
+        "tai_lo_standard": "òn",
+        "phonological_basis": "17c Dominican orthography conversion: on (愠) -> on³ / òn."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "rencor.",
+      "source_H": "怨恨",
+      "source_M": "van hun",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rencor.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "van³ hun¹",
+        "tai_lo_standard": "vàn-hun",
+        "phonological_basis": "17c Dominican orthography conversion: van (怨) -> van³ / vàn; hun (恨) -> hun¹ / hun."
+      }
+    }
+  ]
+}

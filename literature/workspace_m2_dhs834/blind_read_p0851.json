@@ -1,0 +1,357 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 851,
+  "historical_folio": "",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0851/pdf_0851_300dpi.png",
+  "page_header": "handwritten marginalia 'ante.' between two flourish squiggle marks",
+  "page_footer_printed": "- 813 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "prohibir.",
+      "source_H": "莫乞",
+      "source_M": "bo quit",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prohibir.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bo² kit⁷",
+        "tai_lo_standard": "bó-kit",
+        "phonological_basis": "17c Dominican orthography conversion: bo (莫) -> bo² / bó; quit (乞) -> kit⁷ / kit."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "prohibir, mandar; &c~",
+      "source_H": "禁止",
+      "source_M": "quim chy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prohibir, mandar; &c~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kim³ tsi²",
+        "tai_lo_standard": "kìm-tsí",
+        "phonological_basis": "17c Dominican orthography conversion: quim (禁) -> kim³ / kìm; chy (止) -> tsi² / tsí."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "Prohijar [疑:apadrinar/apadinār]",
+      "source_H": "螟",
+      "source_M": "beng",
+      "source_R": "[残]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Prohijar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "beŋ⁵",
+        "tai_lo_standard": "bêng",
+        "phonological_basis": "17c Dominican orthography conversion: beng (螟) -> beŋ⁵ / bêng."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "prohijar.",
+      "source_H": "契",
+      "source_M": "[疑:guey/quey]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prohijar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guei¹ kei⁶",
+        "tai_lo_standard": "guei-kēi",
+        "phonological_basis": "17c Dominican orthography conversion: guey (契) -> guei¹ / guei; quey (?) -> kei⁶ / kēi."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "prohijar.",
+      "source_H": "養",
+      "source_M": "iang c'mauiq",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prohijar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iaŋ¹ ki¹ mauiq¹",
+        "tai_lo_standard": "iang-ki-mauiq",
+        "phonological_basis": "17c Dominican orthography conversion: iang (養) -> iaŋ¹ / iang; c (?) -> ki¹ / ki; mauiq (?) -> mauiq¹ / mauiq."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "prohijar.",
+      "source_H": "螟蛉",
+      "source_M": "beng leng: un)uysam abro;",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prohijar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "beŋ⁵ leŋ⁵ un¹ uisam¹ abro¹",
+        "tai_lo_standard": "bêng-lêng-un-uisam-abro",
+        "phonological_basis": "17c Dominican orthography conversion: beng (螟) -> beŋ⁵ / bêng; leng (蛉) -> leŋ⁵ / lêng; un (?) -> un¹ / un; uysam (?) -> uisam¹ / uisam; abro (?) -> abro¹ / abro."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "prohijar el q̃ no tiene hijos",
+      "source_H": "過房",
+      "source_M": "ue pang.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prohijar el q̃ no tiene hijos",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ue³ paŋ⁵",
+        "tai_lo_standard": "uè-pâng",
+        "phonological_basis": "17c Dominican orthography conversion: ue (過) -> ue³ / uè; pang (房) -> paŋ⁵ / pâng."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Prolijo, importuno en la platica ~",
+      "source_H": "咀渦澈",
+      "source_M": "[残]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Prolijo, importuno en la platica ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "",
+        "tai_lo_standard": "",
+        "phonological_basis": "Empty missionary phonetic column in manuscript."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Prologo ~",
+      "source_H": "序",
+      "source_M": "su",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Prologo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "su²",
+        "tai_lo_standard": "sú",
+        "phonological_basis": "17c Dominican orthography conversion: su (序) -> su² / sú."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "prologo ~",
+      "source_H": "頭序",
+      "source_M": "tau su",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prologo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰau¹ su⁵",
+        "tai_lo_standard": "thau-sû",
+        "phonological_basis": "17c Dominican orthography conversion: tau (頭) -> tʰau¹ / thau; su (序) -> su⁵ / sû."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Prolongar, ut~ casa, camino &c ~ j. largo.",
+      "source_H": "深遠",
+      "source_M": "chim huy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Prolongar, ut~ casa, camino &c ~ j. largo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsim¹ hui¹",
+        "tai_lo_standard": "tsim-hui",
+        "phonological_basis": "17c Dominican orthography conversion: chim (深) -> tsim¹ / tsim; huy (遠) -> hui¹ / hui."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Prometer ~",
+      "source_H": "許",
+      "source_M": "hu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Prometer ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu²",
+        "tai_lo_standard": "hú",
+        "phonological_basis": "17c Dominican orthography conversion: hu (許) -> hu² / hú."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "prometer.",
+      "source_H": "允",
+      "source_M": "[疑:on/un]: in",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prometer.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "on² un² in¹",
+        "tai_lo_standard": "ón-ún-in",
+        "phonological_basis": "17c Dominican orthography conversion: on (允) -> on² / ón; un (?) -> un² / ún; in (?) -> in¹ / in."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "prometer.",
+      "source_H": "諾",
+      "source_M": "log",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prometer.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lɔk⁷",
+        "tai_lo_standard": "lok",
+        "phonological_basis": "17c Dominican orthography conversion: log (諾) -> lɔk⁷ / lok."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "prometer~",
+      "source_H": "許諾",
+      "source_M": "Log:: hu log: un log: in lo:idg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prometer~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lɔk⁷ hu² lɔk⁷ un¹ lɔk⁷ in¹ lo¹ idk⁷",
+        "tai_lo_standard": "lok-hú-lok-un-lok-in-lo-idk",
+        "phonological_basis": "17c Dominican orthography conversion: Log (許) -> lɔk⁷ / lok; hu (諾) -> hu² / hú; log (?) -> lɔk⁷ / lok; un (?) -> un¹ / un; log (?) -> lɔk⁷ / lok; in (?) -> in¹ / in; lo (?) -> lo¹ / lo; idg (?) -> idk⁷ / idk."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "prometer~",
+      "source_H": "許下",
+      "source_M": "hu he.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prometer~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu² he²",
+        "tai_lo_standard": "hú-hé",
+        "phonological_basis": "17c Dominican orthography conversion: hu (許) -> hu² / hú; he (下) -> he² / hé."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "prometer~",
+      "source_H": "下頭",
+      "source_M": "e juan",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prometer~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "e² dzuaʔ⁷",
+        "tai_lo_standard": "é-juah",
+        "phonological_basis": "17c Dominican orthography conversion: e (下) -> e² / é; juan (頭) -> dzuaʔ⁷ / juah."
+      }
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 880,
+  "historical_folio": "421 (手寫頁碼，右上角)",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0880/pdf_0880_300dpi.png",
+  "page_header": "R. ante. A（欄首大字標題，頁頂另有手寫 ante 及花體記號）",
+  "page_footer_printed": "- 842 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 14,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Rabadilla.",
+      "source_H": "頭",
+      "source_M": "ca chūy ļāū",
+      "source_R": "Jaū : lo pe m̂ c chāy [残]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rabadilla.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰa¹ tsui⁶ au⁶",
+        "tai_lo_standard": "kha-tsuī-āu",
+        "phonological_basis": "17c Dominican orthography conversion: ca (頭) -> kʰa¹ / kha; chūy (?) -> tsui⁶ / tsuī; āū (?) -> au⁶ / āu."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Rabano~ （旁註圈選兩行：rabano~ / rabano~）",
+      "source_H": "菜頭",
+      "source_M": "chāy táū.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rabano~ （旁註圈選兩行：rabano~ / rabano~）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰai⁵ tʰau¹",
+        "tai_lo_standard": "tshâi-thau",
+        "phonological_basis": "17c Dominican orthography conversion: chāy (菜) -> tsʰai⁵ / tshâi; táū (頭) -> tʰau¹ / thau."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "rabano~salado~",
+      "source_H": "漆菜",
+      "source_M": "sîp chāy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rabano~salado~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sip⁷ tsʰai⁵",
+        "tai_lo_standard": "sip-tshâi",
+        "phonological_basis": "17c Dominican orthography conversion: sîp (漆) -> sip⁷ / sip; chāy (菜) -> tsʰai⁵ / tshâi."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "rabano~enescabeche~",
+      "source_H": "酸菜",
+      "source_M": "chúi chāy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "rabano~enescabeche~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsui¹ tsʰai⁵",
+        "tai_lo_standard": "tsui-tshâi",
+        "phonological_basis": "17c Dominican orthography conversion: chúi (酸) -> tsui¹ / tsui; chāy (菜) -> tsʰai⁵ / tshâi."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "Rabiar compuesto.",
+      "source_H": "痕顛",
+      "source_M": "hông tiēn.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Rabiar compuesto.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ³ tien⁵",
+        "tai_lo_standard": "hòng-tiên",
+        "phonological_basis": "17c Dominican orthography conversion: hông (痕) -> hɔŋ³ / hòng; tiēn (顛) -> tien⁵ / tiên."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "Racimos, y numeral~",
+      "source_H": "抱",
+      "source_M": "Paī: gim gayo.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Racimos, y numeral~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pai⁵ gim¹ gaio¹",
+        "tai_lo_standard": "pâi-gim-gaio",
+        "phonological_basis": "17c Dominican orthography conversion: Paī (抱) -> pai⁵ / pâi; gim (?) -> gim¹ / gim; gayo (?) -> gaio¹ / gaio."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "Racion considerable~",
+      "source_H": "口分",
+      "source_M": "caū hún.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Racion considerable~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kau⁵ hun¹",
+        "tai_lo_standard": "kâu-hun",
+        "phonological_basis": "17c Dominican orthography conversion: caū (口) -> kau⁵ / kâu; hún (分) -> hun¹ / hun."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Racionar",
+      "source_H": "[残]",
+      "source_M": "cuan, cuan bî.",
+      "source_R": "arroz cuān chūy a gua. cuān chȳ chūlo [残，右緣截斷]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Racionar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuan¹ kuan¹ bi³",
+        "tai_lo_standard": "kuan-kuan-bì",
+        "phonological_basis": "17c Dominican orthography conversion: cuan (?) -> kuan¹ / kuan; cuan (?) -> kuan¹ / kuan; bî (?) -> bi³ / bì."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Racon~",
+      "source_H": "理",
+      "source_M": "lî.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Racon~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "li³",
+        "tai_lo_standard": "lì",
+        "phonological_basis": "17c Dominican orthography conversion: lî (理) -> li³ / lì."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "racon~ （旁註圈選：racon~）",
+      "source_H": "道",
+      "source_M": "[圈註] tô.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "racon~ （旁註圈選：racon~）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "to³",
+        "tai_lo_standard": "tò",
+        "phonological_basis": "17c Dominican orthography conversion: tô (道) -> to³ / tò."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "racon discurso del alma~",
+      "source_H": "靈",
+      "source_M": "lên̂g.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "racon discurso del alma~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "leŋ³",
+        "tai_lo_standard": "lèng",
+        "phonological_basis": "17c Dominican orthography conversion: lên̂g (靈) -> leŋ³ / lèng."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "racon~ （旁註圈選：racon）",
+      "source_H": "倫",
+      "source_M": "sin lūn.",
+      "source_R": "racon natural.",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "racon~ （旁註圈選：racon）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sin¹ lun⁶",
+        "tai_lo_standard": "sin-lūn",
+        "phonological_basis": "17c Dominican orthography conversion: sin (倫) -> sin¹ / sin; lūn (?) -> lun⁶ / lūn."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "racones, es licito~",
+      "source_H": "可",
+      "source_M": "gasg: [残]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "racones, es licito~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gask⁷",
+        "tai_lo_standard": "gask",
+        "phonological_basis": "17c Dominican orthography conversion: gasg (可) -> gask⁷ / gask."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "racon profunda & candida.",
+      "source_H": "容",
+      "source_M": "pỹ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "racon profunda & candida.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pi¹",
+        "tai_lo_standard": "pi",
+        "phonological_basis": "17c Dominican orthography conversion: p (容) -> pi¹ / pi."
+      }
+    }
+  ]
+}

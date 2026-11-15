@@ -1,0 +1,394 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 944,
+  "historical_folio": "",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0944/pdf_0944_300dpi.png",
+  "page_header": "S. (大写花体首字母，页眉手写 ante. 与右上花体 A.；右上另有手记数字 450 / 955)",
+  "page_footer_printed": "- 906 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 19,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Salario del Rey~",
+      "source_H": "祿",
+      "source_M": "loy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salario del Rey~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "loi¹",
+        "tai_lo_standard": "loi",
+        "phonological_basis": "17c Dominican orthography conversion: loy (祿) -> loi¹ / loi."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "salario del Rey~",
+      "source_H": "俸",
+      "source_M": "hong",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "salario del Rey~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ²",
+        "tai_lo_standard": "hóng",
+        "phonological_basis": "17c Dominican orthography conversion: hong (俸) -> hɔŋ² / hóng."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "salario del Rey~",
+      "source_H": "貢士",
+      "source_M": "cong su",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "salario del Rey~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ³ su²",
+        "tai_lo_standard": "kòng-sú",
+        "phonological_basis": "17c Dominican orthography conversion: cong (貢) -> kɔŋ³ / kòng; su (士) -> su² / sú."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "salario del Rey~",
+      "source_H": "錢糧",
+      "source_M": "chy nio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "salario del Rey~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰi⁵ nio⁵",
+        "tai_lo_standard": "tshî-niô",
+        "phonological_basis": "17c Dominican orthography conversion: chy (錢) -> tsʰi⁵ / tshî; nio (糧) -> nio⁵ / niô."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "salario del mandarin.",
+      "source_H": "俸糧",
+      "source_M": "hong nio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "salario del mandarin.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ² nio⁵",
+        "tai_lo_standard": "hóng-niô",
+        "phonological_basis": "17c Dominican orthography conversion: hong (俸) -> hɔŋ² / hóng; nio (糧) -> nio⁵ / niô."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "salario del mandarin.",
+      "source_H": "俸錢",
+      "source_M": "hong chy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "salario del mandarin.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ² tsʰi⁵",
+        "tai_lo_standard": "hóng-tshî",
+        "phonological_basis": "17c Dominican orthography conversion: hong (俸) -> hɔŋ² / hóng; chy (錢) -> tsʰi⁵ / tshî."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "salario del mandarin.",
+      "source_H": "補廪",
+      "source_M": "poi lim",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "salario del mandarin.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "poi² lim²",
+        "tai_lo_standard": "pói-lím",
+        "phonological_basis": "17c Dominican orthography conversion: poi (補) -> poi² / pói; lim (廪) -> lim² / lím."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "salario del mandarin.",
+      "source_H": "給俸",
+      "source_M": "guip hong",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "salario del mandarin.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guip⁷ hɔŋ²",
+        "tai_lo_standard": "guip-hóng",
+        "phonological_basis": "17c Dominican orthography conversion: guip (給) -> guip⁷ / guip; hong (俸) -> hɔŋ² / hóng."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "salario del mandarin.",
+      "source_H": "俸祿",
+      "source_M": "Log. hong log.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "salario del mandarin.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lɔk⁷",
+        "tai_lo_standard": "lok",
+        "phonological_basis": "17c Dominican orthography conversion: Log (俸) -> lɔk⁷ / lok."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "[疑:salario del vy soldado./salario del vy Sotados.]",
+      "source_H": "給粮",
+      "source_M": "guip nio",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guip⁷ nio⁵",
+        "tai_lo_standard": "guip-niô",
+        "phonological_basis": "17c Dominican orthography conversion: guip (給) -> guip⁷ / guip; nio (粮) -> nio⁵ / niô."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "salario, salarios del Rey.",
+      "source_H": "廪生",
+      "source_M": "lim seng",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "salario, salarios del Rey.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lim² seŋ¹",
+        "tai_lo_standard": "lím-seng",
+        "phonological_basis": "17c Dominican orthography conversion: lim (廪) -> lim² / lím; seng (生) -> seŋ¹ / seng."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "salario, salarios del Rey.",
+      "source_H": "廪膳",
+      "source_M": "lim sien",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "salario, salarios del Rey.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lim² sien²",
+        "tai_lo_standard": "lím-sién",
+        "phonological_basis": "17c Dominican orthography conversion: lim (廪) -> lim² / lím; sien (膳) -> sien² / sién."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "salario del vy siruen.",
+      "source_H": "工食",
+      "source_M": "cong sit : cong chia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)",
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "salario del vy siruen.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kɔŋ¹ sit⁸ kɔŋ¹ tsia⁶",
+        "tai_lo_standard": "kong-si̍t-kong-tsiā",
+        "phonological_basis": "17c Dominican orthography conversion: cong (工) -> kɔŋ¹ / kong; sit (食) -> sit⁸ / si̍t; cong (?) -> kɔŋ¹ / kong; chia (?) -> tsia⁶ / tsiā."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Salero~",
+      "source_H": "鹽盒",
+      "source_M": "iam ap",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salero~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iam⁵ ap⁸",
+        "tai_lo_standard": "iâm-a̍p",
+        "phonological_basis": "17c Dominican orthography conversion: iam (鹽) -> iam⁵ / iâm; ap (盒) -> ap⁸ / a̍p."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Salinas~",
+      "source_H": "鹽課司",
+      "source_M": "iam coe sy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salinas~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iam⁵ kʰoe² si¹",
+        "tai_lo_standard": "iâm-khoé-si",
+        "phonological_basis": "17c Dominican orthography conversion: iam (鹽) -> iam⁵ / iâm; coe (課) -> kʰoe² / khoé; sy (司) -> si¹ / si."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "salinas~",
+      "source_H": "鹽埕",
+      "source_M": "iam tia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "salinas~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iam⁵ tia⁵",
+        "tai_lo_standard": "iâm-tiâ",
+        "phonological_basis": "17c Dominican orthography conversion: iam (鹽) -> iam⁵ / iâm; tia (埕) -> tia⁵ / tiâ."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "salinas~",
+      "source_H": "鹽漏",
+      "source_M": "iam lau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "salinas~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iam⁵ lau⁵",
+        "tai_lo_standard": "iâm-lâu",
+        "phonological_basis": "17c Dominican orthography conversion: iam (鹽) -> iam⁵ / iâm; lau (漏) -> lau⁵ / lâu."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "salinas q purifican la sal~",
+      "source_H": "鹽露",
+      "source_M": "iam lou",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "salinas q purifican la sal~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iam⁵ lou⁵",
+        "tai_lo_standard": "iâm-lôu",
+        "phonological_basis": "17c Dominican orthography conversion: iam (鹽) -> iam⁵ / iâm; lou (露) -> lou⁵ / lôu."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Salio a cosa, como baca, perxa ca.",
+      "source_H": "風",
+      "source_M": "hong",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salio a cosa, como baca, perxa ca.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ¹",
+        "tai_lo_standard": "hong",
+        "phonological_basis": "17c Dominican orthography conversion: hong (風) -> hɔŋ¹ / hong."
+      }
+    }
+  ]
+}

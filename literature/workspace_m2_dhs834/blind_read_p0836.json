@@ -1,0 +1,419 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 836,
+  "historical_folio": "399",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0836/pdf_0836_300dpi.png",
+  "page_header": "圈记字母P；手写小字[疑:arle/anke].；右上角S形花押",
+  "page_footer_printed": "- 798 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "premiar ~",
+      "source_H": "可賞",
+      "source_M": "co ſiang.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "premiar ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko² iaŋ²",
+        "tai_lo_standard": "kó-iáng",
+        "phonological_basis": "17c Dominican orthography conversion: co (可) -> ko² / kó; iang (賞) -> iaŋ² / iáng."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "premiar ~",
+      "source_H": "賞賜",
+      "source_M": "ſiang ſu.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "premiar ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iaŋ² u³",
+        "tai_lo_standard": "iáng-ù",
+        "phonological_basis": "17c Dominican orthography conversion: iang (賞) -> iaŋ² / iáng; u (賜) -> u³ / ù."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "premiar.",
+      "source_H": "封賞",
+      "source_M": "hong ſieng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "premiar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ¹ ieŋ²",
+        "tai_lo_standard": "hong-iéng",
+        "phonological_basis": "17c Dominican orthography conversion: hong (封) -> hɔŋ¹ / hong; ieng (賞) -> ieŋ² / iéng."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "premiar Dios, o el Rey.",
+      "source_H": "勅封",
+      "source_M": "ſit hong.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "premiar Dios, o el Rey.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "it⁷ hɔŋ¹",
+        "tai_lo_standard": "it-hong",
+        "phonological_basis": "17c Dominican orthography conversion: it (勅) -> it⁷ / it; hong (封) -> hɔŋ¹ / hong."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "premiar Dios, o el rey ~",
+      "source_H": "勅賜",
+      "source_M": "ſit ſu.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "premiar Dios, o el rey ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "it⁷ u³",
+        "tai_lo_standard": "it-ù",
+        "phonological_basis": "17c Dominican orthography conversion: it (勅) -> it⁷ / it; u (賜) -> u³ / ù."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "premiar los buenos, castigar los malos ~",
+      "source_H": "賞善罰惡",
+      "source_M": "ſiang ſien huez og",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)",
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "premiar los buenos, castigar los malos ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iaŋ² ien² huezʔ⁸ ɔk⁷",
+        "tai_lo_standard": "iáng-ién-hue̍zh-ok",
+        "phonological_basis": "17c Dominican orthography conversion: iang (賞) -> iaŋ² / iáng; ien (善) -> ien² / ién; huez (罰) -> huezʔ⁸ / hue̍zh; og (惡) -> ɔk⁷ / ok."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "premiar a los buenos ~",
+      "source_H": "善有善報",
+      "source_M": "ſien ju ſien po",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T02 (降斜)",
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "premiar a los buenos ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ien² dzu² ien² po³",
+        "tai_lo_standard": "ién-jú-ién-pò",
+        "phonological_basis": "17c Dominican orthography conversion: ien (善) -> ien² / ién; ju (有) -> dzu² / jú; ien (善) -> ien² / ién; po (報) -> po³ / pò."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "premiar ael hijo los mejores del rey",
+      "source_H": "誥封",
+      "source_M": "co hong.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "premiar ael hijo los mejores del rey",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "koʔ⁷ hɔŋ¹",
+        "tai_lo_standard": "koh-hong",
+        "phonological_basis": "17c Dominican orthography conversion: co (誥) -> koʔ⁷ / koh; hong (封) -> hɔŋ¹ / hong."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "premiar ael hijo los mejores del rey ~",
+      "source_H": "襲蔭",
+      "source_M": "ſit im.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "premiar ael hijo los mejores del rey ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "it⁷ im¹",
+        "tai_lo_standard": "it-im",
+        "phonological_basis": "17c Dominican orthography conversion: it (襲) -> it⁷ / it; im (蔭) -> im¹ / im."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "premiar ael S⁰. por el hijo mandarin ~",
+      "source_H": "封贈",
+      "source_M": "hong cheng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "premiar ael S⁰. por el hijo mandarin ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ¹ tseŋ²",
+        "tai_lo_standard": "hong-tséng",
+        "phonological_basis": "17c Dominican orthography conversion: hong (封) -> hɔŋ¹ / hong; cheng (贈) -> tseŋ² / tséng."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "premiar el trabajo ~",
+      "source_H": "犒勞",
+      "source_M": "co lo.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "premiar el trabajo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko² lo⁵",
+        "tai_lo_standard": "kó-lô",
+        "phonological_basis": "17c Dominican orthography conversion: co (犒) -> ko² / kó; lo (勞) -> lo⁵ / lô."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Premio del mal por mal ~",
+      "source_H": "惡有惡報",
+      "source_M": "og iu og po",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T02 (降斜)",
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Premio del mal por mal ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ɔk⁷ iu² ɔk⁷ poʔ⁷",
+        "tai_lo_standard": "ok-iú-ok-poh",
+        "phonological_basis": "17c Dominican orthography conversion: og (惡) -> ɔk⁷ / ok; iu (有) -> iu² / iú; og (惡) -> ɔk⁷ / ok; po (報) -> poʔ⁷ / poh."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "Prenda, o empeñar",
+      "source_H": "當",
+      "source_M": "Fung.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Prenda, o empeñar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fuʔ⁷",
+        "tai_lo_standard": "fuh",
+        "phonological_basis": "17c Dominican orthography conversion: Fung (當) -> fuʔ⁷ / fuh."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "prenda ~",
+      "source_H": "當頭",
+      "source_M": "fung tau.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prenda ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fuʔ⁷ tʰau⁵",
+        "tai_lo_standard": "fuh-thâu",
+        "phonological_basis": "17c Dominican orthography conversion: fung (當) -> fuʔ⁷ / fuh; tau (頭) -> tʰau⁵ / thâu."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "prenda de amor & memoria",
+      "source_H": "古記",
+      "source_M": "cou guy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prenda de amor & memoria",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kou² gui³",
+        "tai_lo_standard": "kóu-guì",
+        "phonological_basis": "17c Dominican orthography conversion: cou (古) -> kou² / kóu; guy (記) -> gui³ / guì."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "Prender ~",
+      "source_H": "扨",
+      "source_M": "lia lia gin por fuerza",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Prender ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lia² lia⁶ giʔ⁷ por¹ fuerza¹",
+        "tai_lo_standard": "liá-liā-gih-por-fuerza",
+        "phonological_basis": "17c Dominican orthography conversion: lia (扨) -> lia² / liá; lia (?) -> lia⁶ / liā; gin (?) -> giʔ⁷ / gih; por (?) -> por¹ / por; fuerza (?) -> fuerza¹ / fuerza."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "prender, en carcelar ~",
+      "source_H": "拘",
+      "source_M": "cu hey.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prender, en carcelar ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ku¹ hei⁶",
+        "tai_lo_standard": "ku-hēi",
+        "phonological_basis": "17c Dominican orthography conversion: cu (拘) -> ku¹ / ku; hey (?) -> hei⁶ / hēi."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "prender ~",
+      "source_H": "提",
+      "source_M": "chiog hey.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prender ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiok⁷ hei¹",
+        "tai_lo_standard": "tsiok-hei",
+        "phonological_basis": "17c Dominican orthography conversion: chiog (提) -> tsiok⁷ / tsiok; hey (?) -> hei¹ / hei."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "prender pescado ~",
+      "source_H": "捕",
+      "source_M": "pou.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prender pescado ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pou¹",
+        "tai_lo_standard": "pou",
+        "phonological_basis": "17c Dominican orthography conversion: pou (捕) -> pou¹ / pou."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "prender ~",
+      "source_H": "拘提",
+      "source_M": "cu hey",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "prender ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ku¹ hei⁵",
+        "tai_lo_standard": "ku-hêi",
+        "phonological_basis": "17c Dominican orthography conversion: cu (拘) -> ku¹ / ku; hey (提) -> hei⁵ / hêi."
+      }
+    }
+  ]
+}

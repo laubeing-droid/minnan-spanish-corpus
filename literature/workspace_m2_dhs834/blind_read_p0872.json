@@ -1,0 +1,415 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 872,
+  "historical_folio": "417",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0872/pdf_0872_300dpi.png",
+  "page_header": "Q  ante .  417",
+  "page_footer_printed": "- 834 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Quedarse en alguna parte",
+      "source_H": "對",
+      "source_M": "Tui",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Quedarse en alguna parte",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tui³",
+        "tai_lo_standard": "tuì",
+        "phonological_basis": "17c Dominican orthography conversion: Tui (對) -> tui³ / tuì."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "quedarse en alguna parte (圈選重寫)",
+      "source_H": "帶",
+      "source_M": "toa : tai toa",
+      "source_R": "chiu toa : aquardzo",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "quedarse en alguna parte (圈選重寫)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toa² tai² toa²",
+        "tai_lo_standard": "toá-tái-toá",
+        "phonological_basis": "17c Dominican orthography conversion: toa (帶) -> toa² / toá; tai (?) -> tai² / tái; toa (?) -> toa² / toá."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "quedar se con lo ageno~",
+      "source_H": "[疑:蜀/溺]",
+      "source_M": "leg",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "quedar se con lo ageno~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lek⁷",
+        "tai_lo_standard": "lek",
+        "phonological_basis": "17c Dominican orthography conversion: leg (?) -> lek⁷ / lek."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "quedar se con lo pebr agraviando dela~",
+      "source_H": "刻 虧",
+      "source_M": "queg cuy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "quedar se con lo pebr agraviando dela~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰek⁷ kʰui¹",
+        "tai_lo_standard": "khek-khui",
+        "phonological_basis": "17c Dominican orthography conversion: queg (刻) -> kʰek⁷ / khek; cuy (虧) -> kʰui¹ / khui."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "quedarse con lo pebr agraviando dela~ (圈選重寫)",
+      "source_H": "克 虧",
+      "source_M": "car cuy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "quedarse con lo pebr agraviando dela~ (圈選重寫)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰar¹ kʰui¹",
+        "tai_lo_standard": "khar-khui",
+        "phonological_basis": "17c Dominican orthography conversion: car (克) -> kʰar¹ / khar; cuy (虧) -> kʰui¹ / khui."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "que dar se algun tiempo en tierra estrania~",
+      "source_H": "押 冬",
+      "source_M": "a tang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que dar se algun tiempo en tierra estrania~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "a² taŋ¹",
+        "tai_lo_standard": "á-tang",
+        "phonological_basis": "17c Dominican orthography conversion: a (押) -> a² / á; tang (冬) -> taŋ¹ / tang."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "quedar se aguardando~ (圈選)",
+      "source_H": "守 帶",
+      "source_M": "chiu toa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "quedar se aguardando~ (圈選)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiu² toa²",
+        "tai_lo_standard": "tsiú-toá",
+        "phonological_basis": "17c Dominican orthography conversion: chiu (守) -> tsiu² / tsiú; toa (帶) -> toa² / toá."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "quedar se elado, ut q: esperaba algo y le sucedio del rey~",
+      "source_H": "面 冷",
+      "source_M": "bin leng",
+      "source_R": "bin chin",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [
+        "T05 (平橫)"
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "quedar se elado, ut q: esperaba algo y le sucedio del rey~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bin⁵ leŋ¹",
+        "tai_lo_standard": "bîn-leng",
+        "phonological_basis": "17c Dominican orthography conversion: bin (面) -> bin⁵ / bîn; leng (冷) -> leŋ¹ / leng."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "queda te aqui .",
+      "source_H": "[疑:晉/徛] 放 處",
+      "source_M": "tau pang te",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "queda te aqui .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tau² pʰaŋ³ te²",
+        "tai_lo_standard": "táu-phàng-té",
+        "phonological_basis": "17c Dominican orthography conversion: tau (放) -> tau² / táu; pang (處) -> pʰaŋ³ / phàng; te (?) -> te² / té."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "Ques cosa y cosa?",
+      "source_H": "做 味",
+      "source_M": "chio by",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Ques cosa y cosa?",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsio³ bi⁵",
+        "tai_lo_standard": "tsiò-bî",
+        "phonological_basis": "17c Dominican orthography conversion: chio (做) -> tsio³ / tsiò; by (味) -> bi⁵ / bî."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "que es cosa y cosa: jugar a que es cosa y cosa.",
+      "source_H": "創 辨",
+      "source_M": "chong pan ; q adiuinar",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "que es cosa y cosa: jugar a que es cosa y cosa.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsɔŋ³ pan⁵ q¹ adiuinar¹",
+        "tai_lo_standard": "tsòng-pân-q-adiuinar",
+        "phonological_basis": "17c Dominican orthography conversion: chong (創) -> tsɔŋ³ / tsòng; pan (辨) -> pan⁵ / pân; q (?) -> q¹ / q; adiuinar (?) -> adiuinar¹ / adiuinar."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Quejar se querellar se~",
+      "source_H": "投",
+      "source_M": "tau ; tou",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Quejar se querellar se~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tau¹ tou¹",
+        "tai_lo_standard": "tau-tou",
+        "phonological_basis": "17c Dominican orthography conversion: tau (投) -> tau¹ / tau; tou (?) -> tou¹ / tou."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "quejar se ael Rey~",
+      "source_H": "伸",
+      "source_M": "sin",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "quejar se ael Rey~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sin¹",
+        "tai_lo_standard": "sin",
+        "phonological_basis": "17c Dominican orthography conversion: sin (伸) -> sin¹ / sin."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "quejar se ael Rey (圈選)",
+      "source_H": "伸 告",
+      "source_M": "sin co",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "quejar se ael Rey (圈選)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sin¹ ko³",
+        "tai_lo_standard": "sin-kò",
+        "phonological_basis": "17c Dominican orthography conversion: sin (伸) -> sin¹ / sin; co (告) -> ko³ / kò."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "quejar se con el enfermo .",
+      "source_H": "[残]",
+      "source_M": "chan",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "quejar se con el enfermo .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsan³",
+        "tai_lo_standard": "tsàn",
+        "phonological_basis": "17c Dominican orthography conversion: chan (?) -> tsan³ / tsàn."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "quejar se~",
+      "source_H": "投 告",
+      "source_M": "tan co (圈選)",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "quejar se~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tan³ ko¹",
+        "tai_lo_standard": "tàn-ko",
+        "phonological_basis": "17c Dominican orthography conversion: tan (投) -> tan³ / tàn; co (告) -> ko¹ / ko."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "quejar se mucho~",
+      "source_H": "亂 [残] 孱",
+      "source_M": "loan loan chan",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "quejar se mucho~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "loan³ loan³ tsan³",
+        "tai_lo_standard": "loàn-loàn-tsàn",
+        "phonological_basis": "17c Dominican orthography conversion: loan (亂) -> loan³ / loàn; loan (孱) -> loan³ / loàn; chan (?) -> tsan³ / tsàn."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "quejar se con sentimiento .",
+      "source_H": "哀 告",
+      "source_M": "ay co",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "quejar se con sentimiento .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ai⁵ ko³",
+        "tai_lo_standard": "âi-kò",
+        "phonological_basis": "17c Dominican orthography conversion: ay (哀) -> ai⁵ / âi; co (告) -> ko³ / kò."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "quejar se suspirando~",
+      "source_H": "吐 氣",
+      "source_M": "tou cui",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "quejar se suspirando~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tou³ kʰui³",
+        "tai_lo_standard": "tòu-khuì",
+        "phonological_basis": "17c Dominican orthography conversion: tou (吐) -> tou³ / tòu; cui (氣) -> kʰui³ / khuì."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "quejar se de su suerte, o en fermidad~",
+      "source_H": "[疑:叫/咎] 苦",
+      "source_M": "quio cou",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "quejar se de su suerte, o en fermidad~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kʰio³ kou³",
+        "tai_lo_standard": "khiò-kòu",
+        "phonological_basis": "17c Dominican orthography conversion: quio (苦) -> kʰio³ / khiò; cou (?) -> kou³ / kòu."
+      }
+    }
+  ]
+}

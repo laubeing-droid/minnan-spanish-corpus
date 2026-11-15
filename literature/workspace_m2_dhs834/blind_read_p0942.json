@@ -1,0 +1,420 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 942,
+  "historical_folio": "450 (手写, 右上角)",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0942/pdf_0942_300dpi.png",
+  "page_header": "ante.",
+  "page_footer_printed": "- 904 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 20,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "Sacristan del idolo-",
+      "source_H": "管 礼 拜",
+      "source_M": "cuan ley pay",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sacristan del idolo-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuan² lei² pai³",
+        "tai_lo_standard": "kuán-léi-pài",
+        "phonological_basis": "17c Dominican orthography conversion: cuan (管) -> kuan² / kuán; ley (礼) -> lei² / léi; pay (拜) -> pai³ / pài."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "Sacristan del idolo-",
+      "source_H": "[疑:音/暜] 礼 拜",
+      "source_M": "cua ley pay",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sacristan del idolo-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kua² lei² pai³",
+        "tai_lo_standard": "kuá-léi-pài",
+        "phonological_basis": "17c Dominican orthography conversion: cua (礼) -> kua² / kuá; ley (拜) -> lei² / léi; pay (?) -> pai³ / pài."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "sacristan de rioma en el nano ~",
+      "source_H": "香 公",
+      "source_M": "hio cong",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "sacristan de rioma en el nano ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hio² kɔŋ¹",
+        "tai_lo_standard": "hió-kong",
+        "phonological_basis": "17c Dominican orthography conversion: hio (香) -> hio² / hió; cong (公) -> kɔŋ¹ / kong."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Sacudir a costar.",
+      "source_H": "打",
+      "source_M": "P'a hio. ngi ja. yin racon pa tay ... to dam [残]",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sacudir a costar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pi⁵ a¹ hio¹ ŋi¹ dza¹ iin¹ racon¹ pa¹ tai¹ to¹ dam¹",
+        "tai_lo_standard": "pî-a-hio-ngi-ja-iin-racon-pa-tai-to-dam",
+        "phonological_basis": "17c Dominican orthography conversion: P (打) -> pi⁵ / pî; a (?) -> a¹ / a; hio (?) -> hio¹ / hio; ngi (?) -> ŋi¹ / ngi; ja (?) -> dza¹ / ja; yin (?) -> iin¹ / iin; racon (?) -> racon¹ / racon; pa (?) -> pa¹ / pa; tay (?) -> tai¹ / tai; to (?) -> to¹ / to; dam (?) -> dam¹ / dam."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "La cudir a costar.",
+      "source_H": "[残]",
+      "source_M": "coj. co",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "La cudir a costar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "koj⁶ ko²",
+        "tai_lo_standard": "kōj-kó",
+        "phonological_basis": "17c Dominican orthography conversion: coj (?) -> koj⁶ / kōj; co (?) -> ko² / kó."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "la cudir empe doney -",
+      "source_H": "撞",
+      "source_M": "tucip.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "la cudir empe doney -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tucip⁷",
+        "tai_lo_standard": "tucip",
+        "phonological_basis": "17c Dominican orthography conversion: tucip (撞) -> tucip⁷ / tucip."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "la cudir como la pluma o dedo.",
+      "source_H": "献",
+      "source_M": "hi. hien",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "la cudir como la pluma o dedo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi²",
+        "tai_lo_standard": "hí",
+        "phonological_basis": "17c Dominican orthography conversion: hi (献) -> hi² / hí."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "la cudir las alas apriesa -",
+      "source_H": "[空]",
+      "source_M": "Sip.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "la cudir las alas apriesa -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sip⁷",
+        "tai_lo_standard": "sip",
+        "phonological_basis": "17c Dominican orthography conversion: Sip (?) -> sip⁷ / sip."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "la cudir la mesa con vmpaño, &.",
+      "source_H": "捎",
+      "source_M": "siag.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "la cudir la mesa con vmpaño, &.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siak⁷",
+        "tai_lo_standard": "siak",
+        "phonological_basis": "17c Dominican orthography conversion: siag (捎) -> siak⁷ / siak."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "la cudir, a costar",
+      "source_H": "打 着",
+      "source_M": "pa tio (圈注)",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "la cudir, a costar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pa¹ tio²",
+        "tai_lo_standard": "pa-tió",
+        "phonological_basis": "17c Dominican orthography conversion: pa (打) -> pa¹ / pa; tio (着) -> tio² / tió."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "la cudir sin racon.",
+      "source_H": "硬 打",
+      "source_M": "nge pa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "la cudir sin racon.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ŋe¹ pa³",
+        "tai_lo_standard": "nge-pà",
+        "phonological_basis": "17c Dominican orthography conversion: nge (硬) -> ŋe¹ / nge; pa (打) -> pa³ / pà."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "la cudir pesada, grauemente.",
+      "source_H": "打 重",
+      "source_M": "pa tay",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "la cudir pesada, grauemente.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pa³ tai²",
+        "tai_lo_standard": "pà-tái",
+        "phonological_basis": "17c Dominican orthography conversion: pa (打) -> pa³ / pà; tay (重) -> tai² / tái."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "la cudir apriesa -",
+      "source_H": "[残] 落",
+      "source_M": "chy chy lo",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "la cudir apriesa -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi³ tsi² lo²",
+        "tai_lo_standard": "tsì-tsí-ló",
+        "phonological_basis": "17c Dominican orthography conversion: chy (落) -> tsi³ / tsì; chy (?) -> tsi² / tsí; lo (?) -> lo² / ló."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "la cudir apriesa",
+      "source_H": "[残] 落 袂 算 得",
+      "source_M": "chy chy lo bey tzui ter",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "la cudir apriesa",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi³ tsi² lo² bei² tzui³ ter³",
+        "tai_lo_standard": "tsì-tsí-ló-béi-tzuì-tèr",
+        "phonological_basis": "17c Dominican orthography conversion: chy (落) -> tsi³ / tsì; chy (袂) -> tsi² / tsí; lo (算) -> lo² / ló; bey (得) -> bei² / béi; tzui (?) -> tzui³ / tzuì; ter (?) -> ter³ / tèr."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "la cudir a costar mui bien, si le piden le pega -",
+      "source_H": "断 打",
+      "source_M": "toan pa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "la cudir a costar mui bien, si le piden le pega -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "toan² pa³",
+        "tai_lo_standard": "toán-pà",
+        "phonological_basis": "17c Dominican orthography conversion: toan (断) -> toan² / toán; pa (打) -> pa³ / pà."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "la cudir fuera, y otras bellaquerias como esta -",
+      "source_H": "处 变",
+      "source_M": "chi pien",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "la cudir fuera, y otras bellaquerias como esta -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi² pien³",
+        "tai_lo_standard": "tsí-pièn",
+        "phonological_basis": "17c Dominican orthography conversion: chi (处) -> tsi² / tsí; pien (变) -> pien³ / pièn."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "la cudir crueldad, a costalle",
+      "source_H": "着 宴 打",
+      "source_M": "chiag ti pa.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "la cudir crueldad, a costalle",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiak⁸ ti² pa³",
+        "tai_lo_standard": "tsia̍k-tí-pà",
+        "phonological_basis": "17c Dominican orthography conversion: chiag (着) -> tsiak⁸ / tsia̍k; ti (宴) -> ti² / tí; pa (打) -> pa³ / pà."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "la cudir desiamosjando.",
+      "source_H": "献 却 丢",
+      "source_M": "hi quiu tiu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "la cudir desiamosjando.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hi² kiu³ tiu²",
+        "tai_lo_standard": "hí-kiù-tiú",
+        "phonological_basis": "17c Dominican orthography conversion: hi (献) -> hi² / hí; quiu (却) -> kiu³ / kiù; tiu (丢) -> tiu² / tiú."
+      }
+    },
+    {
+      "position": 19,
+      "source_L": "Salta.",
+      "source_H": "箭",
+      "source_M": "chy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Salta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi³",
+        "tai_lo_standard": "tsì",
+        "phonological_basis": "17c Dominican orthography conversion: chy (箭) -> tsi³ / tsì."
+      }
+    },
+    {
+      "position": 20,
+      "source_L": "Sageta",
+      "source_H": "弩 箭",
+      "source_M": "lou chy hoa chy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Sageta",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lou² tsi³ hoa³ tsi³",
+        "tai_lo_standard": "lóu-tsì-hoà-tsì",
+        "phonological_basis": "17c Dominican orthography conversion: lou (弩) -> lou² / lóu; chy (箭) -> tsi³ / tsì; hoa (?) -> hoa³ / hoà; chy (?) -> tsi³ / tsì."
+      }
+    }
+  ]
+}

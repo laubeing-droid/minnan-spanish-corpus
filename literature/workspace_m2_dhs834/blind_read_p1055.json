@@ -1,0 +1,370 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1055,
+  "historical_folio": "",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1055/pdf_1055_300dpi.png",
+  "page_header": "[残] 頁頂有淡墨手寫塗鴉數筆（近似「zade y k」），難辨",
+  "page_footer_printed": "- 1017 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "franpottos malpagador-",
+      "source_H": "抱延",
+      "source_M": "na ien",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "franpottos malpagador-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "na¹ ien⁵",
+        "tai_lo_standard": "na-iên",
+        "phonological_basis": "17c Dominican orthography conversion: na (抱) -> na¹ / na; ien (延) -> ien⁵ / iên."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "franpottos malpagador -",
+      "source_H": "抱狗皮",
+      "source_M": "na cau pue.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "franpottos malpagador -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "na¹ kau² pue⁵",
+        "tai_lo_standard": "na-káu-puê",
+        "phonological_basis": "17c Dominican orthography conversion: na (抱) -> na¹ / na; cau (狗) -> kau² / káu; pue (皮) -> pue⁵ / puê."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "franpottos malpagador-",
+      "source_H": "巷深狗怯",
+      "source_M": "hang chim cau guiap",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T02 (降斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "franpottos malpagador-",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "haŋ³ tsim¹ kau² guiap⁷",
+        "tai_lo_standard": "hàng-tsim-káu-guiap",
+        "phonological_basis": "17c Dominican orthography conversion: hang (巷) -> haŋ³ / hàng; chim (深) -> tsim¹ / tsim; cau (狗) -> kau² / káu; guiap (怯) -> guiap⁷ / guiap."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Franca depuerta, o ventana~",
+      "source_H": "関",
+      "source_M": "pag",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Franca depuerta, o ventana~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pak⁷",
+        "tai_lo_standard": "pak",
+        "phonological_basis": "17c Dominican orthography conversion: pag (関) -> pak⁷ / pak."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "franca -",
+      "source_H": "閔",
+      "source_M": "cuan Lua",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "franca -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kuan¹ lua¹",
+        "tai_lo_standard": "kuan-lua",
+        "phonological_basis": "17c Dominican orthography conversion: cuan (閔) -> kuan¹ / kuan; Lua (?) -> lua¹ / lua."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "franca -",
+      "source_H": "閘",
+      "source_M": "choa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "franca -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsoa³",
+        "tai_lo_standard": "tsoà",
+        "phonological_basis": "17c Dominican orthography conversion: choa (閘) -> tsoa³ / tsoà."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "franca .",
+      "source_H": "門",
+      "source_M": "fui",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "franca .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "fui¹",
+        "tai_lo_standard": "fui",
+        "phonological_basis": "17c Dominican orthography conversion: fui (門) -> fui¹ / fui."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "Francar la puerta.",
+      "source_H": "門閘",
+      "source_M": "mui choa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Francar la puerta.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "mui⁵ tsoa³",
+        "tai_lo_standard": "muî-tsoà",
+        "phonological_basis": "17c Dominican orthography conversion: mui (門) -> mui⁵ / muî; choa (閘) -> tsoa³ / tsoà."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "francar lapuerta -",
+      "source_H": "門帶",
+      "source_M": "qui choa",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "francar lapuerta -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ki⁵ tsoa³",
+        "tai_lo_standard": "kî-tsoà",
+        "phonological_basis": "17c Dominican orthography conversion: qui (門) -> ki⁵ / kî; choa (帶) -> tsoa³ / tsoà."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "franca, o palanca de cargadores -",
+      "source_H": "槓",
+      "source_M": "gueng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "franca, o palanca de cargadores -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gueŋ¹",
+        "tai_lo_standard": "gueng",
+        "phonological_basis": "17c Dominican orthography conversion: gueng (槓) -> gueŋ¹ / gueng."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Franchete.",
+      "source_H": "裁",
+      "source_M": "chay",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Franchete.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsai¹",
+        "tai_lo_standard": "tsai",
+        "phonological_basis": "17c Dominican orthography conversion: chay (裁) -> tsai¹ / tsai."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "franchete -",
+      "source_H": "裁刀",
+      "source_M": "chay to.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "franchete -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsai¹ to¹",
+        "tai_lo_standard": "tsai-to",
+        "phonological_basis": "17c Dominican orthography conversion: chay (裁) -> tsai¹ / tsai; to (刀) -> to¹ / to."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "franchete ^f",
+      "source_H": "菜刀",
+      "source_M": "chay to.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "franchete ^f",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰai³ to¹",
+        "tai_lo_standard": "tshài-to",
+        "phonological_basis": "17c Dominican orthography conversion: chay (菜) -> tsʰai³ / tshài; to (刀) -> to¹ / to."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Trapote limpiar la mesa y limpiarla f tropefar -",
+      "source_H": "拭掉",
+      "source_M": "chit to.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Trapote limpiar la mesa y limpiarla f tropefar -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsit⁷ to¹",
+        "tai_lo_standard": "tsit-to",
+        "phonological_basis": "17c Dominican orthography conversion: chit (拭) -> tsit⁷ / tsit; to (掉) -> to¹ / to."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Frazegar zona parte adra.",
+      "source_H": "捐",
+      "source_M": "hiang:",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Frazegar zona parte adra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hiaŋ⁵",
+        "tai_lo_standard": "hiâng",
+        "phonological_basis": "17c Dominican orthography conversion: hiang (捐) -> hiaŋ⁵ / hiâng."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "trazegar de una parte adra.",
+      "source_H": "併處",
+      "source_M": "pia te:",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "trazegar de una parte adra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pia³ tʰe¹",
+        "tai_lo_standard": "pià-the",
+        "phonological_basis": "17c Dominican orthography conversion: pia (併) -> pia³ / pià; te (處) -> tʰe¹ / the."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "trazegar de una parte adra.",
+      "source_H": "捐起來",
+      "source_M": "chiang qui lay:",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "trazegar de una parte adra.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiaŋ⁵ kʰi¹ lai⁵",
+        "tai_lo_standard": "tsiâng-khi-lâi",
+        "phonological_basis": "17c Dominican orthography conversion: chiang (捐) -> tsiaŋ⁵ / tsiâng; qui (起) -> kʰi¹ / khi; lay (來) -> lai⁵ / lâi."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "Trasladar con vida.",
+      "source_H": "平",
+      "source_M": "Pia",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Trasladar con vida.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pia⁵",
+        "tai_lo_standard": "piâ",
+        "phonological_basis": "17c Dominican orthography conversion: Pia (平) -> pia⁵ / piâ."
+      }
+    }
+  ]
+}

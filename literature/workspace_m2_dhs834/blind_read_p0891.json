@@ -1,0 +1,377 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 891,
+  "historical_folio": "",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0891/pdf_0891_300dpi.png",
+  "page_header": "ante. (手寫頁眉，另頁角有花體塗鴉)",
+  "page_footer_printed": "- 853 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "reciuir soldados ~",
+      "source_H": "領兵",
+      "source_M": "nià peñ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "reciuir soldados ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "nia² pẽn³",
+        "tai_lo_standard": "niá-pèn",
+        "phonological_basis": "17c Dominican orthography conversion: nià (領) -> nia² / niá; peñ (兵) -> pẽn³ / pèn."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "reciuir tributos el encomen- dero ~ (圈注)",
+      "source_H": "糧·戶",
+      "source_M": "nio hóu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "reciuir tributos el encomen- dero ~ (圈注)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "nio¹ hou¹",
+        "tai_lo_standard": "nio-hou",
+        "phonological_basis": "17c Dominican orthography conversion: nio (糧) -> nio¹ / nio; hóu (戶) -> hou¹ / hou."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "reciuir el favor. (圈注)",
+      "source_H": "渥恩",
+      "source_M": "áp ím",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "reciuir el favor. (圈注)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ap⁷ im¹",
+        "tai_lo_standard": "ap-im",
+        "phonological_basis": "17c Dominican orthography conversion: áp (渥) -> ap⁷ / ap; ím (恩) -> im¹ / im."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "reciuir cohechos ~",
+      "source_H": "暗絞人[残]",
+      "source_M": "am chun lay.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)",
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "reciuir cohechos ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "am³ tsun¹ lai⁵",
+        "tai_lo_standard": "àm-tsun-lâi",
+        "phonological_basis": "17c Dominican orthography conversion: am (暗) -> am³ / àm; chun (絞) -> tsun¹ / tsun; lay (人) -> lai⁵ / lâi."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "reciuir la merced ~",
+      "source_H": "沐恩",
+      "source_M": "bo jin.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "reciuir la merced ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bo¹ dzin²",
+        "tai_lo_standard": "bo-jín",
+        "phonological_basis": "17c Dominican orthography conversion: bo (沐) -> bo¹ / bo; jin (恩) -> dzin² / jín."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "reciuir algo despues de hecho co- mo el afs. que venel offi. ~ [残]",
+      "source_H": "承下手",
+      "source_M": "sin e chiu",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T04 (凹角)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "reciuir algo despues de hecho co- mo el afs. que venel offi. ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sin⁵ e² tsiu¹",
+        "tai_lo_standard": "sîn-é-tsiu",
+        "phonological_basis": "17c Dominican orthography conversion: sin (承) -> sin⁵ / sîn; e (下) -> e² / é; chiu (手) -> tsiu¹ / tsiu."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "reciuir en señal ~",
+      "source_H": "收定",
+      "source_M": "siú sĭa.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "reciuir en señal ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siu¹ si¹ a¹",
+        "tai_lo_standard": "siu-si-a",
+        "phonological_basis": "17c Dominican orthography conversion: siú (收) -> siu¹ / siu; s (定) -> si¹ / si; a (?) -> a¹ / a."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "reciuir agravios por poco tiempo ~",
+      "source_H": "暫屈",
+      "source_M": "chiàm cūr. siū cūr.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)",
+        "T05 (平橫)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "reciuir agravios por poco tiempo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiam² kʰur⁵ siu⁶ kur⁶",
+        "tai_lo_standard": "tsiám-khûr-siū-kūr",
+        "phonological_basis": "17c Dominican orthography conversion: chiàm (暫) -> tsiam² / tsiám; cūr (屈) -> kʰur⁵ / khûr; siū (?) -> siu⁶ / siū; cūr (?) -> kur⁶ / kūr."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "recivir log yndoy ~ [疑:recibir los yndios]",
+      "source_H": "授受",
+      "source_M": "sĭu sĭu.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recivir log yndoy ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si² u² si¹ u¹",
+        "tai_lo_standard": "sí-ú-si-u",
+        "phonological_basis": "17c Dominican orthography conversion: s (授) -> si² / sí; u (受) -> u² / ú; s (?) -> si¹ / si; u (?) -> u¹ / u."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "recivir dadivas obras he dar ~ [残]",
+      "source_H": "受賜",
+      "source_M": "sĭu sǐ.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T04 (凹角)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recivir dadivas obras he dar ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si² u³ si⁶",
+        "tai_lo_standard": "sí-ù-sī",
+        "phonological_basis": "17c Dominican orthography conversion: s (受) -> si² / sí; u (賜) -> u³ / ù; sǐ (?) -> si⁶ / sī."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Reciproco ~",
+      "source_H": "相",
+      "source_M": "siosia; siang;",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Reciproco ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siosia¹ siaŋ⁶",
+        "tai_lo_standard": "siosia-siāng",
+        "phonological_basis": "17c Dominican orthography conversion: siosia (相) -> siosia¹ / siosia; siang (?) -> siaŋ⁶ / siāng."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "Reclamo, a [残] un pajarillo ~",
+      "source_H": "烏四",
+      "source_M": "bū.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Reclamo, a un pajarillo ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "bu⁵",
+        "tai_lo_standard": "bû",
+        "phonological_basis": "17c Dominican orthography conversion: bū (烏) -> bu⁵ / bû."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "reclamo, este pajarillo.",
+      "source_H": "鳥四",
+      "source_M": "chiàu bū.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "reclamo, este pajarillo.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiau² bu⁵",
+        "tai_lo_standard": "tsiáu-bû",
+        "phonological_basis": "17c Dominican orthography conversion: chiàu (鳥) -> tsiau² / tsiáu; bū (四) -> bu⁵ / bû."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "Reclinar se subirse al braço",
+      "source_H": "靠",
+      "source_M": "co'l oà co.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Reclinar se subirse al braço",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "ko¹ li⁶ oa² ko¹",
+        "tai_lo_standard": "ko-lī-oá-ko",
+        "phonological_basis": "17c Dominican orthography conversion: co (靠) -> ko¹ / ko; l (?) -> li⁶ / lī; oà (?) -> oa² / oá; co (?) -> ko¹ / ko."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "Recoger algun lugar ~",
+      "source_H": "收",
+      "source_M": "siú.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Recoger algun lugar ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siu¹",
+        "tai_lo_standard": "siu",
+        "phonological_basis": "17c Dominican orthography conversion: siú (收) -> siu¹ / siu."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "recogerse enmendarse",
+      "source_H": "收脚",
+      "source_M": "siú ca.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recogerse enmendarse",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "siu¹ ka¹",
+        "tai_lo_standard": "siu-ka",
+        "phonological_basis": "17c Dominican orthography conversion: siú (收) -> siu¹ / siu; ca (脚) -> ka¹ / ka."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "recoger el cabello de la frente ~",
+      "source_H": "鬢髭 [残]",
+      "source_M": "pin gui.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recoger el cabello de la frente ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pin⁵ gui²",
+        "tai_lo_standard": "pîn-guí",
+        "phonological_basis": "17c Dominican orthography conversion: pin (鬢) -> pin⁵ / pîn; gui (髭) -> gui² / guí."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "recoger soldados ~",
+      "source_H": "起兵",
+      "source_M": "gui peñ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "recoger soldados ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gui¹ pẽn³",
+        "tai_lo_standard": "gui-pèn",
+        "phonological_basis": "17c Dominican orthography conversion: gui (起) -> gui¹ / gui; peñ (兵) -> pẽn³ / pèn."
+      }
+    }
+  ]
+}

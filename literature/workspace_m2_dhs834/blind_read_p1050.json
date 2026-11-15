@@ -1,0 +1,360 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 1050,
+  "historical_folio": "右上角手写页码「6t」；另有淡铅笔/墨小字「506」",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_1050/pdf_1050_300dpi.png",
+  "page_header": "页眉上方有极淡手写字迹（似「aula/autt」），污損難辨",
+  "page_footer_printed": "- 1012 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 17,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "trabajador darlo~ (圈註；圈内另有一行 trabajador, darlo~)",
+      "source_H": "災难",
+      "source_M": "cháy lan",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "trabajador darlo~ (圈註；圈内另有一行 trabajador, darlo~)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsai¹ lan²",
+        "tai_lo_standard": "tsai-lán",
+        "phonological_basis": "17c Dominican orthography conversion: cháy (災) -> tsai¹ / tsai; lan (难) -> lan² / lán."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "[空] (上一条圈内第二行: trabajador, darlo~)",
+      "source_H": "火災",
+      "source_M": "hùe cháy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "(上一条圈内第二行: trabajador, darlo~)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hue² tsai¹",
+        "tai_lo_standard": "hué-tsai",
+        "phonological_basis": "17c Dominican orthography conversion: hùe (火) -> hue² / hué; cháy (災) -> tsai¹ / tsai."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "trabajador~",
+      "source_H": "工",
+      "source_M": "cang",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "trabajador~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kaŋ¹",
+        "tai_lo_standard": "kang",
+        "phonological_basis": "17c Dominican orthography conversion: cang (工) -> kaŋ¹ / kang."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "[空]",
+      "source_H": "工夫",
+      "source_M": "cang' hú",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kaŋ¹ hu¹",
+        "tai_lo_standard": "kang-hu",
+        "phonological_basis": "17c Dominican orthography conversion: cang (工) -> kaŋ¹ / kang; hú (夫) -> hu¹ / hu."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "[空]",
+      "source_H": "做工",
+      "source_M": "chò cang côi",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso² kaŋ¹ koi³",
+        "tai_lo_standard": "tsó-kang-kòi",
+        "phonological_basis": "17c Dominican orthography conversion: chò (做) -> tso² / tsó; cang (工) -> kaŋ¹ / kang; côi (?) -> koi³ / kòi."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "[空]",
+      "source_H": "做工夫",
+      "source_M": "y. chò cang hú",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "i² tso¹ kaŋ¹ hu¹",
+        "tai_lo_standard": "í-tso-kang-hu",
+        "phonological_basis": "17c Dominican orthography conversion: y (做) -> i² / í; chò (工) -> tso¹ / tso; cang (夫) -> kaŋ¹ / kang; hú (?) -> hu¹ / hu."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "trabajador ordinariamente",
+      "source_H": "工業 (两字上各有小点，示叠读为 queng queng giap giap)",
+      "source_M": "queng queng giap giap",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T99 (污損難辨)",
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "trabajador ordinariamente",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "keŋ¹ keŋ¹ giap⁷ giap⁷",
+        "tai_lo_standard": "keng-keng-giap-giap",
+        "phonological_basis": "17c Dominican orthography conversion: queng (工) -> keŋ¹ / keng; queng (業) -> keŋ¹ / keng; giap (两) -> giap⁷ / giap; giap (字) -> giap⁷ / giap."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "trabajador cansado~ (圈註；圈内另有一行 trabajador cansado~)",
+      "source_H": "損氣",
+      "source_M": "qun quy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "trabajador cansado~ (圈註；圈内另有一行 trabajador cansado~)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kiʔ⁷ kʰi¹",
+        "tai_lo_standard": "kih-khi",
+        "phonological_basis": "17c Dominican orthography conversion: qun (損) -> kiʔ⁷ / kih; quy (氣) -> kʰi¹ / khi."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "trabajador cansado~ (圈註)",
+      "source_H": "劳落",
+      "source_M": "lo log",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "trabajador cansado~ (圈註)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "loʔ⁷ lɔk⁸",
+        "tai_lo_standard": "loh-lo̍k",
+        "phonological_basis": "17c Dominican orthography conversion: lo (劳) -> loʔ⁷ / loh; log (落) -> lɔk⁸ / lo̍k."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "trabajador, jornalero~",
+      "source_H": "工夫人",
+      "source_M": "cang' hú lan̄g",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "trabajador, jornalero~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kaŋ¹ hu¹ laŋ⁵",
+        "tai_lo_standard": "kang-hu-lâng",
+        "phonological_basis": "17c Dominican orthography conversion: cang (工) -> kaŋ¹ / kang; hú (夫) -> hu¹ / hu; lan̄g (人) -> laŋ⁵ / lâng."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "trabajador jornalero~ (圈註；圈内另有两行 trabajador jornalero~)",
+      "source_H": "做工夫人",
+      "source_M": "chò cang hú lan̄g",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T01 (升斜)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "trabajador jornalero~ (圈註；圈内另有两行 trabajador jornalero~)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tso² kaŋ¹ hu¹ laŋ⁵",
+        "tai_lo_standard": "tsó-kang-hu-lâng",
+        "phonological_basis": "17c Dominican orthography conversion: chò (做) -> tso² / tsó; cang (工) -> kaŋ¹ / kang; hú (夫) -> hu¹ / hu; lan̄g (人) -> laŋ⁵ / lâng."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "trabajador jornalero~ (圈註)",
+      "source_H": "匠催人 [疑:第二字或为傭]",
+      "source_M": "chio cou lan̄g",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "trabajador jornalero~ (圈註)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsioʔ⁷ kou⁵ laŋ⁵",
+        "tai_lo_standard": "tsioh-kôu-lâng",
+        "phonological_basis": "17c Dominican orthography conversion: chio (匠) -> tsioʔ⁷ / tsioh; cou (催) -> kou⁵ / kôu; lan̄g (人) -> laŋ⁵ / lâng."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "trabajador grande~ (旁注竖排小字倒写: soltero)",
+      "source_H": "急計人",
+      "source_M": "quip guey lan̄g",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T06/T07 (交叉入聲號)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "trabajador grande~ (旁注竖排小字倒写: soltero)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kip⁷ gueiʔ⁷ laŋ⁵",
+        "tai_lo_standard": "kip-gueih-lâng",
+        "phonological_basis": "17c Dominican orthography conversion: quip (急) -> kip⁷ / kip; guey (計) -> gueiʔ⁷ / gueih; lan̄g (人) -> laŋ⁵ / lâng."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "trabará amistad~",
+      "source_H": "交",
+      "source_M": "cau gie",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "trabará amistad~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kau¹ gieʔ⁷",
+        "tai_lo_standard": "kau-gieh",
+        "phonological_basis": "17c Dominican orthography conversion: cau (交) -> kau¹ / kau; gie (?) -> gieʔ⁷ / gieh."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "trabar amistad (大括号组首行)",
+      "source_H": "結",
+      "source_M": "y. guier cau",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "trabar amistad (大括号组首行)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "iʔ⁷",
+        "tai_lo_standard": "ih",
+        "phonological_basis": "17c Dominican orthography conversion: y (結) -> iʔ⁷ / ih."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "trabar grande amistad (大括号组第二行)",
+      "source_H": "結義兄弟",
+      "source_M": "guier gi hia ty",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T03 (尖頂帽)",
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "trabar grande amistad (大括号组第二行)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guierʔ⁷ gi³ hiaʔ⁷ ti¹",
+        "tai_lo_standard": "guierh-gì-hiah-ti",
+        "phonological_basis": "17c Dominican orthography conversion: guier (結) -> guierʔ⁷ / guierh; gi (義) -> gi³ / gì; hia (兄) -> hiaʔ⁷ / hiah; ty (弟) -> ti¹ / ti."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "trabar amistad~ (大括号组第三行)",
+      "source_H": "結交",
+      "source_M": "guier cau (圈註)",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)",
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "trabar amistad~ (大括号组第三行)",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guierʔ⁷ kau¹",
+        "tai_lo_standard": "guierh-kau",
+        "phonological_basis": "17c Dominican orthography conversion: guier (結) -> guierʔ⁷ / guierh; cau (交) -> kau¹ / kau."
+      }
+    }
+  ]
+}

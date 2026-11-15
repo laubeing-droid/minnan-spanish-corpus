@@ -1,0 +1,379 @@
+{
+  "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
+  "pdf_page": 900,
+  "historical_folio": "手寫灰鉛頁碼 91（右上，[疑:91/431]）",
+  "layout_mode": "DHS_4COL_BILINGUAL",
+  "image_source": "literature/tiles/01_DHS/page_0900/pdf_0900_300dpi.png",
+  "page_header": "手寫花體頁首殘字：Re—（大花體起頭）… ane. （上緣續前頁詞頭殘跡）",
+  "page_footer_printed": "- 862 -",
+  "page_footer_handwritten": "",
+  "total_positions_recorded": 18,
+  "blind_state": "AUDITED_VISUALLY_VERIFIED",
+  "entries": [
+    {
+      "position": 1,
+      "source_L": "remar champan（圈注）",
+      "source_H": "楫",
+      "source_M": "cõ",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "remar champan（圈注）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [
+          {
+            "term": "champan",
+            "hanzi": "舢舨 / 唐船",
+            "tai_lo": "sam-pán",
+            "zh_note": "往返閩南與呂宋之華人海船或大型舢舨（Champán）",
+            "en_note": "Chinese trading junk or sampan vessel"
+          }
+        ],
+        "reconstructed_17th_c_hokkien": "kõ¹",
+        "tai_lo_standard": "konn",
+        "phonological_basis": "17c Dominican orthography conversion: cõ (楫) -> kõ¹ / konn."
+      }
+    },
+    {
+      "position": 2,
+      "source_L": "remar banca（圈注）",
+      "source_H": "[疑:抜杭/抌杭]",
+      "source_M": "gẽ xīo .ban ca（連圈）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "remar banca（圈注）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "gẽ¹ dzio⁶ ban¹ ka¹",
+        "tai_lo_standard": "genn-jiō-ban-ka",
+        "phonological_basis": "17c Dominican orthography conversion: gẽ (?) -> gẽ¹ / genn; xīo (?) -> dzio⁶ / jiō; ban (?) -> ban¹ / ban; ca (?) -> ka¹ / ka."
+      }
+    },
+    {
+      "position": 3,
+      "source_L": "[空]",
+      "source_H": "學",
+      "source_M": "hag（圈注，尾加小筆入聲號）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T06/T07 (交叉入聲號)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hak⁸",
+        "tai_lo_standard": "ha̍k",
+        "phonological_basis": "17c Dominican orthography conversion: hag (學) -> hak⁸ / ha̍k."
+      }
+    },
+    {
+      "position": 4,
+      "source_L": "Remediar emmendando.",
+      "source_H": "改",
+      "source_M": "quêy",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Remediar emmendando.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kei³",
+        "tai_lo_standard": "kèi",
+        "phonological_basis": "17c Dominican orthography conversion: quêy (改) -> kei³ / kèi."
+      }
+    },
+    {
+      "position": 5,
+      "source_L": "remediar & fa brecer ~ ain dar.",
+      "source_H": "護",
+      "source_M": "hōu pò hōu.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "remediar & fa brecer ~ ain dar.",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hou⁵ po² hou⁶",
+        "tai_lo_standard": "hôu-pó-hōu",
+        "phonological_basis": "17c Dominican orthography conversion: hōu (護) -> hou⁵ / hôu; pò (?) -> po² / pó; hōu (?) -> hou⁶ / hōu."
+      }
+    },
+    {
+      "position": 6,
+      "source_L": "remediar fa brecer（圈注）",
+      "source_H": "勸.",
+      "source_M": "tang sàng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "remediar fa brecer（圈注）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰaŋ² saŋ²",
+        "tai_lo_standard": "tháng-sáng",
+        "phonological_basis": "17c Dominican orthography conversion: tang (勸) -> tʰaŋ² / tháng; sàng (?) -> saŋ² / sáng."
+      }
+    },
+    {
+      "position": 7,
+      "source_L": "remediar ~（圈注）",
+      "source_H": "周旋",
+      "source_M": "chiù guan",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "remediar ~（圈注）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiu² guan¹",
+        "tai_lo_standard": "tsiú-guan",
+        "phonological_basis": "17c Dominican orthography conversion: chiù (周) -> tsiu² / tsiú; guan (旋) -> guan¹ / guan."
+      }
+    },
+    {
+      "position": 8,
+      "source_L": "remediar ayudando algun negocio ~",
+      "source_H": "支持",
+      "source_M": "chý chī : chý chī.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T01 (升斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "remediar ayudando algun negocio ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsi¹ tsi⁵ tsi¹ tsi⁶",
+        "tai_lo_standard": "tsi-tsî-tsi-tsī",
+        "phonological_basis": "17c Dominican orthography conversion: ch (支) -> tsi¹ / tsi; chī (持) -> tsi⁵ / tsî; ch (?) -> tsi¹ / tsi; chī (?) -> tsi⁶ / tsī."
+      }
+    },
+    {
+      "position": 9,
+      "source_L": "Remendar ~",
+      "source_H": "補",
+      "source_M": "pōu .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Remendar ~",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pou²",
+        "tai_lo_standard": "póu",
+        "phonological_basis": "17c Dominican orthography conversion: pōu (補) -> pou² / póu."
+      }
+    },
+    {
+      "position": 10,
+      "source_L": "remendar, tapar（圈注）",
+      "source_H": "補 [疑:苫/荅]",
+      "source_M": "pou tâ, tapar.is（尾字母帶刪劃）",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "remendar, tapar（圈注）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pou² ta³ tapar¹ is¹",
+        "tai_lo_standard": "póu-tà-tapar-is",
+        "phonological_basis": "17c Dominican orthography conversion: pou (補) -> pou² / póu; tâ (?) -> ta³ / tà; tapar (?) -> tapar¹ / tapar; is (?) -> is¹ / is."
+      }
+    },
+    {
+      "position": 11,
+      "source_L": "Remitir ael superior",
+      "source_H": "申",
+      "source_M": "sín.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Remitir ael superior",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sin¹",
+        "tai_lo_standard": "sin",
+        "phonological_basis": "17c Dominican orthography conversion: sín (申) -> sin¹ / sin."
+      }
+    },
+    {
+      "position": 12,
+      "source_L": "remitir ael superior（圈注）",
+      "source_H": "觧",
+      "source_M": "quêy.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T03 (尖頂帽)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "remitir ael superior（圈注）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kei³",
+        "tai_lo_standard": "kèi",
+        "phonological_basis": "17c Dominican orthography conversion: quêy (觧) -> kei³ / kèi."
+      }
+    },
+    {
+      "position": 13,
+      "source_L": "remitir ael superior（圈注）",
+      "source_H": "批縣",
+      "source_M": "pey cuan.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T04 (凹角)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "remitir ael superior（圈注）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pʰei² kuan²",
+        "tai_lo_standard": "phéi-kuán",
+        "phonological_basis": "17c Dominican orthography conversion: pey (批) -> pʰei² / phéi; cuan (縣) -> kuan² / kuán."
+      }
+    },
+    {
+      "position": 14,
+      "source_L": "remitir ael superior",
+      "source_H": "申文書",
+      "source_M": "sín būnsú",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T01 (升斜)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "remitir ael superior",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sin¹ bunsu¹",
+        "tai_lo_standard": "sin-bunsu",
+        "phonological_basis": "17c Dominican orthography conversion: sín (申) -> sin¹ / sin; būnsú (文) -> bunsu¹ / bunsu."
+      }
+    },
+    {
+      "position": 15,
+      "source_L": "remitir ael superior",
+      "source_H": "申詳",
+      "source_M": "sīn siāng.",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T05 (平橫)",
+        "T05 (平橫)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "remitir ael superior",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "sin⁵ siaŋ⁵",
+        "tai_lo_standard": "sîn-siâng",
+        "phonological_basis": "17c Dominican orthography conversion: sīn (申) -> sin⁵ / sîn; siāng (詳) -> siaŋ⁵ / siâng."
+      }
+    },
+    {
+      "position": 16,
+      "source_L": "remitir aelsupor",
+      "source_H": "行文書",
+      "source_M": "guia būnsú",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T05 (平橫)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "remitir aelsupor",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guia¹ bunsu¹",
+        "tai_lo_standard": "guia-bunsu",
+        "phonological_basis": "17c Dominican orthography conversion: guia (行) -> guia¹ / guia; būnsú (文) -> bunsu¹ / bunsu."
+      }
+    },
+    {
+      "position": 17,
+      "source_L": "remitir aelsuperior",
+      "source_H": "行府",
+      "source_M": "guia hù .",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T99 (污損難辨)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "remitir aelsuperior",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "guia¹ hu²",
+        "tai_lo_standard": "guia-hú",
+        "phonological_basis": "17c Dominican orthography conversion: guia (行) -> guia¹ / guia; hù (府) -> hu² / hú."
+      }
+    },
+    {
+      "position": 18,
+      "source_L": "remitir ael inferior（大圈括注）",
+      "source_H": "批府",
+      "source_M": "pey hù al inferior",
+      "source_R": "[空]",
+      "tone_marks_M": [
+        "T02 (降斜)",
+        "T02 (降斜)"
+      ],
+      "tone_marks_R": [],
+      "auto_precomputed": {
+        "spanish_disambiguated": "remitir ael inferior（大圈括注）",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pʰei² hu² al¹ inferior¹",
+        "tai_lo_standard": "phéi-hú-al-inferior",
+        "phonological_basis": "17c Dominican orthography conversion: pey (批) -> pʰei² / phéi; hù (府) -> hu² / hú; al (?) -> al¹ / al; inferior (?) -> inferior¹ / inferior."
+      }
+    }
+  ]
+}
