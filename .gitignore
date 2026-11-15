@@ -15,6 +15,6 @@ literature/slack*
 
 # ==== 本机工件（仅保留工作流脚本作为施工记录）====
 .zcode/*
-!.zcode/workflow-drafts/
+!.zcode/workflow-drafts
 __pycache__/
 _scratch_*/
