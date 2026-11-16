@@ -51,7 +51,7 @@ function findingsPush(f: Finding): void {
 }
 
 artifact.table("progress-v2", {
-  title: "对碰 V2 盲产批次进度（937 页）",
+  title: "对碰 V2 盲产批次进度（全书封存页，按 BLIND_READ_MANIFEST 实时取数）",
   columns: [
     { field: "range", label: "批次" },
     { field: "status", label: "状态" },
