@@ -1,123 +1,179 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 776,
  "items": [
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "稀有韵母:-umba(全库1次)",
+   "v1": "cūmbǎ",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-ehio(全库1次)",
+   "v1": "quehio",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-opria(全库1次)",
+   "v1": "propriǎ",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "稀有韵母:-escribia(全库1次)",
+   "v1": "escribia",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "cartas",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "稀有韵母:-artas(全库1次)",
+   "v1": "cartas",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "consitular",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "稀有韵母:-onsitular(全库1次)",
+   "v1": "consitular",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "ábò cūmbǎ.",
    "rr": "a bò húmbă"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hōng.",
    "rr": "hōṅ"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hōng gǎn.",
    "rr": "hōṅ gāṅ"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiõ.",
    "rr": "hiōⁿ"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiõ lī.",
    "rr": "hiōⁿ lī"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sǒ chǎy.",
    "rr": "sòi chāy"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quehio propriǎ.",
    "rr": "quehiōⁿ ppropria"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sǐm.",
    "rr": "tēngsím"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "peng sǐm.",
    "rr": "chéksím"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chegᵏ sǐm.",
    "rr": "lachéksímquïen"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lǎ chegᵏ sǐm quën.",
    "rr": "tēngsím chio"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "peng sǐm chioʰ.",
    "rr": "cōng chiō"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cõg chioᵏ.",
    "rr": "hūn quēy"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hū queyᵏ. p̃ escribia cartas y consitular.",
    "rr": "houⁿ koaⁿ"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hou coã.",
    "rr": "nioⁿ koaⁿ"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "nīõ coã.",
    "rr": "houⁿ koaⁿ"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hou coã.",
    "rr": "chay koaⁿ"
   }

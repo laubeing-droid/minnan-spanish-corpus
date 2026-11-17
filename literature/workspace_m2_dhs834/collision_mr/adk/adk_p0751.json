@@ -1,116 +1,165 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 751,
  "items": [
   {
    "position": 3,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "tāng quiôy. fāng quiôy [疑:fāng/pāng]",
    "rr": ""
   },
   {
    "position": 18,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "A pole con fuae las urua 29. de la guab [残]",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fāng",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-ooy(全库1次)",
+   "v1": "lōōy",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "R",
+   "kind": "稀有韵母:-enlete(全库1次)",
+   "v1": "quenlete",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "kind": "稀有韵母:-ole(全库1次)",
+   "v1": "pole",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "kind": "稀有韵母:-uae(全库1次)",
+   "v1": "fuae",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "kind": "稀有韵母:-urua(全库1次)",
+   "v1": "urua",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "kind": "稀有韵母:-ab(全库2次)",
+   "v1": "guab",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiä quiōy [疑:chiä̃/chiä]",
    "rr": "chià quióny"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hôy hou [疑:hôy/hōy]",
    "rr": "hōṅghòṽ"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tāng quiôy. fāng quiôy [疑:fāng/pāng]",
    "rr": "tāng quióny : tāng quiō̃y"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gë mūy [疑:gë̃/gē]",
    "rr": "gē mūṽ"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guān qu[残] hù.",
    "rr": "guān fŭhù"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "giām lō ōāy. giām lōōy. [疑:ōāy/ōuy]",
    "rr": "giām lô ông : giām lô ông"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chūy chiò gio. [疑:chūy/hūy]",
    "rr": "chūy chiô gìo"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lây piâ. [疑:lây/lāy]",
    "rr": "lāy piā"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "piā̃ tōe [疑:tōe/tō]",
    "rr": "piāⁿ tōk"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tâ guē. [疑:guē/que]",
    "rr": "kâ gìuè"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "[残] gueng miá [疑]",
    "rr": "queng nià"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Tã",
    "rr": "Kaⁿ"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pān tay pēng tã [疑]",
    "rr": "pàn tāj : pēng fà"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tâng miō. [疑:tâng/tāng]",
    "rr": "tâng niô"
   }

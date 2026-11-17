@@ -1,109 +1,193 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 972,
  "items": [
   {
    "position": 6,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "vý beñg.",
    "rr": ""
   },
   {
    "position": 11,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "vý",
    "rr": ""
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "稀有韵母:-avduc(全库1次)",
+   "v1": "savduc",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "v",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法韵尾:-v",
+   "v1": "v",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "R",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xiēn",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "v",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法韵尾:-v",
+   "v1": "v",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xiasī",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "稀有韵母:-iasi(全库1次)",
+   "v1": "xiasī",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "稀有韵母:-yeun(全库1次)",
+   "v1": "yeūn",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "kind": "稀有韵母:-uor(全库2次)",
+   "v1": "cuōr",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "kind": "稀有韵母:-agosto(全库1次)",
+   "v1": "Agosto",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "chit^lo chaì, savduc [疑:savduc/sarduc]",
    "rr": "chitchai"
   },
   {
    "position": 4,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Agosto (淡铅笔)",
    "rr": "carbuc Agoachi"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "I (大写花体, 跨M/R栏的分节号)",
    "rr": "aũ log"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "aū: lǒg",
    "rr": "nǎy"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "này",
    "rr": "xīen"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "xiēn.",
    "rr": "vy"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "vý",
    "rr": "nã"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "nā",
    "rr": "gǔe"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "què",
    "rr": "xiagỹ sĩ yēm"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "xiasī yeūn [疑:xiasī/xiásī]",
    "rr": "iũ"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iū.",
    "rr": "lǒg"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lǒg (M栏圈内)",
    "rr": "hoũ n"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hòu: mǔ:",
    "rr": "ě"
   }

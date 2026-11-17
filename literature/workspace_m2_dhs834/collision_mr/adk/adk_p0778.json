@@ -1,123 +1,200 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 778,
  "items": [
   {
    "position": 10,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "bō bō chuě venial",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "uōar",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "稀有韵母:-uoar(全库1次)",
+   "v1": "uōar",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-ata(全库1次)",
+   "v1": "bata",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-ecado(全库1次)",
+   "v1": "pecado",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "venial",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "venial",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-enial(全库1次)",
+   "v1": "venial",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xū",
    "rr": ""
   },
   {
    "position": 1,
    "field": "R",
-   "kind": "字母差",
+   "kind": "官话存疑韵尾:-p",
+   "v1": "ap",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "稀有韵母:-ontri(全库1次)",
+   "v1": "montri",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "kind": "稀有韵母:-oigoai(全库1次)",
+   "v1": "coigoai",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "kind": "两读字母差",
    "v1": "бap.",
    "rr": "cuê."
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuě.",
    "rr": "chè cûa tôa, montri 2"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuâ.",
    "rr": "cò chùē, cùa, còey goāy may."
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "uōar.",
    "rr": "gūi chuē guien"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quiěn, bata.",
    "rr": "chò chùē : pecado."
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chě cùa hōa.",
    "rr": "bī bī chuē venia"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cô chue::: cùa.",
    "rr": "cùa cò : toy."
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gui chue quiěn.",
    "rr": "sày bùè."
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chǒ chuě pecado.",
    "rr": "sīo qūia."
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bō bō chuě venial",
    "rr": "chò cà chùy"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuà cō [残]",
    "rr": "tō tà pòu."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "saý buě.",
    "rr": "chūē chèg xū sān, guon de."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sìo quìa.",
    "rr": "cuē sīt."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chò cà chuy.",
    "rr": "cūy sīt."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tò tá póu.",
    "rr": "quē chèg."
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chuě chēg xū sān,",
    "rr": "Hū"
   }

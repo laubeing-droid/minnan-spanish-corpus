@@ -1,81 +1,172 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 946,
  "items": [
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chūr",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chur",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chur",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chur",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chur",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chur",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chur",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chur",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chur",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chur",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xit",
+   "rr": ""
+  },
+  {
+   "position": 22,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chur",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "pūi chūr lāy [疑:pūi/pû]",
    "rr": "piñ chur lay"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sẽ tien pau",
    "rr": "sōtien pâu"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chẽ cu chô",
    "rr": "chē iâ chō"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cham qui",
    "rr": "cham guī"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "jia quiap",
    "rr": "giā Khiap"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cheng gui",
    "rr": "cheng quū"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cho iu sy",
    "rr": "chò iū sī"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chur gua",
    "rr": "chur gōa"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chur chay",
    "rr": "chur chhay"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chur sun",
    "rr": "chur sōn"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "zo lo",
    "rr": "sat lo"
   }

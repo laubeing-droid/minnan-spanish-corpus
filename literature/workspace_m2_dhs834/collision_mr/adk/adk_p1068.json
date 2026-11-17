@@ -1,39 +1,53 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1068,
  "items": [
   {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "bar",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "稀有韵母:-eco(全库2次)",
+   "v1": "gueco",
+   "rr": ""
+  },
+  {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chog",
    "rr": "chof."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tag.",
    "rr": "fag."
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cut chue. [疑:cut/cut]",
    "rr": "cun chûe."
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pang gie.",
    "rr": "hóng in."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hong in.",
    "rr": "cang ‡cong ìcòng; cang cag gueco."
   }

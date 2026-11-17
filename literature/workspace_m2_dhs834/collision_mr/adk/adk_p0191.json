@@ -1,221 +1,340 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 191,
  "items": [
   {
    "position": 1,
+   "field": "M",
+   "kind": "音系非法韵尾:-b",
+   "v1": "b",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "稀有韵母:-excelente(全库1次)",
+   "v1": "excelente",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法韵尾:-b",
+   "v1": "b",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法韵尾:-b",
+   "v1": "b",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-agradable(全库1次)",
+   "v1": "agradable",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "稀有韵母:-admirable(全库1次)",
+   "v1": "admirable",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-onesto(全库1次)",
+   "v1": "honesto",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-olido(全库2次)",
+   "v1": "polido",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法韵尾:-d",
+   "v1": "id",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "音系非法韵尾:-d",
+   "v1": "id",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法韵尾:-d",
+   "v1": "id",
+   "rr": ""
+  },
+  {
+   "position": 22,
+   "field": "M",
+   "kind": "音系非法韵尾:-d",
+   "v1": "id",
+   "rr": ""
+  },
+  {
+   "position": 1,
    "field": "R",
-   "kind": "字母差",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "m",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "m",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "m",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "m",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "kind": "官话存疑韵尾:-t",
+   "v1": "gúit",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "kind": "两读字母差",
    "v1": "hiên mẹ",
    "rr": "hiên mŷ"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gúi. excelente",
    "rr": "gûy. excellente"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gúi bỳ.",
    "rr": "gûy bỳ."
   },
   {
    "position": 3,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chūin mẹ",
    "rr": "chūi mÿ"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "choã biāñ.",
    "rr": "choān biaⁿ"
   },
   {
    "position": 5,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guiâⁿ",
    "rr": "gniaŷ"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gùe By. idem",
    "rr": "giē bỳ. idem"
   },
   {
    "position": 6,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guiâⁿ mẹ",
    "rr": "gniaŷ mŷ"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bý biā̃. agradable",
    "rr": "bỳ biāⁿ. agradable"
   },
   {
    "position": 7,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mẹ miāⁿ",
    "rr": "mŷ miāⁿ"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "biẫ cháĩ. admirable",
    "rr": "Biāⁿ cháy. admirable"
   },
   {
    "position": 8,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "miāⁿ cháiⁿ",
    "rr": "miāⁿ cháŷ"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "biẫ ā.",
    "rr": "Biān ā."
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ngẻ. honesto y polido",
    "rr": "ngẽ. hermoso, pulido"
   },
   {
    "position": 10,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "nguià",
    "rr": "ngñiā"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ngẻ ngẻ nú. id",
    "rr": "ngẽ ngẽ nŷ. id"
   },
   {
    "position": 11,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "nguia nguia miên",
    "rr": "ngñia ngñia miên"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gûi.",
    "rr": "gūy."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hỏ.",
    "rr": "hio."
   },
   {
    "position": 13,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hîo",
    "rr": "chio"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gûi iō̃. buen modo",
    "rr": "gūy iōⁿ. buen mo"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gúit. ú hó.",
    "rr": "gûit. vtho"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gúit chiāng. id.",
    "rr": "gûit chiang. idho"
   },
   {
    "position": 16,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gūn chiàng",
    "rr": "gūin chiâng"
   },
   {
    "position": 17,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gūi zī",
    "rr": "gūi zū"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gūi",
    "rr": "gûy"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gūi gūi.",
    "rr": "gûy gûy."
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siāng. ú hó.",
    "rr": "siāng. vtho"
   },
   {
    "position": 21,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiāng[疑:chiāng/chiòng]",
    "rr": "chiâng"
   },
   {
    "position": 22,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siāng gūi. id.",
    "rr": "siāng gûy. id"
   },
   {
    "position": 22,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiàng zūi",
    "rr": "chiâng gūi"
   }

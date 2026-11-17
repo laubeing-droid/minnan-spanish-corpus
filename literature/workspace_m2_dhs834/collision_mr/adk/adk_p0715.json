@@ -1,88 +1,116 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 715,
  "items": [
   {
    "position": 17,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "Fù. hūn hi.",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-upaso(全库1次)",
+   "v1": "mupaso",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "音系非法声母:w",
+   "v1": "wī",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "Fù",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "kind": "稀有韵母:-umo(全库1次)",
+   "v1": "chumo",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Mõ ya ia obscuro",
    "rr": "moñ yà ia"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mē hūỹ : mē hūn",
    "rr": "mē hūy: mē huēn"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mõ ià",
    "rr": "moñ ia"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "goe âm mē",
    "rr": "gûe âm mē"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "che liàu rau tan mupaso",
    "rr": "chê liàu iau lan mupao"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "y cau mē huy.",
    "rr": "x y càu mē hūy"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hẽ. [疑:h/s]",
    "rr": "sêⁿ"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "wī:",
    "rr": "ūy:"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Fù. hūn hi.",
    "rr": "Fû. hūn hû."
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chià̃ miā.",
    "rr": "chiâⁿ mēā"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "māa hō̃.",
    "rr": "mēā hôⁿ"
   }

@@ -1,67 +1,102 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 291,
  "items": [
   {
    "position": 3,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "x",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法韵尾:-x",
+   "v1": "x",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xiāng",
+   "rr": ""
+  },
+  {
+   "position": 7,
    "field": "R",
-   "kind": "字母差",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "âm",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "ngam",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "kind": "两读字母差",
    "v1": "chīn",
    "rr": "chîm"
   },
   {
    "position": 5,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cha chīn.",
    "rr": "chā chîm"
   },
   {
    "position": 8,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ngam sân.",
    "rr": "gām săn"
   },
   {
    "position": 12,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guian guia gui.",
    "rr": "guān guà gūi"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tòng lǔy.",
    "rr": "tòng lūī"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sū tòa.",
    "rr": "jû tôa"
   },
   {
    "position": 17,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chǔnⁿ.",
    "rr": "chǔn"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cheg.",
    "rr": "chek"
   },
   {
    "position": 18,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chē.",
    "rr": "chēc"
   }

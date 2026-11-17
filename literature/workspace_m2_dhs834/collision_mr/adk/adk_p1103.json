@@ -1,74 +1,88 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1103,
  "items": [
   {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "os",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法韵尾:-z",
+   "v1": "idz",
+   "rr": ""
+  },
+  {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "que bue",
    "rr": "mūi quiovg"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mui quiong .. muy gui",
    "rr": "cò"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "co",
    "rr": "siān cò"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "co io",
    "rr": "coú hap iū"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siau co",
    "rr": "qūi līn"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gou hap iu",
    "rr": "hōng"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gui lin",
    "rr": "tāng"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hong",
    "rr": "hōǔ"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gui",
    "rr": "nī qūi"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tang .. tong",
    "rr": "sīō tāng"
   }

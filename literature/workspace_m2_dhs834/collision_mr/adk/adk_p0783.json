@@ -1,74 +1,109 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 783,
  "items": [
   {
    "position": 17,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "tung vuān",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "Xiām",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "vuān",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "R",
+   "kind": "稀有韵母:-aquia(全库1次)",
+   "v1": "aquia",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "kind": "稀有韵母:-azer(全库1次)",
+   "v1": "hazer",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "riam",
    "rr": ""
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "che pùe.",
    "rr": "chĕ pũe; quira los an pũe [残]"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chun lāng.",
    "rr": "chũn lâng; ca."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "âm chun lāng.",
    "rr": "àm chũn lâng; tra tor hiam [残]"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quiū",
    "rr": "guiū"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "in quiū",
    "rr": "in guiū"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quiên",
    "rr": "guiēn"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tung vuān",
    "rr": "tunğ vān"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qun chiām",
    "rr": "tun chiám"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sòn coi",
    "rr": "sīn lŏ̆i"
   }

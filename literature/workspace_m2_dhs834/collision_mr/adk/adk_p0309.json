@@ -1,235 +1,312 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 309,
  "items": [
   {
    "position": 12,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "chù vùn",
    "rr": ""
   },
   {
    "position": 20,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fīam",
    "rr": ""
   },
   {
    "position": 21,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fīam aū",
    "rr": ""
   },
   {
    "position": 22,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fōng",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法韵尾:-x",
+   "v1": "chûax",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "稀有韵母:-uax(全库2次)",
+   "v1": "chûax",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "car",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-iawa(全库1次)",
+   "v1": "chiâwa",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "car",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "稀有韵母:-iio(全库2次)",
+   "v1": "chiio",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fīam",
+   "rr": ""
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fīam",
+   "rr": ""
+  },
+  {
+   "position": 22,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xīm",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "kiām",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "kind": "官话非法声母:v",
+   "v1": "vùn",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "chûax",
    "rr": "chuà"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "car : cua",
    "rr": "cai cūa"
   },
   {
    "position": 4,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chôy",
    "rr": "chây"
   },
   {
    "position": 5,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "kiām",
    "rr": "kiǎu"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tēng tūy",
    "rr": "tèng quy"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chĕ chiâwa",
    "rr": "chě chiā̂va"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiāu hú",
    "rr": "chiāu kū"
   },
   {
    "position": 8,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiāu hù",
    "rr": "chiǎn kǐ"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chù būn",
    "rr": "būn"
   },
   {
    "position": 12,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chù vùn",
    "rr": "vūn"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "câm",
    "rr": "chū būn"
   },
   {
    "position": 13,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "càn",
    "rr": "chū vūn"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chô",
    "rr": "càm"
   },
   {
    "position": 14,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chō",
    "rr": "cān"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "car cúi",
    "rr": "chǒ"
   },
   {
    "position": 15,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cōr cú",
    "rr": "chǒ"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pà chiio",
    "rr": "cai còu"
   },
   {
    "position": 16,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ká sy",
    "rr": "cō cù"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tēng",
    "rr": "pà chió"
   },
   {
    "position": 17,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tèng",
    "rr": "pá sī"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Sīū cà lām",
    "rr": "tèng"
   },
   {
    "position": 18,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "jīn guio liēn",
    "rr": "tèng"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hua chi",
    "rr": "jiū cà lam"
   },
   {
    "position": 19,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "kùa chī guī",
    "rr": "jīn guio liēn"
   },
   {
    "position": 20,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiên",
    "rr": "hūa chī gìu"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fīam aū",
    "rr": "Fiam"
   },
   {
    "position": 21,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiên kân",
    "rr": "fiēn"
   },
   {
    "position": 22,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hŭng xīm",
    "rr": "fiám au"
   },
   {
    "position": 22,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fōng",
    "rr": "chièn hōn"
   }

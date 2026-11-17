@@ -1,102 +1,151 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 479,
  "items": [
   {
    "position": 15,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fion sy",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "l",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "gLas",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-ira(全库1次)",
+   "v1": "mira",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xellama",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-ellama(全库1次)",
+   "v1": "xellama",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fion",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "pur",
    "rr": ""
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuã hoy cheng",
    "rr": "cuanmŷ tòngchêng"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "co cua ey bey",
    "rr": "cò cuanêybêy"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quiam u siong",
    "rr": "guiam ŷ siâng"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "(quiam giam)",
    "rr": "guiam piâm"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quiam sy",
    "rr": "guiam sŷ"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "giam sy",
    "rr": "piam sŷ"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "jou cho l gLas, mira xellama asi",
    "rr": "gôu chó el ghas mira llama asi"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cha au chiũ",
    "rr": "cha au chhiû"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fion sy",
    "rr": "tiān sŷ"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "co cu",
    "rr": "cò kû"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cha u",
    "rr": "châ ŷ"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pur chog quan / gui chiog soan",
    "rr": "pûn chòg goān"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cu",
    "rr": "pûn chhiòg soān"
   }

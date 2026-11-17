@@ -1,123 +1,221 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 686,
  "items": [
   {
    "position": 15,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "quèy va.",
    "rr": ""
   },
   {
    "position": 18,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "va quiò tāu",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-efig(全库1次)",
+   "v1": "defig",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-oaquie(全库1次)",
+   "v1": "poãquie",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "稀有韵母:-oaquia(全库1次)",
+   "v1": "poãquia",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "稀有韵母:-admo(全库1次)",
+   "v1": "admo",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "lugar",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-oancu(全库1次)",
+   "v1": "poâncù",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "va",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "稀有韵母:-ivaryo(全库1次)",
+   "v1": "ivaryo",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "va",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "稀有韵母:-oaun(全库1次)",
+   "v1": "poãun",
+   "rr": ""
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
+   "position": 23,
+   "field": "M",
+   "kind": "稀有韵母:-eygu(全库1次)",
+   "v1": "queygu",
+   "rr": ""
+  },
+  {
+   "position": 23,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "l",
+   "rr": ""
+  },
+  {
+   "position": 23,
+   "field": "M",
+   "kind": "稀有韵母:-aygu(全库1次)",
+   "v1": "cāygu",
    "rr": ""
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "zoā.",
    "rr": "Toa."
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quey. [疑:Grocan./Tocar.]",
    "rr": "quey .Hocan ."
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chi[残]en.",
    "rr": "chiŏen."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "piǹ.",
    "rr": "py."
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "piên siāng tāy piên.",
    "rr": "piên siāy tay piên."
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "piên iáu defigüra",
    "rr": "piên iaú"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "poãquie sy",
    "rr": "poa que ěy"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "poãquia te. admo lugar.",
    "rr": "poa qua te"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "poan [疑:lay/tay] poâncù.",
    "rr": "poān tāy poāncū , / poā ."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quèy gē mūy",
    "rr": "quey je muy"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ivaryo.",
    "rr": "nvar yo."
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "va quiò tāu",
    "rr": "va hio tau"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quy sĭm",
    "rr": "qui ỹ sim"
   },
   {
    "position": 22,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quy ỳ",
    "rr": "qui y"
   },
   {
    "position": 23,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "queygu : l. cāygu",
    "rr": "quey gou : l. cay gou"
   }

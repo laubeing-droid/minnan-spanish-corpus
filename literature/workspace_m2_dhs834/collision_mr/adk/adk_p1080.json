@@ -1,74 +1,95 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1080,
  "items": [
   {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xien",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "稀有韵母:-uien(全库2次)",
+   "v1": "gguien",
+   "rr": ""
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "kind": "稀有韵母:-orta(全库1次)",
+   "v1": "corta",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ho",
    "rr": "hôs"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mea un",
    "rr": "mẽa vn"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hun şou.",
    "rr": "ũn šou"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mea lai cai chai..",
    "rr": "mẽa lạy cại chải"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ho lo..",
    "rr": "hô lụ"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guit hiong..",
    "rr": "qúit hiong"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "beng gou..",
    "rr": "bẽng pŷ"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mea guay..",
    "rr": "mẽa cuày"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "un şou gguien..",
    "rr": "ũn šôu quīen"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lan che mala eſtrella..",
    "rr": "lãn chè mala estrella"
   }

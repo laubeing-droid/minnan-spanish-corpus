@@ -1,165 +1,214 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 195,
  "items": [
   {
    "position": 6,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "tày cun [疑:t/f]",
    "rr": ""
   },
   {
    "position": 16,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "chin fang",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-uto(全库2次)",
+   "v1": "duto",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "稀有韵母:-ensando(全库2次)",
+   "v1": "pensando",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-irando(全库1次)",
+   "v1": "mirando",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "hallar",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "稀有韵母:-allar(全库1次)",
+   "v1": "hallar",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "稀有韵母:-allando(全库1次)",
+   "v1": "hallando",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "稀有韵母:-obra(全库2次)",
+   "v1": "sobra",
    "rr": ""
   },
   {
    "position": 2,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cun iun dun [疑:dun/sun]",
    "rr": "cun iu sun."
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chý chiāu. duto [疑:duto/dientes]",
    "rr": "chý chiaū choro"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "yà cun",
    "rr": "ja cun."
   },
   {
    "position": 5,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "yè cun",
    "rr": "ja ye cun"
   },
   {
    "position": 6,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tày cun [疑:t/f]",
    "rr": "tay cun"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quiāu lāng",
    "rr": "hiaù lang."
   },
   {
    "position": 8,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tiāu lòng",
    "rr": "hiaù long"
   },
   {
    "position": 9,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lǘ mùn [疑:mùn/mǔ]",
    "rr": "lû mû"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chue jou sīm",
    "rr": "chüe; çou; sim"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sīm sū pensando",
    "rr": "sim si pensando"
   },
   {
    "position": 11,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chin sū [疑:sū/sy]",
    "rr": "chin si"
   },
   {
    "position": 12,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chin cān",
    "rr": "chin cüa"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chue quy hallar solo [疑:hallar solo/hallarlo so]",
    "rr": "chüe quy hallar solo"
   },
   {
    "position": 13,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chin guiñ",
    "rr": "chin guñ"
   },
   {
    "position": 14,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pu chin guiñ",
    "rr": "gn chin ôñ guñ"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chue au chiu loq sobra",
    "rr": "chüe au chin. bag sobra"
   },
   {
    "position": 15,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chin au chiu",
    "rr": "chin hei chin"
   },
   {
    "position": 16,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chin fang",
    "rr": "chin fong"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "che",
    "rr": "cha."
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "che tioh",
    "rr": "cha tio ta."
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiāu chue iog",
    "rr": "chiau chüe idg."
   }

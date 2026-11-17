@@ -1,39 +1,60 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 469,
  "items": [
   {
+   "position": 1,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "hâr",
+   "rr": ""
+  },
+  {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法声母:x",
+   "v1": "xū",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "mō xū [疑:x/l]",
    "rr": "mō xŭ"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qũg",
    "rr": "guŋ"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "què",
    "rr": "quiè"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "còu chë que",
    "rr": "còu ché quiè"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Tû : 1. chay",
    "rr": "Tụ: l. chay nou."
   }

@@ -1,95 +1,186 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 671,
  "items": [
   {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-officio(全库1次)",
+   "v1": "officio",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-ertificandose(全库1次)",
+   "v1": "certificandose",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法韵尾:-b",
+   "v1": "b",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "稀有韵母:-ividido(全库1次)",
+   "v1": "dividido",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法韵尾:-z",
+   "v1": "luz",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "稀有韵母:-uz(全库2次)",
+   "v1": "luz",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "alumbrar",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "稀有韵母:-alumbrar(全库1次)",
+   "v1": "alumbrar",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "mirar",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "稀有韵母:-irar(全库1次)",
+   "v1": "mirar",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "稀有韵母:-eflejo(全库1次)",
+   "v1": "reflejo",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "稀有韵母:-iogia(全库1次)",
+   "v1": "chiôgia",
+   "rr": ""
+  },
+  {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tăng cŏa gûn coān",
    "rr": "tâng çoa almutoal"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cûn tey lîong",
    "rr": "uīn sèy liōng"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "eg: ia chít ia officio.",
    "rr": "eg. iā chit iā ofiuà."
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cîa cîa gî certificandose.",
    "rr": "cuā cuà gī certificandose."
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuân cûa leng gîn",
    "rr": "cuān cuà lòng giūn."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qûy.",
    "rr": "gūy."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chăy: băy chây chây, con dividido:",
    "rr": "chay. bay chay chay, con olvidado."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiâm bǒng; ī-bǒng.",
    "rr": "chiām bòng; t. bòng."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiô: ta luz alumbrar mirar de reflejo chiôgia.",
    "rr": "chio. talūg alumbrar, mirar el espejo"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sîõ",
    "rr": "chiògià."
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cûa qûy",
    "rr": "siō"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuân cûa",
    "rr": "cuā gūy"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiâu",
    "rr": "cuān cuā"
   }

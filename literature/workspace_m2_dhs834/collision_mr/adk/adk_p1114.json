@@ -1,137 +1,228 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1114,
  "items": [
   {
    "position": 4,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "cõlã feroz",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-anglay(全库1次)",
+   "v1": "tanglay",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "稀有韵母:-ola(全库1次)",
+   "v1": "cõlã",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "feroz",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法韵尾:-z",
+   "v1": "feroz",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "稀有韵母:-eroz(全库1次)",
+   "v1": "feroz",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-aychi(全库1次)",
+   "v1": "saychi",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-ieconba(全库1次)",
+   "v1": "lieconba",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "sar",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "el",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "稀有韵母:-elicho(全库1次)",
+   "v1": "delicho",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "稀有韵母:-eiag(全库1次)",
+   "v1": "eiag",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "R",
+   "kind": "稀有韵母:-aira(全库1次)",
+   "v1": "Aira",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "say",
    "rr": "gāy"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chun",
    "rr": "chǔiⁿ."
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bo oa tanglay",
    "rr": "bōōă tsānglay."
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cõlã feroz",
    "rr": "cōng lâng tsèng."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "saychi lieconba [疑:lieconba 全词形]",
    "rr": "gāy chǔ̆ lĕconba."
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ang",
    "rr": "pō̆ să."
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "põ : sa.",
    "rr": "sá."
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sar. [疑:sar/sat]",
    "rr": "sīn hûr."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sin hu.",
    "rr": "hûr."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hu.",
    "rr": "ang hûr."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ang hu.",
    "rr": "hōng"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hong",
    "rr": "bȳlĕt hûr."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bi lec hu. [疑:lec/leg]",
    "rr": "sĕk quia."
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sec quia.",
    "rr": "sēng hōng cōng."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sẽhõcõ.",
    "rr": "sīăⁿ hûr."
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siã hu.",
    "rr": "sīn tĕ."
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sin te.",
    "rr": "tiōng caī."
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tiõ cay ;; iang cay elʃgouiṇa delicho; ʃeiag cha [残]",
    "rr": "tōng quēng."
   }

@@ -1,67 +1,88 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 817,
  "items": [
   {
+   "position": 11,
+   "field": "M",
+   "kind": "稀有韵母:-ioa(全库2次)",
+   "v1": "chioa",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chièar",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "稀有韵母:-iear(全库1次)",
+   "v1": "chièar",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hóng",
    "rr": "hang"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chun",
    "rr": "kùn"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "boo.",
    "rr": "lōy"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "By [疑:By/Pí]",
    "rr": "pig"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chioa: u·",
    "rr": "liu ua su"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liô lei ca.",
    "rr": "lio ley ca"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quèng",
    "rr": "gueng"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chièar.",
    "rr": "chēa"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cùy pou.",
    "rr": "cuy poy"
   }

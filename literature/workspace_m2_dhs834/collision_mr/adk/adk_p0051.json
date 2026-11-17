@@ -1,158 +1,235 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 51,
  "items": [
   {
    "position": 2,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "făn pàn",
    "rr": ""
   },
   {
    "position": 22,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "vān chiámᶜ",
    "rr": ""
   },
   {
    "position": 22,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "vân chiěn",
+   "rr": ""
+  },
+  {
+   "position": 22,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "vān",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "kind": "官话存疑韵尾:-t",
+   "v1": "chûrt",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "kind": "官话存疑韵尾:-t",
+   "v1": "chûrt",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "m",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "m",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "m",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "R",
+   "kind": "官话存疑韵尾:-t",
+   "v1": "chûrt",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "m",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "m",
+   "rr": ""
+  },
+  {
+   "position": 21,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "m",
+   "rr": ""
+  },
+  {
+   "position": 22,
+   "field": "R",
+   "kind": "官话非法声母:v",
+   "v1": "vân",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Puě moǔ",
    "rr": "Pue mon"
   },
   {
    "position": 1,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Puê mūa",
    "rr": "Pue mūna"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sā̃ chût tū̃g",
    "rr": "sabochur kang"
   },
   {
    "position": 3,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "săn chûrt tâng",
    "rr": "sān chūt kāng"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Bēy̌ [muel coroh.]",
    "rr": "chay bay"
   },
   {
    "position": 4,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mī",
    "rr": "mûel corch mī"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cháy cõà̃ chût",
    "rr": "chay chur cua"
   },
   {
    "position": 5,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chăy coân chûrt",
    "rr": "chay can chūt"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bēy tiò coǎ̃ tiò",
    "rr": "bēge chay biō cua biō"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bēy buē",
    "rr": "bēge chay bue"
   },
   {
    "position": 8,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mȳ muêy",
    "rr": "mī mnèy"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bēy chȳ cháy hù",
    "rr": "bēge chay chî chay hū"
   },
   {
    "position": 9,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mȳ chȳ chăy hù",
    "rr": "mī chî chay hū"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bēy chût liàu,",
    "rr": "bēge chay chur liàu"
   },
   {
    "position": 10,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mȳ chûrt liào",
    "rr": "mī chūt liào"
   },
   {
    "position": 11,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chù sȳ chăy",
    "rr": "chù sī chay"
   },
   {
    "position": 17,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qūi",
    "rr": "gǔi"
   },
   {
    "position": 18,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qūi liào",
    "rr": "gūi liào"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiám tāy cūã, [qui muel coroh.]",
    "rr": "chiam tāy cūa"
   }

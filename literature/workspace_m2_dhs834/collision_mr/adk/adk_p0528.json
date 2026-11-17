@@ -1,130 +1,172 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 528,
  "items": [
   {
    "position": 3,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fún",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fún",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "encubrir",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "稀有韵母:-encubrir(全库1次)",
+   "v1": "encubrir",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "escondél",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "稀有韵母:-escondel(全库1次)",
+   "v1": "escondél",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-ontinuando(全库1次)",
+   "v1": "continuando",
    "rr": ""
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quang chūng",
    "rr": "quëng chōng"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quē: un quē encubrir, como escondél",
    "rr": "Huāy."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Hūay[疑:Cūay]",
    "rr": "hioh"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiôg",
    "rr": "chē"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chēg continuando chūn",
    "rr": "chūn"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chūn",
    "rr": "chōng"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chōng",
    "rr": "pē twā"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pè toā[疑:toā/hvā]",
    "rr": "ān"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "am[疑:am/on]",
    "rr": "à"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "â",
    "rr": "pē"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pé",
    "rr": "chî"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cûa",
    "rr": "chiù"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiù",
    "rr": "pè twā"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pê tiā",
    "rr": "chiù qiě"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiù qūe",
    "rr": "àm chù"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "am chù",
    "rr": "am cōng"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "am cōng",
    "rr": "am hūn"
   }

@@ -1,102 +1,137 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 633,
  "items": [
   {
    "position": 17,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fay hou",
    "rr": ""
   },
   {
    "position": 18,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fay hu xīn",
    "rr": ""
   },
   {
    "position": 19,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "feg bò",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chur",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fay",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fay",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xīn",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "feg",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiū bag",
    "rr": "chiň baÿ"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liōy siēn hiõ",
    "rr": "liōy ŝën hiõ"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sit liáu , tã hau",
    "rr": "ŝiň liàu, ŝt'haù"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bag quoì chey",
    "rr": "baÿ quiò cheŷ"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cou",
    "rr": "corì"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "au bò coũ",
    "rr": "aù bò coi"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiñ tag",
    "rr": "chiň taÿp"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chur bò",
    "rr": "chun bò"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fay hou",
    "rr": "taŷ hòû"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fay hu xīn",
    "rr": "taŷ hû xīn"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "feg bò",
    "rr": "şeþ bò"
   }

@@ -1,137 +1,277 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 553,
  "items": [
   {
    "position": 2,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fûr.",
    "rr": ""
   },
   {
    "position": 3,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "âm fûr",
    "rr": ""
   },
   {
    "position": 4,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fûr sû",
    "rr": ""
   },
   {
    "position": 5,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "siā fûr lâng",
    "rr": ""
   },
   {
    "position": 6,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "siā vē chichiriâs",
    "rr": ""
   },
   {
    "position": 9,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "vê qûy",
    "rr": ""
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法声母:f",
+   "v1": "fûr",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "fûr",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fûr",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "fûr",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fûr",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "fûr",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fûr",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "fûr",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "vē",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "chichiriâs",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-ichirias(全库1次)",
+   "v1": "chichiriâs",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-ongliang(全库1次)",
+   "v1": "bôngliâng",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "vê",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "稀有韵母:-apio(全库1次)",
+   "v1": "apiô",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "稀有韵母:-iory(全库2次)",
+   "v1": "hiory",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "稀有韵母:-iory(全库2次)",
+   "v1": "hiory",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "kind": "稀有韵母:-umbra(全库1次)",
+   "v1": "humbra",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "kind": "稀有韵母:-acho(全库1次)",
+   "v1": "macho",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "kind": "稀有韵母:-ongs(全库1次)",
+   "v1": "songs",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "kind": "稀有韵母:-ales(全库1次)",
+   "v1": "males",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "fûr.",
    "rr": "sûr."
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "âm fûr",
    "rr": "âm sûr"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fûr sû",
    "rr": "sûr sû"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siā fûr lâng",
    "rr": "siā sû lāng"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siā vē chichiriâs",
    "rr": "sianbô echicerias"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "vê qûy",
    "rr": "vê gûi"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qûi bî",
    "rr": "gûu bì"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "châu qûy apiô",
    "rr": "châu sûr agrió"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiĕn cûi.",
    "rr": "chiên sûr"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chú: chú hiory",
    "rr": "chú chú té hiong"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bô: bū",
    "rr": "bo: bóu"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chú hiory",
    "rr": "chú hiong"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "păng pāng.",
    "rr": "pang pāy"
   }

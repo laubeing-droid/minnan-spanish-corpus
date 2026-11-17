@@ -1,172 +1,270 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 899,
  "items": [
   {
    "position": 6,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "A vi, lumbre cfda[疑:cfda/ofda].",
    "rr": ""
   },
   {
    "position": 10,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "lia cau[疑:lia/via/nia]",
    "rr": ""
   },
   {
    "position": 16,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "var[疑:var/oar]",
    "rr": ""
   },
   {
    "position": 18,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "var chun",
    "rr": ""
   },
   {
    "position": 18,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "impulsa io chun vo[疑:vo/voy]",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xit",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "var",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "var",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xio",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "var",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "var",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "官话非法声母:v",
+   "v1": "vi",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "稀有韵母:-umbre(全库1次)",
+   "v1": "lumbre",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "kind": "稀有韵母:-allama(全库1次)",
+   "v1": "lallama",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "kind": "稀有韵母:-ampana(全库1次)",
+   "v1": "campana",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "kind": "稀有韵母:-arena(全库1次)",
+   "v1": "arena",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "R",
+   "kind": "稀有韵母:-anca(全库2次)",
+   "v1": "banca",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "kind": "稀有韵母:-impulsa(全库1次)",
+   "v1": "impulsa",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "kind": "官话非法声母:v",
+   "v1": "vo",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "py tung[疑:tung/tong]",
    "rr": "py ŷung"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "to[疑:to/lo]",
    "rr": "ŷ"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tien",
    "rr": "fiēn"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "luy tien",
    "rr": "luy fiēn"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuy",
    "rr": "sŷ cui"
   },
   {
    "position": 6,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "A vi, lumbre cfda[疑:cfda/ofda].",
    "rr": "A vi,lumbre cf da."
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iam[疑:iam/tiam]",
    "rr": "sŷ iâm"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "na",
    "rr": "sŷ na"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chit chun cuy",
    "rr": "chīt chūn cui n"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lia cau[疑:lia/via/nia]",
    "rr": "niā cau"
   },
   {
    "position": 10,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "be hau[疑:be hau/be hau.]",
    "rr": "cè hàu."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "que cau",
    "rr": "gue laū"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "que cheng",
    "rr": "gue chéng"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "xit cuy",
    "rr": "xīt cuī"
   },
   {
    "position": 15,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Toa Lan de arena.",
    "rr": "de arena"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "var[疑:var/oar]",
    "rr": "vâx"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "che xio",
    "rr": "pê xîo"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "var chun",
    "rr": "vâx chūn"
   },
   {
    "position": 18,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "impulsa io chun vo[疑:vo/voy]",
    "rr": "impulsa ìô chūn voẏ"
   }

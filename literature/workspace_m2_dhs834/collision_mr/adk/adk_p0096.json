@@ -1,158 +1,200 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 96,
  "items": [
   {
    "position": 3,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "chiēⁿ f fō",
    "rr": ""
   },
   {
    "position": 12,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fō īm",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xiaù",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xiaù",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "稀有韵母:-uei(全库2次)",
+   "v1": "chuei",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "īm",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "īm",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "īm",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ſiú liam̆",
    "rr": "sīn liam"
   },
   {
    "position": 1,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ſiŭ liēn",
    "rr": "sĭn hiēn"
   },
   {
    "position": 2,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuò",
    "rr": "cwo"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiē̃ pâg",
    "rr": "chién paj̃"
   },
   {
    "position": 3,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiēⁿ f fō",
    "rr": "chiéñ fō"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "xiaù loān.",
    "rr": "xiaù ẘoān"
   },
   {
    "position": 5,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "xiào loān",
    "rr": "xioò loān"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Cŏũ",
    "rr": "coⁿ̃"
   },
   {
    "position": 6,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "(chuei) cŭ",
    "rr": "chủ"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cŏu.",
    "rr": "couⁿ"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cŏu pân.",
    "rr": "couⁿ panⁿ"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Nāy.",
    "rr": "Nayⁿ"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "caí sēc.",
    "rr": "caj seḥ"
   },
   {
    "position": 10,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guiày sī",
    "rr": "guiày sıh"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hōg ĭm.",
    "rr": "hỏk imⁿ"
   },
   {
    "position": 12,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fō īm",
    "rr": "fōc īm"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ſiù ĭm.",
    "rr": "sīn imⁿ"
   },
   {
    "position": 13,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ſiù īm",
    "rr": "sīn īm"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiá ĭm.",
    "rr": "chiá imⁿ"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiá moā.",
    "rr": "chiá noa"
   }

@@ -1,123 +1,137 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1119,
  "items": [
   {
    "position": 10,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
+   "v1": "fan",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-etrato(全库1次)",
+   "v1": "retrato",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法声母:f",
    "v1": "fan",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Pay síŋ pay:",
    "rr": "cong"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siang.",
    "rr": "pay sînpày"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "heng sio.",
    "rr": "siang."
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bin pai",
    "rr": "heng sîo."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bin sio; g retrato.",
    "rr": "bînpâi"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cheh un:",
    "rr": "bîn sîō; g rehrato."
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cheh to.",
    "rr": "chēg ūn:"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sim su co lu",
    "rr": "chēg tō:"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "o",
    "rr": "sîm sû kò lû"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fan",
    "rr": "o"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sun.",
    "rr": "fan"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sip.",
    "rr": "sun."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiong.",
    "rr": "sip."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "y",
    "rr": "chiong."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siau",
    "rr": "y."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sip siog.",
    "rr": "sip sîong."
   }

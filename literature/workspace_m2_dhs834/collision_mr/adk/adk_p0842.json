@@ -1,74 +1,109 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 842,
  "items": [
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chier",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "S",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xin",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xin",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xi",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "chier cua",
    "rr": "chiér cuàr"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sien cho (前带S花飾)",
    "rr": "siēn chò"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pit tau tat",
    "rr": "pit táu toh"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bac li bu xin",
    "rr": "bag lì būxīn"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bac tiong bo xin",
    "rr": "bag tsiōng bōxīn"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chu tiong",
    "rr": "chù tsiòng"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chi",
    "rr": "chŷ"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chi lue",
    "rr": "chŷ luē"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "seng seng chi gui",
    "rr": "seng seng chŷ quy"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lam xi chi",
    "rr": "lām xŷ chŷ"
   }

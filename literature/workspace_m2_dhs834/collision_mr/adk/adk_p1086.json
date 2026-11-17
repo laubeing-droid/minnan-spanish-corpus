@@ -1,74 +1,81 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1086,
  "items": [
   {
    "position": 5,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "cheng ven",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "ven",
    "rr": ""
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "choa tio cu; poa guio chu [残]",
    "rr": "choa gio coj: poa guiocg:"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "y tng chim chio [疑:y tng chim chio / y tng con chio]",
    "rr": "y thang: ton chioñ:"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cheng ven",
    "rr": "cheng ve hn"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siang y tng chuy chio y hog",
    "rr": "siang: y hang: ?uy chioñ: y hog"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bong cang",
    "rr": "bong: bang"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hu",
    "rr": "hui"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "yn chio y siang uy chio",
    "rr": "on chio: y siang: uy chioñ"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "y nia",
    "rr": "yñ nia"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bong sia y",
    "rr": "song sia y"
   }

@@ -1,88 +1,116 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 525,
  "items": [
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法韵尾:-r",
+   "v1": "goir",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "稀有韵母:-oir(全库1次)",
+   "v1": "goir",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xiēn",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chîer",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "Hài. goir,",
    "rr": "Hài. gurár,"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ng.",
    "rr": "rý."
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "(bō.)",
    "rr": "bōj"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ng héng.",
    "rr": "rý hēng."
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ng gī",
    "rr": "rý īy"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tōa yū",
    "rr": "toā yō"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tōa cûy bōn",
    "rr": "toā cūy bōi"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chîer guin",
    "rr": "chiēt quīn"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuà. cāy.",
    "rr": "chē. cày."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "giàm chūng giam. chūng giam",
    "rr": "giàm chūngīam."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chŏng giam",
    "rr": "chūng giam"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chŏng tŏng",
    "rr": "chóng' rǒng"
   }

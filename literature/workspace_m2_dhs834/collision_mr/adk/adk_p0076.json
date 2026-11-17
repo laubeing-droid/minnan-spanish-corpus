@@ -1,214 +1,270 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 76,
  "items": [
   {
    "position": 9,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "loan fin.",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fin",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "bur",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "bies",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "稀有韵母:-ies(全库2次)",
+   "v1": "bies",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "kind": "官话存疑韵尾:-t",
+   "v1": "mort",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "chim",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "R",
+   "kind": "稀有韵母:-oar(全库2次)",
+   "v1": "moar",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "chim",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tio cue",
    "rr": "tiò tùe"
   },
   {
    "position": 1,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chio guie",
    "rr": "chiò guè"
   },
   {
    "position": 2,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pien nau",
    "rr": "pien nān"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quy lay qui",
    "rr": "gū lay bū"
   },
   {
    "position": 3,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qui kui",
    "rr": "gū lây"
   },
   {
    "position": 4,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mort",
    "rr": "mōrk"
   },
   {
    "position": 5,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "nguey cheng",
    "rr": "nguēng chěng"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sun bou",
    "rr": "tūn bōu"
   },
   {
    "position": 8,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sun mou",
    "rr": "tūn mòu"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "loan fin.",
    "rr": "lōan sīn"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tim bur.",
    "rr": "tīm būt"
   },
   {
    "position": 10,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chim moar",
    "rr": "chîm mōu"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tim ley.",
    "rr": "tīm lēt"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cau bay",
    "rr": "lau bâng"
   },
   {
    "position": 12,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guiao bay",
    "rr": "gniao bâng"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cue gu lay",
    "rr": "uē gū lāy"
   },
   {
    "position": 13,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cua gui lay",
    "rr": "chīa gū lây"
   },
   {
    "position": 14,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chie tin : gui tin",
    "rr": "chiè tīn : gū tīn"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiam tien bun ley ly",
    "rr": "chiām tūen būn toā lī"
   },
   {
    "position": 15,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chien tien buan",
    "rr": "chièn tūen būn tō lī"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siu guy.",
    "rr": "siū gū"
   },
   {
    "position": 16,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siu gui",
    "rr": "sŷ gū"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ley gu",
    "rr": "tē gū"
   },
   {
    "position": 17,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ty ngiuen",
    "rr": "tŷ gniū"
   },
   {
    "position": 18,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ngiuen chay",
    "rr": "gniūn chái"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pog bies",
    "rr": "prog biēt"
   },
   {
    "position": 19,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pog mie",
    "rr": "pōg miēt"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hay go.",
    "rr": "hāi gō"
   },
   {
    "position": 20,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hay ngo",
    "rr": "hāi ngō"
   }

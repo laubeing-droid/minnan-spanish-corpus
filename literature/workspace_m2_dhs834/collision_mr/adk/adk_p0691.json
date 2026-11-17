@@ -1,95 +1,158 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 691,
  "items": [
   {
    "position": 13,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "Al Superior ponerle falta.",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "稀有韵母:-ery(全库1次)",
+   "v1": "guery",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "稀有韵母:-amiro(全库1次)",
+   "v1": "hamiro",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "cier",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "kind": "稀有韵母:-uperior(全库1次)",
+   "v1": "Superior",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "kind": "稀有韵母:-onerle(全库1次)",
+   "v1": "ponerle",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "kind": "稀有韵母:-alta(全库1次)",
+   "v1": "falta",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "kind": "稀有韵母:-isy(全库1次)",
+   "v1": "isy",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "kind": "稀有韵母:-eyia(全库1次)",
+   "v1": "deyia",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "kind": "稀有韵母:-untira(全库1次)",
+   "v1": "muntira",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sey",
    "rr": "sy"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guery hamiro",
    "rr": "gueng. hamino huaxiòyuon"
   },
   {
    "position": 2,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "xui xuon",
    "rr": "ioj"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiu bag",
    "rr": "chiù boq"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ja lang",
    "rr": "ña lan"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sue",
    "rr": "fue"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "san.",
    "rr": "san pong"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "san pong",
    "rr": "cham pong"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cong sy huy",
    "rr": "coñ sier"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cham pong",
    "rr": "cham oa"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cui cier.",
    "rr": "pue aiu oa"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cham oa.",
    "rr": "queng chùy"
   }

@@ -1,88 +1,165 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 992,
  "items": [
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法声母:x",
+   "v1": "xiu",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xu",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xun",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xun",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "sios",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "ir",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-adelante(全库1次)",
+   "v1": "adelante",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "subir",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-ubir(全库1次)",
+   "v1": "subir",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "稀有韵母:-aytallado(全库1次)",
+   "v1": "aytallado",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "L",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "xiu",
    "rr": "xū"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "xu",
    "rr": "xūn"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "xun",
    "rr": "seŷ xūn"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sey xun",
    "rr": "bīn"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bin",
    "rr": "pè lè làng"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pe le lang",
    "rr": "poū hè"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pou he",
    "rr": "poū sio"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pou sios",
    "rr": "chio chîn chio vn̄"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chio chin chio sang . ir adelante. subir.",
    "rr": "tēng"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "teng. (圈画)",
    "rr": "chiūng tīm axtallucle"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiung tin aytallado [残]",
    "rr": ".l. teng k̄"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "L. leng quion [残] (局部涂改)",
    "rr": "lúi"
   }

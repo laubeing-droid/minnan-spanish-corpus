@@ -1,116 +1,179 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1040,
  "items": [
   {
    "position": 2,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "quim v.f. chip",
    "rr": ""
   },
   {
    "position": 4,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "te hun çai por fuerza",
    "rr": ""
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法声母:v",
+   "v1": "v",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法韵尾:-v",
+   "v1": "v",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "f",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法韵尾:-f",
+   "v1": "f",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "por",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fuerza",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "稀有韵母:-uerza(全库2次)",
+   "v1": "fuerza",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "稀有韵母:-unto(全库1次)",
+   "v1": "gunto",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "稀有韵母:-unta(全库2次)",
+   "v1": "punta",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "quim v.f. chip",
    "rr": "quim"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "te hun çai por fuerza",
    "rr": "te hun kai pō fuerza"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiâm ; chôan",
    "rr": "chiâm"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chê bó ià",
    "rr": "chē"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liâm . con gunto ut punta de liâm",
    "rr": "liam"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chîo / tù",
    "rr": "chioh"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pèng",
    "rr": "pēnp"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chù : chîù",
    "rr": "chu"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hō yò.",
    "rr": "hoi yo"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guiê.",
    "rr": "quēy"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pŏy",
    "rr": "bǐ"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lù liàç : liàç.",
    "rr": "lou liah"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liàç (圈注)",
    "rr": "liah"
   },
   {
    "position": 22,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quäng pèng.",
    "rr": "quiang pen"
   }

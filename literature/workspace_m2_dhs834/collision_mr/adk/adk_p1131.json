@@ -1,200 +1,319 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1131,
  "items": [
   {
    "position": 6,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fa: fa teng",
    "rr": ""
   },
   {
    "position": 6,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "tam fia. idz.",
    "rr": ""
   },
   {
    "position": 13,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "tam fia abrigur so.",
    "rr": ""
   },
   {
    "position": 18,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fa tam.",
    "rr": ""
   },
   {
    "position": 22,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fa teng.",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法声母:x",
+   "v1": "xiaù",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "pur",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "char",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fa",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "char",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "preguntar",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-eguntar(全库1次)",
+   "v1": "preguntar",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fia",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "abrigur",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "稀有韵母:-abrigur(全库1次)",
+   "v1": "abrigur",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fa",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "char",
+   "rr": ""
+  },
+  {
+   "position": 22,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fa",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "tam",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "稀有韵母:-idz(全库1次)",
+   "v1": "idz",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "sim",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "kind": "稀有韵母:-uyan(全库1次)",
+   "v1": "buyan",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "guiàu xiaù",
    "rr": "quiáu x iàu"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chin sit pur an",
    "rr": "chim siè pùrân"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cho lang",
    "rr": "chǒ càng."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sim char",
    "rr": "abunçua sîn"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fa: fa teng",
    "rr": "taⁿ"
   },
   {
    "position": 6,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tam fia. idz.",
    "rr": "faⁿ têng"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hong giu: hong can",
    "rr": "hong gûn"
   },
   {
    "position": 7,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "kong sim. buyan: kong chue.",
    "rr": "hong cân. hong sîn .buyran"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gueg",
    "rr": "hong chûe"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gui char",
    "rr": "guêg"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tui giu",
    "rr": "gûi châr"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sim sit",
    "rr": "túi gûin"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sim mui preguntar.",
    "rr": "sîn sît"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tam fia abrigur so.",
    "rr": "sîn mûî pregutgou"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chai hong.",
    "rr": "tamⁿ fia abuçugou"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hong giu.",
    "rr": "châi hong"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "by hong.",
    "rr": "hong gûin"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chai hong.",
    "rr": "bȳ hiòng"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fa tam.",
    "rr": "thâi hong"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tam chue.",
    "rr": "faⁿ tamⁿ"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "co char",
    "rr": "tamⁿ chûe"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hong sim: hong chue",
    "rr": "cò chhei"
   },
   {
    "position": 22,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fa teng.",
    "rr": "hong sîn"
   }

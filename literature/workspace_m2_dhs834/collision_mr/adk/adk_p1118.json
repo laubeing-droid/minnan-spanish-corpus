@@ -1,109 +1,193 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1118,
  "items": [
   {
    "position": 2,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fa yang",
    "rr": ""
   },
   {
    "position": 3,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fang",
    "rr": ""
   },
   {
    "position": 11,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fong liau",
    "rr": ""
   },
   {
    "position": 13,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "tui fang",
    "rr": ""
   },
   {
    "position": 18,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fang chey",
    "rr": ""
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法声母:f",
+   "v1": "fa",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fang",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "L",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xia",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-alli(全库2次)",
+   "v1": "alli",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fong",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fang",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "稀有韵母:-ajustado(全库1次)",
+   "v1": "ajustado",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "ygual",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "稀有韵母:-ygual(全库1次)",
+   "v1": "ygual",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "稀有韵母:-infuercay(全库1次)",
+   "v1": "infuercay",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fang",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "fa yang",
    "rr": "hā āng"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fang",
    "rr": "hang."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "peng guien, L. xia. alli como",
    "rr": "pēng quièn"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guiam tiong guiam",
    "rr": "guiâm tiónp quiâm"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fong liau",
    "rr": "sōng liāu."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tui fang",
    "rr": "tuj tâng"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "peng cun, ajustado ygual infuercay (照录原稿拼写)",
    "rr": "pēng cūn"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pe pe : peng peng",
    "rr": "pē pē"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fang chey",
    "rr": "tâng chēy."
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "goa ca chwa (前有划除的西语残词 [残])",
    "rr": "guâ chuā"
   }

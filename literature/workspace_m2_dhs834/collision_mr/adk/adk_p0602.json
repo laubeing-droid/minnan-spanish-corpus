@@ -1,165 +1,277 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 602,
  "items": [
   {
    "position": 2,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "mara g vino",
    "rr": ""
   },
   {
    "position": 4,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "q vino",
    "rr": ""
   },
   {
    "position": 9,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "lebanion g arriba vt langara.",
    "rr": ""
   },
   {
    "position": 15,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "c forçar ne un chiñ;",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法韵尾:-f",
+   "v1": "iof",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "hues",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "稀有韵母:-uah(全库1次)",
+   "v1": "puah",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "R",
+   "kind": "官话非法声母:v",
+   "v1": "vino",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "kind": "官话非法声母:v",
+   "v1": "vino",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "稀有韵母:-ortillas(全库1次)",
+   "v1": "portillas",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "kind": "稀有韵母:-amaiz(全库1次)",
+   "v1": "tamaiz",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "稀有韵母:-ebanion(全库1次)",
+   "v1": "lebanion",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "稀有韵母:-arriba(全库1次)",
+   "v1": "arriba",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "官话非法声母:v",
+   "v1": "vt",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "官话存疑韵尾:-t",
+   "v1": "vt",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "稀有韵母:-angara(全库1次)",
+   "v1": "langara",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "R",
+   "kind": "稀有韵母:-oner(全库1次)",
+   "v1": "poner",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "kind": "稀有韵母:-olbin(全库1次)",
+   "v1": "solbin",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "kind": "稀有韵母:-algo(全库2次)",
+   "v1": "algo",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "kind": "稀有韵母:-euantarlo(全库1次)",
+   "v1": "leuantarlo",
    "rr": ""
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chià căg",
    "rr": "chiâ cay mare f vino"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gûy câ",
    "rr": "quy ca"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "căg,",
    "rr": "cag f vino"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pe chiu căg iof.",
    "rr": "pe chiu cay id f"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pia yǒ",
    "rr": "pia yô f borillas"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pia yǒ gûy",
    "rr": "pia yô quy f herniz"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mÿ hues.",
    "rr": "my huay"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gûy, lûy",
    "rr": "quy, quy kbanira f arriba vt langara."
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lip",
    "rr": "lip: quyia poner en pie"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guǐa",
    "rr": "quyia"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lǔi",
    "rr": "qui"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "puah chǔi",
    "rr": "pruor chuii"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "giàng. giang bõg chiam bõg.",
    "rr": "giang, giang bong chiam bong."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ne gûy câ",
    "rr": "ne quy ca, el forcare ne chhin"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quio: sip.",
    "rr": "quyio: sip."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Leng tàng cô chīn:",
    "rr": "Leng tay co chhin."
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ta",
    "rr": "ta ta gir solbir algo, ta gio kiu Lebartarlo"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "soân",
    "rr": "van"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guian",
    "rr": "quyian"
   }

@@ -1,67 +1,95 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 689,
  "items": [
   {
+   "position": 11,
+   "field": "M",
+   "kind": "稀有韵母:-ecogida(全库1次)",
+   "v1": "recogida",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "稀有韵母:-ultima(全库2次)",
+   "v1": "ultima",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-igo(全库1次)",
+   "v1": "igo",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "稀有韵母:-orrupta(全库1次)",
+   "v1": "corrupta",
+   "rr": ""
+  },
+  {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "teg [疑:teg/tè]",
    "rr": "çeğ"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sīōng gō.",
    "rr": "sīōṅgṓ"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pè m̄.",
    "rr": "pè ṇ̂"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chù què.",
    "rr": "chùr què"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "nī recogida ultima [疑:ultima/otravía]",
    "rr": "nỹ recogida autworya"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "nī coú igo.",
    "rr": "nỹ con idọ"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lù chiang.",
    "rr": "nù chiàng"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "piàu chù; chiâng hū.",
    "rr": "piàn chù: chhang hū"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "say chiā̃ guāy.",
    "rr": "saỹ chiã guỹ"
   }

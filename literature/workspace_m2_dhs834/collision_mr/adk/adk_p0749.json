@@ -1,102 +1,207 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 749,
  "items": [
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法韵尾:-l",
+   "v1": "l",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "labras",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "稀有韵母:-abras(全库1次)",
+   "v1": "labras",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法韵尾:-j",
+   "v1": "cuàj",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-uaj(全库1次)",
+   "v1": "cuàj",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-agi(全库1次)",
+   "v1": "hãgī",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "palabras",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xîp",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "稀有韵母:-ojgu(全库1次)",
+   "v1": "ojgù",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xīn",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "palabras",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xī",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "cuār",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "bīr",
+   "rr": ""
+  },
+  {
+   "position": 22,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chiēr",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "jû, jû cû hôaš lärpa labras",
    "rr": "cû, cû cû nôas lapalabras"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuàj, cuà̃ hãgī cā:",
    "rr": "cuâᶜ, cuân̂haᶜngī còa:"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bō. （圈注）",
    "rr": "To."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bō-lē̃-lī",
    "rr": "lō lüēn lŷ"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "jēng-gû",
    "rr": "giēngû"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "jiēn-tām.",
    "rr": "giēntâm"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "jiēn-sū.",
    "rr": "giēnsû"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ojgù jāng-xīn palabras~",
    "rr": "oggū sïang xīn palabras."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "xī bīn.",
    "rr": "xŋ bīn."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pí thé.",
    "rr": "pỳ ţeŷ."
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "óa sio hâp cūn~",
    "rr": "oà sïō hap con."
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chàu chūy oa （圈注；其下另有行间小注 chàu chuy oa）",
    "rr": "chàū ṭuy oa"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "oá sió chap",
    "rr": "oà sïō chēᶜ."
   },
   {
    "position": 22,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiēr jiēn.",
    "rr": "chiēᶜ giēn."
   }

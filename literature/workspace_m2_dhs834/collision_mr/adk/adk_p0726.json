@@ -1,102 +1,116 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 726,
  "items": [
   {
    "position": 3,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "pag van",
    "rr": ""
   },
   {
    "position": 16,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "am vuam",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "van",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "vuam",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pag hang pag can",
    "rr": "paŋ haŋ paŋ cān"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pag van",
    "rr": "paŋ vān."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cang cang cwe cang hu",
    "rr": "caŋ caŋ chōⁿ caŋ hú."
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quy",
    "rr": "quî"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chy",
    "rr": "chī."
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "im tec",
    "rr": "im tē."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hu chiu",
    "rr": "hû chhiù."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guim nio",
    "rr": "guiñ niô."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tec cag",
    "rr": "qē cāq."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cey hong",
    "rr": "qeú thòng."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chian ly",
    "rr": "chiàu lŷ."
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "am vuam",
    "rr": "am ûam."
   }

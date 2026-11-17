@@ -1,60 +1,74 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 996,
  "items": [
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法韵尾:-s",
+   "v1": "chus",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "稀有韵母:-alanpuya(全库1次)",
+   "v1": "malanpuya",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "hân chus [疑:末尾交叉號/s]",
    "rr": "hǎn chhûs"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiat han [疑:hiat/hiân]",
    "rr": "hûāt hǎn"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ga",
    "rr": "gâg"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gag hu [疑:gag/gağu]",
    "rr": "gâg hû"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "toa que",
    "rr": "ta guē"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiu teng hia",
    "rr": "chû téâg hiâ"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tiu y malanpuya.",
    "rr": "tîû sù.la.xpuya"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tiam chay [疑:tiam/tia;chay/chay]",
    "rr": "tîā chay"
   }

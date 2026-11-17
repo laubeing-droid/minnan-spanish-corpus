@@ -1,67 +1,116 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 723,
  "items": [
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法韵尾:-x",
+   "v1": "chīx",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "稀有韵母:-ix(全库1次)",
+   "v1": "chīx",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xīn",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "l",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "l",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "kind": "稀有韵母:-ercancia(全库1次)",
+   "v1": "mercancia",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "kind": "稀有韵母:-abrador(全库1次)",
+   "v1": "labrador",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "chīx xīn",
    "rr": "chîxīm"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hūy chiù",
    "rr": "huý sùi"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sēng huǎt.",
    "rr": "sēng huāy."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pun quēng,",
    "rr": "pûm quēyg"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sy nung.",
    "rr": "sī nūng."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiù sū.",
    "rr": "chù şū"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cōng cay",
    "rr": "cōng câi"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuē ǔy",
    "rr": "cuē ŷ"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chît iǎ",
    "rr": "chî iâ"
   }

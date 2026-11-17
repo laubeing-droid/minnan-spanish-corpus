@@ -1,32 +1,53 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 676,
  "items": [
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法韵尾:-b",
+   "v1": "ab",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法韵尾:-b",
+   "v1": "àb",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "稀有韵母:-uniodza(全库1次)",
+   "v1": "cuniodza",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "ab [残] bù àb. bù lõ.",
    "rr": "ab [残] bù ab. bù long."
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chio com.",
    "rr": "chīo coiñ."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lūn chòa.",
    "rr": "un chòa."
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiò cây cuniodza",
    "rr": "chīo cǎy seguienza"
   }

@@ -1,95 +1,165 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1066,
  "items": [
   {
    "position": 2,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "hióng coṉg [疑:coṉg/chīng] feroç [疑:feroç/furo",
    "rr": ""
   },
   {
    "position": 14,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "V.",
    "rr": ""
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法声母:f",
+   "v1": "fero",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "稀有韵母:-ero(全库2次)",
+   "v1": "fero",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "brabos",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "稀有韵母:-abos(全库1次)",
+   "v1": "brabos",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "maior",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-aior(全库2次)",
+   "v1": "maior",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "V",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法韵尾:-v",
+   "v1": "V",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "稀有韵母:-iiau(全库1次)",
+   "v1": "quiiau",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "稀有韵母:-aio(全库1次)",
+   "v1": "raio",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "hióng coṉg [疑:coṉg/chīng] feroç [疑:feroç/furoç] brabos [残]",
    "rr": "hióngcōng. furoz brabo"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lūi tā̃.",
    "rr": "luītān."
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "leg [X交叉号]",
    "rr": "leg"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "che [残:X污涂] grande.",
    "rr": "che…grande"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pêg [疑:pêg/peg] : maior : pê [残:上标符号形⁴/ʰ] leg",
    "rr": "peg. maiora. peg leg con raio"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tʸ [疑:tʸ/t²] lūi [残:后接涂改]",
    "rr": "ty luī."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lūi chioṉg tē qūy [残:末尾黑色虫渍]",
    "rr": "luīchiong tey gui"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pêg lêg [椭圆圈选,各带X交叉号]",
    "rr": "peg leg"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sûn lūi",
    "rr": "son luī"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "V.",
    "rr": "Lù"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Lù",
    "rr": "guiau"
   }

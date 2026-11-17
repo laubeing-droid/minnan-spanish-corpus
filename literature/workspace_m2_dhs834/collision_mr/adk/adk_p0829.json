@@ -1,109 +1,151 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 829,
  "items": [
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法韵尾:-j",
+   "v1": "j",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-ioche(全库1次)",
+   "v1": "sioche",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-uchi(全库1次)",
+   "v1": "jûchī",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-oen(全库2次)",
+   "v1": "doen",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-erg(全库2次)",
+   "v1": "cherg",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "kind": "稀有韵母:-erible(全库1次)",
+   "v1": "perible",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "j chiì",
    "rr": "í chù"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sioche [残] jûchī [残] i.u. doen Co [残]",
    "rr": "tiche kâ, iù chì"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cherg",
    "rr": "chēng"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "queg",
    "rr": "gueg"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sio queg cheg..",
    "rr": "sio gueg cheg.."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "queg qûy",
    "rr": "gueg gūy"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quio chiû qûy",
    "rr": "guio chũi gūy"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tèng chiû chûy.",
    "rr": "teṅ chũi chūy."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liâ qué chiò chîn.",
    "rr": "sia guē chò chīn."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chéng qûy",
    "rr": "chēng gūy"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "âu pē chẽ",
    "rr": "aû pè chēⁿ"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quién quiàng.",
    "rr": "guien gūiang."
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "caù quy",
    "rr": "kaù cūy"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "caû sy quy",
    "rr": "kaù sī hūy."
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sû siõg.",
    "rr": "sū sīōng."
   }

@@ -1,88 +1,137 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 634,
  "items": [
   {
    "position": 19,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fiēnseñ: fīñsẽ",
    "rr": ""
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法韵尾:-l",
+   "v1": "l",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fiēnse",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "稀有韵母:-iense(全库1次)",
+   "v1": "fiēnse",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fī",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "kind": "稀有韵母:-aunoloyin(全库1次)",
+   "v1": "aunoloyin",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "kind": "稀有韵母:-apitan(全库2次)",
+   "v1": "capitan",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "pâu tâi l quēy",
    "rr": "pāu tāy kē"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "càng lõi",
    "rr": "cang lōu"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quěy bó",
    "rr": "guān bó"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chà chà chě quy lāy",
    "rr": "chà chà ché gu lăng"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "būe cūy chě quy lāy",
    "rr": "bue cuy ché gu lăng"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "seg la",
    "rr": "seg la bū lé au noloyra."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quy chiàng quy.",
    "rr": "gu chiàng sư."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiàng cūn",
    "rr": "chiang cūn capitān."
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chòng cūa.",
    "rr": "choāncuā."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "háy hò.",
    "rr": "hay tó."
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fiēnseñ: fīñsẽ",
    "rr": "fiênseñ : sînseñ — cen."
   }

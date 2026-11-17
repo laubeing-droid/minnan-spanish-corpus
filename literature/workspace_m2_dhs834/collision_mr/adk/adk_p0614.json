@@ -1,74 +1,123 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 614,
  "items": [
   {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "nietos",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-ietos(全库1次)",
+   "v1": "nietos",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "cur",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "稀有韵母:-adicgulo(全库1次)",
+   "v1": "Adicgulo",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "M",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "稀有韵母:-estipendio(全库1次)",
+   "v1": "estipendio",
+   "rr": ""
+  },
+  {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qūin qūy",
    "rr": "guīn gìû"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guîa chūn nietos",
    "rr": "guià kûn"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "têy",
    "rr": "Fey"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "têy giâ sōã.",
    "rr": "sey già zôa"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mue: chiǒt.",
    "rr": "mue: chioz"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chōg sū",
    "rr": "lio gin sīn e"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pòa siõ",
    "rr": "pòa sioⁿ"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cue chiũ",
    "rr": "cūe chiuⁿ"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuy sẽ cuy chẽ",
    "rr": "cuy se liay chie"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuy cur",
    "rr": "cũy cũy"
   }

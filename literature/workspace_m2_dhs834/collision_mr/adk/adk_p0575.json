@@ -1,46 +1,53 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 575,
  "items": [
   {
+   "position": 19,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xiàng",
+   "rr": ""
+  },
+  {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "coú tvã.",
    "rr": "cou gua."
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quiam giam séy",
    "rr": "quiām grām sēy"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quiong. giam giong. giam py. séy. im lio sim",
    "rr": "quiong. giam giong. giam py. sēy. im sio śim"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quèng gī",
    "rr": "quēng ĭ"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sī chy",
    "rr": "côm chy"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liāng lāng [殘]",
    "rr": "liâng lâng pîn lōn naōm"
   }

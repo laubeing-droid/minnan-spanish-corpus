@@ -1,67 +1,81 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 950,
  "items": [
   {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chur",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "char",
+   "rr": ""
+  },
+  {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iam chau chio chou",
    "rr": "iām cháû chiŏ chôi"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tio",
    "rr": "Siō"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pva",
    "rr": "pōā"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iong iag",
    "rr": "iōng iāk"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pui chur lay",
    "rr": "pūy chur lay"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iong iag",
    "rr": "iōng iāk"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quiap char",
    "rr": "guiáp chài"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quiap lang",
    "rr": "guiáp lang"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pag bin",
    "rr": "cö᷒g lē̃g løy hāy"
   }

@@ -1,137 +1,193 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 604,
  "items": [
   {
    "position": 4,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "poḿ fué.",
    "rr": ""
   },
   {
    "position": 15,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "Biēn tien niğ faxea o ordinaxia;",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "稀有韵母:-iapm(全库1次)",
+   "v1": "chiàpm",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fué",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "faxea",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "稀有韵母:-axea(全库1次)",
+   "v1": "faxea",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "稀有韵母:-ordinaxia(全库1次)",
+   "v1": "ordinaxia",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "稀有韵母:-oam(全库2次)",
+   "v1": "zoām",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "hín peḿ chiàpm̄",
    "rr": "hín pēng chiòpng"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "say sỹ huỹ iē̃ oā",
    "rr": "sāy sỹ hũj lemoǎ"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "poḿ fué.",
    "rr": "pōng sūe."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sím sũ say sim iù.",
    "rr": "sím sū sāy sim sū."
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qüe ho ge su iog.",
    "rr": "qùe hō : qě sū iō."
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quy cañquie.",
    "rr": "quy cañ què."
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "say àm chỳ.",
    "rr": "le oǎ"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sẽ oā.",
    "rr": "cū."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cù.",
    "rr": "nià quī : lēng quī."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "niā quȳ. lēng quȳ.",
    "rr": "sip tèğ."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sĩp teg",
    "rr": "chiò pēng."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiô pēng.",
    "rr": "bien bien wig"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Biēn tien niğ faxea o ordinaxia;",
    "rr": "zoan"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "zoām",
    "rr": "pè chò hūè"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pě chô huè",
    "rr": "bā bā."
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bã bã.",
    "rr": "pūe hap."
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pūe hãp.",
    "rr": "hūe hap."
   }

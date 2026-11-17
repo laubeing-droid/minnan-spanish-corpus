@@ -1,19 +1,159 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 40,
  "items": [
   {
    "position": 34,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "van",
    "rr": ""
   },
   {
    "position": 36,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "van chōen",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "稀有韵母:-eren(全库1次)",
+   "v1": "cheren",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "稀有韵母:-emea(全库1次)",
+   "v1": "cheméa",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "稀有韵母:-aypan(全库1次)",
+   "v1": "guāypan",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-oayhue(全库1次)",
+   "v1": "hoayhue",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "稀有韵母:-aquapo(全库1次)",
+   "v1": "guaquāpō",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-eoneau(全库1次)",
+   "v1": "deoneau",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-usoan(全库1次)",
+   "v1": "chūsoān",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "稀有韵母:-uenlang(全库1次)",
+   "v1": "chūenlang",
+   "rr": ""
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "kind": "稀有韵母:-oate(全库1次)",
+   "v1": "toáté",
+   "rr": ""
+  },
+  {
+   "position": 27,
+   "field": "M",
+   "kind": "稀有韵母:-auc(全库1次)",
+   "v1": "auc",
+   "rr": ""
+  },
+  {
+   "position": 34,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "van",
+   "rr": ""
+  },
+  {
+   "position": 36,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "van",
+   "rr": ""
+  },
+  {
+   "position": 36,
+   "field": "M",
+   "kind": "稀有韵母:-oen(全库2次)",
+   "v1": "chōen",
+   "rr": ""
+  },
+  {
+   "position": 39,
+   "field": "M",
+   "kind": "稀有韵母:-unban(全库1次)",
+   "v1": "dunban",
+   "rr": ""
+  },
+  {
+   "position": 39,
+   "field": "M",
+   "kind": "稀有韵母:-ueche(全库1次)",
+   "v1": "chueche",
+   "rr": ""
+  },
+  {
+   "position": 41,
+   "field": "M",
+   "kind": "稀有韵母:-oni(全库2次)",
+   "v1": "poni",
+   "rr": ""
+  },
+  {
+   "position": 45,
+   "field": "M",
+   "kind": "稀有韵母:-aran(全库1次)",
+   "v1": "haran",
+   "rr": ""
+  },
+  {
+   "position": 47,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "obendeys",
+   "rr": ""
+  },
+  {
+   "position": 47,
+   "field": "M",
+   "kind": "稀有韵母:-obendeys(全库1次)",
+   "v1": "obendeys",
+   "rr": ""
+  },
+  {
+   "position": 47,
+   "field": "M",
+   "kind": "稀有韵母:-anguan(全库1次)",
+   "v1": "quanguān",
    "rr": ""
   }
  ]

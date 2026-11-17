@@ -1,60 +1,123 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 837,
  "items": [
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "稀有韵母:-aiilo(全库1次)",
+   "v1": "aiilo",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "稀有韵母:-icca(全库1次)",
+   "v1": "picca",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "puercar",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "稀有韵母:-uercar(全库1次)",
+   "v1": "puercar",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "稀有韵母:-acspija(全库1次)",
+   "v1": "lacspija",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法声母:w",
+   "v1": "wa",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "稀有韵母:-enta(全库1次)",
+   "v1": "llenta",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "lamujir",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "稀有韵母:-amujir(全库1次)",
+   "v1": "lamujir",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "guiy sam aiilo",
    "rr": "gūy tūn aixlo"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guiy lay cu",
    "rr": "gūy lay cù"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "o hue.",
    "rr": "chùe"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tou ly u.",
    "rr": "tǒa lī ù"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pe guia.",
    "rr": "pēe guīa"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "uy picca de puercar baca et a lacspija / wa esta llenta.",
    "rr": "cuy gōo cl de puerca, baca et laueija"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "in. siu in. e lamujir",
    "rr": "gōo. clla llena."
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sin hun.",
    "rr": "in. siúin. cs. lâmuíu."
   }

@@ -1,81 +1,130 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 924,
  "items": [
   {
    "position": 13,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "van quid lou.",
    "rr": ""
   },
   {
    "position": 14,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "lou van.",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-iiy(全库2次)",
+   "v1": "tiiy",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "van",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法韵尾:-d",
+   "v1": "quid",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "van",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "dar",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "bueltes",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "稀有韵母:-ueltes(全库1次)",
+   "v1": "bueltes",
    "rr": ""
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "[疑:b/ch]u chay.",
    "rr": "bŭ chuy"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiu chu.",
    "rr": "chui chú"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tang lou chui grande.",
    "rr": "táng lōu chùi"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chia lin tiiy.",
    "rr": "chia lin trùy"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tuan.",
    "rr": "kuān"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "van quid lou.",
    "rr": "van quoZ lou"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tuan huan.",
    "rr": "kuan huan"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tuan choan dar bueltes. [残]",
    "rr": "kuan choan day bueltra"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ca tau",
    "rr": "chip"
   }

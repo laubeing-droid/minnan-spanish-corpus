@@ -1,74 +1,116 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 722,
  "items": [
   {
    "position": 8,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "vān,",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "稀有韵母:-ubu(全库1次)",
+   "v1": "sūBū",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chiér",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "vān",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "kind": "稀有韵母:-ocultar(全库1次)",
+   "v1": "ocûltar",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "稀有韵母:-iempo(全库2次)",
+   "v1": "tiempo",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "稀有韵母:-asta(全库1次)",
+   "v1": "gasta",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "táû tå.",
    "rr": "taû kà"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "[涂改] Lã̇: Loù, Lã̃ tē̃",
    "rr": "Là; Lòû, Làtâ"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sū Bān pūà",
    "rr": "sū bān pôa"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chēng. anā̃ ĩn.",
    "rr": "cheng, anā chî"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chōẽ chōe.",
    "rr": "sāy hū"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chōẽ chî̂.",
    "rr": "siū lām"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "saī hū̃",
    "rr": "saū lâm"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siù lā̃.",
    "rr": "nià cañ hū"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sāu lā̃.",
    "rr": "sāy ià"
   }

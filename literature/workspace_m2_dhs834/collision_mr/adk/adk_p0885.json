@@ -1,109 +1,137 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 885,
  "items": [
   {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xit",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xit",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "稀有韵母:-einta(全库1次)",
+   "v1": "treinta",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "R",
+   "kind": "稀有韵母:-ontrueno(全库1次)",
+   "v1": "contrueno",
+   "rr": ""
+  },
+  {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chañ cãm.",
    "rr": "chaç cam"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pien chiũ.",
    "rr": "pién chio"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pien sat.",
    "rr": "pién say"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pien gueng.",
    "rr": "pién quèng"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "luy.",
    "rr": "lūy chỳ lūy tān"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "luy chy luy.",
    "rr": "xit ça"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "xit ca.",
    "rr": "xit cong"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "xit cuy.",
    "rr": "guīn"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quin.",
    "rr": "zom ..."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chom ...",
    "rr": "guīn guān"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quin guan.",
    "rr": "pe chin"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pe chin.",
    "rr": "cam siong"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cãm siong.",
    "rr": "guīn chim"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quin chim.",
    "rr": "sam chit"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sãm chit.",
    "rr": "guiong"
   }

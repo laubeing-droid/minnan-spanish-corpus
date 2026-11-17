@@ -1,130 +1,200 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 499,
  "items": [
   {
    "position": 13,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "cán im feñgsû̃",
    "rr": ""
   },
   {
    "position": 15,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "feñfsû̃.",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-aingei(全库1次)",
+   "v1": "caingei",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-aroton(全库1次)",
+   "v1": "garoton",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-andaron(全库1次)",
+   "v1": "andaron",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fe",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法韵尾:-f",
+   "v1": "cánf",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "稀有韵母:-anf(全库1次)",
+   "v1": "cánf",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fe",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fsû",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "稀有韵母:-absu(全库1次)",
+   "v1": "châbsu",
    "rr": ""
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guiō chiõ",
    "rr": "qūiū chión"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "uí pêg",
    "rr": "ḿ pèj"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cûn lāy cûn cû",
    "rr": "cūn lay cūn chū"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sĭang.",
    "rr": "fiang"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cán can im toyñi cam / cán tu toyñi cán cim",
    "rr": "can can īm toyñū"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Pió [残] caingei garoton.",
    "rr": "can lu toyñū cau cūm"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "piau andaron malo ga [残]",
    "rr": "pio càiⁿ qe garanīn"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "īang.",
    "rr": "piaū"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ím.",
    "rr": "iāng"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cán im feñgsû̃",
    "rr": "ím"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cánfŭ.",
    "rr": "cam īm seng fū"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "feñfsû̃.",
    "rr": "cam fū"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "piô cau quec.",
    "rr": "seng fū"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "càu cám.",
    "rr": "pio cām qùe"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tǒng cán.",
    "rr": "caù cam"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hô sây / hô châbsu",
    "rr": "thong cam"
   }

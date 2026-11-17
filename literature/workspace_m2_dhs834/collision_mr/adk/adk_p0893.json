@@ -1,137 +1,186 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 893,
  "items": [
   {
    "position": 5,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fiong.",
    "rr": ""
   },
   {
    "position": 11,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "hòng: fiong sìn.",
    "rr": ""
   },
   {
    "position": 12,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fiong hōu.",
    "rr": ""
   },
   {
    "position": 13,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fiong tit.",
    "rr": ""
   },
   {
    "position": 14,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fiong sim.",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fiong",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fiong",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fiong",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fiong",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fiong",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "còng. chuy.",
    "rr": "cong:"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quy.",
    "rr": "gui"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fiong.",
    "rr": "tiong."
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quy cong..",
    "rr": "gui cong.."
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sim cong.",
    "rr": "sin cong:"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "còng çy.",
    "rr": "cong kiam"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cheng cay.",
    "rr": "cheng cai"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tiāu tit làng. quy ha.",
    "rr": "tian tit lang."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hòng: fiong sìn.",
    "rr": "hong: tiong sin"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fiong hōu.",
    "rr": "tiong hau:"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fiong tit.",
    "rr": "tiong tit:"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fiong sim.",
    "rr": "tiong sim."
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chúy.",
    "rr": "tuy"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sȳ: sū.",
    "rr": "sî:"
   }

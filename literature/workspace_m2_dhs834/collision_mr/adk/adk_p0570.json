@@ -1,95 +1,165 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 570,
  "items": [
   {
+   "position": 1,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xia",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xēn",
+   "rr": ""
+  },
+  {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法声母:x",
+   "v1": "xīn",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-oma(全库1次)",
+   "v1": "toma",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "稀有韵母:-onrra(全库1次)",
+   "v1": "honrra",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "稀有韵母:-orq(全库1次)",
+   "v1": "hôrq",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "arrodillar",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "稀有韵母:-arrodillar(全库1次)",
+   "v1": "arrodillar",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "alabar",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "稀有韵母:-alabar(全库1次)",
+   "v1": "alabar",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "lo lo xīn chāy.",
    "rr": "lǒng lǒng xīn chāy."
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siô ûa lāng.",
    "rr": "sīoïa lanḡ."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guēng. toma.",
    "rr": "quēy."
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guēng tâu",
    "rr": "quēy tāū."
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tòa:",
    "rr": "lo mue ha chos. tōâ:"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chûn; quēng; chûn gî",
    "rr": "chūn; quēy: chún guēy."
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siō",
    "rr": "siǒy."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ēng; ēng hiū honrra hôrq iō",
    "rr": "enḡ; ēng hīn honrra. may hong iōy."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cûy arrodillar",
    "rr": "cùy aysidillar"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quió̂n go",
    "rr": "quiong. goŷ"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pey hī.",
    "rr": "pēy hē."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hū ho ay",
    "rr": "kù:/hóy/ay:"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sēng; ēng sēng",
    "rr": "sēng; sēng zēng"
   }

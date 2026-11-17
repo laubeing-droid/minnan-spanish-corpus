@@ -1,81 +1,102 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1034,
  "items": [
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "稀有韵母:-apususale(全库1次)",
+   "v1": "apususale",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "稀有韵母:-otrio(全库1次)",
+   "v1": "otrio",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "稀有韵母:-uchillo(全库1次)",
+   "v1": "cuchillo",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "ca peg apususale.",
    "rr": "ch'pèg chusuaich."
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iam chin.",
    "rr": "cam chin"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siam pan mo,",
    "rr": "siam taũ mo"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chy boy in -",
    "rr": "chî̃ chý ĭn"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiu chu. -",
    "rr": "chiu chiu"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "toa lang",
    "rr": "thâylâng"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iam sy lang.（sy 字上有墨污一团）",
    "rr": "iam sylâng"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ua chin tio otrio.",
    "rr": "cuâ chin tio cutrio"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiu sin.",
    "rr": "chió sín"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ca chun.",
    "rr": "cá chìm"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "to cuchillo.",
    "rr": "to"
   }

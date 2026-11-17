@@ -1,116 +1,144 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 659,
  "items": [
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-unasre(全库1次)",
+   "v1": "mǔnasre",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "hiam",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "kind": "稀有韵母:-uerpo(全库1次)",
+   "v1": "cuerpo",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "qûy sễ",
    "rr": "guiy sê"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qûy tȳ",
    "rr": "guiy tī"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qûy tûa.",
    "rr": "guiy tòa."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qûy tiẫ.",
    "rr": "guiy tiā"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "châu pūn.",
    "rr": "chaù pin"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iaū: yō",
    "rr": "tang: yong huy tang mincariile."
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tǎng: tǒng tǔy tǎng mǔnasre.",
    "rr": "fuy yi fano."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tô",
    "rr": "sîp."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sîp",
    "rr": "lou"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lǒu",
    "rr": "lou iey."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lǒu tây.",
    "rr": "fin iey."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sīn tây.",
    "rr": "pe quio."
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pē guîo.",
    "rr": "fuy fang."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tǔy tǎng.",
    "rr": "un tong."
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ǔn tǒng.",
    "rr": "fiu chia hang"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tiû chiâ tǎng",
    "rr": "lau tau."
   }

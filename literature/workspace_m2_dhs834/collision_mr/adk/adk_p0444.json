@@ -1,158 +1,228 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 444,
  "items": [
   {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-ynguento(全库1次)",
+   "v1": "ynguento",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法韵尾:-d",
+   "v1": "îd",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-elguia(全库1次)",
+   "v1": "melguia",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "errar",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-errar(全库2次)",
+   "v1": "errar",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "l",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "R",
+   "kind": "官话存疑韵尾:-t",
+   "v1": "ngiēt",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "kind": "官话存疑韵尾:-t",
+   "v1": "ngiēt",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "R",
+   "kind": "官话存疑韵尾:-t",
+   "v1": "sīt",
+   "rr": ""
+  },
+  {
+   "position": 21,
+   "field": "R",
+   "kind": "官话存疑韵尾:-t",
+   "v1": "sīt",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tẫ",
    "rr": "tâm"
   },
   {
    "position": 2,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "châⁿ",
    "rr": "chă"
   },
   {
    "position": 4,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "châyⁿ: châⁿ",
    "rr": "chaÿ: chă"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chē choc ynguento",
    "rr": "chě chogᶜ enguenta"
   },
   {
    "position": 5,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "châⁿ chôⁿ",
    "rr": "chă chǒ"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gō̃",
    "rr": "gō, etcexaibiendo"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gō̃ chỗ hô îdç / It que sin melguia errar =",
    "rr": "gūi chōm hō idg. (sit goě sin malicia errar)"
   },
   {
    "position": 7,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ngūⁿ",
    "rr": "ngū"
   },
   {
    "position": 8,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chō gū chiō",
    "rr": "chō gūn chiō"
   },
   {
    "position": 9,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mīū lī",
    "rr": "mīn luī"
   },
   {
    "position": 10,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mî lū",
    "rr": "mŷ hū"
   },
   {
    "position": 13,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "châⁿ chôⁿ",
    "rr": "chă chǒ"
   },
   {
    "position": 14,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "châ xyū",
    "rr": "chă sŷn"
   },
   {
    "position": 15,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chô chiù",
    "rr": "chǒ chǐn"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guiā̃ m̄ tiō lōũ",
    "rr": "guîa m̄ hiǒ lōu"
   },
   {
    "position": 16,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiêng pū chiò lū",
    "rr": "hiēng gūn chǐō lū"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "giēt chōng",
    "rr": "giě chōng"
   },
   {
    "position": 17,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ngiēt choāng",
    "rr": "ngiě chōang"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "giēt tāy",
    "rr": "giě taŷ"
   },
   {
    "position": 18,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ngiēt tāy",
    "rr": "ngiēo tāŷ"
   },
   {
    "position": 19,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "huî sīn",
    "rr": "huî sǐm"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sit chog. l. sit cho",
    "rr": "sǐt chogᶜ. 1. sǐt chǒ"
   }

@@ -1,130 +1,186 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1067,
  "items": [
   {
    "position": 4,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "vay :",
    "rr": ""
   },
   {
    "position": 5,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "var .",
    "rr": ""
   },
   {
    "position": 6,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "van gioq ..",
    "rr": ""
   },
   {
    "position": 22,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fofo chu tay .",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "vay",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "var",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "var",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "van",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "l",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xiang",
+   "rr": ""
+  },
+  {
+   "position": 22,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fofo",
+   "rr": ""
+  },
+  {
+   "position": 22,
+   "field": "M",
+   "kind": "稀有韵母:-ofo(全库1次)",
+   "v1": "fofo",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guioq .",
    "rr": "quioq"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cui .",
    "rr": "cur"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ong .",
    "rr": "oy."
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "[疑:gien/pien] m chia",
    "rr": "gien m chia"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "che bag lang . chit bag .",
    "rr": "cheg Bag lanḡ, chit bag."
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "zog gien",
    "rr": "zoq gien."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bu che [残] m lang . l soy cou lang .",
    "rr": "buy che mī lanḡ. I soḡ cou lanḡ."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tai ma hong .",
    "rr": "tai m honḡ."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ca hong tha .",
    "rr": "ca honḡ ta."
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siau guin .",
    "rr": "siaù qûin."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siau ta .",
    "rr": "siaù cā."
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "o .",
    "rr": "quan xianḡ."
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quan xiang .",
    "rr": "gō!"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "so .",
    "rr": "fōfō chū lanḡ."
   }

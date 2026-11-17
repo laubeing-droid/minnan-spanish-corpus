@@ -1,123 +1,151 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 989,
  "items": [
   {
    "position": 1,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "quim fiau [疑:fiau/tiau]",
    "rr": ""
   },
   {
    "position": 7,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "hong fiau [疑:fiau/siau]",
    "rr": ""
   },
   {
    "position": 16,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "pui [疑:pui/pri] chue fang [疑:fang/tang]",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法声母:f",
+   "v1": "fiau",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-umsonido(全库1次)",
+   "v1": "gumsonido",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fiau",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fang",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "quim fiau [疑:fiau/tiau]",
    "rr": "quim tiaû"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hang hang hiõ gum siã [疑:首字母h/p難辨]",
    "rr": "saṅsaṅ hioṅ gûm siā"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sio quio in gumsonido [疑:連寫難辨]",
    "rr": "sió quiò in & unisono"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pau hiang",
    "rr": "pâṅ hiàng"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "im ron [疑:ron/ūn]",
    "rr": "im ûn."
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hong fiau [疑:fiau/siau]",
    "rr": "hóng fiāu."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bin tau chin [疑:chin/chim]:",
    "rr": "bīn taū chîm."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chue : chui [疑:chue/chne]",
    "rr": "chiûe; chûi."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pu : pun [疑:pu/pni]",
    "rr": "pûi; pūn."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pun [疑:pun/piun]",
    "rr": "pūn."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cam cui",
    "rr": "can cuij."
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pui [疑:pui/pri] chue fang [疑:fang/tang]",
    "rr": "pûi chiūe tāṅ."
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chue",
    "rr": "chiûe."
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ho gui lay",
    "rr": "hó guīy lay."
   }

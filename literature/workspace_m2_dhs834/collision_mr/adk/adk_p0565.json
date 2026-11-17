@@ -1,102 +1,207 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 565,
  "items": [
   {
    "position": 17,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "tng²: toān di-latari ut fare tng² aū ṯy decir",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-iona(全库1次)",
+   "v1": "īona",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xīng",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "稀有韵母:-atari(全库1次)",
+   "v1": "latari",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fare",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "稀有韵母:-are(全库2次)",
+   "v1": "fare",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "decir",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "稀有韵母:-ecir(全库1次)",
+   "v1": "decir",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "los",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "numeros",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "稀有韵母:-umeros(全库1次)",
+   "v1": "numeros",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "libros",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "稀有韵母:-ibros(全库1次)",
+   "v1": "libros",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "稀有韵母:-istoria(全库1次)",
+   "v1": "historia",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "稀有韵母:-exia(全库1次)",
+   "v1": "lexia",
    "rr": ""
   },
   {
    "position": 1,
    "field": "R",
-   "kind": "字母差",
+   "kind": "稀有韵母:-all(全库1次)",
+   "v1": "ball",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "kind": "两读字母差",
    "v1": "ball [疑:ball/bull]",
    "rr": "bath"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chín sōg. cuça ut agua. =",
    "rr": "chin ting"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hēng huân hōng.",
    "rr": "teng huan hong"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiūng. chēng. ṯy. 2",
    "rr": "hiong"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tūn tūṣp īonaṛ.",
    "rr": "fun"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guē siaú lā.",
    "rr": "que tiau la"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "xīng gī bôa.",
    "rr": "xingy boa"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guē hó sīm.",
    "rr": "que ho sim"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sû còu jû.",
    "rr": "su cou su"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tng²: toān di-latari ut fare tng² aū ṯy decir a los numeros;",
    "rr": "toy: poan"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "câm cam chī libros, ei historia",
    "rr": "toy ay ty"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tng sy² 4",
    "rr": "cam iam che"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sû gúy, a lexia. gī liog.",
    "rr": "toy sy"
   }

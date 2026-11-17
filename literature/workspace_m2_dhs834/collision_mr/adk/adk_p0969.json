@@ -1,116 +1,179 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 969,
  "items": [
   {
+   "position": 8,
+   "field": "M",
+   "kind": "稀有韵母:-ati(全库1次)",
+   "v1": "mati",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "car",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "ojos",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-ojos(全库1次)",
+   "v1": "ojos",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "puertas",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-uertas(全库1次)",
+   "v1": "puertas",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "sôs",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "iôs",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "sôs",
+   "rr": ""
+  },
+  {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "giŷ.",
    "rr": "guiy"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pŷ qûiap.",
    "rr": "py guiap"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chāy sī lù.",
    "rr": "chay sit-lu"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sô:",
    "rr": "ço"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chung teng: [残]: mati, car.",
    "rr": "chung teng"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cũa.",
    "rr": "mahi car"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pŷ ojos puertas. [疑:ojos/ofos]",
    "rr": "mua"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sât. chât.",
    "rr": "py otros puertas"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sôs . pŷ giû pŷ uân.",
    "rr": "seg: sai"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "uân iôs.",
    "rr": "choy. py gin py cuan."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sôs.",
    "rr": "cuan ioy"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "beñ ge. bay chiu ge. beñ bag. [疑:beñ/buñ]",
    "rr": "choy"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pŷ",
    "rr": "beng ge bay chiu ge: beng bag"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "que.",
    "rr": "py"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quiam. [残]",
    "rr": "que"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sô:",
    "rr": "quiam cottay"
   }

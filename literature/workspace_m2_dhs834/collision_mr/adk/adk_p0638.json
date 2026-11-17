@@ -1,109 +1,151 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 638,
  "items": [
   {
    "position": 17,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "pe fio . pe hēn hōy ~ .",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法韵尾:-z",
+   "v1": "gz",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "稀有韵母:-argha(全库1次)",
+   "v1": "margha",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xu",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "稀有韵母:-engo(全库2次)",
+   "v1": "chengô",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-evilla(全库1次)",
+   "v1": "guevīlla",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fio",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "Gīm gīm gīm . gz margha .",
    "rr": "Gīm sīm gīm. gȳ soycha."
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiă lē̃g .",
    "rr": "chiǔ lĕng."
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "xu lē̃g .",
    "rr": "xu lĕng."
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chuy lē̃g .",
    "rr": "chuy lĕng."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cam lōu chūy .",
    "rr": "cam lŏǔ chŭi."
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qîn .",
    "rr": "sīn."
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chengô gûy .",
    "rr": "cheng gûy."
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "aū se . naū lūn . haū se īa . haū li ba guevīlla si mī Lang",
    "rr": "buan gûe."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "buan gûe .",
    "rr": "cheng liēn."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chéng līen .",
    "rr": "lōng cūn hūe"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "long aūn hûe .",
    "rr": "lĕy bûe."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lēy bûe .",
    "rr": "chî"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chû .",
    "rr": "han pān."
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hân pân .",
    "rr": "pe fiō. pè hīēn hōng."
   }

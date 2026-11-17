@@ -1,116 +1,221 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 557,
  "items": [
   {
    "position": 18,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "quiô fêng.",
    "rr": ""
   },
   {
    "position": 20,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "de comir de ve[残]ras.",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "l",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-iangpe(全库2次)",
+   "v1": "siângpe",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "稀有韵母:-iangpe(全库2次)",
+   "v1": "siângpe",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xy",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "稀有韵母:-alla(全库1次)",
+   "v1": "alla",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fêng",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "hūr",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "cūr",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "稀有韵母:-ayor(全库1次)",
+   "v1": "mayor",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "稀有韵母:-ermano(全库1次)",
+   "v1": "hermano",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "kind": "稀有韵母:-iangpi(全库1次)",
+   "v1": "siangpi",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "kind": "稀有韵母:-onbos(全库1次)",
+   "v1": "bonbos",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "kind": "稀有韵母:-ardan(全库1次)",
+   "v1": "guardan",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "R",
+   "kind": "稀有韵母:-omir(全库1次)",
+   "v1": "comir",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "R",
+   "kind": "官话非法声母:v",
+   "v1": "ve",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chin chiâ hiā ty",
    "rr": "chin chiâⁿ hiaⁿ tỷ"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quêy êy.",
    "rr": "quêy tỷ."
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quêy ey. l ty.",
    "rr": "quêy tỷ . ļ tỷ."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sey cô.",
    "rr": "tổng cỏu"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siângpe Ciâng bū.",
    "rr": "sìang pè tàṷ bú."
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Siâng bū câng pè.",
    "rr": "sìang bù tàṷ pè."
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siò lâng.",
    "rr": "siō lòng."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gū tēy.",
    "rr": "gūn tỷ."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tang pau hiâ ty : tong pau hêng ty.",
    "rr": "tang pau hiaⁿ tỷ : tōngpau hōng tỷ"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cheg ua.",
    "rr": "cheg cua."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "giām ỹ alla u[残]ny bon[残],",
    "rr": "giām īng"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quiô fêng.",
    "rr": "quiū tēng."
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiâ chài.",
    "rr": "chià chāy"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiâ chàu je lâng.",
    "rr": "chià chài gē làng"
   }

@@ -1,60 +1,81 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1107,
  "items": [
   {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-alahua(全库1次)",
+   "v1": "alahua",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "prometer",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-ometer(全库1次)",
+   "v1": "prometer",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "y guan",
    "rr": "gûan"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "un chang.",
    "rr": "lun · chaong."
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "un hio.",
    "rr": "lun hio."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "he guan; hu he; prometer. hu guan",
    "rr": "he guan. hu he. prometier. hu guan"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiam",
    "rr": "chiam"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cu ca li hiam",
    "rr": "cu caç ℓ chiam"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chioh guan.",
    "rr": "chioç guan."
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chuan seg ho.",
    "rr": "chuan çeg ho."
   }

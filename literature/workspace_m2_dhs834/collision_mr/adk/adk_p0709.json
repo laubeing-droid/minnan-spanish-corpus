@@ -1,67 +1,123 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 709,
  "items": [
   {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-ayoa(全库1次)",
+   "v1": "tāyōā",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xiõ",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "稀有韵母:-ullo(全库1次)",
+   "v1": "nullo",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "官话存疑韵尾:-t",
+   "v1": "potest",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "稀有韵母:-otest(全库1次)",
+   "v1": "potest",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "稀有韵母:-yquede(全库1次)",
+   "v1": "nyquede",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "稀有韵母:-ir(全库2次)",
+   "v1": "ir",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "稀有韵母:-unos(全库1次)",
+   "v1": "múnos",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bō chùi.",
    "rr": "vô chùr"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pūn bō̃ng gūĩ.",
    "rr": "pùr bōng qiǔ"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bō sió cā̄̃ng toã.",
    "rr": "bō siō cang kòa"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bō cū̃.",
    "rr": "bō qùr"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bō tāy yōā. bō nāy hō:",
    "rr": "bō tāi yòa. bō nay hō."
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bō huãt y tāyōā.",
    "rr": "bō hōān ī tāi yòa. gūn tég y."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pū̃t tēỹ ī̃.",
    "rr": "gūn tég y."
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bēy châỹ hāỹ",
    "rr": "bey chay hai [残]"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bēy chiāng chiū tit.",
    "rr": "bey chian chiu tit."
   }

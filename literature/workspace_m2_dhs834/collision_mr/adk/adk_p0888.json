@@ -1,102 +1,130 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 888,
  "items": [
   {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "choar",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-uno(全库1次)",
+   "v1": "Uno",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-otro(全库2次)",
+   "v1": "otro",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xin",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tiau tam ni lang [T99:第三四音节上方另有涂改墨迹]",
    "rr": "tiaū tāū m̄ lâng"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tiau lang.",
    "rr": "taû lâng"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chu:choar m-choa. [疑:chu/tu]",
    "rr": "chōaⁿ: chōaⁿ."
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chu [疑:chu/tu] （圈选）",
    "rr": "tī"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lai lou.",
    "rr": "lāt lōū"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guiau.",
    "rr": "quiàu."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "choan: [残(涂改块)] : lin hin.",
    "rr": "choàn: tī: līn hu᷉n"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "poan:poan tau:poan to. Uno con otro.",
    "rr": "poān: poān tiaū: pān tiō."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pue bu hin xin. [疑:hin xin/hin lin]",
    "rr": "pūe bû hīro."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pue gieg ..",
    "rr": "pūe giek."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guiau lin try. [残:第二音节上有墨渍]",
    "rr": "quiàu tīⁿ tūy."
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ty toa ..",
    "rr": "tī bōā."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "on chia cou ..",
    "rr": "ún chiâ cōu."
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "on chia on .",
    "rr": "ún chiā ūn."
   }

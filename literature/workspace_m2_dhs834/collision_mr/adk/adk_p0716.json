@@ -1,74 +1,123 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 716,
  "items": [
   {
    "position": 12,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "viento norte.",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "kind": "稀有韵母:-amas(全库1次)",
+   "v1": "llamas",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "稀有韵母:-estrella(全库1次)",
+   "v1": "estrella",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "稀有韵母:-orte(全库2次)",
+   "v1": "norte",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "kind": "官话非法声母:v",
+   "v1": "viento",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "kind": "稀有韵母:-iento(全库1次)",
+   "v1": "viento",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "kind": "稀有韵母:-orte(全库2次)",
+   "v1": "norte",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "kind": "稀有韵母:-ajio(全库1次)",
+   "v1": "bajio",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hûy miā",
    "rr": "hūymeā"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "miâ guiô",
    "rr": "onea quî"
   },
   {
    "position": 3,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gíⁿ sī mī miā como te llamas.",
    "rr": "viento norte."
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tōa miā",
    "rr": "gûameā"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiõ hū [疑:hū/lō]",
    "rr": "hiō hú"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiõ huè",
    "rr": "hiō hùi"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chià sī̃",
    "rr": "chiâ sōa"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cue coi chū̃",
    "rr": "cue coîchê"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sáy hóng sáy",
    "rr": "say hông sayt"
   }

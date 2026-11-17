@@ -1,26 +1,131 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 903,
  "items": [
   {
    "position": 3,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "cheg van",
    "rr": ""
   },
   {
    "position": 4,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "ham van",
    "rr": ""
   },
   {
    "position": 7,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "van ty hun.",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "kind": "官话非法声母:v",
+   "v1": "van",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "ham",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "kind": "官话非法声母:v",
+   "v1": "van",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "ham",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "kind": "官话非法声母:v",
+   "v1": "van",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "R",
+   "kind": "稀有韵母:-embidia(全库1次)",
+   "v1": "embidia",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "稀有韵母:-upresado(全库1次)",
+   "v1": "supresado",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "chim",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "kind": "稀有韵母:-issimo(全库1次)",
+   "v1": "dissimo",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "chim",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "kind": "稀有韵母:-iss(全库2次)",
+   "v1": "iss",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "kind": "稀有韵母:-iss(全库2次)",
+   "v1": "iss",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "kind": "稀有韵母:-uftao(全库1次)",
+   "v1": "suftao",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "kind": "稀有韵母:-endirse(全库1次)",
+   "v1": "rendirse",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "R",
+   "kind": "官话存疑韵尾:-t",
+   "v1": "liet",
    "rr": ""
   }
  ]

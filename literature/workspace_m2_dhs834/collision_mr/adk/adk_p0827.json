@@ -1,95 +1,214 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 827,
  "items": [
   {
    "position": 22,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "hiō va lāy.",
    "rr": ""
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "稀有韵母:-ouy(全库1次)",
+   "v1": "jouy",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xien",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "por",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "稀有韵母:-eso(全库1次)",
+   "v1": "eso",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-ayin(全库1次)",
+   "v1": "Lāyin",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-omi(全库1次)",
+   "v1": "chômī",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-iencou(全库2次)",
+   "v1": "iēncōu",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "稀有韵母:-inu(全库1次)",
+   "v1": "inū",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "稀有韵母:-inuy(全库1次)",
+   "v1": "inūy",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-orqou(全库1次)",
+   "v1": "porqou",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-uiera(全库1次)",
+   "v1": "muiera",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xū",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-itay(全库1次)",
+   "v1": "mitây",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-ysu(全库1次)",
+   "v1": "mysû",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-iencou(全库2次)",
+   "v1": "iēncōu",
+   "rr": ""
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
+   "position": 22,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "va",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "y chu: sou: jouy xien por eso.",
    "rr": "chū jou jou xiēn porussū."
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Lāyin chômī: huō hiāng iēncōu uy mī sāy hō.",
    "rr": "lay iū chômî: huō hiang iēncōu uǐmǐ tǎyhō."
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hō. coû. mì inū: in ha. inūy.",
    "rr": "hō. coū miīniū. jīn hua inū."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sī mī. mī tay. mī sū. Lāy lē.",
    "rr": "jīmî. mǐtay: mǐsū. layleg. leg:"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiăm hiam: hiam bō miā porqou muiera",
    "rr": "hiām hiam: hiam bō mia yorgou muriúna"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mitây: mysû.",
    "rr": "mǐtay: mǐsū"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "my in iū.",
    "rr": "mǐ īn iū"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "uǐ my.",
    "rr": "uǐmǐ"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iń soā.",
    "rr": "īn ā."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lāy lē.",
    "rr": "lay leg"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chô mȳ.",
    "rr": "chômǐ"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sȳ mȳ.",
    "rr": "sīmǐ"
   }

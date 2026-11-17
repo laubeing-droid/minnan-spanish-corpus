@@ -1,172 +1,298 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 185,
  "items": [
   {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-ym(全库2次)",
+   "v1": "ym",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "pilos",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-ilos(全库1次)",
+   "v1": "pilos",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-anchay(全库1次)",
+   "v1": "anchay",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-uunasuela(全库1次)",
+   "v1": "buunasuela",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-uero(全库2次)",
+   "v1": "cuero",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "稀有韵母:-anta(全库1次)",
+   "v1": "mantā",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "avobadas",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-avobadas(全库1次)",
+   "v1": "avobadas",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "音系非法声母:w",
+   "v1": "wnacujto",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-acujto(全库1次)",
+   "v1": "wnacujto",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "mētal",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-etal(全库1次)",
+   "v1": "mētal",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-alquera(全库1次)",
+   "v1": "qualquera",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "稀有韵母:-elota(全库1次)",
+   "v1": "Pelota",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法韵尾:-b",
+   "v1": "b",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "kind": "官话存疑韵尾:-p",
+   "v1": "p",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "gēm",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "huá hŷ.",
    "rr": "húa hyⁿ"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "to ōng ym pilos",
    "rr": "tòsoē;imphūos"
   },
   {
    "position": 3,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tōn mâng",
    "rr": "toûmâng"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiā tēy hū' de buunasuela",
    "rr": "hiâ teȳ hǒ"
   },
   {
    "position": 6,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiê ŷ hōn",
    "rr": "kiě ī hǒn"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pōe hiā. de cuero",
    "rr": "poē hiâ"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pōā hiā. de mantā.",
    "rr": "pôⁿ hiâ. demanta"
   },
   {
    "position": 8,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guīn híe",
    "rr": "pōi hiě"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iū hiā. avobadas wnacujto",
    "rr": "iū hiâ; abobadas"
   },
   {
    "position": 9,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gēm híe",
    "rr": "īm hiě"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liù chūi",
    "rr": "liù chî"
   },
   {
    "position": 11,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "niù chūi",
    "rr": "niù chî"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liù. de mētal qualquera",
    "rr": "liè. de metal,qualquiera"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liù hôā",
    "rr": "liù hoāⁿ"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pā liù lâng.",
    "rr": "pah liù lang."
   },
   {
    "position": 14,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pā niù nîn",
    "rr": "fa niù sin"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "uŷ. Lâng sīn.",
    "rr": "nȳ. lang sin."
   },
   {
    "position": 15,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "uŷ.",
    "rr": "nȳ"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guiū. Pelota.",
    "rr": "guiū. bola."
   },
   {
    "position": 16,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guiû",
    "rr": "gûin"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bŏ chūi.",
    "rr": "boⁿ chū."
   },
   {
    "position": 17,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mōn chūi",
    "rr": "mōn chî"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hūn guiū.",
    "rr": "hūn gūn."
   },
   {
    "position": 18,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "în guiū.",
    "rr": "inê gūin"
   }

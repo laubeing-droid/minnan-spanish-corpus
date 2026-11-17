@@ -1,81 +1,130 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 908,
  "items": [
   {
+   "position": 1,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "l",
+   "rr": ""
+  },
+  {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法韵尾:-l",
+   "v1": "l",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "稀有韵母:-iee(全库1次)",
+   "v1": "gieē",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "稀有韵母:-ael(全库1次)",
+   "v1": "tael",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "稀有韵母:-iure(全库1次)",
+   "v1": "liure",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "稀有韵母:-anila(全库1次)",
+   "v1": "Manila",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "kind": "稀有韵母:-ontrax(全库1次)",
+   "v1": "contrax",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "lŷ bou.",
    "rr": "ly boi"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ciong gien gieñ ūy. [疑]",
    "rr": "hiong gieñ giey ngy"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "būn tiâp .",
    "rr": "bīn tiap, lagbao bon cōg, gnu libro allinki"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tut.",
    "rr": "tur."
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cut.",
    "rr": "cur."
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cut tia.",
    "rr": "cur tia."
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sioh. [疑:h/k]",
    "rr": "sioˇ"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chim chue sio.",
    "rr": "chim che ŭe sioˇ"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cam hoñg. [疑]",
    "rr": "cam hoey."
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ngo gieē.",
    "rr": "ngo gieñ: l congu"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "teg teg. : dey tong [疑]",
    "rr": "tey leg, tty tony alcontrario."
   }

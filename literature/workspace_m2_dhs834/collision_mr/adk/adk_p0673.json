@@ -1,46 +1,95 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 673,
  "items": [
   {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xīn",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xīn",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xīn",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-isericordia(全库1次)",
+   "v1": "misericordia",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法韵尾:-d",
+   "v1": "dad",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-ad(全库1次)",
+   "v1": "dad",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "稀有韵母:-arc(全库1次)",
+   "v1": "parc",
+   "rr": ""
+  },
+  {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gūy [疑:g/q]",
    "rr": "guŷ"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bī biāu",
    "rr": "bỳ biaů"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chēng bī",
    "rr": "chéng bỳ"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chīm ě gǐ profundo.",
    "rr": "chîm ô ĝ profundo"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Boẫ [疑:首字母B/P]",
    "rr": "Boâ"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiô sīm [疑:chiô或另带鼻化钩]",
    "rr": "chiô sîm"
   }

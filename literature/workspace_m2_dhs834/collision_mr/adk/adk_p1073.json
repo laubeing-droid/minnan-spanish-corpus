@@ -1,39 +1,53 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1073,
  "items": [
   {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-yao(全库1次)",
+   "v1": "yao",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "稀有韵母:-obrey(全库1次)",
+   "v1": "pobrey",
+   "rr": ""
+  },
+  {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chia lin tui",
    "rr": "chia lîn chûy"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Po yao [残]",
    "rr": "Po"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ca sin hoi.",
    "rr": "ca sin hov"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guie bin pobrey.",
    "rr": "guě bîn pobra"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tho pun.",
    "rr": "hōi pûn"
   }

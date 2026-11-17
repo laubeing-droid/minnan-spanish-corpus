@@ -1,88 +1,116 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 696,
  "items": [
   {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法韵尾:-j",
+   "v1": "j",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xien",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "稀有韵母:-azauna(全库1次)",
+   "v1": "azauna",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "chis",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tey ū̃.",
    "rr": "tey fû"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pūn sī̃.",
    "rr": "gūn teng."
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tey ēng.",
    "rr": "tey tay."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sēng tey pīen.",
    "rr": "leng tey za"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "j̄ xien.",
    "rr": "í xiēn."
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sē̃ tit.",
    "rr": "te tit."
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "say se malo.",
    "rr": "say lo malo"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "m̄ pūn hūn.",
    "rr": "m pūn hūn ì."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "say hiau hēng azauna.",
    "rr": "sàȳ hiaù hēñg zaūà"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ti quian.",
    "rr": "kiā"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ti tau to.",
    "rr": "tȳ taū zō."
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiàu chūn chīn chis.",
    "rr": "chiàù, chūn chiú chít."
   }

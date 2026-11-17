@@ -1,60 +1,81 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1127,
  "items": [
   {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "Bor",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "R",
+   "kind": "稀有韵母:-adon(全库1次)",
+   "v1": "adon",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "R",
+   "kind": "稀有韵母:-ale(全库1次)",
+   "v1": "sale",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "huán nià pō",
    "rr": "huan nià go"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chió::chiàu.",
    "rr": "chiò chú chiàu"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gui:",
    "rr": "quí"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gui bōu:",
    "rr": "quî boû"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sím gui: & traca",
    "rr": "sìm quî, g. traca"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Bō ta chū.",
    "rr": "bô ta chùr"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Giot.",
    "rr": "hòng tōu, g. a donde sale"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hong:",
    "rr": "bōr quec"
   }

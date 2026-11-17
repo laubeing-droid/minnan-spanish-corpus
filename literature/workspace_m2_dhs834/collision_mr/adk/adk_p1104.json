@@ -1,95 +1,123 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1104,
  "items": [
   {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chir",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法韵尾:-x",
+   "v1": "tiox",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-iox(全库2次)",
+   "v1": "tiox",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-inasolo(全库1次)",
+   "v1": "inasolo",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tang gui ÷ tang gui",
    "rr": "tāng guī ; fōng guī."
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cheng ÷ chir ÷ it",
    "rr": "chèg : chir : it."
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tog ÷ tag",
    "rr": "tèg : tàg."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tan ÷ tva",
    "rr": "fan :: ʃa"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tiox inasolo [残]",
    "rr": "tiòg inosolo"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "teng ÷ iog",
    "rr": "tèng : idz"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "leng ÷ iog",
    "rr": "tèng : idz"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiu",
    "rr": "iu."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tiu si",
    "rr": "ʃiu ʃi."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cheng pien ÷ cheng py",
    "rr": "chèg piēn : chèg pȳ."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tan sin ÷ tva sin",
    "rr": "fán sín :: ʃva sín."
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tva lang ÷ tiog ÷ teng leng",
    "rr": "ʃva lang : tiòg : čèy . Lèy."
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "que me que sit",
    "rr": "què mē què ʃit."
   }

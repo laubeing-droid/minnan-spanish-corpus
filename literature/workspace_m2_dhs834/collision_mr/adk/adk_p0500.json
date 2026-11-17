@@ -1,46 +1,53 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 500,
  "items": [
   {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-animoso(全库2次)",
+   "v1": "animoso",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hī chá bon",
    "rr": "kicháboi"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tau hī [残]",
    "rr": "tau ts'i sie"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lat : lec.",
    "rr": "cat leg"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "leg liong. animoso.",
    "rr": "leg liang, animo"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "am sam.",
    "rr": "âm fâm"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cheng cuĩ.",
    "rr": "chêng cung"
   }

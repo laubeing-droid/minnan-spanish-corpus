@@ -1,81 +1,158 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 725,
  "items": [
   {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-ipo(全库1次)",
+   "v1": "tipo",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "kind": "稀有韵母:-onques(全库1次)",
+   "v1": "conques",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "sim",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "kind": "稀有韵母:-ojo(全库1次)",
+   "v1": "ojo",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "kind": "稀有韵母:-anco(全库1次)",
+   "v1": "blanco",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "kind": "稀有韵母:-ita(全库2次)",
+   "v1": "quita",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "kind": "稀有韵母:-aui(全库1次)",
+   "v1": "Laui",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "kind": "稀有韵母:-agte(全库1次)",
+   "v1": "bagte",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "kind": "稀有韵母:-unigi(全库1次)",
+   "v1": "punigi",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "kind": "稀有韵母:-aboridi(全库1次)",
+   "v1": "aboridi",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "kind": "稀有韵母:-omunicador(全库1次)",
+   "v1": "comunicador",
+   "rr": ""
+  },
+  {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiōng chēng tī̃",
    "rr": "chîong chēng sīn"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tipo",
    "rr": "typó"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quiam bâ",
    "rr": "quîam bó"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ien hē: iem gi'im lo [疑]",
    "rr": "iên chē īng īm zó"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tó bâ",
    "rr": "tó bó"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "jóa preo hg [疑]",
    "rr": "jàû prēu ng"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lōu te piã [疑]",
    "rr": "lōu ré piā"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iẽ quy iẽ lō [疑]",
    "rr": "iên qûy iên zó"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuâ qùa [疑]",
    "rr": "cuâ zyâ"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bag chiú bût [疑]",
    "rr": "bag chù"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiu [残]",
    "rr": "bag chù pū"
   }

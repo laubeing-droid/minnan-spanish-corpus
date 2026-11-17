@@ -1,319 +1,375 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 132,
  "items": [
   {
    "position": 1,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "tiū fàng chī.",
    "rr": ""
   },
   {
    "position": 9,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fàng fa.",
    "rr": ""
   },
   {
    "position": 10,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fāng guio chày.",
    "rr": ""
   },
   {
    "position": 11,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fāng guio tiū.",
    "rr": ""
   },
   {
    "position": 12,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fāng guì.",
    "rr": ""
   },
   {
    "position": 26,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "zo fu, poa chuy.",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "稀有韵母:-alagua(全库2次)",
+   "v1": "alagua",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-alpo(全库1次)",
+   "v1": "alpo",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "音系非法韵尾:-j",
+   "v1": "caj",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "稀有韵母:-aniba(全库1次)",
+   "v1": "aniba",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "稀有韵母:-abayo(全库1次)",
+   "v1": "abayo",
+   "rr": ""
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "kind": "音系非法韵尾:-j",
+   "v1": "caj",
+   "rr": ""
+  },
+  {
+   "position": 24,
+   "field": "M",
+   "kind": "音系非法韵尾:-j",
+   "v1": "caj",
+   "rr": ""
+  },
+  {
+   "position": 26,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fu",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tiū pàng ī.",
    "rr": "fiū pang qèⁿ"
   },
   {
    "position": 1,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tiū fàng chī.",
    "rr": "tìn fang chŷ"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiè lo lay",
    "rr": "hier lò loŷ"
   },
   {
    "position": 2,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guie lô lay.",
    "rr": "guie tò loŷ"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Tāū.",
    "rr": "Jau."
   },
   {
    "position": 3,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "teû.",
    "rr": "fèiⁿ"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tāū chūy alagua",
    "rr": "pau chūy agua"
   },
   {
    "position": 4,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "teû sūy",
    "rr": "fêiⁿ śuiⁿ"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tāū chẽ alpoço",
    "rr": "pau cheⁿ alpozo"
   },
   {
    "position": 5,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "teû chīn",
    "rr": "fêiⁿ chîn"
   },
   {
    "position": 6,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "paù.",
    "rr": "pâm"
   },
   {
    "position": 7,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "paun guì.",
    "rr": "pâm guî"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liam guio caj.",
    "rr": "liam guio caŷ."
   },
   {
    "position": 8,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pien guio chày.",
    "rr": "pien guio chuây"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pàng ha.",
    "rr": "pâng haⁿ."
   },
   {
    "position": 9,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fàng fa.",
    "rr": "fāng fûn"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pàng guio cap.",
    "rr": "pâng guio caŷ."
   },
   {
    "position": 10,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fāng guio chày.",
    "rr": "fāng guio chuây."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pàng guio tiū.",
    "rr": "pâng guio fiū."
   },
   {
    "position": 11,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fāng guio tiū.",
    "rr": "fāng guio chiū."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "+ guio tiū.",
    "rr": "guio fiū."
   },
   {
    "position": 13,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guio tiū.",
    "rr": "guio fiū."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "puā guio tiū.",
    "rr": "pâm guio fiū."
   },
   {
    "position": 14,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "poa guio tiū.",
    "rr": "pōa guio fiū."
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chōng cū.",
    "rr": "chōng cuⁿ."
   },
   {
    "position": 16,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "zòng gìi.",
    "rr": "zòng guîⁿ."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chōng chiū̃ cū aniba.",
    "rr": "chōng chio cuⁿ ariba"
   },
   {
    "position": 17,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "zàng siàng gìi.",
    "rr": "zàng siâng giùⁿ"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chōng lo lay abayo.",
    "rr": "chōng lo lāy abaxo"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiè chiām.",
    "rr": "hier chiām"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Io: Poā.",
    "rr": "Jo: Poā"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ia guio caj.",
    "rr": "ia guio caŷ"
   },
   {
    "position": 21,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pō guio chàỳ. (Bong hiin)",
    "rr": "pō guio chuây"
   },
   {
    "position": 24,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "to guio caj.",
    "rr": "tō guio caŷ"
   },
   {
    "position": 24,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tou guio chàỳ.",
    "rr": "tou guio chuây"
   },
   {
    "position": 25,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "to ta.",
    "rr": "tō taⁿ"
   },
   {
    "position": 25,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tou ton.",
    "rr": "tou tān"
   },
   {
    "position": 26,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "zo fu, poa chuy.",
    "rr": "lo fu, poā chuyⁿ"
   },
   {
    "position": 26,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sau chỳ.",
    "rr": "saū chŷⁿ"
   }

@@ -1,123 +1,207 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 818,
  "items": [
   {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "l",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法韵尾:-v",
+   "v1": "liāṽ",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-iav(全库1次)",
+   "v1": "liāṽ",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "音系非法韵尾:-v",
+   "v1": "bāṽ",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法韵尾:-v",
+   "v1": "nīṽ",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "稀有韵母:-iv(全库2次)",
+   "v1": "nīṽ",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "l",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xīt",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "pues",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "官话非法声母:v",
+   "v1": "ṽ",
+   "rr": ""
+  },
+  {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chīt è : chīt hīe ;",
    "rr": "chìṽ è: chìt hìe"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chīt chūn .",
    "rr": "chìṽ chùṽ."
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lȳ buān, hō lȳ : i hŷ [疑]",
    "rr": "tȳ buaṽ, hō tỹ: yṽ hýṽ."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liāṽ lìo lìo [疑]",
    "rr": "liāt liò liò:"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sù quỹ . cierto cierto . [疑]",
    "rr": "sù quyñ. gueso pueblo."
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cua cua",
    "rr": "cha cua [残]"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "līm quīn .",
    "rr": "lìm quiēn."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lim līm nīṽ .",
    "rr": "lìm lìm nȳ."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hō lȳ",
    "rr": "hō tyṽ."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ŷ hŷ",
    "rr": "ì hýṽ."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiong yōng ..",
    "rr": "chiong yoṽg."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bō ūa .",
    "rr": "bō oǎ."
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bag nī cù .",
    "rr": "baṽ ny cù."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bō ūa cù :",
    "rr": "bō oǎ cù:"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quīn xīt :",
    "rr": "quiṽ xìt:"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quī sȳ : g tiempo [疑]",
    "rr": "üy tỹ. g tiempo."
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quīn sȳ pues [疑]",
    "rr": "quiṽ tỹ pzeu."
   }

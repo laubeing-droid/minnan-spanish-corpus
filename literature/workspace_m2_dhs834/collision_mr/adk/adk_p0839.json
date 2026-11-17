@@ -1,74 +1,95 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 839,
  "items": [
   {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "pier",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "chier",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xin",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sang my",
    "rr": "sāng m̄"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sang hung",
    "rr": "sāng hōng"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sang pier",
    "rr": "sāng piēt"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chy sy.",
    "rr": "chĭ̋ sẏ"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chy quien ley.",
    "rr": "chĭ̋ kùi̇ lèẏ"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chier sy.",
    "rr": "chièr gẏ"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tau hang:",
    "rr": "saū hōnġ"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "xin su.",
    "rr": "xīn fū̇"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tuy bin hue",
    "rr": "tāy bīň hūĕ"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chien quin.",
    "rr": "chiēn̆ kūin̆"
   }

@@ -1,102 +1,172 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 658,
  "items": [
   {
    "position": 4,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "cou ḿ sīm thāu [疑:ḿ/fu]",
    "rr": ""
   },
   {
    "position": 6,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "vŏr būn [疑:vŏr/viḉ]",
    "rr": ""
   },
   {
    "position": 7,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "pẽg fūng [疑:fūng/t̂ng]",
    "rr": ""
   },
   {
    "position": 11,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "pau fe say caw [疑:fe/ṱē;say/hay;caw/coo]",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法声母:w",
+   "v1": "wn",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "v",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法韵尾:-v",
+   "v1": "v",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "r",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fūng",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-eychan(全库1次)",
+   "v1": "Lēychān",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fe",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "稀有韵母:-aw(全库1次)",
+   "v1": "caw",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "稀有韵母:-achapo(全库1次)",
+   "v1": "achapo",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "稀有韵母:-alindroso(全库1次)",
+   "v1": "malindroso",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "sio ḿ wn pe [疑:wn为鼻化钩或独立音节;ḿ/ḿ̄]",
    "rr": "sio hy pe"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Būn yiḉ būn",
    "rr": "bun ye bun"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cou ḿ sīm thāu [疑:ḿ/fu]",
    "rr": "cou fu sim tau"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "thau ou bīn chèng",
    "rr": "tau ou bin cheng"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "vŏr būn [疑:vŏr/viḉ]",
    "rr": "or bun"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pẽg fūng [疑:fūng/t̂ng]",
    "rr": "peng fung"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guiḉ [疑:guiḉ/gūy]",
    "rr": "giu"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pau fe say caw [疑:fe/ṱē;say/hay;caw/coo]",
    "rr": "pau se say soa"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ca ŝiāng tay se [疑:ŝiāng/ŝiāy]",
    "rr": "ca siang, say se"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cang ŝi cit loy siau hon [疑:首词kang/tang;末词hon/nacieron]",
    "rr": "yang se xit"
   }

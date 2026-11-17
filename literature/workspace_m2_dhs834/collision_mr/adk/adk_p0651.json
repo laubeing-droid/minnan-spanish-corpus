@@ -1,109 +1,165 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 651,
  "items": [
   {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-ioso(全库2次)",
+   "v1": "gioso",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-adrone(全库1次)",
+   "v1": "ladrone",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "animales",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-animales(全库2次)",
+   "v1": "animales",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "稀有韵母:-iojo(全库1次)",
+   "v1": "piojo",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "稀有韵母:-ichay(全库1次)",
+   "v1": "ichay",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "kind": "官话存疑韵尾:-p",
+   "v1": "capslap",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "kind": "稀有韵母:-apslap(全库1次)",
+   "v1": "capslap",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tiō lōu niō",
    "rr": "tîo tōun nîo"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chù hiog",
    "rr": "tsù hiòg"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tay i",
    "rr": "tāy jì"
   },
   {
    "position": 4,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "capslap",
    "rr": "caplap"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sã tay gioso",
    "rr": "sât tȳ piôjo"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sũ tay jo ladrone.",
    "rr": "tsù tǜ jò ladrones"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tã piojo",
    "rr": "tày piôjo"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hau chāĩ ī chān sī",
    "rr": "chau châin cay chān tû"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sã seng hai beng",
    "rr": "sât sēng hāy bēng"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chay sã; ichay iog",
    "rr": "chày sât; chày toj"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chau sã",
    "rr": "châu sar"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quy sy lãg",
    "rr": "gūy sȳ làng"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "choan cog",
    "rr": "chôan côj"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tog sy [残] tay si iog",
    "rr": "toy sy tat siog"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "[残] pō",
    "rr": "tù pò"
   }

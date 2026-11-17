@@ -1,123 +1,179 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 889,
  "items": [
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法声母:x",
+   "v1": "xũ",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xiā",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-untio(全库1次)",
+   "v1": "hūntiô",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "稀有韵母:-oseng(全库1次)",
+   "v1": "hōsèng",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "recar",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "稀有韵母:-ecar(全库1次)",
+   "v1": "recar",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "kind": "官话存疑韵尾:-t",
+   "v1": "bot",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "kind": "稀有韵母:-ot(全库2次)",
+   "v1": "bot",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "lũˇ : xũˇ.",
    "rr": "lun̆"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "púñ : puàn.",
    "rr": "pin̆"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pūñ ĉ lông. [疑:ĉ 为小连字符样记号]",
    "rr": "p̈ng"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "châp xiā̃g.（整词被圈）[疑:首音节 a 上为帽号+小钩叠写]",
    "rr": "chap̈"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "huān loān. [疑:声调号似平横/鼻化叠写]",
    "rr": "huan̆"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pō̃ tô.",
    "rr": "pò"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hūn tiâng : hūntiô.",
    "rr": "hun̆ tiâng"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sèng..",
    "rr": "ho̕sĕng"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hōsèng. [疑:ho 后似有小撇]",
    "rr": "chuy chiam"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chúi chiam.",
    "rr": "liăm gĕng"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liām gōm.",
    "rr": "gĭm"
   },
   {
    "position": 13,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "[残]ğun gưn bot.[淡墨、似被红线划过，音节难确读]",
    "rr": "gun gunbet"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gīm.",
    "rr": "liăm cuĕng"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liām quen.（整词被圈）[疑:quen 尾上小撇]",
    "rr": "liăm chú cuá"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liam chu cùa[残:其后数字母被墨笔涂抹删除]",
    "rr": "tăg cuĕng"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tag quen. [疑:a 上记号似交叉入声号]",
    "rr": "siŏng cuĕng recar"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siong quen. recar. [注:recar. 为西语词在闽南栏内重复]",
    "rr": "guăn cuĕng"
   }

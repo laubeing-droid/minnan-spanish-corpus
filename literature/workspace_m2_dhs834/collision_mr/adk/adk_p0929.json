@@ -1,88 +1,144 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 929,
  "items": [
   {
    "position": 8,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "Pu.[残:P与u间另有v形小号难辨]",
    "rr": ""
   },
   {
    "position": 12,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "heng figura.",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "figura",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-igura(全库1次)",
+   "v1": "figura",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "稀有韵母:-atigu(全库1次)",
+   "v1": "atigu",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xie",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "R",
+   "kind": "稀有韵母:-ujer(全库1次)",
+   "v1": "mujer",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "R",
+   "kind": "稀有韵母:-ermosa(全库1次)",
+   "v1": "hermosa",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "R",
+   "kind": "稀有韵母:-algu(全库1次)",
+   "v1": "algu",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "R",
+   "kind": "稀有韵母:-endido(全库1次)",
+   "v1": "cendido",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chio chuĩ.",
    "rr": "chîo chûy"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ham lui.[圈选]",
    "rr": "hām ūi."
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hua lui.[圈选]",
    "rr": "húa lūy"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gui chia lui.[疑:gui/9ui]",
    "rr": "ui chiā lûi."
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bou tan.",
    "rr": "còu tán."
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Pu.[残:P与u间另有v形小号难辨]",
    "rr": "pù"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bin. bien.",
    "rr": "bîn biēn muc."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "heng figura.",
    "rr": "hêng"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ion atigu.[整行删除线:作废]",
    "rr": "in [残]"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bin xie.",
    "rr": "bîn xiè bîn xìu."
   }

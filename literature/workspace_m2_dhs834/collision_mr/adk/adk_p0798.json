@@ -1,67 +1,102 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 798,
  "items": [
   {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-anglang(全库2次)",
+   "v1": "chânglâng",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "pês",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "稀有韵母:-uyia(全库1次)",
+   "v1": "chûyiâ",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "稀有韵母:-anglang(全库2次)",
+   "v1": "bânglâng",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "稀有韵母:-yng(全库2次)",
+   "v1": "tyng",
+   "rr": ""
+  },
+  {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cúi hū",
    "rr": "cúy hū"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gó quy hū",
    "rr": "gó guy hū"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tǒ hū lâng",
    "rr": "pò hū lang"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hū óng",
    "rr": "hū ang"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "dî chânglâng",
    "rr": "â changlang"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pês chûyiâ",
    "rr": "peg chuy ia"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tô hū lâng",
    "rr": "pò hū lang"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tô hū",
    "rr": "pò hū"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tyng hū",
    "rr": "tng hū"
   }

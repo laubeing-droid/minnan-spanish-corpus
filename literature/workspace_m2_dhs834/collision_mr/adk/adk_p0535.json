@@ -1,81 +1,179 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 535,
  "items": [
   {
+   "position": 4,
+   "field": "M",
+   "kind": "稀有韵母:-estranga(全库1次)",
+   "v1": "estranga",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "sûar",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-org(全库1次)",
+   "v1": "côrg",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-arg(全库1次)",
+   "v1": "cârg",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-x",
+   "v1": "parlax",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-arlax(全库1次)",
+   "v1": "parlax",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "entender",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-entender(全库1次)",
+   "v1": "entender",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "consultar",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-onsultar(全库1次)",
+   "v1": "consultar",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法韵尾:-x",
+   "v1": "cûx",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "kind": "稀有韵母:-ablar(全库1次)",
+   "v1": "Hablár",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "kind": "稀有韵母:-ante(全库1次)",
+   "v1": "gante",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "kind": "稀有韵母:-idg(全库1次)",
+   "v1": "idg",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quiâ : cú",
    "rr": "guiâ: cû"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gũ cú en tierra estranga.",
    "rr": "gû cû criieruaicxirañ"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chũ cú solo.",
    "rr": "chû cû sò."
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ſoā cuān,",
    "rr": "fōā cuān,"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sa [残]",
    "rr": "fā"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "côrg : cârg;",
    "rr": "càng: càng:"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Tām. parlax. tām siaû entender, tām lūn, consultar;",
    "rr": "tām, parlax. tām siall entenderse; tām lūn, consultar:"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gûy. gŷ giaû.",
    "rr": "gûy: gý gîan"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quîp. chûy gîy / chûy cûx,",
    "rr": "quîp: chūy giû chūy cūx,"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gŷ tâ ôa ûy ly idg.",
    "rr": "gy fā oa ū ĩs lý iog."
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sù",
    "rr": "sì"
   }

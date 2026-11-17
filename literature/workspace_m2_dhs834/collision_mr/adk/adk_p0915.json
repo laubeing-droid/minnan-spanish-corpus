@@ -1,144 +1,200 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 915,
  "items": [
   {
    "position": 3,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "va ſiô [疑:va/vo]",
    "rr": ""
   },
   {
    "position": 11,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "yo ſiô [疑:yo/vo]",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "va",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "al",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "del",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-idolo(全库2次)",
+   "v1": "idolo",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法韵尾:-z",
+   "v1": "choz",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "稀有韵母:-oz(全库2次)",
+   "v1": "choz",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "稀有韵母:-uc(全库2次)",
+   "v1": "uc",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "音系非法韵尾:-z",
+   "v1": "ioz",
    "rr": ""
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hey ſiô [疑:hey/heng]",
    "rr": "heñ siô"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "va ſiô [疑:va/vo]",
    "rr": "oa siô"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bio quy lay",
    "rr": "bîo quey lay"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ſiô",
    "rr": "siô"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hey ſun al cuerpo",
    "rr": "heñ sōu del cuerpo"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ang ſiô del idolo [疑:idolo/lidolo]",
    "rr": "anĝ siô de libolo"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bio ſiô",
    "rr": "Giô siô"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "heng ſiô",
    "rr": "henĝ siô"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "heng ſun",
    "rr": "heng-sōu"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "yo ſiô [疑:yo/vo]",
    "rr": "yô siô"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pey: pey [疑:pey/tey]",
    "rr": "tè : tey"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pe huan [疑:pe/te]",
    "rr": "tè huan"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pey chiũ",
    "rr": "tey chiù"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sun choz",
    "rr": "siū chog"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lim tim ſuc ſioz",
    "rr": "līm tǐn fiue fiog"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "piam che",
    "rr": "fiām che"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pay çim hoy: hoy; pay to çin",
    "rr": "pày gīm hôy : hôg ; pày lò cūi"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ſeng.",
    "rr": "sēng"
   }

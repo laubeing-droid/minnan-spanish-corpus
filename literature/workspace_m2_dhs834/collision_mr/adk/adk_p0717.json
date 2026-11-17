@@ -1,74 +1,123 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 717,
  "items": [
   {
    "position": 5,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "V.",
    "rr": ""
   },
   {
    "position": 15,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "câv; guier [疑:câv;guier/cât;chiet]",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-urioboly(全库1次)",
+   "v1": "urioboly",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法韵尾:-v",
+   "v1": "câv",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "guier",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "R",
+   "kind": "稀有韵母:-asionin(全库1次)",
+   "v1": "nasionin",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "kind": "官话非法声母:v",
+   "v1": "V",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "kind": "稀有韵母:-iuberta(全库1次)",
+   "v1": "Niuberta",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "kind": "稀有韵母:-ublado(全库1次)",
+   "v1": "nublado",
    "rr": ""
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ante.",
    "rr": "Hūn"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Hūn",
    "rr": "hē con nribold"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hē con urioboly [疑:urioboly/urieboly]",
    "rr": "y pē"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gān ī",
    "rr": "ang hē"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "āng hē",
    "rr": "ay tày"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "aÿ",
    "rr": "Moà ty búy"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "aÿ taÿ",
    "rr": "cat guien"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Moà ᵏÿ búy. [疑:ᵏÿ/ᵗhÿ]",
    "rr": "yeg boý"
   }

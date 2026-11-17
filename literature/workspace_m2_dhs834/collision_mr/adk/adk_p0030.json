@@ -1,12 +1,68 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 30,
  "items": [
   {
    "position": 37,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "vān hen",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-uian(全库2次)",
+   "v1": "cùiān",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-ohay(全库2次)",
+   "v1": "cōhay",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "稀有韵母:-utau(全库2次)",
+   "v1": "gūtāu",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "稀有韵母:-upi(全库2次)",
+   "v1": "chūpī",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "稀有韵母:-uyeg(全库2次)",
+   "v1": "quyeg",
+   "rr": ""
+  },
+  {
+   "position": 37,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "vān",
+   "rr": ""
+  },
+  {
+   "position": 40,
+   "field": "M",
+   "kind": "稀有韵母:-uyay(全库2次)",
+   "v1": "quyāy",
+   "rr": ""
+  },
+  {
+   "position": 47,
+   "field": "M",
+   "kind": "稀有韵母:-uyo(全库2次)",
+   "v1": "quyō",
    "rr": ""
   }
  ]

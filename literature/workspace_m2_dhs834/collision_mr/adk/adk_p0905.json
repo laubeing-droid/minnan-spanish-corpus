@@ -1,19 +1,47 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 905,
  "items": [
   {
    "position": 5,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fony me.[疑:fony/tong]",
    "rr": ""
   },
   {
    "position": 6,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fony me.[疑:fony/tong]",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "R",
+   "kind": "稀有韵母:-aor(全库1次)",
+   "v1": "djmdaor",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "kind": "稀有韵母:-arboy(全库1次)",
+   "v1": "garboy",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "kind": "稀有韵母:-ixbar(全库1次)",
+   "v1": "cixbar",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "kind": "稀有韵母:-enge(全库1次)",
+   "v1": "benge",
    "rr": ""
   }
  ]

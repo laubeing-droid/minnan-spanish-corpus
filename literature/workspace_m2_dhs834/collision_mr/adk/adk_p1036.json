@@ -1,123 +1,179 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1036,
  "items": [
   {
    "position": 3,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "l: voa gim; cho gim",
    "rr": ""
   },
   {
    "position": 7,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "tan quim: voa quim",
    "rr": ""
   },
   {
    "position": 12,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "voa chio.",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "voa",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "voa",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "todos",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "稀有韵母:-odos(全库2次)",
+   "v1": "todos",
+   "rr": ""
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "kind": "稀有韵母:-istribuihe(全库1次)",
+   "v1": "distribuihe",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "kind": "官话非法声母:v",
+   "v1": "voa",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "gim",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "R",
+   "kind": "稀有韵母:-advto(全库1次)",
+   "v1": "advto",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quey cou.",
    "rr": "qué cóu"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lui con",
    "rr": "lúi cóu"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "toa: tan gim",
    "rr": "toā; tān gīm꜒; l. pōa gīm; cho gīm"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tan quim: voa quim",
    "rr": "tân quīm; hōa quīm"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cho quim",
    "rr": "chô qūm"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "yo chiong ra rah.",
    "rr": "yō chióng sā ṽah"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pa pan cou.",
    "rr": "pá pang cóù"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pa pou coi.",
    "rr": "pa pio cóù"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "voa chio.",
    "rr": "tōa chiô"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qun lo.",
    "rr": "chūn lō"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tou",
    "rr": "tóŋ; tóu; gē gē"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tau",
    "rr": "thâu"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiong todos",
    "rr": "chióng todo"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chu distribuihe",
    "rr": "chú dístribunibe"
   }

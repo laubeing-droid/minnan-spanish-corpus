@@ -1,46 +1,67 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 481,
  "items": [
   {
    "position": 1,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "vān īn cūi sŷ",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法声母:v",
+   "v1": "vān",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "kind": "稀有韵母:-ioalgo(全库1次)",
+   "v1": "ioalgo",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "vān īn cūi sŷ",
    "rr": "van in coy sy"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iu biën",
    "rr": "iu bien vdgo"
   },
   {
    "position": 6,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cun pòng.",
    "rr": "cun poy"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sou quŷ tung.",
    "rr": "sou quy thong"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guèy : cày",
    "rr": "guey: cay: gey suu"
   }

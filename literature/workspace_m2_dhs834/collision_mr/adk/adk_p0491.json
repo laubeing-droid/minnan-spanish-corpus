@@ -1,151 +1,347 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 491,
  "items": [
   {
    "position": 3,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "qué si fange muento",
    "rr": ""
   },
   {
    "position": 4,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "qué : 髮 gè cù finge ¶ ut antiqui",
    "rr": ""
   },
   {
    "position": 9,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "mōa mōain falso múi m̄ iss",
    "rr": ""
   },
   {
    "position": 15,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "hú chēng hú būn fanfarron pretention gufatar ",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "稀有韵母:-oguito(全库1次)",
+   "v1": "loguito",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "còr",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fange",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-ange(全库1次)",
+   "v1": "fange",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-uento(全库1次)",
+   "v1": "muento",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "finge",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "稀有韵母:-inge(全库1次)",
+   "v1": "finge",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "稀有韵母:-antiqui(全库1次)",
+   "v1": "antiqui",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "el",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "稀有韵母:-abla(全库2次)",
+   "v1": "habla",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-oain(全库1次)",
+   "v1": "mōain",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "falso",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "iss",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "hacer",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "mal",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "稀有韵母:-arba(全库2次)",
+   "v1": "barba",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "稀有韵母:-alioslo(全库1次)",
+   "v1": "alioslo",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fanfarron",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "稀有韵母:-anfarron(全库1次)",
+   "v1": "fanfarron",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "稀有韵母:-etention(全库1次)",
+   "v1": "pretention",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "gufatar",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "稀有韵母:-ufatar(全库1次)",
+   "v1": "gufatar",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "稀有韵母:-iempha(全库1次)",
+   "v1": "briempha",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "稀有韵母:-onplang(全库1次)",
+   "v1": "conplang",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "稀有韵母:-eclamo(全库1次)",
+   "v1": "reclamo",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "los",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "paxaros",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "稀有韵母:-axaros(全库1次)",
+   "v1": "paxaros",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hì têy.",
    "rr": "tè yî."
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "huy chî cùa loguito còr",
    "rr": "huy chî cùa loygua.co."
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qué si fange muento",
    "rr": "kè-sī fuyre muesto."
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qué : 髮 gè cù finge ¶ ut antiqui",
    "rr": "guè: [残] còu fingir f̄ ut antigui"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "toy toy si cùa",
    "rr": "kè kè sú còu"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tê i tuy chuy toy toy toy te i toy i toy",
    "rr": "túi 1. chūy, tchuy, tùy, tuy s̄ lēy."
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gūy",
    "rr": "guî."
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chià chìa chūy el habla",
    "rr": "chîā chîā chiūⁿ el habla:"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mōa mōain falso múi m̄ iss",
    "rr": "mōa mīnsim falso. mùi mīn iz."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chè chì hay ¶ hacer mal",
    "rr": "chè chî tây p hacer mal."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tuy toy",
    "rr": "tuy tȳ"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ang chiù barba alioslo;",
    "rr": "angchiū barba del hoylo;"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hú chēng hú būn fanfarron pretention gufatar briempha",
    "rr": "hú chēng hú bōn fanfarron. patrone guzpañter lianymha"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chè hay",
    "rr": "chè tāy"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chê conplang ony",
    "rr": "chè công kang"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chià chūy",
    "rr": "chiā chiūⁿ"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiàu būe reclamo ¶ los paxaros;",
    "rr": "chiān buē velamos p los paxaros:"
   }

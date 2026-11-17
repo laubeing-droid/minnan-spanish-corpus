@@ -1,81 +1,165 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 711,
  "items": [
   {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xièg",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xīn",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "púr",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法韵尾:-b",
+   "v1": "b",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "quer",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xé",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "稀有韵母:-uri(全库1次)",
+   "v1": "búri",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "kind": "稀有韵母:-iung(全库1次)",
+   "v1": "iung",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "kind": "稀有韵母:-ohbo(全库1次)",
+   "v1": "wohbo",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "kind": "稀有韵母:-ah(全库2次)",
+   "v1": "ah",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "R",
+   "kind": "稀有韵母:-incipio(全库2次)",
+   "v1": "principio",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "R",
+   "kind": "稀有韵母:-infin(全库1次)",
+   "v1": "sinfin",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Heg",
    "rr": "Hes"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Huí",
    "rr": "Huy"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pùn xièg xīn",
    "rr": "pùnxiang xin"
   },
   {
    "position": 5,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iung",
    "rr": "ieng"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sím hūa tiā",
    "rr": "sīn hūa tīa"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sím pé tiā",
    "rr": "sīn pē tīa"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quer. xé",
    "rr": "guier"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bō tàu bô:",
    "rr": "bō tāu lô"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bō lǒ búri",
    "rr": "bō tāu buē"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bō tàu buè",
    "rr": "bō quy tāu"
   },
   {
    "position": 20,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "principio bō joa buē sinfin",
    "rr": "principio bō soa buē sin fin"
   }

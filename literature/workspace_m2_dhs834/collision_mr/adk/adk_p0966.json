@@ -1,102 +1,109 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 966,
  "items": [
   {
    "position": 13,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "[疑:t/f]im hu.",
    "rr": ""
   },
   {
    "position": 17,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "[疑:t/f]ay iau.",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "cur",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Luy tong.",
    "rr": "lûi fōng"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "che lu che- ncui",
    "rr": "chě tǔ chě ncui"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quia ca say.",
    "rr": "guīcā sày"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "che toan chiã.",
    "rr": "chě tván chiàⁿ"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "che tiau.",
    "rr": "chě tiān"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "che toa ui.",
    "rr": "chě tōa ȳi"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiam chu[疑:上标⁼/ⁿ].",
    "rr": "chiam chū"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "[疑:t/f]im hu.",
    "rr": "tiōn chú"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tuĩ lo tey.",
    "rr": "tīⁿ lò tēy"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "[疑:t/f]ay iau.",
    "rr": "sāy iaū"
   },
   {
    "position": 18,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "giong chung.",
    "rr": "guong chuny"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "toan.",
    "rr": "tvān"
   }

@@ -1,32 +1,39 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 852,
  "items": [
   {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-oycheng(全库1次)",
+   "v1": "soycheng",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "non log: in lo",
    "rr": "ño lôy : ìn lō"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tiau tiau",
    "rr": "fiāu fiāu"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "soycheng.",
    "rr": "soã chēng"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guan lay.",
    "rr": "guān loāy"
   }

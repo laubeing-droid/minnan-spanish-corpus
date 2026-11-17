@@ -1,39 +1,60 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 527,
  "items": [
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "稀有韵母:-yuoso(全库1次)",
+   "v1": "yuoso",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-upra(全库2次)",
+   "v1": "supra",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-ixi(全库1次)",
+   "v1": "dixi",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "Tún yuoso",
    "rr": "chūn guāso"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "caù: hou.",
    "rr": "caǔ: hǔǔ"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Tún hou",
    "rr": "chǔn hǒu"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tiòng hōi.",
    "rr": "tiōng hǒu"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Hàu ut supra dixi.",
    "rr": "Hàu"
   }

@@ -1,158 +1,193 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1003,
  "items": [
   {
+   "position": 16,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "cur",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "kind": "稀有韵母:-unas(全库1次)",
+   "v1": "unas",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "kind": "稀有韵母:-oyas(全库1次)",
+   "v1": "oyas",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "R",
+   "kind": "稀有韵母:-ablilla(全库1次)",
+   "v1": "hablilla",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "R",
+   "kind": "稀有韵母:-uesos(全库2次)",
+   "v1": "huesos",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hip peg. toa pe.",
    "rr": "hî pég. toà pṳ. unasngaoos gltoecan unas con"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pe pay. / pe quy (两读并录)",
    "rr": "gṳ pāi."
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "que lui",
    "rr": "gṳ gūi"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gui ua nge",
    "rr": "güe liù"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gue chi gue hu",
    "rr": "gṳ̄ ūa nge"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guy poa",
    "rr": "gùe chṳ gùe hù."
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sam cho",
    "rr": "gṳ̄ pôā."
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "si pe : si pe",
    "rr": "sam chō."
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "seu pan cua cha pang",
    "rr": "sī pōi : sī pāi."
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ta pang",
    "rr": "siū pan cua chà pang."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sing poa",
    "rr": "chà pang"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cha que",
    "rr": "gûn pôā"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiu pun",
    "rr": "chā güe."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiu co",
    "rr": "chiù pūn."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ge hut",
    "rr": "chiú cùi."
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "heng que cur",
    "rr": "ge hûi."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hun pay",
    "rr": "heng que cùi."
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "toa pang",
    "rr": "hūn pāi."
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gue",
    "rr": "toà pég."
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pe",
    "rr": "gùe."
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ta gue",
    "rr": "pṳ̄."
   },
   {
    "position": 22,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hi pe",
    "rr": "chà gùe."
   }

@@ -1,291 +1,326 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 125,
  "items": [
   {
    "position": 9,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "ūt. [疑:ūt./vōi.]",
    "rr": ""
   },
   {
    "position": 10,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "chiū̃: ngī [疑:ngī/vŏy.]",
    "rr": ""
   },
   {
    "position": 10,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "ngī [疑:ngī/vŏy]",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xūn",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法韵尾:-j",
+   "v1": "sūj",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "kind": "官话存疑韵尾:-t",
+   "v1": "it",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "官话存疑韵尾:-t",
+   "v1": "ūt",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "kind": "官话存疑韵尾:-t",
+   "v1": "tit",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Sóm.",
    "rr": "góm"
   },
   {
    "position": 1,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sīn. [疑:sīn/zīñ]",
    "rr": "zìm"
   },
   {
    "position": 2,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siū",
    "rr": "jīn"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siū mōũ,",
    "rr": "siû mû"
   },
   {
    "position": 3,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siū māu [疑:māu/mēu]",
    "rr": "jiū mēu"
   },
   {
    "position": 4,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siū nūn [疑:nūn/mŭn]",
    "rr": "jiū mēu"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuē̃. [疑:cuē̃/cŭr.]",
    "rr": "cūt"
   },
   {
    "position": 5,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cūi. [疑:cūi/cuōt]",
    "rr": "cūt"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chāng: tū",
    "rr": "chāng chū"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cheg chēng húã. [疑:cheg/chey]",
    "rr": "chey chēng hūa"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Tu. (圈注) [疑:Tu/Ju]",
    "rr": "Tū"
   },
   {
    "position": 8,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chý [疑:chý/chṳ]",
    "rr": "chī"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiū̃ ūt. [疑:chiū̃ ūt./chiū x ōi.]",
    "rr": "chiū ô"
   },
   {
    "position": 9,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ūt. [疑:ūt./vōi.]",
    "rr": "vīt"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiū̃: ngī [疑:ngī/vŏy.]",
    "rr": "chiō ōy"
   },
   {
    "position": 10,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ngī [疑:ngī/vŏy]",
    "rr": "ōy"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiū cóu. sūj [疑:sūj/tŭj]",
    "rr": "chū com cū"
   },
   {
    "position": 11,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cū [疑:cū/cīⁿ]",
    "rr": "cīn"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Thun chiū. [疑:Thun/hūn]",
    "rr": "tūn chiū"
   },
   {
    "position": 12,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chūn sȳ [疑:chūn sȳ/chio sy]",
    "rr": "chiū cāy"
   },
   {
    "position": 13,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hū [疑:hū/hŭn.]",
    "rr": "kīn"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cóu cuē̃ tāu",
    "rr": "cō cūt tāu"
   },
   {
    "position": 14,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cūn cūi tēn [疑:tēn/kēñ.]",
    "rr": "cūn cūt kēn"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mōû īm. [疑:īm/īn.]",
    "rr": "mû im"
   },
   {
    "position": 15,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mū īn [疑:mū īn/mīn iōn.]",
    "rr": "mû īm"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiū cuē̃",
    "rr": "chiū cūt"
   },
   {
    "position": 16,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sȳ cūi. [疑:cūi/cuōt]",
    "rr": "cāy cūt"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiū guě. [疑:guě/Qué.]",
    "rr": "chiū ôy siū"
   },
   {
    "position": 17,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sȳ zŭiy [疑:zŭiy/zuìy]",
    "rr": "cāy zuîy"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lāñ pā chiū [疑:lāñ/tān]",
    "rr": "lān pô chiū"
   },
   {
    "position": 18,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bēng pā sy [疑:bēng pā sy/bōng pān sȳ]",
    "rr": "lēng pāu cāy"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tit chiū̃. [疑:tit/ty]",
    "rr": "tȳ chiū"
   },
   {
    "position": 19,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tit sȳ [疑:tit/hit]",
    "rr": "hīt cāy"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuè mè.",
    "rr": "guē mē"
   },
   {
    "position": 22,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siō̃. [圈:hijo.]",
    "rr": "fiō lāng"
   },
   {
    "position": 22,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siâng",
    "rr": "siāng lōng"
   },
   {
    "position": 23,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siō̃ lāng.",
    "rr": "chēng"
   },
   {
    "position": 23,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siâng lōng [疑:lōng/làng]",
    "rr": "chōng"
   }

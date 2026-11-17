@@ -1,116 +1,137 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 768,
  "items": [
   {
    "position": 6,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "poû vy tǒu",
    "rr": ""
   },
   {
    "position": 10,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "cuán vǔ cuê cuán",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "vy",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "vǔ",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xīt",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuê cûi",
    "rr": "cûe cû"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liǎu chān yô",
    "rr": "liàu chān ĭō"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liǎu chūy cuê cûi",
    "rr": "liàu chûì cûe cû"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "po lěy",
    "rr": "pò lūy"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "poû vy tǒu",
    "rr": "pūī ùī tòa"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "poû liēn",
    "rr": "pūn lièn"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuê ōng",
    "rr": "cōe ōng"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "que tīu",
    "rr": "quē tīn"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuán vǔ cuê cuán",
    "rr": "cūan cûe cūan"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siēn quīa : lōey quīa",
    "rr": "siēn guīa : sēng guīa"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tâ chūn cuê cúi",
    "rr": "tā chūn cûe cû"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hbû cuê tǒu",
    "rr": "kōu cûe kōu"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiám pǔy cuê cúi",
    "rr": "chiam pūī cûe cû"
   },
   {
    "position": 22,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tǒu cuê",
    "rr": "tāu cûe"
   }

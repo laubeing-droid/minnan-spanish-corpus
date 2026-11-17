@@ -1,88 +1,116 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 548,
  "items": [
   {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-uspirando(全库1次)",
+   "v1": "suspirando",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-exandoze(全库1次)",
+   "v1": "quexandoze",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "稀有韵母:-echo(全库2次)",
+   "v1": "dpecho",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "kind": "稀有韵母:-aurradunas(全库1次)",
+   "v1": "aurradunas",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chāᶜ pūᵉ châᶜ suī,",
    "rr": "chāⁿ pûe chāⁿ sûi, las cerraduras"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiá.",
    "rr": "chhà."
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ay yā quexandoze",
    "rr": "ayⁿ a quéxánso"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ay ó. iog",
    "rr": "ayⁿ o. i. q."
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ó chiá. con dpecho",
    "rr": "ò chhà. con despecho"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiâᶜ cūi",
    "rr": "chiâⁿ côu"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chāᶜ cūi",
    "rr": "chāⁿ côu"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chāᶜ pè grande",
    "rr": "chāⁿ pè grande"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cūi",
    "rr": "côu"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "buā mi [残]",
    "rr": "bûⁿ mîⁿ [残]"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hôe buā.",
    "rr": "hôē bûx"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hoē tā̃ chȳ̃ gang cià:",
    "rr": "hōe taūⁿ chhīⁿ gang cìà."
   }

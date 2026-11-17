@@ -1,74 +1,95 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 851,
  "items": [
   {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-auiq(全库1次)",
+   "v1": "mauiq",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-uysam(全库1次)",
+   "v1": "uysam",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-abro(全库2次)",
+   "v1": "abro",
+   "rr": ""
+  },
+  {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "[疑:guey/quey]",
    "rr": "guêy"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iang c'mauiq",
    "rr": "iang c nàvis"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "beng leng: un)uysam abro;",
    "rr": "bēng lēng"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ue pang.",
    "rr": "ûiē pāng"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chim huy",
    "rr": "chīm hŭn"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hu",
    "rr": "húi"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "[疑:on/un]: in",
    "rr": "ūn: inⁿ"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "log",
    "rr": "lo̤h"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Log:: hu log: un log: in lo:idg",
    "rr": "hú: hù lo̤: un lo̤: in lo̤ ids"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "e juan",
    "rr": "ē guān"
   }

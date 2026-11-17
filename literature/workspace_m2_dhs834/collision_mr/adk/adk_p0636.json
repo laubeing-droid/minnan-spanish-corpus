@@ -1,116 +1,172 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 636,
  "items": [
   {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "mall",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-all(全库1次)",
+   "v1": "mall",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-intencionado(全库1次)",
+   "v1": "intencionado",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-z",
+   "v1": "ez",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xim",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "cuel",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-uel(全库1次)",
+   "v1": "cuel",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "稀有韵母:-yan(全库2次)",
+   "v1": "hyān",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quien [疑:quien/quiẽ]",
    "rr": "quièn"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tay. pun soa",
    "rr": "tây pun soaⁿ"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "loa[疑:loa/toa] . soa gi",
    "rr": "toa, soa ĝì"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ley . àp ley",
    "rr": "ley ĝú ley"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "óu sīm cūa[疑:cua/coa]",
    "rr": "òu sim cua"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chàu sīm cūa[疑:cua/coa]",
    "rr": "chàu sīm cua"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "toc sīm",
    "rr": "to̍k sīm"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "toc sīm heng",
    "rr": "to̍k sīm hēng"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "im toc . mall intencionado . im hiam ez[疑:ez]",
    "rr": "im to̍k. mal intencionado, im hiam to̍k"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "xim sīm. chàu sīm cuel[疑:cuel/cueh]",
    "rr": "xim sîm. chhâⁿ sim chhek"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pay sīm",
    "rr": "páiⁿ sīm"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pay heng",
    "rr": "páiⁿ hēng"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pay sau",
    "rr": "páiⁿ siau"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sim heng chia ty[疑:ty/toy]",
    "rr": "sīm hēng chiâ ĝì to̍k. con punco mala"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pay guey[疑:guey/quey]",
    "rr": "páiⁿ queh"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "peỹ hyān",
    "rr": "pēⁿ hōaⁿ"
   }

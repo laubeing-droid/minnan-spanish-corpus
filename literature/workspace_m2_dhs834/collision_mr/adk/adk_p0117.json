@@ -1,207 +1,256 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 117,
  "items": [
   {
    "position": 10,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "hiō cōng fū",
    "rr": ""
   },
   {
    "position": 13,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "guio cǎ yǒ. vn.",
    "rr": ""
   },
   {
    "position": 18,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "char [疑:char/cha v]",
    "rr": ""
   },
   {
    "position": 19,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "çē vn [疑:çe/che]",
    "rr": ""
   },
   {
    "position": 20,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "siǒ çē vn [疑:çe/pe]",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "vn",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "char",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "vn",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "vn",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "kind": "官话存疑韵尾:-p",
+   "v1": "emlap",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "kind": "稀有韵母:-emlap(全库1次)",
+   "v1": "emlap",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "kind": "官话存疑韵尾:-p",
+   "v1": "chīp",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hǎg o [疑:小o/墨点]",
    "rr": "hag"
   },
   {
    "position": 1,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "emlap hiō [疑:emlap/iomlap]",
    "rr": "hiō"
   },
   {
    "position": 2,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiō tōn [疑:ton/to]",
    "rr": "hiō tōn"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hǎg lây [疑:lay/le/léy]",
    "rr": "hag lèy"
   },
   {
    "position": 4,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiō ly̌ [疑:ly/lí]",
    "rr": "hiō lý"
   },
   {
    "position": 5,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "; hiâu [疑:hiau/hiām]",
    "rr": "hiān"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hǎu īu",
    "rr": "hau in"
   },
   {
    "position": 6,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiâu yû [疑:yu/yeu/yeñ]",
    "rr": "hiān yeù"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ǒ cuã [疑:ⁿ钩/声调符]",
    "rr": "o cùa."
   },
   {
    "position": 8,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiō cùon [疑:uon/uan]",
    "rr": "hiō cùaon"
   },
   {
    "position": 9,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiō cùay",
    "rr": "hiō cuaùy"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guio cǎ yǒ. vn.",
    "rr": "guio ca yo."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guio cǎ ǒa",
    "rr": "guio ca ùa"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sǐp gě [疑:ge/gay]",
    "rr": "sìp gèy."
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sǒ hǎg [疑:so/soi/sor]",
    "rr": "soi hag"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sáy yǎ [疑:ya带符/无符]",
    "rr": "say ya,"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "char [疑:char/cha v]",
    "rr": "cha."
   },
   {
    "position": 18,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiê [疑:chiê/chiē]",
    "rr": "chiè"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "çē vn [疑:çe/che]",
    "rr": "ze"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siǒ çē vn [疑:çe/pe]",
    "rr": "sio ze."
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gip chioq; giūn [残:gip chioq;为小字斜插,记号难辨]",
    "rr": "gip chiog, guin"
   },
   {
    "position": 21,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guiěn [疑:guien/guieñ]",
    "rr": "guīen"
   },
   {
    "position": 22,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "giūn sèa [疑:sea/sia]",
    "rr": "guin sia"
   },
   {
    "position": 22,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guiěn çiè [疑:guien çie/guieñ siè]",
    "rr": "guīn siè"
   }

@@ -1,39 +1,46 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 797,
  "items": [
   {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xoa",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tang queng m̄ quy lay",
    "rr": "tanggueng M quy lay~"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sím huè n.",
    "rr": "fîm huè ĥ."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "co siang",
    "rr": "cò fiâng."
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chan chin cua xoa chey",
    "rr": "cha chîñ cûa xoà cheŋ"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hun",
    "rr": "tô tîm tô:"
   }

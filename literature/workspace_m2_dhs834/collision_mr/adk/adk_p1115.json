@@ -1,53 +1,88 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1115,
  "items": [
   {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xin",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "Xim",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "kind": "稀有韵母:-adoro(全库1次)",
+   "v1": "adoro",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "kind": "稀有韵母:-an?(全库1次)",
+   "v1": "an?",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "kind": "稀有韵母:-oxa(全库1次)",
+   "v1": "poxa",
+   "rr": ""
+  },
+  {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "im cong.",
    "rr": "îm cang."
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sng.",
    "rr": "t̂ung"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tang.",
    "rr": "fâng"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "peng sng.",
    "rr": "péng t̂ung."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tang lOU.",
    "rr": "fâng lû̂"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sng se.",
    "rr": "t̂ung sê"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "jun Xim.",
    "rr": "rûŷ xîn."
   }

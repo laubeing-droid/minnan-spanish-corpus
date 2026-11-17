@@ -1,11 +1,32 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 758,
  "items": [
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "稀有韵母:-enchagon(全库1次)",
+   "v1": "enchagon",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-oii(全库1次)",
+   "v1": "ngōii",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "稀有韵母:-aychia(全库1次)",
+   "v1": "caychia",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "nuy lâa ĝ enchagon",
    "rr": "diuco"
   }

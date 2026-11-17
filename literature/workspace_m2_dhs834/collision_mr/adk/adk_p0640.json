@@ -1,88 +1,130 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 640,
  "items": [
   {
+   "position": 2,
+   "field": "M",
+   "kind": "稀有韵母:-uni(全库2次)",
+   "v1": "unì",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-iuu(全库1次)",
+   "v1": "siuũ",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "quotber",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-otber(全库1次)",
+   "v1": "quotber",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "cantar",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-antar(全库2次)",
+   "v1": "cantar",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "luỹ,",
    "rr": "lui"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "unì jin,",
    "rr": "un'i gin"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "giõ chuỹ siuũ; quotber. pay giã.",
    "rr": "pro hung jiu & pender pay gio"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "huân toũ-luy. luâ-huân luy",
    "rr": "huán tò leng. luán huân lui"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "co..iey cantar.",
    "rr": "co·rey cantar"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chỹ. leñg chỹ sâng chiẫ caù. chiẫ leñgì ghe",
    "rr": "chy' leng chy' lang chiân caiù chiàn leng"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lut huân",
    "rr": "lù huân"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quin chỹ",
    "rr": "gin chy'"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "uy chiog",
    "rr": "y chiog"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sit chỹ.",
    "rr": "fit chy'"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cai bien.",
    "rr": "cay biên"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pay giã.",
    "rr": "pay gio"
   }

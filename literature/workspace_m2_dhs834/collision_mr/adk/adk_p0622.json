@@ -1,116 +1,137 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 622,
  "items": [
   {
    "position": 5,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "siāu [疑:siāu/fiāù]",
    "rr": ""
   },
   {
    "position": 6,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "hiō̃ fiāù [疑:hiō̃/hiõ]",
    "rr": ""
   },
   {
    "position": 7,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "hiāu fiāù",
    "rr": ""
   },
   {
    "position": 8,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "hiō̃ [残] fiāù [疑:hiō̃/hiõ]",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fiāù",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fiāù",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fiāù",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "jōng hū̃ [疑:jong/gong/song]",
    "rr": "zoy hû"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chū ȳ [疑:chū/chú]",
    "rr": "chiú y"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hâ hog [疑:hâ/hà]",
    "rr": "hà hoj"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "im īm cog",
    "rr": "îm îⁿ coz."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siāu [疑:siāu/fiāù]",
    "rr": "siàù"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiō̃ fiāù [疑:hiō̃/hiõ]",
    "rr": "hiò siaù"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiāu fiāù",
    "rr": "hiaū siaù"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiō̃ [残] fiāù [疑:hiō̃/hiõ]",
    "rr": "hiò [残] hiaù;"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuŋ. cūy [疑:cuŋ cūy/cũy]",
    "rr": "cūy"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "húi cūy [疑:cūy/coŋ]",
    "rr": "hūy cūy"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ēng. cū̃ hō̃ [疑:ēng/cōg]",
    "rr": "êng têng."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ōng. iēng. cog [残] [疑:iēng/céng]",
    "rr": "hùe quiûm ché."
   }

@@ -1,137 +1,312 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 586,
  "items": [
   {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-azenordinaria(全库1次)",
+   "v1": "bazenordinaria",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法韵尾:-b",
+   "v1": "cab",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "Juntar",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "稀有韵母:-untar(全库2次)",
+   "v1": "Juntar",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "稀有韵母:-asura(全库2次)",
+   "v1": "basura",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "音系非法韵尾:-b",
+   "v1": "háb",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "稀有韵母:-iohap(全库1次)",
+   "v1": "tióhap",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法韵尾:-b",
+   "v1": "háb",
+   "rr": ""
+  },
+  {
+   "position": 24,
+   "field": "M",
+   "kind": "音系非法韵尾:-b",
+   "v1": "háb",
+   "rr": ""
+  },
+  {
+   "position": 26,
+   "field": "M",
+   "kind": "音系非法韵尾:-b",
+   "v1": "cáb",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "kind": "稀有韵母:-untar(全库2次)",
+   "v1": "Juntar",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "kind": "稀有韵母:-exercito(全库1次)",
+   "v1": "exercito",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "kind": "稀有韵母:-untause(全库1次)",
+   "v1": "Juntause",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "kind": "稀有韵母:-onserbarre(全库1次)",
+   "v1": "conserbarre",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "R",
+   "kind": "稀有韵母:-untar(全库2次)",
+   "v1": "juntar",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "R",
+   "kind": "稀有韵母:-ontrato(全库1次)",
+   "v1": "contrato",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "R",
+   "kind": "稀有韵母:-atrimonio(全库1次)",
+   "v1": "matrimonio",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "R",
+   "kind": "稀有韵母:-ajustarse(全库1次)",
+   "v1": "ajustarse",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "kind": "稀有韵母:-inero(全库1次)",
+   "v1": "dinero",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "kind": "稀有韵母:-orrog(全库1次)",
+   "v1": "sorrog",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "kind": "稀有韵母:-oldados(全库1次)",
+   "v1": "soldados",
+   "rr": ""
+  },
+  {
+   "position": 21,
+   "field": "R",
+   "kind": "官话存疑韵尾:-p",
+   "v1": "iguecap",
+   "rr": ""
+  },
+  {
+   "position": 21,
+   "field": "R",
+   "kind": "稀有韵母:-iguecap(全库1次)",
+   "v1": "iguecap",
+   "rr": ""
+  },
+  {
+   "position": 25,
+   "field": "R",
+   "kind": "稀有韵母:-onformarse(全库1次)",
+   "v1": "conformarse",
+   "rr": ""
+  },
+  {
+   "position": 25,
+   "field": "R",
+   "kind": "稀有韵母:-inconuemiencia(全库1次)",
+   "v1": "inconuemiencia",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chô Bî.",
    "rr": "chō cō"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "(hē quī).",
    "rr": "chē gìi"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuē he.",
    "rr": "cūy hē"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quīam chiàu.",
    "rr": "guān chàu"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "riong he.",
    "rr": "tiōng hē"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tāng cóy. chú cún bè.",
    "rr": "sang gong chū cun bē"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cab: cā.",
    "rr": "cab ca, gi hoē"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Juntar basura sai puâ sō.",
    "rr": "saū pun sō"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "háp hūe háb quē háb.",
    "rr": "hap hūe hap gūe hap"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tióhap.",
    "rr": "siohap ajuntarse"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chāu óng háb cūi.",
    "rr": "chaū hap ut dinero"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ché, chég chióg ché nó.",
    "rr": "cheg, cheg chiog cheg nō, chaū torroga soldados"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chū chū chíṕ.",
    "rr": "chūi chū chip, giguey chū chày"
   },
   {
    "position": 22,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quē [残] no.",
    "rr": "guē"
   },
   {
    "position": 23,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "húe húe chēy chú húi.",
    "rr": "hūe hūe chēg chū hūi"
   },
   {
    "position": 24,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chá, chá chīú háb chio.",
    "rr": "cha, cha chūi hap cho"
   },
   {
    "position": 25,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cāy ió cām.",
    "rr": "cay, iō cay conformarse, siōng kap inconueniencia"
   },
   {
    "position": 26,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tān cáb būi.",
    "rr": "taū câb bū"
   },
   {
    "position": 27,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pē cho hoe.",
    "rr": "pē chiô hoē"
   }

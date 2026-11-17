@@ -1,109 +1,144 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 805,
  "items": [
   {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-enghuan(全库1次)",
+   "v1": "bēnghūan",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-ioog(全库1次)",
+   "v1": "gioog",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-uigioog(全库1次)",
+   "v1": "chúigioog",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "pus",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "稀有韵母:-iuhong(全库1次)",
+   "v1": "līūhōng",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chioô",
    "rr": "chiǒ"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hùn chioô",
    "rr": "hùn chiǒ"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "poo",
    "rr": "poᵏ"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gioog: chúigioog:: pò chioô: gio huān",
    "rr": "dygioˇ: chùgioˇ: pò chiǒ: gìochuān"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pec",
    "rr": "pěᵏ"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiáng",
    "rr": "chiāᵏ"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hou pus",
    "rr": "hóu poᵏ"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiap chìo",
    "rr": "hiàᵏ chiò"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pau",
    "rr": "paᵏ"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lo pau",
    "rr": "loᵏ paᵏ"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "līū hūỹ: līūhōng",
    "rr": "lîu hūy: lîuhōᵏ"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lô chioô",
    "rr": "lôᵏ chiǒ"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pò chioô",
    "rr": "pò chiǒ"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chú gioô",
    "rr": "chú gìoˇ"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gioô huān",
    "rr": "gìoˇ huān"
   }

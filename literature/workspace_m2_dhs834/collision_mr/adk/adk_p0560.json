@@ -1,137 +1,235 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 560,
  "items": [
   {
    "position": 1,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fiān lâng,",
    "rr": ""
   },
   {
    "position": 3,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "fûn",
    "rr": ""
   },
   {
    "position": 5,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "dar cauteʒioz de fuyo.",
    "rr": ""
   },
   {
    "position": 6,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "oa fîo",
    "rr": ""
   },
   {
    "position": 13,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "chē chǐ caẏ arīē̃ v aluino",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法声母:f",
+   "v1": "fiān",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fûn",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fîo",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-eva(全库1次)",
+   "v1": "beva",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "稀有韵母:-arie(全库1次)",
+   "v1": "arīē",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "v",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法韵尾:-v",
+   "v1": "v",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "稀有韵母:-aluino(全库1次)",
+   "v1": "aluino",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "kind": "稀有韵母:-aute(全库2次)",
+   "v1": "caute",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "kind": "稀有韵母:-ioz(全库1次)",
+   "v1": "ioz",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "kind": "稀有韵母:-uyo(全库1次)",
+   "v1": "fuyo",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "kind": "稀有韵母:-ueplieay(全库1次)",
+   "v1": "hueplieay",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "kind": "稀有韵母:-uinos(全库1次)",
+   "v1": "duinos",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "kind": "稀有韵母:-ouyo(全库1次)",
+   "v1": "houyo",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "fiān lâng,",
    "rr": "tiāu làng"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quỹ",
    "rr": "gûi"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "fûn",
    "rr": "sùn"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ȶ quỹ",
    "rr": "tĩ gûi"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "oa",
    "rr": "û dar cauteiós o suyo"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "oa fîo",
    "rr": "û sió"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ȶ chîo",
    "rr": "tý chiŏ"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pâȶ jē lâng",
    "rr": "pa pý je lāng"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tēy. tāy",
    "rr": "reỳ rāy"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pǒ.",
    "rr": "pō kues liças duino houfo:"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chaū suẏ chau dāna daẏ. iām chau beva",
    "rr": "cháu suy cháu daña das. iām cháu boca."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chē chǐ caẏ arīē̃ v aluino",
    "rr": "chè chi căy añi vn gbuino"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ſay",
    "rr": "sāy"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "zuẏ chau.",
    "rr": "suy cháu"
   }

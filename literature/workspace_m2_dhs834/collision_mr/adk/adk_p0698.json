@@ -1,74 +1,95 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 698,
  "items": [
   {
+   "position": 4,
+   "field": "M",
+   "kind": "稀有韵母:-ayga(全库1次)",
+   "v1": "pāygâ",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "schjūras",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-uras(全库1次)",
+   "v1": "schjūras",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "piēg chûy chūn",
    "rr": "jieg chuj chūn"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sūn chûy hēng chūn",
    "rr": "jūn chuj hēngchiū"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "oû bīn pāy · pāy gâ",
    "rr": "úi bîn pāy · pāy gùa"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pāygâ.",
    "rr": "pāyjià"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ûa pāy schjūras",
    "rr": "úa pāy gchjura"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chòa pāy ió",
    "rr": "choà pāy iż"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiō",
    "rr": "iōng"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tūng",
    "rr": "pit tiò"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iaû",
    "rr": "háp chiū"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iōng",
    "rr": "hap iōng"
   }

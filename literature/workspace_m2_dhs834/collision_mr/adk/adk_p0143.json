@@ -1,186 +1,221 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 143,
  "items": [
   {
+   "position": 14,
+   "field": "M",
+   "kind": "稀有韵母:-ueypinche(全库1次)",
+   "v1": "bueypinche",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "R",
-   "kind": "字母差",
+   "kind": "稀有韵母:-orj(全库2次)",
+   "v1": "horj",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "R",
+   "kind": "稀有韵母:-orj(全库2次)",
+   "v1": "horj",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "kind": "稀有韵母:-uj(全库2次)",
+   "v1": "uj",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "kind": "两读字母差",
    "v1": "horj",
    "rr": "hang"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hã pién lā̃g",
    "rr": "ha pien lang"
   },
   {
    "position": 2,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "horj gien xin",
    "rr": "hang pien jin"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "uy Bēng.",
    "rr": "vi beng."
   },
   {
    "position": 4,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "uj meng.",
    "rr": "vi meng"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Tȳ.",
    "rr": "chi."
   },
   {
    "position": 5,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chy.",
    "rr": "chi"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lēng tȳ.",
    "rr": "leng chi."
   },
   {
    "position": 6,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "leng chy.",
    "rr": "keng chi"
   },
   {
    "position": 7,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guio guiao.",
    "rr": "gnio gniao"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiū sēy chō.",
    "rr": "chu sey chu."
   },
   {
    "position": 8,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiun sy cho.",
    "rr": "chu sy cho"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iū ū.",
    "rr": "iu o."
   },
   {
    "position": 9,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iu xy.",
    "rr": "in sy"
   },
   {
    "position": 10,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quin xien.",
    "rr": "quin rien"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quīn sēy chō.",
    "rr": "quin sey chu."
   },
   {
    "position": 11,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quing sy cho.",
    "rr": "quin sy cho"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chēng sīn. bueypinche.",
    "rr": "cheng sin."
   },
   {
    "position": 14,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ching xien.",
    "rr": "ching rien"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiū sēy.",
    "rr": "chu sey."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siā̃g sēy.",
    "rr": "siang sey."
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Sū: sy.",
    "rr": "çu sy."
   },
   {
    "position": 18,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sun.",
    "rr": "çu"
   },
   {
    "position": 19,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hun.",
    "rr": "ku"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hù sȳ lā̃g.",
    "rr": "hu sy lay bin soa tiengvo"
   },
   {
    "position": 20,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hun zin.",
    "rr": "hu jin"
   }

@@ -1,67 +1,116 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 838,
  "items": [
   {
    "position": 19,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "he fia .",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法韵尾:-x",
+   "v1": "picx",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "稀有韵母:-icx(全库1次)",
+   "v1": "picx",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xit",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fia",
+   "rr": ""
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "kind": "音系非法韵尾:-x",
+   "v1": "chox",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "kind": "稀有韵母:-alir(全库1次)",
+   "v1": "salir",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "kind": "稀有韵母:-ecebir(全库1次)",
+   "v1": "recebir",
    "rr": ""
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chiê : tiâ : chŷ",
    "rr": "chier : fia : chy"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cham hoy . sâng hong sâng picx",
    "rr": "cham̄ hey sang hoy sang pix"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sū quy .",
    "rr": "siu cuy"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "queng ho [残] ho gi . hũ ley~",
    "rr": "queng ho chien ho gi hi ley"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "se xit . .",
    "rr": "se sit"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tep sang",
    "rr": "ge sang"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sang piau ly",
    "rr": "sang piau li"
   },
   {
    "position": 21,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sang chox a[残]",
    "rr": "sang choi a"
   }

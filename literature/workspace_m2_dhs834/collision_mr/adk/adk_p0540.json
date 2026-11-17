@@ -1,102 +1,158 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 540,
  "items": [
   {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-ory(全库1次)",
+   "v1": "chory",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "x",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法韵尾:-x",
+   "v1": "x",
+   "rr": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "xiang",
+   "rr": ""
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "稀有韵母:-uger(全库1次)",
+   "v1": "muger",
+   "rr": ""
+  },
+  {
+   "position": 22,
+   "field": "R",
+   "kind": "稀有韵母:-error(全库1次)",
+   "v1": "error",
+   "rr": ""
+  },
+  {
+   "position": 22,
+   "field": "R",
+   "kind": "稀有韵母:-amor(全库1次)",
+   "v1": "amor",
+   "rr": ""
+  },
+  {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quêng gông chǔ. tông.",
    "rr": "quèng gan chiu. tǒy."
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cho chǒ chôg.",
    "rr": "chǒu chō chǒy:"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chây [残]",
    "rr": "chay è"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "can chô lūn bô. cân chôa lūn chiá.",
    "rr": "càn chǒ lûn bó. càn chǒ lûn chià atru mayor.."
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chòng. chory ĝ. iog.",
    "rr": "chong chōy ě iay."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chog.",
    "rr": "thǒ."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ta.",
    "rr": "sā."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Tēng chô.",
    "rr": "Fēy chǒ."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tǒ.",
    "rr": "sǒ."
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guien.",
    "rr": "quièn."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "xiang gēg chiu.",
    "rr": "xiang gěy chiu."
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "gō̃.",
    "rr": "gū."
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "huâ. gīn huâ.",
    "rr": "hûa. pûn hûa."
   },
   {
    "position": 22,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ion geg.",
    "rr": "ion tèg ey con ay elomo/o"
   }

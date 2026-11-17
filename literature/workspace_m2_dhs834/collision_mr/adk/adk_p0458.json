@@ -1,18 +1,88 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 458,
  "items": [
   {
    "position": 10,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "que gau [疑:gau/gan]. sabio fingido",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "Tēs",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-echuy(全库1次)",
+   "v1": "echuy",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-omdidim(全库1次)",
+   "v1": "comdidim",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fingido",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-ingido(全库1次)",
+   "v1": "fingido",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-eyson(全库1次)",
+   "v1": "pleyson",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "ruisos",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-uisos(全库1次)",
+   "v1": "ruisos",
+   "rr": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "sier",
    "rr": ""
   },
   {
    "position": 5,
    "field": "R",
-   "kind": "字母差",
+   "kind": "稀有韵母:-escusarle(全库1次)",
+   "v1": "escusarle",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "kind": "两读字母差",
    "v1": "escusarle",
    "rr": "Tog dog jū cōu escusar"
   }

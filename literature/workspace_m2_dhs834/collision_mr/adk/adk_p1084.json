@@ -1,88 +1,116 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 1084,
  "items": [
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "音系非法韵尾:-j",
+   "v1": "conj",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "稀有韵母:-onj(全库1次)",
+   "v1": "conj",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-utuyna(全库1次)",
+   "v1": "utuyna",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-yeu(全库2次)",
+   "v1": "yeũ",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "[疑:eñg/chñg] chãyᶜ : camg conj.",
    "rr": "em̂g châyc . cam coý."
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuã chẽ",
    "rr": "quà chêⁿ."
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cuay ſiu utuyna [疑:utuyna/utayra]",
    "rr": "cuay súu unuyna."
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cũi chũi ſin . pāỹ ſỹ lang.",
    "rr": "cúi chù súu . sayⁿ ī láng."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chõ yeũ :",
    "rr": "chô leyⁿ."
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chāyᶜ :",
    "rr": "châyⁿc."
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chẽ chûyᶜ :",
    "rr": "che³ chûyⁿc."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pāᶜṅ guia co",
    "rr": "pâng guîa cô."
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ſiú :",
    "rr": "fiúⁿ."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liām :",
    "rr": "viâm."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ſiú ſím",
    "rr": "fiú fîmⁿ."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cũi ſím",
    "rr": "àu fîmⁿ."
   }

@@ -1,137 +1,242 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 603,
  "items": [
   {
    "position": 3,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "bū tô falso plito; [疑:plito/phup]",
    "rr": ""
   },
   {
    "position": 14,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "quîo fit [疑:fit/tit]",
    "rr": ""
   },
   {
    "position": 22,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "cō fiõ [疑:fiõ/chio]",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "音系非法韵尾:-j",
+   "v1": "j",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "falso",
+   "rr": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "稀有韵母:-ito(全库1次)",
+   "v1": "plito",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "稀有韵母:-ugiang(全库1次)",
+   "v1": "hūgiâng",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fit",
+   "rr": ""
+  },
+  {
+   "position": 22,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fiõ",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "kind": "稀有韵母:-esto(全库1次)",
+   "v1": "esto",
+   "rr": ""
+  },
+  {
+   "position": 8,
+   "field": "R",
+   "kind": "稀有韵母:-evantarsea?(全库1次)",
+   "v1": "levantarsea?",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "kind": "稀有韵母:-ajar(全库1次)",
+   "v1": "bajar",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "kind": "稀有韵母:-euantarla(全库1次)",
+   "v1": "leuantarla",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "kind": "官话存疑韵尾:-p",
+   "v1": "p",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "kind": "稀有韵母:-irar(全库1次)",
+   "v1": "mirar",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "kind": "稀有韵母:-ezir(全库1次)",
+   "v1": "dezir",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "kind": "稀有韵母:-uena(全库2次)",
+   "v1": "buena",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "kind": "稀有韵母:-abentura(全库1次)",
+   "v1": "abentura",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quién gîen lip, hin gi",
    "rr": "quiên giêⁿlip,"
   },
   {
    "position": 1,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "[疑:axxentarios/aucuentarios]",
    "rr": "hín gi, aumentarios."
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pō̃ng hùy jỗg",
    "rr": "pong hāy jōng"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bū tô falso plito; [疑:plito/phup]",
    "rr": "ṳ cô falso phihô;"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chāy qúy lāy",
    "rr": "chây quy lay caṳ lo, li bay bo lo."
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chān chāng qúy cū'",
    "rr": "chān chāng quy cū, leuantarsua?"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qúy tín [疑:tín/tā̃]",
    "rr": "quy tā"
   },
   {
    "position": 11,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bajar ¿leuantarla, hū giâng [疑:bajar/basar]",
    "rr": "baṣar leuantarla, hù giàng"
   },
   {
    "position": 12,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "p mirar)",
    "rr": "hù giang y mirar"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quîo fit [疑:fit/tit]",
    "rr": "quiō sit"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sìang sū liō iū",
    "rr": "siang sū, tiō niū"
   },
   {
    "position": 15,
    "field": "R",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "dezir la buena abentura.",
    "rr": "dizir la buena abutura."
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "(sa quio tiū) [疑:sa/tha]",
    "rr": "ta quiō tiu"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "tēng tēng qúy",
    "rr": "feṅ feṅ quy"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sēng lâng",
    "rr": "seṅ lāng"
   },
   {
    "position": 22,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cō fiõ [疑:fiõ/chio]",
    "rr": "có fiog"
   }

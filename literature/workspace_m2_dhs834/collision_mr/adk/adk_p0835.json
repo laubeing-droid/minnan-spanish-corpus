@@ -1,53 +1,67 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 835,
  "items": [
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "稀有韵母:-inguiindo(全库1次)",
+   "v1": "inguiindo",
+   "rr": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "稀有韵母:-ingiriendo(全库1次)",
+   "v1": "ingiriendo",
+   "rr": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "kind": "两读字母差",
    "v1": "hong inguiindo",
    "rr": "hong iñquiindo"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "pay bun.",
    "rr": "pay bum"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "soa bun.",
    "rr": "som bũm"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "zun bun.",
    "rr": "zun bũm"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hong muy ingiriendo",
    "rr": "hong mũy irtiendo"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "sio^n lo: tiang lo.",
    "rr": "tiō lò: tiang lô"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "siang: sio. siang su co siang.",
    "rr": "siang: sio jiang ju co siang"
   }

@@ -1,123 +1,368 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 607,
  "items": [
   {
    "position": 4,
    "field": "source_R",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "son 6 Hay tay y babu / feros.",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "稀有韵母:-inale(全库1次)",
+   "v1": "pinale",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-omina(全库1次)",
+   "v1": "domina",
+   "rr": ""
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "稀有韵母:-oracion(全库1次)",
+   "v1": "Horacion",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "稀有韵母:-ominacnun(全库1次)",
+   "v1": "dominacnun",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "uniuersal",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-uniuersal(全库1次)",
+   "v1": "uniuersal",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "los",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "ores",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-ores(全库1次)",
+   "v1": "ores",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "superiores",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-uperiores(全库1次)",
+   "v1": "superiores",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-audiencia(全库1次)",
+   "v1": "audiencia",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-algu(全库1次)",
+   "v1": "algu",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "os",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "mandarinos",
+   "rr": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "稀有韵母:-andarinos(全库2次)",
+   "v1": "mandarinos",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "leis",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-eis(全库2次)",
+   "v1": "leis",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "necessarias",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-ecessarias(全库1次)",
+   "v1": "necessarias",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-aong(全库2次)",
+   "v1": "raong",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "ciertas",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "稀有韵母:-iertas(全库1次)",
+   "v1": "ciertas",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "larzel",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-arzel(全库1次)",
+   "v1": "larzel",
+   "rr": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "稀有韵母:-ohueno(全库1次)",
+   "v1": "cohueno",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "leis",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "稀有韵母:-eis(全库2次)",
+   "v1": "leis",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "mandatos",
+   "rr": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "稀有韵母:-andatos(全库1次)",
+   "v1": "mandatos",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "音系非法韵尾:-b",
+   "v1": "B",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "音系非法韵尾:-b",
+   "v1": "nomb",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "稀有韵母:-escondido(全库1次)",
+   "v1": "escondido",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "kind": "稀有韵母:-abu(全库1次)",
+   "v1": "babu",
+   "rr": ""
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "kind": "稀有韵母:-eros(全库2次)",
+   "v1": "feros",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "quĩ chuĩ",
    "rr": "gūǐ chûy"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "luỳ huāt, k",
    "rr": "luì hûàr,"
   },
   {
    "position": 4,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liōg. liōg luẏ pinale luỹ",
    "rr": "liōr. liōl huär pûna ley, luis son 6 flagtay y babu ferros."
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "guēng domina; Horacion",
    "rr": "guēng dominatioration"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "uỹ cāy. luy cu dominacnunñan ca.",
    "rr": "uy cài. luy cu dominacnuntan ca."
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hiẽ̃, hiẽ̃ coñ̃ mgzo uniuersal: los señores superiores. hiẽ̃ y audiencia de alguños mandarinos.",
    "rr": "hièn. hièn coy magdao uniuersalador superiores."
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "huat",
    "rr": "hièn y audiencia de allgunos mandarinos."
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "iañ tōū leis necessarias. raong ciertas:",
    "rr": "huat"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "huat zũ. huāt chỹ: huāt suí larzel cohueno",
    "rr": "iàn fôu leis necessarias racong ciertas."
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cũ zũ to dou leis y mandatos:",
    "rr": "huat zù huàr chyì; huat zù chivino"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "uỹ cay",
    "rr": "cù zù to dou luis y mandator."
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liōg luẏ.",
    "rr": "uy cay"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "huāt chỹ",
    "rr": "liōr luì."
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Bō tāū tiap.",
    "rr": "huàr chyì"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Iẽ Bẽ nomb̄e escondido.",
    "rr": "bō tāu tiap."
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "lī chū",
    "rr": "leě bēng nombe esccondido."
   }

@@ -1,109 +1,172 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 573,
  "items": [
   {
+   "position": 1,
+   "field": "R",
+   "kind": "稀有韵母:-ecal(全库1次)",
+   "v1": "ecal",
+   "rr": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "稀有韵母:-ulantro(全库1次)",
+   "v1": "culantro",
+   "rr": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "稀有韵母:-estimada(全库1次)",
+   "v1": "estimada",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "kind": "官话存疑韵尾:-t",
+   "v1": "ut",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "kind": "稀有韵母:-ul(全库2次)",
+   "v1": "nul",
+   "rr": ""
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "kind": "稀有韵母:-eson(全库1次)",
+   "v1": "meson",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "kind": "稀有韵母:-arecebu(全库1次)",
+   "v1": "arecebu",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "kind": "稀有韵母:-ospedar(全库1次)",
+   "v1": "ospedar",
+   "rr": ""
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "kind": "稀有韵母:-uesped(全库1次)",
+   "v1": "huesped",
+   "rr": ""
+  },
+  {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hvā lou pià̃",
    "rr": "hóalōu piàⁿ"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chāỹ",
    "rr": "châyⁿ"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "oān oān suy",
    "rr": "ôan ân suy"
   },
   {
    "position": 8,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chǎü chāỹ",
    "rr": "chûi châyⁿ"
   },
   {
    "position": 9,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Bēng chāỹ",
    "rr": "bēng châyⁿ"
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "chō hūỹ lang.",
    "rr": "chó hóy lang"
   },
   {
    "position": 11,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "liū: laū.",
    "rr": "lîn lâu"
   },
   {
    "position": 12,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Żoa hûᴴ soa",
    "rr": "kôa héⁿ"
   },
   {
    "position": 13,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "giā giā Chý soa lii [残]",
    "rr": "giâ giâ chéⁿ"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "laū Żòa.",
    "rr": "lāu kòa"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "qüég chēng.",
    "rr": "qué chéng"
   },
   {
    "position": 17,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bān poā̃ eng sēng.",
    "rr": "bân pva eng sêng"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "(ᶜᵐ he Żòa",
    "rr": "he kôa"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Ĝia² śala.",
    "rr": "fiâ sala"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Ĝia cung hōa",
    "rr": "fiâ pîng kôa fiâ"
   }

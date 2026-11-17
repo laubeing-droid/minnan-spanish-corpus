@@ -1,53 +1,81 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 714,
  "items": [
   {
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法韵尾:-r",
+   "v1": "dormir",
+   "rr": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "稀有韵母:-ormir(全库1次)",
+   "v1": "dormir",
+   "rr": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "稀有韵母:-obscureia(全库1次)",
+   "v1": "obscureia",
+   "rr": ""
+  },
+  {
+   "position": 16,
+   "field": "R",
+   "kind": "稀有韵母:-anochecer(全库1次)",
+   "v1": "anochecer",
+   "rr": ""
+  },
+  {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "na ca.",
    "rr": "ƨa ca."
   },
   {
    "position": 10,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cu táu tāng.",
    "rr": "cūⁿ tàu tăng."
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "mē, mē chun̆ mē huỹ",
    "rr": "sī, sī chūⁿ sī huⁿ"
   },
   {
    "position": 16,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "âm huỹ: hūn. mē huỹ",
    "rr": "am̂huy: hún. m̂huy al ainchecer. seg 103"
   },
   {
    "position": 18,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "bīn dormir [疑:dormir/殘字]",
    "rr": "bīn dōem̄"
   },
   {
    "position": 19,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "âm obscureia âm lō âm liau [疑:obscureia/殘字]",
    "rr": "am̂ la am̂ iau"
   },
   {
    "position": 20,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "ſiáu.",
    "rr": "fiău."
   }

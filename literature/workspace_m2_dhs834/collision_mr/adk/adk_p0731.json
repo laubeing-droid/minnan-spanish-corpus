@@ -1,67 +1,74 @@
 {
- "protocol": "ADK_V1",
+ "protocol": "ADK_V2",
  "page": 731,
  "items": [
   {
    "position": 13,
    "field": "source_M",
-   "kind": "fv初始",
+   "kind": "fv声母",
    "v1": "ve ia",
+   "rr": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "ve",
    "rr": ""
   },
   {
    "position": 1,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "phun muy [疑:muy/mỹ]",
    "rr": "pun m̂ng"
   },
   {
    "position": 2,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "hy cui",
    "rr": "hȳ cûr"
   },
   {
    "position": 3,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "long : long (第二个long涂改)",
    "rr": "long:loy"
   },
   {
    "position": 5,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "Po : pequeña",
    "rr": "Po pequeñas"
   },
   {
    "position": 6,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "eng long iog [疑:iog/ioi]",
    "rr": "en long iog"
   },
   {
    "position": 7,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "po long iog [疑:iog/ioi]",
    "rr": "po long iog"
   },
   {
    "position": 14,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "cum ba",
    "rr": "cūn bâ"
   },
   {
    "position": 15,
    "field": "M",
-   "kind": "字母差",
+   "kind": "两读字母差",
    "v1": "to ia",
    "rr": "tō ià cho huy gǐ"
   }
