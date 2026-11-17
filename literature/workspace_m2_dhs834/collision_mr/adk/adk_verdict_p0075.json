@@ -1,0 +1,393 @@
+{
+ "protocol": "ADK_VERDICT_V1",
+ "page": 75,
+ "verdicts": [
+  {
+   "position": 1,
+   "field": "source_M",
+   "v1": "voy fit",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "vý sit",
+   "note": "首字墨迹仅为 v 与 y（无 o）非 voy，次字首笔无下伸笔似 s 非 f"
+  },
+  {
+   "position": 1,
+   "field": "source_R",
+   "v1": "voy fīt",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "vў fīt",
+   "note": "首字墨迹为 vў（仅 v 与 y，无 o），非 voy"
+  },
+  {
+   "position": 11,
+   "field": "source_M",
+   "v1": "pan fit.",
+   "rr": "",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "次字首笔似 t 非 f，但末尾字母与调符处有浓墨遮挡，无法确判全词"
+  },
+  {
+   "position": 12,
+   "field": "source_M",
+   "v1": "fit.",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "tít.",
+   "note": "首字母有横杠且无下伸笔，字形为 t 而非 f"
+  },
+  {
+   "position": 13,
+   "field": "source_M",
+   "v1": "fit lat",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "tît lăt",
+   "note": "首字首笔为 t（无下伸笔）非 f，且两字均带声调符"
+  },
+  {
+   "position": 19,
+   "field": "source_M",
+   "v1": "éng fit.",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "éng tít.",
+   "note": "次字首字母为 t（有横杠且无下伸笔）非 f"
+  },
+  {
+   "position": 20,
+   "field": "source_M",
+   "v1": "guīñ fit.",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "quīu tít.",
+   "note": "首字为 quīu（直竖 q 与尾字母 u，非 guīñ），次字首字母为 t 非 f"
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "v1": "voy",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "vý",
+   "note": "墨迹仅为 v 与 y（带调符），无字母 o"
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "v1": "fit",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "sit",
+   "note": "首笔无 f 的下伸笔与明显横杠，字形似 s 作 sit 非 fit"
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "v1": "chur",
+   "rr": "",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "chu 后尾字母及上方有浓墨涂改遮挡，无法判定为 r 或 t/rt"
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "v1": "fit",
+   "rr": "",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "首字母似 t 非 f，但末尾字母与调符处有浓墨遮挡，无法确判全词"
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "v1": "fit",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "tít",
+   "note": "首字母为 t（有横杠无下伸笔）非 f"
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "v1": "fit",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "tît",
+   "note": "首字母为 t（有横杠无下伸笔）非 f"
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "v1": "fit",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "tít",
+   "note": "首字母为 t（有横杠无下伸笔）非 f"
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "v1": "fit",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "tít",
+   "note": "首字母为 t（有横杠无下伸笔）非 f"
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "v1": "voy",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "vў",
+   "note": "墨迹为 vў（仅 v 与 y），无字母 o"
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "v1": "fīt",
+   "rr": "",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 8,
+   "field": "R",
+   "v1": "chūrt",
+   "rr": "",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "v1": "voy fit",
+   "rr": "oy hít",
+   "verdict": "两皆误",
+   "ink": "vý sit",
+   "note": "首字为 vy（无 o）非 voy/oy，次字无下伸笔似 sit 非 fit/hít"
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "v1": "voy fīt",
+   "rr": "oy hō",
+   "verdict": "两皆误",
+   "ink": "vў fīt",
+   "note": "首字为 vў（无 o）非 voy/oy，次字为 fīt 非 hō"
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "v1": "hǒ hí",
+   "rr": "ho hý",
+   "verdict": "两皆误",
+   "ink": "hō hỳ",
+   "note": "首字 o 上有横调符 ¯（及涂改痕）非 ǒ/无调，次字为 hỳ（抑音符 `）非 hí/hý"
+  },
+  {
+   "position": 2,
+   "field": "R",
+   "v1": "hō hì",
+   "rr": "ho hý",
+   "verdict": "两皆误",
+   "ink": "hō hỳ",
+   "note": "次字尾字母为带降部的 y 且上方为抑音符 `（hỳ），非 hì/hý"
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "v1": "muey",
+   "rr": "muy",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "v1": "can mūy zo",
+   "rr": "can muy ġot",
+   "verdict": "两皆误",
+   "ink": "căn mūy zô",
+   "note": "首字 a 上有 ˇ（căn），末字为 z 与 o 且上方有调符（非 ġot），rr 亦漏 mūy 调符"
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "v1": "guien mûen zō",
+   "rr": "ginen muen ġo",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "v1": "nūi tǒng",
+   "rr": "nīn tōng",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "v1": "giog cua",
+   "rr": "gio cua",
+   "verdict": "两皆误",
+   "ink": "giog cuan",
+   "note": "次字 cua 上方有上标鼻化 n（应作 cuan），v1 与 rr 均漏录，且 rr 漏首字尾 g"
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "v1": "giog chur",
+   "rr": "gio chût",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "次字 chu 后尾字母处有浓墨涂改遮挡，无法判定为 chur 或 chût"
+  },
+  {
+   "position": 8,
+   "field": "R",
+   "v1": "nīo chūrt",
+   "rr": "nio chût",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "v1": "poan",
+   "rr": "pan",
+   "verdict": "两皆误",
+   "ink": "păn",
+   "note": "墨迹为 păn（a 上有 ˇ 调符），v1 误增 o，rr 漏读调符"
+  },
+  {
+   "position": 10,
+   "field": "R",
+   "v1": "pain lō lây",
+   "rr": "pan lō laȳ",
+   "verdict": "两皆误",
+   "ink": "păn lō lây",
+   "note": "首字为 păn（非 pain 且带 ˇ），末字 y 上为尖帽符 ^（lây）非 ¯"
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "v1": "pan fit.",
+   "rr": "pan hít",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "次字首字母似 t 非 f/h，但末尾字母及调符处有浓墨遮挡，无法确判全词"
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "v1": "pain tī",
+   "rr": "pan īt",
+   "verdict": "两皆误",
+   "ink": "păn tȳ",
+   "note": "首字为 păn（非 pain 且带 ˇ），次字为 tȳ（尾字母为带降部的 y）非 tī/īt"
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "v1": "fit.",
+   "rr": "hít",
+   "verdict": "两皆误",
+   "ink": "tít.",
+   "note": "首字母为 t（有横杠无下伸笔）非 f 或 h"
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "v1": "tē",
+   "rr": "īt",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "v1": "fit lat",
+   "rr": "hít lat",
+   "verdict": "两皆误",
+   "ink": "tît lăt",
+   "note": "首字首字母为 t（有横杠无下伸笔）非 f/h，且两字均带声调符"
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "v1": "tī lēe",
+   "rr": "īt lēi",
+   "verdict": "两皆误",
+   "ink": "tý lēe",
+   "note": "首字尾字母为带降部的 y 且上方有 ´ 调符（tý），非 tī/īt"
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "v1": "pog biet",
+   "rr": "pog bieh",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 16,
+   "field": "R",
+   "v1": "cáin chèu",
+   "rr": "cain chau",
+   "verdict": "两皆误",
+   "ink": "càn chèu",
+   "note": "首字为 càn（无 i，a 上为抑音符 `），次字为 chèu 非 chau"
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "v1": "éng fit.",
+   "rr": "eng hít",
+   "verdict": "两皆误",
+   "ink": "éng tít.",
+   "note": "次字首字母为 t（有横杠无下伸笔）非 f 或 h"
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "v1": "īng tē",
+   "rr": "iñg īt",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "v1": "guīñ fit.",
+   "rr": "guiū hít",
+   "verdict": "两皆误",
+   "ink": "quīu tít.",
+   "note": "首字为 quīu（直竖 q 与尾字母 u，非 guīñ/guiū），次字首字母为 t 非 f/h"
+  },
+  {
+   "position": 20,
+   "field": "R",
+   "v1": "guiñ tē",
+   "rr": "guiū īt",
+   "verdict": "两皆误",
+   "ink": "quiŭ tē",
+   "note": "首字为 quiŭ（直竖 q 与尾字母 u，非 guiñ/guiū），次字为 tē"
+  }
+ ]
+}

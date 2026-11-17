@@ -1,0 +1,294 @@
+{
+ "protocol": "ADK_VERDICT_V1",
+ "page": 58,
+ "verdicts": [
+  {
+   "position": 1,
+   "field": "M",
+   "v1": "l",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "Gì",
+   "note": "墨迹为完整音节Gì（或Lì），v1仅残存单字母l"
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "v1": "l",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "lỳ bīn",
+   "note": "墨迹为lỳ bīn，v1仅残存单字母l"
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "v1": "xiǒg",
+   "rr": "",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "v1": "xiǒg",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "tì xiǒg",
+   "note": "墨迹在xiǒg前有第一音节（声母似t/ç/z混淆形，调符微糊），v1漏记第一音节"
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "v1": "xiǒg",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "choù xiǒg",
+   "note": "墨迹为choù xiǒg，v1漏记第一音节choù"
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "v1": "xiǒg",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "lēng xiǒg",
+   "note": "墨迹为lēng xiǒg，v1漏记第一音节lēng"
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "v1": "xiǒg",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "quý xiǒg",
+   "note": "墨迹为quý xiǒg，v1漏记第一音节quý"
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "v1": "s",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "quím sȳ",
+   "note": "墨迹为quím sȳ，v1仅残存单字母s"
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "v1": "lỳ",
+   "rr": "gi",
+   "verdict": "两皆误",
+   "ink": "Gì",
+   "note": "墨迹首字母形近G或L，元音为i非y且带钝音符`（rr漏调符）"
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "v1": "lì",
+   "rr": "gì",
+   "verdict": "两皆误",
+   "ink": "lỳ",
+   "note": "墨迹为lỳ（首字母为l非g，元音为y非i）"
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "v1": "lỳ bīn",
+   "rr": "ly çīn",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 2,
+   "field": "R",
+   "v1": "lì miēn",
+   "rr": "lȳ miēn",
+   "verdict": "两皆误",
+   "ink": "lỳ miēn",
+   "note": "墨迹为lỳ miēn（第一音节元音为y非i，声调为钝音符`非长音符¯）"
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "v1": "jō",
+   "rr": "γō",
+   "verdict": "两皆误",
+   "ink": "yō",
+   "note": "墨迹首字母为手写体y（顶部呈双笔杯形且无点），非j或希腊字母γ"
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "v1": "tì xiǒg",
+   "rr": "çi xiǒg",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "第一音节声母为t/ç/z混淆字形且i上方调符墨迹糊涂，无法判定"
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "v1": "chǐ jō",
+   "rr": "chǐ γō",
+   "verdict": "两皆误",
+   "ink": "chy̌ yō",
+   "note": "墨迹第一音节元音为y非i（带ˇ及小弯钩符），第二音节为yō非jō或γō"
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "v1": "chó jō",
+   "rr": "chǒ γō",
+   "verdict": "两皆误",
+   "ink": "chǒ yō",
+   "note": "墨迹第二音节首字母为手写体y（yō）非j或γ（第一音节为chǒ）"
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "v1": "lēng jō",
+   "rr": "lèng γō",
+   "verdict": "两皆误",
+   "ink": "lêng yō",
+   "note": "墨迹为lêng yō（e上为扬抑符^非¯或`，第二音节为yō非jō/γō）"
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "v1": "quỳ xiǒg",
+   "rr": "guǐ xiǒg",
+   "verdict": "两皆误",
+   "ink": "quý xiǒg",
+   "note": "墨迹首音节为quý（声母为q非g，元音为y非i，声调为锐音符´非`或ˇ）"
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "v1": "quǐ jō",
+   "rr": "guǐ γō",
+   "verdict": "两皆误",
+   "ink": "quǐ yō",
+   "note": "墨迹为quǐ yō（第一音节为quǐ非guǐ，第二音节为yō非jō/γō）"
+  },
+  {
+   "position": 8,
+   "field": "R",
+   "v1": "lāng pūi",
+   "rr": "làng guǐ",
+   "verdict": "两皆误",
+   "ink": "lâng pūi",
+   "note": "墨迹为lâng pūi（第一音节a上为扬抑符^非¯，第二音节为pūi非guǐ）"
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "v1": "ěng",
+   "rr": "eǔng",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "v1": "ěng n̂g.",
+   "rr": "eñg ông",
+   "verdict": "两皆误",
+   "ink": "éng n̂g.",
+   "note": "墨迹第一音节为éng（e上为锐音符´非ˇ），rr的eñg ông亦不符"
+  },
+  {
+   "position": 10,
+   "field": "R",
+   "v1": "ěng hoâng",
+   "rr": "eǔng huàng",
+   "verdict": "两皆误",
+   "ink": "ěng huâng",
+   "note": "墨迹为ěng huâng（第一音节无u，第二音节为huâng非hoâng或huàng）"
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "v1": "Tǎ",
+   "rr": "taⁿ",
+   "verdict": "两皆误",
+   "ink": "Tǎn",
+   "note": "墨迹为Tǎⁿ（带音调符ˇ与上标鼻化符n，照录为Tǎn），v1漏n，rr漏调符ˇ且小写t"
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "v1": "quǐn",
+   "rr": "guǐn",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "v1": "tá̃ chièt.",
+   "rr": "ta chia",
+   "verdict": "两皆误",
+   "ink": "tán chiêt.",
+   "note": "墨迹为tán chiêt.（首音节带´与上标鼻化符n，次音节e上为^非`，rr多处遗漏）"
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "v1": "quǐn chiē",
+   "rr": "guǐn chiě",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "v1": "quīm sȳ",
+   "rr": "guǐm çī",
+   "verdict": "两皆误",
+   "ink": "quím sȳ",
+   "note": "墨迹第一音节为quím（i上为锐音符´非¯），rr亦不符"
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "v1": "quǐn zū",
+   "rr": "guǐn çīn",
+   "verdict": "两皆误",
+   "ink": "quǐn zû",
+   "note": "墨迹第二音节为zû（u上为扬抑符^非¯），rr的guǐn çīn亦不符"
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "v1": "tóng quīm.",
+   "rr": "tōng guǐn",
+   "verdict": "两皆误",
+   "ink": "tóng quím.",
+   "note": "墨迹第二音节为quím.（i上为锐音符´非¯），rr亦多处不符"
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "v1": "tāng quǐn",
+   "rr": "tàng guǐn",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "v1": "chê qù",
+   "rr": "chě guǐ",
+   "verdict": "两皆误",
+   "ink": "chê quǐ",
+   "note": "墨迹为chê quǐ（第一音节e上为^，第二音节为quǐ，有q、i及ˇ符）"
+  }
+ ]
+}

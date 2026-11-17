@@ -22,8 +22,15 @@ for q in queues:
         unjudged += len(items)
         missing.append(pk)
         continue
+    try:
+        vdata = json.loads(vf.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as ex:
+        # 半截文件（中断时写盘）按未裁入账，不崩全局
+        unjudged += len(items)
+        missing.append(pk + "(损坏:" + str(ex.msg)[:20] + ")")
+        continue
     vmap = {}
-    for v in json.loads(vf.read_text(encoding="utf-8")).get("verdicts", []):
+    for v in vdata.get("verdicts", []):
         vmap[(v.get("position"), v.get("field"), (v.get("v1") or "")[:12])] = v
     for it in items:
         v = vmap.get((it.get("position"), it.get("field"), (it.get("v1") or "")[:12]))

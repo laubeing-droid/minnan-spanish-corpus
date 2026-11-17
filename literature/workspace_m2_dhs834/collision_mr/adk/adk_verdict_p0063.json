@@ -1,0 +1,321 @@
+{
+ "protocol": "ADK_VERDICT_V1",
+ "page": 63,
+ "verdicts": [
+  {
+   "position": 2,
+   "field": "M",
+   "v1": "s",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "sẽng qúy",
+   "note": "M栏第2条墨迹为 sẽng qúy，并非单个 s"
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "v1": "s",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "sěng quég",
+   "note": "M栏第3条墨迹为 sěng quég，并非单个 s"
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "v1": "uán quién",
+   "rr": "çáñ gúien",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "v1": "iuěn hiěn",
+   "rr": "ièn hièn",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "v1": "sẽng qúy",
+   "rr": "lèñ gúy",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 2,
+   "field": "R",
+   "v1": "sêng quî",
+   "rr": "lèñ gúi",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "v1": "sẽng quiêc",
+   "rr": "lèñ gúèg",
+   "verdict": "两皆误",
+   "ink": "sěng quég",
+   "note": "v1 次字多出 i 且末字母误作 c（实为 g），rr 首字误作 lèñ 且次字首字母误作 g"
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "v1": "sêng quī",
+   "rr": "lèñ gúi",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "v1": "põ giâc",
+   "rr": "pò gíap",
+   "verdict": "两皆误",
+   "ink": "põ giâp",
+   "note": "v1 末字母误作 c（实为 p），rr 元音符误作 pò gíap"
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "v1": "poū nguōc",
+   "rr": "pōn nguiōn",
+   "verdict": "两皆误",
+   "ink": "pōn nguōc",
+   "note": "v1 首字误将 n 读作 u，rr 次字误作 nguiōn"
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "v1": "poū lūi",
+   "rr": "pōn lūi",
+   "verdict": "重读对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "v1": "suỹ",
+   "rr": "çûy",
+   "verdict": "两皆误",
+   "ink": "zuỹ",
+   "note": "墨迹首字母形似 z（非 s），rr 亦将声调符误作 û"
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "v1": "suǎn",
+   "rr": "çoán",
+   "verdict": "两皆误",
+   "ink": "zuǎn",
+   "note": "墨迹首字母形似 z（非 s），rr 误将 uǎn 读作 oán"
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "v1": "suỹ siâp",
+   "rr": "çūī súìp",
+   "verdict": "两皆误",
+   "ink": "zuỹ siâp",
+   "note": "首字首字母形似 z（非 s），rr 误将 zuỹ siâp 读作 çūī súìp"
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "v1": "suǎn sȳ",
+   "rr": "çuān çúi",
+   "verdict": "两皆误",
+   "ink": "zuǎn sȳ",
+   "note": "首字首字母形似 z（非 s），rr 误将 sȳ 读作 çúi"
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "v1": "quiǎ",
+   "rr": "guīà",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 8,
+   "field": "R",
+   "v1": "quî",
+   "rr": "guī",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "v1": "quiǎ lô",
+   "rr": "guīà lò",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "v1": "quî lō",
+   "rr": "guī lò",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "v1": "quiǎ ó chiú",
+   "rr": "guīà ô chiōh",
+   "verdict": "两皆误",
+   "ink": "quiǎ ó chiǒh",
+   "note": "v1 末词误作 chiú（实为 chiǒh），rr 首词误作 guīà 且次词作 ô"
+  },
+  {
+   "position": 10,
+   "field": "R",
+   "v1": "quî nân siâng",
+   "rr": "guī nán siāng",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "v1": "quiǎ chîa pía",
+   "rr": "guīà chiāh pîa",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "v1": "quî chêng pī",
+   "rr": "guī chèng pī",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "v1": "nông quī",
+   "rr": "nòng gù",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "v1": "chuỳ . tug.",
+   "rr": "chûy",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "v1": "zuì",
+   "rr": "çùi",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 16,
+   "field": "R",
+   "v1": "yěn zuì",
+   "rr": "yèn çùi",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "v1": "tôc .",
+   "rr": "Tòg",
+   "verdict": "两皆误",
+   "ink": "Tǒg .",
+   "note": "v1 末字母误作 c 且元音符作 ô，rr 元音符误作 ò"
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "v1": "thê .",
+   "rr": "Tê",
+   "verdict": "重读对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "v1": "thê phôu",
+   "rr": "Tê pōū",
+   "verdict": "重读对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "v1": "chō pû",
+   "rr": "chō poû",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "v1": "thê pôan",
+   "rr": "Tê pōā",
+   "verdict": "重读对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 20,
+   "field": "R",
+   "v1": "phō poân",
+   "rr": "chō gôān",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "v1": "thê chuỳ",
+   "rr": "Tê chûy",
+   "verdict": "两皆误",
+   "ink": "Tê chuỳ",
+   "note": "v1 首字多出 h，rr 次字声调符误作 chûy（实为 chuỳ）"
+  },
+  {
+   "position": 21,
+   "field": "R",
+   "v1": "chō zuì",
+   "rr": "chō çùi",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  }
+ ]
+}

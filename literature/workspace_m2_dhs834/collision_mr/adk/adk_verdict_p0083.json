@@ -1,0 +1,177 @@
+{
+ "protocol": "ADK_VERDICT_V1",
+ "page": 83,
+ "verdicts": [
+  {
+   "position": 1,
+   "field": "M",
+   "v1": "xīn",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "làm xīn",
+   "note": "M 栏实为 làm xīn，v1 漏抄首字 làm。"
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "v1": "xiês",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "làn xiên",
+   "note": "R 栏实为 làn xiên，v1 漏抄 làn 且末字母误作 s。"
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "v1": "làn xiês",
+   "rr": "lân xiên",
+   "verdict": "两皆误",
+   "ink": "làn xiên",
+   "note": "R 栏实为 làn xiên，v1 末字母误作 s，rr 首字声调符误作 â。"
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "v1": "chiõ sèy",
+   "rr": "chion sey",
+   "verdict": "两皆误",
+   "ink": "chión sèy",
+   "note": "M 栏实为 chión sèy（o 上有锐音符与上标鼻化 n），v1 误作 õ 且漏 n，rr 漏声调符。"
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "v1": "chiõ",
+   "rr": "chion",
+   "verdict": "两皆误",
+   "ink": "chión",
+   "note": "M 栏实为 chión（o 上有锐音符与上标鼻化 n），v1 误作 õ 且漏 n 与锐音符，rr 漏锐音符。"
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "v1": "tng cheng",
+   "rr": "tung cheng",
+   "verdict": "两皆误",
+   "ink": "tūng chéng",
+   "note": "M 栏实为 tūng chéng（tung 上有横杠及小符，chéng 有锐音符），v1 漏 u 与声调符，rr 漏声调符。"
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "v1": "thâng chheng",
+   "rr": "tâng chêng",
+   "verdict": "两皆误",
+   "ink": "tâng chěng",
+   "note": "R 栏实为 tâng chěng（e 上为 ˇ 与小 c，无多余 h），v1 妄加 h 且漏声调符，rr 次字声调符误作 ê。"
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "v1": "tng chùy",
+   "rr": "tung chuy",
+   "verdict": "两皆误",
+   "ink": "tūng chùy",
+   "note": "M 栏实为 tūng chùy（tung 上有横杠及小符），v1 漏 u 与横杠，rr 漏横杠与 chùy 抑音符。"
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "v1": "thâng zùi",
+   "rr": "tâng zùi",
+   "verdict": "重读对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "v1": "siã hiõ",
+   "rr": "sian hion",
+   "verdict": "两皆误",
+   "ink": "sian hión",
+   "note": "M 栏实为 sian hión（a、o 上有上标鼻化 n，o 右上另有锐音符），v1 误作 ã/õ 且漏锐音符，rr 漏 hión 的锐音符。"
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "v1": "ty pē.",
+   "rr": "thy pe",
+   "verdict": "两皆误",
+   "ink": "ty̌ pë.",
+   "note": "M 栏实为 ty̌ pë.（y 上有 ˇ 及斜笔，e 上为两点 ¨），v1 漏 y 声调符且作 pē.，rr 误加 h 且漏符与句点。"
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "v1": "thē pâ",
+   "rr": "khe pâ",
+   "verdict": "两皆误",
+   "ink": "tě pâ",
+   "note": "R 栏实为 tě pâ（首字为 t 加 e 上带 ˇ 与小 c，无 h 也非 k），v1 误作 thē，rr 误作 khe 且漏声调符。"
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "v1": "guan ney. chìn",
+   "rr": "chìn",
+   "verdict": "重读对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "v1": "chim thāu",
+   "rr": "chim tau",
+   "verdict": "两皆误",
+   "ink": "chìm Zāu",
+   "note": "M 栏实为 chìm Zāu（chìm 有抑音符，次字首形作 Z 且无 h，ā 上有横杠与小 c），v1 漏抑音符且妄加 h，rr 漏抑音符与横杠。"
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "v1": "chìn těu",
+   "rr": "chìn kâū",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "v1": "[残]hhiên chìn",
+   "rr": "chhiên chìn",
+   "verdict": "两皆误",
+   "ink": "liên chìn",
+   "note": "R 栏实为 liên chìn（liên 前有一涂改墨团，非 hhiên/chhiên）。"
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "v1": "quin chìn",
+   "rr": "guīn chìn",
+   "verdict": "两皆误",
+   "ink": "quǐn chìn",
+   "note": "R 栏实为 quǐn chìn（首字母为 q 非 g，i 上有 ˇ 与小 c），v1 漏 i 声调符，rr 误作 guīn。"
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "v1": "+ cou pàn",
+   "rr": "cōn pàn",
+   "verdict": "两皆误",
+   "ink": "cǒn pàn",
+   "note": "R 栏实为 cǒn pàn（o 上为 ˇ 与小 c，末字母为 n 非 u；左旁栏外另有 + 号），v1 误作 cou 且漏声调符，rr 声调符误作 ō。"
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "v1": "ty chueng.",
+   "rr": "ty chang",
+   "verdict": "两皆误",
+   "ink": "ty̌ chúng.",
+   "note": "M 栏实为 ty̌ chúng.（y 上有 ˇ，次字为 chung. 非 chueng./chang，u 上有锐音符及小 6 形符）。"
+  }
+ ]
+}

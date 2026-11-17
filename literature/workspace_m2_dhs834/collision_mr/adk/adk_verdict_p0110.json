@@ -1,0 +1,294 @@
+{
+ "protocol": "ADK_VERDICT_V1",
+ "page": 110,
+ "verdicts": [
+  {
+   "position": 8,
+   "field": "M",
+   "v1": "Bar",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "barᵛ",
+   "note": "墨迹第4字为小写 barᵛ 带有声调符 ᵛ，v1 作 Bar 缺声调符且误大写 B。"
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "v1": "siêr",
+   "rr": "",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "v1": "siêr",
+   "rr": "",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "v1": "siêr",
+   "rr": "",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 16,
+   "field": "R",
+   "v1": "p",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "pȳ",
+   "note": "墨迹为完整音节 pȳ，v1 仅存首字母 p 属残缺误读。"
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "v1": "hiōy sīn",
+   "rr": "hiōng sîn",
+   "verdict": "两皆误",
+   "ink": "hióng sīn",
+   "note": "墨迹为 hióng sīn（o 上为锐音符，i 上为长音符），v1 误将 ng 读作 y，rr 误将 sīn 读作 sîn。"
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "v1": "kiōy sîn",
+   "rr": "hǒng jîn",
+   "verdict": "两皆误",
+   "ink": "hǒng sîn",
+   "note": "墨迹为 hǒng ſîn（首字为 h，次字为长 ſ），v1 误作 kiōy，rr 误将长 ſ 读作 j。"
+  },
+  {
+   "position": 2,
+   "field": "R",
+   "v1": "hǔa sǐn·",
+   "rr": "hùa jìn",
+   "verdict": "两皆误",
+   "ink": "hūa sǐn",
+   "note": "墨迹为 hūa ſǐn（u 上为长音符 ¯，次字为长 ſ 且 i 上为抑扬符 ˇ），v1 误作 hǔa 且多尾点，rr 误作 hùa jìn。"
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "v1": "siêc siâng boi· iēn siā",
+   "rr": "siē iēn sia rrnap",
+   "verdict": "两皆误",
+   "ink": "siêr siâng tô: iēn siǎ",
+   "note": "墨迹左侧为 siêr 与涂划的 siâng，右侧为 tô: iēn siǎ（R 栏边另有圈注 rrnap），v1 与 rr 均多处误读或漏字。"
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "v1": "cuᵛ piᵛ·",
+   "rr": "cū pṳ",
+   "verdict": "两皆误",
+   "ink": "cuᵛ pyᵛ",
+   "note": "墨迹为 cuᵛ pyᵛ（两字上方均为 v 形声调符，次字元音为 y），v1 误将 pyᵛ 读作 piᵛ·，rr 误将 v 符读作 ū/ṳ。"
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "v1": "gūi gōy",
+   "rr": "gūi gō",
+   "verdict": "两皆误",
+   "ink": "gūi pȳ",
+   "note": "墨迹第二字为 pȳ，v1 与 rr 均误读为 gōy/gō。"
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "v1": "Pāy·",
+   "rr": "pāŋ",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "v1": "pâyᶜ",
+   "rr": "pāŋ",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "v1": "pāy iên",
+   "rr": "pāŋ iēn",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "v1": "pâyᶜ ngān",
+   "rr": "pāŋ ngān",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "v1": "pāy pē sey Barᵛ",
+   "rr": "pāŋ pê ŝey ûn",
+   "verdict": "两皆误",
+   "ink": "pāy pê séy barᵛ",
+   "note": "墨迹为 pāy pê séy barᵛ，v1 漏 pê 之 ^ 与 séy 之锐音符且误大写 B，rr 误作 pāŋ 且末字误作 ûn。"
+  },
+  {
+   "position": 8,
+   "field": "R",
+   "v1": "pâyᶜ pînᶜ jǔ miē",
+   "rr": "pāŋ pîn jû miē",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "v1": "panᵛ bueᵛ piēn·",
+   "rr": "pân būe põi piēn",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "v1": "piēn bȳ piēn",
+   "rr": "piēn bū piēn",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "v1": "xiē",
+   "rr": "siē",
+   "verdict": "重读对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "v1": "siêr sêc·",
+   "rr": "sier ŝey",
+   "verdict": "两皆误",
+   "ink": "siêr sêg·",
+   "note": "墨迹为 siêr sêg·（次字末字母带下伸尾为 g），v1 误作 sêc·，rr 漏 ^ 且误作 ŝey。"
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "v1": "xiē sī",
+   "rr": "siē ŝy",
+   "verdict": "两皆误",
+   "ink": "siē sȳ",
+   "note": "墨迹为 ſiē ſȳ（长 ſ 非 x，次字元音为带长音符的 ȳ），v1 误作 xiē sī，rr 误标为 ŝy。"
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "v1": "siêr tôc·",
+   "rr": "sier tō",
+   "verdict": "两皆误",
+   "ink": "siêr tô,",
+   "note": "墨迹为 siêr tô,（tô 后为逗号并无 c），v1 误增 c 作 tôc·，rr 漏 ^ 且误将 tô 作 tō。"
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "v1": "xiē chō",
+   "rr": "siē chō",
+   "verdict": "重读对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "v1": "Bāyᵛ·",
+   "rr": "pŷ",
+   "verdict": "两皆误",
+   "ink": "Pyᵛ·",
+   "note": "墨迹为大写 P 加带 v 形声调符的 y 及尾点 ·（Pyᵛ·），v1 误作 Bāyᵛ·，rr 误作 pŷ。"
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "v1": "pienᵛ îg·",
+   "rr": "piēn īk",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "v1": "piēn ȳ",
+   "rr": "piēn ī",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 20,
+   "field": "R",
+   "v1": "īy piēn",
+   "rr": "xū piēn",
+   "verdict": "两皆误",
+   "ink": "xȳ piēn",
+   "note": "墨迹首字为 xȳ（带长音符 ¯ 及上方微点），v1 误将 x 读作 ī，rr 误将 ȳ 读作 ū。"
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "v1": "ān pāy tôc·",
+   "rr": "ān pāŋ tō",
+   "verdict": "两皆误",
+   "ink": "án pāy tô",
+   "note": "墨迹为 án pāy tô（首字 a 上为锐音符 á，末字无 c·），v1 误作 ān 且多出 c·，rr 误作 ān pāŋ tō。"
+  },
+  {
+   "position": 21,
+   "field": "R",
+   "v1": "ngân pâyᶜ chō",
+   "rr": "ngān pāŋ chō",
+   "verdict": "两皆误",
+   "ink": "ngǎn pâyᶜ chō",
+   "note": "墨迹首字为 ngǎn（a 上为抑扬符 ˇ），v1 误作 ngân，rr 误作 ngān 且将 pâyᶜ 作 pāŋ。"
+  },
+  {
+   "position": 22,
+   "field": "M",
+   "v1": "ān pāy chiū·",
+   "rr": "ān pāŋ chiū",
+   "verdict": "两皆误",
+   "ink": "án pāy chiù;",
+   "note": "墨迹为 án pāy chiù;（首字锐音符 á，末字重音符 ù 与分号 ;），v1 与 rr 均误作 ān、chiū 且 rr 将 pāy 作 pāŋ。"
+  },
+  {
+   "position": 22,
+   "field": "R",
+   "v1": "ngān pāy chiu̶ chiù",
+   "rr": "ngān pāŋ chiū",
+   "verdict": "两皆误",
+   "ink": "ngǎn pâyᶜ chiǔ",
+   "note": "墨迹为 ngǎn pâyᶜ chiǔ（chiǔ 上方另有涂划旧字），v1 误作 ngān pāy 与 chiù，rr 误作 ngān pāŋ chiū。"
+  }
+ ]
+}

@@ -1,0 +1,402 @@
+{
+ "protocol": "ADK_VERDICT_V1",
+ "page": 109,
+ "verdicts": [
+  {
+   "position": 21,
+   "field": "source_M",
+   "v1": "fiāng lâng:",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "siáng lāng.",
+   "note": "墨迹实为siáng lāng.(首字母为长s非f，a上为锐音符á，次字为lāng且末为句点.非冒号:)。"
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "v1": "xy",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "xy̌",
+   "note": "墨迹首字y上方有明显凹形调符(ˇ/˘)，v1漏标声调符(全栏为xy̌ tiô hū;)。"
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "v1": "cūr",
+   "rr": "",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "v1": "fiāng",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "siáng",
+   "note": "墨迹首字母为长s(非f)，a上为锐音符(á)而非长音符(ā)。"
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "v1": "Tió",
+   "rr": "Fio",
+   "verdict": "两皆误",
+   "ink": "Tiô",
+   "note": "墨迹首字母为大写T(非F)，o右上方有明显扬抑符(^)而非锐音符(ó)。"
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "v1": "kāū",
+   "rr": "hân",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "v1": "tiô ià.",
+   "rr": "Fio ia",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 2,
+   "field": "R",
+   "v1": "kāū chaŷ",
+   "rr": "kiân chây",
+   "verdict": "两皆误",
+   "ink": "kāū chaỳ",
+   "note": "次字y上方为重音符(`)而非扬抑符(^)，rr首字亦误。"
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "v1": "xy tiô hū;",
+   "rr": "xy fio hû",
+   "verdict": "两皆误",
+   "ink": "xy̌ tiô hū;",
+   "note": "首字y上方有凹形调符(ˇ/˘)，v1与rr均漏标，且rr误t为f、误hū为hû。"
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "v1": "xūn kiān sīn",
+   "rr": "xîn fûn xûn",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "首、尾二字笔画粘连且末笔淡漶，无法确判为xīn/xūn与xû/xûn(次字实为kiāū)。"
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "v1": "ān châ.",
+   "rr": "güy",
+   "verdict": "两皆误",
+   "ink": "án châ.",
+   "note": "首字a上为锐音符(á)而非长音符(ā)，次字châ上另有送气小c，rr串行。"
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "v1": "ngaīn chāⁿ",
+   "rr": "gûi",
+   "verdict": "两皆误",
+   "ink": "ngǎn chā",
+   "note": "首字实为ngǎn(无i，a上为ˇ)，次字为chā(上方小c为送气符，非鼻化ⁿ)，rr串行。"
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "v1": "gûey",
+   "rr": "à",
+   "verdict": "两皆误",
+   "ink": "quêy",
+   "note": "首字母为q(非g)，扬抑符(^)在e上而非u上(上附送气小c)，rr串行。"
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "v1": "gǔi",
+   "rr": "yâ",
+   "verdict": "两皆误",
+   "ink": "gūi",
+   "note": "ui上方为长音符(¯)及送气小c，非ˇ(gǔi)，rr串行。"
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "v1": "ā;",
+   "rr": "Biet",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "a上长音符(¯)上方另有一波形小符，难以确判所指，rr串行。"
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "v1": "yà",
+   "rr": "mie",
+   "verdict": "两皆误",
+   "ink": "yǎ",
+   "note": "a上方为凹形调符(ˇ)而非重音符(`)，rr串行。"
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "v1": "Bie⁄.",
+   "rr": "te hue",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "e后字母及上方调符粘连难辨(似t或x，上似有ˇ)，v1含乱码符⁄，rr串行。"
+  },
+  {
+   "position": 8,
+   "field": "R",
+   "v1": "miē",
+   "rr": "güē hò",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "v1": "tê huè",
+   "rr": "fea hue",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "v1": "quīe hò",
+   "rr": "tâ hó",
+   "verdict": "两皆误",
+   "ink": "guīe hò",
+   "note": "首字母左下带闭环为g(同6/17行R栏gūi/guīn)，非q，rr串行。"
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "v1": "pea huè",
+   "rr": "pa hua",
+   "verdict": "两皆误",
+   "ink": "pa huè",
+   "note": "首字墨迹为pa(无e，上方有涂改痕及送气小c)，rr串行。"
+  },
+  {
+   "position": 10,
+   "field": "R",
+   "v1": "tà hò [旁注圈注: Lor pleng.]",
+   "rr": "tâ húa",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "v1": "pa huà",
+   "rr": "pa fit",
+   "verdict": "两皆误",
+   "ink": "pa huá",
+   "note": "次字a上为锐音符(á)而非重音符(à)，rr串行。"
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "v1": "tà hūa",
+   "rr": "tà fît",
+   "verdict": "两皆误",
+   "ink": "tà hǔa",
+   "note": "次字ua上为凹形调符(ˇ)而非长音符(ū)，rr串行。"
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "v1": "pa sít.",
+   "rr": "pà fit chēr",
+   "verdict": "两皆误",
+   "ink": "pa sît.",
+   "note": "次字it上方为扬抑符(^)而非锐音符(í)，rr串行。"
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "v1": "tà siē",
+   "rr": "tâ fît chō",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "v1": "pa sít chê",
+   "rr": "chue fit",
+   "verdict": "两皆误",
+   "ink": "pa sît chég",
+   "note": "次字it上为^非´，末字实为cheg(v1漏g，e上另有锐音符及小弯符)，rr串行。"
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "v1": "tà siē [残] chō",
+   "rr": "chûi fît",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "v1": "chǔe sìt.",
+   "rr": "hue húa liau",
+   "verdict": "两皆误",
+   "ink": "chúe sît.",
+   "note": "首字e上为锐音符(é)及送气小c(非ˇ)，次字it上为^非`，rr串行。"
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "v1": "chǔi siē",
+   "rr": "hò húa liào",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "v1": "hùe huá liaù",
+   "rr": "hue fit la",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "v1": "hò hǔa liǎo",
+   "rr": "hò fît là",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "v1": "hùe sít là,",
+   "rr": "quin hue",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 16,
+   "field": "R",
+   "v1": "hò siē là",
+   "rr": "gūin hò",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "v1": "quîn huè",
+   "rr": "pa [残]",
+   "verdict": "两皆误",
+   "ink": "quîu huè",
+   "note": "首字末字母作u(上敞底圆)非n，rr串行。"
+  },
+  {
+   "position": 17,
+   "field": "R",
+   "v1": "guīn hò",
+   "rr": "tâ cūx tûn",
+   "verdict": "两皆误",
+   "ink": "guīu hò",
+   "note": "首字末字母作u(上敞底圆)非n，rr串行。"
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "v1": "pâ.",
+   "rr": "pa cūx tāū",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "v1": "tā cua teñ",
+   "rr": "tà cūx tûn",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "首字实为tà(非tā)，次字被涂划遮挡(非cua)，末字实为teu带调符及送气小c，难确判涂划字，rr串行。"
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "v1": "pa cūr tâu",
+   "rr": "Fiam",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "v1": "tā cua têñ",
+   "rr": "chièn",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "首字为tà(非tā)，次字cū与t间字母粘连难确判(似r或x)，末字实为teu带调符及送气小c(非têñ)，rr串行。"
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "v1": "Tiām;",
+   "rr": "fiàng làng",
+   "verdict": "两皆误",
+   "ink": "Tiâm;",
+   "note": "am上方为扬抑符(^)而非长音符(ā)，rr串至R栏。"
+  },
+  {
+   "position": 20,
+   "field": "R",
+   "v1": "chièn:",
+   "rr": "siàng xîn",
+   "verdict": "两皆误",
+   "ink": "chiěn:",
+   "note": "en上方为凹形调符(ˇ)而非重音符(`)，rr串行。"
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "v1": "fiāng lâng:",
+   "rr": "enç liē",
+   "verdict": "两皆误",
+   "ink": "siáng lāng.",
+   "note": "墨迹实为siáng lāng.(长s非f，á非ā，lāng非lâng，句点.非:)，rr串行。"
+  },
+  {
+   "position": 21,
+   "field": "R",
+   "v1": "siàng xīn",
+   "rr": "iñg liē",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,384 @@
+{
+ "protocol": "ADK_VERDICT_V1",
+ "page": 102,
+ "verdicts": [
+  {
+   "position": 15,
+   "field": "source_R",
+   "v1": "yě fǎn",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "yè fǎn",
+   "note": "墨迹首字为 yè（抑音符 \\`），非 yě。"
+  },
+  {
+   "position": 21,
+   "field": "source_M",
+   "v1": "gīm: quim; fīn / lōng sū:",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "gīm: quim; siû / lōng siû:",
+   "note": "墨迹第三字与末字均为 siû（长 s 开头且含 i、u 及 ^ 调符），非 fīn 或 sū。"
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "v1": "fīn",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "siû",
+   "note": "墨迹为 siû（长 s 开头，含 i、u 及 ^ 调符），非 fīn。"
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "v1": "hiāp",
+   "rr": "",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "v1": "chàgněu",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "quīen chāgneû",
+   "note": "墨迹完整为 quīen chāgneû，v1 漏读 quīen 且误读调符。"
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "v1": "quiāp",
+   "rr": "kiap",
+   "verdict": "两皆误",
+   "ink": "kiăp",
+   "note": "墨迹为 kiăp，v1 误作 quiāp 且调符作 ¯，rr 漏调符 ˇ。"
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "v1": "hiāp",
+   "rr": "kiōⁿ",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 2,
+   "field": "R",
+   "v1": "āy",
+   "rr": "aī",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "v1": "muān",
+   "rr": "mūn xû",
+   "verdict": "两皆误",
+   "ink": "mān",
+   "note": "墨迹为 mān，无 u，rr 错行至下一条且误读为 mūn。"
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "v1": "siēn muā̃ hī",
+   "rr": "siēn（划除）",
+   "verdict": "两皆误",
+   "ink": "sièn muān hū",
+   "note": "墨迹第三字为 hū 非 hī 且 muā 上标鼻化符为 n，rr 错行至下一条。"
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "v1": "muān xî",
+   "rr": "siēn",
+   "verdict": "两皆误",
+   "ink": "mān xû",
+   "note": "墨迹为 mān xû，v1 多出 u 且误将 xû 作 xî，rr 错行至下一条。"
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "v1": "siēn.",
+   "rr": "siēn mūā / siēn hū̄",
+   "verdict": "两皆误",
+   "ink": "siěn.",
+   "note": "墨迹调符为 ˇ（siěn.），v1 误作长音符 ¯，rr 错行至下一条。"
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "v1": "siēn",
+   "rr": "siēn mūn",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "v1": "siēn muā̃ / siēn hū.",
+   "rr": "siēn hū̄（划除）",
+   "verdict": "两皆误",
+   "ink": "siěn muān / sièn hū.",
+   "note": "墨迹第一词为 siěn 且 muā 上标鼻化符为 n，rr 错行至下一条。"
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "v1": "siēn muān",
+   "rr": "siēn xû",
+   "verdict": "两皆误",
+   "ink": "siēn mān",
+   "note": "墨迹第二字为 mān，无 u，rr 错行至下一条。"
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "v1": "siēn hī. [划删]",
+   "rr": "lōi mūā",
+   "verdict": "两皆误",
+   "ink": "siěn hū. [划删]",
+   "note": "墨迹为 siěn hū.（第二字为 hū 非 hī），rr 错行至下一条。"
+  },
+  {
+   "position": 8,
+   "field": "R",
+   "v1": "siēn xî",
+   "rr": "lōe mūn",
+   "verdict": "两皆误",
+   "ink": "siēn xû",
+   "note": "墨迹第二字为 xû 非 xî，rr 错行至下一条。"
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "v1": "lōi muā̃,",
+   "rr": "tūn",
+   "verdict": "两皆误",
+   "ink": "lōi muān;",
+   "note": "墨迹 muā 上标鼻化符为 n 且末尾为分号，rr 错行至下一条。"
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "v1": "lǔ muān",
+   "rr": "tūn",
+   "verdict": "两皆误",
+   "ink": "lǔ mān",
+   "note": "墨迹第二字为 mān，无 u，rr 错行至下一条。"
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "v1": "tūn",
+   "rr": "cay chy",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "首字母形似 f/ſ/t 难辨且调符作 ´，rr 错行至下一条，无法确定首字。"
+  },
+  {
+   "position": 10,
+   "field": "R",
+   "v1": "tūn",
+   "rr": "cay chî（旁圈注 chimchūen）",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "v1": "cāy chy.",
+   "rr": "quiam cha cài",
+   "verdict": "两皆误",
+   "ink": "cây chy.",
+   "note": "墨迹首字为 cây（^ 调符，y 上另有墨污），rr 错行至下一条。"
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "v1": "(chīn chūen) cāy chǐ",
+   "rr": "quīen chāgneû",
+   "verdict": "两皆误",
+   "ink": "(chinchien) cāy chì",
+   "note": "墨迹旁圈注为 chinchien（无长音符且第二元音为 i 非 u），主栏末字调符为 `；rr 错行至下一条。"
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "v1": "guîam chà cáĩ.",
+   "rr": "chiâ",
+   "verdict": "两皆误",
+   "ink": "quîam chà cáŭ;",
+   "note": "墨迹首字为 quîam（q 非 g），末字似 cáŭ;，rr 漏全部调符且误读末字。"
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "v1": "guīen chàgněu",
+   "rr": "chŷ",
+   "verdict": "重读对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "v1": "chiā",
+   "rr": "yâ",
+   "verdict": "重读对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "v1": "chȳ",
+   "rr": "yě",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "v1": "ya",
+   "rr": "yâ huan",
+   "verdict": "重读对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "v1": "yě",
+   "rr": "yě fàn",
+   "verdict": "两皆误",
+   "ink": "yè",
+   "note": "墨迹调符为抑音符 \\`（yè），非 ˇ（yě）。"
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "v1": "ya huān.",
+   "rr": "yâ han",
+   "verdict": "两皆误",
+   "ink": "yà huán.",
+   "note": "墨迹为 yà huán.（yà 带 \\`，huán 带 ´ 且有句点），两读调符均不符。"
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "v1": "yě fǎn",
+   "rr": "yě hān",
+   "verdict": "两皆误",
+   "ink": "yè fǎn",
+   "note": "墨迹首字为 yè（抑音符 \\`），rr 错行至下一条。"
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "v1": "ya hā̃",
+   "rr": "tǐng（划除）",
+   "verdict": "两皆误",
+   "ink": "yà hân",
+   "note": "墨迹为 yà hân（yà 带 \\`，hân 为 ^ 调符及普通字母 n）。"
+  },
+  {
+   "position": 16,
+   "field": "R",
+   "v1": "yě hān",
+   "rr": "chǒ",
+   "verdict": "两皆误",
+   "ink": "yè hān",
+   "note": "墨迹首字为 yè（抑音符 \\`），rr 错行至下一条。"
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "v1": "chēy [划删]",
+   "rr": "trǐng sè",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "墨迹被粗笔划删涂抹，字母字形辨识不清。"
+  },
+  {
+   "position": 17,
+   "field": "R",
+   "v1": "chŏ",
+   "rr": "chǒ sèng",
+   "verdict": "等价",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "v1": "chēy sē̃/",
+   "rr": "sèy",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "首字笔迹潦草难辨（似 tio3/tiog/choy），次字为 sé，难以确认全词字面。"
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "v1": "chŏ sěng",
+   "rr": "sèng",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "v1": "sēy.",
+   "rr": "gīm（划除）",
+   "verdict": "两皆误",
+   "ink": "séy.",
+   "note": "墨迹调符为锐音符 ´（séy.），非长音符 ¯ 或抑音符 \\`。"
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "v1": "sěng",
+   "rr": "gûiⁿ",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 20,
+   "field": "R",
+   "v1": "guīn",
+   "rr": "gûin sīn",
+   "verdict": "两皆误",
+   "ink": "quîn",
+   "note": "墨迹首字为 q 非 g 且调符为 ^（quîn），rr 错行至下一条。"
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "v1": "gīm: quim; fīn / lōng sū:",
+   "rr": "lòng",
+   "verdict": "两皆误",
+   "ink": "gīm: quim; siû / lōng siû:",
+   "note": "墨迹第三字与末字均为 siû（非 fīn、sū），rr 错行至下一条。"
+  },
+  {
+   "position": 21,
+   "field": "R",
+   "v1": "guīn sū",
+   "rr": "lâng",
+   "verdict": "两皆误",
+   "ink": "quîn siū",
+   "note": "墨迹为 quîn siū（首字为 q 非 g 且带 ^，次字为长 s 配 iu），rr 错行至下一条。"
+  }
+ ]
+}

@@ -1,0 +1,420 @@
+{
+ "protocol": "ADK_VERDICT_V1",
+ "page": 139,
+ "verdicts": [
+  {
+   "position": 21,
+   "field": "source_M",
+   "v1": "quea viayr",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "quĭa viuyr",
+   "note": "墨迹首词为 quĭa（非 quea），次词为 viuyr（第3字母为 u 非 a）。"
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "v1": "s",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "sĕ",
+   "note": "墨迹第2音节为完整音节 sĕ，非单字母 s。"
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "v1": "s",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "Sỳ.",
+   "note": "墨迹首音节为 Sỳ.（带重音符及句点），非单字母 s。"
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "v1": "xe",
+   "rr": "",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "第2音节声母笔画粘连，形近 t/x/s 且 e 上有折符 ^，难以确判。"
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "v1": "viayr",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "viuyr",
+   "note": "墨迹第2词作 viuyr（第3字母为 u 非 a）。"
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "v1": "viayr",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "viuyr",
+   "note": "墨迹第2词作 viuyr（第3字母为 u 非 a）。"
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "v1": "viayr",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "viuyr",
+   "note": "墨迹第2词作 viuyr（第3字母为 u 非 a）。"
+  },
+  {
+   "position": 22,
+   "field": "M",
+   "v1": "mcaya",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "en casa",
+   "note": "墨迹为西班牙语借词 en casa（长 s 被误读为 y，en 被误读为 m）。"
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "v1": "chit",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "chiĕ",
+   "note": "墨迹第2音节为 chiĕ（e 上有短音符/横符，末尾无 t）。"
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "v1": "tiām",
+   "rr": "",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "v1": "chùrh",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "chŭrt",
+   "note": "墨迹第2音节末尾为带横杠的 t（chŭrt），非 h。"
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "v1": "t",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "tÿ",
+   "note": "墨迹为完整音节 tÿ，v1 漏掉韵母 ÿ。"
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "v1": "guiia",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "quia",
+   "note": "墨迹仅单个 i（quia/guia），非双 ii（guiia）。"
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "v1": "zīn",
+   "rr": "zūn",
+   "verdict": "两皆误",
+   "ink": "zū",
+   "note": "墨迹为 zū（u 上有横符及一点），末尾并无字母 n。"
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "v1": "chiū sī.",
+   "rr": "chīū sȳ.",
+   "verdict": "两皆误",
+   "ink": "chiǔ sy̌.",
+   "note": "墨迹为 chiǔ sy̌.（u 与 y 上均为折角符 ˇ；v1 误 y 为 i，rr 误折角符为平符）。"
+  },
+  {
+   "position": 2,
+   "field": "R",
+   "v1": "chīn zīn",
+   "rr": "chīn zūn",
+   "verdict": "两皆误",
+   "ink": "chiū zū",
+   "note": "墨迹为 chiū zū（首词末为 u 非 n，次词 zū 末尾无 n）。"
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "v1": "zīn zīn",
+   "rr": "zūn zūn",
+   "verdict": "两皆误",
+   "ink": "zū zū",
+   "note": "墨迹为 zū zū（u 上有横符及一点），两词末尾均无 n。"
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "v1": "sī chī.",
+   "rr": "kīn sȳ m̄.",
+   "verdict": "两皆误",
+   "ink": "sy̌ nà.",
+   "note": "墨迹涂改部分后为 sy̌ nà.（无 chī，亦非 kīn sȳ m̄.）。"
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "v1": "zīn chit",
+   "rr": "zūn chīt",
+   "verdict": "两皆误",
+   "ink": "zū chiĕ",
+   "note": "墨迹为 zū chiĕ（首词末尾无 n，次词为 chiĕ 末尾无 t）。"
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "v1": "hia ca'",
+   "rr": "kia cà,",
+   "verdict": "两皆误",
+   "ink": "hiàn cà,",
+   "note": "墨迹首词为 hiàn（含上标鼻化 n 及重音符，非 kia），次词为 cà,。"
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "v1": "kě quiào",
+   "rr": "hē guio",
+   "verdict": "两皆误",
+   "ink": "hë quiăo",
+   "note": "墨迹首词为 hë（h 后为双点符 ë，非 kě/hē），次词为 quiăo（非 guio）。"
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "v1": "kě chīn chièn",
+   "rr": "hē chīn chièn",
+   "verdict": "两皆误",
+   "ink": "hë chǐn chiěn",
+   "note": "墨迹首词为 hë（非 kě/hē），次词 chǐn 上为折角符 ˇ。"
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "v1": "kě chīn",
+   "rr": "hē chīn",
+   "verdict": "两皆误",
+   "ink": "hë chǐn",
+   "note": "墨迹首词为 hë（非 kě/hē），次词 chǐn 上为折角符 ˇ（非平符）。"
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "v1": "hia sĕ mŷ",
+   "rr": "hia sī ng",
+   "verdict": "两皆误",
+   "ink": "hiàn sĕ nȳ",
+   "note": "墨迹首词含上标鼻化 n（hiàn），第2词为 sĕ，末词为 nȳ（非 mŷ 或 ng）。"
+  },
+  {
+   "position": 8,
+   "field": "R",
+   "v1": "kě sēŋ xiēn",
+   "rr": "hē sēng niên",
+   "verdict": "两皆误",
+   "ink": "hë sēng niên",
+   "note": "墨迹首词为带双点符的 hë（非 kě/hē），末词为 niên（非 xiēn）。"
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "v1": "sī quia chēy..",
+   "rr": "sȳ hia chhey",
+   "verdict": "两皆误",
+   "ink": "sy̌ hiàn chēy..",
+   "note": "墨迹第1词为 sy̌（非 sī），第2词为 hiàn（非 quia 且含上标 n），第3词为单 h 的 chēy..。"
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "v1": "tiām hiāŋ tō",
+   "rr": "tiām hiāng tō",
+   "verdict": "重读对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "v1": "nā sī hio chēy te",
+   "rr": "na sȳ hio chhy",
+   "verdict": "两皆误",
+   "ink": "nă sy̌ hiò chēy sén",
+   "note": "墨迹第2词为 sy̌（非 sī），第4词为单 h 的 chēy（非 chhy），末词为 sén（非 te 且 rr 遗漏）。"
+  },
+  {
+   "position": 10,
+   "field": "R",
+   "v1": "nā zīn hiāŋ sēŋ",
+   "rr": "nā zūn hiāng sēng",
+   "verdict": "两皆误",
+   "ink": "nă zū hiāng sēng",
+   "note": "墨迹第2词为 zū（末尾无 n），第1词 nă 上为短音符 ˇ。"
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "v1": "nā chyoa na",
+   "rr": "na chyoa toa",
+   "verdict": "两皆误",
+   "ink": "nă chyôa tǎ",
+   "note": "墨迹为 nă chyôa tǎ（末词首字母为 t 非 n，且仅单韵母 a 上带 ˇ）。"
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "v1": "nā chùrh tō",
+   "rr": "nā chīt tōa",
+   "verdict": "两皆误",
+   "ink": "nă chŭrt tō",
+   "note": "墨迹第2词为 chŭrt（含 u、r 且末为 t，非 chùrh/chīt），第3词为 tō（无 a）。"
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "v1": "nā chy mŷ.",
+   "rr": "na chy ng.",
+   "verdict": "两皆误",
+   "ink": "nă chý nȳ:",
+   "note": "墨迹末词为 nȳ:（首字母为 n 非 m，韵母为 y 非 g）。"
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "v1": "sÿ. hey.",
+   "rr": "sȳ bey.",
+   "verdict": "两皆误",
+   "ink": "Sỳ. tey.",
+   "note": "墨迹第2词首字母无上伸部（非 h 或 b），形近 tey.。"
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "v1": "tÿ",
+   "rr": "tí",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "v1": "chiù [残].",
+   "rr": "chiū zag.",
+   "verdict": "两皆误",
+   "ink": "chiù tăg.",
+   "note": "墨迹第1词为带重音符的 chiù（非 chiū），第2词完整可辨为 tăg.（非[残]）。"
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "v1": "chīn chō",
+   "rr": "chīn chiō",
+   "verdict": "两皆误",
+   "ink": "chiū chō",
+   "note": "墨迹首词为 chiū（末尾为 u 非 n），次词为 chō（无 i）。"
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "v1": "coù que.",
+   "rr": "cou gue.",
+   "verdict": "两皆误",
+   "ink": "coù quê.",
+   "note": "墨迹首词为 coù（有重音符），次词为 quê.（首字母为 q 非 g，e 上有折符 ^）。"
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "v1": "cù guiia",
+   "rr": "cǔn guia",
+   "verdict": "两皆误",
+   "ink": "cù quia",
+   "note": "墨迹首词为 cù（无 n），次词为单 i 的 quia/guia（非 guiia）。"
+  },
+  {
+   "position": 16,
+   "field": "R",
+   "v1": "gū",
+   "rr": "cǔn guia",
+   "verdict": "两皆误",
+   "ink": "gūi",
+   "note": "墨迹为 gūi（末尾有带点的 i，v1 漏 i，rr 错行误读）。"
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "v1": "guīa chīn",
+   "rr": "gǔi chū",
+   "verdict": "重读对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "v1": "quea viayr",
+   "rr": "guoa vicuy",
+   "verdict": "两皆误",
+   "ink": "quĭa viuyr",
+   "note": "墨迹为 quĭa viuyr（首词为 q 非 g、无 e/o；次词为 viuyr，非 viayr/vicuy）。"
+  },
+  {
+   "position": 21,
+   "field": "R",
+   "v1": "chīn chū",
+   "rr": "chī",
+   "verdict": "两皆误",
+   "ink": "chū",
+   "note": "墨迹仅有一词 chū（u 上有横符及一点，v1 多出 chīn，rr 误 u 为 i）。"
+  },
+  {
+   "position": 22,
+   "field": "M",
+   "v1": "guiā chî̈ mcaya",
+   "rr": "guia chîn mcaŷua",
+   "verdict": "两皆误",
+   "ink": "quĭa chŭ en casa",
+   "note": "墨迹为 quĭa chŭ en casa（首词为 q 非 g，次词为 chŭ 非 chî̈/chîn，后半为 en casa）。"
+  },
+  {
+   "position": 22,
+   "field": "R",
+   "v1": "chīn chū",
+   "rr": "chī chū",
+   "verdict": "两皆误",
+   "ink": "chū chū",
+   "note": "墨迹两词均作 chū（u 上有横符及一点，v1 与 rr 均误读首词）。"
+  },
+  {
+   "position": 23,
+   "field": "M",
+   "v1": "Hce:.",
+   "rr": "ke.",
+   "verdict": "两皆误",
+   "ink": "Hé:.",
+   "note": "墨迹为 Hé:.（大写 H 后直接接带重音符的 e，无 c 亦非 k）。"
+  },
+  {
+   "position": 23,
+   "field": "R",
+   "v1": "Hay",
+   "rr": "khay",
+   "verdict": "两皆误",
+   "ink": "Hāy",
+   "note": "墨迹为 Hāy（大写 H 开头且 a 上有明显平符 ¯；v1 漏平符，rr 误作 kh 且漏平符）。"
+  }
+ ]
+}

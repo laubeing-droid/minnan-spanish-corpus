@@ -1,0 +1,339 @@
+{
+ "protocol": "ADK_VERDICT_V1",
+ "page": 128,
+ "verdicts": [
+  {
+   "position": 2,
+   "field": "M",
+   "v1": "b",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "cá chúy băg,",
+   "note": "墨迹为cá chúy băg,，v1仅作b，明显残缺。"
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "v1": "l",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "cháy lūn. delang tay",
+   "note": "墨迹为cháy lūn.及旁圈注delang tay，v1仅作l，明显残缺。"
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "v1": "delang",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "cháy lūn. delang tay",
+   "note": "墨迹为cháy lūn.及旁圈注delang tay，v1仅作delang，内容残缺。"
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "v1": "chuar",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "chuăr.",
+   "note": "墨迹为chuăr.，v1漏写a上ˇ符与句点。"
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "v1": "chuar",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "chuăr biět,",
+   "note": "墨迹为chuăr biět,，v1漏写ˇ符且缺失后词biět,。"
+  },
+  {
+   "position": 2,
+   "field": "R",
+   "v1": "chum",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "quia chǔi mo",
+   "note": "墨迹为quia chǔi mo，v1仅作chum且字母与完整度均不符。"
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "v1": "peng cau,",
+   "rr": "poñgcaū,",
+   "verdict": "两皆误",
+   "ink": "péng caū,",
+   "note": "墨迹为péng caū,，v1漏写锐音符与u上长音符¯，rr错读作poñgcaū,且漏空格。"
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "v1": "reng hen",
+   "rr": "peñghên",
+   "verdict": "两皆误",
+   "ink": "reňg hên",
+   "note": "首词为reňg（或těng）后接hên，v1漏写声调符ˇ与^，rr误作p且漏空格。"
+  },
+  {
+   "position": 2,
+   "field": "M",
+   "v1": "cā chūy băg,",
+   "rr": "cachūñbaź,",
+   "verdict": "两皆误",
+   "ink": "cá chúy băg,",
+   "note": "墨迹cá与chúy上为锐音符´而非长音符¯，rr误将y作ñ、g作ź且漏空格。"
+  },
+  {
+   "position": 2,
+   "field": "R",
+   "v1": "quin chum mo",
+   "rr": "guiñ chǔñ mo",
+   "verdict": "两皆误",
+   "ink": "quia chǔi mo",
+   "note": "墨迹为quia chǔi mo，v1与rr均将quia误作quin/guiñ、将chǔi误作chum/chǔñ。"
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "v1": "mūy cuan",
+   "rr": "muñgcūañ",
+   "verdict": "两皆误",
+   "ink": "mūy cuán.",
+   "note": "v1漏写a上锐音符´与句点，rr误将y作ñg且声调符与空格不符。"
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "v1": "muen cuan",
+   "rr": "miêncüan",
+   "verdict": "两皆误",
+   "ink": "muên cuǎn",
+   "note": "v1漏写e上^与a上ˇ，rr误将muên作miên、cuǎn作cüan且漏空格。"
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "v1": "chai lün. delang tay",
+   "rr": "chāilūn",
+   "verdict": "两皆误",
+   "ink": "cháy lūn. delang tay",
+   "note": "墨迹首词作cháy且lūn上为长音符¯，v1作chai lün.，rr作chāilūn且漏旁注。"
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "v1": "Tâ.",
+   "rr": "ha.",
+   "verdict": "两皆误",
+   "ink": "Tá.",
+   "note": "墨迹a上为锐音符´而非^，v1作Tâ.，rr误作ha.。"
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "v1": "ha",
+   "rr": "lòncīnsī",
+   "verdict": "两皆误",
+   "ink": "tǎ",
+   "note": "墨迹为tǎ，v1误作ha，rr错行取了第8行R栏。"
+  },
+  {
+   "position": 8,
+   "field": "R",
+   "v1": "lau cou sy",
+   "rr": "chǒa",
+   "verdict": "两皆误",
+   "ink": "lòn cù sȳ",
+   "note": "墨迹为lòn cù sȳ，v1误作lau cou sy，rr错行取了第9行R栏。"
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "v1": "cang cau log",
+   "rr": "cañ cañgī laź",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "M栏原字被重笔涂划抹去，旁栏及左栏另有补注，两读均无法与M栏准确对应。"
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "v1": "choa",
+   "rr": "chǒa gǔīlaź",
+   "verdict": "两皆误",
+   "ink": "chǒa",
+   "note": "v1漏写o上ˇ符，rr错行取了第10行R栏。"
+  },
+  {
+   "position": 10,
+   "field": "R",
+   "v1": "choa gin lay",
+   "rr": "chǒa pō",
+   "verdict": "两皆误",
+   "ink": "chǒa gǔi lây",
+   "note": "v1误将gǔi作gin且漏声调符，rr错行取了第11行R栏。"
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "v1": "cang cha",
+   "rr": "cañgǒ",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "M栏文字被粗笔涂抹划去，难以确切辨识，且v1与rr均不符。"
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "v1": "choa po",
+   "rr": "pō",
+   "verdict": "两皆误",
+   "ink": "chǒa pō",
+   "note": "v1漏写声调符ˇ与¯，rr错行取了第12行R栏。"
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "v1": "poa",
+   "rr": "pō liē",
+   "verdict": "两皆误",
+   "ink": "pōa",
+   "note": "v1漏写o上长音符¯，rr错行取了第13行R栏。"
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "v1": "pe ly",
+   "rr": "peç lý",
+   "verdict": "两皆误",
+   "ink": "pě lỹ",
+   "note": "v1漏写e与y上元音符，rr多出不存在的ç且声调符不符。"
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "v1": "poa lie",
+   "rr": "màn",
+   "verdict": "两皆误",
+   "ink": "pōa liē",
+   "note": "v1漏写两处长音符¯，rr错行取了第14行R栏。"
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "v1": "ban, bian bin",
+   "rr": "bān bān bìn",
+   "verdict": "两皆误",
+   "ink": "bàn, bàn biň",
+   "note": "v1误将第二个bàn作bian且漏声调符，rr漏逗号且声调符均与墨迹不符。"
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "v1": "man",
+   "rr": "màngǔīlaź",
+   "verdict": "两皆误",
+   "ink": "màn",
+   "note": "v1漏写a上抑音符`，rr错行取了第15行R栏。"
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "v1": "ban gui lay.",
+   "rr": "bāngǔīlaź",
+   "verdict": "两皆误",
+   "ink": "bàn quŷ lāy.",
+   "note": "墨迹为bàn quŷ lāy.，v1作gui且漏声调符，rr误作bāngǔīlaź且漏空格与句点。"
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "v1": "man gin lay",
+   "rr": "mànmiēn",
+   "verdict": "两皆误",
+   "ink": "màn gǔi lây",
+   "note": "v1误将gǔi作gin且漏声调符，rr错行取了第16行R栏。"
+  },
+  {
+   "position": 16,
+   "field": "R",
+   "v1": "man mien",
+   "rr": "chüē",
+   "verdict": "两皆误",
+   "ink": "màn miēn",
+   "note": "v1漏写抑音符`与长音符¯，rr错行取了第17行R栏。"
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "v1": "chuar.",
+   "rr": "chuàź",
+   "verdict": "两皆误",
+   "ink": "chuăr.",
+   "note": "v1漏写a上ˇ符，rr误将r作ź、声调符作`且漏句点。"
+  },
+  {
+   "position": 17,
+   "field": "R",
+   "v1": "chue",
+   "rr": "chüēmiē",
+   "verdict": "两皆误",
+   "ink": "chüē",
+   "note": "v1漏写u上两点与e上长音符，rr错行取了第18行R栏。"
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "v1": "chuar biet,",
+   "rr": "chuàźbiēź",
+   "verdict": "两皆误",
+   "ink": "chuăr biět,",
+   "note": "v1漏写两处ˇ符，rr误将r与t作ź、声调符不符且漏空格与逗号。"
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "v1": "chue mie",
+   "rr": "hiān",
+   "verdict": "两皆误",
+   "ink": "chüē miē",
+   "note": "v1漏写全部元音符，rr错行取了第19行R栏。"
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "v1": "hian",
+   "rr": "chǔñ",
+   "verdict": "两皆误",
+   "ink": "hiān",
+   "note": "v1漏写a上长音符¯，rr错行取了第20行R栏。"
+  },
+  {
+   "position": 20,
+   "field": "R",
+   "v1": "chu",
+   "rr": "chǔ chàñ çēū",
+   "verdict": "两皆误",
+   "ink": "chŷ",
+   "note": "墨迹为chŷ（带^及右上标c），v1误作chu，rr错行取了第21行R栏。"
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "v1": "Tū chau thau",
+   "rr": "tū chàu çēū",
+   "verdict": "两皆误",
+   "ink": "Tū chău zēu",
+   "note": "v1误将末词作thau且漏ˇ与¯，rr首字母小写且chàu/çēū与墨迹带横杠z/Z形不符。"
+  },
+  {
+   "position": 21,
+   "field": "R",
+   "v1": "chu chay çeu",
+   "rr": "chǔgǔīñ",
+   "verdict": "两皆误",
+   "ink": "chŷ chày çēu",
+   "note": "v1误将chŷ作chu且漏全部元音符，rr错行取了第22行R栏。"
+  }
+ ]
+}

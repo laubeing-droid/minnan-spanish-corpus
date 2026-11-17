@@ -1,0 +1,213 @@
+{
+ "protocol": "ADK_VERDICT_V1",
+ "page": 167,
+ "verdicts": [
+  {
+   "position": 14,
+   "field": "M",
+   "v1": "hier",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "hiěr",
+   "note": "墨迹 hier 上方有 ˇ 符，v1 漏注声调符。"
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "v1": "cur",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "cûr",
+   "note": "墨迹 cur 上方有扬抑符 ^，v1 漏注。"
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "v1": "oyo",
+   "rr": "",
+   "verdict": "V1对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 2,
+   "field": "R",
+   "v1": "pày quó",
+   "rr": "pay guio",
+   "verdict": "两皆误",
+   "ink": "pày quiō",
+   "note": "墨迹为 pày quiō，v1 漏 i 且误作 ó，重读误作 g 且漏声调符。"
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "v1": "çīn chúēn",
+   "rr": "zin chuèn",
+   "verdict": "两皆误",
+   "ink": "zīn chuến",
+   "note": "墨迹首字为 z 带调符，次词重音在 e（带 ^/´ 与上标 c），v1 与重读均不符。"
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "v1": "Sáy hoi chūn.",
+   "rr": "say tǒi chùn",
+   "verdict": "两皆误",
+   "ink": "sày tǒu chūn.",
+   "note": "墨迹为 sày tǒu chūn.，v1 误作 Sáy hoi，重读误作 tǒi chùn。"
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "v1": "çīn oi chūēn",
+   "rr": "zin tǒi chuèn",
+   "verdict": "两皆误",
+   "ink": "zīn tū chuến",
+   "note": "墨迹首字为 z，次词为 tū（非 oi 或 tǒi），末词重音在 e 而非 ūē/è。"
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "v1": "chat say chat.",
+   "rr": "chaⁿ say chaⁿ",
+   "verdict": "两皆误",
+   "ink": "chát say chát.",
+   "note": "墨迹两处 chát 均带尖音符与上标 c 且末字为 t，v1 漏调符，重读误作 ⁿ。"
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "v1": "chat chiô.",
+   "rr": "chàn chioⁿ",
+   "verdict": "两皆误",
+   "ink": "chát chiǒn.",
+   "note": "墨迹首词为带调符的 chát（非 chàn），次词 o 上兼有 ˇ 与鼻化符。"
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "v1": "Sáy chat.",
+   "rr": "say chàⁿ",
+   "verdict": "两皆误",
+   "ink": "sày chát.",
+   "note": "墨迹首词为抑音符 sày，次词末字为 t 且带尖音符与上标 c。"
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "v1": "çīn chie",
+   "rr": "zin chiē",
+   "verdict": "两皆误",
+   "ink": "zīn chiē",
+   "note": "墨迹首词 zīn 带声调符，次词 e 上带长音符 ¯ 与上标 c，v1 与重读各漏其一。"
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "v1": "gūn tiāu.",
+   "rr": "gīn tiaō",
+   "verdict": "两皆误",
+   "ink": "gīn tiāu.",
+   "note": "墨迹首词为 gīn（v1 误作 gūn），次词末字为 u 而非 o（重读误作 tiaō）。"
+  },
+  {
+   "position": 8,
+   "field": "R",
+   "v1": "in tiâu",
+   "rr": "inèn tiān",
+   "verdict": "两皆误",
+   "ink": "inên tiâu",
+   "note": "墨迹为 inên tiâu，v1 漏 ên，重读误作 inèn tiān。"
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "v1": "piã gūn.",
+   "rr": "piaⁿ gīn",
+   "verdict": "两皆误",
+   "ink": "piàn gīn.",
+   "note": "墨迹首词 a 上兼有抑音符 ` 与鼻化符，次词为 gīn.（v1 误作 gūn，重读漏 `）。"
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "v1": "pin in",
+   "rr": "pìn inèn",
+   "verdict": "两皆误",
+   "ink": "pìn inên",
+   "note": "墨迹为 pìn inên，e 上为扬抑符 ^ 而非重读的抑音符 `（v1 漏 ên 与调符）。"
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "v1": "ty púe.",
+   "rr": "tyⁿ pue",
+   "verdict": "墨迹不明",
+   "ink": "",
+   "note": "ty 上方有涂抹叉号与上标 c，原字面符残损难定。"
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "v1": "ty py.iog.",
+   "rr": "tyⁿ py. iog.",
+   "verdict": "两皆误",
+   "ink": "ty py. iõg.",
+   "note": "ty 上方有涂抹叉号与上标 c，且 iog 上方带有鼻化/曲折符，v1 与重读均未忠实照录。"
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "v1": "oān mûen",
+   "rr": "oū mǔèn",
+   "verdict": "重读对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "v1": "Hiet.",
+   "rr": "hiēr",
+   "verdict": "两皆误",
+   "ink": "Hiěr",
+   "note": "墨迹首字母大写 H、末字无横画似 r 且上方有 ˇ/c 符，无句点，两读均不符。"
+  },
+  {
+   "position": 16,
+   "field": "R",
+   "v1": "cen hian",
+   "rr": "tèin hiān",
+   "verdict": "两皆误",
+   "ink": "tèu hiān",
+   "note": "墨迹首词为 tèu（v1 误作 cen，重读多读 i），次词为 hiān。"
+  },
+  {
+   "position": 17,
+   "field": "R",
+   "v1": "çuen",
+   "rr": "zùèn",
+   "verdict": "重读对",
+   "ink": "",
+   "note": ""
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "v1": "guan cang. poã cúy.",
+   "rr": "guan caⁿ, poa: cuy",
+   "verdict": "两皆误",
+   "ink": "Guǎn cáng poan: chuyn",
+   "note": "墨迹为 Guǎn cáng 与 poan: chuyn（右旁尚有 măn cǔy.），两读均漏 chuy 中的 h 与鼻化符。"
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "v1": "çuen cong",
+   "rr": "zùèncāng",
+   "verdict": "两皆误",
+   "ink": "zùèncǒng",
+   "note": "墨迹为 zùèncǒng（末音节元音为 o 带 ˇ 符，重读误作 ā，v1 漏调符）。"
+  }
+ ]
+}
