@@ -8,6 +8,7 @@
     "候选汉字未完成独立复核",
     "拉丁字母可能包含西语旁注",
     "声调变体保留原文",
+    "上置或修饰字母按原字符保留",
     "音节拆分差异未裁定"
   ],
   "targets": [
@@ -5359,17 +5360,8 @@
       "hanzi_raw": "炮",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "pan"
-          ],
-          "source_ids": [
-            "0237:3:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 241,
@@ -14892,17 +14884,8 @@
       "hanzi_raw": "邊",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "pien"
-          ],
-          "source_ids": [
-            "0164:9:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 489,
@@ -18106,17 +18089,8 @@
       "hanzi_raw": "邊",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "pien"
-          ],
-          "source_ids": [
-            "0164:9:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 505,
@@ -25285,7 +25259,6 @@
             "chui"
           ],
           "source_ids": [
-            "0046:3:R",
             "0267:16:R"
           ]
         }
@@ -25712,7 +25685,6 @@
             "chui"
           ],
           "source_ids": [
-            "0046:3:R",
             "0267:16:R"
           ]
         }
@@ -36563,17 +36535,8 @@
       "hanzi_raw": "桃",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "ton"
-          ],
-          "source_ids": [
-            "0407:14:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 592,
@@ -36748,17 +36711,8 @@
       "hanzi_raw": "邊",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "pien"
-          ],
-          "source_ids": [
-            "0164:9:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 593,
@@ -38448,18 +38402,8 @@
       "hanzi_raw": "經魁",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "queng",
-            "cui"
-          ],
-          "source_ids": [
-            "0045:4:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 602,
@@ -40070,18 +40014,8 @@
       "hanzi_raw": "可",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "co"
-          ],
-          "source_ids": [
-            "0301:9:R",
-            "0301:11:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 610,
@@ -43062,7 +42996,6 @@
             "pien"
           ],
           "source_ids": [
-            "0164:8:R",
             "0348:4:R"
           ]
         }
@@ -48345,18 +48278,8 @@
       "hanzi_raw": "可",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "co"
-          ],
-          "source_ids": [
-            "0301:9:R",
-            "0301:11:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 650,
@@ -50175,17 +50098,8 @@
       "hanzi_raw": "桃",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "ton"
-          ],
-          "source_ids": [
-            "0407:14:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 659,
@@ -51360,18 +51274,8 @@
       "hanzi_raw": "可",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "co"
-          ],
-          "source_ids": [
-            "0301:9:R",
-            "0301:11:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 664,
@@ -53510,7 +53414,6 @@
             "pien"
           ],
           "source_ids": [
-            "0164:8:R",
             "0348:4:R"
           ]
         }
@@ -57322,17 +57225,8 @@
       "hanzi_raw": "城",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "cheng"
-          ],
-          "source_ids": [
-            "0247:5:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 692,
@@ -63105,7 +62999,6 @@
             "chui"
           ],
           "source_ids": [
-            "0046:3:R",
             "0267:16:R"
           ]
         }
@@ -66898,17 +66791,8 @@
       "hanzi_raw": "邊",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "pien"
-          ],
-          "source_ids": [
-            "0164:9:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 738,
@@ -74724,7 +74608,6 @@
             "pien"
           ],
           "source_ids": [
-            "0164:8:R",
             "0348:4:R"
           ]
         }
@@ -79475,18 +79358,8 @@
       "hanzi_raw": "訴 詞",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "zun",
-            "chu"
-          ],
-          "source_ids": [
-            "0114:5:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 801,
@@ -82742,18 +82615,8 @@
       "hanzi_raw": "可",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "co"
-          ],
-          "source_ids": [
-            "0301:9:R",
-            "0301:11:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 817,
@@ -91870,7 +91733,6 @@
             "van"
           ],
           "source_ids": [
-            "0395:9:R",
             "0435:10:R"
           ]
         }
@@ -93114,19 +92976,8 @@
       "hanzi_raw": "貼到幾",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "tie",
-            "ton",
-            "gui"
-          ],
-          "source_ids": [
-            "0100:18:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 866,
@@ -95126,17 +94977,8 @@
       "hanzi_raw": "城",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "cheng"
-          ],
-          "source_ids": [
-            "0247:5:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 878,
@@ -95591,18 +95433,8 @@
       "hanzi_raw": "可",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "co"
-          ],
-          "source_ids": [
-            "0301:9:R",
-            "0301:11:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 880,
@@ -95655,18 +95487,8 @@
       "hanzi_raw": "可",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "co"
-          ],
-          "source_ids": [
-            "0301:9:R",
-            "0301:11:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 881,
@@ -123922,18 +123744,8 @@
       "hanzi_raw": "可",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "co"
-          ],
-          "source_ids": [
-            "0301:9:R",
-            "0301:11:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 1027,
@@ -125191,17 +125003,8 @@
       "hanzi_raw": "桃",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "ton"
-          ],
-          "source_ids": [
-            "0407:14:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 1033,
@@ -132953,17 +132756,8 @@
       "hanzi_raw": "邊",
       "current": "[空]",
       "auto_fill": false,
-      "candidate_groups": [
-        {
-          "syllables": [
-            "pien"
-          ],
-          "source_ids": [
-            "0164:9:R"
-          ]
-        }
-      ],
-      "status": "一个候选音节组，定位未证"
+      "candidate_groups": [],
+      "status": "无候选来源"
     },
     {
       "page": 1071,
@@ -139798,7 +139592,6 @@
             "pien"
           ],
           "source_ids": [
-            "0164:8:R",
             "0348:4:R"
           ]
         }

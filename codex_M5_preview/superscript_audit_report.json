@@ -1,0 +1,2294 @@
+{
+  "status": "旧预览的规范化风险统计；均不是已证错误，不可自动填充。",
+  "input_version": "7c38bb8310f4fd5aa16adaee5f88488dccf8749d",
+  "input_sha256": {
+    "candidate_sources.json": "af124e679813b04dcf333e8bffe0cb405a2bdd6600a6f5ccbdcdafc83f06e4b5",
+    "candidate_targets.json": "7e49c4eeb89ebf7da61238e6827bfaacd3a00d9ad430f13770d5b11f0c78a0e0"
+  },
+  "definition": "将 Unicode 名称含 SUPERSCRIPT 或 MODIFIER LETTER 且 isalpha 的字符作集合；比较 V1、重读集合。字符性质需核原图，集合统计不检测同字符次数差异。",
+  "counts": {
+    "candidate_sources": 6813,
+    "sources_with_special_chars": 101,
+    "M": 55,
+    "R": 46,
+    "v1_rr_sets_differ": 99,
+    "targets_with_flagged_source": 29,
+    "targets_with_only_flagged_sources": 21,
+    "affected_targets_by_status": {
+      "一个候选音节组，定位未证": 29
+    },
+    "affected_targets_by_field": {
+      "R": 29
+    },
+    "special_char_counts_in_v1_and_rr_sets": {
+      "ᶜ": 46,
+      "ⁿ": 36,
+      "ᵛ": 6,
+      "ᵉ": 2,
+      "ᵏ": 2,
+      "ᵗ": 4,
+      "ʻ": 1,
+      "ʰ": 5,
+      "ᵒ": 1,
+      "ʿ": 1,
+      "ᵐ": 2
+    }
+  },
+  "sources": [
+    {
+      "id": "0043:14:M",
+      "page": 43,
+      "position": 14,
+      "field": "M",
+      "hanzi": "偶湊",
+      "v1": "ngòu chaûᶜ.",
+      "rr": "ngoû chāù.",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "ngouchau",
+      "rr_soup": "ngouchau",
+      "rr_ordinal": 14,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0043.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0043.json"
+    },
+    {
+      "id": "0043:14:R",
+      "page": 43,
+      "position": 14,
+      "field": "R",
+      "hanzi": "偶湊",
+      "v1": "ngòu cheùᶜ",
+      "rr": "ngòù cheù.",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "ngoucheu",
+      "rr_soup": "ngoucheu",
+      "rr_ordinal": 14,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0043.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0043.json"
+    },
+    {
+      "id": "0045:4:M",
+      "page": 45,
+      "position": 4,
+      "field": "M",
+      "hanzi": "經魁",
+      "v1": "quêng cuéᶜ",
+      "rr": "quêng cuě",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "quengcue",
+      "rr_soup": "quengcue",
+      "rr_ordinal": 4,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0045.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0045.json"
+    },
+    {
+      "id": "0045:4:R",
+      "page": 45,
+      "position": 4,
+      "field": "R",
+      "hanzi": "經魁",
+      "v1": "quěng cuǐᶜ",
+      "rr": "quēng cùi",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "quengcui",
+      "rr_soup": "quengcui",
+      "rr_ordinal": 4,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0045.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0045.json"
+    },
+    {
+      "id": "0046:21:M",
+      "page": 46,
+      "position": 21,
+      "field": "M",
+      "hanzi": "點醒",
+      "v1": "tiàm chêᶜ²",
+      "rr": "tiàm ché",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "tiamche",
+      "rr_soup": "tiamche",
+      "rr_ordinal": 21,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0046.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0046.json"
+    },
+    {
+      "id": "0046:2:R",
+      "page": 46,
+      "position": 2,
+      "field": "R",
+      "hanzi": "陪隨",
+      "v1": "pūi chûiᶜ",
+      "rr": "pūi chúi",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "puichui",
+      "rr_soup": "puichui",
+      "rr_ordinal": 2,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0046.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0046.json"
+    },
+    {
+      "id": "0046:3:R",
+      "page": 46,
+      "position": 3,
+      "field": "R",
+      "hanzi": "隨",
+      "v1": "chûiᶜ",
+      "rr": "chúi",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "chui",
+      "rr_soup": "chui",
+      "rr_ordinal": 3,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0046.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0046.json"
+    },
+    {
+      "id": "0047:14:M",
+      "page": 47,
+      "position": 14,
+      "field": "M",
+      "hanzi": "操煉",
+      "v1": "chôᶜ liēn",
+      "rr": "chô liè᷄n.",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "cholien",
+      "rr_soup": "cholien",
+      "rr_ordinal": 14,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0047.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0047.json"
+    },
+    {
+      "id": "0047:19:M",
+      "page": 47,
+      "position": 19,
+      "field": "M",
+      "hanzi": "綑打",
+      "v1": "cùn pá",
+      "rr": "cu᷄n pa ᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "cunpa",
+      "rr_soup": "cunpa",
+      "rr_ordinal": 19,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0047.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0047.json"
+    },
+    {
+      "id": "0048:9:R",
+      "page": 48,
+      "position": 9,
+      "field": "R",
+      "hanzi": "添",
+      "v1": "Tiěnᶜ",
+      "rr": "Tiēn",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "tien",
+      "rr_soup": "tien",
+      "rr_ordinal": 9,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0048.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0048.json"
+    },
+    {
+      "id": "0049:13:R",
+      "page": 49,
+      "position": 13,
+      "field": "R",
+      "hanzi": "糖",
+      "v1": "tângᶜ",
+      "rr": "tâng",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "tang",
+      "rr_soup": "tang",
+      "rr_ordinal": 13,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0049.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0049.json"
+    },
+    {
+      "id": "0050:16:M",
+      "page": 50,
+      "position": 16,
+      "field": "M",
+      "hanzi": "搯",
+      "v1": "chiāuᶜ",
+      "rr": "chiaū",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "chiau",
+      "rr_soup": "chiau",
+      "rr_ordinal": 16,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0050.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0050.json"
+    },
+    {
+      "id": "0051:22:M",
+      "page": 51,
+      "position": 22,
+      "field": "M",
+      "hanzi": "完籤",
+      "v1": "vān chiámᶜ",
+      "rr": "vān chiam",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "vanchiam",
+      "rr_soup": "vanchiam",
+      "rr_ordinal": 22,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0051.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0051.json"
+    },
+    {
+      "id": "0052:1:R",
+      "page": 52,
+      "position": 1,
+      "field": "R",
+      "hanzi": "拆卦",
+      "v1": "chêᶜ cūa",
+      "rr": "chē cùa",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "checua",
+      "rr_soup": "checua",
+      "rr_ordinal": 1,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0052.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0052.json"
+    },
+    {
+      "id": "0054:8:R",
+      "page": 54,
+      "position": 8,
+      "field": "R",
+      "hanzi": "諂",
+      "v1": "chiămᶜ",
+      "rr": "chîam",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "chiam",
+      "rr_soup": "chiam",
+      "rr_ordinal": 8,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0054.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0054.json"
+    },
+    {
+      "id": "0059:8:M",
+      "page": 59,
+      "position": 8,
+      "field": "M",
+      "hanzi": "現在",
+      "v1": "hiěn chǎy.",
+      "rr": "hiēⁿchāy",
+      "v1_marks": [],
+      "rr_marks": [
+        "ⁿ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "hienchay",
+      "rr_soup": "hienchay",
+      "rr_ordinal": 8,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0059.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0059.json"
+    },
+    {
+      "id": "0073:12:M",
+      "page": 73,
+      "position": 12,
+      "field": "M",
+      "hanzi": "哀慘",
+      "v1": "áy chàmᶜ,",
+      "rr": "ay châm.",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "aycham",
+      "rr_soup": "aycham",
+      "rr_ordinal": 12,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0073.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0073.json"
+    },
+    {
+      "id": "0073:4:R",
+      "page": 73,
+      "position": 4,
+      "field": "R",
+      "hanzi": "戈",
+      "v1": "cǒᶜ",
+      "rr": "cǒ.",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "co",
+      "rr_soup": "co",
+      "rr_ordinal": 4,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0073.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0073.json"
+    },
+    {
+      "id": "0074:10:M",
+      "page": 74,
+      "position": 10,
+      "field": "M",
+      "hanzi": "肉員",
+      "v1": "bá ōan",
+      "rr": "bà oaⁿ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ⁿ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "baoan",
+      "rr_soup": "baoan",
+      "rr_ordinal": 10,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0074.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0074.json"
+    },
+    {
+      "id": "0082:7:M",
+      "page": 82,
+      "position": 7,
+      "field": "M",
+      "hanzi": "魄",
+      "v1": "Peg",
+      "rr": "Pêgᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "peg",
+      "rr_soup": "peg",
+      "rr_ordinal": 7,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json"
+    },
+    {
+      "id": "0082:8:M",
+      "page": 82,
+      "position": 8,
+      "field": "M",
+      "hanzi": "魄魂",
+      "v1": "hūn peg",
+      "rr": "hūn pegᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "hunpeg",
+      "rr_soup": "hunpeg",
+      "rr_ordinal": 8,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json"
+    },
+    {
+      "id": "0082:9:M",
+      "page": 82,
+      "position": 9,
+      "field": "M",
+      "hanzi": "冤魂鬼",
+      "v1": "oán hūn cǔy. +",
+      "rr": "oán hūn cuyᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "oanhuncuy",
+      "rr_soup": "oanhuncuy",
+      "rr_ordinal": 9,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json"
+    },
+    {
+      "id": "0082:13:M",
+      "page": 82,
+      "position": 13,
+      "field": "M",
+      "hanzi": "庫",
+      "v1": "coû",
+      "rr": "couᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "cou",
+      "rr_soup": "cou",
+      "rr_ordinal": 13,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json"
+    },
+    {
+      "id": "0082:14:M",
+      "page": 82,
+      "position": 14,
+      "field": "M",
+      "hanzi": "庫裡",
+      "v1": "coû lý",
+      "rr": "couᶜ lyᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "couly",
+      "rr_soup": "couly",
+      "rr_ordinal": 14,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json"
+    },
+    {
+      "id": "0082:15:M",
+      "page": 82,
+      "position": 15,
+      "field": "M",
+      "hanzi": "庫房",
+      "v1": "coû pāng.",
+      "rr": "couᶜ pang",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "coupang",
+      "rr_soup": "coupang",
+      "rr_ordinal": 15,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json"
+    },
+    {
+      "id": "0082:16:M",
+      "page": 82,
+      "position": 16,
+      "field": "M",
+      "hanzi": "庫官",
+      "v1": "coû cua",
+      "rr": "couᶜ cuā",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "coucua",
+      "rr_soup": "coucua",
+      "rr_ordinal": 16,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json"
+    },
+    {
+      "id": "0082:17:M",
+      "page": 82,
+      "position": 17,
+      "field": "M",
+      "hanzi": "倉庫",
+      "v1": "chóng coû",
+      "rr": "chong couᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "chongcou",
+      "rr_soup": "chongcou",
+      "rr_ordinal": 17,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json"
+    },
+    {
+      "id": "0082:7:R",
+      "page": 82,
+      "position": 7,
+      "field": "R",
+      "hanzi": "魄",
+      "v1": "pē",
+      "rr": "pēᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "pe",
+      "rr_soup": "pe",
+      "rr_ordinal": 7,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json"
+    },
+    {
+      "id": "0082:8:R",
+      "page": 82,
+      "position": 8,
+      "field": "R",
+      "hanzi": "魄魂",
+      "v1": "hûn pē",
+      "rr": "hûn pēᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "hunpe",
+      "rr_soup": "hunpe",
+      "rr_ordinal": 8,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json"
+    },
+    {
+      "id": "0082:13:R",
+      "page": 82,
+      "position": 13,
+      "field": "R",
+      "hanzi": "庫",
+      "v1": "cū",
+      "rr": "cûᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "cu",
+      "rr_soup": "cu",
+      "rr_ordinal": 13,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json"
+    },
+    {
+      "id": "0082:14:R",
+      "page": 82,
+      "position": 14,
+      "field": "R",
+      "hanzi": "庫裡",
+      "v1": "cū lý",
+      "rr": "cû lyᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "culy",
+      "rr_soup": "culy",
+      "rr_ordinal": 14,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json"
+    },
+    {
+      "id": "0082:17:R",
+      "page": 82,
+      "position": 17,
+      "field": "R",
+      "hanzi": "倉庫",
+      "v1": "chăng cū",
+      "rr": "chang cûᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "changcu",
+      "rr_soup": "changcu",
+      "rr_ordinal": 17,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json"
+    },
+    {
+      "id": "0082:18:R",
+      "page": 82,
+      "position": 18,
+      "field": "R",
+      "hanzi": "城隙",
+      "v1": "chêng gūi",
+      "rr": "cheng guîᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "chenggui",
+      "rr_soup": "chenggui",
+      "rr_ordinal": 18,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json"
+    },
+    {
+      "id": "0100:16:R",
+      "page": 100,
+      "position": 16,
+      "field": "R",
+      "hanzi": "架添",
+      "v1": "guiā tiěⁿ",
+      "rr": "guiā tiēn",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "guiatien",
+      "rr_soup": "guiatien",
+      "rr_ordinal": 16,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0100.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0100.json"
+    },
+    {
+      "id": "0100:18:R",
+      "page": 100,
+      "position": 18,
+      "field": "R",
+      "hanzi": "貼到幾",
+      "v1": "tiě tōⁿ guǐ",
+      "rr": "tie ton gui",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "tietongui",
+      "rr_soup": "tietongui",
+      "rr_ordinal": 18,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0100.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0100.json"
+    },
+    {
+      "id": "0103:15:M",
+      "page": 103,
+      "position": 15,
+      "field": "M",
+      "hanzi": "膽",
+      "v1": "tāñ.",
+      "rr": "tàⁿ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ⁿ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "tan",
+      "rr_soup": "tan",
+      "rr_ordinal": 15,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0103.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0103.json"
+    },
+    {
+      "id": "0103:17:M",
+      "page": 103,
+      "position": 17,
+      "field": "M",
+      "hanzi": "膽大",
+      "v1": "tāñ tōa",
+      "rr": "tàⁿ tōa",
+      "v1_marks": [],
+      "rr_marks": [
+        "ⁿ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "tantoa",
+      "rr_soup": "tantoa",
+      "rr_ordinal": 17,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0103.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0103.json"
+    },
+    {
+      "id": "0110:4:M",
+      "page": 110,
+      "position": 4,
+      "field": "M",
+      "hanzi": "具",
+      "v1": "cuᵛ·",
+      "rr": "cū",
+      "v1_marks": [
+        "ᵛ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "cu",
+      "rr_soup": "cu",
+      "rr_ordinal": 4,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0110.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0110.json"
+    },
+    {
+      "id": "0110:9:M",
+      "page": 110,
+      "position": 9,
+      "field": "M",
+      "hanzi": "辨",
+      "v1": "Panᵛ·",
+      "rr": "pân",
+      "v1_marks": [
+        "ᵛ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "pan",
+      "rr_soup": "pan",
+      "rr_ordinal": 9,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0110.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0110.json"
+    },
+    {
+      "id": "0110:10:M",
+      "page": 110,
+      "position": 10,
+      "field": "M",
+      "hanzi": "辨茶",
+      "v1": "panᵛ tē·",
+      "rr": "pân tê",
+      "v1_marks": [
+        "ᵛ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "pante",
+      "rr_soup": "pante",
+      "rr_ordinal": 10,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0110.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0110.json"
+    },
+    {
+      "id": "0110:11:M",
+      "page": 110,
+      "position": 11,
+      "field": "M",
+      "hanzi": "辨便",
+      "v1": "panᵛ piēnᵛ·",
+      "rr": "pân piēn",
+      "v1_marks": [
+        "ᵛ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "panpien",
+      "rr_soup": "panpien",
+      "rr_ordinal": 11,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0110.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0110.json"
+    },
+    {
+      "id": "0110:18:M",
+      "page": 110,
+      "position": 18,
+      "field": "M",
+      "hanzi": "便",
+      "v1": "piēnᵛ·",
+      "rr": "piēn",
+      "v1_marks": [
+        "ᵛ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "pien",
+      "rr_soup": "pien",
+      "rr_ordinal": 18,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0110.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0110.json"
+    },
+    {
+      "id": "0110:20:M",
+      "page": 110,
+      "position": 20,
+      "field": "M",
+      "hanzi": "遇便",
+      "v1": "guᵛ pienᵛ",
+      "rr": "gū piēn",
+      "v1_marks": [
+        "ᵛ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "gupien",
+      "rr_soup": "gupien",
+      "rr_ordinal": 20,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0110.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0110.json"
+    },
+    {
+      "id": "0110:10:R",
+      "page": 110,
+      "position": 10,
+      "field": "R",
+      "hanzi": "辨茶",
+      "v1": "piēn châᶜ",
+      "rr": "piēn châ",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "piencha",
+      "rr_soup": "piencha",
+      "rr_ordinal": 10,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0110.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0110.json"
+    },
+    {
+      "id": "0113:14:M",
+      "page": 113,
+      "position": 14,
+      "field": "M",
+      "hanzi": "另居",
+      "v1": "lèng ᵏᵉ guìa",
+      "rr": "leng guia",
+      "v1_marks": [
+        "ᵉ",
+        "ᵏ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "lengguia",
+      "rr_soup": "lengguia",
+      "rr_ordinal": 14,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0113.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0113.json"
+    },
+    {
+      "id": "0113:15:M",
+      "page": 113,
+      "position": 15,
+      "field": "M",
+      "hanzi": "走樣",
+      "v1": "chàu ᵏᵉ yo",
+      "rr": "chaù yo",
+      "v1_marks": [
+        "ᵉ",
+        "ᵏ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "chauyo",
+      "rr_soup": "chauyo",
+      "rr_ordinal": 15,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0113.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0113.json"
+    },
+    {
+      "id": "0113:9:R",
+      "page": 113,
+      "position": 9,
+      "field": "R",
+      "hanzi": "退邊",
+      "v1": "hùi piēⁿ",
+      "rr": "hùi piēn",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "huipien",
+      "rr_soup": "huipien",
+      "rr_ordinal": 9,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0113.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0113.json"
+    },
+    {
+      "id": "0114:5:R",
+      "page": 114,
+      "position": 5,
+      "field": "R",
+      "hanzi": "訴詞",
+      "v1": "zûn chü.",
+      "rr": "zūn chûᵗ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᵗ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "zunchu",
+      "rr_soup": "zunchu",
+      "rr_ordinal": 5,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0114.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0114.json"
+    },
+    {
+      "id": "0115:3:R",
+      "page": 115,
+      "position": 3,
+      "field": "R",
+      "hanzi": "匾",
+      "v1": "pìⁿ",
+      "rr": "pīn",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "pin",
+      "rr_soup": "pin",
+      "rr_ordinal": 3,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0115.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0115.json"
+    },
+    {
+      "id": "0163:9:M",
+      "page": 163,
+      "position": 9,
+      "field": "M",
+      "hanzi": "繒排",
+      "v1": "chân pāŷ",
+      "rr": "chaⁿ pāy",
+      "v1_marks": [],
+      "rr_marks": [
+        "ⁿ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "chanpay",
+      "rr_soup": "chanpay",
+      "rr_ordinal": 9,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0163.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0163.json"
+    },
+    {
+      "id": "0164:8:R",
+      "page": 164,
+      "position": 8,
+      "field": "R",
+      "hanzi": "片",
+      "v1": "piēⁿ",
+      "rr": "pien",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "pien",
+      "rr_soup": "pien",
+      "rr_ordinal": 8,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0164.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0164.json"
+    },
+    {
+      "id": "0164:9:R",
+      "page": 164,
+      "position": 9,
+      "field": "R",
+      "hanzi": "邊",
+      "v1": "piēⁿ",
+      "rr": "pien",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "pien",
+      "rr_soup": "pien",
+      "rr_ordinal": 9,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0164.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0164.json"
+    },
+    {
+      "id": "0187:6:R",
+      "page": 187,
+      "position": 6,
+      "field": "R",
+      "hanzi": "木紅",
+      "v1": "mō aⁿg",
+      "rr": "mō ǎng.",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "moang",
+      "rr_soup": "moang",
+      "rr_ordinal": 6,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0187.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0187.json"
+    },
+    {
+      "id": "0211:4:R",
+      "page": 211,
+      "position": 4,
+      "field": "R",
+      "hanzi": "處暑",
+      "v1": "chu şu",
+      "rr": "chʻú šǔ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ʻ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "chusu",
+      "rr_soup": "chusu",
+      "rr_ordinal": 4,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0211.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0211.json"
+    },
+    {
+      "id": "0218:2:R",
+      "page": 218,
+      "position": 2,
+      "field": "R",
+      "hanzi": "筆筒",
+      "v1": "pī tōⁿg.",
+      "rr": "pī tòng",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "pitong",
+      "rr_soup": "pitong",
+      "rr_ordinal": 2,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0218.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0218.json"
+    },
+    {
+      "id": "0218:11:R",
+      "page": 218,
+      "position": 11,
+      "field": "R",
+      "hanzi": "昇",
+      "v1": "pīⁿ.",
+      "rr": "pìn",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "pin",
+      "rr_soup": "pin",
+      "rr_ordinal": 11,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0218.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0218.json"
+    },
+    {
+      "id": "0237:3:R",
+      "page": 237,
+      "position": 3,
+      "field": "R",
+      "hanzi": "炮",
+      "v1": "paⁿ",
+      "rr": "pân.",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "pan",
+      "rr_soup": "pan",
+      "rr_ordinal": 3,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0237.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0237.json"
+    },
+    {
+      "id": "0247:5:R",
+      "page": 247,
+      "position": 5,
+      "field": "R",
+      "hanzi": "城",
+      "v1": "chēⁿg",
+      "rr": "chêñg",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "cheng",
+      "rr_soup": "cheng",
+      "rr_ordinal": 5,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0247.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0247.json"
+    },
+    {
+      "id": "0256:14:R",
+      "page": 256,
+      "position": 14,
+      "field": "R",
+      "hanzi": "韜",
+      "v1": "tôn",
+      "rr": "tōⁿ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ⁿ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "ton",
+      "rr_soup": "ton",
+      "rr_ordinal": 14,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0256.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0256.json"
+    },
+    {
+      "id": "0262:9:R",
+      "page": 262,
+      "position": 9,
+      "field": "R",
+      "hanzi": "椰瓢",
+      "v1": "yê piâⁿ",
+      "rr": "yè piân",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "yepian",
+      "rr_soup": "yepian",
+      "rr_ordinal": 9,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0262.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0262.json"
+    },
+    {
+      "id": "0264:4:M",
+      "page": 264,
+      "position": 4,
+      "field": "M",
+      "hanzi": "貼先生分",
+      "v1": "tiap sín tē hūn.",
+      "rr": "tiāp sīⁿ tē hūn",
+      "v1_marks": [],
+      "rr_marks": [
+        "ⁿ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "tiapsintehun",
+      "rr_soup": "tiapsintehun",
+      "rr_ordinal": 4,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0264.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0264.json"
+    },
+    {
+      "id": "0266:14:R",
+      "page": 266,
+      "position": 14,
+      "field": "R",
+      "hanzi": "性緊",
+      "v1": "sēng gúiⁿ",
+      "rr": "sēng guìn",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "sengguin",
+      "rr_soup": "sengguin",
+      "rr_ordinal": 14,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0266.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0266.json"
+    },
+    {
+      "id": "0296:6:R",
+      "page": 296,
+      "position": 6,
+      "field": "R",
+      "hanzi": "論",
+      "v1": "lūⁿ",
+      "rr": "lūn",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "lun",
+      "rr_soup": "lun",
+      "rr_ordinal": 6,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0296.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0296.json"
+    },
+    {
+      "id": "0296:9:R",
+      "page": 296,
+      "position": 9,
+      "field": "R",
+      "hanzi": "國政",
+      "v1": "cūe chīⁿ",
+      "rr": "cūe chīn",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "cuechin",
+      "rr_soup": "cuechin",
+      "rr_ordinal": 9,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0296.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0296.json"
+    },
+    {
+      "id": "0301:11:M",
+      "page": 301,
+      "position": 11,
+      "field": "M",
+      "hanzi": "可",
+      "v1": "coʰ.",
+      "rr": "cô",
+      "v1_marks": [
+        "ʰ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "co",
+      "rr_soup": "co",
+      "rr_ordinal": 11,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0301.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0301.json"
+    },
+    {
+      "id": "0301:12:M",
+      "page": 301,
+      "position": 12,
+      "field": "M",
+      "hanzi": "着",
+      "v1": "tioʰ.",
+      "rr": "tîo",
+      "v1_marks": [
+        "ʰ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "tio",
+      "rr_soup": "tio",
+      "rr_ordinal": 12,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0301.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0301.json"
+    },
+    {
+      "id": "0301:15:M",
+      "page": 301,
+      "position": 15,
+      "field": "M",
+      "hanzi": "合該着",
+      "v1": "hap cay tioʰ.",
+      "rr": "hap cay tîo",
+      "v1_marks": [
+        "ʰ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "hapcaytio",
+      "rr_soup": "hapcaytio",
+      "rr_ordinal": 15,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0301.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0301.json"
+    },
+    {
+      "id": "0301:9:R",
+      "page": 301,
+      "position": 9,
+      "field": "R",
+      "hanzi": "可",
+      "v1": "coʰ.",
+      "rr": "cô",
+      "v1_marks": [
+        "ʰ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "co",
+      "rr_soup": "co",
+      "rr_ordinal": 9,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0301.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0301.json"
+    },
+    {
+      "id": "0301:11:R",
+      "page": 301,
+      "position": 11,
+      "field": "R",
+      "hanzi": "可",
+      "v1": "coʰ.",
+      "rr": "cô",
+      "v1_marks": [
+        "ʰ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "co",
+      "rr_soup": "co",
+      "rr_ordinal": 11,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0301.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0301.json"
+    },
+    {
+      "id": "0323:16:M",
+      "page": 323,
+      "position": 16,
+      "field": "M",
+      "hanzi": "孔",
+      "v1": "cañg",
+      "rr": "caⁿg",
+      "v1_marks": [],
+      "rr_marks": [
+        "ⁿ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "cang",
+      "rr_soup": "cang",
+      "rr_ordinal": 16,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0323.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0323.json"
+    },
+    {
+      "id": "0335:13:R",
+      "page": 335,
+      "position": 13,
+      "field": "R",
+      "hanzi": "賜",
+      "v1": "zūⁿ",
+      "rr": "zūⁿ",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [
+        "ⁿ"
+      ],
+      "v1_rr_mark_sets_differ": false,
+      "v1_soup": "zun",
+      "rr_soup": "zun",
+      "rr_ordinal": 13,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0335.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0335.json"
+    },
+    {
+      "id": "0335:14:R",
+      "page": 335,
+      "position": 14,
+      "field": "R",
+      "hanzi": "周",
+      "v1": "chiūⁿ",
+      "rr": "chiūⁿ",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [
+        "ⁿ"
+      ],
+      "v1_rr_mark_sets_differ": false,
+      "v1_soup": "chiun",
+      "rr_soup": "chiun",
+      "rr_ordinal": 14,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0335.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0335.json"
+    },
+    {
+      "id": "0344:4:R",
+      "page": 344,
+      "position": 4,
+      "field": "R",
+      "hanzi": "淺說",
+      "v1": "chiⁿ zūe",
+      "rr": "chiñ zuē",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "chinzue",
+      "rr_soup": "chinzue",
+      "rr_ordinal": 4,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0344.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0344.json"
+    },
+    {
+      "id": "0373:1:R",
+      "page": 373,
+      "position": 1,
+      "field": "R",
+      "hanzi": "革人",
+      "v1": "gūe xîⁿ",
+      "rr": "guē xīn",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "guexin",
+      "rr_soup": "guexin",
+      "rr_ordinal": 1,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0373.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0373.json"
+    },
+    {
+      "id": "0395:9:R",
+      "page": 395,
+      "position": 9,
+      "field": "R",
+      "hanzi": "灣",
+      "v1": "vâⁿ.",
+      "rr": "vǎñ",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "van",
+      "rr_soup": "van",
+      "rr_ordinal": 9,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0395.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0395.json"
+    },
+    {
+      "id": "0407:4:R",
+      "page": 407,
+      "position": 4,
+      "field": "R",
+      "hanzi": "甜",
+      "v1": "tiêⁿ",
+      "rr": "tiēn",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "tien",
+      "rr_soup": "tien",
+      "rr_ordinal": 4,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0407.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0407.json"
+    },
+    {
+      "id": "0407:8:R",
+      "page": 407,
+      "position": 8,
+      "field": "R",
+      "hanzi": "萬代公侯",
+      "v1": "băn tay cōng hĕⁿ.",
+      "rr": "bān tāy cǒng hên",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "bantayconghen",
+      "rr_soup": "bantayconghen",
+      "rr_ordinal": 8,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0407.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0407.json"
+    },
+    {
+      "id": "0407:14:R",
+      "page": 407,
+      "position": 14,
+      "field": "R",
+      "hanzi": "桃",
+      "v1": "tôⁿ",
+      "rr": "tôn",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "ton",
+      "rr_soup": "ton",
+      "rr_ordinal": 14,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0407.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0407.json"
+    },
+    {
+      "id": "0407:16:R",
+      "page": 407,
+      "position": 16,
+      "field": "R",
+      "hanzi": "仙桃",
+      "v1": "sĭen tôⁿ",
+      "rr": "siěn tôn",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "sienton",
+      "rr_soup": "sienton",
+      "rr_ordinal": 16,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0407.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0407.json"
+    },
+    {
+      "id": "0422:1:R",
+      "page": 422,
+      "position": 1,
+      "field": "R",
+      "hanzi": "糾做一絲",
+      "v1": "guiⁿ chǒ it guiⁿ",
+      "rr": "guīn chō it guīn",
+      "v1_marks": [
+        "ⁿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "guinchoitguin",
+      "rr_soup": "guinchoitguin",
+      "rr_ordinal": 1,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0422.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0422.json"
+    },
+    {
+      "id": "0444:3:M",
+      "page": 444,
+      "position": 3,
+      "field": "M",
+      "hanzi": "錯",
+      "v1": "chog",
+      "rr": "chogᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "chog",
+      "rr_soup": "chog",
+      "rr_ordinal": 3,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0444.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0444.json"
+    },
+    {
+      "id": "0444:13:M",
+      "page": 444,
+      "position": 13,
+      "field": "M",
+      "hanzi": "差錯",
+      "v1": "chā chog",
+      "rr": "chā chogᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "chachog",
+      "rr_soup": "chachog",
+      "rr_ordinal": 13,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0444.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0444.json"
+    },
+    {
+      "id": "0577:20:M",
+      "page": 577,
+      "position": 20,
+      "field": "M",
+      "hanzi": "極",
+      "v1": "tau hûa.",
+      "rr": "tàu hūaᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "tauhua",
+      "rr_soup": "tauhua",
+      "rr_ordinal": 20,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0577.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0577.json"
+    },
+    {
+      "id": "0579:6:M",
+      "page": 579,
+      "position": 6,
+      "field": "M",
+      "hanzi": "閃僻",
+      "v1": "siam pia ᶜ",
+      "rr": "sīam piã",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "siampia",
+      "rr_soup": "siampia",
+      "rr_ordinal": 6,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0579.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0579.json"
+    },
+    {
+      "id": "0579:8:M",
+      "page": 579,
+      "position": 8,
+      "field": "M",
+      "hanzi": "逃竄",
+      "v1": "hō choān ᶜ",
+      "rr": "hō chôan",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "hochoan",
+      "rr_soup": "hochoan",
+      "rr_ordinal": 8,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0579.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0579.json"
+    },
+    {
+      "id": "0579:9:M",
+      "page": 579,
+      "position": 9,
+      "field": "M",
+      "hanzi": "逃避",
+      "v1": "hō pȳ ᶜ",
+      "rr": "hō pỹ",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "hopy",
+      "rr_soup": "hopy",
+      "rr_ordinal": 9,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0579.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0579.json"
+    },
+    {
+      "id": "0579:10:M",
+      "page": 579,
+      "position": 10,
+      "field": "M",
+      "hanzi": "逃走去",
+      "v1": "hō chaù cu ᶜ",
+      "rr": "hō chàu cû",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "hochaucu",
+      "rr_soup": "hochaucu",
+      "rr_ordinal": 10,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0579.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0579.json"
+    },
+    {
+      "id": "0579:12:M",
+      "page": 579,
+      "position": 12,
+      "field": "M",
+      "hanzi": "逃僻",
+      "v1": "hō pia ᶜ",
+      "rr": "hō piã",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "hopia",
+      "rr_soup": "hopia",
+      "rr_ordinal": 12,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0579.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0579.json"
+    },
+    {
+      "id": "0666:16:M",
+      "page": 666,
+      "position": 16,
+      "field": "M",
+      "hanzi": "諂口人",
+      "v1": "chām chūy lāng.",
+      "rr": "chamᵗᵒ chuyᵗᵒ lang.",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᵒ",
+        "ᵗ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "chamchuylang",
+      "rr_soup": "chamchuylang",
+      "rr_ordinal": 16,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0666.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0666.json"
+    },
+    {
+      "id": "0697:7:M",
+      "page": 697,
+      "position": 7,
+      "field": "M",
+      "hanzi": "舟楫",
+      "v1": "chiú chip",
+      "rr": "chiú chîpᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "chiuchip",
+      "rr_soup": "chiuchip",
+      "rr_ordinal": 7,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0697.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0697.json"
+    },
+    {
+      "id": "0703:3:M",
+      "page": 703,
+      "position": 3,
+      "field": "M",
+      "hanzi": "雪",
+      "v1": "seᵗ",
+      "rr": "sè",
+      "v1_marks": [
+        "ᵗ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "se",
+      "rr_soup": "se",
+      "rr_ordinal": 3,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0703.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0703.json"
+    },
+    {
+      "id": "0703:4:M",
+      "page": 703,
+      "position": 4,
+      "field": "M",
+      "hanzi": "雪凍",
+      "v1": "séᵗ tāng·elada",
+      "rr": "sè tàng·elada",
+      "v1_marks": [
+        "ᵗ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "setangelada",
+      "rr_soup": "setangelada",
+      "rr_ordinal": 4,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0703.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0703.json"
+    },
+    {
+      "id": "0736:5:M",
+      "page": 736,
+      "position": 5,
+      "field": "M",
+      "hanzi": "人品",
+      "v1": "xīn pinʿ.",
+      "rr": "xīn pǐn",
+      "v1_marks": [
+        "ʿ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "xinpin",
+      "rr_soup": "xinpin",
+      "rr_ordinal": 5,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0736.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0736.json"
+    },
+    {
+      "id": "0810:1:M",
+      "page": 810,
+      "position": 1,
+      "field": "M",
+      "hanzi": "擱仔埕",
+      "v1": "căn nià tiâ",
+      "rr": "caⁿ niâ tiā",
+      "v1_marks": [],
+      "rr_marks": [
+        "ⁿ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "canniatia",
+      "rr_soup": "canniatia",
+      "rr_ordinal": 1,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0810.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0810.json"
+    },
+    {
+      "id": "0858:8:M",
+      "page": 858,
+      "position": 8,
+      "field": "M",
+      "hanzi": "豚",
+      "v1": "tūn.:",
+      "rr": "tūnᶜ.",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "tun",
+      "rr_soup": "tun",
+      "rr_ordinal": 8,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0858.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0858.json"
+    },
+    {
+      "id": "0858:9:M",
+      "page": 858,
+      "position": 9,
+      "field": "M",
+      "hanzi": "猪豚",
+      "v1": "tú tūn.",
+      "rr": "tú tūnᶜ.",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "tutun",
+      "rr_soup": "tutun",
+      "rr_ordinal": 9,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0858.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0858.json"
+    },
+    {
+      "id": "0951:1:M",
+      "page": 951,
+      "position": 1,
+      "field": "M",
+      "hanzi": "康泰",
+      "v1": "cong tay",
+      "rr": "cóng tayᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "congtay",
+      "rr_soup": "congtay",
+      "rr_ordinal": 1,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0951.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0951.json"
+    },
+    {
+      "id": "0951:2:M",
+      "page": 951,
+      "position": 2,
+      "field": "M",
+      "hanzi": "骨力",
+      "v1": "cur lat",
+      "rr": "cur latᶜ",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᶜ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "curlat",
+      "rr_soup": "curlat",
+      "rr_ordinal": 2,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0951.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0951.json"
+    },
+    {
+      "id": "1082:6:M",
+      "page": 1082,
+      "position": 6,
+      "field": "M",
+      "hanzi": "確",
+      "v1": "ᶜcap:",
+      "rr": "cap",
+      "v1_marks": [
+        "ᶜ"
+      ],
+      "rr_marks": [],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "cap",
+      "rr_soup": "cap",
+      "rr_ordinal": 6,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p1082.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p1082.json"
+    },
+    {
+      "id": "1087:3:M",
+      "page": 1087,
+      "position": 3,
+      "field": "M",
+      "hanzi": "衫仔",
+      "v1": "sa ia",
+      "rr": "saᵐ ià.",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᵐ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "saia",
+      "rr_soup": "saia",
+      "rr_ordinal": 3,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p1087.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p1087.json"
+    },
+    {
+      "id": "1087:11:M",
+      "page": 1087,
+      "position": 11,
+      "field": "M",
+      "hanzi": "襤褸",
+      "v1": "lam lu",
+      "rr": "lamᵐ lù",
+      "v1_marks": [],
+      "rr_marks": [
+        "ᵐ"
+      ],
+      "v1_rr_mark_sets_differ": true,
+      "v1_soup": "lamlu",
+      "rr_soup": "lamlu",
+      "rr_ordinal": 11,
+      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p1087.json",
+      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p1087.json"
+    }
+  ],
+  "affected_targets": [
+    {
+      "page": 237,
+      "position": 7,
+      "field": "R",
+      "hanzi": "炮",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0237:3:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 489,
+      "position": 17,
+      "field": "R",
+      "hanzi": "邊",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0164:9:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 505,
+      "position": 6,
+      "field": "R",
+      "hanzi": "邊",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0164:9:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 539,
+      "position": 12,
+      "field": "R",
+      "hanzi": "隨",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0046:3:R"
+      ],
+      "all_sources_flagged": false
+    },
+    {
+      "page": 541,
+      "position": 1,
+      "field": "R",
+      "hanzi": "隨",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0046:3:R"
+      ],
+      "all_sources_flagged": false
+    },
+    {
+      "page": 592,
+      "position": 10,
+      "field": "R",
+      "hanzi": "桃",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0407:14:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 593,
+      "position": 7,
+      "field": "R",
+      "hanzi": "邊",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0164:9:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 601,
+      "position": 18,
+      "field": "R",
+      "hanzi": "經魁",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0045:4:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 610,
+      "position": 2,
+      "field": "R",
+      "hanzi": "可",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0301:11:R",
+        "0301:9:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 624,
+      "position": 11,
+      "field": "R",
+      "hanzi": "片",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0164:8:R"
+      ],
+      "all_sources_flagged": false
+    },
+    {
+      "page": 649,
+      "position": 14,
+      "field": "R",
+      "hanzi": "可",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0301:11:R",
+        "0301:9:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 658,
+      "position": 15,
+      "field": "R",
+      "hanzi": "桃",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0407:14:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 663,
+      "position": 19,
+      "field": "R",
+      "hanzi": "可",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0301:11:R",
+        "0301:9:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 673,
+      "position": 14,
+      "field": "R",
+      "hanzi": "片",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0164:8:R"
+      ],
+      "all_sources_flagged": false
+    },
+    {
+      "page": 692,
+      "position": 13,
+      "field": "R",
+      "hanzi": "城",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0247:5:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 720,
+      "position": 10,
+      "field": "R",
+      "hanzi": "隨",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0046:3:R"
+      ],
+      "all_sources_flagged": false
+    },
+    {
+      "page": 738,
+      "position": 14,
+      "field": "R",
+      "hanzi": "邊",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0164:9:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 779,
+      "position": 11,
+      "field": "R",
+      "hanzi": "片",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0164:8:R"
+      ],
+      "all_sources_flagged": false
+    },
+    {
+      "page": 801,
+      "position": 11,
+      "field": "R",
+      "hanzi": "訴詞",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0114:5:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 817,
+      "position": 11,
+      "field": "R",
+      "hanzi": "可",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0301:11:R",
+        "0301:9:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 859,
+      "position": 7,
+      "field": "R",
+      "hanzi": "灣",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0395:9:R"
+      ],
+      "all_sources_flagged": false
+    },
+    {
+      "page": 866,
+      "position": 16,
+      "field": "R",
+      "hanzi": "貼到幾",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0100:18:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 878,
+      "position": 7,
+      "field": "R",
+      "hanzi": "城",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0247:5:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 880,
+      "position": 13,
+      "field": "R",
+      "hanzi": "可",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0301:11:R",
+        "0301:9:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 881,
+      "position": 2,
+      "field": "R",
+      "hanzi": "可",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0301:11:R",
+        "0301:9:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 1027,
+      "position": 5,
+      "field": "R",
+      "hanzi": "可",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0301:11:R",
+        "0301:9:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 1033,
+      "position": 15,
+      "field": "R",
+      "hanzi": "桃",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0407:14:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 1071,
+      "position": 8,
+      "field": "R",
+      "hanzi": "邊",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0164:9:R"
+      ],
+      "all_sources_flagged": true
+    },
+    {
+      "page": 1104,
+      "position": 9,
+      "field": "R",
+      "hanzi": "片",
+      "status": "一个候选音节组，定位未证",
+      "affected_source_ids": [
+        "0164:8:R"
+      ],
+      "all_sources_flagged": false
+    }
+  ],
+  "interpretation": "当前 soup 去除 ᶜ 等 Unicode 上置字符，并把 ⁿ 映射为 n；某些上置笔画也可能是声调记号，不能仅据编码判错，亦不能无说明地算作完全同字母。"
+}

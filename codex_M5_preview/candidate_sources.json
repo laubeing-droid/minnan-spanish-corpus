@@ -8,6 +8,7 @@
     "候选汉字未完成独立复核",
     "拉丁字母可能包含西语旁注",
     "声调变体保留原文",
+    "上置或修饰字母按原字符保留",
     "音节拆分差异未裁定"
   ],
   "sources": [
@@ -992,30 +993,6 @@
       "auto_fill": false
     },
     {
-      "id": "0043:14:M",
-      "page": 43,
-      "position": 14,
-      "field": "M",
-      "hanzi": "偶湊",
-      "v1": "ngòu chaûᶜ.",
-      "rr": "ngoû chāù.",
-      "rr_ordinal": 14,
-      "v1_syllables": [
-        "ngou",
-        "chau"
-      ],
-      "rr_syllables": [
-        "ngou",
-        "chau"
-      ],
-      "syllables_match": true,
-      "current_value": "ngòu chaûᶜ.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0043.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0043.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0043:15:M",
       "page": 43,
       "position": 15,
@@ -1222,30 +1199,6 @@
       ],
       "syllables_match": true,
       "current_value": "ngòu xiēn",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0043.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0043.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0043:14:R",
-      "page": 43,
-      "position": 14,
-      "field": "R",
-      "hanzi": "偶湊",
-      "v1": "ngòu cheùᶜ",
-      "rr": "ngòù cheù.",
-      "rr_ordinal": 14,
-      "v1_syllables": [
-        "ngou",
-        "cheu"
-      ],
-      "rr_syllables": [
-        "ngou",
-        "cheu"
-      ],
-      "syllables_match": true,
-      "current_value": "ngòu cheùᶜ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0043.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0043.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -1696,30 +1649,6 @@
       "auto_fill": false
     },
     {
-      "id": "0045:4:M",
-      "page": 45,
-      "position": 4,
-      "field": "M",
-      "hanzi": "經魁",
-      "v1": "quêng cuéᶜ",
-      "rr": "quêng cuě",
-      "rr_ordinal": 4,
-      "v1_syllables": [
-        "queng",
-        "cue"
-      ],
-      "rr_syllables": [
-        "queng",
-        "cue"
-      ],
-      "syllables_match": true,
-      "current_value": "quêng cuéᶜ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0045.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0045.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0045:6:M",
       "page": 45,
       "position": 6,
@@ -1830,30 +1759,6 @@
       ],
       "syllables_match": true,
       "current_value": "chǒng chiē",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0045.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0045.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0045:4:R",
-      "page": 45,
-      "position": 4,
-      "field": "R",
-      "hanzi": "經魁",
-      "v1": "quěng cuǐᶜ",
-      "rr": "quēng cùi",
-      "rr_ordinal": 4,
-      "v1_syllables": [
-        "queng",
-        "cui"
-      ],
-      "rr_syllables": [
-        "queng",
-        "cui"
-      ],
-      "syllables_match": true,
-      "current_value": "quěng cuǐᶜ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0045.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0045.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -2236,30 +2141,6 @@
       "auto_fill": false
     },
     {
-      "id": "0046:21:M",
-      "page": 46,
-      "position": 21,
-      "field": "M",
-      "hanzi": "點醒",
-      "v1": "tiàm chêᶜ²",
-      "rr": "tiàm ché",
-      "rr_ordinal": 21,
-      "v1_syllables": [
-        "tiam",
-        "che"
-      ],
-      "rr_syllables": [
-        "tiam",
-        "che"
-      ],
-      "syllables_match": true,
-      "current_value": "tiàm chêᶜ²",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0046.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0046.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0046:22:M",
       "page": 46,
       "position": 22,
@@ -2280,52 +2161,6 @@
       ],
       "syllables_match": true,
       "current_value": "sit tiàm quiàm",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0046.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0046.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0046:2:R",
-      "page": 46,
-      "position": 2,
-      "field": "R",
-      "hanzi": "陪隨",
-      "v1": "pūi chûiᶜ",
-      "rr": "pūi chúi",
-      "rr_ordinal": 2,
-      "v1_syllables": [
-        "pui",
-        "chui"
-      ],
-      "rr_syllables": [
-        "pui",
-        "chui"
-      ],
-      "syllables_match": true,
-      "current_value": "pūi chûiᶜ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0046.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0046.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0046:3:R",
-      "page": 46,
-      "position": 3,
-      "field": "R",
-      "hanzi": "隨",
-      "v1": "chûiᶜ",
-      "rr": "chúi",
-      "rr_ordinal": 3,
-      "v1_syllables": [
-        "chui"
-      ],
-      "rr_syllables": [
-        "chui"
-      ],
-      "syllables_match": true,
-      "current_value": "chûiᶜ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0046.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0046.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -2732,30 +2567,6 @@
       "auto_fill": false
     },
     {
-      "id": "0047:14:M",
-      "page": 47,
-      "position": 14,
-      "field": "M",
-      "hanzi": "操煉",
-      "v1": "chôᶜ liēn",
-      "rr": "chô liè᷄n.",
-      "rr_ordinal": 14,
-      "v1_syllables": [
-        "cho",
-        "lien"
-      ],
-      "rr_syllables": [
-        "cho",
-        "lien"
-      ],
-      "syllables_match": true,
-      "current_value": "chôᶜ liēn",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0047.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0047.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0047:15:M",
       "page": 47,
       "position": 15,
@@ -2796,30 +2607,6 @@
       ],
       "syllables_match": true,
       "current_value": "Pá tiò",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0047.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0047.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0047:19:M",
-      "page": 47,
-      "position": 19,
-      "field": "M",
-      "hanzi": "綑打",
-      "v1": "cùn pá",
-      "rr": "cu᷄n pa ᶜ",
-      "rr_ordinal": 19,
-      "v1_syllables": [
-        "cun",
-        "pa"
-      ],
-      "rr_syllables": [
-        "cun",
-        "pa"
-      ],
-      "syllables_match": true,
-      "current_value": "cùn pá",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0047.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0047.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -3240,28 +3027,6 @@
       "auto_fill": false
     },
     {
-      "id": "0048:9:R",
-      "page": 48,
-      "position": 9,
-      "field": "R",
-      "hanzi": "添",
-      "v1": "Tiěnᶜ",
-      "rr": "Tiēn",
-      "rr_ordinal": 9,
-      "v1_syllables": [
-        "tien"
-      ],
-      "rr_syllables": [
-        "tien"
-      ],
-      "syllables_match": true,
-      "current_value": "Tiěnᶜ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0048.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0048.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0049:1:M",
       "page": 49,
       "position": 1,
@@ -3498,28 +3263,6 @@
       "auto_fill": false
     },
     {
-      "id": "0049:13:R",
-      "page": 49,
-      "position": 13,
-      "field": "R",
-      "hanzi": "糖",
-      "v1": "tângᶜ",
-      "rr": "tâng",
-      "rr_ordinal": 13,
-      "v1_syllables": [
-        "tang"
-      ],
-      "rr_syllables": [
-        "tang"
-      ],
-      "syllables_match": true,
-      "current_value": "tângᶜ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0049.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0049.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0049:14:R",
       "page": 49,
       "position": 14,
@@ -3748,28 +3491,6 @@
       ],
       "syllables_match": true,
       "current_value": "liēn",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0050.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0050.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0050:16:M",
-      "page": 50,
-      "position": 16,
-      "field": "M",
-      "hanzi": "搯",
-      "v1": "chiāuᶜ",
-      "rr": "chiaū",
-      "rr_ordinal": 16,
-      "v1_syllables": [
-        "chiau"
-      ],
-      "rr_syllables": [
-        "chiau"
-      ],
-      "syllables_match": true,
-      "current_value": "chiāuᶜ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0050.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0050.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -4228,30 +3949,6 @@
       ],
       "syllables_match": true,
       "current_value": "chiám pôg.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0051.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0051.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0051:22:M",
-      "page": 51,
-      "position": 22,
-      "field": "M",
-      "hanzi": "完籤",
-      "v1": "vān chiámᶜ",
-      "rr": "vān chiam",
-      "rr_ordinal": 22,
-      "v1_syllables": [
-        "van",
-        "chiam"
-      ],
-      "rr_syllables": [
-        "van",
-        "chiam"
-      ],
-      "syllables_match": true,
-      "current_value": "vān chiámᶜ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0051.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0051.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -4750,30 +4447,6 @@
       ],
       "syllables_match": true,
       "current_value": "bā yò.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0052.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0052.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0052:1:R",
-      "page": 52,
-      "position": 1,
-      "field": "R",
-      "hanzi": "拆卦",
-      "v1": "chêᶜ cūa",
-      "rr": "chē cùa",
-      "rr_ordinal": 1,
-      "v1_syllables": [
-        "che",
-        "cua"
-      ],
-      "rr_syllables": [
-        "che",
-        "cua"
-      ],
-      "syllables_match": true,
-      "current_value": "chêᶜ cūa",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0052.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0052.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -5515,28 +5188,6 @@
       ],
       "syllables_match": true,
       "current_value": "xû",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0054.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0054.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0054:8:R",
-      "page": 54,
-      "position": 8,
-      "field": "R",
-      "hanzi": "諂",
-      "v1": "chiămᶜ",
-      "rr": "chîam",
-      "rr_ordinal": 8,
-      "v1_syllables": [
-        "chiam"
-      ],
-      "rr_syllables": [
-        "chiam"
-      ],
-      "syllables_match": true,
-      "current_value": "chiămᶜ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0054.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0054.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -7208,29 +6859,6 @@
       ],
       "syllables_match": true,
       "current_value": "chǎy caù",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0059.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0059.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0059:8:M",
-      "page": 59,
-      "position": 8,
-      "field": "M",
-      "hanzi": "現在",
-      "v1": "hiěn chǎy.",
-      "rr": "hiēⁿchāy",
-      "rr_ordinal": 8,
-      "v1_syllables": [
-        "hien",
-        "chay"
-      ],
-      "rr_syllables": [
-        "hienchay"
-      ],
-      "syllables_match": false,
-      "current_value": "hiěn chǎy.",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0059.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0059.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -10621,30 +10249,6 @@
       "auto_fill": false
     },
     {
-      "id": "0073:12:M",
-      "page": 73,
-      "position": 12,
-      "field": "M",
-      "hanzi": "哀慘",
-      "v1": "áy chàmᶜ,",
-      "rr": "ay châm.",
-      "rr_ordinal": 12,
-      "v1_syllables": [
-        "ay",
-        "cham"
-      ],
-      "rr_syllables": [
-        "ay",
-        "cham"
-      ],
-      "syllables_match": true,
-      "current_value": "áy chàmᶜ,",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0073.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0073.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0073:3:R",
       "page": 73,
       "position": 3,
@@ -10661,28 +10265,6 @@
       ],
       "syllables_match": true,
       "current_value": "gūi",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0073.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0073.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0073:4:R",
-      "page": 73,
-      "position": 4,
-      "field": "R",
-      "hanzi": "戈",
-      "v1": "cǒᶜ",
-      "rr": "cǒ.",
-      "rr_ordinal": 4,
-      "v1_syllables": [
-        "co"
-      ],
-      "rr_syllables": [
-        "co"
-      ],
-      "syllables_match": true,
-      "current_value": "cǒᶜ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0073.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0073.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -10911,30 +10493,6 @@
       ],
       "syllables_match": true,
       "current_value": "hǔ xīn lý.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0074.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0074.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0074:10:M",
-      "page": 74,
-      "position": 10,
-      "field": "M",
-      "hanzi": "肉員",
-      "v1": "bá ōan",
-      "rr": "bà oaⁿ",
-      "rr_ordinal": 10,
-      "v1_syllables": [
-        "ba",
-        "oan"
-      ],
-      "rr_syllables": [
-        "ba",
-        "oan"
-      ],
-      "syllables_match": true,
-      "current_value": "bá ōan",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0074.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0074.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -12867,196 +12425,6 @@
       "auto_fill": false
     },
     {
-      "id": "0082:7:M",
-      "page": 82,
-      "position": 7,
-      "field": "M",
-      "hanzi": "魄",
-      "v1": "Peg",
-      "rr": "Pêgᶜ",
-      "rr_ordinal": 7,
-      "v1_syllables": [
-        "peg"
-      ],
-      "rr_syllables": [
-        "peg"
-      ],
-      "syllables_match": true,
-      "current_value": "Peg",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0082:8:M",
-      "page": 82,
-      "position": 8,
-      "field": "M",
-      "hanzi": "魄魂",
-      "v1": "hūn peg",
-      "rr": "hūn pegᶜ",
-      "rr_ordinal": 8,
-      "v1_syllables": [
-        "hun",
-        "peg"
-      ],
-      "rr_syllables": [
-        "hun",
-        "peg"
-      ],
-      "syllables_match": true,
-      "current_value": "hūn peg",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0082:9:M",
-      "page": 82,
-      "position": 9,
-      "field": "M",
-      "hanzi": "冤魂鬼",
-      "v1": "oán hūn cǔy. +",
-      "rr": "oán hūn cuyᶜ",
-      "rr_ordinal": 9,
-      "v1_syllables": [
-        "oan",
-        "hun",
-        "cuy"
-      ],
-      "rr_syllables": [
-        "oan",
-        "hun",
-        "cuy"
-      ],
-      "syllables_match": true,
-      "current_value": "oán hūn cǔy. +",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0082:13:M",
-      "page": 82,
-      "position": 13,
-      "field": "M",
-      "hanzi": "庫",
-      "v1": "coû",
-      "rr": "couᶜ",
-      "rr_ordinal": 13,
-      "v1_syllables": [
-        "cou"
-      ],
-      "rr_syllables": [
-        "cou"
-      ],
-      "syllables_match": true,
-      "current_value": "coû",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0082:14:M",
-      "page": 82,
-      "position": 14,
-      "field": "M",
-      "hanzi": "庫裡",
-      "v1": "coû lý",
-      "rr": "couᶜ lyᶜ",
-      "rr_ordinal": 14,
-      "v1_syllables": [
-        "cou",
-        "ly"
-      ],
-      "rr_syllables": [
-        "cou",
-        "ly"
-      ],
-      "syllables_match": true,
-      "current_value": "coû lý",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0082:15:M",
-      "page": 82,
-      "position": 15,
-      "field": "M",
-      "hanzi": "庫房",
-      "v1": "coû pāng.",
-      "rr": "couᶜ pang",
-      "rr_ordinal": 15,
-      "v1_syllables": [
-        "cou",
-        "pang"
-      ],
-      "rr_syllables": [
-        "cou",
-        "pang"
-      ],
-      "syllables_match": true,
-      "current_value": "coû pāng.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0082:16:M",
-      "page": 82,
-      "position": 16,
-      "field": "M",
-      "hanzi": "庫官",
-      "v1": "coû cua",
-      "rr": "couᶜ cuā",
-      "rr_ordinal": 16,
-      "v1_syllables": [
-        "cou",
-        "cua"
-      ],
-      "rr_syllables": [
-        "cou",
-        "cua"
-      ],
-      "syllables_match": true,
-      "current_value": "coû cua",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0082:17:M",
-      "page": 82,
-      "position": 17,
-      "field": "M",
-      "hanzi": "倉庫",
-      "v1": "chóng coû",
-      "rr": "chong couᶜ",
-      "rr_ordinal": 17,
-      "v1_syllables": [
-        "chong",
-        "cou"
-      ],
-      "rr_syllables": [
-        "chong",
-        "cou"
-      ],
-      "syllables_match": true,
-      "current_value": "chóng coû",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0082:5:R",
       "page": 82,
       "position": 5,
@@ -13105,98 +12473,6 @@
       "auto_fill": false
     },
     {
-      "id": "0082:7:R",
-      "page": 82,
-      "position": 7,
-      "field": "R",
-      "hanzi": "魄",
-      "v1": "pē",
-      "rr": "pēᶜ",
-      "rr_ordinal": 7,
-      "v1_syllables": [
-        "pe"
-      ],
-      "rr_syllables": [
-        "pe"
-      ],
-      "syllables_match": true,
-      "current_value": "pē",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0082:8:R",
-      "page": 82,
-      "position": 8,
-      "field": "R",
-      "hanzi": "魄魂",
-      "v1": "hûn pē",
-      "rr": "hûn pēᶜ",
-      "rr_ordinal": 8,
-      "v1_syllables": [
-        "hun",
-        "pe"
-      ],
-      "rr_syllables": [
-        "hun",
-        "pe"
-      ],
-      "syllables_match": true,
-      "current_value": "hûn pē",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0082:13:R",
-      "page": 82,
-      "position": 13,
-      "field": "R",
-      "hanzi": "庫",
-      "v1": "cū",
-      "rr": "cûᶜ",
-      "rr_ordinal": 13,
-      "v1_syllables": [
-        "cu"
-      ],
-      "rr_syllables": [
-        "cu"
-      ],
-      "syllables_match": true,
-      "current_value": "cū",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0082:14:R",
-      "page": 82,
-      "position": 14,
-      "field": "R",
-      "hanzi": "庫裡",
-      "v1": "cū lý",
-      "rr": "cû lyᶜ",
-      "rr_ordinal": 14,
-      "v1_syllables": [
-        "cu",
-        "ly"
-      ],
-      "rr_syllables": [
-        "cu",
-        "ly"
-      ],
-      "syllables_match": true,
-      "current_value": "cū lý",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0082:15:R",
       "page": 82,
       "position": 15,
@@ -13215,54 +12491,6 @@
       ],
       "syllables_match": true,
       "current_value": "cū fâng",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0082:17:R",
-      "page": 82,
-      "position": 17,
-      "field": "R",
-      "hanzi": "倉庫",
-      "v1": "chăng cū",
-      "rr": "chang cûᶜ",
-      "rr_ordinal": 17,
-      "v1_syllables": [
-        "chang",
-        "cu"
-      ],
-      "rr_syllables": [
-        "chang",
-        "cu"
-      ],
-      "syllables_match": true,
-      "current_value": "chăng cū",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0082:18:R",
-      "page": 82,
-      "position": 18,
-      "field": "R",
-      "hanzi": "城隙",
-      "v1": "chêng gūi",
-      "rr": "cheng guîᶜ",
-      "rr_ordinal": 18,
-      "v1_syllables": [
-        "cheng",
-        "gui"
-      ],
-      "rr_syllables": [
-        "cheng",
-        "gui"
-      ],
-      "syllables_match": true,
-      "current_value": "chêng gūi",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0082.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0082.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -18468,30 +17696,6 @@
       "auto_fill": false
     },
     {
-      "id": "0100:16:R",
-      "page": 100,
-      "position": 16,
-      "field": "R",
-      "hanzi": "架添",
-      "v1": "guiā tiěⁿ",
-      "rr": "guiā tiēn",
-      "rr_ordinal": 16,
-      "v1_syllables": [
-        "guia",
-        "tien"
-      ],
-      "rr_syllables": [
-        "guia",
-        "tien"
-      ],
-      "syllables_match": true,
-      "current_value": "guiā tiěⁿ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0100.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0100.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0100:17:R",
       "page": 100,
       "position": 17,
@@ -18508,32 +17712,6 @@
       ],
       "syllables_match": true,
       "current_value": "tiě",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0100.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0100.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0100:18:R",
-      "page": 100,
-      "position": 18,
-      "field": "R",
-      "hanzi": "貼到幾",
-      "v1": "tiě tōⁿ guǐ",
-      "rr": "tie ton gui",
-      "rr_ordinal": 18,
-      "v1_syllables": [
-        "tie",
-        "ton",
-        "gui"
-      ],
-      "rr_syllables": [
-        "tie",
-        "ton",
-        "gui"
-      ],
-      "syllables_match": true,
-      "current_value": "tiě tōⁿ guǐ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0100.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0100.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -18748,52 +17926,6 @@
       ],
       "syllables_match": true,
       "current_value": "gū bǒ:",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0103.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0103.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0103:15:M",
-      "page": 103,
-      "position": 15,
-      "field": "M",
-      "hanzi": "膽",
-      "v1": "tāñ.",
-      "rr": "tàⁿ",
-      "rr_ordinal": 15,
-      "v1_syllables": [
-        "tan"
-      ],
-      "rr_syllables": [
-        "tan"
-      ],
-      "syllables_match": true,
-      "current_value": "tāñ.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0103.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0103.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0103:17:M",
-      "page": 103,
-      "position": 17,
-      "field": "M",
-      "hanzi": "膽大",
-      "v1": "tāñ tōa",
-      "rr": "tàⁿ tōa",
-      "rr_ordinal": 17,
-      "v1_syllables": [
-        "tan",
-        "toa"
-      ],
-      "rr_syllables": [
-        "tan",
-        "toa"
-      ],
-      "syllables_match": true,
-      "current_value": "tāñ tōa",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0103.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0103.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -20878,98 +20010,6 @@
       "auto_fill": false
     },
     {
-      "id": "0110:4:M",
-      "page": 110,
-      "position": 4,
-      "field": "M",
-      "hanzi": "具",
-      "v1": "cuᵛ·",
-      "rr": "cū",
-      "rr_ordinal": 4,
-      "v1_syllables": [
-        "cu"
-      ],
-      "rr_syllables": [
-        "cu"
-      ],
-      "syllables_match": true,
-      "current_value": "cuᵛ·",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0110.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0110.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0110:9:M",
-      "page": 110,
-      "position": 9,
-      "field": "M",
-      "hanzi": "辨",
-      "v1": "Panᵛ·",
-      "rr": "pân",
-      "rr_ordinal": 9,
-      "v1_syllables": [
-        "pan"
-      ],
-      "rr_syllables": [
-        "pan"
-      ],
-      "syllables_match": true,
-      "current_value": "Panᵛ·",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0110.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0110.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0110:10:M",
-      "page": 110,
-      "position": 10,
-      "field": "M",
-      "hanzi": "辨茶",
-      "v1": "panᵛ tē·",
-      "rr": "pân tê",
-      "rr_ordinal": 10,
-      "v1_syllables": [
-        "pan",
-        "te"
-      ],
-      "rr_syllables": [
-        "pan",
-        "te"
-      ],
-      "syllables_match": true,
-      "current_value": "panᵛ tē·",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0110.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0110.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0110:11:M",
-      "page": 110,
-      "position": 11,
-      "field": "M",
-      "hanzi": "辨便",
-      "v1": "panᵛ piēnᵛ·",
-      "rr": "pân piēn",
-      "rr_ordinal": 11,
-      "v1_syllables": [
-        "pan",
-        "pien"
-      ],
-      "rr_syllables": [
-        "pan",
-        "pien"
-      ],
-      "syllables_match": true,
-      "current_value": "panᵛ piēnᵛ·",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0110.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0110.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0110:13:M",
       "page": 110,
       "position": 13,
@@ -20986,52 +20026,6 @@
       ],
       "syllables_match": true,
       "current_value": "siêr,",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0110.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0110.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0110:18:M",
-      "page": 110,
-      "position": 18,
-      "field": "M",
-      "hanzi": "便",
-      "v1": "piēnᵛ·",
-      "rr": "piēn",
-      "rr_ordinal": 18,
-      "v1_syllables": [
-        "pien"
-      ],
-      "rr_syllables": [
-        "pien"
-      ],
-      "syllables_match": true,
-      "current_value": "piēnᵛ·",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0110.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0110.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0110:20:M",
-      "page": 110,
-      "position": 20,
-      "field": "M",
-      "hanzi": "遇便",
-      "v1": "guᵛ pienᵛ",
-      "rr": "gū piēn",
-      "rr_ordinal": 20,
-      "v1_syllables": [
-        "gu",
-        "pien"
-      ],
-      "rr_syllables": [
-        "gu",
-        "pien"
-      ],
-      "syllables_match": true,
-      "current_value": "guᵛ pienᵛ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0110.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0110.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -21100,30 +20094,6 @@
       ],
       "syllables_match": true,
       "current_value": "piēn: pān",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0110.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0110.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0110:10:R",
-      "page": 110,
-      "position": 10,
-      "field": "R",
-      "hanzi": "辨茶",
-      "v1": "piēn châᶜ",
-      "rr": "piēn châ",
-      "rr_ordinal": 10,
-      "v1_syllables": [
-        "pien",
-        "cha"
-      ],
-      "rr_syllables": [
-        "pien",
-        "cha"
-      ],
-      "syllables_match": true,
-      "current_value": "piēn châᶜ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0110.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0110.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -22064,54 +21034,6 @@
       "auto_fill": false
     },
     {
-      "id": "0113:14:M",
-      "page": 113,
-      "position": 14,
-      "field": "M",
-      "hanzi": "另居",
-      "v1": "lèng ᵏᵉ guìa",
-      "rr": "leng guia",
-      "rr_ordinal": 14,
-      "v1_syllables": [
-        "leng",
-        "guia"
-      ],
-      "rr_syllables": [
-        "leng",
-        "guia"
-      ],
-      "syllables_match": true,
-      "current_value": "lèng ᵏᵉ guìa",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0113.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0113.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0113:15:M",
-      "page": 113,
-      "position": 15,
-      "field": "M",
-      "hanzi": "走樣",
-      "v1": "chàu ᵏᵉ yo",
-      "rr": "chaù yo",
-      "rr_ordinal": 15,
-      "v1_syllables": [
-        "chau",
-        "yo"
-      ],
-      "rr_syllables": [
-        "chau",
-        "yo"
-      ],
-      "syllables_match": true,
-      "current_value": "chàu ᵏᵉ yo",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0113.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0113.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0113:16:M",
       "page": 113,
       "position": 16,
@@ -22246,30 +21168,6 @@
       ],
       "syllables_match": true,
       "current_value": "chē tān",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0113.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0113.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0113:9:R",
-      "page": 113,
-      "position": 9,
-      "field": "R",
-      "hanzi": "退邊",
-      "v1": "hùi piēⁿ",
-      "rr": "hùi piēn",
-      "rr_ordinal": 9,
-      "v1_syllables": [
-        "hui",
-        "pien"
-      ],
-      "rr_syllables": [
-        "hui",
-        "pien"
-      ],
-      "syllables_match": true,
-      "current_value": "hùi piēⁿ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0113.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0113.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -22570,30 +21468,6 @@
       ],
       "syllables_match": true,
       "current_value": "zûn choáng.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0114.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0114.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0114:5:R",
-      "page": 114,
-      "position": 5,
-      "field": "R",
-      "hanzi": "訴詞",
-      "v1": "zûn chü.",
-      "rr": "zūn chûᵗ",
-      "rr_ordinal": 5,
-      "v1_syllables": [
-        "zun",
-        "chu"
-      ],
-      "rr_syllables": [
-        "zun",
-        "chu"
-      ],
-      "syllables_match": true,
-      "current_value": "zûn chü.",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0114.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0114.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -22962,28 +21836,6 @@
       ],
       "syllables_match": true,
       "current_value": "laū tèng.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0115.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0115.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0115:3:R",
-      "page": 115,
-      "position": 3,
-      "field": "R",
-      "hanzi": "匾",
-      "v1": "pìⁿ",
-      "rr": "pīn",
-      "rr_ordinal": 3,
-      "v1_syllables": [
-        "pin"
-      ],
-      "rr_syllables": [
-        "pin"
-      ],
-      "syllables_match": true,
-      "current_value": "pìⁿ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0115.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0115.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -33099,30 +31951,6 @@
       "auto_fill": false
     },
     {
-      "id": "0163:9:M",
-      "page": 163,
-      "position": 9,
-      "field": "M",
-      "hanzi": "繒排",
-      "v1": "chân pāŷ",
-      "rr": "chaⁿ pāy",
-      "rr_ordinal": 9,
-      "v1_syllables": [
-        "chan",
-        "pay"
-      ],
-      "rr_syllables": [
-        "chan",
-        "pay"
-      ],
-      "syllables_match": true,
-      "current_value": "chân pāŷ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0163.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0163.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0163:13:M",
       "page": 163,
       "position": 13,
@@ -33443,50 +32271,6 @@
       ],
       "syllables_match": true,
       "current_value": "sā",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0164.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0164.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0164:8:R",
-      "page": 164,
-      "position": 8,
-      "field": "R",
-      "hanzi": "片",
-      "v1": "piēⁿ",
-      "rr": "pien",
-      "rr_ordinal": 8,
-      "v1_syllables": [
-        "pien"
-      ],
-      "rr_syllables": [
-        "pien"
-      ],
-      "syllables_match": true,
-      "current_value": "piēⁿ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0164.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0164.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0164:9:R",
-      "page": 164,
-      "position": 9,
-      "field": "R",
-      "hanzi": "邊",
-      "v1": "piēⁿ",
-      "rr": "pien",
-      "rr_ordinal": 9,
-      "v1_syllables": [
-        "pien"
-      ],
-      "rr_syllables": [
-        "pien"
-      ],
-      "syllables_match": true,
-      "current_value": "piēⁿ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0164.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0164.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -37252,30 +36036,6 @@
       "auto_fill": false
     },
     {
-      "id": "0187:6:R",
-      "page": 187,
-      "position": 6,
-      "field": "R",
-      "hanzi": "木紅",
-      "v1": "mō aⁿg",
-      "rr": "mō ǎng.",
-      "rr_ordinal": 6,
-      "v1_syllables": [
-        "mo",
-        "ang"
-      ],
-      "rr_syllables": [
-        "mo",
-        "ang"
-      ],
-      "syllables_match": true,
-      "current_value": "mō aⁿg",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0187.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0187.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0187:7:R",
       "page": 187,
       "position": 7,
@@ -40638,28 +39398,6 @@
       "auto_fill": false
     },
     {
-      "id": "0202:1:M",
-      "page": 202,
-      "position": 1,
-      "field": "M",
-      "hanzi": "獵",
-      "v1": "la",
-      "rr": "laˇ",
-      "rr_ordinal": 1,
-      "v1_syllables": [
-        "la"
-      ],
-      "rr_syllables": [
-        "la"
-      ],
-      "syllables_match": true,
-      "current_value": "la",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0202.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0202.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0202:11:M",
       "page": 202,
       "position": 11,
@@ -42944,30 +41682,6 @@
       "auto_fill": false
     },
     {
-      "id": "0211:4:R",
-      "page": 211,
-      "position": 4,
-      "field": "R",
-      "hanzi": "處暑",
-      "v1": "chu şu",
-      "rr": "chʻú šǔ",
-      "rr_ordinal": 4,
-      "v1_syllables": [
-        "chu",
-        "su"
-      ],
-      "rr_syllables": [
-        "chu",
-        "su"
-      ],
-      "syllables_match": true,
-      "current_value": "chu şu",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0211.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0211.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0211:5:R",
       "page": 211,
       "position": 5,
@@ -44537,30 +43251,6 @@
       "auto_fill": false
     },
     {
-      "id": "0218:2:R",
-      "page": 218,
-      "position": 2,
-      "field": "R",
-      "hanzi": "筆筒",
-      "v1": "pī tōⁿg.",
-      "rr": "pī tòng",
-      "rr_ordinal": 2,
-      "v1_syllables": [
-        "pi",
-        "tong"
-      ],
-      "rr_syllables": [
-        "pi",
-        "tong"
-      ],
-      "syllables_match": true,
-      "current_value": "pī tōⁿg.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0218.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0218.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0218:4:R",
       "page": 218,
       "position": 4,
@@ -44579,28 +43269,6 @@
       ],
       "syllables_match": true,
       "current_value": "hō cuān.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0218.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0218.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0218:11:R",
-      "page": 218,
-      "position": 11,
-      "field": "R",
-      "hanzi": "昇",
-      "v1": "pīⁿ.",
-      "rr": "pìn",
-      "rr_ordinal": 11,
-      "v1_syllables": [
-        "pin"
-      ],
-      "rr_syllables": [
-        "pin"
-      ],
-      "syllables_match": true,
-      "current_value": "pīⁿ.",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0218.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0218.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -50118,28 +48786,6 @@
       "auto_fill": false
     },
     {
-      "id": "0237:3:R",
-      "page": 237,
-      "position": 3,
-      "field": "R",
-      "hanzi": "炮",
-      "v1": "paⁿ",
-      "rr": "pân.",
-      "rr_ordinal": 3,
-      "v1_syllables": [
-        "pan"
-      ],
-      "rr_syllables": [
-        "pan"
-      ],
-      "syllables_match": true,
-      "current_value": "paⁿ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0237.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0237.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0237:5:R",
       "page": 237,
       "position": 5,
@@ -52639,28 +51285,6 @@
       "auto_fill": false
     },
     {
-      "id": "0247:5:R",
-      "page": 247,
-      "position": 5,
-      "field": "R",
-      "hanzi": "城",
-      "v1": "chēⁿg",
-      "rr": "chêñg",
-      "rr_ordinal": 5,
-      "v1_syllables": [
-        "cheng"
-      ],
-      "rr_syllables": [
-        "cheng"
-      ],
-      "syllables_match": true,
-      "current_value": "chēⁿg",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0247.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0247.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0247:6:R",
       "page": 247,
       "position": 6,
@@ -54953,28 +53577,6 @@
       "auto_fill": false
     },
     {
-      "id": "0256:14:R",
-      "page": 256,
-      "position": 14,
-      "field": "R",
-      "hanzi": "韜",
-      "v1": "tôn",
-      "rr": "tōⁿ",
-      "rr_ordinal": 14,
-      "v1_syllables": [
-        "ton"
-      ],
-      "rr_syllables": [
-        "ton"
-      ],
-      "syllables_match": true,
-      "current_value": "tôn",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0256.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0256.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0256:15:R",
       "page": 256,
       "position": 15,
@@ -55883,30 +54485,6 @@
       "auto_fill": false
     },
     {
-      "id": "0262:9:R",
-      "page": 262,
-      "position": 9,
-      "field": "R",
-      "hanzi": "椰瓢",
-      "v1": "yê piâⁿ",
-      "rr": "yè piân",
-      "rr_ordinal": 9,
-      "v1_syllables": [
-        "ye",
-        "pian"
-      ],
-      "rr_syllables": [
-        "ye",
-        "pian"
-      ],
-      "syllables_match": true,
-      "current_value": "yê piâⁿ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0262.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0262.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0262:13:R",
       "page": 262,
       "position": 13,
@@ -56185,34 +54763,6 @@
       "auto_fill": false
     },
     {
-      "id": "0264:4:M",
-      "page": 264,
-      "position": 4,
-      "field": "M",
-      "hanzi": "貼先生分",
-      "v1": "tiap sín tē hūn.",
-      "rr": "tiāp sīⁿ tē hūn",
-      "rr_ordinal": 4,
-      "v1_syllables": [
-        "tiap",
-        "sin",
-        "te",
-        "hun"
-      ],
-      "rr_syllables": [
-        "tiap",
-        "sin",
-        "te",
-        "hun"
-      ],
-      "syllables_match": true,
-      "current_value": "tiap sín tē hūn.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0264.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0264.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0264:8:M",
       "page": 264,
       "position": 8,
@@ -56469,30 +55019,6 @@
       ],
       "syllables_match": true,
       "current_value": "lȳ cō",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0266.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0266.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0266:14:R",
-      "page": 266,
-      "position": 14,
-      "field": "R",
-      "hanzi": "性緊",
-      "v1": "sēng gúiⁿ",
-      "rr": "sēng guìn",
-      "rr_ordinal": 14,
-      "v1_syllables": [
-        "seng",
-        "guin"
-      ],
-      "rr_syllables": [
-        "seng",
-        "guin"
-      ],
-      "syllables_match": true,
-      "current_value": "sēng gúiⁿ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0266.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0266.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -64230,28 +62756,6 @@
       "auto_fill": false
     },
     {
-      "id": "0296:6:R",
-      "page": 296,
-      "position": 6,
-      "field": "R",
-      "hanzi": "論",
-      "v1": "lūⁿ",
-      "rr": "lūn",
-      "rr_ordinal": 6,
-      "v1_syllables": [
-        "lun"
-      ],
-      "rr_syllables": [
-        "lun"
-      ],
-      "syllables_match": true,
-      "current_value": "lūⁿ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0296.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0296.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0296:7:R",
       "page": 296,
       "position": 7,
@@ -64292,30 +62796,6 @@
       ],
       "syllables_match": true,
       "current_value": "ngām gūi",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0296.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0296.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0296:9:R",
-      "page": 296,
-      "position": 9,
-      "field": "R",
-      "hanzi": "國政",
-      "v1": "cūe chīⁿ",
-      "rr": "cūe chīn",
-      "rr_ordinal": 9,
-      "v1_syllables": [
-        "cue",
-        "chin"
-      ],
-      "rr_syllables": [
-        "cue",
-        "chin"
-      ],
-      "syllables_match": true,
-      "current_value": "cūe chīⁿ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0296.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0296.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -64580,76 +63060,6 @@
       "auto_fill": false
     },
     {
-      "id": "0301:11:M",
-      "page": 301,
-      "position": 11,
-      "field": "M",
-      "hanzi": "可",
-      "v1": "coʰ.",
-      "rr": "cô",
-      "rr_ordinal": 11,
-      "v1_syllables": [
-        "co"
-      ],
-      "rr_syllables": [
-        "co"
-      ],
-      "syllables_match": true,
-      "current_value": "coʰ.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0301.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0301.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0301:12:M",
-      "page": 301,
-      "position": 12,
-      "field": "M",
-      "hanzi": "着",
-      "v1": "tioʰ.",
-      "rr": "tîo",
-      "rr_ordinal": 12,
-      "v1_syllables": [
-        "tio"
-      ],
-      "rr_syllables": [
-        "tio"
-      ],
-      "syllables_match": true,
-      "current_value": "tioʰ.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0301.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0301.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0301:15:M",
-      "page": 301,
-      "position": 15,
-      "field": "M",
-      "hanzi": "合該着",
-      "v1": "hap cay tioʰ.",
-      "rr": "hap cay tîo",
-      "rr_ordinal": 15,
-      "v1_syllables": [
-        "hap",
-        "cay",
-        "tio"
-      ],
-      "rr_syllables": [
-        "hap",
-        "cay",
-        "tio"
-      ],
-      "syllables_match": true,
-      "current_value": "hap cay tioʰ.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0301.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0301.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0301:2:R",
       "page": 301,
       "position": 2,
@@ -64668,50 +63078,6 @@
       ],
       "syllables_match": true,
       "current_value": "hap tōng.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0301.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0301.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0301:9:R",
-      "page": 301,
-      "position": 9,
-      "field": "R",
-      "hanzi": "可",
-      "v1": "coʰ.",
-      "rr": "cô",
-      "rr_ordinal": 9,
-      "v1_syllables": [
-        "co"
-      ],
-      "rr_syllables": [
-        "co"
-      ],
-      "syllables_match": true,
-      "current_value": "coʰ.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0301.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0301.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0301:11:R",
-      "page": 301,
-      "position": 11,
-      "field": "R",
-      "hanzi": "可",
-      "v1": "coʰ.",
-      "rr": "cô",
-      "rr_ordinal": 11,
-      "v1_syllables": [
-        "co"
-      ],
-      "rr_syllables": [
-        "co"
-      ],
-      "syllables_match": true,
-      "current_value": "coʰ.",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0301.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0301.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -69166,28 +67532,6 @@
       "auto_fill": false
     },
     {
-      "id": "0323:16:M",
-      "page": 323,
-      "position": 16,
-      "field": "M",
-      "hanzi": "孔",
-      "v1": "cañg",
-      "rr": "caⁿg",
-      "rr_ordinal": 16,
-      "v1_syllables": [
-        "cang"
-      ],
-      "rr_syllables": [
-        "cang"
-      ],
-      "syllables_match": true,
-      "current_value": "cañg",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0323.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0323.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0323:10:R",
       "page": 323,
       "position": 10,
@@ -72540,10 +70884,10 @@
       "rr": "zūⁿ",
       "rr_ordinal": 13,
       "v1_syllables": [
-        "zun"
+        "zuⁿ"
       ],
       "rr_syllables": [
-        "zun"
+        "zuⁿ"
       ],
       "syllables_match": true,
       "current_value": "zūⁿ",
@@ -72562,10 +70906,10 @@
       "rr": "chiūⁿ",
       "rr_ordinal": 14,
       "v1_syllables": [
-        "chiun"
+        "chiuⁿ"
       ],
       "rr_syllables": [
-        "chiun"
+        "chiuⁿ"
       ],
       "syllables_match": true,
       "current_value": "chiūⁿ",
@@ -74317,30 +72661,6 @@
       ],
       "syllables_match": true,
       "current_value": "tān",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0344.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0344.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0344:4:R",
-      "page": 344,
-      "position": 4,
-      "field": "R",
-      "hanzi": "淺說",
-      "v1": "chiⁿ zūe",
-      "rr": "chiñ zuē",
-      "rr_ordinal": 4,
-      "v1_syllables": [
-        "chin",
-        "zue"
-      ],
-      "rr_syllables": [
-        "chin",
-        "zue"
-      ],
-      "syllables_match": true,
-      "current_value": "chiⁿ zūe",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0344.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0344.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -81311,30 +79631,6 @@
       "auto_fill": false
     },
     {
-      "id": "0373:1:R",
-      "page": 373,
-      "position": 1,
-      "field": "R",
-      "hanzi": "革人",
-      "v1": "gūe xîⁿ",
-      "rr": "guē xīn",
-      "rr_ordinal": 1,
-      "v1_syllables": [
-        "gue",
-        "xin"
-      ],
-      "rr_syllables": [
-        "gue",
-        "xin"
-      ],
-      "syllables_match": true,
-      "current_value": "gūe xîⁿ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0373.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0373.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0373:6:R",
       "page": 373,
       "position": 6,
@@ -86508,28 +84804,6 @@
       "auto_fill": false
     },
     {
-      "id": "0395:9:R",
-      "page": 395,
-      "position": 9,
-      "field": "R",
-      "hanzi": "灣",
-      "v1": "vâⁿ.",
-      "rr": "vǎñ",
-      "rr_ordinal": 9,
-      "v1_syllables": [
-        "van"
-      ],
-      "rr_syllables": [
-        "van"
-      ],
-      "syllables_match": true,
-      "current_value": "vâⁿ.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0395.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0395.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0395:11:R",
       "page": 395,
       "position": 11,
@@ -87547,28 +85821,6 @@
       "auto_fill": false
     },
     {
-      "id": "0407:4:R",
-      "page": 407,
-      "position": 4,
-      "field": "R",
-      "hanzi": "甜",
-      "v1": "tiêⁿ",
-      "rr": "tiēn",
-      "rr_ordinal": 4,
-      "v1_syllables": [
-        "tien"
-      ],
-      "rr_syllables": [
-        "tien"
-      ],
-      "syllables_match": true,
-      "current_value": "tiêⁿ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0407.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0407.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0407:5:R",
       "page": 407,
       "position": 5,
@@ -87607,34 +85859,6 @@
       ],
       "syllables_match": true,
       "current_value": "cŏng",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0407.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0407.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0407:8:R",
-      "page": 407,
-      "position": 8,
-      "field": "R",
-      "hanzi": "萬代公侯",
-      "v1": "băn tay cōng hĕⁿ.",
-      "rr": "bān tāy cǒng hên",
-      "rr_ordinal": 8,
-      "v1_syllables": [
-        "ban",
-        "tay",
-        "cong",
-        "hen"
-      ],
-      "rr_syllables": [
-        "ban",
-        "tay",
-        "cong",
-        "hen"
-      ],
-      "syllables_match": true,
-      "current_value": "băn tay cōng hĕⁿ.",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0407.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0407.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -87687,28 +85911,6 @@
       "auto_fill": false
     },
     {
-      "id": "0407:14:R",
-      "page": 407,
-      "position": 14,
-      "field": "R",
-      "hanzi": "桃",
-      "v1": "tôⁿ",
-      "rr": "tôn",
-      "rr_ordinal": 14,
-      "v1_syllables": [
-        "ton"
-      ],
-      "rr_syllables": [
-        "ton"
-      ],
-      "syllables_match": true,
-      "current_value": "tôⁿ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0407.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0407.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0407:15:R",
       "page": 407,
       "position": 15,
@@ -87725,30 +85927,6 @@
       ],
       "syllables_match": true,
       "current_value": "hēng",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0407.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0407.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0407:16:R",
-      "page": 407,
-      "position": 16,
-      "field": "R",
-      "hanzi": "仙桃",
-      "v1": "sĭen tôⁿ",
-      "rr": "siěn tôn",
-      "rr_ordinal": 16,
-      "v1_syllables": [
-        "sien",
-        "ton"
-      ],
-      "rr_syllables": [
-        "sien",
-        "ton"
-      ],
-      "syllables_match": true,
-      "current_value": "sĭen tôⁿ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0407.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0407.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -90275,34 +88453,6 @@
       ],
       "syllables_match": true,
       "current_value": "Gū gu tiō.:",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0422.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0422.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0422:1:R",
-      "page": 422,
-      "position": 1,
-      "field": "R",
-      "hanzi": "糾做一絲",
-      "v1": "guiⁿ chǒ it guiⁿ",
-      "rr": "guīn chō it guīn",
-      "rr_ordinal": 1,
-      "v1_syllables": [
-        "guin",
-        "cho",
-        "it",
-        "guin"
-      ],
-      "rr_syllables": [
-        "guin",
-        "cho",
-        "it",
-        "guin"
-      ],
-      "syllables_match": true,
-      "current_value": "guiⁿ chǒ it guiⁿ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0422.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0422.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -95857,28 +94007,6 @@
       "auto_fill": false
     },
     {
-      "id": "0444:3:M",
-      "page": 444,
-      "position": 3,
-      "field": "M",
-      "hanzi": "錯",
-      "v1": "chog",
-      "rr": "chogᶜ",
-      "rr_ordinal": 3,
-      "v1_syllables": [
-        "chog"
-      ],
-      "rr_syllables": [
-        "chog"
-      ],
-      "syllables_match": true,
-      "current_value": "chog",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0444.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0444.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0444:4:M",
       "page": 444,
       "position": 4,
@@ -96017,30 +94145,6 @@
       ],
       "syllables_match": true,
       "current_value": "chē gō̃",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0444.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0444.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0444:13:M",
-      "page": 444,
-      "position": 13,
-      "field": "M",
-      "hanzi": "差錯",
-      "v1": "chā chog",
-      "rr": "chā chogᶜ",
-      "rr_ordinal": 13,
-      "v1_syllables": [
-        "cha",
-        "chog"
-      ],
-      "rr_syllables": [
-        "cha",
-        "chog"
-      ],
-      "syllables_match": true,
-      "current_value": "chā chog",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0444.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0444.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -109394,30 +107498,6 @@
       "auto_fill": false
     },
     {
-      "id": "0577:20:M",
-      "page": 577,
-      "position": 20,
-      "field": "M",
-      "hanzi": "極",
-      "v1": "tau hûa.",
-      "rr": "tàu hūaᶜ",
-      "rr_ordinal": 20,
-      "v1_syllables": [
-        "tau",
-        "hua"
-      ],
-      "rr_syllables": [
-        "tau",
-        "hua"
-      ],
-      "syllables_match": true,
-      "current_value": "tau hûa.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0577.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0577.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0579:3:M",
       "page": 579,
       "position": 3,
@@ -109460,128 +107540,6 @@
       ],
       "syllables_match": true,
       "current_value": "chaù siam",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0579.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0579.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0579:6:M",
-      "page": 579,
-      "position": 6,
-      "field": "M",
-      "hanzi": "閃僻",
-      "v1": "siam pia ᶜ",
-      "rr": "sīam piã",
-      "rr_ordinal": 6,
-      "v1_syllables": [
-        "siam",
-        "pia"
-      ],
-      "rr_syllables": [
-        "siam",
-        "pia"
-      ],
-      "syllables_match": true,
-      "current_value": "siam pia ᶜ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0579.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0579.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0579:8:M",
-      "page": 579,
-      "position": 8,
-      "field": "M",
-      "hanzi": "逃竄",
-      "v1": "hō choān ᶜ",
-      "rr": "hō chôan",
-      "rr_ordinal": 8,
-      "v1_syllables": [
-        "ho",
-        "choan"
-      ],
-      "rr_syllables": [
-        "ho",
-        "choan"
-      ],
-      "syllables_match": true,
-      "current_value": "hō choān ᶜ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0579.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0579.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0579:9:M",
-      "page": 579,
-      "position": 9,
-      "field": "M",
-      "hanzi": "逃避",
-      "v1": "hō pȳ ᶜ",
-      "rr": "hō pỹ",
-      "rr_ordinal": 9,
-      "v1_syllables": [
-        "ho",
-        "py"
-      ],
-      "rr_syllables": [
-        "ho",
-        "py"
-      ],
-      "syllables_match": true,
-      "current_value": "hō pȳ ᶜ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0579.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0579.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0579:10:M",
-      "page": 579,
-      "position": 10,
-      "field": "M",
-      "hanzi": "逃走去",
-      "v1": "hō chaù cu ᶜ",
-      "rr": "hō chàu cû",
-      "rr_ordinal": 10,
-      "v1_syllables": [
-        "ho",
-        "chau",
-        "cu"
-      ],
-      "rr_syllables": [
-        "ho",
-        "chau",
-        "cu"
-      ],
-      "syllables_match": true,
-      "current_value": "hō chaù cu ᶜ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0579.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0579.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0579:12:M",
-      "page": 579,
-      "position": 12,
-      "field": "M",
-      "hanzi": "逃僻",
-      "v1": "hō pia ᶜ",
-      "rr": "hō piã",
-      "rr_ordinal": 12,
-      "v1_syllables": [
-        "ho",
-        "pia"
-      ],
-      "rr_syllables": [
-        "ho",
-        "pia"
-      ],
-      "syllables_match": true,
-      "current_value": "hō pia ᶜ",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0579.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0579.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -114784,30 +112742,6 @@
       "auto_fill": false
     },
     {
-      "id": "0644:10:M",
-      "page": 644,
-      "position": 10,
-      "field": "M",
-      "hanzi": "手",
-      "v1": "chiú: siú",
-      "rr": "chiuˇ: siu",
-      "rr_ordinal": 10,
-      "v1_syllables": [
-        "chiu",
-        "siu"
-      ],
-      "rr_syllables": [
-        "chiu",
-        "siu"
-      ],
-      "syllables_match": true,
-      "current_value": "chiú: siú",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0644.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0644.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0645:4:M",
       "page": 645,
       "position": 4,
@@ -116434,32 +114368,6 @@
       ],
       "syllables_match": true,
       "current_value": "tiăm chù.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0666.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0666.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0666:16:M",
-      "page": 666,
-      "position": 16,
-      "field": "M",
-      "hanzi": "諂口人",
-      "v1": "chām chūy lāng.",
-      "rr": "chamᵗᵒ chuyᵗᵒ lang.",
-      "rr_ordinal": 16,
-      "v1_syllables": [
-        "cham",
-        "chuy",
-        "lang"
-      ],
-      "rr_syllables": [
-        "cham",
-        "chuy",
-        "lang"
-      ],
-      "syllables_match": true,
-      "current_value": "chām chūy lāng.",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0666.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0666.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -120190,30 +118098,6 @@
       "auto_fill": false
     },
     {
-      "id": "0697:7:M",
-      "page": 697,
-      "position": 7,
-      "field": "M",
-      "hanzi": "舟楫",
-      "v1": "chiú chip",
-      "rr": "chiú chîpᶜ",
-      "rr_ordinal": 7,
-      "v1_syllables": [
-        "chiu",
-        "chip"
-      ],
-      "rr_syllables": [
-        "chiu",
-        "chip"
-      ],
-      "syllables_match": true,
-      "current_value": "chiú chip",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0697.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0697.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0697:9:M",
       "page": 697,
       "position": 9,
@@ -120348,54 +118232,6 @@
       "current_value": "quín ybona.",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0701.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0701.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0703:3:M",
-      "page": 703,
-      "position": 3,
-      "field": "M",
-      "hanzi": "雪",
-      "v1": "seᵗ",
-      "rr": "sè",
-      "rr_ordinal": 3,
-      "v1_syllables": [
-        "se"
-      ],
-      "rr_syllables": [
-        "se"
-      ],
-      "syllables_match": true,
-      "current_value": "seᵗ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0703.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0703.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0703:4:M",
-      "page": 703,
-      "position": 4,
-      "field": "M",
-      "hanzi": "雪凍",
-      "v1": "séᵗ tāng·elada",
-      "rr": "sè tàng·elada",
-      "rr_ordinal": 4,
-      "v1_syllables": [
-        "se",
-        "tang",
-        "elada"
-      ],
-      "rr_syllables": [
-        "se",
-        "tang",
-        "elada"
-      ],
-      "syllables_match": true,
-      "current_value": "séᵗ tāng·elada",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0703.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0703.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
       "auto_fill": false
     },
@@ -124290,30 +122126,6 @@
       "auto_fill": false
     },
     {
-      "id": "0736:5:M",
-      "page": 736,
-      "position": 5,
-      "field": "M",
-      "hanzi": "人品",
-      "v1": "xīn pinʿ.",
-      "rr": "xīn pǐn",
-      "rr_ordinal": 5,
-      "v1_syllables": [
-        "xin",
-        "pin"
-      ],
-      "rr_syllables": [
-        "xin",
-        "pin"
-      ],
-      "syllables_match": true,
-      "current_value": "xīn pinʿ.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0736.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0736.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0736:7:M",
       "page": 736,
       "position": 7,
@@ -127864,30 +125676,6 @@
       "auto_fill": false
     },
     {
-      "id": "0780:1:M",
-      "page": 780,
-      "position": 1,
-      "field": "M",
-      "hanzi": "荷",
-      "v1": "hŏ chiò",
-      "rr": "hoˇ chìo",
-      "rr_ordinal": 1,
-      "v1_syllables": [
-        "ho",
-        "chio"
-      ],
-      "rr_syllables": [
-        "ho",
-        "chio"
-      ],
-      "syllables_match": true,
-      "current_value": "hŏ chiò",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0780.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0780.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0780:4:M",
       "page": 780,
       "position": 4,
@@ -127904,30 +125692,6 @@
       ],
       "syllables_match": true,
       "current_value": "pîn",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0780.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0780.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0780:5:M",
-      "page": 780,
-      "position": 5,
-      "field": "M",
-      "hanzi": "稟命",
-      "v1": "pîn bēng",
-      "rr": "pîn bengˇ",
-      "rr_ordinal": 5,
-      "v1_syllables": [
-        "pin",
-        "beng"
-      ],
-      "rr_syllables": [
-        "pin",
-        "beng"
-      ],
-      "syllables_match": true,
-      "current_value": "pîn bēng",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0780.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0780.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -131333,32 +129097,6 @@
       "current_value": "chiàu jià .",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0809.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0809.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0810:1:M",
-      "page": 810,
-      "position": 1,
-      "field": "M",
-      "hanzi": "擱仔埕",
-      "v1": "căn nià tiâ",
-      "rr": "caⁿ niâ tiā",
-      "rr_ordinal": 1,
-      "v1_syllables": [
-        "can",
-        "nia",
-        "tia"
-      ],
-      "rr_syllables": [
-        "can",
-        "nia",
-        "tia"
-      ],
-      "syllables_match": true,
-      "current_value": "căn nià tiâ",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0810.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0810.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
       "auto_fill": false
     },
@@ -137321,52 +135059,6 @@
       "auto_fill": false
     },
     {
-      "id": "0858:8:M",
-      "page": 858,
-      "position": 8,
-      "field": "M",
-      "hanzi": "豚",
-      "v1": "tūn.:",
-      "rr": "tūnᶜ.",
-      "rr_ordinal": 8,
-      "v1_syllables": [
-        "tun"
-      ],
-      "rr_syllables": [
-        "tun"
-      ],
-      "syllables_match": true,
-      "current_value": "tūn.:",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0858.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0858.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0858:9:M",
-      "page": 858,
-      "position": 9,
-      "field": "M",
-      "hanzi": "猪豚",
-      "v1": "tú tūn.",
-      "rr": "tú tūnᶜ.",
-      "rr_ordinal": 9,
-      "v1_syllables": [
-        "tu",
-        "tun"
-      ],
-      "rr_syllables": [
-        "tu",
-        "tun"
-      ],
-      "syllables_match": true,
-      "current_value": "tú tūn.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0858.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0858.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0858:10:M",
       "page": 858,
       "position": 10,
@@ -140364,28 +138056,6 @@
       "auto_fill": false
     },
     {
-      "id": "0894:2:M",
-      "page": 894,
-      "position": 2,
-      "field": "M",
-      "hanzi": "繒",
-      "v1": "chan.",
-      "rr": "chanˇ",
-      "rr_ordinal": 2,
-      "v1_syllables": [
-        "chan"
-      ],
-      "rr_syllables": [
-        "chan"
-      ],
-      "syllables_match": true,
-      "current_value": "chan.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0894.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0894.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "0894:3:M",
       "page": 894,
       "position": 3,
@@ -140424,29 +138094,6 @@
       ],
       "syllables_match": true,
       "current_value": "pau.",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0894.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0894.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0894:5:M",
-      "page": 894,
-      "position": 5,
-      "field": "M",
-      "hanzi": "染繒",
-      "v1": "ny chan.",
-      "rr": "nŷchanˇ",
-      "rr_ordinal": 5,
-      "v1_syllables": [
-        "ny",
-        "chan"
-      ],
-      "rr_syllables": [
-        "nychan"
-      ],
-      "syllables_match": false,
-      "current_value": "ny chan.",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0894.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0894.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
@@ -145145,54 +142792,6 @@
       "current_value": "cham",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0948.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0948.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0951:1:M",
-      "page": 951,
-      "position": 1,
-      "field": "M",
-      "hanzi": "康泰",
-      "v1": "cong tay",
-      "rr": "cóng tayᶜ",
-      "rr_ordinal": 1,
-      "v1_syllables": [
-        "cong",
-        "tay"
-      ],
-      "rr_syllables": [
-        "cong",
-        "tay"
-      ],
-      "syllables_match": true,
-      "current_value": "cong tay",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0951.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0951.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "0951:2:M",
-      "page": 951,
-      "position": 2,
-      "field": "M",
-      "hanzi": "骨力",
-      "v1": "cur lat",
-      "rr": "cur latᶜ",
-      "rr_ordinal": 2,
-      "v1_syllables": [
-        "cur",
-        "lat"
-      ],
-      "rr_syllables": [
-        "cur",
-        "lat"
-      ],
-      "syllables_match": true,
-      "current_value": "cur lat",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p0951.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p0951.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
       "auto_fill": false
     },
@@ -156094,28 +153693,6 @@
       "auto_fill": false
     },
     {
-      "id": "1082:6:M",
-      "page": 1082,
-      "position": 6,
-      "field": "M",
-      "hanzi": "確",
-      "v1": "ᶜcap:",
-      "rr": "cap",
-      "rr_ordinal": 6,
-      "v1_syllables": [
-        "cap"
-      ],
-      "rr_syllables": [
-        "cap"
-      ],
-      "syllables_match": true,
-      "current_value": "ᶜcap:",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p1082.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p1082.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "1082:20:M",
       "page": 1082,
       "position": 20,
@@ -156658,30 +154235,6 @@
       "auto_fill": false
     },
     {
-      "id": "1087:3:M",
-      "page": 1087,
-      "position": 3,
-      "field": "M",
-      "hanzi": "衫仔",
-      "v1": "sa ia",
-      "rr": "saᵐ ià.",
-      "rr_ordinal": 3,
-      "v1_syllables": [
-        "sa",
-        "ia"
-      ],
-      "rr_syllables": [
-        "sa",
-        "ia"
-      ],
-      "syllables_match": true,
-      "current_value": "sa ia",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p1087.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p1087.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
       "id": "1087:6:M",
       "page": 1087,
       "position": 6,
@@ -156700,30 +154253,6 @@
       ],
       "syllables_match": true,
       "current_value": "siu pou",
-      "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p1087.json",
-      "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p1087.json",
-      "basis": "同序号且字母汤相同；行号仅为候选线索",
-      "auto_fill": false
-    },
-    {
-      "id": "1087:11:M",
-      "page": 1087,
-      "position": 11,
-      "field": "M",
-      "hanzi": "襤褸",
-      "v1": "lam lu",
-      "rr": "lamᵐ lù",
-      "rr_ordinal": 11,
-      "v1_syllables": [
-        "lam",
-        "lu"
-      ],
-      "rr_syllables": [
-        "lam",
-        "lu"
-      ],
-      "syllables_match": true,
-      "current_value": "lam lu",
       "v1_source": "66b1a45^:literature/workspace_m2_dhs834/blind_read_p1087.json",
       "rr_source": "literature/workspace_m2_dhs834/reread_mr/reread_mr_p1087.json",
       "basis": "同序号且字母汤相同；行号仅为候选线索",
