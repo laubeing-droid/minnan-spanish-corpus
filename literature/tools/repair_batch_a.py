@@ -126,3 +126,5 @@ print("跳过: 墨迹空", n_noink, "| 汤等价(含已修自动去重)", n_equa
 print("修复样本 10:")
 for a in applied[:10]:
     print("  p%04d pos%s %s: %r -> %r [%s]" % (a["page"], a["position"], a["field"], a["old"], a["new"], a["verdict"]))
+print()
+print("下一步（重封+门禁+强制复扫一键）：python literature/tools/seal_and_verify.py")

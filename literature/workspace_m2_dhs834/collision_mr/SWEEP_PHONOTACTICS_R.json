@@ -2,8 +2,8 @@
  "protocol": "SWEEP_PHONOTACTICS_R_V2",
  "classCounts": {
   "官话存疑韵尾": 939,
-  "官话非法声母": 200,
-  "稀有韵母": 868
+  "官话非法声母": 197,
+  "稀有韵母": 858
  },
  "hits": [
   {
@@ -5392,14 +5392,6 @@
   },
   {
    "page": 285,
-   "position": 2,
-   "field": "R",
-   "token": "tōṽ",
-   "class": "稀有韵母:-ov(全库2次)",
-   "context_v1": "tōṽ"
-  },
-  {
-   "page": 285,
    "position": 5,
    "field": "R",
    "token": "vân",
@@ -5416,39 +5408,7 @@
   },
   {
    "page": 285,
-   "position": 8,
-   "field": "R",
-   "token": "ṽg",
-   "class": "官话非法声母:v",
-   "context_v1": "ṽg"
-  },
-  {
-   "page": 285,
    "position": 9,
-   "field": "R",
-   "token": "m",
-   "class": "官话存疑韵尾:-m",
-   "context_v1": "m"
-  },
-  {
-   "page": 285,
-   "position": 9,
-   "field": "R",
-   "token": "ṽg",
-   "class": "官话非法声母:v",
-   "context_v1": "ṽg"
-  },
-  {
-   "page": 285,
-   "position": 12,
-   "field": "R",
-   "token": "côṽg",
-   "class": "稀有韵母:-ovg(全库2次)",
-   "context_v1": "côṽg"
-  },
-  {
-   "page": 285,
-   "position": 14,
    "field": "R",
    "token": "m",
    "class": "官话存疑韵尾:-m",
@@ -5458,17 +5418,9 @@
    "page": 285,
    "position": 14,
    "field": "R",
-   "token": "pêṽg",
-   "class": "稀有韵母:-evg(全库1次)",
-   "context_v1": "pêṽg"
-  },
-  {
-   "page": 285,
-   "position": 15,
-   "field": "R",
-   "token": "cōṽg",
-   "class": "稀有韵母:-ovg(全库2次)",
-   "context_v1": "cōṽg"
+   "token": "m",
+   "class": "官话存疑韵尾:-m",
+   "context_v1": "m"
   },
   {
    "page": 287,
@@ -5933,14 +5885,6 @@
    "token": "m",
    "class": "官话存疑韵尾:-m",
    "context_v1": "m"
-  },
-  {
-   "page": 311,
-   "position": 16,
-   "field": "R",
-   "token": "mōṽ",
-   "class": "稀有韵母:-ov(全库2次)",
-   "context_v1": "mōṽ"
   },
   {
    "page": 312,
@@ -10586,9 +10530,9 @@
    "page": 603,
    "position": 8,
    "field": "R",
-   "token": "levantarsea?",
-   "class": "稀有韵母:-evantarsea?(全库1次)",
-   "context_v1": "levantarsea?"
+   "token": "levantarsea",
+   "class": "稀有韵母:-evantarsea(全库1次)",
+   "context_v1": "levantarsea"
   },
   {
    "page": 603,
@@ -12120,14 +12064,6 @@
   },
   {
    "page": 759,
-   "position": 8,
-   "field": "R",
-   "token": "sī?",
-   "class": "稀有韵母:-i?(全库2次)",
-   "context_v1": "sī?"
-  },
-  {
-   "page": 759,
    "position": 12,
    "field": "R",
    "token": "camiar",
@@ -12447,14 +12383,6 @@
    "context_v1": "cauda"
   },
   {
-   "page": 788,
-   "position": 18,
-   "field": "R",
-   "token": "chī?",
-   "class": "稀有韵母:-i?(全库2次)",
-   "context_v1": "chī?"
-  },
-  {
    "page": 794,
    "position": 8,
    "field": "R",
@@ -12597,14 +12525,6 @@
    "token": "gūt",
    "class": "官话存疑韵尾:-t",
    "context_v1": "gūt"
-  },
-  {
-   "page": 818,
-   "position": 9,
-   "field": "R",
-   "token": "ṽ",
-   "class": "官话非法声母:v",
-   "context_v1": "ṽ"
   },
   {
    "page": 819,
@@ -12909,22 +12829,6 @@
    "token": "rat",
    "class": "官话存疑韵尾:-t",
    "context_v1": "rat"
-  },
-  {
-   "page": 865,
-   "position": 12,
-   "field": "R",
-   "token": "ngcal?",
-   "class": "稀有韵母:-al?(全库2次)",
-   "context_v1": "ngcal?"
-  },
-  {
-   "page": 865,
-   "position": 15,
-   "field": "R",
-   "token": "mbal?",
-   "class": "稀有韵母:-al?(全库2次)",
-   "context_v1": "mbal?"
   },
   {
    "page": 868,
@@ -15765,14 +15669,6 @@
    "token": "adoro",
    "class": "稀有韵母:-adoro(全库1次)",
    "context_v1": "adoro"
-  },
-  {
-   "page": 1115,
-   "position": 5,
-   "field": "R",
-   "token": "an?",
-   "class": "稀有韵母:-an?(全库1次)",
-   "context_v1": "an?"
   },
   {
    "page": 1115,

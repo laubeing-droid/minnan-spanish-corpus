@@ -1,9 +1,9 @@
 {
  "protocol": "SWEEP_PHONOTACTICS_M_V2",
  "classCounts": {
-  "稀有韵母": 1763,
-  "音系非法声母": 1732,
-  "音系非法韵尾": 1795
+  "稀有韵母": 1757,
+  "音系非法声母": 1729,
+  "音系非法韵尾": 1779
  },
  "rareRimes": [
   "aabvore",
@@ -1918,6 +1918,14 @@
   },
   {
    "page": 88,
+   "position": 5,
+   "field": "M",
+   "token": "mǒv",
+   "class": "稀有韵母:-ov(全库1次)",
+   "context_v1": "mǒv"
+  },
+  {
+   "page": 88,
    "position": 11,
    "field": "M",
    "token": "siaulāng",
@@ -3477,14 +3485,6 @@
    "context_v1": "ansí"
   },
   {
-   "page": 138,
-   "position": 24,
-   "field": "M",
-   "token": "como?",
-   "class": "稀有韵母:-omo?(全库1次)",
-   "context_v1": "como?"
-  },
-  {
    "page": 139,
    "position": 8,
    "field": "M",
@@ -3563,22 +3563,6 @@
    "token": "xǔn",
    "class": "音系非法声母:x",
    "context_v1": "xǔn"
-  },
-  {
-   "page": 141,
-   "position": 7,
-   "field": "M",
-   "token": "ṽ",
-   "class": "音系非法声母:v",
-   "context_v1": "ṽ"
-  },
-  {
-   "page": 141,
-   "position": 7,
-   "field": "M",
-   "token": "ṽ",
-   "class": "音系非法韵尾:-v",
-   "context_v1": "ṽ"
   },
   {
    "page": 141,
@@ -5083,22 +5067,6 @@
    "token": "l",
    "class": "音系非法韵尾:-l",
    "context_v1": "l"
-  },
-  {
-   "page": 178,
-   "position": 2,
-   "field": "M",
-   "token": "ṽ",
-   "class": "音系非法声母:v",
-   "context_v1": "ṽ"
-  },
-  {
-   "page": 178,
-   "position": 2,
-   "field": "M",
-   "token": "ṽ",
-   "class": "音系非法韵尾:-v",
-   "context_v1": "ṽ"
   },
   {
    "page": 178,
@@ -8038,22 +8006,6 @@
   },
   {
    "page": 273,
-   "position": 3,
-   "field": "M",
-   "token": "chioṽ",
-   "class": "音系非法韵尾:-v",
-   "context_v1": "chioṽ"
-  },
-  {
-   "page": 273,
-   "position": 3,
-   "field": "M",
-   "token": "chioṽ",
-   "class": "稀有韵母:-iov(全库1次)",
-   "context_v1": "chioṽ"
-  },
-  {
-   "page": 273,
    "position": 12,
    "field": "M",
    "token": "sier",
@@ -8328,41 +8280,9 @@
    "page": 285,
    "position": 10,
    "field": "M",
-   "token": "caṽ",
-   "class": "音系非法韵尾:-v",
-   "context_v1": "caṽ"
-  },
-  {
-   "page": 285,
-   "position": 10,
-   "field": "M",
    "token": "lābro",
    "class": "稀有韵母:-abro(全库2次)",
    "context_v1": "lābro"
-  },
-  {
-   "page": 285,
-   "position": 13,
-   "field": "M",
-   "token": "tōṽ",
-   "class": "音系非法韵尾:-v",
-   "context_v1": "tōṽ"
-  },
-  {
-   "page": 285,
-   "position": 15,
-   "field": "M",
-   "token": "tōṽg",
-   "class": "稀有韵母:-ovg(全库1次)",
-   "context_v1": "tōṽg"
-  },
-  {
-   "page": 285,
-   "position": 17,
-   "field": "M",
-   "token": "haṽ",
-   "class": "音系非法韵尾:-v",
-   "context_v1": "haṽ"
   },
   {
    "page": 286,
@@ -9091,22 +9011,6 @@
    "token": "s",
    "class": "音系非法韵尾:-s",
    "context_v1": "s"
-  },
-  {
-   "page": 311,
-   "position": 14,
-   "field": "M",
-   "token": "Buṽ",
-   "class": "音系非法韵尾:-v",
-   "context_v1": "Buṽ"
-  },
-  {
-   "page": 311,
-   "position": 16,
-   "field": "M",
-   "token": "buṽ",
-   "class": "音系非法韵尾:-v",
-   "context_v1": "buṽ"
   },
   {
    "page": 312,
@@ -10971,14 +10875,6 @@
    "token": "xioj",
    "class": "音系非法韵尾:-j",
    "context_v1": "xioj"
-  },
-  {
-   "page": 375,
-   "position": 4,
-   "field": "M",
-   "token": "hōṽ",
-   "class": "音系非法韵尾:-v",
-   "context_v1": "hōṽ"
   },
   {
    "page": 375,
@@ -19536,17 +19432,17 @@
    "page": 549,
    "position": 9,
    "field": "M",
-   "token": "villa?",
+   "token": "villa",
    "class": "音系非法声母:v",
-   "context_v1": "villa?"
+   "context_v1": "villa"
   },
   {
    "page": 549,
    "position": 9,
    "field": "M",
-   "token": "villa?",
-   "class": "稀有韵母:-illa?(全库1次)",
-   "context_v1": "villa?"
+   "token": "villa",
+   "class": "稀有韵母:-illa(全库1次)",
+   "context_v1": "villa"
   },
   {
    "page": 549,
@@ -23496,33 +23392,9 @@
    "page": 629,
    "position": 6,
    "field": "M",
-   "token": "chaṽ",
-   "class": "音系非法韵尾:-v",
-   "context_v1": "chaṽ"
-  },
-  {
-   "page": 629,
-   "position": 6,
-   "field": "M",
    "token": "tesa",
    "class": "稀有韵母:-esa(全库1次)",
    "context_v1": "tesa"
-  },
-  {
-   "page": 629,
-   "position": 6,
-   "field": "M",
-   "token": "ṽ",
-   "class": "音系非法声母:v",
-   "context_v1": "ṽ"
-  },
-  {
-   "page": 629,
-   "position": 6,
-   "field": "M",
-   "token": "ṽ",
-   "class": "音系非法韵尾:-v",
-   "context_v1": "ṽ"
   },
   {
    "page": 629,
@@ -23560,17 +23432,9 @@
    "page": 629,
    "position": 14,
    "field": "M",
-   "token": "cauchaṽchaṽ",
-   "class": "音系非法韵尾:-v",
-   "context_v1": "cauchaṽchaṽ"
-  },
-  {
-   "page": 629,
-   "position": 14,
-   "field": "M",
-   "token": "cauchaṽchaṽ",
-   "class": "稀有韵母:-auchavchav(全库1次)",
-   "context_v1": "cauchaṽchaṽ"
+   "token": "caucha",
+   "class": "稀有韵母:-aucha(全库1次)",
+   "context_v1": "caucha"
   },
   {
    "page": 629,
@@ -23587,22 +23451,6 @@
    "token": "avores",
    "class": "稀有韵母:-avores(全库1次)",
    "context_v1": "avores"
-  },
-  {
-   "page": 629,
-   "position": 16,
-   "field": "M",
-   "token": "chiṽ",
-   "class": "音系非法韵尾:-v",
-   "context_v1": "chiṽ"
-  },
-  {
-   "page": 629,
-   "position": 16,
-   "field": "M",
-   "token": "chiṽ",
-   "class": "稀有韵母:-iv(全库2次)",
-   "context_v1": "chiṽ"
   },
   {
    "page": 630,
@@ -26738,6 +26586,14 @@
    "field": "M",
    "token": "hǔv",
    "class": "音系非法韵尾:-v",
+   "context_v1": "hǔv"
+  },
+  {
+   "page": 705,
+   "position": 2,
+   "field": "M",
+   "token": "hǔv",
+   "class": "稀有韵母:-uv(全库1次)",
    "context_v1": "hǔv"
   },
   {
@@ -30510,46 +30366,6 @@
   },
   {
    "page": 818,
-   "position": 5,
-   "field": "M",
-   "token": "liāṽ",
-   "class": "音系非法韵尾:-v",
-   "context_v1": "liāṽ"
-  },
-  {
-   "page": 818,
-   "position": 5,
-   "field": "M",
-   "token": "liāṽ",
-   "class": "稀有韵母:-iav(全库1次)",
-   "context_v1": "liāṽ"
-  },
-  {
-   "page": 818,
-   "position": 8,
-   "field": "M",
-   "token": "bāṽ",
-   "class": "音系非法韵尾:-v",
-   "context_v1": "bāṽ"
-  },
-  {
-   "page": 818,
-   "position": 11,
-   "field": "M",
-   "token": "nīṽ",
-   "class": "音系非法韵尾:-v",
-   "context_v1": "nīṽ"
-  },
-  {
-   "page": 818,
-   "position": 11,
-   "field": "M",
-   "token": "nīṽ",
-   "class": "稀有韵母:-iv(全库2次)",
-   "context_v1": "nīṽ"
-  },
-  {
-   "page": 818,
    "position": 12,
    "field": "M",
    "token": "l",
@@ -33070,14 +32886,6 @@
   },
   {
    "page": 881,
-   "position": 1,
-   "field": "M",
-   "token": "liem?un",
-   "class": "稀有韵母:-iem?un(全库1次)",
-   "context_v1": "liem?un"
-  },
-  {
-   "page": 881,
    "position": 9,
    "field": "M",
    "token": "fe",
@@ -34771,14 +34579,6 @@
    "token": "cheîn",
    "class": "稀有韵母:-ein(全库2次)",
    "context_v1": "cheîn"
-  },
-  {
-   "page": 936,
-   "position": 9,
-   "field": "M",
-   "token": "iōg?",
-   "class": "稀有韵母:-iog?(全库1次)",
-   "context_v1": "iōg?"
   },
   {
    "page": 936,
