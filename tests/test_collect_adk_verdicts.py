@@ -1,3 +1,4 @@
+import hashlib
 import json
 import subprocess
 import sys
@@ -15,7 +16,22 @@ def item(position, v1, rr):
 
 def verdict(row, position=None, **extra):
     return {**row, "position": row["position"] if position is None else position,
-            "verdict": "V1对", "ink": "", "note": "", **extra}
+            "verdict": "V1对", "ink": "", "note": "", "letters": "V1", "tone_mark": "一致", **extra}
+
+
+def freeze(root, paths):
+    files = []
+    for path in paths:
+        content = path.read_bytes()
+        files.append({"path": path.relative_to(root).as_posix(), "sha256": hashlib.sha256(content).hexdigest()})
+    (root / "codex_M1_legacy_verdict_freeze.json").write_text(
+        json.dumps({"files": files}), encoding="utf-8")
+
+
+def collect(root, adk):
+    subprocess.run([sys.executable, "-X", "utf8", str(SCRIPT)], cwd=root,
+                   text=True, capture_output=True, check=True)
+    return json.loads((adk.parent / "ADK_ADJUDICATION_LEDGER.json").read_text(encoding="utf-8"))
 
 
 class CollectorTest(unittest.TestCase):
@@ -59,9 +75,8 @@ class CollectorTest(unittest.TestCase):
                 write(f"adk_p{page}.json", {"page": page, "items": [item(1, "x", "y")]})
             (adk / "adk_verdict_p1252.json").write_text("{", encoding="utf-8")
 
-            subprocess.run([sys.executable, "-X", "utf8", str(SCRIPT)], cwd=root,
-                           text=True, capture_output=True, check=True)
-            ledger = json.loads((adk.parent / "ADK_ADJUDICATION_LEDGER.json").read_text(encoding="utf-8"))
+            freeze(root, [])
+            ledger = collect(root, adk)
             stats = ledger["stats"]
             sample = [row for row in ledger["rows"] if row["page"] == 1001]
 
@@ -76,6 +91,52 @@ class CollectorTest(unittest.TestCase):
             self.assertTrue(any(row["metadata"].get("model") == "synthetic-model" for row in ledger["receiptSources"]))
             self.assertIsNone(ledger["arbiter"])
             self.assertEqual([row["verdict"] for row in sample if row["position"] == 13], ["V1对", "重读对"])
+
+    def test_legacy_exemption_dual_grades_and_candidate_status(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            adk = root / "literature/workspace_m2_dhs834/collision_mr/adk"
+            adk.mkdir(parents=True)
+            row = item(1, "synthetic-v1", "synthetic-rr")
+            old = {k: v for k, v in verdict(row).items() if k not in ("letters", "tone_mark")}
+            cases = {
+                1000: ({}, old),
+                1001: ({}, old),
+                1002: ({}, verdict(row, letters=None)),
+                1003: ({}, verdict(row, letters="invalid")),
+                1004: ({}, verdict(row, tone_mark="invalid")),
+                1005: ({}, verdict(row)),
+                1006: ({}, old),
+                1007: ({"protocol": "historical"}, old),
+                1008: ({"status": "候选"}, verdict(row)),
+                1009: ({"status": "PROVISIONAL"}, verdict(row)),
+                1010: ({}, verdict(row, status="CANDIDATE")),
+                1011: ({}, verdict(row, provisional=True)),
+                1012: ({}, verdict(row, letters=None)),
+            }
+            for page, (metadata, decision) in cases.items():
+                (adk / f"adk_p{page}.json").write_text(json.dumps({"items": [row]}), encoding="utf-8")
+                (adk / f"adk_verdict_p{page}.json").write_text(
+                    json.dumps({"page": page, **metadata, "verdicts": [decision]}, ensure_ascii=False), encoding="utf-8")
+            historic = [adk / f"adk_verdict_p{page}.json" for page in (1000, 1006, 1012)]
+            freeze(root, historic)
+            # Same path with changed bytes must no longer receive the historical exemption.
+            changed = json.loads(historic[1].read_text(encoding="utf-8"))
+            changed["protocol"] = "historical"
+            historic[1].write_text(json.dumps(changed, ensure_ascii=False), encoding="utf-8")
+
+            ledger = collect(root, adk)
+            self.assertEqual((ledger["stats"]["judged"], ledger["stats"]["unjudged"]), (2, 11))
+            self.assertEqual({r["page"] for r in ledger["rows"]}, {1000, 1005})
+            legacy_row = next(r for r in ledger["rows"] if r["page"] == 1000)
+            self.assertTrue(legacy_row["receipt"]["legacyExempt"])
+            self.assertNotIn("letters", legacy_row)
+            self.assertNotIn("tone_mark", legacy_row)
+            reasons = {r["page"]: r["reason"] for r in ledger["pending"]}
+            for page in (1001, 1002, 1003, 1004, 1006, 1007, 1012):
+                self.assertEqual(reasons[page], "双判级缺失或无效")
+            for page in (1008, 1009, 1010, 1011):
+                self.assertEqual(reasons[page], "候选回执未确认")
 
 
 if __name__ == "__main__":

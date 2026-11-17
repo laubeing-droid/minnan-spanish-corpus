@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """收集裁决文件 -> ADK_ADJUDICATION_LEDGER.json，不修改任务和裁决文件。"""
+import hashlib
 import json
 from collections import Counter, defaultdict
 from pathlib import Path
@@ -8,6 +9,12 @@ from pathlib import Path
 M2 = Path("literature/workspace_m2_dhs834")
 CD = M2 / "collision_mr"
 ADK = CD / "adk"
+legacy = json.loads(Path("codex_M1_legacy_verdict_freeze.json").read_text(encoding="utf-8"))["files"]
+legacy_hashes = {r["path"]: r["sha256"] for r in legacy}
+if len(legacy_hashes) != len(legacy):
+    raise ValueError("历史回执清册路径重复")
+dual_grades = {"letters": ("V1", "rr", "两皆误", "等价"),
+               "tone_mark": ("一致", "位置差", "缺失", "存疑")}
 
 queues = sorted(ADK.glob("adk_p*.json"))
 verdict_count = Counter()
@@ -25,6 +32,10 @@ def identity(row):
         return None
     return (row["position"], row["field"], row["v1"], row["rr"])
 
+def provisional(row):
+    status = str(row.get("status", "")).casefold()
+    return "candidate" in status or "provisional" in status or "候选" in status or "候選" in status or row.get("provisional") is True
+
 for q in queues:
     pk = q.stem.replace("adk_p", "")
     vf = ADK / ("adk_verdict_p" + pk + ".json")
@@ -35,18 +46,21 @@ for q in queues:
         missing.append(pk)
         continue
     try:
-        vdata = json.loads(vf.read_text(encoding="utf-8"))
-    except json.JSONDecodeError as ex:
+        receipt_bytes = vf.read_bytes()
+        vdata = json.loads(receipt_bytes)
+    except (json.JSONDecodeError, UnicodeDecodeError) as ex:
         # 半截文件（中断时写盘）按未裁入账，不崩全局
         unjudged += len(items)
-        missing.append(pk + "(损坏:" + str(ex.msg)[:20] + ")")
+        missing.append(pk + "(损坏:" + str(ex)[:20] + ")")
         continue
     if not isinstance(vdata, dict) or not isinstance(vdata.get("verdicts"), list) or vdata.get("page") != int(pk):
         unjudged += len(items)
         missing.append(pk + "(回执格式或页码错误)")
         continue
     verdicts = vdata["verdicts"]
-    receipt_sources.append({"file": vf.as_posix(), "metadata": {k: v for k, v in vdata.items() if k != "verdicts"}})
+    legacy_exempt = legacy_hashes.get(vf.as_posix()) == hashlib.sha256(receipt_bytes).hexdigest()
+    receipt_sources.append({"file": vf.as_posix(), "legacyExempt": legacy_exempt,
+                            "metadata": {k: v for k, v in vdata.items() if k != "verdicts"}})
     item_ids = [identity(it) for it in items]
     item_keys = Counter(k for k in item_ids if k is not None)
     item_values = Counter(k[1:] for k in item_ids if k is not None)
@@ -79,7 +93,12 @@ for q in queues:
         if matched is not None:
             v = verdicts[matched]
             vd = v.get("verdict")
-            if vd not in ("V1对", "重读对", "两皆误", "等价", "墨迹不明"):
+            if provisional(vdata) or provisional(v):
+                reason = "候选回执未确认"
+            elif any(not (legacy_exempt and name not in v) and v.get(name) not in choices
+                     for name, choices in dual_grades.items()):
+                reason = "双判级缺失或无效"
+            elif vd not in ("V1对", "重读对", "两皆误", "等价", "墨迹不明"):
                 reason = "判决无效"
             elif vd == "两皆误" and not str(v.get("ink") or "").strip():
                 reason = "两皆误缺少 ink"
@@ -91,7 +110,7 @@ for q in queues:
                 row = {"page": int(pk), **{k: it.get(k) for k in ("position", "field", "kind", "v1", "rr")},
                        "verdict": vd, "ink": v.get("ink"), "note": v.get("note"),
                        "receipt": {"file": vf.as_posix(), "index": matched + 1,
-                                   "position": v.get("position"), "match": method,
+                                   "position": v.get("position"), "match": method, "legacyExempt": legacy_exempt,
                                    "metadata": {k: val for k, val in v.items() if k not in
                                                 ("position", "field", "v1", "rr", "verdict", "ink", "note")}}}
                 row.update({k: v[k] for k in ("letters", "tone_mark") if k in v})
@@ -133,6 +152,7 @@ ledger = {
         "裁决来源以回执文件中实际声明的元数据为准；未声明者不推断。",
         "本台账只收集判决；修复需走 raw 改写及重封管线。",
         "未完成页列入 missingPages；有回执但不能唯一匹配的条目列入 pending。",
+        "双判级仅对冻结清册中路径和 SHA-256 均一致的旧回执允许缺省；候选回执不计正式裁决。",
     ],
 }
 out = CD / "ADK_ADJUDICATION_LEDGER.json"
