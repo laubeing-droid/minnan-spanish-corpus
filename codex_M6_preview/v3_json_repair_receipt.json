@@ -1,0 +1,40 @@
+{
+  "status": "APPLIED_SYNTAX_ONLY",
+  "scope": "第三版释义 JSON 字符串内未转义引号；原义未校对",
+  "files": [
+    {
+      "page": 102,
+      "file": "literature/workspace_m2_dhs834/gloss_layer_v3/gloss_p0102.json",
+      "old_sha256": "ffb2b0efe21f8ee31ea4da40bbc8557c7c0d57dee958d2b65a90c0ffca1ef220",
+      "new_sha256": "d19d3bb87313328a4da6116a64c7be6efea61c030235de5f9b1a3077a28b0e52",
+      "escape_insertions": 2,
+      "entries": 22,
+      "details": "codex_M6_preview/v3_json_repair_preview.json"
+    },
+    {
+      "page": 164,
+      "file": "literature/workspace_m2_dhs834/gloss_layer_v3/gloss_p0164.json",
+      "old_sha256": "5ba6ca24e49cdce754cb84bd655def973d189d3566ee9355073a629379d772ee",
+      "new_sha256": "9fc9dbb6c63b0971efeeb9c9d71d11ff8bb941f969f9c1f3debb7349c7e8a7fd",
+      "escape_insertions": 64,
+      "entries": 21,
+      "details": "codex_M6_preview/v3_json_repair_preview.json"
+    },
+    {
+      "page": 266,
+      "file": "literature/workspace_m2_dhs834/gloss_layer_v3/gloss_p0266.json",
+      "old_sha256": "b61cb78ebe12881cfcaec16f75d3d764fb2b0f865fc0897c459ffffb7e6efea6",
+      "new_sha256": "c2e80e73cdae7d91c5ec49d7c6bad106c826114debfce4a1a8e8b25d19ce9ffa",
+      "escape_insertions": 44,
+      "entries": 18,
+      "details": "codex_M6_preview/v3_json_repair_preview.json"
+    }
+  ],
+  "verification": {
+    "v3_files": 273,
+    "parsed": 273,
+    "entries": 5560,
+    "page_positions_and_nonempty_zh_en": "PASS",
+    "missing_v3_pages": 830
+  }
+}

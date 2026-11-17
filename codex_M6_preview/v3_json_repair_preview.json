@@ -1,0 +1,824 @@
+{
+  "status": "PREVIEW_ONLY_NOT_FORMAL",
+  "purpose": "JSON syntax repair candidates; source files unchanged; does not validate meanings",
+  "files": [
+    {
+      "page": 102,
+      "source": "literature/workspace_m2_dhs834/gloss_layer_v3/gloss_p0102.json",
+      "candidate": "codex_M6_preview/gloss_v3_p0102_syntax_candidate.json",
+      "source_sha256": "ffb2b0efe21f8ee31ea4da40bbc8557c7c0d57dee958d2b65a90c0ffca1ef220",
+      "candidate_sha256": "d19d3bb87313328a4da6116a64c7be6efea61c030235de5f9b1a3077a28b0e52",
+      "type": "unescaped internal double quote",
+      "entries": 22,
+      "position_order_equal": true,
+      "unique_positions": true,
+      "zh_en_nonempty": true,
+      "only_escaping_added": true,
+      "quote_count": 2,
+      "edits": [
+        {
+          "line": 12,
+          "column_codepoints_1based": 37,
+          "field": "zh",
+          "original_character": "\"",
+          "context": " \"zh\": \"鲈鳗；大鳗（俗称\"雷鳗\"之类的大鳗鱼）\", \"en"
+        },
+        {
+          "line": 12,
+          "column_codepoints_1based": 40,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "h\": \"鲈鳗；大鳗（俗称\"雷鳗\"之类的大鳗鱼）\", \"en\": "
+        }
+      ]
+    },
+    {
+      "page": 164,
+      "source": "literature/workspace_m2_dhs834/gloss_layer_v3/gloss_p0164.json",
+      "candidate": "codex_M6_preview/gloss_v3_p0164_syntax_candidate.json",
+      "source_sha256": "5ba6ca24e49cdce754cb84bd655def973d189d3566ee9355073a629379d772ee",
+      "candidate_sha256": "9fc9dbb6c63b0971efeeb9c9d71d11ff8bb941f969f9c1f3debb7349c7e8a7fd",
+      "type": "unescaped internal double quote",
+      "entries": 21,
+      "position_order_equal": true,
+      "unique_positions": true,
+      "zh_en_nonempty": true,
+      "only_escaping_added": true,
+      "quote_count": 64,
+      "edits": [
+        {
+          "line": 6,
+          "column_codepoints_1based": 33,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "Banco, ostilla 为\"椅/凳\"一类的坐具；此处对\"椅\""
+        },
+        {
+          "line": 6,
+          "column_codepoints_1based": 37,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "o, ostilla 为\"椅/凳\"一类的坐具；此处对\"椅\"）\","
+        },
+        {
+          "line": 6,
+          "column_codepoints_1based": 47,
+          "field": "zh",
+          "original_character": "\"",
+          "context": " 为\"椅/凳\"一类的坐具；此处对\"椅\"）\","
+        },
+        {
+          "line": 6,
+          "column_codepoints_1based": 49,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "\"椅/凳\"一类的坐具；此处对\"椅\"）\","
+        },
+        {
+          "line": 27,
+          "column_codepoints_1based": 22,
+          "field": "zh",
+          "original_character": "\"",
+          "context": " \"zh\": \"沙滩；沙洲（砂，\"Banco de arena\"即"
+        },
+        {
+          "line": 27,
+          "column_codepoints_1based": 37,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "，\"Banco de arena\"即沙洲；Juntacora 或为"
+        },
+        {
+          "line": 30,
+          "column_codepoints_1based": 22,
+          "field": "notes",
+          "original_character": "\"",
+          "context": " \"notes\": \"汉字仅单字\"砂\"，西语 Juntacora（"
+        },
+        {
+          "line": 30,
+          "column_codepoints_1based": 24,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "notes\": \"汉字仅单字\"砂\"，西语 Juntacora（疑为"
+        },
+        {
+          "line": 34,
+          "column_codepoints_1based": 40,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "o de arena；汉字标注为\"汶坛\"[疑:汶/沙]，音写 ho"
+        },
+        {
+          "line": 34,
+          "column_codepoints_1based": 43,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "e arena；汉字标注为\"汶坛\"[疑:汶/沙]，音写 hoa ū"
+        },
+        {
+          "line": 34,
+          "column_codepoints_1based": 64,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "/沙]，音写 hoa ūn，更近\"沙埕/沙坪\"一类地形词，释义存疑"
+        },
+        {
+          "line": 34,
+          "column_codepoints_1based": 70,
+          "field": "zh",
+          "original_character": "\"",
+          "context": " hoa ūn，更近\"沙埕/沙坪\"一类地形词，释义存疑）\","
+        },
+        {
+          "line": 41,
+          "column_codepoints_1based": 31,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "边；这一边（只砰[疑:砰/坪]，\"della banda\"即\"在这"
+        },
+        {
+          "line": 41,
+          "column_codepoints_1based": 43,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "/坪]，\"della banda\"即\"在这一侧\"；附带的 (iay"
+        },
+        {
+          "line": 41,
+          "column_codepoints_1based": 45,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "]，\"della banda\"即\"在这一侧\"；附带的 (iay n"
+        },
+        {
+          "line": 41,
+          "column_codepoints_1based": 50,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "lla banda\"即\"在这一侧\"；附带的 (iay neh) 为"
+        },
+        {
+          "line": 44,
+          "column_codepoints_1based": 19,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "    \"notes\": \"汉字\"砰\"带 [疑:砰/坪] 标记；括"
+        },
+        {
+          "line": 44,
+          "column_codepoints_1based": 21,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "  \"notes\": \"汉字\"砰\"带 [疑:砰/坪] 标记；括号内"
+        },
+        {
+          "line": 55,
+          "column_codepoints_1based": 20,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "   \"zh\": \"这边；这片（\"esta banda, de e"
+        },
+        {
+          "line": 55,
+          "column_codepoints_1based": 40,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "a banda, de esta\"即\"这一侧/这一边\"）\","
+        },
+        {
+          "line": 55,
+          "column_codepoints_1based": 42,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "banda, de esta\"即\"这一侧/这一边\"）\","
+        },
+        {
+          "line": 55,
+          "column_codepoints_1based": 50,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "e esta\"即\"这一侧/这一边\"）\","
+        },
+        {
+          "line": 62,
+          "column_codepoints_1based": 21,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "  \"zh\": \"边；旁边（边，\"lado\"）\","
+        },
+        {
+          "line": 62,
+          "column_codepoints_1based": 26,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "\": \"边；旁边（边，\"lado\"）\","
+        },
+        {
+          "line": 69,
+          "column_codepoints_1based": 27,
+          "field": "zh",
+          "original_character": "\"",
+          "context": ": \"边缘；旁边（边頭，原稿注 \"id.\" 即与前条同义）\","
+        },
+        {
+          "line": 69,
+          "column_codepoints_1based": 31,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "缘；旁边（边頭，原稿注 \"id.\" 即与前条同义）\","
+        },
+        {
+          "line": 76,
+          "column_codepoints_1based": 24,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "zh\": \"旁边；靠着边（边边，\"por la banda\"即\"偏"
+        },
+        {
+          "line": 76,
+          "column_codepoints_1based": 37,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "边边，\"por la banda\"即\"偏在一侧\"；原稿注 \"ide"
+        },
+        {
+          "line": 76,
+          "column_codepoints_1based": 39,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "，\"por la banda\"即\"偏在一侧\"；原稿注 \"idem\""
+        },
+        {
+          "line": 76,
+          "column_codepoints_1based": 44,
+          "field": "zh",
+          "original_character": "\"",
+          "context": " la banda\"即\"偏在一侧\"；原稿注 \"idem\" 同义）\""
+        },
+        {
+          "line": 76,
+          "column_codepoints_1based": 50,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "nda\"即\"偏在一侧\"；原稿注 \"idem\" 同义）\","
+        },
+        {
+          "line": 76,
+          "column_codepoints_1based": 55,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "\"偏在一侧\"；原稿注 \"idem\" 同义）\","
+        },
+        {
+          "line": 83,
+          "column_codepoints_1based": 31,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "边；那一侧（许砰[疑:砰/坪]，\"de aquella banda"
+        },
+        {
+          "line": 83,
+          "column_codepoints_1based": 48,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "de aquella banda\"即\"在那一侧\"）\","
+        },
+        {
+          "line": 83,
+          "column_codepoints_1based": 50,
+          "field": "zh",
+          "original_character": "\"",
+          "context": " aquella banda\"即\"在那一侧\"）\","
+        },
+        {
+          "line": 83,
+          "column_codepoints_1based": 55,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "lla banda\"即\"在那一侧\"）\","
+        },
+        {
+          "line": 86,
+          "column_codepoints_1based": 19,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "    \"notes\": \"汉字\"砰\"带 [疑:砰/坪] 标记，但"
+        },
+        {
+          "line": 86,
+          "column_codepoints_1based": 21,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "  \"notes\": \"汉字\"砰\"带 [疑:砰/坪] 标记，但音写"
+        },
+        {
+          "line": 86,
+          "column_codepoints_1based": 46,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "] 标记，但音写 hû 与指示词\"许\"对应清楚。\""
+        },
+        {
+          "line": 86,
+          "column_codepoints_1based": 48,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "标记，但音写 hû 与指示词\"许\"对应清楚。\""
+        },
+        {
+          "line": 90,
+          "column_codepoints_1based": 31,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "面；另一侧（向砰[疑:砰/坪]，\"de la otra banda"
+        },
+        {
+          "line": 90,
+          "column_codepoints_1based": 48,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "de la otra banda\"）\","
+        },
+        {
+          "line": 93,
+          "column_codepoints_1based": 19,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "    \"notes\": \"汉字\"砰\"带 [疑:砰/坪] 标记，语"
+        },
+        {
+          "line": 93,
+          "column_codepoints_1based": 21,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "  \"notes\": \"汉字\"砰\"带 [疑:砰/坪] 标记，语义由"
+        },
+        {
+          "line": 97,
+          "column_codepoints_1based": 26,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "\": \"汗巾；手帕、围巾（汗巾，\"Banda para atar "
+        },
+        {
+          "line": 97,
+          "column_codepoints_1based": 59,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "alcuello pañuelo\"即系颈用的巾帕）\","
+        },
+        {
+          "line": 104,
+          "column_codepoints_1based": 59,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "a buy 语义无法定夺；西语 \"Bandalos tributo"
+        },
+        {
+          "line": 104,
+          "column_codepoints_1based": 77,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "andalos tributos\" 疑为 Bandos/tribu"
+        },
+        {
+          "line": 111,
+          "column_codepoints_1based": 49,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "derola/旌幡一类；汉字单字\"旌\"）\","
+        },
+        {
+          "line": 111,
+          "column_codepoints_1based": 51,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "rola/旌幡一类；汉字单字\"旌\"）\","
+        },
+        {
+          "line": 114,
+          "column_codepoints_1based": 48,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "二音节 qȳ 对应汉字不明，仅凭\"旌\"字与西语互证。\""
+        },
+        {
+          "line": 114,
+          "column_codepoints_1based": 50,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "节 qȳ 对应汉字不明，仅凭\"旌\"字与西语互证。\""
+        },
+        {
+          "line": 125,
+          "column_codepoints_1based": 30,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "大纛；主帅旗（纛[疑:纛/縣]，\"bandera\"在此指军中大旗）"
+        },
+        {
+          "line": 125,
+          "column_codepoints_1based": 38,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "[疑:纛/縣]，\"bandera\"在此指军中大旗）\","
+        },
+        {
+          "line": 132,
+          "column_codepoints_1based": 34,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "纛（旗纛[疑:纛/縣]；西语注 \"principal, y si "
+        },
+        {
+          "line": 132,
+          "column_codepoints_1based": 77,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "quedan veis cdos\" 意即主旗若失则余二十旗皆陷，指"
+        },
+        {
+          "line": 146,
+          "column_codepoints_1based": 37,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "（bandera Real；汉字\"詔旗\"[疑:詔/韶]，此处\"詔\""
+        },
+        {
+          "line": 146,
+          "column_codepoints_1based": 40,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "ndera Real；汉字\"詔旗\"[疑:詔/韶]，此处\"詔\"疑为\""
+        },
+        {
+          "line": 146,
+          "column_codepoints_1based": 51,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "汉字\"詔旗\"[疑:詔/韶]，此处\"詔\"疑为\"诏/朝\"一类讹写，取\""
+        },
+        {
+          "line": 146,
+          "column_codepoints_1based": 53,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "\"詔旗\"[疑:詔/韶]，此处\"詔\"疑为\"诏/朝\"一类讹写，取\"皇家"
+        },
+        {
+          "line": 146,
+          "column_codepoints_1based": 56,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "\"[疑:詔/韶]，此处\"詔\"疑为\"诏/朝\"一类讹写，取\"皇家/王\""
+        },
+        {
+          "line": 146,
+          "column_codepoints_1based": 60,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "詔/韶]，此处\"詔\"疑为\"诏/朝\"一类讹写，取\"皇家/王\"义）\","
+        },
+        {
+          "line": 146,
+          "column_codepoints_1based": 67,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "\"詔\"疑为\"诏/朝\"一类讹写，取\"皇家/王\"义）\","
+        },
+        {
+          "line": 146,
+          "column_codepoints_1based": 72,
+          "field": "zh",
+          "original_character": "\"",
+          "context": "\"诏/朝\"一类讹写，取\"皇家/王\"义）\","
+        }
+      ]
+    },
+    {
+      "page": 266,
+      "source": "literature/workspace_m2_dhs834/gloss_layer_v3/gloss_p0266.json",
+      "candidate": "codex_M6_preview/gloss_v3_p0266_syntax_candidate.json",
+      "source_sha256": "b61cb78ebe12881cfcaec16f75d3d764fb2b0f865fc0897c459ffffb7e6efea6",
+      "candidate_sha256": "c2e80e73cdae7d91c5ec49d7c6bad106c826114debfce4a1a8e8b25d19ce9ffa",
+      "type": "unescaped internal double quote",
+      "entries": 18,
+      "position_order_equal": true,
+      "unique_positions": true,
+      "zh_en_nonempty": true,
+      "only_escaping_added": true,
+      "quote_count": 44,
+      "edits": [
+        {
+          "line": 9,
+          "column_codepoints_1based": 40,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "r 首义为过滤，但四栏首条配单字\"鏽\"、闽南 chû（tsu³），"
+        },
+        {
+          "line": 9,
+          "column_codepoints_1based": 42,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "首义为过滤，但四栏首条配单字\"鏽\"、闽南 chû（tsu³），疑词"
+        },
+        {
+          "line": 9,
+          "column_codepoints_1based": 72,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "，疑词头实为 colar 与下组\"摶\"族的条目级错位，按汉字与音读"
+        },
+        {
+          "line": 9,
+          "column_codepoints_1based": 74,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "词头实为 colar 与下组\"摶\"族的条目级错位，按汉字与音读定为"
+        },
+        {
+          "line": 9,
+          "column_codepoints_1based": 91,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "族的条目级错位，按汉字与音读定为\"锈/锈蚀\"。\""
+        },
+        {
+          "line": 9,
+          "column_codepoints_1based": 96,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "错位，按汉字与音读定为\"锈/锈蚀\"。\""
+        },
+        {
+          "line": 23,
+          "column_codepoints_1based": 30,
+          "field": "notes",
+          "original_character": "\"",
+          "context": ": \"colar algo 直译\"滤出某物\"，配\"摶退\"，两者均含"
+        },
+        {
+          "line": 23,
+          "column_codepoints_1based": 35,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "lar algo 直译\"滤出某物\"，配\"摶退\"，两者均含\"排除、退"
+        },
+        {
+          "line": 23,
+          "column_codepoints_1based": 38,
+          "field": "notes",
+          "original_character": "\"",
+          "context": " algo 直译\"滤出某物\"，配\"摶退\"，两者均含\"排除、退去\"义"
+        },
+        {
+          "line": 23,
+          "column_codepoints_1based": 41,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "go 直译\"滤出某物\"，配\"摶退\"，两者均含\"排除、退去\"义，取滤"
+        },
+        {
+          "line": 23,
+          "column_codepoints_1based": 47,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "滤出某物\"，配\"摶退\"，两者均含\"排除、退去\"义，取滤除为正解。\""
+        },
+        {
+          "line": 23,
+          "column_codepoints_1based": 53,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "配\"摶退\"，两者均含\"排除、退去\"义，取滤除为正解。\""
+        },
+        {
+          "line": 30,
+          "column_codepoints_1based": 46,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "o/estera=以布或席滤之，\"摶洗\"亦指淘洗，四栏互证清晰。\""
+        },
+        {
+          "line": 30,
+          "column_codepoints_1based": 49,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "stera=以布或席滤之，\"摶洗\"亦指淘洗，四栏互证清晰。\""
+        },
+        {
+          "line": 37,
+          "column_codepoints_1based": 52,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "oladero（漏勺）之形误，配\"摶桨\"（tsio³，勺桨），按滤"
+        },
+        {
+          "line": 37,
+          "column_codepoints_1based": 55,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "dero（漏勺）之形误，配\"摶桨\"（tsio³，勺桨），按滤具义定"
+        },
+        {
+          "line": 44,
+          "column_codepoints_1based": 36,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "Colchar=交织、穿插，汉字\"穿紗\"、闽南 chũi sé（穿"
+        },
+        {
+          "line": 44,
+          "column_codepoints_1based": 39,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "char=交织、穿插，汉字\"穿紗\"、闽南 chũi sé（穿纱）四"
+        },
+        {
+          "line": 51,
+          "column_codepoints_1based": 57,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "，闽南 xiōg（jiok）对音\"褥\"，互证清晰。\""
+        },
+        {
+          "line": 51,
+          "column_codepoints_1based": 59,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "南 xiōg（jiok）对音\"褥\"，互证清晰。\""
+        },
+        {
+          "line": 58,
+          "column_codepoints_1based": 69,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "echado（卧于褥）之形损，配\"困縟\"（困=睡卧），按睡褥义定。"
+        },
+        {
+          "line": 58,
+          "column_codepoints_1based": 72,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "ado（卧于褥）之形损，配\"困縟\"（困=睡卧），按睡褥义定。\""
+        },
+        {
+          "line": 65,
+          "column_codepoints_1based": 19,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "    \"notes\": \"汉字\"躁\"、闽南 gĩ çō（疑躁），"
+        },
+        {
+          "line": 65,
+          "column_codepoints_1based": 21,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "  \"notes\": \"汉字\"躁\"、闽南 gĩ çō（疑躁），西语"
+        },
+        {
+          "line": 72,
+          "column_codepoints_1based": 30,
+          "field": "notes",
+          "original_character": "\"",
+          "context": ": \"西语 colerico 配\"鯁性\"（ngé-sè），指鲠直倔"
+        },
+        {
+          "line": 72,
+          "column_codepoints_1based": 33,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "西语 colerico 配\"鯁性\"（ngé-sè），指鲠直倔强之性"
+        },
+        {
+          "line": 79,
+          "column_codepoints_1based": 75,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "与闽南 khuì-guìnn 取\"气紧（性急）\"义。\""
+        },
+        {
+          "line": 79,
+          "column_codepoints_1based": 82,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "ì-guìnn 取\"气紧（性急）\"义。\""
+        },
+        {
+          "line": 86,
+          "column_codepoints_1based": 30,
+          "field": "notes",
+          "original_character": "\"",
+          "context": ": \"西语 colerico 配\"緊心性\"（guìnn-sîm-s"
+        },
+        {
+          "line": 86,
+          "column_codepoints_1based": 34,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "语 colerico 配\"緊心性\"（guìnn-sîm-sè），心"
+        },
+        {
+          "line": 93,
+          "column_codepoints_1based": 43,
+          "field": "notes",
+          "original_character": "\"",
+          "context": " colerico=天生易怒，配\"性悟\"[疑:悟/恬]，取\"性情天"
+        },
+        {
+          "line": 93,
+          "column_codepoints_1based": 46,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "lerico=天生易怒，配\"性悟\"[疑:悟/恬]，取\"性情天成\"义"
+        },
+        {
+          "line": 93,
+          "column_codepoints_1based": 56,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "怒，配\"性悟\"[疑:悟/恬]，取\"性情天成\"义。\""
+        },
+        {
+          "line": 93,
+          "column_codepoints_1based": 61,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "悟\"[疑:悟/恬]，取\"性情天成\"义。\""
+        },
+        {
+          "line": 100,
+          "column_codepoints_1based": 40,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "o, apressurado 配\"性緊\"（sè-guìnn），性急"
+        },
+        {
+          "line": 100,
+          "column_codepoints_1based": 43,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "apressurado 配\"性緊\"（sè-guìnn），性急催迫之"
+        },
+        {
+          "line": 107,
+          "column_codepoints_1based": 30,
+          "field": "notes",
+          "original_character": "\"",
+          "context": ": \"西语 colerico 配\"緊躁\"（guìnn-ò），急躁之"
+        },
+        {
+          "line": 107,
+          "column_codepoints_1based": 33,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "西语 colerico 配\"緊躁\"（guìnn-ò），急躁之义四栏"
+        },
+        {
+          "line": 114,
+          "column_codepoints_1based": 43,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "mala condicion 配\"驢馬心性\"，骂人脾性如牲口，四栏"
+        },
+        {
+          "line": 114,
+          "column_codepoints_1based": 48,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "condicion 配\"驢馬心性\"，骂人脾性如牲口，四栏互证。\""
+        },
+        {
+          "line": 121,
+          "column_codepoints_1based": 59,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "为字形损（疑指怒气上脸变貌），配\"青面\"（tsè-bīn），按怒则"
+        },
+        {
+          "line": 121,
+          "column_codepoints_1based": 62,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "损（疑指怒气上脸变貌），配\"青面\"（tsè-bīn），按怒则面色青"
+        },
+        {
+          "line": 128,
+          "column_codepoints_1based": 48,
+          "field": "notes",
+          "original_character": "\"",
+          "context": "der con cólera 配\"激嘴\"（kek-tsuìi），指"
+        },
+        {
+          "line": 128,
+          "column_codepoints_1based": 51,
+          "field": "notes",
+          "original_character": "\"",
+          "context": " con cólera 配\"激嘴\"（kek-tsuìi），指因怒而"
+        }
+      ]
+    }
+  ]
+}
