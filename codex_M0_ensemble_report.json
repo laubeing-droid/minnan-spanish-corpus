@@ -1,0 +1,139 @@
+{
+  "status": "DIAGNOSTIC_NOT_OFFICIAL",
+  "created_utc": "2026-11-17T23:07:59.310790+00:00",
+  "protocol": "codex_M0_ensemble_protocol.md",
+  "answers": [
+    {
+      "file": "_scratch_p0257/codex_ensemble_a.json",
+      "sha256": "7849a630a58a39554d3984b76bf229f38156ccfe1265366ccccd406c886b2e26"
+    },
+    {
+      "file": "_scratch_p0257/codex_ensemble_b.json",
+      "sha256": "dc2f3ec352354a1199f495d2a209b96a46e02c240f0d171b04c350db1f1ecab6"
+    },
+    {
+      "file": "_scratch_p0257/codex_ensemble_c.json",
+      "sha256": "7c2a2eaadaea95bad0565dc7ce43c5c297ab535384c4e69a31412fe1d01a64b3"
+    }
+  ],
+  "calibration_reference": "用户转交的九题清单；封存标准仍有核心题计数和真值冲突",
+  "alignment": "三份 cropA 均含 ante 页眉，A3/A4/A5 对应数组索引 2/3/4；B2/B5/B6/B7 为 1/4/5/6；汉字0/1",
+  "comparison": "依现行 grade_calibration.py 的 soup/cjk；含 [残] 的读法不参加确定多数",
+  "individual_scores_out_of_9": [
+    4,
+    4,
+    4
+  ],
+  "consensus_matching": 4,
+  "consensus_hanzi_matching_out_of_2": 2,
+  "rows": [
+    {
+      "question": "A3",
+      "individual_status": [
+        "未决",
+        "未决",
+        "未决"
+      ],
+      "consensus_status": "未决",
+      "consensus_votes": 0,
+      "handoff_reference": "tó toâ"
+    },
+    {
+      "question": "A4",
+      "individual_status": [
+        "分歧",
+        "分歧",
+        "分歧"
+      ],
+      "consensus_status": "分歧",
+      "consensus_votes": 3,
+      "handoff_reference": "yô toâ"
+    },
+    {
+      "question": "A5",
+      "individual_status": [
+        "一致",
+        "一致",
+        "一致"
+      ],
+      "consensus_status": "一致",
+      "consensus_votes": 3,
+      "handoff_reference": "yó."
+    },
+    {
+      "question": "B2",
+      "individual_status": [
+        "一致",
+        "一致",
+        "一致"
+      ],
+      "consensus_status": "一致",
+      "consensus_votes": 3,
+      "handoff_reference": "piēn"
+    },
+    {
+      "question": "B5",
+      "individual_status": [
+        "分歧",
+        "一致",
+        "未决"
+      ],
+      "consensus_status": "未决",
+      "consensus_votes": 0,
+      "handoff_reference": "cûa pūe"
+    },
+    {
+      "question": "B6",
+      "individual_status": [
+        "未决",
+        "未决",
+        "未决"
+      ],
+      "consensus_status": "未决",
+      "consensus_votes": 0,
+      "handoff_reference": "cûa ciòng guêng pūē"
+    },
+    {
+      "question": "B7",
+      "individual_status": [
+        "分歧",
+        "分歧",
+        "分歧"
+      ],
+      "consensus_status": "分歧",
+      "consensus_votes": 3,
+      "handoff_reference": "Pēŋ."
+    },
+    {
+      "question": "D1",
+      "individual_status": [
+        "一致",
+        "一致",
+        "一致"
+      ],
+      "consensus_status": "一致",
+      "consensus_votes": 3,
+      "handoff_reference": "割皮"
+    },
+    {
+      "question": "D2",
+      "individual_status": [
+        "一致",
+        "未决",
+        "一致"
+      ],
+      "consensus_status": "一致",
+      "consensus_votes": 2,
+      "handoff_reference": "割玉脛皮"
+    }
+  ],
+  "official_grader": "正式标准 8 条核心标记、声明 9 条，判卷器拒判",
+  "qualification": "不宣称通过；并行结果不能替代修复正式标准或校准门",
+  "limitations": [
+    "两读一致也不自动证明墨迹正确",
+    "上置小字母 ᶜ 与组合小字母 ͨ 在现行字母汤中的处理不同",
+    "ŋ 与 ng 现行比较不等同；若另作等同仅为敏感性讨论",
+    "三个任务使用同一模型，错误可能相关"
+  ],
+  "reference_note": "交接九题清单原值与物理行的对应；其中 A3 与仓库排除裁定、A4 与标准 truth 冲突，列示不等于自行确定正式真值。"
+}

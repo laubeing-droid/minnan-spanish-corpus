@@ -1,0 +1,45 @@
+{
+  "kind": "独立源图盲读记录，非正式判决",
+  "scope": "仅看指定两页的原横带及从其内存裁剪的同源局部；共显示8张图。",
+  "method": "以页面自上而下的可见行序作候选定位；结构项编号与视觉行序未能独立建立对应关系，均标待核。只记录视觉可辨墨迹，不以音系补字。",
+  "coordinate_note": "x、y为各原横带像素近似坐标，不是原整页坐标；竖线位置按原横带估计。",
+  "items": [
+    {
+      "page": "1026",
+      "requested_structure_position": 2,
+      "position_status": "待核",
+      "candidate": "原顶横带自上第2个可见文本行",
+      "source": "literature/tiles/01_DHS/page_1026/pdf_1026_band_y0_top.png",
+      "candidate_y_approx": "570–710",
+      "hanzi": "嬸",
+      "adjacent_hanzi": {
+        "above": "姑 姨",
+        "below": "母 妗"
+      },
+      "left_western": "Tia, muger del herⁿᵒ de mi P[残].",
+      "middle_ink": "shim ch[残]；后有明显涂划墨迹[残]，上方有斜笔。",
+      "vertical_lines": "左侧约x=290见断续淡红竖痕；汉字与右侧书写交界约x=1120一带有极淡断痕；右端约x=1985有淡红竖痕。线条不连续，是否均为正式分栏线待核；其余线迹[残]。",
+      "rightmost_phonetic_column": "[空]；最右区未见可辨黑色音写墨迹。",
+      "limitations": "首、下邻行字形和栏界亦仅为目视记录；候选行不等于已确认的结构位置。"
+    },
+    {
+      "page": "0611",
+      "requested_structure_position": 13,
+      "position_status": "待核",
+      "candidate": "从顶部横带起逐行计数，第13个可见文本行；横带间重叠行只计一次。",
+      "source": "literature/tiles/01_DHS/page_0611/pdf_0611_band_y2_bot.png",
+      "candidate_y_approx": "340–490",
+      "hanzi": "題 [残] [残]",
+      "hanzi_visible_shapes": "首字見題；第二字左部近木、右上有方框及下部多筆，第三字上部近竹、下部交筆，均不能確讀。",
+      "adjacent_hanzi": {
+        "above": "[残] 施",
+        "below": "[残] 緣"
+      },
+      "left_western": "limosna p[残] el templo del ydolo.",
+      "middle_ink": "tey nio chiam [残]；字母上另有横线、弯钩和斜笔，确切附着与涂划处待核。",
+      "vertical_lines": "约x=825为淡红竖线；约x=1155的汉字与音写交界有断续淡红竖痕；约x=1665位置有极淡残迹，本行是否连续待核；约x=2020为右侧红色框线，约x=2060还有贴近页边的深色竖痕，最外页边附近亦见污损。",
+      "rightmost_phonetic_column": "有跨栏西文墨迹，近右侧可辨“[残] en la tabla del”；下一行可辨“templo del idolo limosna”，与最右栏的确切交界待核。",
+      "limitations": "右侧长句及行下延续笔迹的分栏归属不完全清楚；候选行不等于已确认的结构位置。"
+    }
+  ]
+}

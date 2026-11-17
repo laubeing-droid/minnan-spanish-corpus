@@ -1,0 +1,175 @@
+{
+  "page": "01_DHS/page_0455",
+  "reading_method": "独立盲读；只看三张原横带和由原横带直接裁切放大的五个局部，共八张显示；未用字典、音系或既有转写推字。",
+  "source_views": [
+    {
+      "file": "pdf_0455_band_y0_top.png",
+      "view": "整张原横带"
+    },
+    {
+      "file": "pdf_0455_band_y1_mid.png",
+      "view": "整张原横带"
+    },
+    {
+      "file": "pdf_0455_band_y2_bot.png",
+      "view": "整张原横带"
+    },
+    {
+      "file": "pdf_0455_band_y1_mid.png",
+      "crop_xyxy": [
+        1080,
+        290,
+        2000,
+        850
+      ]
+    },
+    {
+      "file": "pdf_0455_band_y1_mid.png",
+      "crop_xyxy": [
+        270,
+        305,
+        2000,
+        690
+      ]
+    },
+    {
+      "file": "pdf_0455_band_y0_top.png",
+      "crop_xyxy": [
+        780,
+        295,
+        1980,
+        1130
+      ]
+    },
+    {
+      "file": "pdf_0455_band_y1_mid.png",
+      "crop_xyxy": [
+        780,
+        50,
+        2000,
+        570
+      ]
+    },
+    {
+      "file": "pdf_0455_band_y2_bot.png",
+      "crop_xyxy": [
+        1080,
+        20,
+        2010,
+        570
+      ]
+    }
+  ],
+  "transcription_convention": "行号按本页可见汉字条目从上往下数，不是文献原有编号；[残]为无法可靠辨认，[待核]为暂拟或上下边界不明。下列拉丁字母仅记录粗略字形，附加符号尚未逐个转写，不表示已经确定音值。",
+  "rightmost_column_rows_with_letters": [
+    {
+      "visual_row": 1,
+      "hanzi": "記 數",
+      "status": "可见字母"
+    },
+    {
+      "visual_row": 2,
+      "hanzi": "數 簿",
+      "status": "可见字母"
+    },
+    {
+      "visual_row": 3,
+      "hanzi": "[残] 數",
+      "status": "可见字母"
+    },
+    {
+      "visual_row": 4,
+      "hanzi": "起 土[待核]",
+      "status": "可见字母"
+    },
+    {
+      "visual_row": 5,
+      "hanzi": "起 土[待核]",
+      "status": "可见字母"
+    },
+    {
+      "visual_row": 6,
+      "hanzi": "代 筆",
+      "status": "可见字母"
+    },
+    {
+      "visual_row": 7,
+      "hanzi": "代 書",
+      "status": "可见字母"
+    },
+    {
+      "visual_row": 8,
+      "hanzi": "題 詩",
+      "status": "可见字母"
+    },
+    {
+      "visual_row": 9,
+      "hanzi": "題 [残] 籤[待核]",
+      "status": "可见字母"
+    },
+    {
+      "visual_row": 10,
+      "hanzi": "題 柱 聯",
+      "status": "可见字母"
+    },
+    {
+      "visual_row": 11,
+      "hanzi": "典[待核] 省 寫",
+      "status": "可见字母；最后一条可确认有字母的视觉行"
+    }
+  ],
+  "last_letter_row_and_neighbours": [
+    {
+      "relative_position": "上一行",
+      "visual_row": 10,
+      "hanzi": "題 柱 聯",
+      "western_text_visible": "escriuir en papeles largos [残]",
+      "middle_phonetic_column_visible": "tey [残]au [残]ien；附加符号待核",
+      "rightmost_phonetic_column_visible": "ty chy lien；附加符号待核"
+    },
+    {
+      "relative_position": "最后有可确认字母的一行",
+      "visual_row": 11,
+      "hanzi": "典[待核] 省 寫",
+      "western_text_visible": "escriuir con abreuiaturas[待核]",
+      "middle_phonetic_column_visible": "tien[待核] se[待核] sia[待核]；附加符号待核",
+      "rightmost_phonetic_column_visible": "tien[待核] [残]ng sie[待核]；附加符号待核"
+    },
+    {
+      "relative_position": "下一行",
+      "visual_row": 12,
+      "hanzi": "騰 上 簿",
+      "western_text_visible": "escriuir en el libro [残] / Baptizado[待核]",
+      "middle_phonetic_column_visible": "tien[待核] chio[待核] pou[待核]；附加符号待核",
+      "rightmost_phonetic_column_visible": "空白，未见可辨字母"
+    }
+  ],
+  "below_last_letter_row": [
+    {
+      "visual_row": 12,
+      "hanzi": "騰 上 簿",
+      "rightmost": "从此行开始未见可辨字母，格内近似空白"
+    },
+    {
+      "visual_row": "13及其下方界线附近",
+      "hanzi": "騰 票 / 下邻行 大 本 寫",
+      "rightmost": "界线附近有零碎灰黑残迹；是否文字及归属哪一行均待核，不计为可确认字母"
+    },
+    {
+      "visual_row": "其后多行",
+      "hanzi": "[待核]",
+      "rightmost": "未见可辨罗马字母；纸面、格线和零星痕迹不等于字母"
+    },
+    {
+      "visual_row": "順 字及開 榜两行附近",
+      "hanzi": "順 字 / 開 榜",
+      "rightmost": "可见两个疑似汉字“字”和零散黑点或笔画，非可确认的罗马字母；与栏界的关系待核"
+    },
+    {
+      "visual_row": "更下方",
+      "hanzi": "[待核]",
+      "rightmost": "未见可辨罗马字母"
+    }
+  ],
+  "boundary_note": "只能说第11行是此视图里最后可确认有字母的一行；第12行开始不再见可辨字母。第13行附近的零碎残迹和页下方汉字状手写不能直接判为音写，也不能把右栏说成其后完全没有任何笔迹。"
+}

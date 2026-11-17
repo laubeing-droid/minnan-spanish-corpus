@@ -1,7 +1,7 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-17T22:57:13.768137+00:00",
-  "git_head_at_snapshot": "9f7300a17a77cfafc036f24a1a2d90695cbc1a62",
+  "snapshot_utc": "2026-11-17T23:16:46.911286+00:00",
+  "git_head_at_snapshot": "4043f544fcc21f14be191cf321f19bfe18ce8c03",
   "protocol": "CODEX_INTERBOOK_FILL_LEDGER_IN_PROGRESS_V1",
   "scope": "同书互证；候选皆未执行补齐，不得冒充盲读。",
   "sources": {
@@ -24,6 +24,18 @@
     "independent_visual_comparison": {
       "path": "codex_M5_blind_comparison.json",
       "sha256": "a4a8f6ddd9e6fac691a439b6884ede558955b070f55a0a45abc535e3be8d61a6"
+    },
+    "late_r_background": {
+      "path": "codex_R_late_background.md",
+      "sha256": "a95135eb650b42b603fe62614dce3ab0706453d8fe42414de31652ef38dba330"
+    },
+    "late_r_sample_plan": {
+      "path": "codex_R_late_sample_plan.json",
+      "sha256": "1ea8ebfbd3ad5313e6cc6b94228b89fbf9563eeabfdea7eafe907fa3d4f801d2"
+    },
+    "late_r_sample_comparison": {
+      "path": "codex_R_late_sample_comparison.json",
+      "sha256": "686c464392fdb155ef3b88b15cef0b5abc63704cf395fcfba491b2b62e0aacbe"
     }
   },
   "filled_count": 0,
@@ -18901,5 +18913,6 @@
   ],
   "update_protocol": "每条真正写回并重封的补字须追加目标页、位置、栏位、old→new、来源页与位置、互证标识和封存结果；未写回候选不进入 filled。",
   "working_tree_sources_at_snapshot": true,
-  "additional_review": "p0539/12 来源残疑，p0779/11 栏界及字段语义仍需核对；均未填充"
+  "additional_review": "p0539/12 来源残疑，p0779/11 栏界及字段语义仍需核对；均未填充",
+  "late_mandarin_context": "文献与单页盲读提示后段官话栏存在原留空；用户允许互证补齐，须保留原状态与推定来源，不冒充墨迹。"
 }

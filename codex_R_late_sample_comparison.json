@@ -1,0 +1,103 @@
+{
+  "status": "INDEPENDENT_MODEL_REVIEW_NOT_FORMAL",
+  "created_utc": "2026-11-17T23:15:31.554560+00:00",
+  "plan": "codex_R_late_sample_plan.json",
+  "plan_sha256": "1ea8ebfbd3ad5313e6cc6b94228b89fbf9563eeabfdea7eafe907fa3d4f801d2",
+  "blind_sources": [
+    {
+      "path": "codex_R_p0455_blind.json",
+      "sha256": "ff820856fbe727b089ce14a5d5ca6e1c696445f5cd8c87e8b0febfe8d545a5c5"
+    },
+    {
+      "path": "codex_R_late_blind_a.json",
+      "sha256": "4ba44cccfe8accdbcd56b9b24f81dce76d6ab7ab6278d72870b29bb76ef932d6"
+    },
+    {
+      "path": "codex_R_late_blind_b.json",
+      "sha256": "bab004de9789590b1076a8e1c11b2b7d63a2f671997403e922461b43e6689fa2"
+    },
+    {
+      "path": "codex_R_late_blind_c.json",
+      "sha256": "ffc4fa041f8bcbd15e2b75328cbaed272c14a3e97b81f6516e6096f4e91c07ef"
+    },
+    {
+      "path": "codex_R_p0943_second_blind.json",
+      "sha256": "d9f88d742b8b9215ec302fd71f71643c170cef88fd87a5d4320e4477a5f230b3"
+    }
+  ],
+  "sample": [
+    {
+      "page": 1086,
+      "position": 2,
+      "field": "source_R",
+      "sealed_file": "literature/workspace_m2_dhs834/blind_read_p1086.json",
+      "sealed_v1": "en TVN",
+      "sealed_source_L": "Vertin, o derramar~",
+      "sealed_source_H": "撥却丢",
+      "sealed_source_M": "choa tio cu; poa guio chu [残]",
+      "reading_note": "H 尾字去/丢存疑；最右外缘跨横线残墨，不能确认归属",
+      "status": "待核",
+      "auto_repair": false
+    },
+    {
+      "page": 943,
+      "position": 1,
+      "field": "source_R",
+      "sealed_file": "literature/workspace_m2_dhs834/blind_read_p0943.json",
+      "sealed_v1": "sio e chy",
+      "sealed_source_L": "Sagacibutilla colorado -",
+      "sealed_source_H": "帶箭",
+      "sealed_source_M": "swa chy",
+      "reading_note": "H 帶箭可对位；两次独立读图均未见该行最右栏可辨文字，另有孤点；中间栏上下两段连写及划除词目可能需行级重构",
+      "status": "栏位差异候选，不直接删除",
+      "auto_repair": false
+    },
+    {
+      "page": 1026,
+      "position": 2,
+      "field": "source_R",
+      "sealed_file": "literature/workspace_m2_dhs834/blind_read_p1026.json",
+      "sealed_v1": "kim chy",
+      "sealed_source_L": "Fia, muger del her^no demi ße.",
+      "sealed_source_H": "[空]",
+      "sealed_source_M": "嬸",
+      "reading_note": "图上候选 H 嬸，对应封存 source_H=[空]、source_M=嬸；右栏可辨文字未见，可能有多栏错位",
+      "status": "栏位差异候选，定位待核",
+      "auto_repair": false
+    },
+    {
+      "page": 611,
+      "position": 13,
+      "field": "source_R",
+      "sealed_file": "literature/workspace_m2_dhs834/blind_read_p0611.json",
+      "sealed_v1": "horeit [疑:horeit/hocest] escribi en la tabla a templo del ydolo limosna",
+      "sealed_source_L": "limosna p.a el templo del ydolo.",
+      "sealed_source_H": "題 楪 [疑:楪/楝] 簽",
+      "sealed_source_M": "zēy nîo chîam",
+      "reading_note": "H 首字題及西文可部分对位；右侧有跨栏西文和续写，确切栏界与归属未决",
+      "status": "跨栏注记候选",
+      "auto_repair": false
+    },
+    {
+      "page": 743,
+      "position": 9,
+      "field": "source_R",
+      "sealed_file": "literature/workspace_m2_dhs834/blind_read_p0743.json",
+      "sealed_v1": "el dia",
+      "sealed_source_L": "oy",
+      "sealed_source_H": "即日",
+      "sealed_source_M": "chēc xĭt",
+      "reading_note": "第9视觉行读为按察司或相邻二王，与封存 position 9 的即日不符，无法确认位置",
+      "status": "位置不匹配，不比较",
+      "auto_repair": false
+    }
+  ],
+  "cutoff_observation": "p0455 的独立模型在第11视觉行后未见可辨罗马字母；其后仍有痕迹和疑似汉字，不能说完全无墨迹。",
+  "limits": [
+    "论文所述 folio 与 PDF 页码对应尚需文献和页码核验",
+    "页及位置匹配以字形、上下邻行和栏线核图，不强行按视觉行序等同",
+    "同模型读者的共识不是人审或正式校准通过",
+    "所抽样本非统计上足够证明全部1009条均错",
+    "任务队列冻结，样本不写回 adk 或 raw"
+  ]
+}

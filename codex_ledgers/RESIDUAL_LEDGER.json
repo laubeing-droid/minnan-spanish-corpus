@@ -1,7 +1,7 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-17T22:57:13.768137+00:00",
-  "git_head_at_snapshot": "9f7300a17a77cfafc036f24a1a2d90695cbc1a62",
+  "snapshot_utc": "2026-11-17T23:16:46.911286+00:00",
+  "git_head_at_snapshot": "4043f544fcc21f14be191cf321f19bfe18ce8c03",
   "protocol": "CODEX_RESIDUAL_LEDGER_IN_PROGRESS_V1",
   "scope": "交接时点尚待处理的裁决、校准、复核、互证与释义事项；跨模块计数可重叠，不得简单相加。",
   "sources": {
@@ -19,7 +19,7 @@
     },
     "m1": {
       "path": "codex_progress_M1.md",
-      "sha256": "8a653ac6ce65318cf7e84db6862efdb43f7f1e8fa001856738eda4fe0a5aa8e0"
+      "sha256": "38fb82ea996425b3e028486b0c398779b62c30a61357225ff268358b58950f5b"
     },
     "m2": {
       "path": "codex_M2_modifier_audit.md",
@@ -64,11 +64,36 @@
     "independent_visual_comparison": {
       "path": "codex_M5_blind_comparison.json",
       "sha256": "a4a8f6ddd9e6fac691a439b6884ede558955b070f55a0a45abc535e3be8d61a6"
+    },
+    "late_r_background": {
+      "path": "codex_R_late_background.md",
+      "sha256": "a95135eb650b42b603fe62614dce3ab0706453d8fe42414de31652ef38dba330"
+    },
+    "late_r_sample_plan": {
+      "path": "codex_R_late_sample_plan.json",
+      "sha256": "1ea8ebfbd3ad5313e6cc6b94228b89fbf9563eeabfdea7eafe907fa3d4f801d2"
+    },
+    "late_r_sample_comparison": {
+      "path": "codex_R_late_sample_comparison.json",
+      "sha256": "686c464392fdb155ef3b88b15cef0b5abc63704cf395fcfba491b2b62e0aacbe"
+    },
+    "m0_ensemble": {
+      "path": "codex_M0_ensemble_report.json",
+      "sha256": "15c362dc5c9a4567c696995525694c096111de4ce4d080071f3b4addcfb636d0"
     }
   },
   "m0": {
     "formal_pass": false,
-    "status": "标准记录 8 项核心但声明 9 项，正式判卷拒判；同模型复测交接口径试算 5/9 为非正式结果。"
+    "status": "标准记录 8 项核心但声明 9 项，正式判卷拒判；同模型复测交接口径试算 5/9 为非正式结果。",
+    "same_model_consensus_diagnostic": {
+      "handoff_reference_count": 9,
+      "matching": 4,
+      "different": 2,
+      "unresolved": 3,
+      "hanzi_matching": 2,
+      "official_score": null,
+      "limitations": "正式标准冲突，模型输出可能相关"
+    }
   },
   "m1": {
     "queue_pages": 1101,
@@ -7162,7 +7187,15 @@
           "metadata": {}
         }
       }
-    ]
+    ],
+    "late_R_audit": {
+      "pdf_from": 456,
+      "sealed_other_entries": 1009,
+      "pages_with_other": 316,
+      "sample_size": 5,
+      "limit": "不是已证错误或与未判项互斥的数量",
+      "comparison": "codex_R_late_sample_comparison.json"
+    }
   },
   "m2": {
     "historical_applied_claims_not_reflected": 100,
