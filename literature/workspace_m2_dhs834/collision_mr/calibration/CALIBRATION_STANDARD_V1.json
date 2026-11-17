@@ -1,0 +1,77 @@
+{
+  "protocol": "CALIBRATION_STANDARD_V1",
+  "frozen": "2026-11-17",
+  "frozenBy": "主会话（用户审批）",
+  "changelog": [
+    "V1.1 2026-11-17：核真值后封存。y0 段 4 行降级排除（f/t/Z 三形混淆族 2 行、chiē̃/chēng 存疑 1 行、页眉词 1 行）；核心题冻结 9 条；门槛改为 core ≥8/9 且汉字 2/2 全过；cropD 改 CJK 精确比对（修复 soup 把汉字删成空串的虚假通过 bug——Codex RSI 提案证实）"
+  ],
+  "crops": {
+    "cropA": {
+      "path": "_scratch_p0257/calib_p0257_mcol_y0.png",
+      "field": "M",
+      "lines": [
+        {"idx": 0, "truth": "ante.", "core": false,
+         "verify": "2x 自读；页眉引导词，答案含/不含均可解释，不入核心"},
+        {"idx": 1, "truth": "hiū fvā", "core": false,
+         "verify": "排除：首字母 h/f 存疑（Gemini 提 hïū/fiiū）且 word2 f/t/Z 三形混淆族（音系非法），待墨迹裁决"},
+        {"idx": 2, "truth": "fo fva", "core": false,
+         "verify": "排除：同 f/t/Z 三形混淆族（4x 复核仍无法与 tó toâ 定夺）"},
+        {"idx": 3, "truth": "yō fvā", "core": true,
+         "verify": "word1 yō 2x 清晰；word2 经用户音系论证+V1[疑:To]+R栏tāy 三证裁定为 toâ（fvā 音系非法）",
+         "truthNote": "冻结真值 yô toâ（声调符位置差判等价）"},
+        {"idx": 4, "truth": "yo.", "core": true, "verify": "2x 清晰"},
+        {"idx": 5, "truth": "chiē̃ pē", "core": false,
+         "verify": "排除：i 的存在性存疑（Gemini 读 chēng pê，音系亦通），待墨迹裁决"}
+      ]
+    },
+    "cropB": {
+      "path": "_scratch_p0257/calib_p0257_mcol_y1.png",
+      "field": "M",
+      "lines": [
+        {"idx": 0, "truth": "chiē̃ pē", "core": false, "verify": "同 A5 存疑，排除"},
+        {"idx": 1, "truth": "piēn", "core": true, "verify": "2x 清晰；遍 piēⁿ 音系通"},
+        {"idx": 2, "truth": "ŷ uān", "core": false,
+         "verify": "排除：首字母 ŷ/v/uy 存疑（圍圈 ūi-khoan 亦通）"},
+        {"idx": 3, "truth": "tāū cōu", "core": false,
+         "verify": "排除：尾字母 n/u 极小笔存疑（Gemini 亦如实标注）"},
+        {"idx": 4, "truth": "cûa pūe", "core": true,
+         "verify": "5x + 用户眼验双坐实（KEY 点：V1 曾误 ûia、GLM 曾误 ciā）"},
+        {"idx": 5, "truth": "cûa ciòng guêng pūē", "core": true,
+         "verify": "5x + 用户眼验双坐实（KEY 点）；ciòng/giôs 已裁 Gemini 误读"},
+        {"idx": 6, "truth": "Pēŋ.", "core": true, "verify": "2x 清晰；P-e-ng 结构明确"}
+      ]
+    },
+    "cropC": {
+      "path": "_scratch_p0257/calib_p0030_m_lines12_4x.png",
+      "field": "M",
+      "lines": [
+        {"idx": 0, "truth": "aña ti Zūñ tûñ", "core": false, "hard": true,
+         "verify": "4x；两套机器读法均错（V1 tî Zūn cūn / 重读 tiⁿû tûû），难题试金不入门槛，单独报告"}
+      ]
+    },
+    "cropD": {
+      "path": "_scratch_p0257/p0257_pos10_circuncidar.png",
+      "field": "H",
+      "compare": "CJK_EXACT",
+      "lines": [
+        {"idx": 0, "truth": "割 皮", "core": true, "verify": "用户+主会话双验"},
+        {"idx": 1, "truth": "割玉脛皮", "core": true,
+         "verify": "用户眼验坐实（脛 为 莖 之俗写，音系+字义双证）"}
+      ]
+    }
+  },
+  "grading": {
+    "latin": "按 idx 对位；soup 比对 = NFD 去组合符 + ⁿ→n + 去非字母后小写全等（声调符位置差判等价）",
+    "cjk": "去除全部空白后字符串全等（修复 Codex RSI 提案所指虚假通过：旧 soup 将汉字删为空串致任意答案含 [未答] 皆过）",
+    "coreCount": 9,
+    "threshold": "核心题通过 ≥ 8/9 且 cropD 2/2 全过（汉字任一错即不通过）",
+    "hardLine": "cropC 单独报告，不入门槛",
+    "excludedCount": 7,
+    "excludedPolicy": "排除行不评分；答案缺失/多余行不入判，只记录"
+  },
+  "selftest": [
+    {"case": "汉字正确", "got": "割皮", "truth": "割 皮", "expect": "PASS"},
+    {"case": "汉字错误", "got": "割肘", "truth": "割 皮", "expect": "FAIL"},
+    {"case": "汉字缺答", "got": "", "truth": "割 皮", "expect": "FAIL"}
+  ]
+}

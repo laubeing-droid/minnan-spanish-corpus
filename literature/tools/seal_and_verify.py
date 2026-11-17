@@ -25,14 +25,18 @@ args = sys.argv[1:]
 source = M2 / "collision_mr" / "REPAIR_BATCH_A_V4.json"
 if "--source" in args:
     source = Path(args[args.index("--source") + 1])
-
-rep = json.loads(source.read_text(encoding="utf-8"))
-pages = sorted({int(a["page"]) for a in rep.get("applied", [])})
+if "--pages" in args:
+    pages = sorted({int(x) for x in args[args.index("--pages") + 1].split(",")})
+else:
+    rep = json.loads(source.read_text(encoding="utf-8"))
+    pages = sorted({int(a["page"]) for a in rep.get("applied", [])})
+    # 页集覆盖：显式脏页（如 M3 两栏重构新增页）可经 --pages 注入，默认取修复批账
 print("[seal] 修复批脏页:", len(pages))
 
-# 1. 逐页重封（存量非规范调标页单页跳过）
+# 1. 逐页重封（存量非规范调标页单页跳过；其余 commit 错误判 FAIL 不与调标延迟混类）
 ok = []
 defer_tone = []
+commit_errors = []
 for pg in pages:
     pk = "%04d" % pg
     raw = json.loads((M2 / ("raw_blind/raw_part_p" + pk + ".json")).read_text(encoding="utf-8"))
@@ -61,9 +65,21 @@ for pg in pages:
     if r.returncode == 0:
         ok.append(pg)
     else:
-        print("[seal] p%s FAIL:" % pk, (r.stderr or r.stdout or "")[-200:])
-        defer_tone.append(pg)
-print("[seal] 重封完成: %d 页 OK / %d 页延迟" % (len(ok), len(defer_tone)))
+        err = (r.stderr or r.stdout or "")
+        if "非规范调标" in err or "normalize_tone_list" in err:
+            defer_tone.append(pg)
+            print("[seal] p%s 延迟：非规范调标（修复留 raw）" % pk)
+        else:
+            commit_errors.append({"page": pg, "err": err[-200:]})
+            print("[seal] p%s COMMIT_ERROR:" % pk, err[-200:])
+print("[seal] 重封完成: %d 页 OK / %d 页调标延迟 / %d 页 commit 错误"
+      % (len(ok), len(defer_tone), len(commit_errors)))
+
+# 1b. 覆盖断言：处理页 + 延迟页 + 错误页 必须等于输入页集（Codex RSI 提案）
+covered = set(ok) | set(defer_tone) | {c["page"] for c in commit_errors}
+coverage_ok = covered == set(pages)
+print("[seal] 页集覆盖断言:", "OK" if coverage_ok else "FAIL %s"
+      % sorted(set(pages) - covered))
 
 # 2. 全库门禁
 ROOT = TOOLS.parent.parent
@@ -78,9 +94,11 @@ pv = subprocess.run([sys.executable, str(TOOLS / "post_repair_verify.py")],
 print("[resweep]", (pv.stdout or "").strip()[-400:])
 print("[resweep] exit:", pv.returncode)
 
-verdict = "PASS" if (gate_pass and pv.returncode == 0 and not defer_tone) else \
-          "PASS_WITH_DEFERRED" if (gate_pass and pv.returncode == 0) else "FAIL"
+verdict = "PASS" if (gate_pass and pv.returncode == 0 and not defer_tone and not commit_errors) else \
+          "PASS_WITH_DEFERRED" if (gate_pass and pv.returncode == 0 and not commit_errors) else "FAIL"
 print(json.dumps({"verdict": verdict, "sealedPages": len(ok),
-                  "deferredTonePages": defer_tone, "gatePass": gate_pass,
+                  "deferredTonePages": defer_tone, "commitErrors": commit_errors,
+                  "coverageOK": coverage_ok, "gatePass": gate_pass,
                   "resweepExit": pv.returncode}, ensure_ascii=False))
-sys.exit(0 if (gate_pass and pv.returncode == 0) else 1)
+# Codex RSI 提案采纳：commit 错误（非调标延迟）→ 最终 FAIL 非零退出，不得当成功
+sys.exit(0 if (gate_pass and pv.returncode == 0 and not commit_errors and coverage_ok) else 1)
