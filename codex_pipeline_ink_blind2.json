@@ -1,0 +1,37 @@
+{
+  "type": "source-image independent blind reading",
+  "scope": "仅据指定两页原始上部横带和从该横带裁出的同源放大；未使用既有转写、候选或音系判断",
+  "image_count": 8,
+  "page_0119": {
+    "source": "literature/tiles/01_DHS/page_0119/pdf_0119_band_y0_top.png",
+    "row": "从正文第一视觉行起第5行",
+    "m_letter_transcription": "hiap",
+    "m_visible_marks": "字母上方可见一条斜短线及一处小叉形或折钩形笔画，具体归属和符号性质[残]。",
+    "h_above": "寸心",
+    "h_target": "挟（与下一行首字同形；繁简字形[残]）",
+    "h_below": "挟起來（首字字形[残]）",
+    "approx_source_band_y": "810-914"
+  },
+  "page_0077": {
+    "source": "literature/tiles/01_DHS/page_0077/pdf_0077_band_y0_top.png",
+    "row": "从正文第一视觉行起逐条计网格，第4行；第3格有横跨栏位的西文笔迹",
+    "m_letter_transcription": "cuan[残]",
+    "m_visible_marks": "字母上方有一处类似小c的弧形与一条斜笔，其性质及归属[残]；末尾另有不完整的环状墨迹，不判定为字母。",
+    "h_above": "无汉字；该格可见西文笔迹",
+    "h_target": "鏡",
+    "h_below": "空白",
+    "nearest_h_above": "門屏",
+    "nearest_h_below": "鄉社",
+    "approx_source_band_y": "734-846",
+    "counting_ambiguity": {
+      "description": "如只数含汉字的正文条目，第4个是鄉社；该位置不是逐格计数的第4行。另记其独立笔画，便于定位。",
+      "m_letter_transcription": "hio [残]ia[残]",
+      "m_visible_marks": "第一串上方有n形小笔和斜笔；第二串上方有黑色交叉墨迹；其性质与归属[残]。",
+      "h_above": "鏡（中间隔一空白格）",
+      "h_target": "鄉社",
+      "h_below": "鄉下",
+      "approx_source_band_y": "960-1080"
+    }
+  },
+  "status": "独立盲读记录，非正式判决；未评分，未提交"
+}

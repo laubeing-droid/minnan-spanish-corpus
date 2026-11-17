@@ -1,0 +1,49 @@
+{
+  "status": "ISOLATED_FAULT_INJECTION_ONLY",
+  "page": 146,
+  "fault": "第一次复扫进程退出2，第二次调用原复扫器",
+  "production_files_modified": false,
+  "attempted_sealed_pages": 1,
+  "final_verdict": "FAIL",
+  "rolled_back": true,
+  "rollback_method": "rollback raw → 原 zcode_m2_pipeline.py commit",
+  "rollback_gate_pass": true,
+  "rollback_resweep_exit": 0,
+  "raw_seal_manifest_baseline_sha256_restored": {
+    "raw": "fd42cff43fd83876bf4b3a0b7778f30ff98d65bd6db798bd0ae75d431b4fa5dc",
+    "seal": "0d3f2b9f90276d26be19a4f346b69ea9d348b2e2129a8023614abdec9324d60c",
+    "manifest": "c4d0573faa518e8c3109898563907b6a79623eba215c56ab1a822f533b01c4a0",
+    "baseline": "947240ac34de22b7ae8fae650795409cd009c55037ab2ccc7a6504b51840244b"
+  },
+  "preflight_receipt": {
+    "page": 146,
+    "originalSealSha256": "0d3f2b9f90276d26be19a4f346b69ea9d348b2e2129a8023614abdec9324d60c",
+    "rollbackRawSha256": "9a06d89ab53efafbc4066a4d45ce6b928efe48083d713bed3fff72f915f51dea",
+    "candidateRawSha256": "11a4bf2591e64fcd4025ae2ee21617f2bba2a9edfe510cd63bafa95e49818b72",
+    "expectedSealSha256": "425f0f2652a133707126c3893b6d36784ed5fae8038e5370997d4e00c7c4574a",
+    "originalManifestEntry": {
+      "pdf_page": 146,
+      "file": "blind_read_p0146.json",
+      "entries_count": 17,
+      "blind_first_read_sha256": "0d3f2b9f90276d26be19a4f346b69ea9d348b2e2129a8023614abdec9324d60c",
+      "status": "LOCKED_BEFORE_COLLATION"
+    },
+    "expectedManifestEntry": {
+      "pdf_page": 146,
+      "file": "blind_read_p0146.json",
+      "entries_count": 17,
+      "blind_first_read_sha256": "425f0f2652a133707126c3893b6d36784ed5fae8038e5370997d4e00c7c4574a",
+      "status": "LOCKED_BEFORE_COLLATION"
+    },
+    "toolSha256": {
+      "zcode_m2_pipeline.py": "7e9d814dad6914569dafa37885e0e9be7f87585da70255f5b6c3e3ebb74c2f1a",
+      "minnan_engine.py": "3b0f9570dfd7d3fecc025dab61a34fa85a28bc5325f961f79a8dd5534cfc684e",
+      "spanish_17c_expander.py": "61b26ad2c41ca24eae21cfe4637d44e8164d155effa182224201389a5db1369b",
+      "hokkien_17c_converter.py": "6e170ffdfbceaceea466489d81b587f31293a685b10a9efc340811675d58fc35"
+    }
+  },
+  "tested_driver_sha256": "1eb20b956f7e5f91c451ef8d7a5847fa4be2ef32d35b15f500d2654539b42b57",
+  "isolated_workspace": "C:\\Users\\being\\AppData\\Local\\Temp\\codex_full_rollback_ly1nhasy\\repo",
+  "recovery_dir": "C:\\Users\\being\\AppData\\Local\\Temp\\codex_seal_recovery_56j3yd8s",
+  "limitations": "技术链路验证，不证明试用字面修复正确"
+}

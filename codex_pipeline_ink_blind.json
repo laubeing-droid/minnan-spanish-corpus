@@ -1,0 +1,35 @@
+{
+  "purpose": "原图独立盲读，仅供字面核查，不作正式判决",
+  "method": "只看指定两页原始横带及同源裁剪；不依据词典、音系或其他转写校正。[残]表示对应字母、附加记号或其归属无法可靠辨认，并不必然表示纸面残损。",
+  "counting_basis": "自页面首个有汉字对应的正文条目向下计数；列间插写和单独涂划不另计为完整条目。",
+  "readings": [
+    {
+      "page": "0119",
+      "line": 5,
+      "location_evidence": "汉字为挾；上一条寸心，下一条挾起來。",
+      "letter_transcription": "hiap[残]",
+      "observations": "可见 h、i、a、p；上方有近叉形小记号，另有一道较淡的斜痕。附加记号的类型、归属及调值未能确定。",
+      "source": "literature/tiles/01_DHS/page_0119/pdf_0119_band_y0_top.png",
+      "crop_xyxy": [1140, 810, 1465, 925]
+    },
+    {
+      "page": "0077",
+      "line": 6,
+      "location_evidence": "汉字为鄉村；上一条鄉下，下一条鄉里；对应西文行可见 aldea pequeña。",
+      "letter_transcription": "hio[残] c[残]huy[残]",
+      "observations": "可见 h、i、o，随后有偏高的小 c 形笔画和 h、u、y；c 形笔画的字母归属不确定。第一组上方见近 n 形及斜画，第二组上方见近 2 形及斜画；不判定附加记号类型或调值。",
+      "source": "literature/tiles/01_DHS/page_0077/pdf_0077_band_y1_mid.png",
+      "crop_xyxy": [1150, 175, 1430, 310]
+    }
+  ],
+  "inspected_images": [
+    "literature/tiles/01_DHS/page_0119/pdf_0119_band_y0_top.png",
+    "literature/tiles/01_DHS/page_0077/pdf_0077_band_y0_top.png",
+    "literature/tiles/01_DHS/page_0119/pdf_0119_subcol3_minnan.png",
+    "literature/tiles/01_DHS/page_0077/pdf_0077_band_y1_mid.png",
+    "literature/tiles/01_DHS/page_0077/pdf_0077_subcol3_minnan.png",
+    "0119 横带同源局部裁剪，坐标 [1140,810,1465,925]",
+    "0077 横带同源局部裁剪，坐标 [1150,175,1430,310]",
+    "0077 横带同源上下文裁剪，坐标 [1150,50,1400,430]"
+  ]
+}

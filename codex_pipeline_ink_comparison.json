@@ -1,0 +1,42 @@
+{
+  "status": "CANDIDATE_NOT_FORMAL",
+  "basis": "两次独立任务只看源图，均为同模型；非人审真值，不自动写回",
+  "sources": [
+    {
+      "path": "codex_pipeline_ink_blind.json",
+      "sha256": "17eb3c988ca9114717d31a5def241823e6d556005690aed0a8a13b8a99dbba60"
+    },
+    {
+      "path": "codex_pipeline_ink_blind2.json",
+      "sha256": "12aedfb3aef6f69b6282cb09f8109c42b3a38a573040c4c5d3c1d2d706cbac3e"
+    }
+  ],
+  "observations": [
+    {
+      "page": 119,
+      "position": 5,
+      "field": "source_M",
+      "locator": "汉字挾及相邻行对应",
+      "raw": "kiap",
+      "sealed": "quiap",
+      "blind_readings": [
+        "hiap[残]",
+        "hiap（上方记号未明）"
+      ],
+      "conclusion": "两次候选字母均读 hiap，但未校准合格、上方记号未明；不判任一版本已证正确"
+    },
+    {
+      "page": 77,
+      "position": 6,
+      "field": "source_M",
+      "locator": "汉字鄉社，上邻鏡、下邻鄉下；隔行有空白",
+      "raw": "hioⁿ sia",
+      "sealed": "hiõ sia",
+      "blind_readings": [
+        "hio [残]ia[残]"
+      ],
+      "conclusion": "上方笔形及字母归属未明，不足以确认上置 n；第一份盲读落在鄉村，对应封存 position 8，不用于比较 position 6"
+    }
+  ],
+  "effect": "仅提供复核证据，不改 raw 或封存"
+}
