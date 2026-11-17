@@ -1,0 +1,377 @@
+{
+ "page": 35,
+ "verdicts": [
+  {
+   "idx": 0,
+   "verdict": "V1误读",
+   "shouldBe": "çg",
+   "note": "首词前另有 ç 形小字（带尾勾），V1 漏读"
+  },
+  {
+   "idx": 1,
+   "verdict": "V1误读",
+   "shouldBe": "sīng",
+   "note": "元音清楚为 i；i 上为波浪鼻化符(~)，rr 之 circumflex 为近似转写"
+  },
+  {
+   "idx": 2,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "y 上为单笔锐音符(´)，未见 circumflex，墨迹即 yú"
+  },
+  {
+   "idx": 3,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 chū teg：u 上为波浪/长音符而非钝音符，且 teg 未缺"
+  },
+  {
+   "idx": 4,
+   "verdict": "V1误读",
+   "shouldBe": "teğ",
+   "note": "V1 全漏此词；e 上另有长音符（或作 tēg），g 后有小上标钩"
+  },
+  {
+   "idx": 5,
+   "verdict": "V1误读",
+   "shouldBe": "chî",
+   "note": "i 上双笔 circumflex 清楚"
+  },
+  {
+   "idx": 6,
+   "verdict": "V1误读",
+   "shouldBe": "âg",
+   "note": "a 上 circumflex 清楚"
+  },
+  {
+   "idx": 7,
+   "verdict": "V1误读",
+   "shouldBe": "chî",
+   "note": "i 上 circumflex 清楚"
+  },
+  {
+   "idx": 8,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 tǔ：t 在（rr 漏 t）；u 上为杯形短音符"
+  },
+  {
+   "idx": 11,
+   "verdict": "V1误读",
+   "shouldBe": "hóg",
+   "note": "o 上 circumflex 清楚"
+  },
+  {
+   "idx": 13,
+   "verdict": "V1误读",
+   "shouldBe": "loa",
+   "note": "起首为花体大写 ℒ 非 C；o 上未见锐音符，仅词后上标小钩（rr 作 lóa 系近似）"
+  },
+  {
+   "idx": 14,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹 cun+词上小上标钩；cū̃ 与 cun 为同一墨迹的两种转写"
+  },
+  {
+   "idx": 15,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "chi 清晰可读（i 上波浪符），rr 记 [残] 不成立"
+  },
+  {
+   "idx": 16,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "该位墨迹为 cun+上标钩；rr 之 chî 为上一行之词（配对错位）"
+  },
+  {
+   "idx": 17,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "行内 cun 与 ℒoa 两词均在墨迹，两读各中其一（次序互换）"
+  },
+  {
+   "idx": 18,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "行墨迹 cur hay；v1 之 cū̃ 对应 cun/cur 词，rr 之 lóa 属上一行"
+  },
+  {
+   "idx": 19,
+   "verdict": "V1误读",
+   "shouldBe": "cur",
+   "note": "行墨迹 cur hay；v1 之 hōg 行内无对应"
+  },
+  {
+   "idx": 20,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "该位墨迹为 chî（i 上波浪符）；v1 识词而误符，rr 之 haŷ 为上一行之 hay"
+  },
+  {
+   "idx": 21,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "行内 chî 与 hóg 均在墨迹，两读各中其一（配对互换）"
+  },
+  {
+   "idx": 22,
+   "verdict": "V1误读",
+   "shouldBe": "hóg",
+   "note": "o 上 circumflex；v1 之 chū 行内无对应"
+  },
+  {
+   "idx": 23,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 ab+词后上标小钩，v1 相符"
+  },
+  {
+   "idx": 24,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹 biap+词上上标小钩；biāp 之长音符与 biap 之无符为同一小钩的两种处理"
+  },
+  {
+   "idx": 25,
+   "verdict": "V1误读",
+   "shouldBe": "chî",
+   "note": "元音清楚为 i（上为波浪符），v1 之 ū 误"
+  },
+  {
+   "idx": 28,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "qui 之 i 上符记过小，长音/扬音无法辨"
+  },
+  {
+   "idx": 33,
+   "verdict": "V1误读",
+   "shouldBe": "hóg",
+   "note": "o 上 circumflex 清楚"
+  },
+  {
+   "idx": 36,
+   "verdict": "V1误读",
+   "shouldBe": "cur",
+   "note": "末笔单拱带尾为 r（与后行双拱 n 不同）；另有上标钩，rr 漏记"
+  },
+  {
+   "idx": 37,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "e 上未见长音符，仅词后上标小钩；v1 chier 相符"
+  },
+  {
+   "idx": 38,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹 Cun（含涂改）+上标钩；cū̃/cun 同一墨迹两种转写"
+  },
+  {
+   "idx": 39,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹 tang 之 a 上未见声调符；两读各加不同符"
+  },
+  {
+   "idx": 40,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹 Cun+上标 ᵗ 钩，末笔为 n；cū̃/cūn 均为近似"
+  },
+  {
+   "idx": 41,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹末笔为双拱 n（cur 之 r 不符）；词上小符两读均未确切转写"
+  },
+  {
+   "idx": 42,
+   "verdict": "V1误读",
+   "shouldBe": "lo",
+   "note": "起首花体 ℒ、元音 o；v1 之 cā 字母均误"
+  },
+  {
+   "idx": 43,
+   "verdict": "V1误读",
+   "shouldBe": "gū",
+   "note": "墨迹 gu（u 上有长音符及上标小符）；v1 之 quy 字母全误"
+  },
+  {
+   "idx": 44,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "o 上符记过小（或仅为上标钩），长音/扬音无法辨"
+  },
+  {
+   "idx": 47,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹 Cun+上标钩；cū̃/cūn 均为近似"
+  },
+  {
+   "idx": 48,
+   "verdict": "V1误读",
+   "shouldBe": "pio",
+   "note": "p-i-o 三字母清晰（i 有点），v1 漏 i"
+  },
+  {
+   "idx": 50,
+   "verdict": "V1误读",
+   "shouldBe": "quïam",
+   "note": "i/a 上有符记（形近两点或一撇），v1 无符"
+  },
+  {
+   "idx": 51,
+   "verdict": "V1误读",
+   "shouldBe": "sēy",
+   "note": "起首为 s 非 r，e 上有 circumflex"
+  },
+  {
+   "idx": 0,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 1,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 2,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 3,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 4,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 5,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 6,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 7,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 8,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 9,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 10,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 11,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 12,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 13,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 14,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 15,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 16,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 17,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 18,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 19,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 20,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 21,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 22,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  },
+  {
+   "idx": 23,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏该位两侧均无字迹（右栏空白/透印），无实分歧"
+  }
+ ]
+}

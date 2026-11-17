@@ -1,0 +1,792 @@
+{
+ "page": 916,
+ "mV1Count": 61,
+ "mRrCount": 55,
+ "rV1Count": 35,
+ "rRrCount": 11,
+ "diffs": [
+  {
+   "page": 916,
+   "position": 1,
+   "field": "M",
+   "kind": "replace",
+   "v1": "guiiong",
+   "rr": "güīong",
+   "idx": 0
+  },
+  {
+   "page": 916,
+   "position": 1,
+   "field": "M",
+   "kind": "replace",
+   "v1": "iiong",
+   "rr": "jǐng",
+   "idx": 1
+  },
+  {
+   "page": 916,
+   "position": 1,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:两词相接处难辨]",
+   "rr": "cue",
+   "idx": 2
+  },
+  {
+   "page": 916,
+   "position": 2,
+   "field": "M",
+   "kind": "replace",
+   "v1": "tip",
+   "rr": "loe",
+   "idx": 3
+  },
+  {
+   "page": 916,
+   "position": 2,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:tip/tig]",
+   "rr": "lò",
+   "idx": 4
+  },
+  {
+   "page": 916,
+   "position": 2,
+   "field": "M",
+   "kind": "replace",
+   "v1": "(圈画)",
+   "rr": "quim",
+   "idx": 5
+  },
+  {
+   "page": 916,
+   "position": 3,
+   "field": "M",
+   "kind": "replace",
+   "v1": "coe",
+   "rr": "loe",
+   "idx": 7
+  },
+  {
+   "page": 916,
+   "position": 3,
+   "field": "M",
+   "kind": "replace",
+   "v1": "lo",
+   "rr": "lò",
+   "idx": 8
+  },
+  {
+   "page": 916,
+   "position": 3,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[残:词界与跨行难辨]",
+   "rr": "quim",
+   "idx": 9
+  },
+  {
+   "page": 916,
+   "position": 5,
+   "field": "M",
+   "kind": "replace",
+   "v1": "hoj",
+   "rr": "hoř:",
+   "idx": 12
+  },
+  {
+   "page": 916,
+   "position": 5,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:j/g]",
+   "rr": "hoř",
+   "idx": 13
+  },
+  {
+   "page": 916,
+   "position": 6,
+   "field": "M",
+   "kind": "replace",
+   "v1": "hoj",
+   "rr": "pay",
+   "idx": 14
+  },
+  {
+   "page": 916,
+   "position": 6,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:j/g]",
+   "rr": "lò",
+   "idx": 15
+  },
+  {
+   "page": 916,
+   "position": 7,
+   "field": "M",
+   "kind": "replace",
+   "v1": "lo",
+   "rr": "lò",
+   "idx": 17
+  },
+  {
+   "page": 916,
+   "position": 7,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cu",
+   "rr": "cû",
+   "idx": 18
+  },
+  {
+   "page": 916,
+   "position": 7,
+   "field": "M",
+   "kind": "replace",
+   "v1": "(圈画)",
+   "rr": "çaî",
+   "idx": 19
+  },
+  {
+   "page": 916,
+   "position": 8,
+   "field": "M",
+   "kind": "replace",
+   "v1": "gai",
+   "rr": "îř",
+   "idx": 20
+  },
+  {
+   "page": 916,
+   "position": 8,
+   "field": "M",
+   "kind": "replace",
+   "v1": "ip",
+   "rr": "profunda",
+   "idx": 21
+  },
+  {
+   "page": 916,
+   "position": 9,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cho",
+   "rr": ".",
+   "idx": 22
+  },
+  {
+   "page": 916,
+   "position": 9,
+   "field": "M",
+   "kind": "replace",
+   "v1": "ip",
+   "rr": "choř",
+   "idx": 23
+  },
+  {
+   "page": 916,
+   "position": 9,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:cho/choh]",
+   "rr": "îř",
+   "idx": 24
+  },
+  {
+   "page": 916,
+   "position": 10,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cho",
+   "rr": "choř",
+   "idx": 25
+  },
+  {
+   "page": 916,
+   "position": 10,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chia",
+   "rr": "chià²",
+   "idx": 26
+  },
+  {
+   "page": 916,
+   "position": 10,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:cho/choh]",
+   "rr": "quiong",
+   "idx": 27
+  },
+  {
+   "page": 916,
+   "position": 11,
+   "field": "M",
+   "kind": "replace",
+   "v1": "guiong",
+   "rr": "chiú",
+   "idx": 28
+  },
+  {
+   "page": 916,
+   "position": 11,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chiu",
+   "rr": ".",
+   "idx": 29
+  },
+  {
+   "page": 916,
+   "position": 12,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chiu",
+   "rr": "con",
+   "idx": 30
+  },
+  {
+   "page": 916,
+   "position": 12,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chia",
+   "rr": "la",
+   "idx": 31
+  },
+  {
+   "page": 916,
+   "position": 12,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[残:词尾另有一小记号难辨]",
+   "rr": "manos",
+   "idx": 32
+  },
+  {
+   "page": 916,
+   "position": 13,
+   "field": "M",
+   "kind": "replace",
+   "v1": "hou",
+   "rr": "chiú",
+   "idx": 34
+  },
+  {
+   "page": 916,
+   "position": 13,
+   "field": "M",
+   "kind": "replace",
+   "v1": "(圈画)",
+   "rr": ".",
+   "idx": 35
+  },
+  {
+   "page": 916,
+   "position": 14,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cou",
+   "rr": "con",
+   "idx": 36
+  },
+  {
+   "page": 916,
+   "position": 14,
+   "field": "M",
+   "kind": "replace",
+   "v1": "guen",
+   "rr": "la",
+   "idx": 37
+  },
+  {
+   "page": 916,
+   "position": 15,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cou",
+   "rr": "manos",
+   "idx": 38
+  },
+  {
+   "page": 916,
+   "position": 15,
+   "field": "M",
+   "kind": "replace",
+   "v1": "pay",
+   "rr": ".",
+   "idx": 39
+  },
+  {
+   "page": 916,
+   "position": 16,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cue",
+   "rr": "chiû",
+   "idx": 40
+  },
+  {
+   "page": 916,
+   "position": 16,
+   "field": "M",
+   "kind": "replace",
+   "v1": "lo",
+   "rr": "chià²ˢ",
+   "idx": 41
+  },
+  {
+   "page": 916,
+   "position": 16,
+   "field": "M",
+   "kind": "replace",
+   "v1": "(圈画)",
+   "rr": "quiong",
+   "idx": 42
+  },
+  {
+   "page": 916,
+   "position": 17,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chim",
+   "rr": "hoǔ",
+   "idx": 43
+  },
+  {
+   "page": 916,
+   "position": 17,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chim",
+   "rr": "côǔ",
+   "idx": 44
+  },
+  {
+   "page": 916,
+   "position": 17,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cue",
+   "rr": "quǐen",
+   "idx": 45
+  },
+  {
+   "page": 916,
+   "position": 17,
+   "field": "M",
+   "kind": "replace",
+   "v1": "(圈画)",
+   "rr": "coû",
+   "idx": 46
+  },
+  {
+   "page": 916,
+   "position": 18,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cue",
+   "rr": "pâř",
+   "idx": 47
+  },
+  {
+   "page": 916,
+   "position": 18,
+   "field": "M",
+   "kind": "replace",
+   "v1": "pay",
+   "rr": ".",
+   "idx": 48
+  },
+  {
+   "page": 916,
+   "position": 16,
+   "field": "M",
+   "kind": "replace",
+   "v1": "(圈画)",
+   "rr": ".",
+   "idx": 42
+  },
+  {
+   "page": 916,
+   "position": 17,
+   "field": "M",
+   "kind": "delete",
+   "v1": "(圈画)",
+   "rr": "",
+   "idx": 46
+  },
+  {
+   "page": 916,
+   "position": 18,
+   "field": "M",
+   "kind": "replace",
+   "v1": "pay",
+   "rr": "pâř",
+   "idx": 48
+  },
+  {
+   "page": 916,
+   "position": 18,
+   "field": "M",
+   "kind": "replace",
+   "v1": "gie",
+   "rr": "qîè",
+   "idx": 49
+  },
+  {
+   "page": 916,
+   "position": 18,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:pay/pag]",
+   "rr": ".",
+   "idx": 51
+  },
+  {
+   "page": 916,
+   "position": 19,
+   "field": "M",
+   "kind": "replace",
+   "v1": "pay",
+   "rr": "pâř",
+   "idx": 54
+  },
+  {
+   "page": 916,
+   "position": 19,
+   "field": "M",
+   "kind": "replace",
+   "v1": "(圈画)",
+   "rr": "châř",
+   "idx": 55
+  },
+  {
+   "page": 916,
+   "position": 20,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cham",
+   "rr": "pâř",
+   "idx": 56
+  },
+  {
+   "page": 916,
+   "position": 20,
+   "field": "M",
+   "kind": "replace",
+   "v1": "pay",
+   "rr": ".",
+   "idx": 57
+  },
+  {
+   "page": 916,
+   "position": 20,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:pay/pag]",
+   "rr": "pâř",
+   "idx": 58
+  },
+  {
+   "page": 916,
+   "position": 21,
+   "field": "M",
+   "kind": "replace",
+   "v1": "pay",
+   "rr": "chià²",
+   "idx": 59
+  },
+  {
+   "page": 916,
+   "position": 21,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chia",
+   "rr": "",
+   "idx": 60
+  },
+  {
+   "page": 916,
+   "position": 1,
+   "field": "R",
+   "kind": "replace",
+   "v1": "hou",
+   "rr": "ióng",
+   "idx": 0
+  },
+  {
+   "page": 916,
+   "position": 2,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "hǒu",
+   "idx": 1
+  },
+  {
+   "page": 916,
+   "position": 3,
+   "field": "R",
+   "kind": "replace",
+   "v1": "chim",
+   "rr": ".",
+   "idx": 2
+  },
+  {
+   "page": 916,
+   "position": 3,
+   "field": "R",
+   "kind": "replace",
+   "v1": "chim",
+   "rr": "chim",
+   "idx": 3
+  },
+  {
+   "page": 916,
+   "position": 3,
+   "field": "R",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "chim",
+   "idx": 4
+  },
+  {
+   "page": 916,
+   "position": 3,
+   "field": "R",
+   "kind": "replace",
+   "v1": "co",
+   "rr": "cûè",
+   "idx": 5
+  },
+  {
+   "page": 916,
+   "position": 3,
+   "field": "R",
+   "kind": "replace",
+   "v1": "grande",
+   "rr": "grande",
+   "idx": 6
+  },
+  {
+   "page": 916,
+   "position": 3,
+   "field": "R",
+   "kind": "replace",
+   "v1": ".",
+   "rr": ".",
+   "idx": 7
+  },
+  {
+   "page": 916,
+   "position": 3,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[疑:co/cue]",
+   "rr": "chim",
+   "idx": 8
+  },
+  {
+   "page": 916,
+   "position": 4,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "chim",
+   "idx": 9
+  },
+  {
+   "page": 916,
+   "position": 5,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "pàř",
+   "idx": 10
+  },
+  {
+   "page": 916,
+   "position": 6,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 11
+  },
+  {
+   "page": 916,
+   "position": 7,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 12
+  },
+  {
+   "page": 916,
+   "position": 8,
+   "field": "R",
+   "kind": "replace",
+   "v1": "profunda",
+   "rr": "",
+   "idx": 13
+  },
+  {
+   "page": 916,
+   "position": 8,
+   "field": "R",
+   "kind": "replace",
+   "v1": "pay",
+   "rr": "cûè",
+   "idx": 17
+  },
+  {
+   "page": 916,
+   "position": 8,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[疑:pay/pag]",
+   "rr": "grande",
+   "idx": 18
+  },
+  {
+   "page": 916,
+   "position": 9,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": ".",
+   "idx": 19
+  },
+  {
+   "page": 916,
+   "position": 10,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "chim",
+   "idx": 20
+  },
+  {
+   "page": 916,
+   "position": 11,
+   "field": "R",
+   "kind": "replace",
+   "v1": "con",
+   "rr": "chim",
+   "idx": 21
+  },
+  {
+   "page": 916,
+   "position": 11,
+   "field": "R",
+   "kind": "replace",
+   "v1": "las",
+   "rr": "pàř",
+   "idx": 22
+  },
+  {
+   "page": 916,
+   "position": 11,
+   "field": "R",
+   "kind": "replace",
+   "v1": "manos",
+   "rr": "",
+   "idx": 23
+  },
+  {
+   "page": 916,
+   "position": 12,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "chim",
+   "idx": 25
+  },
+  {
+   "page": 916,
+   "position": 13,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "chim",
+   "idx": 26
+  },
+  {
+   "page": 916,
+   "position": 14,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "pàř",
+   "idx": 27
+  },
+  {
+   "page": 916,
+   "position": 15,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 28
+  },
+  {
+   "page": 916,
+   "position": 16,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 29
+  },
+  {
+   "page": 916,
+   "position": 17,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 30
+  },
+  {
+   "page": 916,
+   "position": 18,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 31
+  },
+  {
+   "page": 916,
+   "position": 19,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 32
+  },
+  {
+   "page": 916,
+   "position": 20,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 33
+  },
+  {
+   "page": 916,
+   "position": 21,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 34
+  }
+ ]
+}

@@ -1,0 +1,437 @@
+{
+ "page": 70,
+ "verdicts": [
+  {
+   "idx": 0,
+   "verdict": "V1误读",
+   "shouldBe": "kcûn",
+   "note": "墨迹为上标 kc + ûn；V1 漏 k 且尾 t 误读为 n"
+  },
+  {
+   "idx": 1,
+   "verdict": "V1误读",
+   "shouldBe": "hiêⁿ",
+   "note": "墨迹 hiê + 鼻音钩；V1 尾 t 全误；重读 hiēn 的 n/调符记法略有出入但基本忠实"
+  },
+  {
+   "idx": 2,
+   "verdict": "V1误读",
+   "shouldBe": "hiêⁿ",
+   "note": "同上（第三行第一音节）"
+  },
+  {
+   "idx": 3,
+   "verdict": "V1误读",
+   "shouldBe": "quēk",
+   "note": "墨迹 gueg + 上标 kc；V1 多 i、ê 与墨迹不合；重读较近（首 g 以 qu- 转写两读同）"
+  },
+  {
+   "idx": 4,
+   "verdict": "V1误读",
+   "shouldBe": "koù",
+   "note": "墨迹 k-o-u 带抑音；V1 首字母 t、元音 a 全误；重读 kôi 尾 i 亦误、较近"
+  },
+  {
+   "idx": 5,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "hãm 与 hamⁿ 为同一鼻音的记法差异（鼻音符号位置差），字母 h-a-m 两读一致"
+  },
+  {
+   "idx": 6,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为锐音 hóng；重读误记作鼻音 hoñg"
+  },
+  {
+   "idx": 7,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹似 mn̄uig（m-n-长音-u-i-g）：V1 mn̂g 漏 ui，重读 mūiⁿ 漏中缀 n 且尾 ⁿ≠g，各失其半"
+  },
+  {
+   "idx": 8,
+   "verdict": "V1误读",
+   "shouldBe": "cunⁿ",
+   "note": "墨迹 cun + 鼻音钩；V1 漏鼻音且调符误作锐音；重读 cûiⁿ 捕到鼻音但多 i、添调符"
+  },
+  {
+   "idx": 9,
+   "verdict": "V1误读",
+   "shouldBe": "chañg",
+   "note": "墨迹 cha + 鼻音钩；V1 完全漏记；重读记作长音 chāng，符类有误但存符"
+  },
+  {
+   "idx": 10,
+   "verdict": "V1误读",
+   "shouldBe": "cunⁿ",
+   "note": "同 idx8（第七行第二音节）"
+  },
+  {
+   "idx": 11,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为平音 laū；重读误记作扬音 lâū"
+  },
+  {
+   "idx": 12,
+   "verdict": "V1误读",
+   "shouldBe": "cañg",
+   "note": "墨迹 ca + 鼻音钩；V1 漏记鼻音"
+  },
+  {
+   "idx": 13,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 tiô（o 上抑扬符、无尾 c）；V1 尾多一 c；重读 hiō 首字母 h 误"
+  },
+  {
+   "idx": 14,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 sŷ（s-y 扬抑符）；V1 作 sì（i/y 变体、符形欠合）尚近；重读 tīⁿ 首字母 t 全误"
+  },
+  {
+   "idx": 15,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 pa 上有调符（形难辨，似锐/长音）；V1 记 á 存符，重读 pa 无符漏记"
+  },
+  {
+   "idx": 16,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹 chia 上一笔记号形难辨（曲/横），V1 chiâ 与重读 chīā 各为一种记法，皆可通"
+  },
+  {
+   "idx": 17,
+   "verdict": "V1误读",
+   "shouldBe": "cañg",
+   "note": "墨迹 ca + 鼻音钩；V1 漏记"
+  },
+  {
+   "idx": 18,
+   "verdict": "V1误读",
+   "shouldBe": "òaⁿ",
+   "note": "墨迹为大写 Oan + a 上鼻音钩；V1 首字母 u 误；重读近是但未录大写 O"
+  },
+  {
+   "idx": 19,
+   "verdict": "V1误读",
+   "shouldBe": "vàñ",
+   "note": "墨迹 van + a 上扬抑/鼻音记号；V1 首字母 u 误"
+  },
+  {
+   "idx": 20,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹为 còng（抑音+小上标 c）；V1 记锐音 cóng、重读记长音 cōng，调符均不合"
+  },
+  {
+   "idx": 21,
+   "verdict": "V1误读",
+   "shouldBe": "vàñ",
+   "note": "同 idx19（第十三行第一音节）"
+  },
+  {
+   "idx": 22,
+   "verdict": "V1误读",
+   "shouldBe": "cañg",
+   "note": "墨迹 ca + 鼻音钩；V1 漏记"
+  },
+  {
+   "idx": 21,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "（同位异源 rr=kó）墨迹 van…；u/v 古通用故 V1 尚近，重读 kó 首字母与墨迹全然不合"
+  },
+  {
+   "idx": 22,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "（同位异源 rr=chīā）墨迹 cañg；V1 漏鼻音钩尚近；重读 chīā 与墨迹字母不合"
+  },
+  {
+   "idx": 23,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹为 còng（抑音+小上标 c）；V1 记锐音 cóng 调符误，重读 cañg 元音 a 亦误，均不忠实"
+  },
+  {
+   "idx": 24,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 to(+调符)，尾并无 c；V1 多一 c 尚近；重读 kó 首字母 k 误"
+  },
+  {
+   "idx": 25,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 chia(+记号)；V1 字母全合（符形略异）；重读 chīt 尾 t 误且漏 a"
+  },
+  {
+   "idx": 26,
+   "verdict": "V1误读",
+   "shouldBe": "cañg",
+   "note": "墨迹 ca + 鼻音钩；V1 漏记"
+  },
+  {
+   "idx": 27,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹似 tos/toć（尾字母 s/c 难辨）；V1 thoc 略近；重读 chāp 首字母误"
+  },
+  {
+   "idx": 28,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 chît（i 上扬音符、尾 t 清晰）；V1 全合；重读 cañg 全然不合"
+  },
+  {
+   "idx": 29,
+   "verdict": "V1误读",
+   "shouldBe": "cañg",
+   "note": "墨迹 ca + 鼻音钩；V1 漏记"
+  },
+  {
+   "idx": 30,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 chap（尾 p 清晰，a 上另有鼻音钩两读均未录）；V1 尾作 c 误尚近；重读 chûiⁿ 全然不合"
+  },
+  {
+   "idx": 31,
+   "verdict": "V1误读",
+   "shouldBe": "cañg",
+   "note": "墨迹 ca + 鼻音钩；V1 漏记"
+  },
+  {
+   "idx": 32,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 chuy + 鼻音上标钩；重读该音节缺录，V1 字母全合（调符记作锐音欠准）"
+  },
+  {
+   "idx": 33,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 chuy + 鼻音上标钩；重读缺录，V1 字母全合"
+  },
+  {
+   "idx": 34,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 cañg；重读缺录；V1 漏鼻音钩，忠实字面应为 cañg"
+  },
+  {
+   "idx": 0,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 cūrt（尾 rt 清晰）；重读 cūnt 尾 n 误"
+  },
+  {
+   "idx": 1,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹长音在 i（hīe）；V1 长音标于 e，属声调符位置差"
+  },
+  {
+   "idx": 2,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "同 idx1"
+  },
+  {
+   "idx": 3,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹 guīg + 上标 c：V1 首作 q（q/g 字形近似难判）而尾 g 合；重读首 g 合而尾 ñ 并非墨迹；上标 c 两读均未录"
+  },
+  {
+   "idx": 4,
+   "verdict": "V1误读",
+   "shouldBe": "tōun",
+   "note": "墨迹似 toūn（o 上长音）；V1 漏尾 n，重读 tōn 漏 u；调符重读合"
+  },
+  {
+   "idx": 5,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读同为 hiām，与墨迹合"
+  },
+  {
+   "idx": 6,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 Caron（ˇ）hǒng；重读误记抑音 hòng"
+  },
+  {
+   "idx": 7,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 muên（e 上扬音符）；重读 mé 漏 u 且符误"
+  },
+  {
+   "idx": 8,
+   "verdict": "V1误读",
+   "shouldBe": "cuòn",
+   "note": "墨迹元音为 o（抑音）；V1 作 a 误"
+  },
+  {
+   "idx": 9,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 o 上为 Caron + 上标 c（首部有墨渍）；V1 记 ǒng 合（双 h 因墨渍无法核验）；重读无符漏记"
+  },
+  {
+   "idx": 10,
+   "verdict": "V1误读",
+   "shouldBe": "cuòn",
+   "note": "墨迹元音为 o（抑音）；V1 作 a 误"
+  },
+  {
+   "idx": 11,
+   "verdict": "V1误读",
+   "shouldBe": "lēn",
+   "note": "墨迹尾为 n 非 u；V1 lēu 误；重读 lēn 合"
+  },
+  {
+   "idx": 12,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 Caron（ˇ）+ 上标 c；V1 记 ǒng 合（上标 c 两读均未录）；重读误记抑音 còng"
+  },
+  {
+   "idx": 13,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹长音覆 io 双元音；V1 标 i、重读标 o，声调符位置差"
+  },
+  {
+   "idx": 14,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 sy 加长音；V1 sȳ 合（符位略异）；重读 tī 首字母 t 全误"
+  },
+  {
+   "idx": 15,
+   "verdict": "V1误读",
+   "shouldBe": "Tà",
+   "note": "墨迹为大写 T + 抑音；V1 小写 t 漏大写"
+  },
+  {
+   "idx": 16,
+   "verdict": "V1误读",
+   "shouldBe": "chēng",
+   "note": "墨迹 e 上为长音 + 上标 c；重读长音合（上标 c 均未录）；V1 扬音符误"
+  },
+  {
+   "idx": 17,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 Caron + 上标 c；V1 记 ǒng 合（上标 c 未录）；重读误记抑音"
+  },
+  {
+   "idx": 18,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 van + a 上抑音；V1 vàn 合；重读误记长音 vān"
+  },
+  {
+   "idx": 19,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读同为 vàn，与墨迹合"
+  },
+  {
+   "idx": 20,
+   "verdict": "V1误读",
+   "shouldBe": "còng",
+   "note": "墨迹为抑音 + 上标 c；重读抑音合（上标 c 未录）；V1 Caron 误"
+  },
+  {
+   "idx": 21,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读同为 vàn，与墨迹合"
+  },
+  {
+   "idx": 22,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 Caron（ˇ）；V1 记 ǒng 合；重读误记抑音 còng"
+  },
+  {
+   "idx": 23,
+   "verdict": "V1误读",
+   "shouldBe": "còng",
+   "note": "墨迹为抑音 + 上标 c；重读抑音合；V1 Caron 误"
+  },
+  {
+   "idx": 24,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读同为 tō，与墨迹长音合"
+  },
+  {
+   "idx": 25,
+   "verdict": "V1误读",
+   "shouldBe": "chēng",
+   "note": "墨迹长音 + 上标 c；重读长音合；V1 扬音符误"
+  },
+  {
+   "idx": 26,
+   "verdict": "V1误读",
+   "shouldBe": "còng",
+   "note": "墨迹为抑音 + 上标 c；重读抑音合；V1 Caron 误"
+  },
+  {
+   "idx": 27,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读同为 tō，与墨迹合"
+  },
+  {
+   "idx": 28,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 ȳt（y 带降尾清晰）；重读 it 将 y 误作 i；V1 ȳt 合"
+  },
+  {
+   "idx": 29,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 Caron + 上标 c；V1 记 ǒng 合；重读误记抑音"
+  },
+  {
+   "idx": 30,
+   "verdict": "V1误读",
+   "shouldBe": "chō",
+   "note": "墨迹 cho 单 h、o 上长音 + 上标 c；V1 双 h 误；重读字母与长音合"
+  },
+  {
+   "idx": 31,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 Caron + 上标 c；V1 记 ǒng 合；重读误记抑音"
+  },
+  {
+   "idx": 32,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 chuen 上为 Caron + 上标 c（两读均未录该上标）；V1 记 ě 合符但双 h 未见；重读误记长音"
+  },
+  {
+   "idx": 33,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "同 idx32（第十九行第一音节）"
+  },
+  {
+   "idx": 34,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 Caron + 上标 c；V1 记 ǒng 合；重读误记抑音"
+  }
+ ]
+}

@@ -1,0 +1,873 @@
+{
+ "page": 215,
+ "mV1Count": 51,
+ "mRrCount": 36,
+ "rV1Count": 48,
+ "rRrCount": 26,
+ "diffs": [
+  {
+   "page": 215,
+   "position": 1,
+   "field": "M",
+   "kind": "replace",
+   "v1": "sũ",
+   "rr": "oũ",
+   "idx": 0
+  },
+  {
+   "page": 215,
+   "position": 1,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:sũ/sū]",
+   "rr": "huānchū",
+   "idx": 1
+  },
+  {
+   "page": 215,
+   "position": 2,
+   "field": "M",
+   "kind": "replace",
+   "v1": "húān",
+   "rr": "oũ",
+   "idx": 2
+  },
+  {
+   "page": 215,
+   "position": 2,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chū",
+   "rr": "nûy",
+   "idx": 3
+  },
+  {
+   "page": 215,
+   "position": 3,
+   "field": "M",
+   "kind": "replace",
+   "v1": "sū",
+   "rr": "pequeño",
+   "idx": 4
+  },
+  {
+   "page": 215,
+   "position": 3,
+   "field": "M",
+   "kind": "replace",
+   "v1": "nuī",
+   "rr": "chéng",
+   "idx": 5
+  },
+  {
+   "page": 215,
+   "position": 3,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:首音sū/cū]",
+   "rr": "chéng",
+   "idx": 7
+  },
+  {
+   "page": 215,
+   "position": 4,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chiēng",
+   "rr": ".",
+   "idx": 8
+  },
+  {
+   "page": 215,
+   "position": 4,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:声调符]",
+   "rr": "rcang",
+   "idx": 9
+  },
+  {
+   "page": 215,
+   "position": 5,
+   "field": "M",
+   "kind": "replace",
+   "v1": "lāu",
+   "rr": ".",
+   "idx": 10
+  },
+  {
+   "page": 215,
+   "position": 5,
+   "field": "M",
+   "kind": "replace",
+   "v1": "pōa",
+   "rr": "[残]",
+   "idx": 11
+  },
+  {
+   "page": 215,
+   "position": 5,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[圈划]",
+   "rr": "chióng",
+   "idx": 12
+  },
+  {
+   "page": 215,
+   "position": 6,
+   "field": "M",
+   "kind": "replace",
+   "v1": "Chiōng",
+   "rr": "yà",
+   "idx": 13
+  },
+  {
+   "page": 215,
+   "position": 6,
+   "field": "M",
+   "kind": "replace",
+   "v1": "yà",
+   "rr": "tŷ",
+   "idx": 14
+  },
+  {
+   "page": 215,
+   "position": 6,
+   "field": "M",
+   "kind": "replace",
+   "v1": "hỹ",
+   "rr": "quēng",
+   "idx": 15
+  },
+  {
+   "page": 215,
+   "position": 6,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:末音节字形]",
+   "rr": "coṣ",
+   "idx": 16
+  },
+  {
+   "page": 215,
+   "position": 7,
+   "field": "M",
+   "kind": "replace",
+   "v1": "quēng",
+   "rr": ".",
+   "idx": 17
+  },
+  {
+   "page": 215,
+   "position": 7,
+   "field": "M",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "Boṣhū",
+   "idx": 18
+  },
+  {
+   "page": 215,
+   "position": 8,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cof",
+   "rr": ".",
+   "idx": 19
+  },
+  {
+   "page": 215,
+   "position": 8,
+   "field": "M",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "lūī",
+   "idx": 20
+  },
+  {
+   "page": 215,
+   "position": 5,
+   "field": "M",
+   "kind": "delete",
+   "v1": "[圈划]",
+   "rr": "",
+   "idx": 12
+  },
+  {
+   "page": 215,
+   "position": 6,
+   "field": "M",
+   "kind": "delete",
+   "v1": "Chiōng",
+   "rr": "",
+   "idx": 13
+  },
+  {
+   "page": 215,
+   "position": 6,
+   "field": "M",
+   "kind": "delete",
+   "v1": "yà",
+   "rr": "",
+   "idx": 14
+  },
+  {
+   "page": 215,
+   "position": 6,
+   "field": "M",
+   "kind": "delete",
+   "v1": "hỹ",
+   "rr": "",
+   "idx": 15
+  },
+  {
+   "page": 215,
+   "position": 6,
+   "field": "M",
+   "kind": "delete",
+   "v1": "[疑:末音节字形]",
+   "rr": "",
+   "idx": 16
+  },
+  {
+   "page": 215,
+   "position": 7,
+   "field": "M",
+   "kind": "delete",
+   "v1": "quēng",
+   "rr": "",
+   "idx": 17
+  },
+  {
+   "page": 215,
+   "position": 7,
+   "field": "M",
+   "kind": "delete",
+   "v1": ".",
+   "rr": "",
+   "idx": 18
+  },
+  {
+   "page": 215,
+   "position": 8,
+   "field": "M",
+   "kind": "delete",
+   "v1": "cof",
+   "rr": "",
+   "idx": 19
+  },
+  {
+   "page": 215,
+   "position": 8,
+   "field": "M",
+   "kind": "delete",
+   "v1": ".",
+   "rr": "",
+   "idx": 20
+  },
+  {
+   "page": 215,
+   "position": 8,
+   "field": "M",
+   "kind": "delete",
+   "v1": "Boğu",
+   "rr": "",
+   "idx": 21
+  },
+  {
+   "page": 215,
+   "position": 8,
+   "field": "M",
+   "kind": "delete",
+   "v1": ".",
+   "rr": "",
+   "idx": 22
+  },
+  {
+   "page": 215,
+   "position": 8,
+   "field": "M",
+   "kind": "delete",
+   "v1": "[疑:首词cof]",
+   "rr": "",
+   "idx": 23
+  },
+  {
+   "page": 215,
+   "position": 9,
+   "field": "M",
+   "kind": "delete",
+   "v1": "lān",
+   "rr": "",
+   "idx": 24
+  },
+  {
+   "page": 215,
+   "position": 9,
+   "field": "M",
+   "kind": "delete",
+   "v1": "pōā",
+   "rr": "",
+   "idx": 25
+  },
+  {
+   "page": 215,
+   "position": 9,
+   "field": "M",
+   "kind": "delete",
+   "v1": "[疑:lān/lāu]",
+   "rr": "",
+   "idx": 26
+  },
+  {
+   "page": 215,
+   "position": 11,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chiōng",
+   "rr": "chióng",
+   "idx": 30
+  },
+  {
+   "page": 215,
+   "position": 12,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chiōng",
+   "rr": "chióng",
+   "idx": 31
+  },
+  {
+   "page": 215,
+   "position": 12,
+   "field": "M",
+   "kind": "replace",
+   "v1": "laū",
+   "rr": "lāu",
+   "idx": 32
+  },
+  {
+   "page": 215,
+   "position": 13,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chiūp-a",
+   "rr": "chúiboa",
+   "idx": 33
+  },
+  {
+   "page": 215,
+   "position": 13,
+   "field": "M",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "châubou",
+   "idx": 34
+  },
+  {
+   "page": 215,
+   "position": 13,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:声调符]",
+   "rr": "lôṣ",
+   "idx": 35
+  },
+  {
+   "page": 215,
+   "position": 13,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:声调符]",
+   "rr": "Tiō",
+   "idx": 35
+  },
+  {
+   "page": 215,
+   "position": 14,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chau",
+   "rr": "câūia",
+   "idx": 36
+  },
+  {
+   "page": 215,
+   "position": 14,
+   "field": "M",
+   "kind": "replace",
+   "v1": "poú",
+   "rr": "cong",
+   "idx": 37
+  },
+  {
+   "page": 215,
+   "position": 14,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:声调符]",
+   "rr": "yā",
+   "idx": 38
+  },
+  {
+   "page": 215,
+   "position": 15,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cỹ",
+   "rr": "câu",
+   "idx": 39
+  },
+  {
+   "page": 215,
+   "position": 15,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:字形难辨]",
+   "rr": "ia",
+   "idx": 40
+  },
+  {
+   "page": 215,
+   "position": 16,
+   "field": "M",
+   "kind": "replace",
+   "v1": "Tīō",
+   "rr": "",
+   "idx": 41
+  },
+  {
+   "page": 215,
+   "position": 16,
+   "field": "M",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "",
+   "idx": 42
+  },
+  {
+   "page": 215,
+   "position": 17,
+   "field": "M",
+   "kind": "replace",
+   "v1": "tauia",
+   "rr": "",
+   "idx": 43
+  },
+  {
+   "page": 215,
+   "position": 17,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:tauia/cauia]",
+   "rr": "",
+   "idx": 44
+  },
+  {
+   "page": 215,
+   "position": 18,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cōng",
+   "rr": "",
+   "idx": 45
+  },
+  {
+   "page": 215,
+   "position": 19,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cau",
+   "rr": "câu",
+   "idx": 47
+  },
+  {
+   "page": 215,
+   "position": 19,
+   "field": "M",
+   "kind": "delete",
+   "v1": ".",
+   "rr": "",
+   "idx": 49
+  },
+  {
+   "page": 215,
+   "position": 19,
+   "field": "M",
+   "kind": "delete",
+   "v1": "[疑:声调符位置]",
+   "rr": "",
+   "idx": 50
+  },
+  {
+   "page": 215,
+   "position": 1,
+   "field": "R",
+   "kind": "replace",
+   "v1": "iū",
+   "rr": "iũ",
+   "idx": 0
+  },
+  {
+   "page": 215,
+   "position": 1,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[疑:iū/in]",
+   "rr": "fan",
+   "idx": 1
+  },
+  {
+   "page": 215,
+   "position": 2,
+   "field": "R",
+   "kind": "replace",
+   "v1": "fǎn",
+   "rr": "chû",
+   "idx": 2
+  },
+  {
+   "page": 215,
+   "position": 2,
+   "field": "R",
+   "kind": "replace",
+   "v1": "chǔ",
+   "rr": "iũ",
+   "idx": 3
+  },
+  {
+   "page": 215,
+   "position": 2,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[疑:声调符]",
+   "rr": "loân",
+   "idx": 4
+  },
+  {
+   "page": 215,
+   "position": 3,
+   "field": "R",
+   "kind": "replace",
+   "v1": "iū",
+   "rr": "chǒng",
+   "idx": 5
+  },
+  {
+   "page": 215,
+   "position": 3,
+   "field": "R",
+   "kind": "replace",
+   "v1": "loān",
+   "rr": "pōai",
+   "idx": 6
+  },
+  {
+   "page": 215,
+   "position": 3,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[疑:iū/in]",
+   "rr": "[残]",
+   "idx": 7
+  },
+  {
+   "page": 215,
+   "position": 4,
+   "field": "R",
+   "kind": "replace",
+   "v1": "riang",
+   "rr": "guēng",
+   "idx": 8
+  },
+  {
+   "page": 215,
+   "position": 4,
+   "field": "R",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "mōiũ",
+   "idx": 9
+  },
+  {
+   "page": 215,
+   "position": 4,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[疑:chǒng/chàng]",
+   "rr": "pōai",
+   "idx": 11
+  },
+  {
+   "page": 215,
+   "position": 5,
+   "field": "R",
+   "kind": "replace",
+   "v1": "pōat",
+   "rr": "[残]",
+   "idx": 12
+  },
+  {
+   "page": 215,
+   "position": 5,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[疑:末字符难辨]",
+   "rr": "guēng",
+   "idx": 13
+  },
+  {
+   "page": 215,
+   "position": 6,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[残:右中栏删划字难辨]",
+   "rr": "mōiũ",
+   "idx": 14
+  },
+  {
+   "page": 215,
+   "position": 7,
+   "field": "R",
+   "kind": "replace",
+   "v1": "quēng",
+   "rr": "lēng",
+   "idx": 15
+  },
+  {
+   "page": 215,
+   "position": 7,
+   "field": "R",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "pōai",
+   "idx": 16
+  },
+  {
+   "page": 215,
+   "position": 8,
+   "field": "R",
+   "kind": "replace",
+   "v1": "mō",
+   "rr": "guēng",
+   "idx": 17
+  },
+  {
+   "page": 215,
+   "position": 8,
+   "field": "R",
+   "kind": "replace",
+   "v1": "iū",
+   "rr": "chái",
+   "idx": 18
+  },
+  {
+   "page": 215,
+   "position": 9,
+   "field": "R",
+   "kind": "replace",
+   "v1": "pōat",
+   "rr": "pōai",
+   "idx": 20
+  },
+  {
+   "page": 215,
+   "position": 9,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[疑:末字符]",
+   "rr": "guēng",
+   "idx": 21
+  },
+  {
+   "page": 215,
+   "position": 10,
+   "field": "R",
+   "kind": "replace",
+   "v1": "chaỹ",
+   "rr": "chái",
+   "idx": 23
+  },
+  {
+   "page": 215,
+   "position": 10,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[疑:chaỹ/chây]",
+   "rr": "tūi",
+   "idx": 24
+  },
+  {
+   "page": 215,
+   "position": 12,
+   "field": "R",
+   "kind": "delete",
+   "v1": "chiōng",
+   "rr": "",
+   "idx": 27
+  },
+  {
+   "page": 215,
+   "position": 12,
+   "field": "R",
+   "kind": "delete",
+   "v1": ".",
+   "rr": "",
+   "idx": 28
+  },
+  {
+   "page": 215,
+   "position": 12,
+   "field": "R",
+   "kind": "replace",
+   "v1": "keû",
+   "rr": "lêu",
+   "idx": 30
+  },
+  {
+   "page": 215,
+   "position": 12,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[疑:声调符]",
+   "rr": "pâu",
+   "idx": 31
+  },
+  {
+   "page": 215,
+   "position": 13,
+   "field": "R",
+   "kind": "replace",
+   "v1": "gām",
+   "rr": "châupû",
+   "idx": 32
+  },
+  {
+   "page": 215,
+   "position": 13,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[疑:gām/pūm]",
+   "rr": "vīn",
+   "idx": 33
+  },
+  {
+   "page": 215,
+   "position": 14,
+   "field": "R",
+   "kind": "replace",
+   "v1": "châin",
+   "rr": "chiâng",
+   "idx": 34
+  },
+  {
+   "page": 215,
+   "position": 14,
+   "field": "R",
+   "kind": "replace",
+   "v1": "pū",
+   "rr": "guiâu",
+   "idx": 35
+  },
+  {
+   "page": 215,
+   "position": 14,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[疑:声调符]",
+   "rr": "cuāng",
+   "idx": 36
+  },
+  {
+   "page": 215,
+   "position": 15,
+   "field": "R",
+   "kind": "replace",
+   "v1": "siū",
+   "rr": "yê",
+   "idx": 37
+  },
+  {
+   "page": 215,
+   "position": 15,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[疑:siū/viū]",
+   "rr": "châipû",
+   "idx": 38
+  },
+  {
+   "page": 215,
+   "position": 16,
+   "field": "R",
+   "kind": "replace",
+   "v1": "chiāng",
+   "rr": "",
+   "idx": 39
+  },
+  {
+   "page": 215,
+   "position": 16,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[疑:ā/à]",
+   "rr": "",
+   "idx": 40
+  },
+  {
+   "page": 215,
+   "position": 17,
+   "field": "R",
+   "kind": "replace",
+   "v1": "guiàu",
+   "rr": "",
+   "idx": 41
+  },
+  {
+   "page": 215,
+   "position": 17,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[疑:拼写难辨]",
+   "rr": "",
+   "idx": 42
+  },
+  {
+   "page": 215,
+   "position": 18,
+   "field": "R",
+   "kind": "replace",
+   "v1": "yé",
+   "rr": "yê",
+   "idx": 44
+  },
+  {
+   "page": 215,
+   "position": 19,
+   "field": "R",
+   "kind": "replace",
+   "v1": "chāy",
+   "rr": "châipû",
+   "idx": 45
+  },
+  {
+   "page": 215,
+   "position": 19,
+   "field": "R",
+   "kind": "replace",
+   "v1": "pū",
+   "rr": "",
+   "idx": 46
+  },
+  {
+   "page": 215,
+   "position": 19,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[疑:声调符]",
+   "rr": "",
+   "idx": 47
+  }
+ ]
+}

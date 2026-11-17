@@ -1,0 +1,401 @@
+{
+ "page": 36,
+ "verdicts": [
+  {
+   "idx": 0,
+   "verdict": "V1误读",
+   "shouldBe": "xi",
+   "note": "墨迹行1为 xi（i 上有小曲声调符，重读未记）；首字母 x 清楚，V1 之 hī 首字母误"
+  },
+  {
+   "idx": 1,
+   "verdict": "V1误读",
+   "shouldBe": "cuy",
+   "note": "墨迹 cuy（u 上有小曲声调符）；V1 之 tay 全误"
+  },
+  {
+   "idx": 3,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "a 上确有小声调符，形状近重音符但曲直难辨；v1 记长音符、重读不记，均非忠实"
+  },
+  {
+   "idx": 4,
+   "verdict": "V1误读",
+   "shouldBe": "paxaro",
+   "note": "墨迹行3为 paxaro，x 清楚；V1 之 pagro 漏 a/x"
+  },
+  {
+   "idx": 6,
+   "verdict": "V1误读",
+   "shouldBe": "loū",
+   "note": "墨迹行4为 pang lou，首字母 l；u 上有长音符，o/u 上方另有小曲符；V1 之 tōu 首字母误"
+  },
+  {
+   "idx": 7,
+   "verdict": "V1误读",
+   "shouldBe": "oú",
+   "note": "墨迹行5为 Ou（o 上尖锐音符）；V1 之 cú 首字母误"
+  },
+  {
+   "idx": 11,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "该行墨迹先后含 o'betáo（有涂抹痕）与 quim 两词，两读各取其一，系切行/对位差，词形均见于墨迹"
+  },
+  {
+   "idx": 12,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "该行墨迹为 pàng（a 上小曲声调符）；guîm 未见于此行，系重读错位取上行词"
+  },
+  {
+   "idx": 13,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹该词为 chèng（è 清楚），重读之 pâng 系错位"
+  },
+  {
+   "idx": 14,
+   "verdict": "V1误读",
+   "shouldBe": "tāupàng",
+   "note": "墨迹完整一词 taūpàng（长音符似在 aū 上，符位难确指）；V1 之 tāu 截去 pàng 尾"
+  },
+  {
+   "idx": 15,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "pang/pâng 同词声调符差（墨迹 a 上小曲符），两读近似同一墨迹词"
+  },
+  {
+   "idx": 16,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "该行（de la tierra）墨迹为 pàng；重读之 Can 系下一行 Rehau Can lang 错位"
+  },
+  {
+   "idx": 17,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "该行墨迹 Can lang 两词俱在（Can 为大写 C），两读各取其一，系对位差"
+  },
+  {
+   "idx": 25,
+   "verdict": "V1误读",
+   "shouldBe": "bag",
+   "note": "墨迹行16为 algo bag Ca，bag 清楚；V1 漏读"
+  },
+  {
+   "idx": 26,
+   "verdict": "V1误读",
+   "shouldBe": "Càg",
+   "note": "墨迹行17为 Cag（a 上小符，g 略小似上标）；重读漏 g 记 Cà，V1 首字母误 p"
+  },
+  {
+   "idx": 29,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "gou/gôü 声调符形差（墨迹 gou，u 上小符），两读近似"
+  },
+  {
+   "idx": 30,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行18为 eng（无 c 起首），重读之 cèng 无中生有"
+  },
+  {
+   "idx": 31,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "gou/gôü 声调符形差（墨迹 gou），两读近似"
+  },
+  {
+   "idx": 32,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 Chāng（大写 C、a 上长音符）；v1 记符不记大写、重读记大写不记符，两读近似同一墨迹词"
+  },
+  {
+   "idx": 33,
+   "verdict": "V1误读",
+   "shouldBe": "meā",
+   "note": "墨迹为 meā（a 上长音符清楚）；V1 多出 n 记作 mena，重读之 mea 漏符"
+  },
+  {
+   "idx": 34,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 Chōng（大写 C、o 上符）；两读各记其一近似"
+  },
+  {
+   "idx": 35,
+   "verdict": "V1误读",
+   "shouldBe": "bēng",
+   "note": "墨迹行19末词为 bēng（b 清楚，e 上长音符）；V1 之 hēng 首字母误"
+  },
+  {
+   "idx": 37,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行20末词首笔为单笔环形花体 L（无 k 的第二臂），读 liāng；重读之 kiâng 首字母误"
+  },
+  {
+   "idx": 39,
+   "verdict": "V1误读",
+   "shouldBe": "bin",
+   "note": "墨迹行21为 beng bin，bin 无声调符可见；V1 之 bīn 添符"
+  },
+  {
+   "idx": 40,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹 bin 之 i 上有小符，形近重音/长音难辨，两读近似同一墨迹"
+  },
+  {
+   "idx": 41,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹 chien 之 e 上小声调符，形近长音符/重音符之间，两读各记其形"
+  },
+  {
+   "idx": 42,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 Chong（大写 C、o 上小符）；两读各记其一近似"
+  },
+  {
+   "idx": 43,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹 bin 之 i 上有小符，形难确指，两读近似"
+  },
+  {
+   "idx": 44,
+   "verdict": "V1误读",
+   "shouldBe": "Ciaūlì",
+   "note": "墨迹行24末词为 Ciaūlì（u、ì 上各一符）；重读 Ciaû 漏尾 lì，V1 之 cüülì 中段元音误"
+  },
+  {
+   "idx": 45,
+   "verdict": "V1误读",
+   "shouldBe": "Lì",
+   "note": "系上行 Ciaūlì 之尾（lì），重读拆词记 Lì；V1 之 ciū 无对应墨迹"
+  },
+  {
+   "idx": 46,
+   "verdict": "V1误读",
+   "shouldBe": "Cù",
+   "note": "末行墨迹起首为 Cù it…；V1 之 è 无对应"
+  },
+  {
+   "idx": 47,
+   "verdict": "V1误读",
+   "shouldBe": "it",
+   "note": "墨迹 Cù 后为 it；V1 之 cho 无对应"
+  },
+  {
+   "idx": 48,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹 to.（已涂销）与 lu 相邻俱在，两读各记其一，系对位差"
+  },
+  {
+   "idx": 49,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错乱：墨迹此处为 chup（V1 记 chap，元音差），重读该位记 to. 之句点，词与点均见于墨迹"
+  },
+  {
+   "idx": 50,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹 lu 与 sup: 两词俱在，两读对位互换"
+  },
+  {
+   "idx": 51,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹该词为 chup（u 上小符），两读均不忠实：重读尾字母 g 与墨迹 p 不符，V1 截断作 cū…"
+  },
+  {
+   "idx": 52,
+   "verdict": "V1误读",
+   "shouldBe": "sup:",
+   "note": "墨迹 chup 后为 sup:；V1 漏读"
+  },
+  {
+   "idx": 53,
+   "verdict": "V1误读",
+   "shouldBe": "Cù",
+   "note": "墨迹 sup: 后为 Cù it ni jig；V1 漏读"
+  },
+  {
+   "idx": 54,
+   "verdict": "V1误读",
+   "shouldBe": "it",
+   "note": "墨迹 Cù 后为 it；V1 漏读"
+  },
+  {
+   "idx": 55,
+   "verdict": "V1误读",
+   "shouldBe": "ni",
+   "note": "墨迹 ni（i 上有上标小笔）；V1 漏读"
+  },
+  {
+   "idx": 56,
+   "verdict": "V1误读",
+   "shouldBe": "jig",
+   "note": "墨迹末词 jig（g 收笔带环）；V1 漏读"
+  },
+  {
+   "idx": 0,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 1,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 2,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 3,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 4,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 5,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 6,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 7,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 8,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 9,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 10,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 11,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 12,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 13,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 14,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 15,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 16,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 17,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 18,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 19,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 20,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 21,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 22,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 23,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  },
+  {
+   "idx": 24,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R 栏最右列无墨迹字（仅背面透字痕）；V1 之「[空]」为占位记号非字面，重读记空，两读皆忠实"
+  }
+ ]
+}

@@ -1,0 +1,649 @@
+{
+ "page": 88,
+ "verdicts": [
+  {
+   "idx": 0,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "M1 想：o 上调符被墨渍遮盖，仅见 i 上方一斜点，无法确认 sìǒ̃ 还是 sió",
+   "field": "M"
+  },
+  {
+   "idx": 1,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M2 憶：it 上方有清晰扬折符，墨迹为 ît",
+   "field": "M"
+  },
+  {
+   "idx": 2,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M3 憶着首词：it 上方有扬折符，墨迹为 ît",
+   "field": "M"
+  },
+  {
+   "idx": 3,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M3 第二词首字母有下降笔画，为 p 非 t，墨迹 piǒ",
+   "field": "M"
+  },
+  {
+   "idx": 4,
+   "verdict": "V1误读",
+   "shouldBe": "moû",
+   "note": "M4 慕行 M 栏有词 mou（u 上 v 形调符），v1 误作句点",
+   "field": "M"
+  },
+  {
+   "idx": 5,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M5 首词 u 上为 v 形调符（近 ǔ），非 rr 所记钝音符",
+   "field": "M"
+  },
+  {
+   "idx": 6,
+   "verdict": "V1误读",
+   "shouldBe": "hēy",
+   "note": "M5 第二词墨迹为 hey 带调符，v1 之 mǒv 不合",
+   "field": "M"
+  },
+  {
+   "idx": 7,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M5 第二词墨迹即 hey",
+   "field": "M"
+  },
+  {
+   "idx": 8,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M5 第三词墨迹为 chu（带调符），非 rr 之 yù（yù 属下行友）",
+   "field": "M"
+  },
+  {
+   "idx": 9,
+   "verdict": "V1误读",
+   "shouldBe": "ìn",
+   "note": "两读错位：墨迹友愛行有 in（i 上钝音符），v1 该位误作逗号",
+   "field": "M"
+  },
+  {
+   "idx": 11,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M6 友行末尾墨迹有句点，v1 之 . 忠实；rr 之 in 属下行",
+   "field": "M"
+  },
+  {
+   "idx": 12,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M7 友愛首词墨迹 ìn，rr 之 ày 不合",
+   "field": "M"
+  },
+  {
+   "idx": 13,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M7 第二词墨迹 ay（a 上扬符），rr 之 chêng 不在此位",
+   "field": "M"
+  },
+  {
+   "idx": 14,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M8 惜行墨迹 sêg，rr 之 bô 属下行",
+   "field": "M"
+  },
+  {
+   "idx": 15,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M8 墨迹 sêg 后有逗号，v1 忠实",
+   "field": "M"
+  },
+  {
+   "idx": 16,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M9 首词墨迹 bô（扬折符），v1 bò 调符稍异，rr chêng 不在此位",
+   "field": "M"
+  },
+  {
+   "idx": 17,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M9 第二词墨迹 guìa（i 上钝音符），rr 之 càu 属下行",
+   "field": "M"
+  },
+  {
+   "idx": 18,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M9 第三词墨迹 sêg",
+   "field": "M"
+  },
+  {
+   "idx": 19,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M9 sêg 后墨迹为句点",
+   "field": "M"
+  },
+  {
+   "idx": 21,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M9 chêng 后墨迹为逗号",
+   "field": "M"
+  },
+  {
+   "idx": 22,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M10 首词墨迹 cau 带调符（近 cǒu/càu），rr 之 guā 不在此位",
+   "field": "M"
+  },
+  {
+   "idx": 23,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M10 第二词墨迹 chēng（长音符）",
+   "field": "M"
+  },
+  {
+   "idx": 24,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M10 chēng 后墨迹为逗号",
+   "field": "M"
+  },
+  {
+   "idx": 25,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M11 首词墨迹 cûa（扬折符）",
+   "field": "M"
+  },
+  {
+   "idx": 26,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M11 第二词墨迹 siaulāng（a 上长音符）",
+   "field": "M"
+  },
+  {
+   "idx": 27,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M12 情行墨迹 chēng.，rr 之 tiāu、lâng 均不在此行",
+   "field": "M"
+  },
+  {
+   "idx": 28,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M12 chēng 后墨迹为句点",
+   "field": "M"
+  },
+  {
+   "idx": 29,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M13 首词墨迹 chēng（长音符）",
+   "field": "M"
+  },
+  {
+   "idx": 30,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M13 第二词墨迹 ý",
+   "field": "M"
+  },
+  {
+   "idx": 31,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M13 第三词墨迹 tǎng（a 上抑扬符清晰）",
+   "field": "M"
+  },
+  {
+   "idx": 32,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M13 行末墨迹为句点",
+   "field": "M"
+  },
+  {
+   "idx": 33,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M14 首词墨迹 chēng（长音符）",
+   "field": "M"
+  },
+  {
+   "idx": 34,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M14 第二词墨迹 ý",
+   "field": "M"
+  },
+  {
+   "idx": 35,
+   "verdict": "V1误读",
+   "shouldBe": "hó",
+   "note": "M14 第三词 o 上为尖音符，墨迹 hó",
+   "field": "M"
+  },
+  {
+   "idx": 36,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M14 行末墨迹为逗号",
+   "field": "M"
+  },
+  {
+   "idx": 37,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M15 春心首词墨迹 chūn（u 上长音符），rr 之 sim 不合",
+   "field": "M"
+  },
+  {
+   "idx": 39,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M15 行末墨迹为句点",
+   "field": "M"
+  },
+  {
+   "idx": 40,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M16 首词墨迹 hiāu（长音符）",
+   "field": "M"
+  },
+  {
+   "idx": 41,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M16 第二词墨迹 lāng",
+   "field": "M"
+  },
+  {
+   "idx": 42,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M16 行末墨迹为句点",
+   "field": "M"
+  },
+  {
+   "idx": 43,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M17 首词墨迹 y 上长音符（ȳ），rr 之 sū 不合",
+   "field": "M"
+  },
+  {
+   "idx": 44,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M17 第二词墨迹 guān（a 上长音符），rr 之 mòu 不在此位",
+   "field": "M"
+  },
+  {
+   "idx": 45,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M17 guān 后墨迹为逗号",
+   "field": "M"
+  },
+  {
+   "idx": 46,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M18 首词墨迹 sú（u 上尖音符），rr 之 chêng 不在此位",
+   "field": "M"
+  },
+  {
+   "idx": 47,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M18 第二词墨迹 moû（mou 带扬折符），v1 之 mǒvu 多一字母，rr 之 luān 不合",
+   "field": "M"
+  },
+  {
+   "idx": 48,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M19 首词墨迹 sú，rr 之 ī 不在此位",
+   "field": "M"
+  },
+  {
+   "idx": 49,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M19 第二词墨迹 chēng（长音符），rr 之 sū 不合",
+   "field": "M"
+  },
+  {
+   "idx": 50,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M19 第三词墨迹 guǎ（a 上抑扬符）",
+   "field": "M"
+  },
+  {
+   "idx": 51,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M19 第四词墨迹 ȳ（y 上长音符）",
+   "field": "M"
+  },
+  {
+   "idx": 52,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M21 墨迹 sú it.，v1 之 sú 忠实，rr 错位",
+   "field": "M"
+  },
+  {
+   "idx": 53,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M20 思念第二词墨迹 liām（a 上长音符），rr 之 sio 不合",
+   "field": "M"
+  },
+  {
+   "idx": 54,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "各行首词墨迹均为 sú，v1 忠实",
+   "field": "M"
+  },
+  {
+   "idx": 55,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M21 第二词墨迹 ît（i 上有调符），rr 空缺",
+   "field": "M"
+  },
+  {
+   "idx": 56,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M21 行末墨迹为句点，rr 空缺",
+   "field": "M"
+  },
+  {
+   "idx": 57,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M22 首词墨迹 sió（尖符），rr 空缺",
+   "field": "M"
+  },
+  {
+   "idx": 58,
+   "verdict": "V1误读",
+   "shouldBe": "sia",
+   "note": "M22 第二词首字母为长 ſ（带下降环与横笔），非 t，墨迹约 sia；其上调符被墨渍干扰",
+   "field": "M"
+  },
+  {
+   "idx": 0,
+   "verdict": "V1误读",
+   "shouldBe": "siàng",
+   "note": "R1 想：调符位于 a 上方，墨迹 siàng",
+   "field": "R"
+  },
+  {
+   "idx": 1,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R2 憶：墨迹为 y 上长音符（ȳ），rr 记作 ī 丢 y 形",
+   "field": "R"
+  },
+  {
+   "idx": 2,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R3 首词墨迹同 ȳ",
+   "field": "R"
+  },
+  {
+   "idx": 4,
+   "verdict": "V1误读",
+   "shouldBe": "mūn",
+   "note": "R4 慕：u 后有 n，墨迹 mūn",
+   "field": "R"
+  },
+  {
+   "idx": 5,
+   "verdict": "V1误读",
+   "shouldBe": "mūn",
+   "note": "R5 首词墨迹 mūn（有尾 n）",
+   "field": "R"
+  },
+  {
+   "idx": 6,
+   "verdict": "V1误读",
+   "shouldBe": "chý",
+   "note": "R5 第二词 y 上有尖音符，墨迹 chý",
+   "field": "R"
+  },
+  {
+   "idx": 7,
+   "verdict": "V1误读",
+   "shouldBe": "chì",
+   "note": "R5 第三词 i 上有钝音符，墨迹 chì",
+   "field": "R"
+  },
+  {
+   "idx": 8,
+   "verdict": "V1误读",
+   "shouldBe": "xiēn",
+   "note": "R6 友：尾字母为 n，e 上为长音符，墨迹 xiēn；两读调符皆不合，rr 字母较近",
+   "field": "R"
+  },
+  {
+   "idx": 11,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "R8 惜：字形潦草（约 s̄ig/v̄ig，g 收尾未见 n），无法辨认为 cȳg 或 chīng",
+   "field": "R"
+  },
+  {
+   "idx": 12,
+   "verdict": "V1误读",
+   "shouldBe": "mūn",
+   "note": "R9 母子情首词墨迹 mūn（有尾 n）",
+   "field": "R"
+  },
+  {
+   "idx": 14,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R9 第三词墨迹 chêng（扬折符），非 rr 之 chèng",
+   "field": "R"
+  },
+  {
+   "idx": 15,
+   "verdict": "V1误读",
+   "shouldBe": "hēn",
+   "note": "R10 首词墨迹 hēn（长音符、尾 n），rr 之 hèn 调符不合但字母近",
+   "field": "R"
+  },
+  {
+   "idx": 16,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R10 第二词墨迹 chêng（扬折符）",
+   "field": "R"
+  },
+  {
+   "idx": 17,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R11 首词带前括号，v1 (Cān 与 rr cān 仅大小写/括号差，两读皆可忠实",
+   "field": "R"
+  },
+  {
+   "idx": 18,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R11 第二词墨迹 tiaū（u 上长音符），非 rr 之 tiān",
+   "field": "R"
+  },
+  {
+   "idx": 19,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R11 第三词墨迹 xīn（长音符），rr 之 xiū 不合",
+   "field": "R"
+  },
+  {
+   "idx": 22,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R13 中词 y 上为扬折符（y̌），rr 记作 ī 不合",
+   "field": "R"
+  },
+  {
+   "idx": 25,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R14 中词 y 上为扬折符（y̌），rr 记作 ī 不合",
+   "field": "R"
+  },
+  {
+   "idx": 26,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R14 第三词墨迹近 hōun（h-o-u-n，o 上长音符），v1 较合，rr 之 hān 元音不合",
+   "field": "R"
+  },
+  {
+   "idx": 27,
+   "verdict": "V1误读",
+   "shouldBe": "chūn",
+   "note": "R15 首词 u 上有长音符，墨迹 chūn",
+   "field": "R"
+  },
+  {
+   "idx": 28,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R15 第二词墨迹 sīn（s 起头、i 上长音符），v1 调符记作短音不合，rr 之 x 起头不合",
+   "field": "R"
+  },
+  {
+   "idx": 29,
+   "verdict": "V1误读",
+   "shouldBe": "hiān",
+   "note": "R16 首词尾字母为 n，墨迹 hiān",
+   "field": "R"
+  },
+  {
+   "idx": 31,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R17 意愿首词墨迹 ȳ（y 上长音符），rr 之 hiān 不在此位",
+   "field": "R"
+  },
+  {
+   "idx": 32,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R17 第二词墨迹 iēn（长音符），rr 之 xīn 不合",
+   "field": "R"
+  },
+  {
+   "idx": 33,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R18 首词墨迹 zŭ（u 上抑扬符），rr 之 ī 不在此位",
+   "field": "R"
+  },
+  {
+   "idx": 34,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R18 第二词墨迹约 mūn（u 上长音符），v1 缺尾 n 较近，rr 之 ièn 完全不合",
+   "field": "R"
+  },
+  {
+   "idx": 35,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R19 首词墨迹 zŭ，rr 之 sū 不合",
+   "field": "R"
+  },
+  {
+   "idx": 36,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R19 第二词墨迹 chêng（扬折符），rr 之 mūn 不在此位",
+   "field": "R"
+  },
+  {
+   "idx": 37,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R19 第三词墨迹 guāy（a 上长音符、尾 y），v1 忠实",
+   "field": "R"
+  },
+  {
+   "idx": 37,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R19 同词重复条目：墨迹尾为 y 非 n，rr 之 guān 不合",
+   "field": "R"
+  },
+  {
+   "idx": 38,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R19 第四词墨迹 ȳ（y 上长音符），v1 较合",
+   "field": "R"
+  },
+  {
+   "idx": 39,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R20 首词墨迹 zŭ，rr 之 sū 不合",
+   "field": "R"
+  },
+  {
+   "idx": 40,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R20 第二词墨迹 niēn（e 上长音符），rr 之 nièn 调符不合",
+   "field": "R"
+  },
+  {
+   "idx": 41,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R21 首词墨迹 zŭ，rr 之 sū 不合",
+   "field": "R"
+  },
+  {
+   "idx": 42,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R21 第二词墨迹 ȳ（y 上长音符）",
+   "field": "R"
+  },
+  {
+   "idx": 44,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R22 相痛第二词 o 上为长音符，墨迹 tōng，非 rr 之 tòng",
+   "field": "R"
+  }
+ ]
+}

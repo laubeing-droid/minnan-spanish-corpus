@@ -1,0 +1,995 @@
+{
+ "page": 37,
+ "verdicts": [
+  {
+   "idx": 0,
+   "verdict": "V1误读",
+   "shouldBe": "tī",
+   "note": "墨迹 ti 上为平长音符（tī），非 circumflex"
+  },
+  {
+   "idx": 1,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为大写 Zūn，含尾 -n"
+  },
+  {
+   "idx": 2,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为单词 cūn，非 tīūn"
+  },
+  {
+   "idx": 3,
+   "verdict": "V1误读",
+   "shouldBe": "gau",
+   "note": "engañar 行墨迹为 gau，未见长音符"
+  },
+  {
+   "idx": 4,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "piē̃ 与 piēn 为鼻音记法差（波浪符/-n 同值），两读皆忠实"
+  },
+  {
+   "idx": 8,
+   "verdict": "V1误读",
+   "shouldBe": "bēng",
+   "note": "墨迹为 bēng"
+  },
+  {
+   "idx": 9,
+   "verdict": "V1误读",
+   "shouldBe": "sīm",
+   "note": "墨迹为 sīm（sīmquîāu 之首）"
+  },
+  {
+   "idx": 10,
+   "verdict": "V1误读",
+   "shouldBe": "quîāu",
+   "note": "墨迹为 quîāu"
+  },
+  {
+   "idx": 11,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹有词 cuy，重读漏记"
+  },
+  {
+   "idx": 12,
+   "verdict": "V1误读",
+   "shouldBe": "Cochāy",
+   "note": "墨迹为 Cochāy"
+  },
+  {
+   "idx": 14,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹近 chiēr/chiēn，与 sīmgûan 无涉（该 rr 为错位）"
+  },
+  {
+   "idx": 15,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 quy"
+  },
+  {
+   "idx": 16,
+   "verdict": "V1误读",
+   "shouldBe": "qūtāu",
+   "note": "墨迹为 qūtāu；rr Cochāy 属错位"
+  },
+  {
+   "idx": 17,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 quy"
+  },
+  {
+   "idx": 18,
+   "verdict": "V1误读",
+   "shouldBe": "cāvīng",
+   "note": "墨迹为 Cāvīng"
+  },
+  {
+   "idx": 16,
+   "verdict": "V1误读",
+   "shouldBe": "qūtāu",
+   "note": "墨迹 q 形起首（qūtāu）"
+  },
+  {
+   "idx": 18,
+   "verdict": "V1误读",
+   "shouldBe": "cāvīng",
+   "note": "墨迹即 cāvīng"
+  },
+  {
+   "idx": 19,
+   "verdict": "V1误读",
+   "shouldBe": "quy",
+   "note": "墨迹 Cāvīngqūy 尾为 quy/qūy"
+  },
+  {
+   "idx": 22,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹 Chūpīn；鼻音波浪与 -n 同值，两读皆忠实"
+  },
+  {
+   "idx": 23,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 tiām"
+  },
+  {
+   "idx": 24,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为平长音符 tāu"
+  },
+  {
+   "idx": 25,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "该处墨迹形近 chūū/chīū 合写，难定着"
+  },
+  {
+   "idx": 26,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为平长音符 chāy"
+  },
+  {
+   "idx": 27,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读同形 quy，无实分歧"
+  },
+  {
+   "idx": 28,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读同形 quyēg，无实分歧"
+  },
+  {
+   "idx": 29,
+   "verdict": "V1误读",
+   "shouldBe": "gū",
+   "note": "墨迹为 gū"
+  },
+  {
+   "idx": 30,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 tēn"
+  },
+  {
+   "idx": 31,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 cháu（上扬音符）"
+  },
+  {
+   "idx": 32,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 mè"
+  },
+  {
+   "idx": 33,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为低降音符 chè"
+  },
+  {
+   "idx": 34,
+   "verdict": "V1误读",
+   "shouldBe": "chiēn",
+   "note": "墨迹为 chiēn（prettesa 行首词）"
+  },
+  {
+   "idx": 27,
+   "verdict": "V1误读",
+   "shouldBe": "cùa",
+   "note": "墨迹为 cùa（mala 行）"
+  },
+  {
+   "idx": 28,
+   "verdict": "V1误读",
+   "shouldBe": "quyēg",
+   "note": "墨迹为 quyēg"
+  },
+  {
+   "idx": 29,
+   "verdict": "V1误读",
+   "shouldBe": "gū",
+   "note": "墨迹为 gū"
+  },
+  {
+   "idx": 30,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 tēn；chùnlāng 属后行错位"
+  },
+  {
+   "idx": 31,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 cháu"
+  },
+  {
+   "idx": 32,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 mè"
+  },
+  {
+   "idx": 33,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 chè"
+  },
+  {
+   "idx": 34,
+   "verdict": "V1误读",
+   "shouldBe": "chiēn",
+   "note": "墨迹为 chiēn"
+  },
+  {
+   "idx": 36,
+   "verdict": "V1误读",
+   "shouldBe": "cùa",
+   "note": "墨迹为 cùa"
+  },
+  {
+   "idx": 37,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 cō"
+  },
+  {
+   "idx": 38,
+   "verdict": "V1误读",
+   "shouldBe": "chim",
+   "note": "墨迹为 chim（Abūmo 行）"
+  },
+  {
+   "idx": 39,
+   "verdict": "V1误读",
+   "shouldBe": "hay",
+   "note": "墨迹为 hay"
+  },
+  {
+   "idx": 40,
+   "verdict": "V1误读",
+   "shouldBe": "ūy",
+   "note": "墨迹 pang 前为短 v+y 词（ūy/by 潦草之间），非 lâng"
+  },
+  {
+   "idx": 41,
+   "verdict": "V1误读",
+   "shouldBe": "pāng",
+   "note": "墨迹为 pang/pāng"
+  },
+  {
+   "idx": 42,
+   "verdict": "V1误读",
+   "shouldBe": "hûey",
+   "note": "墨迹为 hûey"
+  },
+  {
+   "idx": 43,
+   "verdict": "V1误读",
+   "shouldBe": "cuàqûī",
+   "note": "墨迹为 cuàqûī"
+  },
+  {
+   "idx": 44,
+   "verdict": "V1误读",
+   "shouldBe": "sūp",
+   "note": "墨迹为 sūp"
+  },
+  {
+   "idx": 45,
+   "verdict": "V1误读",
+   "shouldBe": "qûī",
+   "note": "墨迹为 quy/qûī"
+  },
+  {
+   "idx": 46,
+   "verdict": "V1误读",
+   "shouldBe": "cuān",
+   "note": "墨迹为 cuān"
+  },
+  {
+   "idx": 47,
+   "verdict": "V1误读",
+   "shouldBe": "sōg",
+   "note": "墨迹为 sog（sōg/suog 记法）"
+  },
+  {
+   "idx": 48,
+   "verdict": "V1误读",
+   "shouldBe": "sūp",
+   "note": "墨迹为 sūp"
+  },
+  {
+   "idx": 49,
+   "verdict": "V1误读",
+   "shouldBe": "sog",
+   "note": "墨迹为 sog"
+  },
+  {
+   "idx": 50,
+   "verdict": "V1误读",
+   "shouldBe": "sūp",
+   "note": "墨迹为 sūp"
+  },
+  {
+   "idx": 51,
+   "verdict": "V1误读",
+   "shouldBe": "cuān",
+   "note": "墨迹为 cuān"
+  },
+  {
+   "idx": 52,
+   "verdict": "V1误读",
+   "shouldBe": "mûy",
+   "note": "墨迹为 mûy"
+  },
+  {
+   "idx": 53,
+   "verdict": "V1误读",
+   "shouldBe": "Zo",
+   "note": "墨迹为 Zo"
+  },
+  {
+   "idx": 56,
+   "verdict": "V1误读",
+   "shouldBe": "sūp",
+   "note": "墨迹为 sūp"
+  },
+  {
+   "idx": 57,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "sōg 与 suog 同词记法差，两读皆忠实"
+  },
+  {
+   "idx": 58,
+   "verdict": "V1误读",
+   "shouldBe": "sūp",
+   "note": "墨迹为 sūp"
+  },
+  {
+   "idx": 60,
+   "verdict": "V1误读",
+   "shouldBe": "mûy",
+   "note": "墨迹为 mûy"
+  },
+  {
+   "idx": 61,
+   "verdict": "V1误读",
+   "shouldBe": "Zo",
+   "note": "墨迹为 Zo"
+  },
+  {
+   "idx": 62,
+   "verdict": "V1误读",
+   "shouldBe": "quy",
+   "note": "墨迹为 quy"
+  },
+  {
+   "idx": 63,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 y；rr 另一变体亦作 y，mang 为错位"
+  },
+  {
+   "idx": 64,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 mûy"
+  },
+  {
+   "idx": 65,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹近 cho/chō（choZūy 起首）"
+  },
+  {
+   "idx": 66,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹近 Zūy/chūy，rr cū 属错位"
+  },
+  {
+   "idx": 67,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹该处近 x cū 合读，v1 seu 与两 rr 变体均难对应"
+  },
+  {
+   "idx": 68,
+   "verdict": "V1误读",
+   "shouldBe": "chù",
+   "note": "墨迹为 chù"
+  },
+  {
+   "idx": 69,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 ān"
+  },
+  {
+   "idx": 64,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 mûy；zuexīnrong 属 Zhuexīnrong 行错位"
+  },
+  {
+   "idx": 65,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹近 cho"
+  },
+  {
+   "idx": 66,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹近 Zūy/chūy"
+  },
+  {
+   "idx": 67,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹近 x cū 合读，无从定着"
+  },
+  {
+   "idx": 68,
+   "verdict": "V1误读",
+   "shouldBe": "chù",
+   "note": "墨迹为 chù"
+  },
+  {
+   "idx": 69,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 ān"
+  },
+  {
+   "idx": 70,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 Cang"
+  },
+  {
+   "idx": 71,
+   "verdict": "V1误读",
+   "shouldBe": "y",
+   "note": "墨迹 Cangy 之为 y"
+  },
+  {
+   "idx": 72,
+   "verdict": "V1误读",
+   "shouldBe": "Zhuexīnrong",
+   "note": "墨迹为 Zhuexīnrong，v1 chūe 仅及其首音节"
+  },
+  {
+   "idx": 73,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "v1 suān 与墨迹分词错位，无对应槽位可定着"
+  },
+  {
+   "idx": 74,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 Chūān"
+  },
+  {
+   "idx": 69,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 ān；lōu 属错位"
+  },
+  {
+   "idx": 70,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 Cang；gūā 属错位"
+  },
+  {
+   "idx": 71,
+   "verdict": "V1误读",
+   "shouldBe": "y",
+   "note": "墨迹为 y"
+  },
+  {
+   "idx": 72,
+   "verdict": "V1误读",
+   "shouldBe": "Zhuexīnrong",
+   "note": "墨迹为 Zhuexīnrong"
+  },
+  {
+   "idx": 73,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "v1 suān 无定着墨迹槽位"
+  },
+  {
+   "idx": 74,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 Chūān"
+  },
+  {
+   "idx": 75,
+   "verdict": "V1误读",
+   "shouldBe": "huīsui",
+   "note": "墨迹为 huīsui；rr chī 属下行错位"
+  },
+  {
+   "idx": 76,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "huīsui 与 guān 之间无 rei 对应词形，无从判定"
+  },
+  {
+   "idx": 77,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 guān"
+  },
+  {
+   "idx": 78,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 tāu"
+  },
+  {
+   "idx": 79,
+   "verdict": "V1误读",
+   "shouldBe": "tīp",
+   "note": "墨迹为 tīp"
+  },
+  {
+   "idx": 80,
+   "verdict": "V1误读",
+   "shouldBe": "bān",
+   "note": "墨迹为 bān（b/v 同形，hōtun 属错位）"
+  },
+  {
+   "idx": 81,
+   "verdict": "V1误读",
+   "shouldBe": "hūn",
+   "note": "墨迹为 hūn（v1 元音记法略异，rr tīche 属错位）"
+  },
+  {
+   "idx": 82,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 cō"
+  },
+  {
+   "idx": 83,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 ōu"
+  },
+  {
+   "idx": 84,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹近 chīū/chūū（costumbres 行），与 v1 远较 cāu 为近"
+  },
+  {
+   "idx": 85,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "cūi 与 cuì 为声调符差，两读皆忠实"
+  },
+  {
+   "idx": 86,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 quāy（aprouar 行）"
+  },
+  {
+   "idx": 87,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 hō；cūitoa 属错位"
+  },
+  {
+   "idx": 88,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 xūm（hacienda 行）"
+  },
+  {
+   "idx": 89,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 gū，词实存在，重读漏记"
+  },
+  {
+   "idx": 90,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 chī/gū chī 之尾，词实存在，重读漏记"
+  },
+  {
+   "idx": 92,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "首字母 Z/l/c 三方不一（墨迹近 Zoān），难定忠实方"
+  },
+  {
+   "idx": 93,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "ò 与 ô 为声调符差，两读皆忠实"
+  },
+  {
+   "idx": 94,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 cā"
+  },
+  {
+   "idx": 95,
+   "verdict": "V1误读",
+   "shouldBe": "hōtun",
+   "note": "墨迹单词 hōtun，v1 拆读一半"
+  },
+  {
+   "idx": 96,
+   "verdict": "V1误读",
+   "shouldBe": "tīche",
+   "note": "墨迹近 campartīche 之尾 tīche"
+  },
+  {
+   "idx": 97,
+   "verdict": "V1误读",
+   "shouldBe": "ēng",
+   "note": "墨迹为 ēng"
+  },
+  {
+   "idx": 98,
+   "verdict": "V1误读",
+   "shouldBe": "Zoa",
+   "note": "墨迹为 Zoa"
+  },
+  {
+   "idx": 99,
+   "verdict": "V1误读",
+   "shouldBe": "cāu",
+   "note": "墨迹为 cāu"
+  },
+  {
+   "idx": 100,
+   "verdict": "V1误读",
+   "shouldBe": "cūi",
+   "note": "墨迹 cāu 之后为 cūi"
+  },
+  {
+   "idx": 102,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "cūi 与 cuì 为声调符差，两读皆忠实"
+  },
+  {
+   "idx": 103,
+   "verdict": "V1误读",
+   "shouldBe": "quo",
+   "note": "墨迹为 quo"
+  },
+  {
+   "idx": 104,
+   "verdict": "V1误读",
+   "shouldBe": "cūitoa",
+   "note": "墨迹为 cūitoa"
+  },
+  {
+   "idx": 105,
+   "verdict": "V1误读",
+   "shouldBe": "hûn",
+   "note": "墨迹为 hûn"
+  },
+  {
+   "idx": 106,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "页缘破损，无法确认 hûn 之后有无字"
+  },
+  {
+   "idx": 0,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 1,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 2,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 3,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 4,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 5,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 6,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 7,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 8,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 9,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 10,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 11,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 12,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 13,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 14,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 15,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 16,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 17,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 18,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 19,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 20,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 21,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 22,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 23,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 24,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 25,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 26,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 27,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 28,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 29,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 30,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 31,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 32,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 33,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 34,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 35,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 36,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 37,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 38,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 39,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 40,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 41,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 42,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 43,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 44,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 45,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 46,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  },
+  {
+   "idx": 47,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读均为空（[空]→空），无实分歧"
+  }
+ ]
+}

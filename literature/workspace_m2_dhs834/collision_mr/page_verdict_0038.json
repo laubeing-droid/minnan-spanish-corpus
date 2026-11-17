@@ -1,0 +1,899 @@
+{
+ "page": 38,
+ "verdicts": [
+  {
+   "idx": 0,
+   "verdict": "V1误读",
+   "shouldBe": "bān",
+   "note": "墨迹M栏第1行 bān（带声调符）清晰，v1 漏读，重读忠实。"
+  },
+  {
+   "idx": 2,
+   "verdict": "V1误读",
+   "shouldBe": "lo hūn",
+   "note": "墨迹为两词 lo hūn（z_L2tail2 放大确认），v1 并作一个词 loñ，误。"
+  },
+  {
+   "idx": 3,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 suahūn 与 v1 一致；重读 che 系同行前词错位。"
+  },
+  {
+   "idx": 4,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹该槽为 cō（M栏第3行 co oa），v1 忠实；重读 che 系他词串入。"
+  },
+  {
+   "idx": 5,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹 cō 与 oa 之间无逗号、亦无第二个 cō；重读逗号无墨迹对应，槽位无法定位。"
+  },
+  {
+   "idx": 6,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "该行墨迹仅 ou（Abonesimento ou）；v1 cū 与重读 la 均无墨迹对应。"
+  },
+  {
+   "idx": 7,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 Co（带声调符）与 v1 cō 一致；重读 hūn 错位。"
+  },
+  {
+   "idx": 8,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 sīn 与 v1 一致；重读逗号无对应。"
+  },
+  {
+   "idx": 9,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 quy 清晰，v1 忠实；重读 sū/ūy 均不符本槽。"
+  },
+  {
+   "idx": 10,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 te 与 v1 一致；重读 hūn 错位。"
+  },
+  {
+   "idx": 11,
+   "verdict": "V1误读",
+   "shouldBe": "tūy",
+   "note": "墨迹该词首字母与同行 tay/tuante/te 的 t 同形（L5_tail 放大比对），读 tūy；v1 lūy 误 t 为 l。"
+  },
+  {
+   "idx": 12,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 tay 与 v1 一致；重读 ōa 错位。"
+  },
+  {
+   "idx": 13,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 tuante 与 v1 一致；重读 û 仅剩声调符、漏词。"
+  },
+  {
+   "idx": 14,
+   "verdict": "V1误读",
+   "shouldBe": "tutte",
+   "note": "墨迹为 tutte（z_L6 放大）；重读 tute 忠实（少一 t），v1 te 漏读大半。"
+  },
+  {
+   "idx": 15,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹该词放大为 tua（r/u 手写难分，或 trā）；v1 tau 转位、重读 tre/trā 元音均不符，两读皆不忠实。"
+  },
+  {
+   "idx": 16,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 tay 与 v1 一致；重读 trā 系前一词错位。"
+  },
+  {
+   "idx": 17,
+   "verdict": "V1误读",
+   "shouldBe": "sio",
+   "note": "墨迹该行首词为 sio（Abrasanse sio cam…），v1 tō 误。"
+  },
+  {
+   "idx": 18,
+   "verdict": "V1误读",
+   "shouldBe": "cam",
+   "note": "墨迹该词起首 cam 清晰，m 后尚有一尾笔（或 camn，难辨）；v1 cung 误。"
+  },
+  {
+   "idx": 21,
+   "verdict": "V1误读",
+   "shouldBe": "lam",
+   "note": "墨迹 lamtoa po 行首词 lam，v1 pō 系行末词错置。"
+  },
+  {
+   "idx": 22,
+   "verdict": "V1误读",
+   "shouldBe": "tōa",
+   "note": "墨迹为 tōa（带声调符），重读 toa 忠实；v1 tō 漏 a。"
+  },
+  {
+   "idx": 23,
+   "verdict": "V1误读",
+   "shouldBe": "pō",
+   "note": "该槽墨迹为 pō（行末词，带声调符）；v1 suam 系他行词。"
+  },
+  {
+   "idx": 24,
+   "verdict": "V1误读",
+   "shouldBe": "sio xier uxxier cū xier chabou quy chia chūy seria cānsa",
+   "note": "v1 漏读 L9–L16 整段墨迹词；重读所补大体忠实，惟 chū 应为 chia、ixien 无墨迹对应、cā 系 cansa 之截读。"
+  },
+  {
+   "idx": 25,
+   "verdict": "V1误读",
+   "shouldBe": "chau sū sicang",
+   "note": "v1 漏读 chau sū sicang；重读 scang 漏 i，se/ja 无墨迹对应。"
+  },
+  {
+   "idx": 26,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "该槽约在 M 栏 L21 行，墨迹形似 me? sa gue（或 argue），难以确证；v1 vaxsier 无对应、重读 argue 仅尾音节合。"
+  },
+  {
+   "idx": 27,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "槽位墨迹应为 cū（L13 行末）；v1 cur 增 r、重读 Cūy 系他栏词，两读皆不符。"
+  },
+  {
+   "idx": 28,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "槽位墨迹应为 xier；v1 xen 脱字母、重读 Cay 系他栏词。"
+  },
+  {
+   "idx": 29,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 chabou 与 v1 chabon 仅尾字母 n/u 之差；重读 pou 无本槽对应。"
+  },
+  {
+   "idx": 30,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 quy（L15 行首词）与 v1 一致；重读 Cūy 错位。"
+  },
+  {
+   "idx": 31,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "槽位墨迹为 chia（L15 行 quy chia chu…，z_ML15 放大）；v1 ty 系误拆、重读 yo 系 L24 行词错位。"
+  },
+  {
+   "idx": 32,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "槽位墨迹第三词形似 chu…/chūy，词尾被截难辨；v1 chia 系前词错槽、重读 cūy 脱 h。"
+  },
+  {
+   "idx": 33,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "该行仅 quy chia chūy 三词，本槽无对应墨迹；v1 chay 误读、重读 pe 错位。"
+  },
+  {
+   "idx": 34,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹为 seria（L16 行 Escribiendo seria…）；v1 se 系拆词、重读 Cuy 错位。"
+  },
+  {
+   "idx": 35,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹 seria/cansa 之间无独立词；v1 via 系 seria 误拆、重读 bag 系 R 栏词错位。"
+  },
+  {
+   "idx": 36,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 cansa 与 v1 一致；重读 lor 错位。"
+  },
+  {
+   "idx": 37,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 sū（L17 行 chau sū）与 v1 一致；重读 o 无对应。"
+  },
+  {
+   "idx": 38,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹为 sicang（L18 行）；v1 samg 脱字母、重读 pr 无对应。"
+  },
+  {
+   "idx": 39,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹为 sega（L19 行 Abreviatura sega，z_ML19）；v1 se 系拆词、重读 aly 系 R 栏词错位。"
+  },
+  {
+   "idx": 40,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹无 goa；重读 dolos 系 R 栏（aly dolos 行）错位串入。"
+  },
+  {
+   "idx": 41,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "v1 漏读本槽；重读 Cūy 系 R 栏串词，本槽墨迹（约在 L21–L22 之间）无法确证。"
+  },
+  {
+   "idx": 42,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "v1 漏读本槽；重读 bēng 系 R 栏词（aly dolos Cay bēng 行），本槽墨迹无法确证。"
+  },
+  {
+   "idx": 43,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 L22 行 ut sic Cūy Cay，本槽为 cūy；v1 cuy 字母一致，重读 Chūy 错位。"
+  },
+  {
+   "idx": 45,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 L23 行 partiendo pon Cuy，pon 与 v1 pōn 一致；重读 pou 无对应。"
+  },
+  {
+   "idx": 46,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 Cuy（L23 行末）；cuy/Cūy 字母一致，仅大小写与声调符差。"
+  },
+  {
+   "idx": 48,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 cūy（L24 行 yo Cuy）；cuy/cūy 仅声调符差。"
+  },
+  {
+   "idx": 52,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 Cay（R2 行 aly dolos Cay bēng）与 v1 cay 一致；重读 lor 无墨迹对应。"
+  },
+  {
+   "idx": 53,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "槽位墨迹应为 bēng；v1 bōng 元音误、重读 o 无对应。"
+  },
+  {
+   "idx": 54,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "槽位墨迹应为 Chay（R3 行）；v1 chuy 元音误、重读 pr 无对应。"
+  },
+  {
+   "idx": 55,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 pe（R3 行 Chay pe Cuy quey Cou）与 v1 一致；重读 aly 系 R2 行词错位。"
+  },
+  {
+   "idx": 56,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 Cuy（R3 行第三词）；v1 cuy 与重读 Cūy 字母均一致，仅大小写声调差（另一重读条 dolos 系错位）。"
+  },
+  {
+   "idx": 57,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 quey（z_R3 放大确认）；v1 quey 与重读 quēy 皆忠实（声调符差），另一重读条 Cūy 系错位。"
+  },
+  {
+   "idx": 58,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 Cou（R3 行末词）与 v1 cou 一致；重读 bēng 错位。"
+  },
+  {
+   "idx": 59,
+   "verdict": "V1误读",
+   "shouldBe": "hiēng",
+   "note": "墨迹 R4 行为 hiēng（z_R3 放大）；v1 hūeng 元音误。"
+  },
+  {
+   "idx": 60,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 Cuā（R4 行末词）；cūa/Cūā 字母一致，仅大小写与声调符位差。"
+  },
+  {
+   "idx": 61,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 hēen（R5 行 hēen bāng tā hūēng Cuy）与 v1 一致；重读 hōen 元音误。"
+  },
+  {
+   "idx": 63,
+   "verdict": "V1误读",
+   "shouldBe": "tā",
+   "note": "墨迹为 tā（R5 行第三词）；v1 tō 元音误。"
+  },
+  {
+   "idx": 64,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 hūēng；v1 hūeng 仅缺 e 上声调符，声调符差。"
+  },
+  {
+   "idx": 65,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 Cuy（R5 行末词）；cuy/Cūy 仅大小写声调差。"
+  },
+  {
+   "idx": 68,
+   "verdict": "V1误读",
+   "shouldBe": "poa",
+   "note": "墨迹 R7 行为 poa（Abrir Caminos poa…）；v1 cūe 误。"
+  },
+  {
+   "idx": 69,
+   "verdict": "V1误读",
+   "shouldBe": "Cūecu",
+   "note": "墨迹 R7 行第二词为 Cūecu；v1 cū 截读。"
+  },
+  {
+   "idx": 70,
+   "verdict": "V1误读",
+   "shouldBe": "cūy",
+   "note": "墨迹 R8 行（Abri tabla A cuy pit cay）本槽为 cūy；v1 ē 误。"
+  },
+  {
+   "idx": 71,
+   "verdict": "V1误读",
+   "shouldBe": "pit",
+   "note": "墨迹本槽为 pit；v1 cuy 系前词错置。"
+  },
+  {
+   "idx": 72,
+   "verdict": "V1误读",
+   "shouldBe": "cay",
+   "note": "墨迹本槽为 cay；v1 pe 误。"
+  },
+  {
+   "idx": 73,
+   "verdict": "V1误读",
+   "shouldBe": "Cana",
+   "note": "墨迹 R9 行首词 Cana；v1 cay 系前词错置。"
+  },
+  {
+   "idx": 74,
+   "verdict": "V1误读",
+   "shouldBe": "tin",
+   "note": "墨迹 R9 行第二词 tin；v1 carabi 误。"
+  },
+  {
+   "idx": 75,
+   "verdict": "V1误读",
+   "shouldBe": "Cang",
+   "note": "墨迹 R9 行第三词 Cang；v1 le 误。"
+  },
+  {
+   "idx": 76,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹 Cang 与 cahān 之间无标点（z_R8_9 放大）；v1 重复 cang、重读添逗号，两读皆不忠实。"
+  },
+  {
+   "idx": 77,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 cahān（R9 行末词，z_R8_9）与 v1 一致；重读 Cā 截读。"
+  },
+  {
+   "idx": 78,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹本槽为 Cuy（R10 行首词）；v1 cuy 一致，重读 hām 无墨迹对应（或系 cahān 误拆）。"
+  },
+  {
+   "idx": 79,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "槽位墨迹为 tra（R10 行第二词）；v1 tua 转位、重读 Cūy 错位。"
+  },
+  {
+   "idx": 80,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹本槽为 cuy（R10 行末词）；v1 一致，重读 tra 系前词错位。"
+  },
+  {
+   "idx": 81,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "槽位墨迹为 tia（R11 行首词，z_R11）；v1 lia 误 t 为 l、重读 Cūy 错位。"
+  },
+  {
+   "idx": 82,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 pey（R11 行第二词）与 v1 一致；重读 tra 错位。"
+  },
+  {
+   "idx": 83,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 ta（R11 行第三词）与 v1 一致；重读 pey 错位。"
+  },
+  {
+   "idx": 84,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 hong（R11 行末词）与 v1 一致；重读 tra 错位。"
+  },
+  {
+   "idx": 85,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "槽位墨迹为 tra（R12 行首词）；v1 teo 误读、重读 hong 系 R11 行末词错位。"
+  },
+  {
+   "idx": 86,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 pet（R12 行第二词）与 v1 一致；重读 tra 错位。"
+  },
+  {
+   "idx": 87,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 tua（R12 行第三词）与 v1 一致；重读 pit 错位。"
+  },
+  {
+   "idx": 88,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 cuy（R12 行末词）与 v1 一致；重读 tia 错位。"
+  },
+  {
+   "idx": 89,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 tūng（R13 行 Abrir Confusa tūng…）；v1 tung 仅缺声调符，重读 cūy 错位。"
+  },
+  {
+   "idx": 90,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹本槽为 cuy（R13 行第二词）；v1 一致，重读 tūng 错位。"
+  },
+  {
+   "idx": 91,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹本槽为 cu（R13 行末词）；v1 一致，重读 Cūy 错位。"
+  },
+  {
+   "idx": 93,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹上下文为 Cuy 类词（R13/R14 行）；cuy/Cūy 字母一致，仅大小写声调差。"
+  },
+  {
+   "idx": 94,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 Cuy（R14 行 Abríse Carosa hua Cuy 末词）；cuy/cūy 仅声调符差。"
+  },
+  {
+   "idx": 95,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 sim（R15 行 al corazon cuy ſim quy…，长 s，z_R15b 放大）；重读 sūm 元音误。"
+  },
+  {
+   "idx": 98,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹为 tism（R15 行末词）；v1 tiam 转位漏 s、重读 tisūn 词尾误，两读皆不符。"
+  },
+  {
+   "idx": 99,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "两读各系 R 栏不同行墨迹词：hua 为 R14 行（Carosa hua Cuy）、Canube 为 R16 行（Canube hun Cuy）；两读行序错位，本槽墨迹无法唯一判定。"
+  },
+  {
+   "idx": 100,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "v1 cuy 对应 R14 行末词 Cuy，重读 hūn 对应 R16 行 hun，均为墨迹词但槽位错位，无法唯一判定。"
+  },
+  {
+   "idx": 101,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "v1 chier 对应 R17 行（Contando chier Cay Che Cuy）首词，重读 cūy 对应 R16 行末词，槽位错位无法唯一判定。"
+  },
+  {
+   "idx": 102,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "v1 cay 为 R17 行第二词 Cay，忠实；重读 chūer 系 chier 之误读（i 误为 ū）且错位。"
+  },
+  {
+   "idx": 104,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 Cuy（R17 行末词）；cuy/Cūy 仅大小写声调差。"
+  },
+  {
+   "idx": 107,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 chue（R19 行 soplando chue cuy）；chue/chūe 仅声调符差。"
+  },
+  {
+   "idx": 108,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 cuy（R19 行末词）；cuy/cūy 仅声调符差。"
+  },
+  {
+   "idx": 109,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 chè（R20 行 Contando chè cho pēng）；chē/chè 声调符形状差（macron/重力符），两读皆忠实。"
+  },
+  {
+   "idx": 110,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 cho；chō/cho 仅声调符差。"
+  },
+  {
+   "idx": 111,
+   "verdict": "V1误读",
+   "shouldBe": "pēng",
+   "note": "墨迹 R20 行末词为 pēng（z_R20 放大，e 带长音符）；v1 pōng 元音误。"
+  },
+  {
+   "idx": 112,
+   "verdict": "V1误读",
+   "shouldBe": "Cūy",
+   "note": "重读此处行序连续，对应 R21 行（Caminos a Negocios Cūy chāng…）首词 Cūy；v1 cay 系滞留误读。"
+  },
+  {
+   "idx": 116,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 Cuy（R22 行 Cabo llama Cuy sua queo 首词）；cuy/Cūy 仅大小写声调差。"
+  },
+  {
+   "idx": 118,
+   "verdict": "V1误读",
+   "shouldBe": "queo",
+   "note": "墨迹 R22 行末词首字母为 q 形（z_R22），读 queo；v1 guēo 首字母误 g。"
+  },
+  {
+   "idx": 119,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 Cuy（R23 行 el mosto Cuy bīn 首词）；cuy/Cūy 仅大小写声调差。"
+  },
+  {
+   "idx": 120,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 bīn（R23 行末词，z_R23 放大 i 带符）；重读 būn 元音误，v1 bīn 忠实。"
+  },
+  {
+   "idx": 121,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 Cuy（R24 行 Caprimera bez Una Coa Cuy tāu 第三词）；cuy/Cūy 仅大小写声调差。"
+  },
+  {
+   "idx": 0,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 1,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 2,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 3,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 4,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 5,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 6,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 7,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 8,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 9,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 10,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 11,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 12,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 13,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 14,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 15,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 16,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 17,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 18,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 19,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 20,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 21,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 22,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 23,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 24,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 25,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 26,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 27,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 28,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 29,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 30,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 31,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 32,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 33,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 34,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 35,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 36,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 37,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 38,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 39,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 40,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 41,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 42,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 43,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 44,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 45,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 46,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  },
+  {
+   "idx": 47,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "【R栏】重读对最右栏整栏读出 0 词（diff 统计 rRrCount=0，整栏漏读）；墨迹该栏各行均有字，首读计 48 词。本条载荷两侧均记为空，逐条词形无从对照，漏读方为重读。"
+  }
+ ]
+}

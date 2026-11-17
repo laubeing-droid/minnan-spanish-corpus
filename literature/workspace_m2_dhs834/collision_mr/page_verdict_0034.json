@@ -1,0 +1,467 @@
+{
+ "page": 34,
+ "verdicts": [
+  {
+   "idx": 0,
+   "verdict": "V1误读",
+   "shouldBe": "te",
+   "note": "墨迹为te，上方无符号；重读一致"
+  },
+  {
+   "idx": 1,
+   "verdict": "V1误读",
+   "shouldBe": "cû",
+   "note": "u上方为双小波浪记号，重读作cû较合；V1长音符不符"
+  },
+  {
+   "idx": 2,
+   "verdict": "V1误读",
+   "shouldBe": "hẽ",
+   "note": "e上方为鼻化波浪号，重读一致"
+  },
+  {
+   "idx": 3,
+   "verdict": "V1误读",
+   "shouldBe": "toà",
+   "note": "a上钝音符清楚，重读一致"
+  },
+  {
+   "idx": 4,
+   "verdict": "V1误读",
+   "shouldBe": "Chày",
+   "note": "首字母大写C清楚，a上有小钝音撇；重读大写正确（漏记钝音），V1小写加长音更失真"
+  },
+  {
+   "idx": 7,
+   "verdict": "重读误",
+   "shouldBe": "piā̃",
+   "note": "尾a上有波浪鼻化号，V1忠实；重读漏记"
+  },
+  {
+   "idx": 8,
+   "verdict": "重读误",
+   "shouldBe": "hōā",
+   "note": "墨迹o与ā俱全，长音符盖于oa上；重读漏o"
+  },
+  {
+   "idx": 9,
+   "verdict": "V1误读",
+   "shouldBe": "zo",
+   "note": "z/o上方小点与斜笔非长音符；重读无符号更近"
+  },
+  {
+   "idx": 10,
+   "verdict": "重读误",
+   "shouldBe": "gùia",
+   "note": "钝音符在u/i上方而非a（重读标a错位）；V1位置近但误作长音符，故两者皆不全忠，取较近之V1"
+  },
+  {
+   "idx": 11,
+   "verdict": "V1误读",
+   "shouldBe": "Cò",
+   "note": "大写C清楚，o上有钝音；重读大写正确但漏记钝音"
+  },
+  {
+   "idx": 12,
+   "verdict": "重读误",
+   "shouldBe": "sáu",
+   "note": "a上为斜上锐音撇，V1的sáu忠实；重读作短音号不符"
+  },
+  {
+   "idx": 13,
+   "verdict": "V1误读",
+   "shouldBe": "he",
+   "note": "e上或有细小记号，但重读在该行其他鼻化词（Chũ̃、hũ）均有区别地记号，此处未记，判he；V1长音不符"
+  },
+  {
+   "idx": 16,
+   "verdict": "V1误读",
+   "shouldBe": "Chũ̃",
+   "note": "大写Ch、u上有鼻化波浪号且无n；重读漏大写与鼻化号但无多余字母，V1多出n更失真"
+  },
+  {
+   "idx": 17,
+   "verdict": "V1误读",
+   "shouldBe": "tar",
+   "note": "原词涂改后作tar，重读一致；V1作pau无对应"
+  },
+  {
+   "idx": 18,
+   "verdict": "重读误",
+   "shouldBe": "pan",
+   "note": "墨迹为pan（第三字母为n非h）；V1仅h/n之差较近，重读另多出ō"
+  },
+  {
+   "idx": 19,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹该词为lo（l无横笔，或勉强作to），V1作cō、重读作laī均不吻合，疑似对碰配对错位"
+  },
+  {
+   "idx": 20,
+   "verdict": "V1误读",
+   "shouldBe": "telo",
+   "note": "墨迹telo，重读一致"
+  },
+  {
+   "idx": 21,
+   "verdict": "V1误读",
+   "shouldBe": "lāy",
+   "note": "该位墨迹为lāy（尾字母y）；重读作laī仅i/y之差，V1的tēlō属错位词且长音多余"
+  },
+  {
+   "idx": 22,
+   "verdict": "V1误读",
+   "shouldBe": "taūtoà",
+   "note": "墨迹taūtoà，重读一致"
+  },
+  {
+   "idx": 23,
+   "verdict": "V1误读",
+   "shouldBe": "là",
+   "note": "墨迹là（a上钝音），重读一致"
+  },
+  {
+   "idx": 24,
+   "verdict": "V1误读",
+   "shouldBe": "hō",
+   "note": "墨迹连作hōsit，o上有长音；重读hō一致"
+  },
+  {
+   "idx": 25,
+   "verdict": "V1误读",
+   "shouldBe": "sit",
+   "note": "墨迹sit，重读一致"
+  },
+  {
+   "idx": 27,
+   "verdict": "V1误读",
+   "shouldBe": "sit",
+   "note": "墨迹sit（i上无长音），重读一致；V1添长音符"
+  },
+  {
+   "idx": 28,
+   "verdict": "V1误读",
+   "shouldBe": "etz",
+   "note": "墨迹etz（起首为e），重读一致；V1作ttzō全然不符"
+  },
+  {
+   "idx": 29,
+   "verdict": "V1误读",
+   "shouldBe": "lotang",
+   "note": "墨迹lotang无长音符（词上小斜记号非长音），重读一致"
+  },
+  {
+   "idx": 30,
+   "verdict": "V1误读",
+   "shouldBe": "tũ",
+   "note": "u上为波浪鼻化号，重读一致；V1长音符不符"
+  },
+  {
+   "idx": 31,
+   "verdict": "V1误读",
+   "shouldBe": "hũ",
+   "note": "u上鼻化波浪号，重读一致"
+  },
+  {
+   "idx": 32,
+   "verdict": "V1误读",
+   "shouldBe": "ě",
+   "note": "e上带抑音记号，重读一致；V1作bīn属错位"
+  },
+  {
+   "idx": 33,
+   "verdict": "V1误读",
+   "shouldBe": "bĩn",
+   "note": "i上鼻化号，重读一致"
+  },
+  {
+   "idx": 34,
+   "verdict": "V1误读",
+   "shouldBe": "ě",
+   "note": "下行Abajo asi abajo之ě，重读一致"
+  },
+  {
+   "idx": 35,
+   "verdict": "V1误读",
+   "shouldBe": "bĩn",
+   "note": "同行的bĩn，V1此处为空"
+  },
+  {
+   "idx": 36,
+   "verdict": "重读误",
+   "shouldBe": "quìo",
+   "note": "墨迹quio（i在），钝音在o上；V1漏钝音类型，重读漏i，取保字母较多之V1较近"
+  },
+  {
+   "idx": 37,
+   "verdict": "重读误",
+   "shouldBe": "qùi",
+   "note": "记号在u上且i存在；V1保i而符号错位，重读漏i，取V1较近"
+  },
+  {
+   "idx": 38,
+   "verdict": "V1误读",
+   "shouldBe": "lāy",
+   "note": "墨迹lāy（尾y）；重读laī仅i/y之差，V1作tay不符"
+  },
+  {
+   "idx": 39,
+   "verdict": "V1误读",
+   "shouldBe": "Cò",
+   "note": "大写C、o上钝音；两读均作小写且漏号，重读无多余长音稍近"
+  },
+  {
+   "idx": 40,
+   "verdict": "V1误读",
+   "shouldBe": "lāy",
+   "note": "墨迹lāy；重读laī仅i/y之差，V1作tay不符"
+  },
+  {
+   "idx": 41,
+   "verdict": "V1误读",
+   "shouldBe": "tog",
+   "note": "墨迹tog，o上方斜记号或为钝音；重读无多余长音更近"
+  },
+  {
+   "idx": 42,
+   "verdict": "V1误读",
+   "shouldBe": "Co",
+   "note": "花体大写C（与同页Contener之C同型），o上有斜调号；重读大写正确但漏调号"
+  },
+  {
+   "idx": 43,
+   "verdict": "V1误读",
+   "shouldBe": "qué",
+   "note": "e上斜调号及点（或为标点），重读qué较合；V1长音符不符"
+  },
+  {
+   "idx": 44,
+   "verdict": "重读误",
+   "shouldBe": "Co",
+   "note": "该首字母与上行42同形花体C，重读误作Lo；V1仅大小写与长音之差较近（若墨迹实为L则此条反转，字形存歧）"
+  },
+  {
+   "idx": 45,
+   "verdict": "V1误读",
+   "shouldBe": "qué",
+   "note": "同43，e上斜调号；重读较合"
+  },
+  {
+   "idx": 46,
+   "verdict": "重读误",
+   "shouldBe": "hue",
+   "note": "墨迹hue清楚（e右上有一小撇记号）；重读整词漏记只作逗号"
+  },
+  {
+   "idx": 47,
+   "verdict": "V1误读",
+   "shouldBe": "hue",
+   "note": "该词见Co que, hue行末；重读有墨迹对应，V1的pã全页无对应字"
+  },
+  {
+   "idx": 48,
+   "verdict": "V1误读",
+   "shouldBe": "bag",
+   "note": "Abarca行墨迹bag，重读一致；V1作guia疑与同行quia串位"
+  },
+  {
+   "idx": 49,
+   "verdict": "V1误读",
+   "shouldBe": "quia",
+   "note": "墨迹quia，重读一致；V1为空"
+  },
+  {
+   "idx": 50,
+   "verdict": "V1误读",
+   "shouldBe": "paù",
+   "note": "u上钝音符清楚，重读一致"
+  },
+  {
+   "idx": 51,
+   "verdict": "V1误读",
+   "shouldBe": "hām",
+   "note": "墨迹hām：h清楚（非t），a上有长音符；重读漏长音但字母全对，V1误h为t"
+  },
+  {
+   "idx": 52,
+   "verdict": "V1误读",
+   "shouldBe": "hong",
+   "note": "末行墨迹hong，重读一致；V1为空"
+  },
+  {
+   "idx": 53,
+   "verdict": "V1误读",
+   "shouldBe": "Chùog",
+   "note": "大写Ch、u上有钝音，重读一致；V1作hōng不符"
+  },
+  {
+   "idx": 54,
+   "verdict": "V1误读",
+   "shouldBe": "guan",
+   "note": "墨迹guan，重读一致；V1作chōng不符"
+  },
+  {
+   "idx": 55,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "guan之后的字位于撕毁区，là无法核验"
+  },
+  {
+   "idx": 57,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "第二个Chùog位于撕毁区，无法核验"
+  },
+  {
+   "idx": 58,
+   "verdict": "V1误读",
+   "shouldBe": "guan",
+   "note": "墨迹guan（无长音），重读一致"
+  },
+  {
+   "idx": 0,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 1,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 2,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 3,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 4,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 5,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 6,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 7,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 8,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 9,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 10,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 11,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 12,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 13,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 14,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 15,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 16,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 17,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 18,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 19,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 20,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 21,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 22,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  },
+  {
+   "idx": 23,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R栏两读均为空（该栏撕毁/无字），无实质分歧"
+  }
+ ]
+}

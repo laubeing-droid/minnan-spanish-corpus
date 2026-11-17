@@ -1,0 +1,623 @@
+{
+ "page": 78,
+ "verdicts": [
+  {
+   "idx": 0,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹M行1为独立词 loj(=lǒg，g尾环)，与下一词 y 分写；重读 lojy 系跨词合并"
+  },
+  {
+   "idx": 1,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹该位为独立的 y，上有小音符（ˆ/¯形状难辨）；重读 bongiû 系把 bong 与跨行词合并"
+  },
+  {
+   "idx": 2,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 Bong（o 上长音符），binjsîm 实为下一行（放心）之词"
+  },
+  {
+   "idx": 3,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 in（i 上有音符）"
+  },
+  {
+   "idx": 4,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行1以句点收尾"
+  },
+  {
+   "idx": 5,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行2首词为 h 形环路起首的 hǒng（放），v1 切分忠实；重读 gûì 属第4行串扰"
+  },
+  {
+   "idx": 6,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 sīm，与 hǒng 连写成一词但 v1 切分可从"
+  },
+  {
+   "idx": 7,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行2以句点收尾"
+  },
+  {
+   "idx": 8,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读字母一致（h+i），仅音符 ŷ/î 之差，墨迹音符过小难辨"
+  },
+  {
+   "idx": 9,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行3为 hí 后接短横 -, 重读 gân 属第6行串扰"
+  },
+  {
+   "idx": 10,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "字母一致，音符 ŷ/î 墨迹难辨"
+  },
+  {
+   "idx": 11,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行4第二词为 gùi（u-i 序，长音符），重读 sù 属第7行串扰"
+  },
+  {
+   "idx": 12,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "字母一致，音符难辨"
+  },
+  {
+   "idx": 13,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行5为 iōng（o 上长音符），重读 lòg 属第8行串扰"
+  },
+  {
+   "idx": 14,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行5以句点收尾"
+  },
+  {
+   "idx": 15,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行6首词为 hí 两字母，重读 heng 错位"
+  },
+  {
+   "idx": 16,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行6作 hí.gān.，hí 后确有句点；重读 sîm 错位"
+  },
+  {
+   "idx": 17,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 gān（a 上长音符），重读 tâu 属第10行串扰"
+  },
+  {
+   "idx": 18,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 gān 后有句点"
+  },
+  {
+   "idx": 19,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行7首词 hí，重读 cheng 错位"
+  },
+  {
+   "idx": 20,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行7第二词 sù（音符近˘/ˇ，长音难辨），字母 s+u 与 v1 一致；重读 chiâng 属第11行串扰"
+  },
+  {
+   "idx": 21,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行7以句点收尾"
+  },
+  {
+   "idx": 22,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行8首词 hí，重读 cuāy 错位"
+  },
+  {
+   "idx": 23,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行8第二词 lǒg（o 上音符），重读 chiò 属第13行串扰"
+  },
+  {
+   "idx": 24,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行8以短横 - 收尾"
+  },
+  {
+   "idx": 25,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行9首词 hí，重读 sîm 错位"
+  },
+  {
+   "idx": 26,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 hēng（e 上长音符），重读 chiò 错位"
+  },
+  {
+   "idx": 27,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行9以句点收尾"
+  },
+  {
+   "idx": 28,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行10首词 sīm（音符˘，m/n 难辨），重读 tsà 属第15行串扰"
+  },
+  {
+   "idx": 29,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 tāu（a 上长音符），重读 chò 属第15行串扰"
+  },
+  {
+   "idx": 30,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 cūy（u 上长音符），重读 lòg 错位"
+  },
+  {
+   "idx": 31,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行10以句点收尾"
+  },
+  {
+   "idx": 32,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 chēng（e 上长音符），重读 chiâng 元音错且错位"
+  },
+  {
+   "idx": 33,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 tiāng（ia 上长音符），重读 chûiñ 属第17行串扰"
+  },
+  {
+   "idx": 34,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行11以句点收尾"
+  },
+  {
+   "idx": 36,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹为 cuāy（a 上长音符清晰，u 上另有小记号模糊）；v1 双音符 cūāy 与重读单音符 cuāy 皆可视为同词形"
+  },
+  {
+   "idx": 37,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行12以句点收尾，重读 chiò 属下行串扰"
+  },
+  {
+   "idx": 39,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹该位为行上补写的 Bīn，原 sòng/tiāng 已被删除线划去，v1 忠实"
+  },
+  {
+   "idx": 40,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行14首词 chio（o 上音符），重读 sîm 错位"
+  },
+  {
+   "idx": 41,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行14末词为短词 ſa/ta 形，重读 bîn 与墨迹不符；v1 读 sa 可从"
+  },
+  {
+   "idx": 42,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行15为 chǒg（o 上音符），重读 tsà 与墨迹起首 ch 不符"
+  },
+  {
+   "idx": 43,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行15第二词 lǒg，重读 chò 错位"
+  },
+  {
+   "idx": 44,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行16首词 sòng，重读 lòg 错位"
+  },
+  {
+   "idx": 45,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行16第二词 tiāng，重读 chiâng 元音错"
+  },
+  {
+   "idx": 46,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行17为 chuy 单词，u 上有明显尖音符（chûy），无 i/ñ；v1 字母忠实（长音欠准），重读 chûiñ 多出 iñ"
+  },
+  {
+   "idx": 47,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 chuy 后有小标点，形近逗号；重读 bú 属第18行串扰"
+  },
+  {
+   "idx": 49,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹行18第二词 su，音符为一小钩（˘/`难辨），v1 长音与重读重要音符皆系猜测，字母一致"
+  },
+  {
+   "idx": 50,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行18以句点收尾，重读 gūi 错位"
+  },
+  {
+   "idx": 51,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行19首词 gūy（u 上长音符），重读 chhiú 属第19行第二词错位"
+  },
+  {
+   "idx": 52,
+   "verdict": "V1误读",
+   "shouldBe": "chīn",
+   "note": "墨迹行19第二词为 chīn（ch+i+收鼻音 n，i 上音符），v1 误作 chîu（尾字母 u 与墨迹 n 不符）；重读该位漏读"
+  },
+  {
+   "idx": 53,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 chīn 后有句点（甚至双点），重读该位漏读"
+  },
+  {
+   "idx": 0,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹R行1首词为 lōg（o 上为平直长音符），重读作扬抑符 lôg"
+  },
+  {
+   "idx": 1,
+   "verdict": "V1误读",
+   "shouldBe": "xìj",
+   "note": "墨迹为 xìj（x+i+j，i 上有小重音符），v1 误 xèy（e 及尾 y 与墨迹不符）；重读 xij 字母合但漏音符"
+  },
+  {
+   "idx": 2,
+   "verdict": "V1误读",
+   "shouldBe": "bâng",
+   "note": "墨迹为 bâng（a 上扬抑符清晰），v1 误 bòng（元音 o 与墨迹 a 不符）"
+  },
+  {
+   "idx": 3,
+   "verdict": "V1误读",
+   "shouldBe": "iû",
+   "note": "墨迹行1末词为 iû（u 上音符），v1 误 yǐn 多出鼻音 n"
+  },
+  {
+   "idx": 4,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹R行2首词为 fāng（f 起首，a 上长音符），重读 sâng 起首字母错"
+  },
+  {
+   "idx": 5,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行2第二词收尾更近 n（sǐn/sīn），v1 字母忠实；重读 sim 收尾 m 与墨迹不符"
+  },
+  {
+   "idx": 6,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读字母一致（h+i），音符 ŷ/î 墨迹过小难辨"
+  },
+  {
+   "idx": 7,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹R行4首词仅 hí 两字母，重读 hìj 多出 j"
+  },
+  {
+   "idx": 8,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹R行4第二词为 gùi（u-i 序，长音符），重读 giù 元音顺序错"
+  },
+  {
+   "idx": 9,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "字母一致，音符难辨"
+  },
+  {
+   "idx": 10,
+   "verdict": "V1误读",
+   "shouldBe": "yông",
+   "note": "墨迹R行5第二词起首为 y 形叉笔、o 上扬抑符（yông），v1 误 gòng"
+  },
+  {
+   "idx": 11,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "字母一致，音符难辨"
+  },
+  {
+   "idx": 12,
+   "verdict": "V1误读",
+   "shouldBe": "inièn",
+   "note": "墨迹R行6第二词第二字母更近 n 隆笔（inièn，è 上有重音），v1 作 iûèn；该位 u/n 形近，存少量不确定性"
+  },
+  {
+   "idx": 13,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "字母一致，音符难辨"
+  },
+  {
+   "idx": 14,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹R行7第二词为 zū（u 上平直长音符），重读 zû 符号不符"
+  },
+  {
+   "idx": 15,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行7以句点收尾，重读多出 hì"
+  },
+  {
+   "idx": 16,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹R行8首词为 hí，重读 lôg 错位"
+  },
+  {
+   "idx": 17,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行8第二词 log（o 上音符˘/ˆ难辨），字母与 v1 一致；重读 hì 错位"
+  },
+  {
+   "idx": 18,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "v1 行末标点符合全书行例；重读 hēng 属第9行串扰"
+  },
+  {
+   "idx": 19,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹R行9首词 hí，重读 sîm 错位"
+  },
+  {
+   "idx": 21,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "v1 行末标点；重读 sîm 错位"
+  },
+  {
+   "idx": 22,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹R行10首词近 sīm（m/n 难辨），重读 kia 实为同行第二词"
+  },
+  {
+   "idx": 23,
+   "verdict": "V1误读",
+   "shouldBe": "kia",
+   "note": "墨迹行10第二词为 kia（k 起首清晰），v1 误 hēū、重读 cuî 皆不符；音符形状难辨"
+  },
+  {
+   "idx": 24,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行10第三词 cāy 与 v1 一致，重读 chèng 错位"
+  },
+  {
+   "idx": 25,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹R行11首词 chēng（长音符），重读 chiâng 元音错"
+  },
+  {
+   "idx": 26,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行11第二词 chiāng（ia 长音符），重读 zpàng 属第12行串扰"
+  },
+  {
+   "idx": 27,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "v1 行末标点；重读 cuāy 属第12行串扰"
+  },
+  {
+   "idx": 28,
+   "verdict": "V1误读",
+   "shouldBe": "zpàng",
+   "note": "墨迹R行12首词为 zpàng（z/3 形起首+p 清晰），v1 误 zòng、重读 chiūn 亦错位"
+  },
+  {
+   "idx": 29,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行12第二词 cūay，字母与 v1 一致；重读 miēn 属第13行串扰"
+  },
+  {
+   "idx": 30,
+   "verdict": "V1误读",
+   "shouldBe": "chiūn",
+   "note": "墨迹R行13首词为 chiūn（u 上长音符），v1 误 chiān（元音字母错）"
+  },
+  {
+   "idx": 31,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行13第二词 miēn，字母与 v1 一致（长音符欠记）；重读 tsoè 错位"
+  },
+  {
+   "idx": 32,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "v1 行末标点；重读 chō 属第15行串扰"
+  },
+  {
+   "idx": 33,
+   "verdict": "V1误读",
+   "shouldBe": "chiūn",
+   "note": "墨迹R行14首词为 chiūn，v1 误 chiān"
+  },
+  {
+   "idx": 34,
+   "verdict": "V1误读",
+   "shouldBe": "tōā",
+   "note": "墨迹行14第二词为 tōā（o/a 上音符形状难辨），v1 tain 与重读 zpàng 皆与墨迹不符"
+  },
+  {
+   "idx": 27,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "同 pass1 idx27：墨迹行11以句点收尾，重读 choān 属第17行串扰"
+  },
+  {
+   "idx": 28,
+   "verdict": "V1误读",
+   "shouldBe": "zpàng",
+   "note": "墨迹R行12首词 zpàng，v1 误 zòng，重读 bú 属第18行串扰"
+  },
+  {
+   "idx": 29,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行12第二词 cūay；重读 zù 属第18行串扰"
+  },
+  {
+   "idx": 30,
+   "verdict": "V1误读",
+   "shouldBe": "chiūn",
+   "note": "墨迹R行13首词 chiūn，v1 误 chiān，重读 gūi 错位"
+  },
+  {
+   "idx": 31,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行13第二词 miēn；重读 chhûn 属第19行串扰"
+  },
+  {
+   "idx": 32,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "v1 行末标点；重读该位漏读"
+  },
+  {
+   "idx": 33,
+   "verdict": "V1误读",
+   "shouldBe": "chiūn",
+   "note": "墨迹R行14首词 chiūn，v1 误 chiān，重读该位漏读"
+  },
+  {
+   "idx": 34,
+   "verdict": "V1误读",
+   "shouldBe": "tōā",
+   "note": "墨迹行14第二词 tōā，v1 tain 不符，重读该位漏读"
+  },
+  {
+   "idx": 35,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹R行15首词 chō 与 v1 一致，重读该位漏读"
+  },
+  {
+   "idx": 36,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行15第二词 lǒg 与 v1 字母一致，重读该位漏读"
+  },
+  {
+   "idx": 37,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "v1 行末标点合行例，重读该位漏读"
+  },
+  {
+   "idx": 38,
+   "verdict": "V1误读",
+   "shouldBe": "zpàng",
+   "note": "墨迹R行16首词为 zpàng（起首 z/3 形+p），v1 误 zòng，重读该位漏读"
+  },
+  {
+   "idx": 39,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行16第二词 chiāng 与 v1 一致，重读该位漏读"
+  },
+  {
+   "idx": 40,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹R行17为 choan（a 上音符近˘/¯），v1 choân 仅扬抑符位置之差，字母一致；重读该位漏读"
+  },
+  {
+   "idx": 41,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹R行18首词 bu（音符ˆ/¯难辨），字母与 v1 一致；重读该位漏读"
+  },
+  {
+   "idx": 42,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行18第二词 zū（长音符）与 v1 一致，重读该位漏读"
+  },
+  {
+   "idx": 43,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹R行19首词 gùi（u-i 序）与 v1 字母一致，音符难辨；重读该位漏读"
+  },
+  {
+   "idx": 44,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹行19第二词 chīn 与 v1 字母一致，重读该位漏读"
+  }
+ ]
+}

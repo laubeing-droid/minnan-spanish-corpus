@@ -44,6 +44,10 @@ function findingsPush(f: Finding): void {
   findingsArr.push(f);
 }
 
+function pageId(p: number): string {
+  return String(p).padStart(4, "0");
+}
+
 artifact.table("progress-v3", {
   title: "对碰 V3 盲产批次进度（全书封存页，按 BLIND_READ_MANIFEST 实时取数）",
   columns: [
@@ -89,6 +93,11 @@ function glossAsk(page: number, ver: string): string {
   return [
     "你是 17 世纪马尼拉《Dictionario Hispánico Sinicum》的历史词典释义员，负责 PDF 第 " + page + " 页的逐条释义生产（矩阵对碰终检的 " + ver + " 版独立盲产）。",
     "",
+    "【产出优先于完备——反空转硬纪律】",
+    "- 禁止任何 \"hmm/嗯/让我想想\" 式空转推演：读完材料直接逐条写结论，一条接一条，中途不停顿复盘。",
+    "- 每条释义写完就过，禁止回头逐条复读或重写；全文一次通过。",
+    "- 判不定的一律按纪律降 confidence 或写存疑表述，不要为确认而反复斟酌。",
+    "",
     "【盲产铁律】本任务为独立盲产：禁止读取 literature/workspace_m2_dhs834/gloss_layer/、gloss_layer_v2、gloss_layer_v3、collision/",
     "及任何既有释义/对碰/复核文件——你的唯一输入是本页封存件。与其他版本撞出相同结论才是对碰的意义。",
     "",
@@ -126,16 +135,105 @@ if (preRes.missingCount > 0) {
 }
 log("V2 在库 " + preRes.pagesOk + " 页，开始 V3 盲产");
 
-phase("V3 盲产");
-const pagesRun = await world.run("python", ["-c", PAGES_PY]);
-if (pagesRun.exitCode !== 0) {
-  throw new Error("清册读取失败：" + (pagesRun.stderr || "").slice(-300));
+phase("V3 盲产（$low 稳定档 + 跳过已产 + 试点门）");
+const V3_TODO_PY = [
+  "import json",
+  "from pathlib import Path",
+  "m2 = Path('literature/workspace_m2_dhs834')",
+  "man = json.loads((m2 / 'BLIND_READ_MANIFEST.json').read_text(encoding='utf-8'))",
+  "pages = sorted(int(k) for k in man.get('pages', {}))",
+  "def valid(pk):",
+  "    f = m2 / 'gloss_layer_v3' / ('gloss_p' + pk + '.json')",
+  "    if not f.exists():",
+  "        return False",
+  "    try:",
+  "        gd = json.loads(f.read_text(encoding='utf-8'))",
+  "        sealed = {e.get('position') for e in json.loads((m2 / ('blind_read_p' + pk + '.json')).read_text(encoding='utf-8')).get('entries', [])}",
+  "        return {e.get('position') for e in gd.get('entries', [])} == sealed",
+  "    except Exception:",
+  "        return False",
+  "todo = [p for p in pages if not valid('%04d' % p)]",
+  "print(json.dumps(todo))",
+].join("\n");
+const todoRun = await world.run("python", ["-c", V3_TODO_PY]);
+if (todoRun.exitCode !== 0) {
+  throw new Error("V3 盘点失败：" + (todoRun.stderr || "").slice(-300));
 }
-const allPages: number[] = JSON.parse((pagesRun.stdout.trim().split("\n").pop() ?? "[]"));
+const todoAll: number[] = (JSON.parse((todoRun.stdout.trim().split("\n").pop() ?? "[]")) as string[]).map(Number);
+log("全书 " + 1103 + " 页口径：V3 已产合格 " + (1103 - todoAll.length) + " 页（跳过不重付），待产 " + todoAll.length + " 页");
+if (todoAll.length === 0) {
+  log("V3 全部在库——直接进入对碰段");
+}
+const pilot = todoAll.slice(0, 5);
+const rest = todoAll.slice(5);
+
+if (pilot.length > 0) {
+  phase("V3 试点门（5 页）");
+  log("试点页：" + pilot.map((p) => pageId(p)).join("、"));
+  type Res = GlossPageResult | { error: string };
+  const pilotRuns = await Promise.all(
+    pilot.map(async (p): Promise<Res> => {
+      try {
+        return await agent("盲产v3-p" + pageId(p)).ask<GlossPageResult>(glossAsk(p, "第 3"));
+      } catch (err) {
+        return { error: String(err) };
+      }
+    }),
+  );
+  const pilotOk = pilotRuns.filter((r) => !("error" in r)).length;
+  const CHECK_PY = [
+    "import json",
+    "from pathlib import Path",
+    "m2 = Path('literature/workspace_m2_dhs834')",
+    "pks = json.loads('" + JSON.stringify(pilot.map((p) => pageId(p))) + "')",
+    "bad = {}",
+    "for pk in pks:",
+    "    f = m2 / 'gloss_layer_v3' / ('gloss_p' + pk + '.json')",
+    "    if not f.exists():",
+    "        bad[pk] = ['缺文件']",
+    "        continue",
+    "    try:",
+    "        gd = json.loads(f.read_text(encoding='utf-8'))",
+    "        sealed = {e.get('position') for e in json.loads((m2 / ('blind_read_p' + pk + '.json')).read_text(encoding='utf-8')).get('entries', [])}",
+    "        produced = {e.get('position') for e in gd.get('entries', [])}",
+    "        if sealed != produced:",
+    "            bad[pk] = ['position 不齐']",
+    "    except Exception as ex:",
+    "        bad[pk] = ['解析失败: %s' % ex]",
+    "print(json.dumps({'badCount': len(bad), 'bad': bad}))",
+  ].join("\n");
+  const chk = await world.run("python", ["-c", CHECK_PY]);
+  if (chk.exitCode !== 0) {
+    throw new Error("试点校验失败：" + (chk.stderr || "").slice(-300));
+  }
+  const cres = JSON.parse((chk.stdout.trim().split("\n").pop() ?? "{}")) as { badCount: number; bad: Record<string, string[]> };
+  const pilotPass = pilot.length - cres.badCount;
+  log("试点：" + pilotOk + "/" + pilot.length + " 落盘，合格 " + pilotPass + "/" + pilot.length);
+  if (pilotPass < 4) {
+    const f: Finding = {
+      where: "V3 试点页 " + pilot.map((p) => pageId(p)).join("、"),
+      what: "试点不合格（落盘 " + pilotOk + "/" + pilot.length + "，合格 " + pilotPass + "/" + pilot.length +
+        "）——$low 档仍压不住退化，全量终止待改版",
+      evidence: JSON.stringify(cres.bad).slice(0, 400),
+      status: "verified",
+      severity: "high",
+    };
+    findingsPush(f);
+    report(f);
+    return {
+      conclusion: "V3 试点门未过（" + pilotPass + "/" + pilot.length + " 合格），已按预案当场终止：未动对碰段、" +
+        "已产 8 页试点件保留。供应商侧退化未缓解，需换档/换模型/等恢复后再点火。",
+      findings: findingsArr,
+      verified: ["试点 5 页过确定性 position 校验"],
+      notCovered: ["全量 " + rest.length + " 页未派工；对碰段未执行"],
+    };
+  }
+  log("试点门通过，放行全量 " + rest.length + " 页");
+}
 
 const outcomes: BatchOutcome[] = [];
-for (let i = 0; i < allPages.length; i += 10) {
-  const chunk = allPages.slice(i, i + 10);
+for (let i = 0; i < rest.length; i += 10) {
+  const chunk = rest.slice(i, i + 10);
   const range = String(chunk[0] ?? 0).padStart(4, "0") + "-" + String(chunk[chunk.length - 1] ?? 0).padStart(4, "0");
   phase("V3 盲产批");
   log("批次 " + range + "：" + chunk.length + " 页派盲产释义员");
@@ -347,7 +445,7 @@ function retryAsk(key: string, round: number): string {
 const MAX_ROUNDS = 2;
 let lastOpen = cst.divergent;
 for (let round = 1; round <= MAX_ROUNDS; round++) {
-  phase("仲裁与追加盲产（第 " + round + " 轮）");
+  phase("仲裁与追加盲产");
   const res = await world.run("python", ["-c", RESOLVE_PY, "--", String(round)]);
   if (res.exitCode !== 0) {
     throw new Error("仲裁失败：" + (res.stderr || "").slice(-600));
@@ -539,7 +637,7 @@ const LEDGER_PY = [
   "    'unresolved': unr,",
   "    'crossPageSamples': xp['groups'][:100],",
   "    'limitations': [",
-  "        '版本独立性边界（2026-11-16 用户裁定）：V1=GLM-5.3-Flash（全量）；V2=混合来源（约890页 DeepSeek-v4.1-flash 于停跑前产出，余量 GLM-5.3-Flash$max 续产，逐页来源未在文件内标注）；V3=GLM-5.3——三版以同族为主，对碰可抓上下文性错误，抓不住模型族系统性偏差；跨供应商补版须按硬刹车#10 取得书面预算授权',",
+  "        '版本独立性边界（2026-11-16 用户裁定，以 GUI 实际运行档为准）：V1=GLM-5.3-Flash（全量）；V2=混合来源（约890页 DeepSeek-v4.1-flash 于停跑前产出，余量 GLM-5.3-Flash$max 续产，逐页来源未在文件内标注）；V3=GLM-5.3-Flash$low（供应商填充退化事故后的稳定档，含反空转纪律任务书）——三版同模型族，对碰仅可抓独立上下文下的措辞/判读分歧，抓不住同模型系统性偏差；跨供应商或异档补版须按硬刹车#10 取得书面预算授权',",
   "        '语义裁判与部分盲产版同模型族，存在弱同源偏置；已匿名化版本标签缓解',",
   "        '残缺占位表述（〔原件残缺，释义存疑〕）与其他版本按等义处理',",
   "        '词头跨页一致性层为确定性字面比对，归一化后的同词头释义字面差异一律入账，未做语义仲裁',",

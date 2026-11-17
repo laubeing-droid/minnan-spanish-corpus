@@ -1,0 +1,479 @@
+{
+ "page": 61,
+ "verdicts": [
+  {
+   "idx": 0,
+   "verdict": "V1误读",
+   "shouldBe": "gûy",
+   "note": "M1：墨迹 g 起笔带回环降部非 q，u 上为新月+波形的扬抑符，忠实字面 gûy"
+  },
+  {
+   "idx": 1,
+   "verdict": "V1误读",
+   "shouldBe": "gûy",
+   "note": "M2 首词同上，墨迹 gûy"
+  },
+  {
+   "idx": 2,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M2 次词：u 上为单独波浪号（无新月），墨迹 hũ，v1 忠实；rr 之 hû 误记扬抑符"
+  },
+  {
+   "idx": 3,
+   "verdict": "V1误读",
+   "shouldBe": "gûy",
+   "note": "M3 首词墨迹 gûy"
+  },
+  {
+   "idx": 4,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M3 次词：e 上为平直长音符，墨迹 lēng，v1 忠实"
+  },
+  {
+   "idx": 5,
+   "verdict": "V1误读",
+   "shouldBe": "gûy",
+   "note": "M4 首词墨迹 gûy"
+  },
+  {
+   "idx": 6,
+   "verdict": "V1误读",
+   "shouldBe": "tō",
+   "note": "M4 次词：墨迹为 o 上长音符之 to/dō 字形，与 rr tō 帖合；v1 之 âh 字母不合"
+  },
+  {
+   "idx": 7,
+   "verdict": "V1误读",
+   "shouldBe": "gûy",
+   "note": "M5 首词墨迹 gûy"
+  },
+  {
+   "idx": 8,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M5 次词：墨迹为 b+o(长音)+u，即 bōu，v1 忠实；rr 之 mên 字母不合"
+  },
+  {
+   "idx": 10,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "M 清单此行与墨迹不符（疑为错位残行）：墨迹该处为 cûy（c 起笔+扬抑符），v1 cúy 声调误、rr gûy 起笔误，两者各对一半"
+  },
+  {
+   "idx": 11,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M 清单此行 rr=tō 与墨迹不符：墨迹次词为 guà（重音符），字母与 v1 gùa 一致仅声调符差"
+  },
+  {
+   "idx": 12,
+   "verdict": "V1误读",
+   "shouldBe": "cûy",
+   "note": "M8 首词：墨迹 cûy（扬抑符），rr cûi 声调与起笔合、i≈y 拼写变体，v1 cúy 声调误"
+  },
+  {
+   "idx": 13,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M8 次词：墨迹为 ſim 带调号，字母与 v1 sim 一致；rr 之 mên 字母全然不合"
+  },
+  {
+   "idx": 14,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M8 第三词：墨迹为 ſū/ʒū 形带波浪号，字母与 v1 sū 一致；rr 之 lêng 与墨迹不符"
+  },
+  {
+   "idx": 15,
+   "verdict": "V1误读",
+   "shouldBe": "cûy",
+   "note": "M9 首词：墨迹 cûy（新月+波形扬抑符）"
+  },
+  {
+   "idx": 16,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "M 清单此行 rr=guà 与墨迹不符（guà 属第10行位）：本行位次词墨迹为 ſit，其上方粗重笔画形近脱字符/调号难辨"
+  },
+  {
+   "idx": 17,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "M10 首词：原字 cuy 被划去并加上标改写（形近 gûi），改写后词形难辨，无法归给 cúy/cûy 任一读法"
+  },
+  {
+   "idx": 18,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "M 清单此行 rr=sīm 与墨迹不符（sīm 属第8行位）；重复行 gùa/guà 对应的第10行次词亦被上标改写，墨迹改写词形近 guā（长音），声调与两读均不合"
+  },
+  {
+   "idx": 15,
+   "verdict": "V1误读",
+   "shouldBe": "cûy",
+   "note": "M9 首词：墨迹 cûy，与重复行一致"
+  },
+  {
+   "idx": 16,
+   "verdict": "V1误读",
+   "shouldBe": "sīt",
+   "note": "M9 次词：墨迹 ſit，i 上为长音符（sīt），rr 忠实"
+  },
+  {
+   "idx": 17,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "M10 首词：整行划改加上标（改写形近 gûi guā），无法归给 cúy/cûy 任一读法"
+  },
+  {
+   "idx": 18,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "M10 次词：原 gua 划去，上标改写词尾声调符形近长音符 guā，与 v1 gùa、rr guà 均不合"
+  },
+  {
+   "idx": 19,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M11：墨迹 àu 仅一个重音符，无扬抑符，v1 忠实；rr 之 àû 多记一符"
+  },
+  {
+   "idx": 20,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M12 首词同上：墨迹 àu 仅重音符"
+  },
+  {
+   "idx": 21,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "M12 次词：墨迹尾字母 g 明确在场（xióg），o 上调号形近 caron/扬抑符难辨，与 v1 xiǒg、rr xiō 均不完全贴合"
+  },
+  {
+   "idx": 22,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M13 首词：墨迹清晰可读 àu（重音符）；rr 记为[残]系漏读，v1 忠实"
+  },
+  {
+   "idx": 23,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M13 次词：墨迹 a 上为长音符（bān），v1 忠实；rr 之 àû 与墨迹不合"
+  },
+  {
+   "idx": 24,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M14：墨迹 a 上为波浪号（hã 形），v1 hãy 有波浪号较近；rr 之 hay 漏记声调"
+  },
+  {
+   "idx": 25,
+   "verdict": "V1误读",
+   "shouldBe": "hīm",
+   "note": "M15 首词：墨迹 i 上为平直长音符（hīm），rr 忠实"
+  },
+  {
+   "idx": 26,
+   "verdict": "V1误读",
+   "shouldBe": "guà",
+   "note": "M15 次词：墨迹 a 上为重音符（guà），rr 忠实"
+  },
+  {
+   "idx": 27,
+   "verdict": "V1误读",
+   "shouldBe": "vāy",
+   "note": "M16：墨迹首字母明确为 v（回环 v 形）非 u；a 上调号为墨渍，最近似长音符，忠实字面 vāy"
+  },
+  {
+   "idx": 28,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M17 首词：墨迹 òng（o 上重音符），v1 忠实；rr 之 ōy 字母声调均不合"
+  },
+  {
+   "idx": 29,
+   "verdict": "V1误读",
+   "shouldBe": "cûi",
+   "note": "M17 次词：墨迹 cûi（新月+波形扬抑符），rr 忠实"
+  },
+  {
+   "idx": 30,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M18 首词：墨迹 òng，v1 忠实"
+  },
+  {
+   "idx": 32,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M19：墨迹 u 上为单独波浪号（hũ），v1 忠实；rr 之 hû 误"
+  },
+  {
+   "idx": 33,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M20 首词同上：墨迹 hũ 波浪号"
+  },
+  {
+   "idx": 34,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M20 次词：墨迹 y 上为波浪号（gỹ），v1 忠实；rr 之 gū 误"
+  },
+  {
+   "idx": 35,
+   "verdict": "V1误读",
+   "shouldBe": "guiāng",
+   "note": "M21：墨迹 g 起笔非 q，长音符在 a 上（guiāng），rr 之 ui 长音多记；忠实字面 guiāng"
+  },
+  {
+   "idx": 36,
+   "verdict": "V1误读",
+   "shouldBe": "guiāng",
+   "note": "M22 首词同上：墨迹 guiāng"
+  },
+  {
+   "idx": 37,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "M22 次词：墨迹 a 上为斜升的锐音符（hiáp），v1 忠实；rr 之 hiap 漏调号"
+  },
+  {
+   "idx": 0,
+   "verdict": "V1误读",
+   "shouldBe": "gûi",
+   "note": "R1：墨迹 g 起笔带回环，ui 上为新月+波形扬抑符，忠实字面 gûi"
+  },
+  {
+   "idx": 1,
+   "verdict": "V1误读",
+   "shouldBe": "gûi",
+   "note": "R2 首词同上：墨迹 gûi"
+  },
+  {
+   "idx": 2,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R2 次词两读同为 hū（仅长音符编码差），墨迹 u 上平直长音符，两读皆忠实"
+  },
+  {
+   "idx": 3,
+   "verdict": "V1误读",
+   "shouldBe": "gûi",
+   "note": "R3 首词墨迹 gûi"
+  },
+  {
+   "idx": 4,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R3 次词两读同为 lêng（扬抑符编码差），墨迹 e 上扬抑符，两读皆忠实"
+  },
+  {
+   "idx": 5,
+   "verdict": "V1误读",
+   "shouldBe": "gûi",
+   "note": "R4 首词墨迹 gûi"
+  },
+  {
+   "idx": 6,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R4 次词：墨迹末字母为单竖带肩钩的 r 形（ār），v1 忠实；rr 之 ān 误"
+  },
+  {
+   "idx": 7,
+   "verdict": "V1误读",
+   "shouldBe": "gûi",
+   "note": "R5 首词墨迹 gûi"
+  },
+  {
+   "idx": 8,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R5 次词：墨迹为 me 加末尾 u 形带调号（meū，调号在末 u 上），v1 忠实；rr 之 mên 末字母与调号位均不合"
+  },
+  {
+   "idx": 9,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R6 两读同为 lêng，墨迹扬抑符，两读皆忠实"
+  },
+  {
+   "idx": 10,
+   "verdict": "V1误读",
+   "shouldBe": "cûy",
+   "note": "R7 首词：墨迹新月+波形扬抑符（cûy），rr 忠实；v1 之 cǎy 调号误"
+  },
+  {
+   "idx": 11,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R7 次词两读同为 ngò，墨迹重音符，两读皆忠实"
+  },
+  {
+   "idx": 12,
+   "verdict": "V1误读",
+   "shouldBe": "cûi",
+   "note": "R8 首词：墨迹 cûi（扬抑符），rr 忠实"
+  },
+  {
+   "idx": 13,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R8 次词：墨迹 ſim 上为 v 形 caron（sĭm），v1 忠实；rr 之 sīm 长音误"
+  },
+  {
+   "idx": 14,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R8 第三词：墨迹为 z 形起笔带长音（zū），v1 忠实；rr 之 sū 起笔误"
+  },
+  {
+   "idx": 15,
+   "verdict": "V1误读",
+   "shouldBe": "cûi",
+   "note": "R9 首词：墨迹 cûi（扬抑符），rr 忠实"
+  },
+  {
+   "idx": 16,
+   "verdict": "V1误读",
+   "shouldBe": "sīt",
+   "note": "R9 次词：墨迹 ſit，i 上为长音符（sīt），rr 忠实"
+  },
+  {
+   "idx": 17,
+   "verdict": "V1误读",
+   "shouldBe": "cûi",
+   "note": "R10 首词：墨迹 cûi（扬抑符），rr 忠实"
+  },
+  {
+   "idx": 18,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R10 次词：墨迹 ngo 上为单独斜点/重音形符号，与 R7 同形（该处两读一致记 ngò），即重音符，v1 ngò 忠实；rr 之 ngô 扬抑符误"
+  },
+  {
+   "idx": 19,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R11：墨迹 eu 上仅一个斜笔调号（无扬抑符），v1 èu 较近；rr 之 èû 多记一符"
+  },
+  {
+   "idx": 20,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R12 首词同上：墨迹仅一斜笔调号，rr 之 eû 多记扬抑符"
+  },
+  {
+   "idx": 21,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R12 次词两读同为 xiō，墨迹 o 上平直长音符，两读皆忠实"
+  },
+  {
+   "idx": 22,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R13 首词同 R11/R12：墨迹仅一斜笔调号，rr 之 eû 多记扬抑符"
+  },
+  {
+   "idx": 23,
+   "verdict": "V1误读",
+   "shouldBe": "mān",
+   "note": "R13 次词：墨迹 a 上为长音符（mān），rr 忠实；v1 之 mân 扬抑符误"
+  },
+  {
+   "idx": 24,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R14：墨迹 a 上为长音符（hāy），v1 忠实；rr 之 hay 漏调号"
+  },
+  {
+   "idx": 25,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R15 首词：墨迹 him 上为 v 形 caron（hĭm），v1 忠实；rr 之 hīm 长音误"
+  },
+  {
+   "idx": 26,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R15 次词：墨迹 ngo 上为重音符（ngò），v1 忠实；rr 之 ngô 误"
+  },
+  {
+   "idx": 27,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "R16：墨迹首字母明确为 v（v1 之 u 误），但 a 上调号为 v 形 caron（近 vǎy），与 rr vāy 长音不合——字母从 rr、调号从 v1，无法整体归给一方"
+  },
+  {
+   "idx": 28,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R17 首词：墨迹为 vàng（带调号 ng 尾），v1 忠实；rr 之 vāy 字母声调均不合"
+  },
+  {
+   "idx": 29,
+   "verdict": "V1误读",
+   "shouldBe": "cûi",
+   "note": "R17 次词：墨迹 cûi（扬抑符），rr 忠实"
+  },
+  {
+   "idx": 30,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R18 首词：墨迹 vàng，v1 忠实"
+  },
+  {
+   "idx": 31,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R18 次词两读同为 xīn，墨迹长音符，两读皆忠实"
+  },
+  {
+   "idx": 32,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R19 两读同为 hū，墨迹长音符，两读皆忠实"
+  },
+  {
+   "idx": 33,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R20 首词两读同为 hū，墨迹长音符"
+  },
+  {
+   "idx": 34,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R20 次词：墨迹 gui 上为长音符（gūi），v1 忠实；rr 之 gûi 扬抑符误"
+  },
+  {
+   "idx": 35,
+   "verdict": "V1误读",
+   "shouldBe": "guiâng",
+   "note": "R21：墨迹 g 起笔非 q，a 上为扬抑符（guiâng），rr 字母声调较合；忠实字面 guiâng"
+  },
+  {
+   "idx": 36,
+   "verdict": "V1误读",
+   "shouldBe": "guiâng",
+   "note": "R22 首词同上：墨迹 guiâng"
+  },
+  {
+   "idx": 37,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R22 次词两读同为 hiā，墨迹 a 上长音符，两读皆忠实"
+  },
+  {
+   "idx": 38,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "R22 第三词两读同为 xīn，墨迹长音符，两读皆忠实"
+  }
+ ]
+}

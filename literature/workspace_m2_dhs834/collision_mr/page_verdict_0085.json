@@ -1,0 +1,359 @@
+{
+ "page": 85,
+ "verdicts": [
+  {
+   "idx": 0,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 ngâu：扬抑符只在 a 上，重读 ngôû 把符号挪到 o、u 上"
+  },
+  {
+   "idx": 1,
+   "verdict": "V1误读",
+   "shouldBe": "kěû",
+   "note": "墨迹第二词非 t 起头（近 k/h），韵母 e+û 与重读一致"
+  },
+  {
+   "idx": 2,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "同 idx0，墨迹符号在 a 上"
+  },
+  {
+   "idx": 3,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹第二词 t 起头（ngâu tóng），重读 kǒñg 系错位串行"
+  },
+  {
+   "idx": 4,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "同 idx0"
+  },
+  {
+   "idx": 5,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 chiù 上有鼻化符、无词尾 n，v1 之 chîuⁿ 忠实"
+  },
+  {
+   "idx": 6,
+   "verdict": "V1误读",
+   "shouldBe": "kěû",
+   "note": "同 idx1"
+  },
+  {
+   "idx": 7,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "u 与 û 为同一墨迹符号的两种转写约定"
+  },
+  {
+   "idx": 8,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "同上"
+  },
+  {
+   "idx": 9,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "同上"
+  },
+  {
+   "idx": 10,
+   "verdict": "V1误读",
+   "shouldBe": "chǒñg",
+   "note": "墨迹 o 上短符近 caron（聳上声），v1 之 circumflex+ⁿ 不合"
+  },
+  {
+   "idx": 11,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "u/û 转写约定差"
+  },
+  {
+   "idx": 12,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "o 上符号太小难辨尖符/扬抑符，n 上鼻化符亦无法判定"
+  },
+  {
+   "idx": 13,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "u/û 转写约定差"
+  },
+  {
+   "idx": 14,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "同上"
+  },
+  {
+   "idx": 15,
+   "verdict": "V1误读",
+   "shouldBe": "chǎy",
+   "note": "墨迹第三词 chǎy（a 上 caron）；重读 chǎñpiǎñg 系错位串行"
+  },
+  {
+   "idx": 16,
+   "verdict": "V1误读",
+   "shouldBe": "piāng",
+   "note": "墨迹第四词 p 起头（…chǎy piāng），v1 之 tiāng 初母误"
+  },
+  {
+   "idx": 17,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "长 tiōng 平声，a 上符号在切图分辨率下无法区分平符/尖符/短符"
+  },
+  {
+   "idx": 18,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读 chǒñg 系下一行串行；墨迹近 chiāng/chiângⁿ"
+  },
+  {
+   "idx": 19,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读 Tǎy 系错位；墨迹近 chǒñg/chòngⁿ"
+  },
+  {
+   "idx": 20,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 Tāỹ：a 上平符、y 上小符，v1 忠实；重读 tǎy 调符与大小写均不合"
+  },
+  {
+   "idx": 21,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读 huān 系取同行第二词；墨迹首词近 Tāỹ/Tāy"
+  },
+  {
+   "idx": 23,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "u/û 转写约定差"
+  },
+  {
+   "idx": 24,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "同上"
+  },
+  {
+   "idx": 25,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "同上"
+  },
+  {
+   "idx": 27,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "崇：o 上符号太小难辨，n 上鼻化符亦无法判定"
+  },
+  {
+   "idx": 28,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹尾为 m（guîm），重读 gûîn 丢失 m"
+  },
+  {
+   "idx": 30,
+   "verdict": "V1误读",
+   "shouldBe": "lěû",
+   "note": "墨迹 e 上有小符，重读记为 caron；v1 漏记"
+  },
+  {
+   "idx": 31,
+   "verdict": "V1误读",
+   "shouldBe": "pèñg",
+   "note": "墨迹初母 p 明确（lěû pèñg），v1 之 tèngⁿ 初母误"
+  },
+  {
+   "idx": 32,
+   "verdict": "V1误读",
+   "shouldBe": "lěû",
+   "note": "同 idx30"
+  },
+  {
+   "idx": 33,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "閣 cô：o 上平符/扬抑符在切图分辨率下无法区分"
+  },
+  {
+   "idx": 34,
+   "verdict": "V1误读",
+   "shouldBe": "lěû",
+   "note": "同 idx30"
+  },
+  {
+   "idx": 36,
+   "verdict": "V1误读",
+   "shouldBe": "kiēñ",
+   "note": "墨迹非 t 起头（近 k/h），与重读 kiēñ 相符"
+  },
+  {
+   "idx": 37,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "頂 tèng/tèñg：n 上是否有鼻化符无法判定"
+  },
+  {
+   "idx": 1,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "ũ 与 û 为同一鼻化/调符的两种转写约定"
+  },
+  {
+   "idx": 3,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "a 上符号太小，无法区分波浪鼻化符与短符/尖符组合"
+  },
+  {
+   "idx": 5,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "chiù̃/chiû 同一墨迹符号两种转写"
+  },
+  {
+   "idx": 6,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "同 idx1"
+  },
+  {
+   "idx": 7,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "o 上调符过小，无法区分尖符与扬抑符"
+  },
+  {
+   "idx": 8,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "同 idx7"
+  },
+  {
+   "idx": 9,
+   "verdict": "V1误读",
+   "shouldBe": "siǒng",
+   "note": "墨迹 s 起头、o 上 caron（高聳），v1 之 tìong 初母误"
+  },
+  {
+   "idx": 10,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "同 idx7"
+  },
+  {
+   "idx": 12,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹确有两个 co 词（高高在上），重读漏计其一"
+  },
+  {
+   "idx": 14,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读 cô 系错位串行；墨迹第三词 chǎy"
+  },
+  {
+   "idx": 15,
+   "verdict": "V1误读",
+   "shouldBe": "siàng",
+   "note": "墨迹第四词近 siàng/chiàng（-àng 形），v1 之 tiàng 初母不合；重读 chǎñ 更不符"
+  },
+  {
+   "idx": 16,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读 siǒng 系下一行串行；墨迹为短词近 tǒ"
+  },
+  {
+   "idx": 17,
+   "verdict": "V1误读",
+   "shouldBe": "siǒng",
+   "note": "墨迹 s 起头（聳），v1 之 tiǒng 初母误；重读 tň 系错位"
+  },
+  {
+   "idx": 18,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹 siǒng 与 + 具在，两读仅分词方式不同"
+  },
+  {
+   "idx": 19,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 y 上有小符，v1 之 ỹ 忠实；重读 Tāy 漏记"
+  },
+  {
+   "idx": 20,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹近 Tāỹ：a 上似平符非去声符、y 上有小符，两读各对一半"
+  },
+  {
+   "idx": 27,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 cǒỹ: 含 y，v1 忠实；重读 cǒ: 漏记"
+  },
+  {
+   "idx": 29,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "lāu/lāû 同一符号两种转写"
+  },
+  {
+   "idx": 30,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 M 栏为 tèng（t 起头），重读 pèñg 系串入 R 栏读法"
+  },
+  {
+   "idx": 31,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "同 idx29"
+  },
+  {
+   "idx": 32,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "同 idx7，o 上调符无法分辨"
+  },
+  {
+   "idx": 33,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "同 idx29"
+  },
+  {
+   "idx": 34,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 chiu（u 上鼻化符），v1 之 chiù̃ 忠实；重读 chioⁿ 元音不合"
+  },
+  {
+   "idx": 35,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "巔 Tiēn/tiēñ：n 上是否有鼻化符无法判定"
+  },
+  {
+   "idx": 36,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "頂 Tèng/tèñg：n 上是否有鼻化符无法判定"
+  }
+ ]
+}

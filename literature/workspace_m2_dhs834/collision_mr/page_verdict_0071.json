@@ -1,0 +1,581 @@
+{
+ "page": 71,
+ "verdicts": [
+  {
+   "idx": 0,
+   "verdict": "V1误读",
+   "shouldBe": "chiĕn",
+   "note": "墨迹为 chiĕn，e 上短音符；V1 未记符，重读误记长音符 chiēn"
+  },
+  {
+   "idx": 1,
+   "verdict": "V1误读",
+   "shouldBe": "chĕng",
+   "note": "墨迹 chĕng 短音符清楚"
+  },
+  {
+   "idx": 2,
+   "verdict": "V1误读",
+   "shouldBe": "chān",
+   "note": "墨迹 a 上有曲折形声调符；V1 未记符"
+  },
+  {
+   "idx": 3,
+   "verdict": "V1误读",
+   "shouldBe": "chĕng",
+   "note": "墨迹 chĕng"
+  },
+  {
+   "idx": 4,
+   "verdict": "V1误读",
+   "shouldBe": "īang",
+   "note": "墨迹长音符在 i（īang），重读 iāng 符错落在 a；V1 未记符"
+  },
+  {
+   "idx": 5,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1 记 r3 行尾句点、重读记 r4 chĕng，各有所本"
+  },
+  {
+   "idx": 6,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=cheng(r4)、重读=hóu(r4)，均有墨迹"
+  },
+  {
+   "idx": 7,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有墨迹依据"
+  },
+  {
+   "idx": 8,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=r4 句点、重读=r5 zoan 词，均有据"
+  },
+  {
+   "idx": 9,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读在此位把墨迹 hìm 误作 hīn（m 误 n、符误长音）；V1 所对 cheng 字母有据"
+  },
+  {
+   "idx": 10,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读再次把墨迹 hìm 误作 hīn；V1 所对 zoan 字母有据"
+  },
+  {
+   "idx": 11,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有墨迹依据"
+  },
+  {
+   "idx": 12,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=r6 句点、重读=cū(r8)，均有据"
+  },
+  {
+   "idx": 13,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 14,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 15,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 16,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=r8 句点、重读=chiĕn(r10)，均有据"
+  },
+  {
+   "idx": 17,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=cu(r9)、重读=iĕn(r11)，字母均有据"
+  },
+  {
+   "idx": 18,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 19,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 20,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=r9 句点、重读=thāu(r13)，均有据"
+  },
+  {
+   "idx": 21,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读把墨迹 pue 误作 phûe（多出 h）；V1 所对 chien 字母有据"
+  },
+  {
+   "idx": 22,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=r10 句点（墨迹确有）、重读=chĕng(r14)，均有据"
+  },
+  {
+   "idx": 23,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=ien(r11)、重读=làt(r14)，字母均有据"
+  },
+  {
+   "idx": 24,
+   "verdict": "V1误读",
+   "shouldBe": "",
+   "note": "墨迹 iĕn 后并无句点，V1 多记；重读所对 chĕng(r15) 有墨迹依据"
+  },
+  {
+   "idx": 25,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 26,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=r12 句点（墨迹有）、重读=chĕng(r16)，均有据"
+  },
+  {
+   "idx": 27,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读把墨迹 gui 误作 guìh（多出 h）；V1 所对 teng 字母有据"
+  },
+  {
+   "idx": 28,
+   "verdict": "V1误读",
+   "shouldBe": "thāu",
+   "note": "墨迹 thāu 带 h；V1 漏 h 记作 tau"
+  },
+  {
+   "idx": 29,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 30,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=cheng(r14)、重读=guīat(r17)，均有据"
+  },
+  {
+   "idx": 31,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 32,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读把墨迹 guīaū 首字母误作 q（quīāu）；V1 所对句点有据"
+  },
+  {
+   "idx": 33,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=cheng(r15)、重读=kṭ(r19)，均有据"
+  },
+  {
+   "idx": 34,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=iong(r15)、重读=tio(r19)，均有据"
+  },
+  {
+   "idx": 35,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=r15 句点、重读=chiū(r19)，均有据"
+  },
+  {
+   "idx": 36,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=cheng(r16)、重读=bō(r19)，均有据"
+  },
+  {
+   "idx": 37,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=gui(r16)、重读=thōng(r20)，均有据"
+  },
+  {
+   "idx": 38,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 39,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=ho(r17)、重读=zōan(r20)，均有据"
+  },
+  {
+   "idx": 40,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "V1 漏尾字母（墨迹 guiat，V1 作 guia）；重读所对 pōu 亦不忠实（墨迹 M 栏末行为 Pō，无 u）"
+  },
+  {
+   "idx": 41,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 r18 为 chĕng guīaū，重读漏记首词；V1 teng 字母有据"
+  },
+  {
+   "idx": 42,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 guīaū 字母 guiau 有据，重读漏记；V1 字母忠实"
+  },
+  {
+   "idx": 43,
+   "verdict": "V1误读",
+   "shouldBe": "",
+   "note": "墨迹并无独立 ho 字（g 降部花饰被误读为 ho）；重读此位亦无记录"
+  },
+  {
+   "idx": 44,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹 r18 末尾句点难辨（似为收笔花饰），V1 记句点、重读漏记均难断"
+  },
+  {
+   "idx": 46,
+   "verdict": "V1误读",
+   "shouldBe": "chiū",
+   "note": "墨迹 chiū 长音符清楚（重出段）"
+  },
+  {
+   "idx": 47,
+   "verdict": "V1误读",
+   "shouldBe": "bō",
+   "note": "墨迹 bō"
+  },
+  {
+   "idx": 48,
+   "verdict": "V1误读",
+   "shouldBe": "thōng",
+   "note": "墨迹 thōng"
+  },
+  {
+   "idx": 49,
+   "verdict": "V1误读",
+   "shouldBe": "chĕng",
+   "note": "墨迹 chĕng"
+  },
+  {
+   "idx": 50,
+   "verdict": "V1误读",
+   "shouldBe": "zōan",
+   "note": "墨迹声调符在 o/a 之间，重读 zōan 可从；V1 未记符"
+  },
+  {
+   "idx": 51,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为 Pō（大写 P+o，无 u）；V1 字母 Po 忠实，重读多出 u"
+  },
+  {
+   "idx": 0,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "V1 误取栏间注记（墨迹近 teger./fefer.）为 Gegen；重读把 R 栏首字（单笔 ſ/h 之 ſiēn）误作 chiēn；两读均不忠实"
+  },
+  {
+   "idx": 1,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=栏间注记句点、重读=chĕng，各有所本"
+  },
+  {
+   "idx": 2,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读把墨迹 chān 误作 chīn；V1 所对 sien 实为 ſien（首行长音符号在）"
+  },
+  {
+   "idx": 3,
+   "verdict": "V1误读",
+   "shouldBe": "chĕng",
+   "note": "墨迹 chĕng"
+  },
+  {
+   "idx": 4,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=chan(r2)、重读=yàng(r3)，均有据"
+  },
+  {
+   "idx": 5,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 6,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读把墨迹 hù 误作 hīn；V1 所对 yang 字母有据"
+  },
+  {
+   "idx": 7,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 8,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=hu(r4)、重读=zūēn(r5)，均有据"
+  },
+  {
+   "idx": 9,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读把墨迹 hìm 误作 hīn；V1 所对 cheng 有据"
+  },
+  {
+   "idx": 10,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读把墨迹 hìm(r7) 误作 hīn；V1 所对 zuen 有据"
+  },
+  {
+   "idx": 11,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 12,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=r6 句点、重读=gǔi(r8)，均有据"
+  },
+  {
+   "idx": 13,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 14,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 15,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 16,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 17,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=hien(r9)、重读=hiĕn(r11)，字母均有据"
+  },
+  {
+   "idx": 18,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 19,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 20,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读把墨迹 thēu 误作 thēi（尾字母 u 误 i）；V1 所对 hien 字母有据"
+  },
+  {
+   "idx": 21,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读把墨迹 py（y 带降部）误作 pí；V1 所对 cheng 有据"
+  },
+  {
+   "idx": 22,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 23,
+   "verdict": "V1误读",
+   "shouldBe": "thēu",
+   "note": "墨迹 thēu 带 h；V1 漏 h 记作 teu（重读此位所对 tē 有据）"
+  },
+  {
+   "idx": 24,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "墨迹确为 py；V1 忠实，重读此位所对 chĕng 亦有据"
+  },
+  {
+   "idx": 25,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 26,
+   "verdict": "V1误读",
+   "shouldBe": "tē",
+   "note": "墨迹 tē（t 有横笔）；V1 误 t 为 l 记作 le"
+  },
+  {
+   "idx": 27,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 28,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 29,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 hòu（三字母），重读漏 u 记作 hō；V1 所对 cheng 有据"
+  },
+  {
+   "idx": 30,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 31,
+   "verdict": "V1误读",
+   "shouldBe": "hòu",
+   "note": "墨迹 hòu；V1 误 o 为 a 记作 hau（重读此位所对 guìaū 有据）"
+  },
+  {
+   "idx": 32,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 33,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读把墨迹 chīō 误作 chiū（尾 o 误 u）；V1 所对 cheng 有据"
+  },
+  {
+   "idx": 34,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "重读把墨迹 chīn 误作 chiū；V1 所对 guiau 字母有据"
+  },
+  {
+   "idx": 35,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=tao(r19)、重读=bū(r19)，均有据"
+  },
+  {
+   "idx": 36,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 tòng 无 h，重读多 h 记作 thōng；V1 所对 chio 字母有据"
+  },
+  {
+   "idx": 37,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 38,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开，两读均有据"
+  },
+  {
+   "idx": 39,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "对位错开：V1=tong(r20 字母正确)、重读=pōu(r21)，均有据"
+  },
+  {
+   "idx": 40,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 chĕng(r20)，重读漏记；V1 有据"
+  },
+  {
+   "idx": 41,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 zuēn(r20)，重读漏记；V1 有据"
+  },
+  {
+   "idx": 42,
+   "verdict": "V1误读",
+   "shouldBe": "pòū",
+   "note": "墨迹尾为 u；V1 误 n 记作 pon"
+  },
+  {
+   "idx": 43,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 poū 后有一小点（逗点/句点），重读未记；V1 句点基本有据"
+  },
+  {
+   "idx": 44,
+   "verdict": "V1误读",
+   "shouldBe": "",
+   "note": "墨迹仅一处句点，V1 多记第二个句点"
+  }
+ ]
+}

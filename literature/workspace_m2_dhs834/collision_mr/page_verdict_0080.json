@@ -1,0 +1,449 @@
+{
+ "page": 80,
+ "verdicts": [
+  {
+   "idx": 0,
+   "verdict": "V1误读",
+   "shouldBe": "mȳ",
+   "note": "M栏行1墨迹 y 上为直横线长音符（mȳ），V1 漏记调号"
+  },
+  {
+   "idx": 2,
+   "verdict": "V1误读",
+   "shouldBe": "lè",
+   "note": "M栏行2墨迹为 lè（字母 l-e，抑音符），非 sê"
+  },
+  {
+   "idx": 3,
+   "verdict": "V1误读",
+   "shouldBe": "lè",
+   "note": "M栏行3墨迹为 lè，非 sê"
+  },
+  {
+   "idx": 4,
+   "verdict": "V1误读",
+   "shouldBe": "mȳ",
+   "note": "墨迹 y 上为长音符 mȳ，非 mī"
+  },
+  {
+   "idx": 5,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹字母为 ch-eng，无 y；调号近折笔，与 V1 chêng 字母一致，重读多插 y"
+  },
+  {
+   "idx": 6,
+   "verdict": "V1误读",
+   "shouldBe": "cūy",
+   "note": "墨迹 u 上为长音符 cūy，非 cúi"
+  },
+  {
+   "idx": 7,
+   "verdict": "V1误读",
+   "shouldBe": "mȳ",
+   "note": "墨迹为 mȳ（y 上长音符），非 mī"
+  },
+  {
+   "idx": 8,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹调号在 u 上（caù），重读记在 a（càu）"
+  },
+  {
+   "idx": 10,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "同上，墨迹 caù 调号在 u"
+  },
+  {
+   "idx": 11,
+   "verdict": "V1误读",
+   "shouldBe": "cā",
+   "note": "墨迹 a 上为直横线长音符 cā，非折符 câ"
+  },
+  {
+   "idx": 12,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 a 上有鼻化波浪符（cūã 形），V1 cuã 忠实，重读漏记波浪符"
+  },
+  {
+   "idx": 13,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "che 上调号笔画斜置，介于锐音符与长音符之间，两读均不完全吻合"
+  },
+  {
+   "idx": 14,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 e 上为斜升锐音符（éng），V1 忠实"
+  },
+  {
+   "idx": 15,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹 pou 的 o 上调号似抑音符（poù），póu/pōu 两读均不合"
+  },
+  {
+   "idx": 16,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 u 上为清晰的 v 形折符（chaǔ），V1 忠实"
+  },
+  {
+   "idx": 17,
+   "verdict": "V1误读",
+   "shouldBe": "lêy",
+   "note": "墨迹元音为 e（非 V1 的 a），调号为折符；重读元音正确但记作长音符 lēy"
+  },
+  {
+   "idx": 18,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹元音似 e（tēng 形），tung/tāṅ 两读元音均不合，字形潦草难终断"
+  },
+  {
+   "idx": 19,
+   "verdict": "V1误读",
+   "shouldBe": "pān",
+   "note": "墨迹 a 上为长音符 pān，非 pán"
+  },
+  {
+   "idx": 20,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "chey 调号被行间浓重修改笔画遮挡，无法辨认"
+  },
+  {
+   "idx": 21,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "chio 调号同被浓笔遮挡（其上 x 形为修改笔），无法辨认"
+  },
+  {
+   "idx": 22,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 a 上为斜升锐音符（sám），V1 忠实"
+  },
+  {
+   "idx": 23,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "同上，行13墨迹 sám 为锐音符"
+  },
+  {
+   "idx": 24,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹字母为 pūi，put/pūr 两读字母均不合"
+  },
+  {
+   "idx": 26,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "同 idx20，调号被行间修改笔画遮挡"
+  },
+  {
+   "idx": 27,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "同 idx21，调号被行间修改笔画遮挡"
+  },
+  {
+   "idx": 28,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹调号在 u 上且形近抑音符（hùi 形），huì（符在 i）/hŭi（折符）均不合"
+  },
+  {
+   "idx": 29,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 a 上为波浪形鼻化符（tã 形），V1 忠实"
+  },
+  {
+   "idx": 30,
+   "verdict": "V1误读",
+   "shouldBe": "sȳ",
+   "note": "墨迹 y 上为直横线长音符 sȳ，非折符 sî"
+  },
+  {
+   "idx": 31,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "guy 上叠有插入式浓笔调符（折符+横线组合），guî/gūy 两读均不完全吻合"
+  },
+  {
+   "idx": 32,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "gui 上为折符+横线双调符组合，guî/gūi 两读均不合"
+  },
+  {
+   "idx": 33,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "cu 上调号近折符（cû 形），cu/cū 两读均不合"
+  },
+  {
+   "idx": 34,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "同 idx31，双调符组合两读均不吻合"
+  },
+  {
+   "idx": 35,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "bui 上为曲笔调号（bûi 形），bui（无符）/būī（双长音符）均不合"
+  },
+  {
+   "idx": 36,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹该位为句点（bui 后），并无第三词形；重读误记为 gūy"
+  },
+  {
+   "idx": 37,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹词形为 gui（gūy 类），V1 词形切分正确；重读错位记作 iōng"
+  },
+  {
+   "idx": 38,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹第二词为 iong，V1 忠实；重读错位记作 gūē"
+  },
+  {
+   "idx": 39,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹为 guē（gue 带长音符），guié/gūy 两读字母均不合"
+  },
+  {
+   "idx": 40,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹确有第二词 guy（调号叠浓笔难辨），重读漏记为空"
+  },
+  {
+   "idx": 0,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "R栏行1 miên 的 e 上为折符（峰形），V1 忠实"
+  },
+  {
+   "idx": 1,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "行1 hua 的 a 上调号过小，˘/ˉ 难辨"
+  },
+  {
+   "idx": 2,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "行2 sa 调号极小，折符/抑音符难以判定"
+  },
+  {
+   "idx": 3,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "行3 sa 调号极小，折符/抑音符难以判定"
+  },
+  {
+   "idx": 4,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "行3 miên 的 e 上折符峰形清晰，V1 忠实"
+  },
+  {
+   "idx": 5,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 e 上为曲笔调号（chêng 类），V1 忠实"
+  },
+  {
+   "idx": 6,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹字母为 guī（g 有降部），cuî/źĭ 两读均不合"
+  },
+  {
+   "idx": 7,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "行4 綿 与行1/3 同字，墨迹调号为折符 miên，V1 忠实"
+  },
+  {
+   "idx": 8,
+   "verdict": "V1误读",
+   "shouldBe": "gùēn",
+   "note": "墨迹字母 g-u-e-n（无 i），u 上抑音符，与重读 gùēn 一致；V1 的 gièn 多 i"
+  },
+  {
+   "idx": 9,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "chue 上为曲笔+横线组合调号，chuê/chūē 两读均不完全吻合"
+  },
+  {
+   "idx": 10,
+   "verdict": "V1误读",
+   "shouldBe": "gùēn",
+   "note": "行6同行5，墨迹 guèn（无 i，抑音符），重读忠实"
+  },
+  {
+   "idx": 11,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 i 上单长音符 guīo，V1 忠实；重读多记 u 上符"
+  },
+  {
+   "idx": 12,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 a 上为 v 形折符（cuǎn），V1 忠实"
+  },
+  {
+   "idx": 13,
+   "verdict": "V1误读",
+   "shouldBe": "chāy",
+   "note": "墨迹 a 上为直横线长音符 chāy，非折符 chây"
+  },
+  {
+   "idx": 14,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 e 上为清晰 v 形折符（ĕng），V1 忠实"
+  },
+  {
+   "idx": 15,
+   "verdict": "V1误读",
+   "shouldBe": "pūn",
+   "note": "墨迹元音为 u 且带长音符 pūn，V1 的 pōn 元音错"
+  },
+  {
+   "idx": 17,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹首字母为 b（降部清晰）且 y 上长音符 bȳ，V1 忠实；重读误作 lī"
+  },
+  {
+   "idx": 18,
+   "verdict": "V1误读",
+   "shouldBe": "chiāṅ",
+   "note": "墨迹 a 上为长音符 chiang，非折符 chiàng"
+  },
+  {
+   "idx": 20,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 o 上为 v 形折符（caron）即 tǒ，V1 忠实；重读误记作短音符 ŏ"
+  },
+  {
+   "idx": 21,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "长 ſ 与 s 仅为字形变体，但 a 上调号斜置近锐音符，两读均不合"
+  },
+  {
+   "idx": 22,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "行12 san 的 a 上为折符（sǎn），V1 忠实"
+  },
+  {
+   "idx": 23,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "行13 san 的 a 上折符清晰（sǎn），V1 忠实"
+  },
+  {
+   "idx": 24,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "pu 词尾是否带 n 字母（pū/pūn）在墨迹中难辨"
+  },
+  {
+   "idx": 25,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 zy 上为峰形折符（zŷ），V1 忠实"
+  },
+  {
+   "idx": 26,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 o 上为 v 形折符（caron）即 tǒ，V1 忠实；重读误记作短音符 ŏ"
+  },
+  {
+   "idx": 27,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "同 idx21，a 上调号斜置近锐音符，两读均不合"
+  },
+  {
+   "idx": 28,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹为三字母 huy 且 u 上折符（hŭy），V1 忠实；重读漏 y"
+  },
+  {
+   "idx": 29,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 gui 上为 v 形折符（guǐn），V1 忠实"
+  },
+  {
+   "idx": 30,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 zy 上为峰形折符（zŷ），V1 忠实"
+  },
+  {
+   "idx": 31,
+   "verdict": "V1误读",
+   "shouldBe": "gūī",
+   "note": "器字墨迹 u/i 上有曲笔+横线双调符（重读以两长音符概括），V1 仅记一符"
+  },
+  {
+   "idx": 32,
+   "verdict": "V1误读",
+   "shouldBe": "gūī",
+   "note": "行17同上，gui 带双调符，V1 漏记 u 上符"
+  },
+  {
+   "idx": 34,
+   "verdict": "V1误读",
+   "shouldBe": "gūī",
+   "note": "行18 gui 带曲笔+横线双调符，V1 仅记一符"
+  },
+  {
+   "idx": 35,
+   "verdict": "V1误读",
+   "shouldBe": "būēo",
+   "note": "墨迹为 būēo（b-u-e-o，u/e 上均有长音符），V1 的 būe 漏尾音 o"
+  },
+  {
+   "idx": 36,
+   "verdict": "V1误读",
+   "shouldBe": "gūī",
+   "note": "行19 gui 带双调符，V1 仅记一符"
+  },
+  {
+   "idx": 38,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "行20 guia 上调符（折符+曲笔横线）归属字母难定，guiǎ/gūiā 均不完全吻合"
+  },
+  {
+   "idx": 39,
+   "verdict": "V1误读",
+   "shouldBe": "gūī",
+   "note": "行20第二词 gui 带曲笔+横线双调符，与重读 gūī 一致；V1 漏记调号"
+  }
+ ]
+}

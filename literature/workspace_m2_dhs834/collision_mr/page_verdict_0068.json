@@ -1,0 +1,317 @@
+{
+ "page": 68,
+ "verdicts": [
+  {
+   "idx": 0,
+   "verdict": "V1误读",
+   "shouldBe": "hûin",
+   "note": "M栏首行两词 V1 全漏；墨迹清晰为 hûin（ui 上折符）"
+  },
+  {
+   "idx": 0,
+   "verdict": "V1误读",
+   "shouldBe": "cūy",
+   "note": "墨迹首行第二词 cūy（u 上横划）清晰，V1 漏记"
+  },
+  {
+   "idx": 1,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹第二行第二词为 c+y 带横/波浪划，元音圈形与符形在300dpi下难辨；V1 记锐音符、重读记长横皆无法确证"
+  },
+  {
+   "idx": 2,
+   "verdict": "V1误读",
+   "shouldBe": "liām",
+   "note": "欽省行首词字母 liam 清晰，V1 之 hûn 字母全误；声调符单笔（右扬/横划）难断，暂从重读 macron"
+  },
+  {
+   "idx": 3,
+   "verdict": "V1误读",
+   "shouldBe": "sêng",
+   "note": "欽省行第二词 seng 清晰（e 上有折/横符），V1 只记 ē，漏整词"
+  },
+  {
+   "idx": 4,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "对位错移：V1 的 liàm 字母忠实于欽省行 liam（符形难断）；重读 hèm 是对榇煞行首词 līm 之误辨"
+  },
+  {
+   "idx": 5,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "V1 的 sèng 忠实于欽省行第二词 seng；重读的 se 与墨迹（he/līm）均不合，亦系错移"
+  },
+  {
+   "idx": 6,
+   "verdict": "V1误读",
+   "shouldBe": "ǰoa",
+   "note": "榇煞行第三词墨迹为 ž/ǰ 形曲折首母+oa，锐音符在首母上；V1 之 tě 全误，重读 ǰoa 忠实"
+  },
+  {
+   "idx": 7,
+   "verdict": "V1误读",
+   "shouldBe": "moāⁿ",
+   "note": "麻行墨迹 moa 上横划+上标鼻音 n；重读 moān 忠实（以 n 记鼻音），V1 之 soá 误辨"
+  },
+  {
+   "idx": 8,
+   "verdict": "V1误读",
+   "shouldBe": "guân",
+   "note": "蒜行墨迹 guân. 清晰（g 圈形首母、ua 上折符）；V1 只记标点，漏整词"
+  },
+  {
+   "idx": 9,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "V1 的 mōa 即麻行本词（仅缺上标鼻音 n）；重读的 guân 属下一行，系对位错移"
+  },
+  {
+   "idx": 10,
+   "verdict": "V1误读",
+   "shouldBe": "thāu",
+   "note": "蒜頭行第二词墨迹词尾 u、a 上横划；重读 thāy 词尾 y 误辨，余忠实；V1 只记标点"
+  },
+  {
+   "idx": 11,
+   "verdict": "V1误读",
+   "shouldBe": "guân",
+   "note": "墨迹首母为 g 圈形（带圈+降笔），V1 记 s 误辨；重读 guân 忠实"
+  },
+  {
+   "idx": 12,
+   "verdict": "V1误读",
+   "shouldBe": "pān",
+   "note": "蒜瓣行第二词墨迹 pān（a 上横划）清晰；V1 只记标点，漏词"
+  },
+  {
+   "idx": 13,
+   "verdict": "V1误读",
+   "shouldBe": "guân",
+   "note": "蒜瓣行首词同上，g 圈形首母清晰；V1 之 suân 误辨首母"
+  },
+  {
+   "idx": 14,
+   "verdict": "V1误读",
+   "shouldBe": "miâ",
+   "note": "对位错移：重读 miâ 忠实于蒜仔行第二词（i 上折符）；V1 的 thâu 属蒜頭行词"
+  },
+  {
+   "idx": 15,
+   "verdict": "V1误读",
+   "shouldBe": "pòaⁿ",
+   "note": "搬嫁粧行首词墨迹 poa 上波/横符+鼻音上标；重读 pòa 字母忠实（缺鼻音上标）；V1 的 suân 属蒜行错移"
+  },
+  {
+   "idx": 16,
+   "verdict": "V1误读",
+   "shouldBe": "gué",
+   "note": "搬嫁粧行第二词墨迹 gue（e 上符）清晰；V1 的 pān 属蒜瓣行错移词"
+  },
+  {
+   "idx": 17,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "搬嫁粧行末词墨迹为 chng（ch 连笔+ng，带鼻音上标）；V1 的 chng 忠实；重读 chūy 误辨"
+  },
+  {
+   "idx": 18,
+   "verdict": "V1误读",
+   "shouldBe": "hâp",
+   "note": "合行墨迹 hap 上 ^ 折符清晰；重读记 hāp 长横，符形小异；V1 的 nià 属蒜仔行错移误词"
+  },
+  {
+   "idx": 19,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "V1 的 põa 忠实于搬嫁粧行首词 pòaⁿ（以波浪符记鼻音）；重读 bâ 属猫貓行，对位错移"
+  },
+  {
+   "idx": 20,
+   "verdict": "V1误读",
+   "shouldBe": "bâ",
+   "note": "猫貓行墨迹 bâ bâ 均为 ^ 折符；重读词形忠实；V1 的 què 属搬嫁粧行词（q 系 g 圈形之误辨）"
+  },
+  {
+   "idx": 21,
+   "verdict": "V1误读",
+   "shouldBe": "pît",
+   "note": "末行首词墨迹为 pît（p 长降圈笔+i+t 尾钩）；V1 的 chng 忠实于搬嫁粧行末词，属错移"
+  },
+  {
+   "idx": 22,
+   "verdict": "V1误读",
+   "shouldBe": "chān",
+   "note": "末行第二词墨迹 chān（a 上横划、词尾 n）；V1 的 hâp 忠实于合行，属错移"
+  },
+  {
+   "idx": 23,
+   "verdict": "V1误读",
+   "shouldBe": "bâ",
+   "note": "猫貓行墨迹符为 ^ 折符，V1 记 acute 误；重读词形 bâ 见 idx20/21，此处删除系对位错移"
+  },
+  {
+   "idx": 24,
+   "verdict": "V1误读",
+   "shouldBe": "bâ",
+   "note": "同上：墨迹 ^ 折符，V1 acute 不合；重读词形见前，对位错移"
+  },
+  {
+   "idx": 25,
+   "verdict": "V1误读",
+   "shouldBe": "pît",
+   "note": "末行首词墨迹 pît；V1 之 sùìn 误辨；重读已在他位记 pît，此处删除系错移"
+  },
+  {
+   "idx": 26,
+   "verdict": "V1误读",
+   "shouldBe": "chān",
+   "note": "末行第二词墨迹 chān；V1 之 châu 词尾 u 误辨（墨迹为 n）"
+  },
+  {
+   "idx": 0,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "墨迹为 guiên（圈形首母+uien 连写+折符）；V1 保字母但记 q、重读记 g 却把 ie 并作 ī 漏 e，两读各有一处不合"
+  },
+  {
+   "idx": 1,
+   "verdict": "V1误读",
+   "shouldBe": "cāy",
+   "note": "墨迹 a 上为横划（长直符），重读 macron 忠实；V1 记 caron（ǎ）不合；字母两读同为 cay"
+  },
+  {
+   "idx": 2,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "同 R1 首词：墨迹 guiên；V1 记 q、重读并 ie 为 ī 漏 e，各有一处不合"
+  },
+  {
+   "idx": 3,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹元音为 a（hiay 连写）清晰；重读 hiōy 记 o 不合；V1 记 a 忠实（符形折/横 300dpi 难确指）"
+  },
+  {
+   "idx": 4,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "欽省行 R 栏首词墨迹元音串为 iu（liūm，u 上横划）；V1 记 a、重读并作 ī，两读均不合墨迹"
+  },
+  {
+   "idx": 5,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读同为 sèng，仅组合字符与预组字符之差；墨迹 fèng（ſ 长s+e 上符）相符"
+  },
+  {
+   "idx": 6,
+   "verdict": "V1误读",
+   "shouldBe": "guīe",
+   "note": "榇煞行 R 栏墨迹 guīe（圈形首母=本手 g，uie 上横划）；V1 记 q 误辨首母，重读忠实"
+  },
+  {
+   "idx": 7,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读同为 sā（仅编码差）；墨迹第二词首母为带降笔的 ž/z 形，两读皆记 s——此差异不在两读之间"
+  },
+  {
+   "idx": 8,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读同为 mâ，仅编码差；墨迹 mā/mâ 单词相符"
+  },
+  {
+   "idx": 9,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "蒜行 R 栏墨迹为 zuān（z 形曲折首笔、a 上横划）；V1 字面忠实；重读 guīn 误辨首笔且误元音"
+  },
+  {
+   "idx": 10,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "蒜頭行首词墨迹 zuān，V1 忠实；重读 guān 首笔误辨为 g"
+  },
+  {
+   "idx": 11,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "蒜頭行第二词墨迹为 th 连笔+折符+尾笔（尾笔 y/u 形难辨）；V1 记 teâu、重读记 tháy，字母与符形各有不合"
+  },
+  {
+   "idx": 12,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "蒜瓣行首词墨迹 zuān，V1 忠实；重读 guān 首笔误辨为 g"
+  },
+  {
+   "idx": 13,
+   "verdict": "V1误读",
+   "shouldBe": "giēn",
+   "note": "蒜瓣行第二词墨迹 giēn（圈形首母 g，ie 上横划）；V1 记 p 误辨，重读忠实"
+  },
+  {
+   "idx": 14,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "蒜仔行首词墨迹 zuān，V1 忠实；重读 guān 首笔误辨为 g"
+  },
+  {
+   "idx": 15,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读同为 chày，仅编码差；墨迹 zuān chay 第二词字母相符（其上符为右扬单笔，两读皆记 grave，差异不在两读之间）"
+  },
+  {
+   "idx": 16,
+   "verdict": "存疑",
+   "shouldBe": "",
+   "note": "搬嫁粧行首词墨迹 poan 上为杯形符（breve/˘ 形，明显非平直横划），V1 记 caron、重读记 macron；符形居中难断"
+  },
+  {
+   "idx": 17,
+   "verdict": "V1误读",
+   "shouldBe": "guīa",
+   "note": "墨迹为 guīa（g 首母、ia 元音、上横划）；V1 记 q 且词尾记 e 不合；重读词尾 a 忠实（其锐音符与墨迹横划小异）"
+  },
+  {
+   "idx": 18,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "墨迹 choang 的 oa 上仅一个杯形符；V1 单符（横划）结构合、重读 chǒāng 多记一符；符形 caron/breve 300dpi 难断"
+  },
+  {
+   "idx": 19,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读同为 hō，仅编码差；墨迹 hō（o 上横划+小上标）相符"
+  },
+  {
+   "idx": 20,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "两读同为 bā，仅编码差；墨迹 bā bā 均横划符，相符"
+  },
+  {
+   "idx": 21,
+   "verdict": "等价",
+   "shouldBe": "",
+   "note": "同上，第二词两读同为 bā"
+  },
+  {
+   "idx": 22,
+   "verdict": "重读误",
+   "shouldBe": "",
+   "note": "末行首词墨迹为 zoān（z 曲折首笔、o 元音、a 上横划）；重读 pōān 首母误辨为 p；V1 首母 z 忠实（第二母 s 系 o 之误辨）"
+  },
+  {
+   "idx": 23,
+   "verdict": "V1误读",
+   "shouldBe": "chūn",
+   "note": "末行第二词墨迹 chūn（u 上横划、词尾 n）；V1 的 cheâu 词尾不合，重读忠实"
+  }
+ ]
+}

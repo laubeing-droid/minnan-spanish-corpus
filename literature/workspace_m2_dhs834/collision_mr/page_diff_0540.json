@@ -1,0 +1,765 @@
+{
+ "page": 540,
+ "mV1Count": 71,
+ "mRrCount": 73,
+ "rV1Count": 29,
+ "rRrCount": 0,
+ "diffs": [
+  {
+   "page": 540,
+   "position": 1,
+   "field": "M",
+   "kind": "replace",
+   "v1": "quêng",
+   "rr": "quèng",
+   "idx": 0
+  },
+  {
+   "page": 540,
+   "position": 1,
+   "field": "M",
+   "kind": "replace",
+   "v1": "gông",
+   "rr": "gan",
+   "idx": 1
+  },
+  {
+   "page": 540,
+   "position": 1,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chǔ",
+   "rr": "chiu",
+   "idx": 2
+  },
+  {
+   "page": 540,
+   "position": 1,
+   "field": "M",
+   "kind": "replace",
+   "v1": "tông",
+   "rr": "tǒy",
+   "idx": 4
+  },
+  {
+   "page": 540,
+   "position": 2,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cho",
+   "rr": "chǒu",
+   "idx": 6
+  },
+  {
+   "page": 540,
+   "position": 2,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chǒ",
+   "rr": "chō",
+   "idx": 7
+  },
+  {
+   "page": 540,
+   "position": 2,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chôg",
+   "rr": "chǒy:",
+   "idx": 8
+  },
+  {
+   "page": 540,
+   "position": 2,
+   "field": "M",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "chay",
+   "idx": 9
+  },
+  {
+   "page": 540,
+   "position": 3,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chây",
+   "rr": "è",
+   "idx": 10
+  },
+  {
+   "page": 540,
+   "position": 3,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[残]",
+   "rr": "tiong",
+   "idx": 11
+  },
+  {
+   "page": 540,
+   "position": 0,
+   "field": "M",
+   "kind": "insert",
+   "v1": "",
+   "rr": "càn",
+   "idx": 15
+  },
+  {
+   "page": 540,
+   "position": 0,
+   "field": "M",
+   "kind": "insert",
+   "v1": "",
+   "rr": "chǒ",
+   "idx": 15
+  },
+  {
+   "page": 540,
+   "position": 0,
+   "field": "M",
+   "kind": "insert",
+   "v1": "",
+   "rr": "lûn",
+   "idx": 15
+  },
+  {
+   "page": 540,
+   "position": 0,
+   "field": "M",
+   "kind": "insert",
+   "v1": "",
+   "rr": "bó",
+   "idx": 15
+  },
+  {
+   "page": 540,
+   "position": 6,
+   "field": "M",
+   "kind": "replace",
+   "v1": "can",
+   "rr": "càn",
+   "idx": 16
+  },
+  {
+   "page": 540,
+   "position": 6,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chô",
+   "rr": "chǒ",
+   "idx": 17
+  },
+  {
+   "page": 540,
+   "position": 6,
+   "field": "M",
+   "kind": "replace",
+   "v1": "lūn",
+   "rr": "lûn",
+   "idx": 18
+  },
+  {
+   "page": 540,
+   "position": 6,
+   "field": "M",
+   "kind": "replace",
+   "v1": "bô",
+   "rr": "chià",
+   "idx": 19
+  },
+  {
+   "page": 540,
+   "position": 6,
+   "field": "M",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "atru",
+   "idx": 20
+  },
+  {
+   "page": 540,
+   "position": 6,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cân",
+   "rr": "mayor",
+   "idx": 21
+  },
+  {
+   "page": 540,
+   "position": 6,
+   "field": "M",
+   "kind": "delete",
+   "v1": "cân",
+   "rr": "",
+   "idx": 21
+  },
+  {
+   "page": 540,
+   "position": 6,
+   "field": "M",
+   "kind": "delete",
+   "v1": "chôa",
+   "rr": "",
+   "idx": 22
+  },
+  {
+   "page": 540,
+   "position": 6,
+   "field": "M",
+   "kind": "delete",
+   "v1": "lūn",
+   "rr": "",
+   "idx": 23
+  },
+  {
+   "page": 540,
+   "position": 6,
+   "field": "M",
+   "kind": "delete",
+   "v1": "chiá",
+   "rr": "",
+   "idx": 24
+  },
+  {
+   "page": 540,
+   "position": 7,
+   "field": "M",
+   "kind": "replace",
+   "v1": "(Tio)",
+   "rr": "Tiô",
+   "idx": 26
+  },
+  {
+   "page": 540,
+   "position": 8,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chiẫ",
+   "rr": "chíā",
+   "idx": 27
+  },
+  {
+   "page": 540,
+   "position": 9,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chòng",
+   "rr": "chong",
+   "idx": 29
+  },
+  {
+   "page": 540,
+   "position": 9,
+   "field": "M",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "chōy",
+   "idx": 30
+  },
+  {
+   "page": 540,
+   "position": 9,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chory",
+   "rr": "ě",
+   "idx": 31
+  },
+  {
+   "page": 540,
+   "position": 9,
+   "field": "M",
+   "kind": "replace",
+   "v1": "ĝ",
+   "rr": "iay",
+   "idx": 32
+  },
+  {
+   "page": 540,
+   "position": 9,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chory",
+   "rr": "chǒ",
+   "idx": 31
+  },
+  {
+   "page": 540,
+   "position": 9,
+   "field": "M",
+   "kind": "replace",
+   "v1": "ĝ",
+   "rr": ".",
+   "idx": 32
+  },
+  {
+   "page": 540,
+   "position": 9,
+   "field": "M",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "chān",
+   "idx": 33
+  },
+  {
+   "page": 540,
+   "position": 9,
+   "field": "M",
+   "kind": "replace",
+   "v1": "iog",
+   "rr": ".",
+   "idx": 34
+  },
+  {
+   "page": 540,
+   "position": 9,
+   "field": "M",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "thǒ",
+   "idx": 35
+  },
+  {
+   "page": 540,
+   "position": 10,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chô",
+   "rr": ".",
+   "idx": 36
+  },
+  {
+   "page": 540,
+   "position": 11,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chog",
+   "rr": "thǒ",
+   "idx": 40
+  },
+  {
+   "page": 540,
+   "position": 12,
+   "field": "M",
+   "kind": "replace",
+   "v1": "ta",
+   "rr": "sā",
+   "idx": 42
+  },
+  {
+   "page": 540,
+   "position": 13,
+   "field": "M",
+   "kind": "replace",
+   "v1": "Tēng",
+   "rr": "Fēy",
+   "idx": 44
+  },
+  {
+   "page": 540,
+   "position": 13,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chô",
+   "rr": "chǒ",
+   "idx": 45
+  },
+  {
+   "page": 540,
+   "position": 14,
+   "field": "M",
+   "kind": "replace",
+   "v1": "xĭm",
+   "rr": "xīm",
+   "idx": 47
+  },
+  {
+   "page": 540,
+   "position": 15,
+   "field": "M",
+   "kind": "replace",
+   "v1": "tǒ",
+   "rr": "sǒ",
+   "idx": 49
+  },
+  {
+   "page": 540,
+   "position": 16,
+   "field": "M",
+   "kind": "replace",
+   "v1": "guien",
+   "rr": "quièn",
+   "idx": 51
+  },
+  {
+   "page": 540,
+   "position": 17,
+   "field": "M",
+   "kind": "replace",
+   "v1": "gēg",
+   "rr": "gěy",
+   "idx": 54
+  },
+  {
+   "page": 540,
+   "position": 18,
+   "field": "M",
+   "kind": "replace",
+   "v1": "seg",
+   "rr": "sèg",
+   "idx": 57
+  },
+  {
+   "page": 540,
+   "position": 19,
+   "field": "M",
+   "kind": "replace",
+   "v1": "gō̃",
+   "rr": "gū",
+   "idx": 59
+  },
+  {
+   "page": 540,
+   "position": 20,
+   "field": "M",
+   "kind": "replace",
+   "v1": "huâ",
+   "rr": "hûa",
+   "idx": 61
+  },
+  {
+   "page": 540,
+   "position": 20,
+   "field": "M",
+   "kind": "replace",
+   "v1": "gīn",
+   "rr": "pûn",
+   "idx": 63
+  },
+  {
+   "page": 540,
+   "position": 20,
+   "field": "M",
+   "kind": "replace",
+   "v1": "huâ",
+   "rr": "hûa",
+   "idx": 64
+  },
+  {
+   "page": 540,
+   "position": 21,
+   "field": "M",
+   "kind": "replace",
+   "v1": "sý",
+   "rr": "sy",
+   "idx": 66
+  },
+  {
+   "page": 540,
+   "position": 22,
+   "field": "M",
+   "kind": "replace",
+   "v1": "geg",
+   "rr": "tèg",
+   "idx": 69
+  },
+  {
+   "page": 540,
+   "position": 22,
+   "field": "M",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "ey",
+   "idx": 70
+  },
+  {
+   "page": 540,
+   "position": 0,
+   "field": "M",
+   "kind": "replace",
+   "v1": "",
+   "rr": "con",
+   "idx": 71
+  },
+  {
+   "page": 540,
+   "position": 0,
+   "field": "M",
+   "kind": "replace",
+   "v1": "",
+   "rr": "ay",
+   "idx": 72
+  },
+  {
+   "page": 540,
+   "position": 0,
+   "field": "M",
+   "kind": "replace",
+   "v1": "",
+   "rr": "elomo/o",
+   "idx": 73
+  },
+  {
+   "page": 540,
+   "position": 1,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 0
+  },
+  {
+   "page": 540,
+   "position": 2,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 1
+  },
+  {
+   "page": 540,
+   "position": 3,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 2
+  },
+  {
+   "page": 540,
+   "position": 4,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 3
+  },
+  {
+   "page": 540,
+   "position": 5,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 4
+  },
+  {
+   "page": 540,
+   "position": 6,
+   "field": "R",
+   "kind": "delete",
+   "v1": "a",
+   "rr": "",
+   "idx": 5
+  },
+  {
+   "page": 540,
+   "position": 6,
+   "field": "R",
+   "kind": "delete",
+   "v1": "tu",
+   "rr": "",
+   "idx": 6
+  },
+  {
+   "page": 540,
+   "position": 6,
+   "field": "R",
+   "kind": "delete",
+   "v1": "muger",
+   "rr": "",
+   "idx": 7
+  },
+  {
+   "page": 540,
+   "position": 6,
+   "field": "R",
+   "kind": "delete",
+   "v1": ".",
+   "rr": "",
+   "idx": 8
+  },
+  {
+   "page": 540,
+   "position": 7,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 9
+  },
+  {
+   "page": 540,
+   "position": 8,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 10
+  },
+  {
+   "page": 540,
+   "position": 9,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 11
+  },
+  {
+   "page": 540,
+   "position": 10,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 12
+  },
+  {
+   "page": 540,
+   "position": 11,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 13
+  },
+  {
+   "page": 540,
+   "position": 12,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 14
+  },
+  {
+   "page": 540,
+   "position": 13,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 15
+  },
+  {
+   "page": 540,
+   "position": 14,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 16
+  },
+  {
+   "page": 540,
+   "position": 15,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 17
+  },
+  {
+   "page": 540,
+   "position": 16,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 18
+  },
+  {
+   "page": 540,
+   "position": 17,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 19
+  },
+  {
+   "page": 540,
+   "position": 18,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 20
+  },
+  {
+   "page": 540,
+   "position": 19,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 21
+  },
+  {
+   "page": 540,
+   "position": 20,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 22
+  },
+  {
+   "page": 540,
+   "position": 21,
+   "field": "R",
+   "kind": "delete",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 23
+  },
+  {
+   "page": 540,
+   "position": 22,
+   "field": "R",
+   "kind": "delete",
+   "v1": "error",
+   "rr": "",
+   "idx": 24
+  },
+  {
+   "page": 540,
+   "position": 22,
+   "field": "R",
+   "kind": "delete",
+   "v1": "de",
+   "rr": "",
+   "idx": 25
+  },
+  {
+   "page": 540,
+   "position": 22,
+   "field": "R",
+   "kind": "delete",
+   "v1": "el",
+   "rr": "",
+   "idx": 26
+  },
+  {
+   "page": 540,
+   "position": 22,
+   "field": "R",
+   "kind": "delete",
+   "v1": "amor",
+   "rr": "",
+   "idx": 27
+  },
+  {
+   "page": 540,
+   "position": 22,
+   "field": "R",
+   "kind": "delete",
+   "v1": ".",
+   "rr": "",
+   "idx": 28
+  }
+ ]
+}

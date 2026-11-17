@@ -1,0 +1,612 @@
+{
+ "page": 841,
+ "mV1Count": 66,
+ "mRrCount": 42,
+ "rV1Count": 21,
+ "rRrCount": 2,
+ "diffs": [
+  {
+   "page": 841,
+   "position": 1,
+   "field": "M",
+   "kind": "replace",
+   "v1": "sin",
+   "rr": "tin",
+   "idx": 0
+  },
+  {
+   "page": 841,
+   "position": 1,
+   "field": "M",
+   "kind": "replace",
+   "v1": "soç",
+   "rr": "hos",
+   "idx": 1
+  },
+  {
+   "page": 841,
+   "position": 1,
+   "field": "M",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "chy",
+   "idx": 2
+  },
+  {
+   "page": 841,
+   "position": 2,
+   "field": "M",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "fin",
+   "idx": 5
+  },
+  {
+   "page": 841,
+   "position": 3,
+   "field": "M",
+   "kind": "replace",
+   "v1": "[疑:sin/sim]",
+   "rr": "hos",
+   "idx": 6
+  },
+  {
+   "page": 841,
+   "position": 3,
+   "field": "M",
+   "kind": "replace",
+   "v1": "soç",
+   "rr": "pang",
+   "idx": 7
+  },
+  {
+   "page": 841,
+   "position": 4,
+   "field": "M",
+   "kind": "replace",
+   "v1": "pàng",
+   "rr": "quin",
+   "idx": 8
+  },
+  {
+   "page": 841,
+   "position": 4,
+   "field": "M",
+   "kind": "delete",
+   "v1": ".",
+   "rr": "",
+   "idx": 10
+  },
+  {
+   "page": 841,
+   "position": 5,
+   "field": "M",
+   "kind": "delete",
+   "v1": ".",
+   "rr": "",
+   "idx": 12
+  },
+  {
+   "page": 841,
+   "position": 6,
+   "field": "M",
+   "kind": "delete",
+   "v1": ".",
+   "rr": "",
+   "idx": 14
+  },
+  {
+   "page": 841,
+   "position": 7,
+   "field": "M",
+   "kind": "delete",
+   "v1": ".",
+   "rr": "",
+   "idx": 16
+  },
+  {
+   "page": 841,
+   "position": 8,
+   "field": "M",
+   "kind": "delete",
+   "v1": "[残]",
+   "rr": "",
+   "idx": 17
+  },
+  {
+   "page": 841,
+   "position": 9,
+   "field": "M",
+   "kind": "delete",
+   "v1": ".",
+   "rr": "",
+   "idx": 20
+  },
+  {
+   "page": 841,
+   "position": 11,
+   "field": "M",
+   "kind": "delete",
+   "v1": ".",
+   "rr": "",
+   "idx": 23
+  },
+  {
+   "page": 841,
+   "position": 12,
+   "field": "M",
+   "kind": "replace",
+   "v1": ",pàng",
+   "rr": "pang",
+   "idx": 25
+  },
+  {
+   "page": 841,
+   "position": 12,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cuay:",
+   "rr": "cuay",
+   "idx": 26
+  },
+  {
+   "page": 841,
+   "position": 12,
+   "field": "M",
+   "kind": "replace",
+   "v1": ":",
+   "rr": "gin",
+   "idx": 27
+  },
+  {
+   "page": 841,
+   "position": 13,
+   "field": "M",
+   "kind": "replace",
+   "v1": "pàng",
+   "rr": "pang",
+   "idx": 29
+  },
+  {
+   "page": 841,
+   "position": 13,
+   "field": "M",
+   "kind": "replace",
+   "v1": "quin:",
+   "rr": "quin",
+   "idx": 30
+  },
+  {
+   "page": 841,
+   "position": 13,
+   "field": "M",
+   "kind": "replace",
+   "v1": ":",
+   "rr": "me",
+   "idx": 31
+  },
+  {
+   "page": 841,
+   "position": 14,
+   "field": "M",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "pang",
+   "idx": 33
+  },
+  {
+   "page": 841,
+   "position": 14,
+   "field": "M",
+   "kind": "replace",
+   "v1": "pàng",
+   "rr": "me",
+   "idx": 34
+  },
+  {
+   "page": 841,
+   "position": 14,
+   "field": "M",
+   "kind": "replace",
+   "v1": "me:",
+   "rr": "chin",
+   "idx": 35
+  },
+  {
+   "page": 841,
+   "position": 14,
+   "field": "M",
+   "kind": "replace",
+   "v1": ":",
+   "rr": "pang",
+   "idx": 36
+  },
+  {
+   "page": 841,
+   "position": 15,
+   "field": "M",
+   "kind": "replace",
+   "v1": "pàng",
+   "rr": "pang",
+   "idx": 38
+  },
+  {
+   "page": 841,
+   "position": 15,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cuay:",
+   "rr": "cuay",
+   "idx": 40
+  },
+  {
+   "page": 841,
+   "position": 15,
+   "field": "M",
+   "kind": "replace",
+   "v1": ":",
+   "rr": "queng",
+   "idx": 41
+  },
+  {
+   "page": 841,
+   "position": 16,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cuay:",
+   "rr": "cuay",
+   "idx": 43
+  },
+  {
+   "page": 841,
+   "position": 17,
+   "field": "M",
+   "kind": "replace",
+   "v1": "pàng",
+   "rr": "pang",
+   "idx": 44
+  },
+  {
+   "page": 841,
+   "position": 17,
+   "field": "M",
+   "kind": "replace",
+   "v1": "cha:",
+   "rr": "cha",
+   "idx": 45
+  },
+  {
+   "page": 841,
+   "position": 18,
+   "field": "M",
+   "kind": "replace",
+   "v1": "pàng",
+   "rr": "pang",
+   "idx": 46
+  },
+  {
+   "page": 841,
+   "position": 18,
+   "field": "M",
+   "kind": "replace",
+   "v1": ",",
+   "rr": "chien",
+   "idx": 49
+  },
+  {
+   "page": 841,
+   "position": 19,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chier",
+   "rr": "chiog",
+   "idx": 50
+  },
+  {
+   "page": 841,
+   "position": 19,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chioç:",
+   "rr": "quin",
+   "idx": 51
+  },
+  {
+   "page": 841,
+   "position": 20,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chier",
+   "rr": "chong",
+   "idx": 52
+  },
+  {
+   "page": 841,
+   "position": 20,
+   "field": "M",
+   "kind": "replace",
+   "v1": "quin:",
+   "rr": "chong",
+   "idx": 53
+  },
+  {
+   "page": 841,
+   "position": 20,
+   "field": "M",
+   "kind": "replace",
+   "v1": ":",
+   "rr": "chui",
+   "idx": 54
+  },
+  {
+   "page": 841,
+   "position": 21,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chur:",
+   "rr": "chui",
+   "idx": 57
+  },
+  {
+   "page": 841,
+   "position": 21,
+   "field": "M",
+   "kind": "replace",
+   "v1": ";",
+   "rr": "",
+   "idx": 58
+  },
+  {
+   "page": 841,
+   "position": 21,
+   "field": "M",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "",
+   "idx": 59
+  },
+  {
+   "page": 841,
+   "position": 21,
+   "field": "M",
+   "kind": "replace",
+   "v1": "en",
+   "rr": "",
+   "idx": 60
+  },
+  {
+   "page": 841,
+   "position": 21,
+   "field": "M",
+   "kind": "replace",
+   "v1": "un",
+   "rr": "",
+   "idx": 61
+  },
+  {
+   "page": 841,
+   "position": 21,
+   "field": "M",
+   "kind": "replace",
+   "v1": "momento",
+   "rr": "",
+   "idx": 62
+  },
+  {
+   "page": 841,
+   "position": 21,
+   "field": "M",
+   "kind": "replace",
+   "v1": ".",
+   "rr": "",
+   "idx": 63
+  },
+  {
+   "page": 841,
+   "position": 21,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chong",
+   "rr": "",
+   "idx": 64
+  },
+  {
+   "page": 841,
+   "position": 21,
+   "field": "M",
+   "kind": "replace",
+   "v1": "chong",
+   "rr": "",
+   "idx": 65
+  },
+  {
+   "page": 841,
+   "position": 1,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "chong",
+   "idx": 0
+  },
+  {
+   "page": 841,
+   "position": 2,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "chong",
+   "idx": 1
+  },
+  {
+   "page": 841,
+   "position": 3,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 2
+  },
+  {
+   "page": 841,
+   "position": 4,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 3
+  },
+  {
+   "page": 841,
+   "position": 5,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 4
+  },
+  {
+   "page": 841,
+   "position": 6,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 5
+  },
+  {
+   "page": 841,
+   "position": 7,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 6
+  },
+  {
+   "page": 841,
+   "position": 8,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 7
+  },
+  {
+   "page": 841,
+   "position": 9,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 8
+  },
+  {
+   "page": 841,
+   "position": 10,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 9
+  },
+  {
+   "page": 841,
+   "position": 11,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 10
+  },
+  {
+   "page": 841,
+   "position": 12,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 11
+  },
+  {
+   "page": 841,
+   "position": 13,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 12
+  },
+  {
+   "page": 841,
+   "position": 14,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 13
+  },
+  {
+   "page": 841,
+   "position": 15,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 14
+  },
+  {
+   "page": 841,
+   "position": 16,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 15
+  },
+  {
+   "page": 841,
+   "position": 17,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 16
+  },
+  {
+   "page": 841,
+   "position": 18,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 17
+  },
+  {
+   "page": 841,
+   "position": 19,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 18
+  },
+  {
+   "page": 841,
+   "position": 20,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 19
+  },
+  {
+   "page": 841,
+   "position": 21,
+   "field": "R",
+   "kind": "replace",
+   "v1": "[空]",
+   "rr": "",
+   "idx": 20
+  }
+ ]
+}

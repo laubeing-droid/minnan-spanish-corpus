@@ -1,0 +1,335 @@
+{
+ "protocol": "ADK_V1",
+ "page": 270,
+ "items": [
+  {
+   "position": 5,
+   "field": "source_R",
+   "kind": "fv初始",
+   "v1": "fǔn",
+   "rr": ""
+  },
+  {
+   "position": 22,
+   "field": "source_M",
+   "kind": "fv初始",
+   "v1": "xiǎng vȳ",
+   "rr": ""
+  },
+  {
+   "position": 22,
+   "field": "source_R",
+   "kind": "fv初始",
+   "v1": "yāng vȳ",
+   "rr": ""
+  },
+  {
+   "position": 1,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "Quiaû",
+   "rr": "čiāu"
+  },
+  {
+   "position": 1,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "chiǖ",
+   "rr": "chȳ"
+  },
+  {
+   "position": 3,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "pierchiù",
+   "rr": "iāuyò"
+  },
+  {
+   "position": 3,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "jit chǐn",
+   "rr": "yàu"
+  },
+  {
+   "position": 4,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "iàu: yó.",
+   "rr": "pūn"
+  },
+  {
+   "position": 4,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "yaǔ",
+   "rr": "fùn"
+  },
+  {
+   "position": 5,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "pun",
+   "rr": "zāu"
+  },
+  {
+   "position": 5,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "fǔn",
+   "rr": "tsìn"
+  },
+  {
+   "position": 6,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "Lau.",
+   "rr": "chiàⁿlâng"
+  },
+  {
+   "position": 6,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "lên",
+   "rr": "chêng"
+  },
+  {
+   "position": 7,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "chià̃ lâng",
+   "rr": "zūn"
+  },
+  {
+   "position": 7,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "chěng",
+   "rr": "zūn"
+  },
+  {
+   "position": 8,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "chut",
+   "rr": "sōanchiàⁿ"
+  },
+  {
+   "position": 8,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "chūn",
+   "rr": "siēnchhèng"
+  },
+  {
+   "position": 9,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "soānchià̃.",
+   "rr": "sōan"
+  },
+  {
+   "position": 9,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "siěn chěng",
+   "rr": "sièn"
+  },
+  {
+   "position": 10,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "soān.",
+   "rr": "chió"
+  },
+  {
+   "position": 10,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "siěn",
+   "rr": "chiàu"
+  },
+  {
+   "position": 11,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "chió",
+   "rr": "khe"
+  },
+  {
+   "position": 11,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "chiàu",
+   "rr": "que"
+  },
+  {
+   "position": 12,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "que",
+   "rr": "pīn"
+  },
+  {
+   "position": 12,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "que",
+   "rr": "pièn"
+  },
+  {
+   "position": 13,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "pín",
+   "rr": "pāychiù"
+  },
+  {
+   "position": 13,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "piěn",
+   "rr": "pàychhīn"
+  },
+  {
+   "position": 14,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "pāychiù",
+   "rr": "chiàⁿlâng"
+  },
+  {
+   "position": 14,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "pây chǐn",
+   "rr": "chhěngjīn"
+  },
+  {
+   "position": 15,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "chià̃ lâng",
+   "rr": "chiàⁿchiù"
+  },
+  {
+   "position": 15,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "chěng jīn",
+   "rr": "chhěngchhìn"
+  },
+  {
+   "position": 16,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "chià̃ chiù",
+   "rr": "chiàⁿchīn"
+  },
+  {
+   "position": 16,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "chěng chīn",
+   "rr": "chhěngchhīn"
+  },
+  {
+   "position": 17,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "chià̃ chīn",
+   "rr": "chòchúlâng"
+  },
+  {
+   "position": 17,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "chěng chīn",
+   "rr": "chōchùzīn"
+  },
+  {
+   "position": 18,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "chò chū lâng",
+   "rr": "iāuiû"
+  },
+  {
+   "position": 18,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "chō chǔ jin",
+   "rr": "yàuyên"
+  },
+  {
+   "position": 19,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "iaū iū",
+   "rr": "lāum̄ūa"
+  },
+  {
+   "position": 19,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "yaù yeû",
+   "rr": "lěnpūtây"
+  },
+  {
+   "position": 20,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "laū mí xâ",
+   "rr": "xiāngthiēnē"
+  },
+  {
+   "position": 20,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "lên pīn tāy",
+   "rr": "yāngthiēnhià"
+  },
+  {
+   "position": 21,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "xiǎng tien è.",
+   "rr": "xiāngvī"
+  },
+  {
+   "position": 21,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "yāng tiěn hiā",
+   "rr": "yāngvī"
+  },
+  {
+   "position": 22,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "xiǎng vȳ",
+   "rr": "siāchiù"
+  },
+  {
+   "position": 22,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "yāng vȳ",
+   "rr": "siēchìn"
+  },
+  {
+   "position": 23,
+   "field": "M",
+   "kind": "字母差",
+   "v1": "sià chiù",
+   "rr": "iēnsiâ"
+  },
+  {
+   "position": 23,
+   "field": "R",
+   "kind": "字母差",
+   "v1": "siē chǐn",
+   "rr": "yènsȳ"
+  }
+ ]
+}
