@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """修复批一键落地驱动器（硬刹车 #12 的管线化）。
 
-用法：python literature/tools/seal_and_verify.py [--source REPAIR_BATCH_A_V4.json]
+用法：python literature/tools/seal_and_verify.py [--source REPAIR_BATCH_A_V4.json] [--pages 0030,0031]
 
 流程：
   1. 从修复批报告读脏页（默认 REPAIR_BATCH_A_V4.json 的 applied[].page）；
@@ -25,12 +25,19 @@ args = sys.argv[1:]
 source = M2 / "collision_mr" / "REPAIR_BATCH_A_V4.json"
 if "--source" in args:
     source = Path(args[args.index("--source") + 1])
+if "--source" in args or "--pages" not in args:
+    rep = json.loads(source.read_text(encoding="utf-8"))
+    if "status" in rep and rep["status"] != "READY_FOR_SEAL":
+        print(json.dumps({"verdict": "FAIL", "reason": "source_not_ready", "status": rep["status"]}, ensure_ascii=False))
+        sys.exit(1)
 if "--pages" in args:
     pages = sorted({int(x) for x in args[args.index("--pages") + 1].split(",")})
 else:
-    rep = json.loads(source.read_text(encoding="utf-8"))
     pages = sorted({int(a["page"]) for a in rep.get("applied", [])})
     # 页集覆盖：显式脏页（如 M3 两栏重构新增页）可经 --pages 注入，默认取修复批账
+if not pages:
+    print(json.dumps({"verdict": "NO_OP", "reason": "no_pages"}, ensure_ascii=False))
+    sys.exit(1)
 print("[seal] 修复批脏页:", len(pages))
 
 # 1. 逐页重封（存量非规范调标页单页跳过；其余 commit 错误判 FAIL 不与调标延迟混类）

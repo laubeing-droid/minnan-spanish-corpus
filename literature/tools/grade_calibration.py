@@ -10,6 +10,7 @@ v2 修复（Codex RSI 提案，2026-11-17 审批）：
   - 汉字虚假通过：soup() 曾把汉字删成空串致任意答案含 [未答] 皆过；cropD 改 CJK 精确比对
   - 题数口径：判级真值/门槛全部读自封存标准（core 9 条、≥8/9 且汉字 2/2），不再硬编码
   - 真值核实后冻结：y0 段 4 行降级排除（f/t/Z 三形混淆族等），排除行不评分只记录
+  - 兼容原提示词的 cropD_hanzi、保留鼻尾 ŋ；核心题数不符时返回 2 且不判卷
 """
 import json
 import re
@@ -23,13 +24,18 @@ STD = TOOLS.parent / "workspace_m2_dhs834" / "collision_mr" / "calibration" / "C
 def soup(s: str) -> str:
     s = unicodedata.normalize("NFD", s or "")
     s = "".join(ch for ch in s if not unicodedata.combining(ch)).replace("ⁿ", "n")
-    return re.sub(r"[^a-z0-9]", "", s.lower())
+    return "".join(ch for ch in s.lower() if ch.isalnum())
 
 def cjk(s: str) -> str:
     return re.sub(r"\s+", "", s or "")
 
+def core_count(std):
+    return sum(bool(line.get("core")) and not line.get("hard")
+               for crop in std["crops"].values() for line in crop["lines"])
+
 def selftest():
-    cases = json.loads(STD.read_text(encoding="utf-8")).get("selftest", [])
+    std = json.loads(STD.read_text(encoding="utf-8"))
+    cases = std.get("selftest", [])
     ok = 0
     for c in cases:
         got_pass = cjk(c["got"]) == cjk(c["truth"])
@@ -37,18 +43,29 @@ def selftest():
         r = "PASS" if got_pass == expect_pass else "判卷器自身错误"
         print("  selftest [%s] -> %s" % (c["case"], r))
         ok += r == "PASS"
-    print("selftest: %d/%d" % (ok, len(cases)))
-    return ok == len(cases)
+    checks = [("ŋ 不得丢失", soup("Pēŋ") != soup("Pe")),
+              ("核心题数与标准一致", core_count(std) == std["grading"]["coreCount"])]
+    for name, passed in checks:
+        print("  selftest [%s] -> %s" % (name, "PASS" if passed else "判卷标准或程序错误"))
+        ok += passed
+    total = len(cases) + len(checks)
+    print("selftest: %d/%d" % (ok, total))
+    return ok == total
 
 def main(answers_path: Path) -> int:
     std = json.loads(STD.read_text(encoding="utf-8"))
+    count = core_count(std)
+    expected = std["grading"]["coreCount"]
+    if count != expected:
+        print("判卷标准无效：核心题标记 %d 条，标准要求 %d 条；未判卷。" % (count, expected))
+        return 2
     ans = json.loads(answers_path.read_text(encoding="utf-8"))
 
     core_total = core_pass = 0
     rows = []
     hard_rows = []
     for crop, spec in std["crops"].items():
-        got = ans.get(crop) or []
+        got = (ans.get("cropD_hanzi", ans.get(crop)) if crop == "cropD" else ans.get(crop)) or []
         cjk_mode = spec.get("compare") == "CJK_EXACT"
         for ln in spec["lines"]:
             idx = ln["idx"]
@@ -76,7 +93,7 @@ def main(answers_path: Path) -> int:
     print()
     print("核心题： %d/%d 通过（冻结门槛：≥%d/%d 且汉字 %d/%d）"
           % (core_pass, core_total, std["grading"]["coreCount"] - 1, std["grading"]["coreCount"], hanzi_pass, len(hanzi)))
-    gate = core_pass >= 8 and core_total == std["grading"]["coreCount"] and hanzi_pass == len(hanzi)
+    gate = core_pass >= 8 and core_total == std["grading"]["coreCount"] and len(hanzi) == 2 and hanzi_pass == 2
     print("校准结论：", "通过——可执行 M1" if gate else "未通过——不得执行 M1")
     if hard_rows:
         print("难题试金（不入门槛）：")

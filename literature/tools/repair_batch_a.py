@@ -1,130 +1,361 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""批 A 修复器 v4：判决行直接对封存件现值应用（不经队列中转）。
-- 陈旧自检：soup(现值)==soup(ink) 跳过（含 p0257 等已修页自动去重）
-- 两栏版式页（0030-0040）剥离批 B
-- 音系门禁：M 栏 ink 不得带 f/v/w/x 声母；R 栏不得带 v 声母（v 字形疑书写习惯类，照录不修）
-- 合成 raw 输出；重封由主会话跑 commit 管线
+"""按冻结队列裁决生成修复 raw：--pages 0041,0042，单批最多 20 页。
+
+输出独立批次账；重封使用 seal_and_verify.py --source <批次账>。
+封存件是比较基准；不覆盖已有未封存 raw，不修改封存件或队列。
 """
+import argparse
+import hashlib
 import json
 import re
 import unicodedata
+from collections import Counter, defaultdict
+from datetime import datetime, timezone
 from pathlib import Path
-from collections import Counter
 
 M2 = Path("literature/workspace_m2_dhs834")
-ADK = M2 / "collision_mr" / "adk"
+CD = M2 / "collision_mr"
+ADK = CD / "adk"
+RAW = M2 / "raw_blind"
+FREEZE = Path("codex_M1_adk_queue_freeze.json")
+LEDGER = CD / "ADK_ADJUDICATION_LEDGER.json"
+ALLOWED = {"T00 (無標號)", "T01 (升斜)", "T02 (降斜)", "T03 (尖頂帽)", "T04 (凹角)",
+           "T05 (平橫)", "T06/T07 (交叉入聲號)", "T99 (污損難辨)"}
+FIELDS = ("source_L", "source_H", "source_M", "source_R", "tone_marks_M", "tone_marks_R")
+FIELD_MAP = {"M": "source_M", "R": "source_R", "source_M": "source_M", "source_R": "source_R"}
 
-def soup(s: str) -> str:
-    s = unicodedata.normalize("NFD", s or "")
-    s = "".join(ch for ch in s if not unicodedata.combining(ch)).replace("ⁿ", "n")
-    return re.sub(r"[^a-z0-9]", "", s.lower())
 
-def strip_marks(s: str) -> str:
-    s = unicodedata.normalize("NFD", s or "")
-    return "".join(ch for ch in s if not unicodedata.combining(ch))
+def soup(s):
+    s = unicodedata.normalize("NFD", s or "").replace("ⁿ", "n")
+    return "".join(c for c in s.lower() if (c.isascii() and c.isalnum()) or
+                   unicodedata.name(c, "").startswith("LATIN "))
 
-def synth_raw(pk4, entries):
-    by_pos = {int(e.get("position") or 0): e for e in entries}
-    return {"pages": [{"pdf_page": int(pk4), "historical_folio": "", "page_header": "",
-                       "page_footer_printed": "", "page_footer_handwritten": "",
-                       "entries": sorted(by_pos.values(), key=lambda x: int(x.get("position") or 0))}]}
 
-# Phase 0: 回滚上一轮（v3/v4 的脏页）——从封存件重新合成
-prev = json.loads((M2 / "collision_mr" / "REPAIR_BATCH_A_V4.json").read_text(encoding="utf-8"))
-touched = sorted({int(a["page"]) for a in prev.get("applied", [])} |
-                 {int(p) for p in prev.get("dirtyPages", []) if isinstance(p, int)})
-for pg in touched:
-    pk4 = "%04d" % pg
-    sealed = json.loads((M2 / ("blind_read_p" + pk4 + ".json")).read_text(encoding="utf-8")).get("entries", [])
-    (M2 / "raw_blind" / ("raw_part_p" + pk4 + ".json")).write_bytes(
-        json.dumps(synth_raw(pk4, sealed), ensure_ascii=False, indent=1).encode("utf-8"))
-print("Phase 0 回滚:", len(touched), "页")
+def identity(row):
+    if not isinstance(row, dict) or type(row.get("position")) is not int:
+        return None
+    if not all(isinstance(row.get(k), str) for k in ("field", "v1", "rr")):
+        return None
+    return (row["position"], row["field"], row["v1"], row["rr"])
 
-applied = []
-deferred = []
-n_noink = n_equal = n_noentry = n_stale_drift = 0
-dirty = {}
-batch_b_pages = set()
-batch_b_rows = []
 
-for vf in sorted(ADK.glob("adk_verdict_p*.json")):
-    pk4 = vf.stem.replace("adk_verdict_p", "")
-    pg = int(pk4)
-    sealed = json.loads((M2 / ("blind_read_p" + pk4 + ".json")).read_text(encoding="utf-8")).get("entries", [])
-    by_pos = {int(e.get("position") or 0): e for e in sealed}
+def verify_frozen(frozen):
+    records = {row["path"]: row for row in frozen["files"]}
+    queues = {path.as_posix(): path for path in ADK.glob("adk_p*.json")}
+    if (len(records) != len(frozen["files"]) or len(queues) != frozen["queue_count"] or
+            set(queues) != set(records)):
+        raise SystemExit("冻结队列页集或数量不匹配，未修改任何 raw")
+    for name, path in queues.items():
+        data = path.read_bytes()
+        record = records[name]
+        if len(data) != record["bytes"] or hashlib.sha256(data).hexdigest() != record["sha256"]:
+            raise SystemExit(f"冻结队列不匹配：{path.name}，未修改任何 raw")
+    return records
+
+
+def by_position(entries):
+    result = {e["position"]: e for e in entries}
+    if len(result) != len(entries):
+        raise ValueError("条目 position 重复")
+    return result
+
+
+def same_entries(sealed, raw):
+    a, b = by_position(sealed), by_position(raw)
+    if a.keys() != b.keys():
+        return False
+    return all((a[p].get(f) or ([] if f.startswith("tone_marks_") else "")) ==
+               (b[p].get(f) or ([] if f.startswith("tone_marks_") else ""))
+               for p in a for f in FIELDS)
+
+
+def nonstandard_tones(entries):
+    return any(str(t).strip() not in ALLOWED for e in entries
+               for f in ("tone_marks_M", "tone_marks_R") for t in (e.get(f) or []))
+
+
+def illegal_initial(ink, field):
+    text = unicodedata.normalize("NFD", ink).lower()
+    text = "".join(c for c in text if not unicodedata.combining(c))
+    syllables = re.findall(r"[^\W\d_]+", text, flags=re.UNICODE)
+    forbidden = "fvwx" if field == "source_M" else "v"
+    return any(s[0] in forbidden for s in syllables)
+
+
+def main():
+    parser = argparse.ArgumentParser(description="按冻结判决分批生成 raw；不直接修改封存件")
+    parser.add_argument("--pages", required=True, help="逗号分隔 PDF 页码，最多 20 页")
+    args = parser.parse_args()
     try:
-        vdata = json.loads(vf.read_text(encoding="utf-8"))
-    except json.JSONDecodeError:
-        continue
-    for v in vdata.get("verdicts", []):
-        pos = int(v.get("position") or 0)
-        fld = str(v.get("field") or "")
-        ink = (v.get("ink") or "").strip()
-        vd = v.get("verdict") or ""
-        if not ink or vd == "墨迹不明":
-            n_noink += 1
-            continue
-        if pg in range(30, 41):
-            batch_b_pages.add(pg)
-            batch_b_rows.append({"page": pg, "position": pos, "field": fld,
-                                 "v1": v.get("v1"), "rr": v.get("rr"), "ink": ink, "verdict": vd})
-            continue
-        e = by_pos.get(pos)
-        if e is None or fld not in e:
-            n_noentry += 1
-            continue
-        cur = str(e.get(fld) or "")
-        si, sv = soup(ink), soup(cur)
-        stale_drift = False
-        sv1 = soup(v.get("v1"))
-        if si == sv:
-            n_equal += 1
-            continue
-        if sv != sv1:
-            stale_drift = True  # 现值与判决时 V1 不同（先前已修或他修）
-        fld_short = "M" if fld.endswith("M") else ("R" if fld.endswith("R") else "")
-        st = strip_marks(ink).lower()
-        legal = (st[0] not in "fvwx") if (fld_short == "M" and st) else \
-                (st[0] != "v") if (fld_short == "R" and st) else True
-        if not legal:
-            deferred.append({"page": pg, "position": pos, "field": fld, "v1": v.get("v1"),
-                             "ink": ink, "verdict": vd,
-                             "reason": "ink 音系非法（f/v/w/x/v 声母）——疑书写习惯类照录或误读，不自动改"})
-            continue
-        e[fld] = ink
-        dirty.setdefault(pk4, None)
-        applied.append({"page": pg, "position": pos, "field": fld, "old": cur, "new": ink,
-                        "verdict": vd, "staleDrift": stale_drift})
-        if stale_drift:
-            n_stale_drift += 1
+        pages = sorted({int(x.strip()) for x in args.pages.split(",")})
+    except ValueError:
+        parser.error("--pages 必须是逗号分隔的整数")
+    if not pages or len(pages) > 20 or any(p < 30 or p > 1140 for p in pages):
+        parser.error("--pages 需为 0030–1140 内最多 20 页")
 
-for pk4 in dirty:
-    sealed = json.loads((M2 / ("blind_read_p" + pk4 + ".json")).read_text(encoding="utf-8")).get("entries", [])
-    (M2 / "raw_blind" / ("raw_part_p" + pk4 + ".json")).write_bytes(
-        json.dumps(synth_raw(pk4, sealed), ensure_ascii=False, indent=1).encode("utf-8"))
+    frozen = json.loads(FREEZE.read_text(encoding="utf-8"))
+    manifests = verify_frozen(frozen)
+    ledger = json.loads(LEDGER.read_text(encoding="utf-8"))
+    if ledger.get("protocol") != "ADK_ADJUDICATION_LEDGER_V1" or not isinstance(ledger.get("rows"), list):
+        raise SystemExit("先运行收集器生成完整裁决账；未修改任何 raw")
+    selected_rows = defaultdict(list)
+    for row in ledger["rows"]:
+        if row.get("page") in pages:
+            selected_rows[row["page"]].append(row)
+    queues = {}
+    missing = []
+    for pg in pages:
+        pk = f"{pg:04d}"
+        q = ADK / f"adk_p{pk}.json"
+        vf = ADK / f"adk_verdict_p{pk}.json"
+        if not q.exists():
+            missing.append({"page": pg, "reason": "缺任务文件"})
+            continue
+        record = manifests.get(q.as_posix())
+        data = q.read_bytes()
+        if not record or len(data) != record["bytes"] or hashlib.sha256(data).hexdigest() != record["sha256"]:
+            raise SystemExit(f"冻结队列不匹配：p{pk}，未修改任何 raw")
+        queue = json.loads(data.decode("utf-8"))
+        if queue.get("page") != pg or not isinstance(queue.get("items"), list):
+            raise SystemExit(f"冻结队列格式错误：p{pk}，未修改任何 raw")
+        if not vf.exists():
+            missing.append({"page": pg, "reason": "缺判决文件"})
+            continue
+        queues[pg] = (queue["items"], vf)
 
-cls = Counter(a["verdict"] for a in applied)
-out = {
-    "protocol": "REPAIR_BATCH_A_V4",
-    "rolledBackPrev": len(prev.get("dirtyPages", [])),
-    "appliedCount": len(applied),
-    "pagesTouched": len(dirty),
-    "staleDriftApplied": n_stale_drift,
-    "verdictBreakdown": dict(cls),
-    "deferredCount": len(deferred),
-    "deferred": deferred[:1000],
-    "skipped": {"ink空/不明": n_noink, "字母汤等价(含已修页自动去重)": n_equal, "条目缺位": n_noentry},
-    "batchB": {"pages": sorted(batch_b_pages), "rows": batch_b_rows},
-    "applied": applied,
-}
-Path(M2 / "collision_mr" / "REPAIR_BATCH_A_V4.json").write_text(
-    json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
-print("Phase 3 应用:", len(applied), "条 /", len(dirty), "页 | 判定构成:", dict(cls), "| 陈旧漂移应用:", n_stale_drift)
-print("门禁延迟:", len(deferred), "| 两栏页剥离:", len(batch_b_rows), "行 /", len(batch_b_pages), "页")
-print("跳过: 墨迹空", n_noink, "| 汤等价(含已修自动去重)", n_equal, "| 条目缺位", n_noentry)
-print("修复样本 10:")
-for a in applied[:10]:
-    print("  p%04d pos%s %s: %r -> %r [%s]" % (a["page"], a["position"], a["field"], a["old"], a["new"], a["verdict"]))
-print()
-print("下一步（重封+门禁+强制复扫一键）：python literature/tools/seal_and_verify.py")
+    applied, deferred, batch_b_rows, problems = [], [], [], []
+    dirty = {}
+    skipped = Counter()
+    illegal_by_page = Counter()
+    visited = []
+    for pg, (items, vf) in queues.items():
+        visited.append(pg)
+        pk = f"{pg:04d}"
+        try:
+            receipt = json.loads(vf.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as exc:
+            problems.append({"page": pg, "reason": f"判决 JSON 错误：{exc.msg}"})
+            continue
+        if not isinstance(receipt, dict) or receipt.get("page") != pg or not isinstance(receipt.get("verdicts"), list):
+            problems.append({"page": pg, "reason": "判决格式或页码错误"})
+            continue
+        verdicts = receipt["verdicts"]
+        item_keys = [identity(it) for it in items]
+        verdict_keys = [identity(v) for v in verdicts]
+        item_count = Counter(k for k in item_keys if k is not None)
+        verdict_count = Counter(k for k in verdict_keys if k is not None)
+        item_values = Counter(k[1:] for k in item_keys if k is not None)
+        verdict_values = Counter(k[1:] for k in verdict_keys if k is not None)
+        item_targets = Counter((it["position"], FIELD_MAP.get(it["field"], it["field"])) for it in items
+                               if isinstance(it, dict) and type(it.get("position")) is int and
+                               isinstance(it.get("field"), str))
+        collected_targets = Counter((r.get("position"), FIELD_MAP.get(r.get("field"), r.get("field")))
+                                    for r in selected_rows[pg])
+        if not selected_rows[pg]:
+            continue
+
+        sealed = json.loads((M2 / f"blind_read_p{pk}.json").read_text(encoding="utf-8"))
+        entries = sealed["entries"]
+        raw_path = RAW / f"raw_part_p{pk}.json"
+        if raw_path.exists():
+            raw = json.loads(raw_path.read_text(encoding="utf-8"))
+            raw_pages = raw.get("pages", [])
+            if len(raw_pages) != 1 or raw_pages[0].get("pdf_page") != pg:
+                problems.append({"page": pg, "reason": "现有 raw 页结构不匹配；未覆盖"})
+                continue
+            raw_page = raw_pages[0]
+        else:
+            raw_page = {k: sealed.get(k, "") for k in
+                        ("historical_folio", "page_header", "page_footer_printed", "page_footer_handwritten")}
+            raw_page["pdf_page"] = pg
+            if "layout_mode" in sealed:
+                raw_page["layout_mode"] = sealed["layout_mode"]
+            raw_page["entries"] = json.loads(json.dumps(entries, ensure_ascii=False))
+            raw = {"pages": [raw_page]}
+        try:
+            raw_entries = raw_page["entries"]
+            sealed_pos, raw_pos = by_position(entries), by_position(raw_entries)
+            raw_matches = same_entries(entries, raw_entries)
+        except (KeyError, TypeError, ValueError):
+            problems.append({"page": pg, "reason": "条目结构或 position 无效；未覆盖 raw"})
+            continue
+        tone_problem = nonstandard_tones(entries) or nonstandard_tones(raw_entries)
+
+        def matched_receipt(collected):
+            key = identity(collected)
+            source = collected.get("receipt") or {}
+            index = source.get("index")
+            if (key is None or source.get("file") != vf.as_posix() or type(index) is not int or
+                    not 1 <= index <= len(verdicts)):
+                return None
+            v = verdicts[index - 1]
+            vkey = identity(v)
+            match = source.get("match")
+            exact = (match == "position_and_values" and vkey == key and
+                     item_count[key] == 1 and verdict_count[key] == 1)
+            fallback = (match == "unique_values" and vkey is not None and vkey[1:] == key[1:] and
+                        item_values[key[1:]] == 1 and verdict_values[key[1:]] == 1 and
+                        item_count[key] == 1)
+            if not (exact or fallback) or v.get("verdict") != collected.get("verdict") or v.get("ink") != collected.get("ink"):
+                return None
+            return key, source, v, match
+
+        groups = defaultdict(list)
+        for r in selected_rows[pg]:
+            groups[(r.get("position"), FIELD_MAP.get(r.get("field"), r.get("field")))].append(r)
+        merged = {}
+        if pg not in range(30, 41) and raw_matches and not tone_problem and all(k is not None for k in item_keys):
+            for target, group in groups.items():
+                pos, fld = target
+                if (len(group) < 2 or item_targets[target] != len(group) or
+                        pos not in sealed_pos or pos not in raw_pos or fld not in ("source_M", "source_R") or
+                        fld not in sealed_pos[pos] or fld not in raw_pos[pos]):
+                    continue
+                old = str(sealed_pos[pos].get(fld) or "")
+                matches = [matched_receipt(r) for r in group]
+                if any(m is None for m in matches) or any(r.get("v1") != old for r in group):
+                    continue
+                if len({m[1]["index"] for m in matches}) != len(group):
+                    continue
+                choices = []
+                for r, m in zip(group, matches):
+                    v = m[2]
+                    ink = v.get("ink")
+                    if ink is not None and not isinstance(ink, str):
+                        break
+                    ink = (ink or "").strip()
+                    if v.get("verdict") == "重读对":
+                        rr = r["rr"].strip()
+                        if ink and ink != rr:
+                            break
+                        ink = ink or rr
+                    elif v.get("verdict") != "两皆误":
+                        break
+                    if not ink or "[" in ink or "]" in ink:
+                        break
+                    choices.append(ink)
+                if len(choices) == len(group) and len(set(choices)) == 1 and soup(old) != soup(choices[0]):
+                    merged[target] = group
+
+        for collected in selected_rows[pg]:
+            row = {k: collected.get(k) for k in ("page", "position", "field", "v1", "rr", "verdict", "ink")}
+            matched = matched_receipt(collected)
+            if matched is None:
+                deferred.append({**row, "reason": "收集器回执与冻结任务不匹配或匹配不唯一"})
+                continue
+            key, source, v, match = matched
+            pos, task_field, vd = key[0], key[1], v.get("verdict")
+            fld = FIELD_MAP.get(task_field)
+            if fld is None:
+                deferred.append({**row, "reason": "字段非 source_M/source_R"})
+                continue
+            group = merged.get((pos, fld))
+            if group and collected is not group[0]:
+                continue
+            if (item_targets[(pos, fld)] != 1 or collected_targets[(pos, fld)] != 1) and not group:
+                deferred.append({**row, "reason": "任务或收集账目标重复"})
+                continue
+            if vd in ("V1对", "等价", "墨迹不明"):
+                skipped[vd] += 1
+                continue
+            if v.get("ink") is not None and not isinstance(v.get("ink"), str):
+                deferred.append({**row, "reason": "回执 ink 类型无效"})
+                continue
+            ink = str(v.get("ink") or "").strip()
+            if vd == "重读对":
+                if ink and soup(ink) != soup(row["rr"]):
+                    deferred.append({**row, "reason": "重读对的 ink 与 rr 字母不一致"})
+                    continue
+                ink_source = "ink" if ink else "rr"
+                ink = ink or row["rr"].strip()
+                if not ink:
+                    deferred.append({**row, "reason": "重读对缺少可用 rr"})
+                    continue
+            elif vd == "两皆误" and ink:
+                ink_source = "ink"
+            else:
+                deferred.append({**row, "reason": "无效判决或两皆误缺少 ink"})
+                continue
+            row["ink"] = ink
+            if pg in range(30, 41):
+                batch_b_rows.append(row)
+                continue
+            if tone_problem:
+                deferred.append({**row, "reason": "本页含存量非规范调标；未覆盖 raw"})
+                continue
+            if not raw_matches:
+                deferred.append({**row, "reason": "现有 raw 与封存件不一致；未覆盖未封存工作"})
+                continue
+            if (pos not in sealed_pos or pos not in raw_pos or fld not in sealed_pos[pos] or
+                    fld not in raw_pos[pos]):
+                deferred.append({**row, "reason": "封存件或 raw 缺少目标 position"})
+                continue
+            old = str(sealed_pos[pos].get(fld) or "")
+            if soup(old) == soup(ink):
+                skipped["字母汤等价"] += 1
+                continue
+            if old != row["v1"]:
+                deferred.append({**row, "reason": "封存件现值与任务 v1 漂移；不覆盖后续修正"})
+                continue
+            if illegal_initial(ink, fld):
+                for r in (group or [collected]):
+                    illegal_by_page[pg] += 1
+                    deferred.append({**{k: r.get(k) for k in ("page", "position", "field", "v1", "rr", "verdict", "ink")},
+                                     "receipt": r.get("receipt"), "reason": "音系门禁：至少一个音节声母需人工复核"})
+                if illegal_by_page[pg] > 100:
+                    break
+                continue
+            raw_pos[pos][fld] = ink
+            dirty[pg] = (raw_path, raw)
+            applied.append({"page": pg, "position": pos, "field": fld, "old": old, "new": ink,
+                            "task_field": task_field, "verdict": vd, "ink_source": ink_source, "queue_v1": row["v1"],
+                            "queue_rr": row["rr"], "receipt": source, "match": match,
+                            **({"merged_receipts": [{k: r.get(k) for k in
+                                 ("position", "field", "v1", "rr", "verdict", "ink", "receipt")} for r in group]}
+                               if group else {})})
+        if illegal_by_page[pg] > 100:
+            break
+
+    upgrades = [{"page": p, "phonotacticDeferred": n} for p, n in sorted(illegal_by_page.items()) if n > 100]
+    planned = applied
+    verify_frozen(frozen)
+    stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S%fZ")
+    out_path = CD / f"REPAIR_BATCH_A_{pages[0]:04d}_{pages[-1]:04d}_{stamp}.json"
+    out = {"protocol": "REPAIR_BATCH_A_V4", "selectedPages": pages,
+           "status": "BLOCKED_PHONOTACTIC_DEFERRED" if upgrades else "PENDING_RAW_WRITE",
+           "appliedCount": 0, "pagesTouched": 0, "dirtyPages": [],
+           "deferredCount": len(deferred), "deferred": deferred,
+           "phonotacticDeferredByPage": dict(illegal_by_page), "upgrade": upgrades,
+           "missingPages": missing, "receiptProblems": problems, "skipped": dict(skipped),
+           "unprocessedPages": [p for p in pages if p not in visited],
+           "collectorPending": [r for r in ledger.get("pending", []) if r.get("page") in pages],
+           "collectorUnmatched": [r for r in ledger.get("unmatchedVerdicts", []) if r.get("page") in pages],
+           "batchB": {"pages": sorted({r["page"] for r in batch_b_rows}), "rows": batch_b_rows},
+           "applied": [], "plannedNotWritten": planned}
+    with out_path.open("x", encoding="utf-8", newline="\n") as f:
+        json.dump(out, f, ensure_ascii=False, indent=1)
+        f.write("\n")
+    if upgrades:
+        print(f"升级：单页音系门禁延迟超过 100 条；本批未写 raw；批次账: {out_path}")
+        return 2
+    temp_raw = []
+    for raw_path, raw in dirty.values():
+        temp_path = raw_path.with_name(raw_path.name + f".{stamp}.tmp")
+        temp_path.write_text(json.dumps(raw, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        temp_raw.append((temp_path, raw_path))
+    for temp_path, raw_path in temp_raw:
+        temp_path.replace(raw_path)
+    out.update({"status": "READY_FOR_SEAL", "appliedCount": len(applied),
+                "pagesTouched": len(dirty), "dirtyPages": sorted(dirty),
+                "applied": applied, "plannedNotWritten": []})
+    temp_out = out_path.with_suffix(".tmp")
+    temp_out.write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    temp_out.replace(out_path)
+    print(f"修复批账: {out_path} | 应用 {len(applied)} 条 / {len(dirty)} 页 | 延迟 {len(deferred)} 条")
+    print(f"重封命令：python literature/tools/seal_and_verify.py --source {out_path.as_posix()}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
