@@ -1,0 +1,62 @@
+{
+  "status": "DIAGNOSTIC_NOT_OFFICIAL",
+  "protocol": "codex_M0_zoom_protocol.md",
+  "answer_local_only": "_scratch_p0257/codex_calib_zoom_20261118.json",
+  "answer_sha256": "2e7f6bce333c0488c7e937e048cf8199f54d7395cc80a28807fc1bed3b9e278f",
+  "alignment": "A 图顶部 ante 计入行序；A3/A4/A5 索引 2/3/4；B2/B5/B6/B7 索引 1/4/5/6；D 两行索引 0/1。",
+  "comparison": "仅以已交卷结果对交接清单进行现行 soup/cjk 比较，既有标准与来源冲突未裁定。",
+  "rows": [
+    {
+      "question": "A3",
+      "result": "与交接清单分歧",
+      "limit": "交接清单与旧标准的核心标记或真值冲突"
+    },
+    {
+      "question": "A4",
+      "result": "与交接清单分歧",
+      "limit": "交接清单与旧标准的核心标记或真值冲突"
+    },
+    {
+      "question": "A5",
+      "result": "与交接清单一致"
+    },
+    {
+      "question": "B2",
+      "result": "与交接清单一致"
+    },
+    {
+      "question": "B5",
+      "result": "与交接清单一致"
+    },
+    {
+      "question": "B6",
+      "result": "不可评分：原裁片截断"
+    },
+    {
+      "question": "B7",
+      "result": "与交接清单分歧",
+      "limit": "存在字母分歧；ŋ/ng 比较口径也待核"
+    },
+    {
+      "question": "D1",
+      "result": "与交接清单一致"
+    },
+    {
+      "question": "D2",
+      "result": "与交接清单一致"
+    }
+  ],
+  "visible_rows_matching": 5,
+  "visible_rows_disagreeing": 3,
+  "truncated_rows_not_scorable": 1,
+  "hanzi_matching": 2,
+  "official_grader": "标准核心标记 8 条、声明 9 条；拒绝判卷。",
+  "qualification": "未获得 M0 正式资格；不能据此生产正式裁决。",
+  "limitations": [
+    "原 B6 末段越过原裁片；未按完整行判错",
+    "A3 与旧标准排除裁定冲突，A4 与旧标准 truth 冲突",
+    "B7 的字母本体及 ŋ/ng 口径仍须核",
+    "以现行 soup 剥调号，仅比较其当前字母汤，不代表上置符号得到校定",
+    "一次局部放大试验不足以确定模型效果；继续保留原试卷结果"
+  ]
+}

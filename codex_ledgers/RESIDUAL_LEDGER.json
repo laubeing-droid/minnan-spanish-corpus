@@ -1,7 +1,7 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-17T23:44:56.933071+00:00",
-  "git_head_at_snapshot": "566934fbf2f06f85a3589227a2a839f3532a0a7b",
+  "snapshot_utc": "2026-11-17T23:52:10.040411+00:00",
+  "git_head_at_snapshot": "1d972f49d2e5c487458999e4afd3fab3e33e3924",
   "protocol": "CODEX_RESIDUAL_LEDGER_IN_PROGRESS_V1",
   "scope": "交接时点尚待处理的裁决、校准、复核、互证与释义事项；跨模块计数可重叠，不得简单相加。",
   "sources": {
@@ -15,7 +15,7 @@
     },
     "m0": {
       "path": "codex_M0_fresh_report.md",
-      "sha256": "74fd8301ec02870c21f04562b3e2dcf2e07fb5103b078017b2c11b5f2f2d93e3"
+      "sha256": "2a832f0d2d89fef726389b260ff32694d8c2433a3ba620eedd7db95a8a0b750b"
     },
     "m1": {
       "path": "codex_progress_M1.md",
@@ -96,6 +96,10 @@
     "m6_nonblind_fix_2": {
       "path": "codex_M6_preview/nonblind_gloss_fix_receipt_2.json",
       "sha256": "45aed5b88f4407fd98241f98f27155daee01efb75563889fd97bc74088e78fcf"
+    },
+    "m0_zoom": {
+      "path": "codex_M0_zoom_report.json",
+      "sha256": "77419823de553b6aef2b229c92d06edc132828cda11802983af1a12764faf2c7"
     }
   },
   "m0": {
@@ -110,7 +114,15 @@
       "official_score": null,
       "limitations": "正式标准冲突，模型输出可能相关"
     },
-    "crop_B6": "原裁片右侧截断，完整行不可仅据原卷比较；旧卷成绩仅供诊断"
+    "crop_B6": "原裁片右侧截断，完整行不可仅据原卷比较；旧卷成绩仅供诊断",
+    "zoom_diagnostic": {
+      "visible_rows_matching": 5,
+      "visible_rows_disagreeing": 3,
+      "truncated_rows_not_scorable": 1,
+      "hanzi_matching": 2,
+      "official_score": null,
+      "report": "codex_M0_zoom_report.json"
+    }
   },
   "m1": {
     "queue_pages": 1101,
