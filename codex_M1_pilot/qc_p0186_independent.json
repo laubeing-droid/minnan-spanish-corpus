@@ -1,0 +1,161 @@
+{
+  "page": 186,
+  "method": "仅指定队列项与原始横带，5倍局部；先盲读落盘再对候选，机器复核非人审",
+  "scope_warning": "扫查项是 token；整栏候选尚未读取封存栏；西语注释归栏待核，不能据此自动修复",
+  "items": [
+    {
+      "queue_index": 0,
+      "position": 13,
+      "field": "source_M",
+      "kind": "fv声母",
+      "v1": "vé iá",
+      "rr": "",
+      "scope": "整栏候选：与可见两音节音写行相当，未读取封存栏核实",
+      "verdict": "等价",
+      "ink": "vé ià",
+      "letters": "等价",
+      "tone_mark": "存疑",
+      "visual": "vé ià",
+      "band": "y2_bot",
+      "crop_box_px": [
+        1160,
+        50,
+        1700,
+        520
+      ],
+      "reason": "首字形像 v，照录 v；第二音节上方斜笔方向与 v1 调符不同，暂存疑，不按音系改字。"
+    },
+    {
+      "queue_index": 4,
+      "position": 5,
+      "field": "M",
+      "kind": "稀有韵母:-acon(全库2次)",
+      "v1": "racon",
+      "rr": "",
+      "scope": "扫查词段；可见西语注释，部分跨栏",
+      "verdict": "V1对",
+      "ink": "",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "visual": "raçon",
+      "band": "y1_mid",
+      "crop_box_px": [
+        1160,
+        60,
+        1700,
+        450
+      ],
+      "reason": "可见 sin raçon；c 下笔画与注释位置存疑，不能当完整音写栏。"
+    },
+    {
+      "queue_index": 5,
+      "position": 6,
+      "field": "M",
+      "kind": "稀有韵母:-abraza(全库1次)",
+      "v1": "abraza",
+      "rr": "",
+      "scope": "扫查词段；西语注释跨栏",
+      "verdict": "墨迹不明",
+      "ink": "",
+      "letters": "等价",
+      "tone_mark": "存疑",
+      "visual": "abra[残]",
+      "band": "y1_mid",
+      "crop_box_px": [
+        1160,
+        60,
+        1700,
+        450
+      ],
+      "reason": "注释后半及末笔有浓墨划销，不足以定 z/c 和是否还有末尾字母。"
+    },
+    {
+      "queue_index": 6,
+      "position": 11,
+      "field": "M",
+      "kind": "稀有韵母:-aco(全库1次)",
+      "v1": "braco",
+      "rr": "",
+      "scope": "扫查词段；西语注释跨越栏线",
+      "verdict": "V1对",
+      "ink": "",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "visual": "braço",
+      "band": "y1_mid",
+      "crop_box_px": [
+        1160,
+        900,
+        1700,
+        1224
+      ],
+      "reason": "可见 bra(c/ç)o 的字母主体；c 下笔画是否符号存疑，不能据此认定整栏。"
+    },
+    {
+      "queue_index": 7,
+      "position": 11,
+      "field": "M",
+      "kind": "稀有韵母:-erecho(全库1次)",
+      "v1": "derecho",
+      "rr": "",
+      "scope": "扫查词段；西语注释跨越栏线",
+      "verdict": "V1对",
+      "ink": "",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "visual": "derecho",
+      "band": "y1_mid",
+      "crop_box_px": [
+        1160,
+        900,
+        1700,
+        1224
+      ],
+      "reason": "可见 derecho 的字母形态；其为后接注释，不作音系改写。"
+    },
+    {
+      "queue_index": 8,
+      "position": 12,
+      "field": "M",
+      "kind": "稀有韵母:-izquierdo(全库1次)",
+      "v1": "izquierdo",
+      "rr": "",
+      "scope": "扫查词段；西语注释紧接音写",
+      "verdict": "V1对",
+      "ink": "",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "visual": "izquierdo",
+      "band": "y2_bot",
+      "crop_box_px": [
+        1160,
+        50,
+        1700,
+        520
+      ],
+      "reason": "可见 izquierdo 的字母主体；注释分栏仍需单独核对。"
+    },
+    {
+      "queue_index": 9,
+      "position": 13,
+      "field": "M",
+      "kind": "音系非法声母:v",
+      "v1": "vé",
+      "rr": "",
+      "scope": "扫查词段；可见音写首词",
+      "verdict": "V1对",
+      "ink": "",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "visual": "vé",
+      "band": "y2_bot",
+      "crop_box_px": [
+        1160,
+        50,
+        1700,
+        520
+      ],
+      "reason": "字形为 v 开头的 vé，按墨迹保留 v；不因音系非法改写。"
+    }
+  ]
+}

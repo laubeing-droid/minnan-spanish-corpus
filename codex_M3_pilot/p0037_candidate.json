@@ -1,0 +1,751 @@
+{
+  "protocol": "M3_TWO_COLUMN_INDEPENDENT_PILOT_V1",
+  "page": 37,
+  "status": "CANDIDATE_NOT_APPLIED_REVIEW_REQUIRED",
+  "visible_rows": 48,
+  "layout": "整页左右两套词条栏；每栏视觉行内西语后接音写；左栏自上而下、再右栏自上而下",
+  "image_source": "literature/tiles/01_DHS/page_0037/pdf_0037_300dpi.png",
+  "image_dimensions": [
+    2371,
+    3459
+  ],
+  "locators": [
+    {
+      "position": 1,
+      "page_column": "left",
+      "row_in_column": 1,
+      "approx_original_y": 329
+    },
+    {
+      "position": 2,
+      "page_column": "left",
+      "row_in_column": 2,
+      "approx_original_y": 446
+    },
+    {
+      "position": 3,
+      "page_column": "left",
+      "row_in_column": 3,
+      "approx_original_y": 589
+    },
+    {
+      "position": 4,
+      "page_column": "left",
+      "row_in_column": 4,
+      "approx_original_y": 707
+    },
+    {
+      "position": 5,
+      "page_column": "left",
+      "row_in_column": 5,
+      "approx_original_y": 825
+    },
+    {
+      "position": 6,
+      "page_column": "left",
+      "row_in_column": 6,
+      "approx_original_y": 929
+    },
+    {
+      "position": 7,
+      "page_column": "left",
+      "row_in_column": 7,
+      "approx_original_y": 1040
+    },
+    {
+      "position": 8,
+      "page_column": "left",
+      "row_in_column": 8,
+      "approx_original_y": 1145
+    },
+    {
+      "position": 9,
+      "page_column": "left",
+      "row_in_column": 9,
+      "approx_original_y": 1245
+    },
+    {
+      "position": 10,
+      "page_column": "left",
+      "row_in_column": 10,
+      "approx_original_y": 1373
+    },
+    {
+      "position": 11,
+      "page_column": "left",
+      "row_in_column": 11,
+      "approx_original_y": 1480
+    },
+    {
+      "position": 12,
+      "page_column": "left",
+      "row_in_column": 12,
+      "approx_original_y": 1592
+    },
+    {
+      "position": 13,
+      "page_column": "left",
+      "row_in_column": 13,
+      "approx_original_y": 1718
+    },
+    {
+      "position": 14,
+      "page_column": "left",
+      "row_in_column": 14,
+      "approx_original_y": 1847
+    },
+    {
+      "position": 15,
+      "page_column": "left",
+      "row_in_column": 15,
+      "approx_original_y": 1961
+    },
+    {
+      "position": 16,
+      "page_column": "left",
+      "row_in_column": 16,
+      "approx_original_y": 2083
+    },
+    {
+      "position": 17,
+      "page_column": "left",
+      "row_in_column": 17,
+      "approx_original_y": 2200
+    },
+    {
+      "position": 18,
+      "page_column": "left",
+      "row_in_column": 18,
+      "approx_original_y": 2336
+    },
+    {
+      "position": 19,
+      "page_column": "left",
+      "row_in_column": 19,
+      "approx_original_y": 2466
+    },
+    {
+      "position": 20,
+      "page_column": "left",
+      "row_in_column": 20,
+      "approx_original_y": 2588
+    },
+    {
+      "position": 21,
+      "page_column": "left",
+      "row_in_column": 21,
+      "approx_original_y": 2706
+    },
+    {
+      "position": 22,
+      "page_column": "left",
+      "row_in_column": 22,
+      "approx_original_y": 2841
+    },
+    {
+      "position": 23,
+      "page_column": "left",
+      "row_in_column": 23,
+      "approx_original_y": 2976
+    },
+    {
+      "position": 24,
+      "page_column": "left",
+      "row_in_column": 24,
+      "approx_original_y": 3087
+    },
+    {
+      "position": 25,
+      "page_column": "right",
+      "row_in_column": 1,
+      "approx_original_y": 305
+    },
+    {
+      "position": 26,
+      "page_column": "right",
+      "row_in_column": 2,
+      "approx_original_y": 441
+    },
+    {
+      "position": 27,
+      "page_column": "right",
+      "row_in_column": 3,
+      "approx_original_y": 585
+    },
+    {
+      "position": 28,
+      "page_column": "right",
+      "row_in_column": 4,
+      "approx_original_y": 714
+    },
+    {
+      "position": 29,
+      "page_column": "right",
+      "row_in_column": 5,
+      "approx_original_y": 829
+    },
+    {
+      "position": 30,
+      "page_column": "right",
+      "row_in_column": 6,
+      "approx_original_y": 933
+    },
+    {
+      "position": 31,
+      "page_column": "right",
+      "row_in_column": 7,
+      "approx_original_y": 1050
+    },
+    {
+      "position": 32,
+      "page_column": "right",
+      "row_in_column": 8,
+      "approx_original_y": 1158
+    },
+    {
+      "position": 33,
+      "page_column": "right",
+      "row_in_column": 9,
+      "approx_original_y": 1267
+    },
+    {
+      "position": 34,
+      "page_column": "right",
+      "row_in_column": 10,
+      "approx_original_y": 1387
+    },
+    {
+      "position": 35,
+      "page_column": "right",
+      "row_in_column": 11,
+      "approx_original_y": 1505
+    },
+    {
+      "position": 36,
+      "page_column": "right",
+      "row_in_column": 12,
+      "approx_original_y": 1612
+    },
+    {
+      "position": 37,
+      "page_column": "right",
+      "row_in_column": 13,
+      "approx_original_y": 1724
+    },
+    {
+      "position": 38,
+      "page_column": "right",
+      "row_in_column": 14,
+      "approx_original_y": 1826
+    },
+    {
+      "position": 39,
+      "page_column": "right",
+      "row_in_column": 15,
+      "approx_original_y": 1975
+    },
+    {
+      "position": 40,
+      "page_column": "right",
+      "row_in_column": 16,
+      "approx_original_y": 2097
+    },
+    {
+      "position": 41,
+      "page_column": "right",
+      "row_in_column": 17,
+      "approx_original_y": 2227
+    },
+    {
+      "position": 42,
+      "page_column": "right",
+      "row_in_column": 18,
+      "approx_original_y": 2361
+    },
+    {
+      "position": 43,
+      "page_column": "right",
+      "row_in_column": 19,
+      "approx_original_y": 2485
+    },
+    {
+      "position": 44,
+      "page_column": "right",
+      "row_in_column": 20,
+      "approx_original_y": 2610
+    },
+    {
+      "position": 45,
+      "page_column": "right",
+      "row_in_column": 21,
+      "approx_original_y": 2740
+    },
+    {
+      "position": 46,
+      "page_column": "right",
+      "row_in_column": 22,
+      "approx_original_y": 2872
+    },
+    {
+      "position": 47,
+      "page_column": "right",
+      "row_in_column": 23,
+      "approx_original_y": 2989
+    },
+    {
+      "position": 48,
+      "page_column": "right",
+      "row_in_column": 24,
+      "approx_original_y": 3092
+    }
+  ],
+  "limits": [
+    "原图 y 坐标为约略墨迹峰值，仅用于定位，横带重叠未重复计数",
+    "左右栏同时占据相近高度，左栏末行与右栏首行是不同词条，勿按整页横向合并",
+    "首个左栏音写与本会话先前见过的校准裁片可能重合，独立性不足，暂记残",
+    "跨栏接近处、视觉行数及小字调号须复核",
+    "未单独判录规范调标列表；空列表不代表调号缺失",
+    "不得直接封存"
+  ],
+  "created_utc": "2026-11-17T20:20:17.046887+00:00",
+  "pages": [
+    {
+      "pdf_page": 37,
+      "layout_mode": "DHS_2COL_SUPPLEMENT_NO_HANZI",
+      "entries": [
+        {
+          "position": 1,
+          "source_L": "Abil para engañar",
+          "source_H": "[空]",
+          "source_M": "[残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 2,
+          "source_L": "Abil para engañar",
+          "source_H": "[空]",
+          "source_M": "gāu pi[残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 3,
+          "source_L": "Abil sabio",
+          "source_H": "[空]",
+          "source_M": "gāu",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 4,
+          "source_L": "Abil de claro yngenio",
+          "source_H": "[空]",
+          "source_M": "sím cāy bēng",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 5,
+          "source_L": "Abil exelente",
+          "source_H": "[空]",
+          "source_M": "sīm [残] cūy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 6,
+          "source_L": "Abil de grande abilidad",
+          "source_H": "[空]",
+          "source_M": "cō cháy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 7,
+          "source_L": "Abil presto en aser",
+          "source_H": "[空]",
+          "source_M": "bèng chiēn",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 8,
+          "source_L": "Abil entendido",
+          "source_H": "[空]",
+          "source_M": "quy quī[残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 9,
+          "source_L": "Abil de nada abilidad",
+          "source_H": "[空]",
+          "source_M": "quy [残] quy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 10,
+          "source_L": "Abil yngenioso",
+          "source_H": "[空]",
+          "source_M": "chú chít",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 11,
+          "source_L": "Abil yngenioso",
+          "source_H": "[空]",
+          "source_M": "chú pìn",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 12,
+          "source_L": "Abil luego entiende",
+          "source_H": "[空]",
+          "source_M": "tiàm tāu [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 13,
+          "source_L": "Abilidad [残] falsa",
+          "source_H": "[空]",
+          "source_M": "quy [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 14,
+          "source_L": "Abilidad buena",
+          "source_H": "[空]",
+          "source_M": "tiēn cháu",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 15,
+          "source_L": "Abil despierto",
+          "source_H": "[空]",
+          "source_M": "nè chè",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 16,
+          "source_L": "Abilidad presteza",
+          "source_H": "[空]",
+          "source_M": "chiēn cháy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 17,
+          "source_L": "Abilidad mala",
+          "source_H": "[空]",
+          "source_M": "cūa cà",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 18,
+          "source_L": "Abil de buen [残]",
+          "source_H": "[空]",
+          "source_M": "èng chūn lāng",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 19,
+          "source_L": "Abilidad abentajada",
+          "source_H": "[空]",
+          "source_M": "èng chāy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 20,
+          "source_L": "Abilitase",
+          "source_H": "[空]",
+          "source_M": "èy ēt",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 21,
+          "source_L": "Abismo",
+          "source_H": "[空]",
+          "source_M": "chīm hày",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 22,
+          "source_L": "Abispa",
+          "source_H": "[空]",
+          "source_M": "bȳ páng",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 23,
+          "source_L": "Abito",
+          "source_H": "[空]",
+          "source_M": "hūe ý",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 24,
+          "source_L": "Abito costumbre",
+          "source_H": "[空]",
+          "source_M": "cuā quī",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 25,
+          "source_L": "Abito costumbre",
+          "source_H": "[空]",
+          "source_M": "síp quī",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 26,
+          "source_L": "Abituado algo",
+          "source_H": "[空]",
+          "source_M": "cuān siòg",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 27,
+          "source_L": "Abituado",
+          "source_H": "[空]",
+          "source_M": "síp siòg",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 28,
+          "source_L": "Abituado",
+          "source_H": "[空]",
+          "source_M": "síp cuān",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 29,
+          "source_L": "Ablandarse",
+          "source_H": "[空]",
+          "source_M": "[残]uy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 30,
+          "source_L": "Ablandar a uno",
+          "source_H": "[空]",
+          "source_M": "[残] quít y m[残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 31,
+          "source_L": "Ablandar el animo",
+          "source_H": "[空]",
+          "source_M": "chō [残] xīn",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 32,
+          "source_L": "Abogado en el pleyto",
+          "source_H": "[空]",
+          "source_M": "chù ān",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 33,
+          "source_L": "Abogar ynterseder",
+          "source_H": "[空]",
+          "source_M": "cāng ý [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 34,
+          "source_L": "Abogasia",
+          "source_H": "[空]",
+          "source_M": "chù ān [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 35,
+          "source_L": "Abolengo [残]",
+          "source_H": "[空]",
+          "source_M": "guān tāū",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 36,
+          "source_L": "Abollar",
+          "source_H": "[空]",
+          "source_M": "t[残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 37,
+          "source_L": "Abominar",
+          "source_H": "[空]",
+          "source_M": "bān hūn",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 38,
+          "source_L": "Abominable",
+          "source_H": "[空]",
+          "source_M": "cò òu",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 39,
+          "source_L": "Abominables costumbres",
+          "source_H": "[空]",
+          "source_M": "chīu lōu",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 40,
+          "source_L": "Abonar aprobar",
+          "source_H": "[空]",
+          "source_M": "quō ý hò",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 41,
+          "source_L": "Abonar en hazienda",
+          "source_H": "[空]",
+          "source_M": "xīm gū chī",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 42,
+          "source_L": "Abonar en credito",
+          "source_H": "[空]",
+          "source_M": "chēng [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 43,
+          "source_L": "Abonanzar el tiempo",
+          "source_H": "[空]",
+          "source_M": "hò [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 44,
+          "source_L": "Abonanzar el tiempo escampar",
+          "source_H": "[空]",
+          "source_M": "tī chē",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 45,
+          "source_L": "Abonanzar el mar",
+          "source_H": "[空]",
+          "source_M": "èng [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 46,
+          "source_L": "Abotonarse",
+          "source_H": "[空]",
+          "source_M": "cān cuì",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 47,
+          "source_L": "Abonarse",
+          "source_H": "[空]",
+          "source_M": "quō cīu toā",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 48,
+          "source_L": "Abotonarse los calzones",
+          "source_H": "[空]",
+          "source_M": "hù [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        }
+      ]
+    }
+  ]
+}

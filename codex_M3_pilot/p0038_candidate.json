@@ -1,0 +1,749 @@
+{
+  "protocol": "M3_TWO_COLUMN_INDEPENDENT_PILOT_V1",
+  "page": 38,
+  "status": "CANDIDATE_NOT_APPLIED_REVIEW_REQUIRED",
+  "visible_rows": 48,
+  "layout": "整页左右两套词条栏；每栏视觉行内西语后接音写；左栏自上而下、再右栏自上而下",
+  "image_source": "literature/tiles/01_DHS/page_0038/pdf_0038_300dpi.png",
+  "image_dimensions": [
+    2405,
+    3446
+  ],
+  "locators": [
+    {
+      "position": 1,
+      "page_column": "left",
+      "row_in_column": 1,
+      "approx_original_y": 265
+    },
+    {
+      "position": 2,
+      "page_column": "left",
+      "row_in_column": 2,
+      "approx_original_y": 408
+    },
+    {
+      "position": 3,
+      "page_column": "left",
+      "row_in_column": 3,
+      "approx_original_y": 507
+    },
+    {
+      "position": 4,
+      "page_column": "left",
+      "row_in_column": 4,
+      "approx_original_y": 671
+    },
+    {
+      "position": 5,
+      "page_column": "left",
+      "row_in_column": 5,
+      "approx_original_y": 794
+    },
+    {
+      "position": 6,
+      "page_column": "left",
+      "row_in_column": 6,
+      "approx_original_y": 892
+    },
+    {
+      "position": 7,
+      "page_column": "left",
+      "row_in_column": 7,
+      "approx_original_y": 1018
+    },
+    {
+      "position": 8,
+      "page_column": "left",
+      "row_in_column": 8,
+      "approx_original_y": 1130
+    },
+    {
+      "position": 9,
+      "page_column": "left",
+      "row_in_column": 9,
+      "approx_original_y": 1240
+    },
+    {
+      "position": 10,
+      "page_column": "left",
+      "row_in_column": 10,
+      "approx_original_y": 1352
+    },
+    {
+      "position": 11,
+      "page_column": "left",
+      "row_in_column": 11,
+      "approx_original_y": 1472
+    },
+    {
+      "position": 12,
+      "page_column": "left",
+      "row_in_column": 12,
+      "approx_original_y": 1559
+    },
+    {
+      "position": 13,
+      "page_column": "left",
+      "row_in_column": 13,
+      "approx_original_y": 1685
+    },
+    {
+      "position": 14,
+      "page_column": "left",
+      "row_in_column": 14,
+      "approx_original_y": 1814
+    },
+    {
+      "position": 15,
+      "page_column": "left",
+      "row_in_column": 15,
+      "approx_original_y": 1938
+    },
+    {
+      "position": 16,
+      "page_column": "left",
+      "row_in_column": 16,
+      "approx_original_y": 2055
+    },
+    {
+      "position": 17,
+      "page_column": "left",
+      "row_in_column": 17,
+      "approx_original_y": 2189
+    },
+    {
+      "position": 18,
+      "page_column": "left",
+      "row_in_column": 18,
+      "approx_original_y": 2322
+    },
+    {
+      "position": 19,
+      "page_column": "left",
+      "row_in_column": 19,
+      "approx_original_y": 2447
+    },
+    {
+      "position": 20,
+      "page_column": "left",
+      "row_in_column": 20,
+      "approx_original_y": 2575
+    },
+    {
+      "position": 21,
+      "page_column": "left",
+      "row_in_column": 21,
+      "approx_original_y": 2710
+    },
+    {
+      "position": 22,
+      "page_column": "left",
+      "row_in_column": 22,
+      "approx_original_y": 2838
+    },
+    {
+      "position": 23,
+      "page_column": "left",
+      "row_in_column": 23,
+      "approx_original_y": 2956
+    },
+    {
+      "position": 24,
+      "page_column": "left",
+      "row_in_column": 24,
+      "approx_original_y": 3083
+    },
+    {
+      "position": 25,
+      "page_column": "right",
+      "row_in_column": 1,
+      "approx_original_y": 302
+    },
+    {
+      "position": 26,
+      "page_column": "right",
+      "row_in_column": 2,
+      "approx_original_y": 405
+    },
+    {
+      "position": 27,
+      "page_column": "right",
+      "row_in_column": 3,
+      "approx_original_y": 540
+    },
+    {
+      "position": 28,
+      "page_column": "right",
+      "row_in_column": 4,
+      "approx_original_y": 667
+    },
+    {
+      "position": 29,
+      "page_column": "right",
+      "row_in_column": 5,
+      "approx_original_y": 774
+    },
+    {
+      "position": 30,
+      "page_column": "right",
+      "row_in_column": 6,
+      "approx_original_y": 877
+    },
+    {
+      "position": 31,
+      "page_column": "right",
+      "row_in_column": 7,
+      "approx_original_y": 996
+    },
+    {
+      "position": 32,
+      "page_column": "right",
+      "row_in_column": 8,
+      "approx_original_y": 1097
+    },
+    {
+      "position": 33,
+      "page_column": "right",
+      "row_in_column": 9,
+      "approx_original_y": 1195
+    },
+    {
+      "position": 34,
+      "page_column": "right",
+      "row_in_column": 10,
+      "approx_original_y": 1320
+    },
+    {
+      "position": 35,
+      "page_column": "right",
+      "row_in_column": 11,
+      "approx_original_y": 1434
+    },
+    {
+      "position": 36,
+      "page_column": "right",
+      "row_in_column": 12,
+      "approx_original_y": 1540
+    },
+    {
+      "position": 37,
+      "page_column": "right",
+      "row_in_column": 13,
+      "approx_original_y": 1668
+    },
+    {
+      "position": 38,
+      "page_column": "right",
+      "row_in_column": 14,
+      "approx_original_y": 1798
+    },
+    {
+      "position": 39,
+      "page_column": "right",
+      "row_in_column": 15,
+      "approx_original_y": 1909
+    },
+    {
+      "position": 40,
+      "page_column": "right",
+      "row_in_column": 16,
+      "approx_original_y": 2030
+    },
+    {
+      "position": 41,
+      "page_column": "right",
+      "row_in_column": 17,
+      "approx_original_y": 2151
+    },
+    {
+      "position": 42,
+      "page_column": "right",
+      "row_in_column": 18,
+      "approx_original_y": 2288
+    },
+    {
+      "position": 43,
+      "page_column": "right",
+      "row_in_column": 19,
+      "approx_original_y": 2428
+    },
+    {
+      "position": 44,
+      "page_column": "right",
+      "row_in_column": 20,
+      "approx_original_y": 2538
+    },
+    {
+      "position": 45,
+      "page_column": "right",
+      "row_in_column": 21,
+      "approx_original_y": 2667
+    },
+    {
+      "position": 46,
+      "page_column": "right",
+      "row_in_column": 22,
+      "approx_original_y": 2804
+    },
+    {
+      "position": 47,
+      "page_column": "right",
+      "row_in_column": 23,
+      "approx_original_y": 2939
+    },
+    {
+      "position": 48,
+      "page_column": "right",
+      "row_in_column": 24,
+      "approx_original_y": 3093
+    }
+  ],
+  "limits": [
+    "原图 y 坐标为约略墨迹峰值，仅用于定位；横带重叠未重复计数",
+    "左栏字迹褪色，跨栏接近处与视觉行数须独立复核",
+    "未单独判录规范调标列表；空列表不代表调号缺失",
+    "所有字形和栏目边界未复核，不得直接封存"
+  ],
+  "created_utc": "2026-11-17T20:26:57.577186+00:00",
+  "pages": [
+    {
+      "pdf_page": 38,
+      "layout_mode": "DHS_2COL_SUPPLEMENT_NO_HANZI",
+      "entries": [
+        {
+          "position": 1,
+          "source_L": "[残]recer",
+          "source_H": "[空]",
+          "source_M": "[残] chē [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 2,
+          "source_L": "Aborrecer con enojo",
+          "source_H": "[空]",
+          "source_M": "[残] chē [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 3,
+          "source_L": "Aborrecible",
+          "source_H": "[空]",
+          "source_M": "cò òu",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 4,
+          "source_L": "Aborrecimiento",
+          "source_H": "[空]",
+          "source_M": "òu",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 5,
+          "source_L": "Abortar",
+          "source_H": "[空]",
+          "source_M": "[残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 6,
+          "source_L": "Aborto abortar",
+          "source_H": "[空]",
+          "source_M": "[残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 7,
+          "source_L": "Abrasarse",
+          "source_H": "[空]",
+          "source_M": "sío cāng [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 8,
+          "source_L": "Abrasar",
+          "source_H": "[空]",
+          "source_M": "cām tòa [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 9,
+          "source_L": "Abraço",
+          "source_H": "[空]",
+          "source_M": "sío siām",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 10,
+          "source_L": "Abrasar ut el fuego",
+          "source_H": "[空]",
+          "source_M": "sío",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 11,
+          "source_L": "Abrasar ut calor",
+          "source_H": "[空]",
+          "source_M": "xiēn",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 12,
+          "source_L": "[残] ut enfermo",
+          "source_H": "[空]",
+          "source_M": "ū xiēn",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 13,
+          "source_L": "Abrasarse con [残]",
+          "source_H": "[空]",
+          "source_M": "xiēn cūn",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 14,
+          "source_L": "Abrasarse de Amor de mug[残]",
+          "source_H": "[空]",
+          "source_M": "xiēn [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 15,
+          "source_L": "Abrevar el ganado",
+          "source_H": "[空]",
+          "source_M": "quīt y chiā chūy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 16,
+          "source_L": "Abreuiar escribiendo",
+          "source_H": "[空]",
+          "source_M": "sē sià [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 17,
+          "source_L": "Abreuiar resumir",
+          "source_H": "[空]",
+          "source_M": "chāu sīu",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 18,
+          "source_L": "Abreuiar [残] lo que habla",
+          "source_H": "[空]",
+          "source_M": "sē còng",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 19,
+          "source_L": "Abreuiatura",
+          "source_H": "[空]",
+          "source_M": "sē yà",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 20,
+          "source_L": "Abrigar abrigarse abrigo",
+          "source_H": "[空]",
+          "source_M": "[空]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 21,
+          "source_L": "Abril mes",
+          "source_H": "[空]",
+          "source_M": "sā guē",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 22,
+          "source_L": "Abrir ut [残]",
+          "source_H": "[空]",
+          "source_M": "cūy cāy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 23,
+          "source_L": "Abrir partiendo",
+          "source_H": "[空]",
+          "source_M": "pōu cūy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 24,
+          "source_L": "Ab[残] llaga",
+          "source_H": "[空]",
+          "source_M": "yō cūy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 25,
+          "source_L": "Abrir los ojos",
+          "source_H": "[空]",
+          "source_M": "pē cūy bág",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 26,
+          "source_L": "Abrir los ojos al ydolo",
+          "source_H": "[空]",
+          "source_M": "cāy bēng",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 27,
+          "source_L": "Abrir la boca",
+          "source_H": "[空]",
+          "source_M": "chūy pē cūy quēy còu",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 28,
+          "source_L": "Abrir libros",
+          "source_H": "[空]",
+          "source_M": "hiēng cuā",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 29,
+          "source_L": "Abrir pabellon",
+          "source_H": "[空]",
+          "source_M": "hiēn bāng [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 30,
+          "source_L": "Abrir [残]",
+          "source_H": "[空]",
+          "source_M": "cāng pàn",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 31,
+          "source_L": "Abrir camino",
+          "source_H": "[空]",
+          "source_M": "pōa cūē cū",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 32,
+          "source_L": "Abrir tabla",
+          "source_H": "[空]",
+          "source_M": "cī cūy pīt cāy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 33,
+          "source_L": "Abrir al agujero",
+          "source_H": "[空]",
+          "source_M": "cān [残] cāng cāhām",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 34,
+          "source_L": "Abrir rajando rompiendo",
+          "source_H": "[空]",
+          "source_M": "pē cūy tià cūy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 35,
+          "source_L": "Abrir carta",
+          "source_H": "[空]",
+          "source_M": "tià pēy tià hòng",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 36,
+          "source_L": "Abrirse [残]",
+          "source_H": "[空]",
+          "source_M": "[残] cūy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 37,
+          "source_L": "Abrir con fuerza",
+          "source_H": "[空]",
+          "source_M": "tūng cūy cū",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 38,
+          "source_L": "Abrirse la rosa",
+          "source_H": "[空]",
+          "source_M": "hiā cūy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 39,
+          "source_L": "Abrir el corazon",
+          "source_H": "[空]",
+          "source_M": "cūy sīm [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 40,
+          "source_L": "Abrirse la nube",
+          "source_H": "[空]",
+          "source_M": "hūn cūy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 41,
+          "source_L": "Abrir cortando",
+          "source_H": "[空]",
+          "source_M": "chiēn cāy chè cūy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 42,
+          "source_L": "Abrir dando bueltas",
+          "source_H": "[空]",
+          "source_M": "chòan cāy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 43,
+          "source_L": "Abrir soplando",
+          "source_H": "[空]",
+          "source_M": "chuē cūy",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 44,
+          "source_L": "Abrir cortando",
+          "source_H": "[空]",
+          "source_M": "chē chō pēng",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 45,
+          "source_L": "Abrir camino al negocio",
+          "source_H": "[空]",
+          "source_M": "cūy chāng [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 46,
+          "source_L": "Abrir [残]",
+          "source_H": "[空]",
+          "source_M": "cūy [残]",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 47,
+          "source_L": "Abrir el rostro",
+          "source_H": "[空]",
+          "source_M": "cūy bīn",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        },
+        {
+          "position": 48,
+          "source_L": "Abrir la primera vez una cosa",
+          "source_H": "[空]",
+          "source_M": "cūy tāu",
+          "source_R": "[空]",
+          "tone_marks_M": [],
+          "tone_marks_R": []
+        }
+      ]
+    }
+  ]
+}
