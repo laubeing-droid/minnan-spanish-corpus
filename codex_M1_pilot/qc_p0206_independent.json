@@ -1,0 +1,117 @@
+{
+  "protocol": "p0206_seven_item_independent_machine_visual_qc",
+  "created_utc": "2026-11-17T21:31:53.940391+00:00",
+  "independence": "在读取 candidate_p0206.json 之前，仅使用本页 ADK 指定项目的 v1/rr 及原图进行判断；机器观察，不构成人工审定。",
+  "source": "literature/workspace_m2_dhs834/collision_mr/adk/adk_p0206.json",
+  "visual_evidence": {
+    "original_bands": [
+      "literature/tiles/01_DHS/page_0206/pdf_0206_band_y0_top.png",
+      "literature/tiles/01_DHS/page_0206/pdf_0206_band_y1_mid.png",
+      "literature/tiles/01_DHS/page_0206/pdf_0206_band_y2_bot.png"
+    ],
+    "additional_local_enlargements": 5,
+    "total_images_viewed": 8,
+    "coordinate_system": "各横带 PNG 左上角为原点，单位像素；x/y 为约略范围。"
+  },
+  "verdict_rule": "对整词原样保留可见字母及调号；任一可辨的字母或符号遗漏即不判完整吻合。记号语义和精确归位不明者单列，不以音系猜测。",
+  "items": [
+    {
+      "index": 9,
+      "position": 1,
+      "field": "M",
+      "v1": "siõ.",
+      "rr": "sion",
+      "visual_scope": "上带 x=1230–1400, y=420–550；M 栏第一行词形",
+      "visible_reading": "sióⁿ",
+      "verdict": "两皆误",
+      "basis": "正文见 sio；其上同时有 n 形小记和右升斜线。V1 未保留斜线，rr 将小记写成行内 n 且未记录斜线。",
+      "diacritic_uncertainty": "n 形小记与斜线的功能及组合位置待复核；sióⁿ 是近似排印，不断言其语音意义。",
+      "spanish_annotation": null,
+      "cross_column_note": null
+    },
+    {
+      "index": 10,
+      "position": 1,
+      "field": "R",
+      "v1": "siong.",
+      "rr": "sian",
+      "visual_scope": "上带 x=1720–1900, y=440–590；R 栏第一行右侧目标词",
+      "visible_reading": "siǎng",
+      "verdict": "两皆误",
+      "basis": "读作 siang，末尾 g 的下伸环清楚；V1 的 o 与可见 a 不符，rr 缺 g。",
+      "diacritic_uncertainty": "上方 v 形记号清楚，但归位至 a 仅为近似排印。",
+      "spanish_annotation": null,
+      "cross_column_note": "隔线右侧另有靠近分界的 hip 状单独字迹，与更右侧目标词间有间隔；不并入本词，身份待核。"
+    },
+    {
+      "index": 12,
+      "position": 3,
+      "field": "M",
+      "v1": "pān siõ.",
+      "rr": "pan sion",
+      "visual_scope": "上带 x=1230–1445, y=645–755；M 栏第三行两个词",
+      "visible_reading": "pàn sióⁿ",
+      "verdict": "两皆误",
+      "basis": "首词上方为左上至右下斜线；次词 sio 上有 n 形小记和另一右升斜线。V1 将首斜线写成横线且漏次词斜线，rr 未记录两处斜线并把小记写成行内 n。",
+      "diacritic_uncertainty": "次词小记的功能及其与斜线的组合位置待复核；排印为近似。",
+      "spanish_annotation": null,
+      "cross_column_note": null
+    },
+    {
+      "index": 13,
+      "position": 3,
+      "field": "R",
+      "v1": "pien siong.",
+      "rr": "pien sian",
+      "visual_scope": "上带 x=1720–1980, y=645–790；R 栏第三行两个词",
+      "visible_reading": "piēn siǎng",
+      "verdict": "两皆误",
+      "basis": "次词末尾 g 下伸环清楚、其元音形似 a；V1 的 o 与可见字形不符，rr 缺 g。首词还有横线。",
+      "diacritic_uncertainty": "首词横线覆盖 e/n 区域，次词上方 v 形记号的字母归位待复核；标音为近似排印。",
+      "spanish_annotation": null,
+      "cross_column_note": null
+    },
+    {
+      "index": 15,
+      "position": 4,
+      "field": "R",
+      "v1": "tay ka. [疑:ka/ha]",
+      "rr": "tay ho",
+      "visual_scope": "上带 x=1720–1930, y=800–900；R 栏第四行两个词",
+      "visible_reading": "tāy hā",
+      "verdict": "两皆误",
+      "basis": "第二词字形为 ha，两个词上方均见横线。V1 的 ka 与可见 h 不符，虽在疑注提及 ha 但未作为确定读法；rr 的 ho 与 a 不符。",
+      "diacritic_uncertainty": "两横线的具体字母归位以近似排印表示。",
+      "spanish_annotation": null,
+      "cross_column_note": null
+    },
+    {
+      "index": 22,
+      "position": 8,
+      "field": "M",
+      "v1": "tū siõ.",
+      "rr": "tu sion",
+      "visual_scope": "中带 x=1230–1430, y=180–295；M 栏第八行两个词",
+      "visible_reading": "tū sióⁿ",
+      "verdict": "两皆误",
+      "basis": "首词上方见横线；次词 sio 上方同时有 n 形小记与右升斜线。V1 漏次词斜线，rr 漏首词横线和次词斜线并把小记写成行内 n。",
+      "diacritic_uncertainty": "次词小记的功能及与斜线的组合位置待复核；排印为近似。",
+      "spanish_annotation": null,
+      "cross_column_note": null
+    },
+    {
+      "index": 23,
+      "position": 8,
+      "field": "R",
+      "v1": "chu siong.",
+      "rr": "chy sian",
+      "visual_scope": "中带 x=1720–1960, y=180–305；R 栏第八行两个词",
+      "visible_reading": "chy siǎng",
+      "verdict": "两皆误",
+      "basis": "首词末笔为下伸的 y 形；次词读作 siang，末尾 g 下伸环可见。V1 的 chu、siong 与该字形不符；rr 的 sian 缺 g。",
+      "diacritic_uncertainty": "首词上方见尖角、c 形小记及点，未能确定其组合与归属；次词 v 形记号归位亦待复核。",
+      "spanish_annotation": null,
+      "cross_column_note": null
+    }
+  ]
+}
