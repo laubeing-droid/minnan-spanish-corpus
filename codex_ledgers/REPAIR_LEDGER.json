@@ -1,7 +1,7 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-17T22:02:44+00:00",
-  "git_head_at_snapshot": "4898830b6fd5c0fbf9d91f7398c51fb45fd10ae9",
+  "snapshot_utc": "2026-11-17T22:47:23.290110+00:00",
+  "git_head_at_snapshot": "133c933102a933903584adadefb1c82f40b15a74",
   "protocol": "CODEX_REPAIR_LEDGER_IN_PROGRESS_V1",
   "scope": "本次接手及其复核范围的 M2 字面修复，不等同于全库历史修改史。",
   "sources": {
@@ -15,11 +15,27 @@
     },
     "m2_status": {
       "path": "codex_progress_M2.md",
-      "sha256": "4514b1a5eb51df6f1826d3efbf221660b3709fbaa16f45a09016832fa0dfefe4"
+      "sha256": "079f3e27dc9316eabb3b04a7ece269ed211bd6f4107c1f75f7ad2d0cbcc840e9"
     },
     "v3_syntax_receipt": {
       "path": "codex_M6_preview/v3_json_repair_receipt.json",
       "sha256": "c2699919bc20e05e4da41236780d63aa7e3f0fe89706dde3c31242ff83ced85d"
+    },
+    "pipeline_audit": {
+      "path": "codex_pipeline_literal_audit.md",
+      "sha256": "c6e4759261face1b7e7eb6976d4a6e91493b0c546c354cb6ff3ecdafdbd7db14"
+    },
+    "rollback_audit": {
+      "path": "codex_rollback_replay_audit.md",
+      "sha256": "d76b827895346b8ed2ecad71caa03731221fa68a6b3f9e48d81e149fc45d48d8"
+    },
+    "fault_injection": {
+      "path": "codex_seal_fault_injection.json",
+      "sha256": "06f029413f16d2e17a4386515cb67677b08a341b0ac8267af6816989e7b559cb"
+    },
+    "ink_comparison": {
+      "path": "codex_pipeline_ink_comparison.json",
+      "sha256": "0af8569de5c681a5ca59dad8745bf5f0d2496f2eb6290e9d62ef6f0d9806d58f"
     }
   },
   "current_campaign_formal_literal_repairs": [],
@@ -1769,5 +1785,18 @@
       }
     ]
   },
-  "update_protocol": "后续仅将已走 raw→commit 且核对封存 old/new 与记录回执的实际字面修改追加至本账；与预览、延迟及历史声称分开。"
+  "update_protocol": "后续仅将已走 raw→commit 且核对封存 old/new 与记录回执的实际字面修改追加至本账；与预览、延迟及历史声称分开。",
+  "working_tree_sources_at_snapshot": true,
+  "tool_safeguards": {
+    "modifier_equal_soup": "已实施；五页隔离重放10项转待核",
+    "sanitizer_and_unexpected_field_changes": "已实施；p0146隔离全链通过、p0181隔离延迟",
+    "formal_literal_repairs_after_safeguards": 0,
+    "rollback": "只用原 raw→commit；隔离故障注入后旧 sealed/清册/基线摘要一致；单写者条件",
+    "sealed_pages_replay_preflight": {
+      "exact": 1062,
+      "not_exact": 28,
+      "noncanonical_tone": 13,
+      "scope": "全部1103页，非修复完成量"
+    }
+  }
 }

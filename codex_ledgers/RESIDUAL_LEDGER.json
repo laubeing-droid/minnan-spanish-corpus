@@ -1,7 +1,7 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-17T22:02:44+00:00",
-  "git_head_at_snapshot": "4898830b6fd5c0fbf9d91f7398c51fb45fd10ae9",
+  "snapshot_utc": "2026-11-17T22:47:23.290110+00:00",
+  "git_head_at_snapshot": "133c933102a933903584adadefb1c82f40b15a74",
   "protocol": "CODEX_RESIDUAL_LEDGER_IN_PROGRESS_V1",
   "scope": "交接时点尚待处理的裁决、校准、复核、互证与释义事项；跨模块计数可重叠，不得简单相加。",
   "sources": {
@@ -23,7 +23,7 @@
     },
     "m2": {
       "path": "codex_M2_modifier_audit.md",
-      "sha256": "55234c3e653af758f814c471f9f5dc92d27bdb59d14b7182e60cef6d7fd404b4"
+      "sha256": "6c60bdcabc869fd478f2e75c945e15c4acf96e139a530ea001ab724e69647fdd"
     },
     "m3": {
       "path": "codex_progress_M3.md",
@@ -31,7 +31,7 @@
     },
     "m4": {
       "path": "codex_progress_M4.md",
-      "sha256": "f3c0d7d1876ff00a98f417d4a74d39e8fde54568358cc3c9eb8753a1e4b7b15e"
+      "sha256": "b05b6c104dd1aaf9788ec31555c0cad63702d4c95c42f351004ce8e7fe48d7b9"
     },
     "m5": {
       "path": "codex_M5_preview/summary.json",
@@ -44,6 +44,22 @@
     "manifest": {
       "path": "literature/workspace_m2_dhs834/BLIND_READ_MANIFEST.json",
       "sha256": "00202ecdcfe0461f19d976601c1a25df6466dc286eb27f74e55b039f659dd3ad"
+    },
+    "pipeline_audit": {
+      "path": "codex_pipeline_literal_audit.md",
+      "sha256": "c6e4759261face1b7e7eb6976d4a6e91493b0c546c354cb6ff3ecdafdbd7db14"
+    },
+    "rollback_audit": {
+      "path": "codex_rollback_replay_audit.md",
+      "sha256": "d76b827895346b8ed2ecad71caa03731221fa68a6b3f9e48d81e149fc45d48d8"
+    },
+    "fault_injection": {
+      "path": "codex_seal_fault_injection.json",
+      "sha256": "06f029413f16d2e17a4386515cb67677b08a341b0ac8267af6816989e7b559cb"
+    },
+    "ink_comparison": {
+      "path": "codex_pipeline_ink_comparison.json",
+      "sha256": "0af8569de5c681a5ca59dad8745bf5f0d2496f2eb6290e9d62ef6f0d9806d58f"
     }
   },
   "m0": {
@@ -7150,7 +7166,17 @@
     "modifier_issues_in_official_ledger": 22,
     "modifier_skips_replayed": 10,
     "overlap_warning": "该统计与 M1 及其他残余可能重叠；历史墨迹和修复还须核图。",
-    "details": "codex_M2_modifier_audit.md"
+    "details": "codex_M2_modifier_audit.md",
+    "modifier_guard": "已实施；10 条原等价跳过在隔离重放中逐条待核，不证明 ink 正确",
+    "literal_sanitizer": "原管线不改；驱动器在净化改写或未登记字段变化时延迟，p0181 隔离识别7条",
+    "rollback_replay": {
+      "exact_pages": 1062,
+      "nonexact_pages": 28,
+      "tone_fail_pages": 13,
+      "limit": "历史封存按现行管线恢复能力，原图读法未核",
+      "report": "codex_rollback_replay_audit.md"
+    },
+    "rollback_safety": "原管线回滚有真实隔离故障注入；施工须单写者串行"
   },
   "m3": {
     "two_column_pages": [
@@ -7226,7 +7252,9 @@
     "status": "候选未重封；行数、字形及调号尚待核。"
   },
   "m4": {
-    "status": "尚未确认可用的十行已验真值卷；未完成十行校准或全量重读。"
+    "status": "尚未确认可用的十行已验真值卷；未完成十行校准或全量重读。",
+    "located_user_attested_lines_in_project_record": 2,
+    "original_human_receipt": "尚未找到；其他8行缺失"
   },
   "m5": {
     "fill_count": 0,
@@ -8074,5 +8102,6 @@
     ],
     "limits": "主释义结构完整不证明译义正确；v3 缺页属于第三版及旧 K≥3 对碰范围，与主释义覆盖不是同一口径；受正式字面修复影响页仍须刷新。"
   },
-  "update_protocol": "每次以正式裁决账、实际成功重封账和互证到账结果刷新本快照；保留采样时间及源版本，不用多个重叠统计求和。"
+  "update_protocol": "每次以正式裁决账、实际成功重封账和互证到账结果刷新本快照；保留采样时间及源版本，不用多个重叠统计求和。",
+  "working_tree_sources_at_snapshot": true
 }
