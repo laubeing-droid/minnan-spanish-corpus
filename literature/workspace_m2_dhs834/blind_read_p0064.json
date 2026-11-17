@@ -1,12 +1,12 @@
 {
   "protocol_version": "v3.1_BLIND_READ_DIRECT_IMAGE_WITHOUT_PRIOR_DRAFT",
   "pdf_page": 64,
-  "historical_folio": 35,
+  "historical_folio": "",
   "layout_mode": "DHS_4COL_BILINGUAL",
   "image_source": "literature/tiles/01_DHS/page_0064/pdf_0064_300dpi.png",
-  "page_header": "A. ante. G.",
-  "page_footer_printed": "- 35 -",
-  "page_footer_handwritten": "19",
+  "page_header": "",
+  "page_footer_printed": "",
+  "page_footer_handwritten": "",
   "total_positions_recorded": 21,
   "blind_state": "AUDITED_VISUALLY_VERIFIED",
   "entries": [
@@ -21,7 +21,15 @@
       ],
       "tone_marks_R": [
         "T05 (平橫)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "agua manantial",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "huat⁷",
+        "tai_lo_standard": "huat",
+        "phonological_basis": "17c Dominican orthography conversion: huât (活) -> huat⁷ / huat."
+      }
     },
     {
       "position": 2,
@@ -35,7 +43,15 @@
       ],
       "tone_marks_R": [
         "T05 (平橫)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "agua turbia",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lo³ taŋ³",
+        "tai_lo_standard": "lò-tàng",
+        "phonological_basis": "17c Dominican orthography conversion: lô (濁) -> lo³ / lò; tâng (?) -> taŋ³ / tàng."
+      }
     },
     {
       "position": 3,
@@ -48,7 +64,15 @@
       ],
       "tone_marks_R": [
         "T05 (平橫)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "agua caliente para pelar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰiŋ⁵",
+        "tai_lo_standard": "thîng",
+        "phonological_basis": "17c Dominican orthography conversion: thn̄g (湯) -> tʰiŋ⁵ / thîng."
+      }
     },
     {
       "position": 4,
@@ -63,7 +87,15 @@
       "tone_marks_R": [
         "T05 (平橫)",
         "T02 (降斜)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "agua caliente para pelar .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰiŋ⁵ tsu²",
+        "tai_lo_standard": "thîng-tsú",
+        "phonological_basis": "17c Dominican orthography conversion: thn̄g (湯) -> tʰiŋ⁵ / thîng; chu (水) -> tsu² / tsú."
+      }
     },
     {
       "position": 5,
@@ -77,7 +109,15 @@
       ],
       "tone_marks_R": [
         "T03 (尖頂帽)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "agua clara corriente",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ³ kiaŋ¹",
+        "tai_lo_standard": "hòng-kiang",
+        "phonological_basis": "17c Dominican orthography conversion: hông (洚) -> hɔŋ³ / hòng; quiáng (?) -> kiaŋ¹ / kiang."
+      }
     },
     {
       "position": 6,
@@ -93,7 +133,15 @@
       "tone_marks_R": [
         "T03 (尖頂帽)",
         "T02 (降斜)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "agua clara id",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ³ tsu² kiaŋ¹",
+        "tai_lo_standard": "hòng-tsú-kiang",
+        "phonological_basis": "17c Dominican orthography conversion: hông (洚) -> hɔŋ³ / hòng; chu (水) -> tsu² / tsú; quiáng (?) -> kiaŋ¹ / kiang."
+      }
     },
     {
       "position": 7,
@@ -106,7 +154,15 @@
       ],
       "tone_marks_R": [
         "T03 (尖頂帽)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "agua crecida fuera de madre",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ³",
+        "tai_lo_standard": "hòng",
+        "phonological_basis": "17c Dominican orthography conversion: Hông (洪) -> hɔŋ³ / hòng."
+      }
     },
     {
       "position": 8,
@@ -119,7 +175,15 @@
       ],
       "tone_marks_R": [
         "T03 (尖頂帽)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aguas muchas aguas. digo aclararse",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teŋ³",
+        "tai_lo_standard": "tèng",
+        "phonological_basis": "17c Dominican orthography conversion: têng (澄) -> teŋ³ / tèng."
+      }
     },
     {
       "position": 9,
@@ -134,7 +198,15 @@
       "tone_marks_R": [
         "T03 (尖頂帽)",
         "T04 (凹角)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aguas muchas, digo aclararse",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "teŋ³ tseŋ⁵",
+        "tai_lo_standard": "tèng-tsêng",
+        "phonological_basis": "17c Dominican orthography conversion: têng (澄) -> teŋ³ / tèng; cheng (清) -> tseŋ⁵ / tsêng."
+      }
     },
     {
       "position": 10,
@@ -147,7 +219,15 @@
       ],
       "tone_marks_R": [
         "T05 (平橫)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "Gua turbia ~ aguas muchas",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "lam²",
+        "tai_lo_standard": "lám",
+        "phonological_basis": "17c Dominican orthography conversion: lǎm (濫) -> lam² / lám."
+      }
     },
     {
       "position": 11,
@@ -160,7 +240,15 @@
       ],
       "tone_marks_R": [
         "T03 (尖頂帽)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aguas muchas .",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "pʰai²",
+        "tai_lo_standard": "phái",
+        "phonological_basis": "17c Dominican orthography conversion: phài (沛) -> pʰai² / phái."
+      }
     },
     {
       "position": 12,
@@ -177,7 +265,15 @@
         "T03 (尖頂帽)",
         "T03 (尖頂帽)",
         "T05 (平橫)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "agua rosada -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsiu³ bi³ lou⁵",
+        "tai_lo_standard": "tsiù-bì-lôu",
+        "phonological_basis": "17c Dominican orthography conversion: chiû (薔) -> tsiu³ / tsiù; bî (薇) -> bi³ / bì; lōu (露) -> lou⁵ / lôu."
+      }
     },
     {
       "position": 13,
@@ -192,7 +288,15 @@
       "tone_marks_R": [
         "T03 (尖頂帽)",
         "T02 (降斜)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "agua del rio y del mar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hou³ hai²",
+        "tai_lo_standard": "hòu-hái",
+        "phonological_basis": "17c Dominican orthography conversion: hôu (湖) -> hou³ / hòu; hài (海) -> hai² / hái."
+      }
     },
     {
       "position": 14,
@@ -209,7 +313,15 @@
         "T01 (升斜)",
         "T05 (平橫)",
         "T05 (平橫)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "agua q̃ se entra en el nauio",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰun³ huat⁷ lau⁵",
+        "tai_lo_standard": "tshùn-huat-lâu",
+        "phonological_basis": "17c Dominican orthography conversion: chûn (船) -> tsʰun³ / tshùn; huât (發) -> huat⁷ / huat; lāu (漏) -> lau⁵ / lâu."
+      }
     },
     {
       "position": 15,
@@ -224,7 +336,15 @@
       "tone_marks_R": [
         "T03 (尖頂帽)",
         "T02 (降斜)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "agua bendita de su ydolo",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hu³ tsu²",
+        "tai_lo_standard": "hù-tsú",
+        "phonological_basis": "17c Dominican orthography conversion: hû (符) -> hu³ / hù; chu (水) -> tsu² / tsú."
+      }
     },
     {
       "position": 16,
@@ -239,7 +359,15 @@
       "tone_marks_R": [
         "T04 (凹角)",
         "T02 (降斜)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "agua de poco fondo -",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsʰian¹ tsu²",
+        "tai_lo_standard": "tshian-tsú",
+        "phonological_basis": "17c Dominican orthography conversion: chián (淺) -> tsʰian¹ / tshian; chu (水) -> tsu² / tsú."
+      }
     },
     {
       "position": 17,
@@ -254,7 +382,15 @@
       "tone_marks_R": [
         "T04 (凹角)",
         "T02 (降斜)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "agua que se seca y no corre",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "si¹ tsu²",
+        "tai_lo_standard": "si-tsú",
+        "phonological_basis": "17c Dominican orthography conversion: sí (死) -> si¹ / si; chu (水) -> tsu² / tsú."
+      }
     },
     {
       "position": 18,
@@ -269,7 +405,15 @@
       "tone_marks_R": [
         "T03 (尖頂帽)",
         "T02 (降斜)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "agua miel, o de açucar",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tʰiŋ³ tsu²",
+        "tai_lo_standard": "thìng-tsú",
+        "phonological_basis": "17c Dominican orthography conversion: thn̂g (糖) -> tʰiŋ³ / thìng; chu (水) -> tsu² / tsú."
+      }
     },
     {
       "position": 19,
@@ -282,7 +426,15 @@
       ],
       "tone_marks_R": [
         "T05 (平橫)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aguaçero repentino",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "tsun²",
+        "tai_lo_standard": "tsún",
+        "phonological_basis": "17c Dominican orthography conversion: chūn (陣) -> tsun² / tsún."
+      }
     },
     {
       "position": 20,
@@ -299,7 +451,15 @@
         "T05 (平橫)",
         "T05 (平橫)",
         "T04 (凹角)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "aguaçero con viento",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "hɔŋ⁵ si³ hou²",
+        "tai_lo_standard": "hông-sì-hóu",
+        "phonological_basis": "17c Dominican orthography conversion: hong (方) -> hɔŋ⁵ / hông; sî (時) -> si³ / sì; hǒu (雨) -> hou² / hóu."
+      }
     },
     {
       "position": 21,
@@ -314,7 +474,15 @@
       "tone_marks_R": [
         "T04 (凹角)",
         "T04 (凹角)"
-      ]
+      ],
+      "auto_precomputed": {
+        "spanish_disambiguated": "agua manil de pico",
+        "abbreviations_expanded": [],
+        "loanwords_detected": [],
+        "reconstructed_17th_c_hokkien": "kan¹ pʰi²",
+        "tai_lo_standard": "kan-phí",
+        "phonological_basis": "17c Dominican orthography conversion: cán (干) -> kan¹ / kan; phy̌ (砳) -> pʰi² / phí."
+      }
     }
   ]
 }
