@@ -1,7 +1,7 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-17T23:16:46.911286+00:00",
-  "git_head_at_snapshot": "4043f544fcc21f14be191cf321f19bfe18ce8c03",
+  "snapshot_utc": "2026-11-17T23:25:52.836967+00:00",
+  "git_head_at_snapshot": "1f051eb28681e8ab07ded5456fc9c0928a946c76",
   "protocol": "CODEX_RESIDUAL_LEDGER_IN_PROGRESS_V1",
   "scope": "交接时点尚待处理的裁决、校准、复核、互证与释义事项；跨模块计数可重叠，不得简单相加。",
   "sources": {
@@ -15,7 +15,7 @@
     },
     "m0": {
       "path": "codex_M0_fresh_report.md",
-      "sha256": "99aac5d97fe1706055e18727c6999a534e1ee99d5bef9f2342b4bfca1f5638bc"
+      "sha256": "74fd8301ec02870c21f04562b3e2dcf2e07fb5103b078017b2c11b5f2f2d93e3"
     },
     "m1": {
       "path": "codex_progress_M1.md",
@@ -31,7 +31,7 @@
     },
     "m4": {
       "path": "codex_progress_M4.md",
-      "sha256": "b05b6c104dd1aaf9788ec31555c0cad63702d4c95c42f351004ce8e7fe48d7b9"
+      "sha256": "9fda9759cab8f6859c4061341da4a5d2482a6c2a4ff64ceea5b420fe7ec502f5"
     },
     "m5": {
       "path": "codex_M5_preview/summary.json",
@@ -79,7 +79,15 @@
     },
     "m0_ensemble": {
       "path": "codex_M0_ensemble_report.json",
-      "sha256": "15c362dc5c9a4567c696995525694c096111de4ce4d080071f3b4addcfb636d0"
+      "sha256": "961805dce0bd75807f0ebe0d77001992a54b18878604c5be3657b0908e0ac739"
+    },
+    "m0_crop": {
+      "path": "codex_M0_crop_audit.md",
+      "sha256": "8967e878c14fe0108e7fbcbd792f823b417907dacc241068701bd29ccd49be9c"
+    },
+    "m4_literature": {
+      "path": "codex_M4_literature_candidates.md",
+      "sha256": "08ed32b5c278a95848a62b5fe52e0e7b49e5e61eb29c426696193485642a95d5"
     }
   },
   "m0": {
@@ -93,7 +101,8 @@
       "hanzi_matching": 2,
       "official_score": null,
       "limitations": "正式标准冲突，模型输出可能相关"
-    }
+    },
+    "crop_B6": "原裁片右侧截断，完整行不可仅据原卷比较；旧卷成绩仅供诊断"
   },
   "m1": {
     "queue_pages": 1101,
@@ -7291,7 +7300,9 @@
   "m4": {
     "status": "尚未确认可用的十行已验真值卷；未完成十行校准或全量重读。",
     "located_user_attested_lines_in_project_record": 2,
-    "original_human_receipt": "尚未找到；其他8行缺失"
+    "original_human_receipt": "尚未找到；其他8行缺失",
+    "literature_candidate_rows": 15,
+    "literature_candidate_limit": "论文可能规范化异体，存在页码疑点和窄图截字；尚非十行逐笔真值"
   },
   "m5": {
     "fill_count": 0,
