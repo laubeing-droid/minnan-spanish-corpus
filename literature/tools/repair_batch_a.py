@@ -14,6 +14,8 @@ from collections import Counter, defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 
+from hokkien_17c_converter import sanitize_17c_missionary_orthography
+
 M2 = Path("literature/workspace_m2_dhs834")
 CD = M2 / "collision_mr"
 ADK = CD / "adk"
@@ -371,6 +373,13 @@ def main():
                 continue
             new = (old[:token_change["offset"]] + ink + old[token_change["offset"] + len(row["v1"]):]
                    if token_change else ink)
+            if fld == "source_M":
+                prepared = sanitize_17c_missionary_orthography(new.strip(), str(sealed_pos[pos].get("source_H") or "").strip())
+                if unicodedata.normalize("NFC", prepared) != unicodedata.normalize("NFC", new.strip()):
+                    for original in (group or [collected]):
+                        deferred.append({**{k: original.get(k) for k in ("page", "position", "field", "v1", "rr", "verdict", "ink")},
+                                         "receipt": original.get("receipt"), "reason": "重封净化会改写字面音写；待核"})
+                    continue
             raw_pos[pos][fld] = new
             dirty[pg] = (raw_path, raw)
             applied.append({"page": pg, "position": pos, "field": fld, "old": old, "new": new,
