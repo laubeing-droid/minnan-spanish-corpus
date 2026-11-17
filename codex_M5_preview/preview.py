@@ -5,6 +5,7 @@ import json
 import re
 import subprocess
 import sys
+import unicodedata
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -27,15 +28,21 @@ def han_key(text):
     return text if text and all(han(c) for c in text) else ""
 
 
+def index_letters(text):
+    text = unicodedata.normalize("NFD", str(text or "")).lower()
+    return "".join(c if unicodedata.category(c) == "Lm" or
+                   unicodedata.name(c, "").startswith("COMBINING LATIN") else soup(c) for c in text)
+
+
 def roman(text):
     text = str(text or "").strip()
-    return bool(soup(text)) and not any(c in text for c in "[]〔〕⟨⟩?？�") and not any(
+    return bool(index_letters(text)) and not any(c in text for c in "[]〔〕⟨⟩?？�") and not any(
         han_key(c) for c in text
     )
 
 
 def syllables(text):
-    return tuple(soup(x) for x in re.split(r"[\s,;:./·\-]+", text) if soup(x))
+    return tuple(index_letters(x) for x in re.split(r"[\s,;:./·\-]+", text) if index_letters(x))
 
 
 def old_pages(pages, manifest):
@@ -119,6 +126,9 @@ def build():
                     continue
                 if soup(value) != soup(reread):
                     continue
+                if index_letters(value) != index_letters(reread):
+                    stats[f"{field}_modifier_disagreements_excluded"] += 1
+                    continue
                 # ponytail: this is a review candidate, not a positional alignment or a fill source.
                 row = {"id": f"{page}:{e['position']}:{field}", "page": int(page),
                        "position": e["position"], "field": field, "hanzi": h,
@@ -154,7 +164,7 @@ def build():
     stats["proven_auto_fill_sources"] = 0
     meta = {"status": "只读候选，全部不可自动回填", "auto_fill": False, "v1_git_revision": BASE,
             "limits": ["同序号和同值不证明同行", "notes 行号可能出错", "候选汉字未完成独立复核",
-                       "拉丁字母可能包含西语旁注", "声调变体保留原文", "音节拆分差异未裁定"]}
+                       "拉丁字母可能包含西语旁注", "声调变体保留原文", "上置或修饰字母按原字符保留", "音节拆分差异未裁定"]}
     OUT.mkdir(exist_ok=True)
     for name, body in (("summary.json", dict(meta, counts=dict(stats))),
                        ("candidate_sources.json", dict(meta, sources=sources)),

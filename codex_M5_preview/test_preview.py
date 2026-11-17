@@ -25,7 +25,7 @@ class PreviewTest(unittest.TestCase):
                 return {"position": pos, "source_H": h, "source_M": m, "source_R": r}
             first = {"entries": [row(1, "魚", "pēŋ"), row(2, "魚", "tī"),
                                  row(3, "魚", "[空]"), row(4, "魚[疑]", "[空]"),
-                                 row(5, "魚", "pēŋ")]}
+                                 row(5, "魚", "pēŋ"), row(6, "丙", "pēⁿ")]}
             second = {"entries": [row(1, "甲", "[残]")]}
             for page, doc in (("0041", first), ("0042", second)):
                 write(work / f"blind_read_p{page}.json", doc)
@@ -41,8 +41,8 @@ class PreviewTest(unittest.TestCase):
             first["entries"][0]["source_M"] = "changed"
             write(work / "blind_read_p0041.json", first)
             write(work / "BLIND_READ_MANIFEST.json", manifest())
-            write(rr_dir / "reread_mr_p0041.json", {"m_lines": ["Peŋ", "ti", "[空]", "[空]", "pēŋ"],
-                  "r_lines": ["[空]"] * 5, "notes": "第2行（魚）"})
+            write(rr_dir / "reread_mr_p0041.json", {"m_lines": ["Peŋ", "ti", "[空]", "[空]", "pēŋ", "pen"],
+                  "r_lines": ["[空]"] * 6, "notes": "第2行（魚）"})
             write(rr_dir / "reread_mr_p0042.json", {"m_lines": ["ma", "ma"], "r_lines": [],
                   "notes": "第1行（甲）"})
             before = {p: p.read_bytes() for p in work.rglob("*.json")}
@@ -67,6 +67,8 @@ class PreviewTest(unittest.TestCase):
             r_target = next(t for t in targets if t["page"] == 41 and t["position"] == 3 and t["field"] == "R")
             self.assertEqual(r_target["candidate_groups"], [])
             self.assertEqual(stats["M_line_count_mismatch_pages"], 1)
+            self.assertEqual(stats["M_modifier_disagreements_excluded"], 1)
+            self.assertFalse(any(s["position"] == 6 for s in source))
             self.assertEqual(stats["proven_auto_fill_sources"], 0)
             self.assertEqual(stats["target_M_without_exact_hanzi"], 1)
             uncertain = next(t for t in targets if t["page"] == 41 and t["position"] == 4 and t["field"] == "M")
@@ -76,6 +78,10 @@ class PreviewTest(unittest.TestCase):
 
     def test_normalization(self):
         self.assertEqual(preview.soup("pēⁿ"), preview.soup("pen"))
+        self.assertNotEqual(preview.index_letters("pēⁿ"), preview.index_letters("pen"))
+        self.assertNotEqual(preview.index_letters("chûiᶜ"), preview.index_letters("chúi"))
+        self.assertNotEqual(preview.index_letters("puēͨ"), preview.index_letters("puē"))
+        self.assertEqual(preview.index_letters("piēⁿ"), preview.index_letters("piéⁿ"))
         self.assertNotEqual(preview.soup("Pēŋ"), preview.soup("Pe"))
         self.assertEqual(preview.soup("foo [残]"), preview.soup("foo [疑]"))
         self.assertEqual(preview.han_key("割 玉 脛 皮"), "割玉脛皮")
