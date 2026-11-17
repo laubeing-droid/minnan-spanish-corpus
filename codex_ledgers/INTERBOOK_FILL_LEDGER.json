@@ -1,7 +1,7 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-17T22:02:44+00:00",
-  "git_head_at_snapshot": "4898830b6fd5c0fbf9d91f7398c51fb45fd10ae9",
+  "snapshot_utc": "2026-11-17T22:57:13.768137+00:00",
+  "git_head_at_snapshot": "9f7300a17a77cfafc036f24a1a2d90695cbc1a62",
   "protocol": "CODEX_INTERBOOK_FILL_LEDGER_IN_PROGRESS_V1",
   "scope": "同书互证；候选皆未执行补齐，不得冒充盲读。",
   "sources": {
@@ -20,6 +20,10 @@
     "sample_visual_review": {
       "path": "codex_M5_preview/review_alignment_sample.json",
       "sha256": "c711c5545fc286701e803f28da5bfad032cc470facd73c5b6608df3697135d06"
+    },
+    "independent_visual_comparison": {
+      "path": "codex_M5_blind_comparison.json",
+      "sha256": "a4a8f6ddd9e6fac691a439b6884ede558955b070f55a0a45abc535e3be8d61a6"
     }
   },
   "filled_count": 0,
@@ -18895,5 +18899,7 @@
     "行列错位可能造成假空缺；声音调号与修饰字母性质不能推定。",
     "来源 id 对应 candidate_sources.json，保留具体来源页、位置和 V1/重读原文。"
   ],
-  "update_protocol": "每条真正写回并重封的补字须追加目标页、位置、栏位、old→new、来源页与位置、互证标识和封存结果；未写回候选不进入 filled。"
+  "update_protocol": "每条真正写回并重封的补字须追加目标页、位置、栏位、old→new、来源页与位置、互证标识和封存结果；未写回候选不进入 filled。",
+  "working_tree_sources_at_snapshot": true,
+  "additional_review": "p0539/12 来源残疑，p0779/11 栏界及字段语义仍需核对；均未填充"
 }

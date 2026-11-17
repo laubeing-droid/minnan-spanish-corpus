@@ -1,7 +1,7 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-17T22:47:23.290110+00:00",
-  "git_head_at_snapshot": "133c933102a933903584adadefb1c82f40b15a74",
+  "snapshot_utc": "2026-11-17T22:57:13.768137+00:00",
+  "git_head_at_snapshot": "9f7300a17a77cfafc036f24a1a2d90695cbc1a62",
   "protocol": "CODEX_RESIDUAL_LEDGER_IN_PROGRESS_V1",
   "scope": "交接时点尚待处理的裁决、校准、复核、互证与释义事项；跨模块计数可重叠，不得简单相加。",
   "sources": {
@@ -60,6 +60,10 @@
     "ink_comparison": {
       "path": "codex_pipeline_ink_comparison.json",
       "sha256": "0af8569de5c681a5ca59dad8745bf5f0d2496f2eb6290e9d62ef6f0d9806d58f"
+    },
+    "independent_visual_comparison": {
+      "path": "codex_M5_blind_comparison.json",
+      "sha256": "a4a8f6ddd9e6fac691a439b6884ede558955b070f55a0a45abc535e3be8d61a6"
     }
   },
   "m0": {
@@ -7260,7 +7264,8 @@
     "fill_count": 0,
     "one_group_candidates_not_filled": 820,
     "conflicts_not_filled": 73,
-    "ledger": "codex_ledgers/INTERBOOK_FILL_LEDGER.json"
+    "ledger": "codex_ledgers/INTERBOOK_FILL_LEDGER.json",
+    "additional_visual_review": "p0539/12 来源残疑，p0779/11 栏界及字段语义仍需核对；均未填充"
   },
   "m6": {
     "primary_gloss_structural_pages": 1103,

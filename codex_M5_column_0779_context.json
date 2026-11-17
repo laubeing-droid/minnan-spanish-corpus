@@ -1,0 +1,56 @@
+{
+  "method": "续前独立盲读：仅查看本页上、下原横带及下横带的一张同源裁剪；累计查看图像8张，未读取既有转写或其他候选。",
+  "sources": [
+    "literature/tiles/01_DHS/page_0779/pdf_0779_band_y0_top.png",
+    "literature/tiles/01_DHS/page_0779/pdf_0779_band_y1_mid.png",
+    "literature/tiles/01_DHS/page_0779/pdf_0779_band_y2_bot.png"
+  ],
+  "coordinate_convention": "各横带宽均为2206像素；下面目标行x坐标取中横带原始像素，左上角为原点，坐标为约数。",
+  "header": "上横带包含页眉，但未见可明确辨认为 H、M、R 的完整字面栏头；下述 H/M/R 为按正文内容归纳的工作标签。",
+  "column_interpretation": [
+    {
+      "label": "H",
+      "observed_function": "左侧词目栏，主要为拉丁字母词目或释语",
+      "target_row_position": "约 x302 至 x806 的红线之间"
+    },
+    {
+      "label": "M",
+      "observed_function": "中间汉字主栏，也可出现拉丁字母或文字越界",
+      "target_row_position": "约 x806 至 x1134 的红线之间"
+    },
+    {
+      "label": "R",
+      "observed_function": "中间栏右侧的拉丁字母读音式记写区",
+      "target_row_position": "约 x1134 红线以右；不能仅凭该页确定右端的完整语义边界"
+    }
+  ],
+  "context_evidence": [
+    "上横带和下横带的多行均在左侧见拉丁词目、两条红线间见汉字、第二条红线右侧见拉丁记写，支持三栏功能判断。",
+    "下横带可见討、乞、祝、借等汉字位于中间红线区间，各行右侧有拉丁字母记写。",
+    "下横带祝字行中，另有拉丁字母写在约 x1134 红线左侧，说明中间栏内出现拉丁字母，不能由文字类型单独推定越界或栏属。",
+    "黑灰纵线是一条细而略斜的线状痕迹，其旁有跨线书写；它不能替代约 x1134 的红线作为 M/R 分界。图像本身不足以确定这条黑线的原始用途。"
+  ],
+  "target_row": [
+    {
+      "visible_text": "pedaço",
+      "physical_position": "H，约 x327–485",
+      "functional_assignment": "H 词目"
+    },
+    {
+      "visible_text": "片",
+      "physical_position": "M，约 x943–1004",
+      "functional_assignment": "M 汉字"
+    },
+    {
+      "visible_text": "py",
+      "physical_position": "M，约 x1035–1126，位于 x1134 红线左侧",
+      "functional_assignment": "字母记写的具体功能及是否应从内容上并入 R 未决；不得因其为拉丁字母而改变实际位置。"
+    },
+    {
+      "visible_text": "pien : p[残]e",
+      "physical_position": "R，约 x1148–1360，位于 x1134 红线右侧及黑灰线左侧",
+      "functional_assignment": "R 读音式记写；末串中间字母未锁定。"
+    }
+  ],
+  "conclusion": "在正文功能和红线位置上，H/M/R 的工作划分有上下文支持；目标行 py 的物理位置在 M，其语义归属未决。"
+}

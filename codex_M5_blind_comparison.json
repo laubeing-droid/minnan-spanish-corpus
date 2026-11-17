@@ -1,0 +1,50 @@
+{
+  "status": "CANDIDATE_NOT_FORMAL",
+  "basis": "分别独立读原图后才比较；均为同模型任务，非人审；不自动填充",
+  "sources": [
+    {
+      "path": "codex_M5_preview/review_alignment_sample.json",
+      "sha256": "c711c5545fc286701e803f28da5bfad032cc470facd73c5b6608df3697135d06"
+    },
+    {
+      "path": "codex_M5_blind_0539_0267.json",
+      "sha256": "ccc4e445c7cbaf4f8c0c47eccf4e3aa96394bc42534e4c7ea07f65eb6e7bd136"
+    },
+    {
+      "path": "codex_M5_blind_0779_0348.json",
+      "sha256": "4bdfd0687a3bfde64536c4bd36d0a4f61f02683d151c49be1e99684bafd981dd"
+    },
+    {
+      "path": "codex_M5_column_0779_blind.json",
+      "sha256": "eda7d955b5703ca29af9307039c5c31afbcd47b3df1e9e1ab48ffcbbfa40496a"
+    },
+    {
+      "path": "codex_M5_column_0779_context.json",
+      "sha256": "4746fb9db9db25a6c1eca52f7219d737d1f709aa59c25779eece8db6161151b5"
+    }
+  ],
+  "items": [
+    {
+      "target": {
+        "page": 539,
+        "position": 12,
+        "field": "R"
+      },
+      "prior_review": "目标汉字隨、右栏空；p0267/16 同字且 R 候选 chui",
+      "blind_review": "目标汉字暂辨隨、右栏空；来源汉字被框裁断为 [残]，R 为 ch[残]i",
+      "status": "来源字形及目标定位仍需复核，未填充"
+    },
+    {
+      "target": {
+        "page": 779,
+        "position": 11,
+        "field": "R"
+      },
+      "prior_review": "目标文字均属 M，R 空；p0348/4 同字且 R 候选 pien",
+      "blind_review": "来源汉字片、R pien；目标两份独立盲读均见靠近多条竖线的字串，其中一份将其记入 R，另一份未定 M/R",
+      "status": "视觉坐标已记录，字段语义与实际栏界仍待核；未填充",
+      "context_review": "同页三横带确认红线 x≈1134、黑灰线 x≈1410 和右侧红线；context 将西文/汉字/右侧文字临时标作 H/M/R，与本仓库 H=汉字、M=闽南、R=官话的字段名不同，不能直接据其标签判定目标官话栏。py 位于红线左侧，pien:p[残]e 位于红线右侧、黑灰线左侧；黑灰线用途未证。"
+    }
+  ],
+  "auto_fill": false
+}
