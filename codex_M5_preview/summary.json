@@ -1,0 +1,42 @@
+{
+  "status": "只读候选，全部不可自动回填",
+  "auto_fill": false,
+  "v1_git_revision": "66b1a45^",
+  "limits": [
+    "同序号和同值不证明同行",
+    "notes 行号可能出错",
+    "候选汉字未完成独立复核",
+    "拉丁字母可能包含西语旁注",
+    "声调变体保留原文",
+    "音节拆分差异未裁定"
+  ],
+  "counts": {
+    "pages": 1103,
+    "v1_snapshot_changed": 51,
+    "target_R": 12022,
+    "target_R_without_exact_hanzi": 2680,
+    "M_line_count_mismatch_pages": 368,
+    "R_line_count_mismatch_pages": 726,
+    "target_M": 566,
+    "target_M_without_exact_hanzi": 415,
+    "M_line_count_equal_pages": 735,
+    "candidate_source_M": 4713,
+    "R_line_count_equal_pages": 377,
+    "candidate_source_R": 2100,
+    "target_R_汉字缺损或歧义": 2680,
+    "target_M_汉字缺损或歧义": 415,
+    "target_M_无候选来源": 113,
+    "target_R_无候选来源": 8466,
+    "target_M_一个候选音节组，定位未证": 28,
+    "target_M_候选音节组冲突，定位未证": 10,
+    "target_R_一个候选音节组，定位未证": 813,
+    "target_R_候选音节组冲突，定位未证": 63,
+    "repeated_hanzi_field_groups": 563,
+    "sources_in_repeated_hanzi_field_groups": 1260,
+    "extra_source_occurrences": 697,
+    "note_hanzi_anchors": 40,
+    "note_unique_v1_hanzi_anchors": 23,
+    "note_unique_anchor_position_disagrees": 4,
+    "proven_auto_fill_sources": 0
+  }
+}

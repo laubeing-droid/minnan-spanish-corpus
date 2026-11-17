@@ -1,0 +1,338 @@
+{
+  "status": "INDEPENDENT_CANDIDATE",
+  "page": "DHS PDF 0035",
+  "created_utc": "2026-11-17T21:13:37.492832+00:00",
+  "image_scope": [
+    "literature/tiles/01_DHS/page_0035/pdf_0035_300dpi.png",
+    "literature/tiles/01_DHS/page_0035/pdf_0035_band_y0_top.png",
+    "literature/tiles/01_DHS/page_0035/pdf_0035_band_y1_mid.png",
+    "literature/tiles/01_DHS/page_0035/pdf_0035_band_y2_bot.png"
+  ],
+  "layout": "单栏，自上而下；横带重叠处不重复计行。右侧淡痕为背面显现，未见第二套词条。",
+  "original_image_dimensions": [
+    2446,
+    3467
+  ],
+  "coordinate_note": "approx_original_y 是原页像素中的约略行中心。",
+  "visual_entry_count": 24,
+  "reading_notes": [
+    "只依据原页及三横带独立盲读；未用词典、音系或其他版本补写。",
+    "[残] 表示字母、调号、破损或涂改不能确认；T99 表示音写含待辨笔迹，不代表确定调值。",
+    "[空] 仅标该视觉行未见音写，不推断词条内容。可见调号或疑似调号笔画记录于 tone_observed，未能确定归属的标 T99。",
+    "完成盲读后再看候选，对照不回写此稿。"
+  ],
+  "entries": [
+    {
+      "position": {
+        "column": "single",
+        "row": 1,
+        "approx_original_y": 374
+      },
+      "source_L": "[残]stado abastes[残]",
+      "source_M": "[残]ng se[残]ng",
+      "tone_observed": "首行纸张破损；末音节上波形笔，前部缺损。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 2,
+        "approx_original_y": 479
+      },
+      "source_L": "Abastado abastesido",
+      "source_M": "yu[残] ch[残]u te[残]g",
+      "tone_observed": "yu 上斜笔；chu 上小波形；teg 上斜笔。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 3,
+        "approx_original_y": 590
+      },
+      "source_L": "Abastese[残]",
+      "source_M": "[空]",
+      "tone_observed": "本行未见音写及调符；西语词尾待辨。",
+      "tone_uncertain": null,
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 4,
+        "approx_original_y": 675
+      },
+      "source_L": "Abas hallar",
+      "source_M": "chi[残] a[残]g",
+      "tone_observed": "chi 上波形或短横；ag 上斜短笔。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 5,
+        "approx_original_y": 785
+      },
+      "source_L": "Abas hallar",
+      "source_M": "Chi[残] ti[残]",
+      "tone_observed": "Chi 上波形横笔，ti 上小钩。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 6,
+        "approx_original_y": 880
+      },
+      "source_L": "Abatir [残]ituperando",
+      "source_M": "Cho[残]u",
+      "tone_observed": "Chou 上有波形笔及小钩。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 7,
+        "approx_original_y": 980
+      },
+      "source_L": "Abatir humillando",
+      "source_M": "a[残]b ho[残]g",
+      "tone_observed": "ab 与 hog 上各见斜短笔。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 8,
+        "approx_original_y": 1101
+      },
+      "source_L": "Abatir asi",
+      "source_M": "a[残]b Lo[残]a",
+      "tone_observed": "ab 上斜短笔；Loa 上亦见斜笔。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 9,
+        "approx_original_y": 1226
+      },
+      "source_L": "Abatir asi",
+      "source_M": "Cu[残]n [残] Chi[残]",
+      "tone_observed": "Cun 上斜笔及小钩；中间涂改；Chi 上短波形横笔。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 10,
+        "approx_original_y": 1331
+      },
+      "source_L": "Abatir asi",
+      "source_M": "Cu[残]n Lo[残]a",
+      "tone_observed": "Cun 上斜笔及小钩；Loa 上斜笔。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 11,
+        "approx_original_y": 1446
+      },
+      "source_L": "Abatir haziendo daño",
+      "source_M": "Cu[残]n ha[残]y",
+      "tone_observed": "Cun 上斜笔及小钩；hay 上斜笔。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 12,
+        "approx_original_y": 1564
+      },
+      "source_L": "Abatir asi humillando",
+      "source_M": "chi[残] ho[残]g Chi[残] a[残]b",
+      "tone_observed": "chi 与 Chi 上波形横笔；hog 与 ab 上各有斜笔。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 13,
+        "approx_original_y": 1689
+      },
+      "source_L": "Abatir apretando apremiando",
+      "source_M": "[残]iap Chi[残]",
+      "tone_observed": "第一音节起笔墨迹浓重，上有叉形；Chi 上波形横笔。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 14,
+        "approx_original_y": 1796
+      },
+      "source_L": "Abatir agrauiando",
+      "source_M": "qui[残] a[残]b",
+      "tone_observed": "qui 上弯钩及斜笔；ab 上斜笔。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 15,
+        "approx_original_y": 1919
+      },
+      "source_L": "Abatir menos preciando",
+      "source_M": "qui[残] hũ",
+      "tone_observed": "qui 上弯钩及斜笔；hu 上波形。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 16,
+        "approx_original_y": 2046
+      },
+      "source_L": "Abatir engañando",
+      "source_M": "qui[残] òng",
+      "tone_observed": "qui 上弯钩及斜笔；ong 上右斜笔。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 17,
+        "approx_original_y": 2177
+      },
+      "source_L": "Abatir suhetando",
+      "source_M": "qui[残] ho[残]g",
+      "tone_observed": "qui 上弯钩及斜笔；hog 上斜笔。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 18,
+        "approx_original_y": 2308
+      },
+      "source_L": "Abatir quitando algo",
+      "source_M": "pièn he[残]",
+      "tone_observed": "pien 上右斜笔；he 上小钩和点。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 19,
+        "approx_original_y": 2404
+      },
+      "source_L": "Abatirse mucho",
+      "source_M": "Cu[残]n chie[残]n",
+      "tone_observed": "Cun 上交叉笔及小钩；chien 上斜笔。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 20,
+        "approx_original_y": 2523
+      },
+      "source_L": "Abatirse asi",
+      "source_M": "Cu[残]n táng Cu[残]n",
+      "tone_observed": "首 Cun 上交叉笔及小钩；tang 和末 Cun 上斜笔。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 21,
+        "approx_original_y": 2649
+      },
+      "source_L": "Abatirse asi",
+      "source_M": "Cu[残]n Lo[残] qu[残]u",
+      "tone_observed": "Cun 与 Lo 上交叉笔；quu 上小钩。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 22,
+        "approx_original_y": 2769
+      },
+      "source_L": "Abatirse humillarse",
+      "source_M": "ho[残]g sín",
+      "tone_observed": "hog 和 sin 上斜笔。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 23,
+        "approx_original_y": 2922
+      },
+      "source_L": "Abatido hombre",
+      "source_M": "pe[残] Cu[残]n",
+      "tone_observed": "pe 上小钩；Cun 上交叉笔及小钩。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 24,
+        "approx_original_y": 3058
+      },
+      "source_L": "Abatimiento propio",
+      "source_M": "qui[残]am se[残]y",
+      "tone_observed": "quiam 上右斜笔及小钩；sey 上小钩。",
+      "tone_uncertain": "T99",
+      "source_H": "[空]",
+      "source_R": "[空]"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "comparison": "66b1a45^ 与当前封存；按 position 比六个指定字段",
+  "sha_changed_pages": 51,
+  "baseline_hash_mismatches": 0,
+  "pages_with_any_six_field_change": 1,
+  "pages_without_six_field_change": 50,
+  "pages_with_entry_position_change": 0,
+  "changed_page_counts_by_field": {
+    "source_M": 1
+  },
+  "changed_entry_counts_by_field": {
+    "source_M": 5
+  },
+  "caveat": "六字段不变不等于全部元数据相同；统计变化不判定对错。"
+}

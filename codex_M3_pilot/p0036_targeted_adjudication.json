@@ -1,0 +1,149 @@
+{
+  "status": "MACHINE_CANDIDATE_NOT_APPLIED",
+  "page": "DHS PDF 0036",
+  "created_utc": "2026-11-17T21:16:39.447146+00:00",
+  "scope": "从已有分歧行中选三行，对明确墨迹作局部判录；无法确认的冲突保留。",
+  "method": "仅比较两份既有候选和同一原图；用原图像素最近邻放大 5 倍，不用音系或现代词典，不把机器结果当作人工裁定。",
+  "coordinate_system": "original_crop_xywh 为原图像素 x、y、宽、高；原图 2334×3475。",
+  "entries": [
+    {
+      "position": {
+        "column": "single",
+        "row": 9,
+        "approx_original_y": 1132
+      },
+      "original_readings": {
+        "independent": {
+          "source_L": "Abe[残]tura de los ojos",
+          "source_M": "chèng tāu[残] pa[残]ng"
+        },
+        "candidate": {
+          "source_L": "Abertura de los ojos",
+          "source_M": "chēng tāu pāng"
+        }
+      },
+      "focus": "source_M 首音节上方标记的笔画形状",
+      "visual_evidence": {
+        "image": "literature/tiles/01_DHS/page_0036/pdf_0036_300dpi.png",
+        "original_crop_xywh": [
+          [
+            675,
+            1040,
+            240,
+            155
+          ]
+        ],
+        "display": "原始 300 dpi 像素最近邻放大 5 倍，未改变原图",
+        "observation": "首音节上方是一笔从左上向右下的斜画，不是水平横；笔画位于 e 与后续字形之间附近。"
+      },
+      "decision": {
+        "status": "MACHINE_CANDIDATE_PARTIAL",
+        "selected_fragment": {
+          "tone_mark_stroke": "\\",
+          "comparison": "右下斜画形状支持独立稿所用重音符号的形状，不单独裁定标记所属字母。",
+          "tone_value": "T99"
+        },
+        "unresolved": [
+          "斜画与具体字母的结合位置及声调值待核。",
+          "首音节字母大小写不在本次裁决范围。",
+          "其后 tāu 的小钩与 pang 上笔画，以及西语局部，仍按原两稿保留未决。"
+        ]
+      }
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 11,
+        "approx_original_y": 1366
+      },
+      "original_readings": {
+        "independent": {
+          "source_L": "Aberturas de las selosias y Rehas",
+          "source_M": "Cān lāng"
+        },
+        "candidate": {
+          "source_L": "Aberturas de las celosias y rejas",
+          "source_M": "cān lāng"
+        }
+      },
+      "focus": "source_L 两处拼写",
+      "visual_evidence": {
+        "image": "literature/tiles/01_DHS/page_0036/pdf_0036_300dpi.png",
+        "original_crop_xywh": [
+          [
+            615,
+            1300,
+            460,
+            130
+          ],
+          [
+            860,
+            1300,
+            290,
+            135
+          ]
+        ],
+        "display": "原始 300 dpi 像素最近邻放大 5 倍，未改变原图",
+        "observation": "前一词首笔呈弯曲 s 形，其后的字迹依次可见 elosias；后一词首字为大写 R，e 后有上伸笔及回转连接的 h 形，后接 as。"
+      },
+      "decision": {
+        "status": "MACHINE_CANDIDATE_PARTIAL",
+        "selected_fragment": {
+          "source_L_fragment": "selosias y Rehas",
+          "meaning": "保留图中字形和大写，不按现代西语词典改写。"
+        },
+        "unresolved": [
+          "两音写音节的大小写以及未单独判录的调号不在本次裁决范围。"
+        ]
+      }
+    },
+    {
+      "position": {
+        "column": "single",
+        "row": 22,
+        "approx_original_y": 2726
+      },
+      "original_readings": {
+        "independent": {
+          "source_L": "Abil lijero en de[残]pachar",
+          "source_M": "bìn chi[残]n"
+        },
+        "candidate": {
+          "source_L": "Abil ligero en despachar",
+          "source_M": "bìn chi[残]"
+        }
+      },
+      "focus": "source_L lijero / ligero 的争议字母",
+      "visual_evidence": {
+        "image": "literature/tiles/01_DHS/page_0036/pdf_0036_300dpi.png",
+        "original_crop_xywh": [
+          [
+            390,
+            2645,
+            230,
+            200
+          ],
+          [
+            180,
+            355,
+            190,
+            140
+          ]
+        ],
+        "display": "原始 300 dpi 像素最近邻放大 5 倍，未改变原图",
+        "observation": "争议字形为单一长斜笔并向基线下延伸，未见 g 的圈腹；与本页第 2 行 Abeja 中同样下伸的 j 形相近。"
+      },
+      "decision": {
+        "status": "MACHINE_CANDIDATE_PARTIAL",
+        "selected_fragment": {
+          "source_L_disputed_letter": "j",
+          "local_fragment": "lijero",
+          "meaning": "仅选争议字母 j；所附局部字符串不是对整行的裁决。"
+        },
+        "unresolved": [
+          "本行西语 de[残]pachar / despachar 及音写 chi[残]n / chi[残] 继续未决。"
+        ]
+      }
+    }
+  ]
+}
