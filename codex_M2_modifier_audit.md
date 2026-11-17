@@ -1,5 +1,7 @@
 # M2 修复器上置字符审计（只读与隔离重放）
 
+**后续处理**：以下是补丁前审计。当前修复器已保留既定 soup 应用边界，并将同汤但上置/修饰字母不同的记录列为 deferred；重读对 ink/rr 有此差异也延迟。九组隔离回归通过，另以五页原始任务和回执在临时副本重放，10 条原等价跳过均逐条进入 deferred；未对正式原读数据写回。
+
 审计时间：2026-11-18。数据为 `literature/workspace_m2_dhs834/collision_mr/ADK_ADJUDICATION_LEDGER.json` 中 4,732 条唯一匹配记录，不把旧裁决当成已证实的墨迹真值。正式账及源数据未修改。账 SHA-256：`598eb965f917d4244abd42f86bd04c45a24bd9efa03e1ac6aba5026e09ef2a15`；修复器 `literature/tools/repair_batch_a.py` SHA-256：`96d49f08e118f0ebf0976f957b1c7501a86d3e072430f87fa893cb296741446d`。
 
 ## 实存范围
