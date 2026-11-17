@@ -83,6 +83,34 @@ def illegal_initial(ink, field):
     return any(s[0] in forbidden for s in syllables)
 
 
+def single_latin_word(text):
+    text = unicodedata.normalize("NFD", text)
+    return bool(text) and all(
+        c == "ⁿ" or (c.isascii() and c.isalpha()) or
+        unicodedata.name(c, "").startswith("LATIN ") or unicodedata.category(c).startswith("M")
+        for c in text
+    ) and not unicodedata.category(text[0]).startswith("M")
+
+
+def token_offset(text, token):
+    if not single_latin_word(token):
+        return None, "任务 v1 非单个拉丁词段"
+    pos = text.find(token)
+    if pos < 0:
+        return None, "封存件现值与任务 v1 漂移；不覆盖后续修正"
+    if text.find(token, pos + 1) >= 0:
+        return None, "任务 v1 在封存栏内出现多次"
+    def joined(c):
+        return c.isalnum() or unicodedata.category(c).startswith("M") or c in "_-'’ʼ‐‑‒–—\u200c\u200d"
+    end = pos + len(token)
+    if (pos and joined(text[pos - 1])) or (end < len(text) and joined(text[end])):
+        return None, "任务 v1 嵌套或词边界不清"
+    for left, right in (("[", "]"), ("〔", "〕"), ("⟨", "⟩")):
+        if text.rfind(left, 0, pos) > text.rfind(right, 0, pos):
+            return None, "任务 v1 位于未决标注内"
+    return pos, ""
+
+
 def main():
     parser = argparse.ArgumentParser(description="按冻结判决分批生成 raw；不直接修改封存件")
     parser.add_argument("--pages", required=True, help="逗号分隔 PDF 页码，最多 20 页")
@@ -292,12 +320,34 @@ def main():
                 deferred.append({**row, "reason": "封存件或 raw 缺少目标 position"})
                 continue
             old = str(sealed_pos[pos].get(fld) or "")
-            if soup(old) == soup(ink):
+            if old == row["v1"] and soup(old) == soup(ink):
                 skipped["字母汤等价"] += 1
                 continue
+            token_change = None
             if old != row["v1"]:
-                deferred.append({**row, "reason": "封存件现值与任务 v1 漂移；不覆盖后续修正"})
-                continue
+                context = json.dumps({"note": v.get("note"), "evidence": v.get("evidence"),
+                                      "collected_note": collected.get("note"), "receipt": source.get("metadata")},
+                                     ensure_ascii=False)
+                if re.search(r"跨\s*[栏列线]|分栏|栏界|西语|西班牙|注释|旁注|cross[\s_-]*(column|line)",
+                             context, re.IGNORECASE):
+                    deferred.append({**row, "reason": "跨栏或注释归属存疑；不替换词段"})
+                    continue
+                if group or item_targets[(pos, fld)] != 1 or collected_targets[(pos, fld)] != 1:
+                    deferred.append({**row, "reason": "词段目标存在其他任务"})
+                    continue
+                if not single_latin_word(ink):
+                    deferred.append({**row, "reason": "候选 ink 非单个拉丁词段"})
+                    continue
+                offset, reason = token_offset(old, row["v1"])
+                if offset is None:
+                    deferred.append({**row, "reason": reason})
+                    continue
+                if soup(row["v1"]) == soup(ink):
+                    skipped["字母汤等价"] += 1
+                    continue
+                token_change = {"old_token": row["v1"], "new_token": ink, "offset": offset,
+                                "offset_unit": "unicode_codepoint",
+                                "byte_offset": len(old[:offset].encode("utf-8"))}
             if illegal_initial(ink, fld):
                 for r in (group or [collected]):
                     illegal_by_page[pg] += 1
@@ -306,11 +356,14 @@ def main():
                 if illegal_by_page[pg] > 100:
                     break
                 continue
-            raw_pos[pos][fld] = ink
+            new = (old[:token_change["offset"]] + ink + old[token_change["offset"] + len(row["v1"]):]
+                   if token_change else ink)
+            raw_pos[pos][fld] = new
             dirty[pg] = (raw_path, raw)
-            applied.append({"page": pg, "position": pos, "field": fld, "old": old, "new": ink,
+            applied.append({"page": pg, "position": pos, "field": fld, "old": old, "new": new,
                             "task_field": task_field, "verdict": vd, "ink_source": ink_source, "queue_v1": row["v1"],
                             "queue_rr": row["rr"], "receipt": source, "match": match,
+                            **(token_change or {}),
                             **({"merged_receipts": [{k: r.get(k) for k in
                                  ("position", "field", "v1", "rr", "verdict", "ink", "receipt")} for r in group]}
                                if group else {})})

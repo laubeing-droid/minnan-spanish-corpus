@@ -249,8 +249,82 @@ def duplicate_merge_test(root):
     assert log["phonotacticDeferredByPage"]["80"] == 2
 
 
+def token_repair_test(root):
+    cases = {
+        90: ("si ba, li!", "ba", "la"),
+        91: ("ā ba! ü", "ba", "la"),
+        92: ("ba, ba", "ba", "la"),
+        93: ("aba", "ba", "la"),
+        94: ("si ba, li", "ba", "la li"),
+        95: ("si ba, li", "ba", "la"),
+        96: ("[疑:ba] hi", "ba", "la"),
+        97: ("si ba, li", "ba", "la"),
+        98: ("si-ba", "ba", "la"),
+        99: ("aaa", "aa", "la"),
+        100: ("（ba），hi", "ba", "la"),
+        101: ("si ba, li", "ba", "li好"),
+        102: ("si ba, li", "ba", "la"),
+        103: ("si ba, li", "ba", "bā"),
+        104: ("ba", "ba", "la li"),
+        105: ("b\u0301a", "b", "la"),
+        106: ("〔疑:ba〕 hi", "ba", "la"),
+        107: ("si ba, li", "ba", "la"),
+    }
+    queues = []
+    for pg, (old, v1, ink) in cases.items():
+        i = item(v1=v1)
+        v = verdict(i, ink=ink)
+        items, verdicts = [i], [v]
+        if pg == 95:
+            v["note"] = "跨栏存疑"
+        elif pg == 97:
+            second = item(field="source_M", v1="si", rr="zu")
+            items.append(second)
+            verdicts.append(verdict(second, ink="le"))
+        elif pg == 102:
+            v["evidence"] = "西语注释跨越栏界"
+        elif pg == 107:
+            second = item(field="source_M", v1="ba", rr="da")
+            items.append(second)
+            verdicts.append(verdict(second, ink="la"))
+        entries = [entry(m=old)]
+        queues.append(setup(root, pg, items, verdicts, entries, copy.deepcopy(entries)))
+    freeze(root, queues)
+    assert run(root, "collect_adk_verdicts.py").returncode == 0
+    m = root / "literature/workspace_m2_dhs834"
+    changed_pages = {90, 91, 100, 104}
+    protected = {pg: (m / "raw_blind" / f"raw_part_p{pg:04}.json").read_bytes()
+                 for pg in cases if pg not in changed_pages}
+    result = run(root, "repair_batch_a.py", "--pages", ",".join(map(str, cases)))
+    assert result.returncode == 0, (result.stdout, result.stderr)
+    log = json.loads(next((m / "collision_mr").glob("REPAIR_BATCH_A_0090_0107_*.json")).read_text(encoding="utf-8"))
+    applied = {r["page"]: r for r in log["applied"]}
+    assert set(applied) == changed_pages
+    for pg, expected in ((90, "si la, li!"), (91, "ā la! ü"), (100, "（la），hi"), (104, "la li")):
+        raw = json.loads((m / "raw_blind" / f"raw_part_p{pg:04}.json").read_text(encoding="utf-8"))
+        assert raw["pages"][0]["entries"][0]["source_M"] == expected
+        assert applied[pg]["old"] == cases[pg][0] and applied[pg]["new"] == expected
+        if pg != 104:
+            row = applied[pg]
+            assert row["old_token"] == "ba" and row["new_token"] == "la"
+            assert row["offset_unit"] == "unicode_codepoint" and row["receipt"]["index"] > 0
+            assert row["old"][:row["offset"]] + row["new_token"] + row["old"][row["offset"] + 2:] == row["new"]
+            assert (row["old"].encode("utf-8")[:row["byte_offset"]] + row["new_token"].encode("utf-8") +
+                    row["old"].encode("utf-8")[row["byte_offset"] + len(row["old_token"].encode("utf-8")):]) == row["new"].encode("utf-8")
+    assert applied[91]["offset"] == 2 and applied[91]["byte_offset"] == 3
+    assert "old_token" not in applied[104]
+    assert all((m / "raw_blind" / f"raw_part_p{pg:04}.json").read_bytes() == data
+               for pg, data in protected.items())
+    for pg, reason in ((92, "多次"), (93, "词边界"), (94, "非单个"), (95, "跨栏"),
+                       (96, "未决标注"), (97, "目标重复"), (98, "词边界"),
+                       (99, "多次"), (101, "非单个"), (102, "跨栏"),
+                       (105, "词边界"), (106, "未决标注"), (107, "目标重复")):
+        assert any(r["page"] == pg and reason in r["reason"] for r in log["deferred"]), pg
+
+
 if __name__ == "__main__":
-    for test in (batch_test, threshold_test, frozen_test, outside_frozen_test, soup_test, duplicate_merge_test):
+    for test in (batch_test, threshold_test, frozen_test, outside_frozen_test, soup_test,
+                 duplicate_merge_test, token_repair_test):
         with tempfile.TemporaryDirectory() as td:
             test(Path(td))
         print(test.__name__, "PASS")
