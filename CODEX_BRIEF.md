@@ -23,6 +23,11 @@
    习惯——照录 v 即忠实，判死只能靠墨迹。
 5. 反空转：禁止 "hmm/让我想想" 式推演；一次通过；判不准写 `[残]`/`墨迹不明`。
 6. 每个里程碑完成后先跑该里程碑的**验收脚本**，FAIL 即停即修；不带病进入下一里程碑。
+7. **队列冻结与回执 echo**：裁决生产开始后 `adk/` 队列文件即冻结（记录哈希），中途不得
+   重生成；判决回执必须 echo 任务条目的 `v1/rr` 原文——position 错位时以值匹配兜底。
+   （事故：队列边跑边重生成致 3,071 条判决错位，见 REPAIR_BATCH_A_V4 skipped.counters）
+8. **单节点看门狗**：任一子任务零产出超 30 分钟即升级报告（判据：挂起=token 曲线持平 /
+   循环=持续燃烧 / 退化=填充音节输出——三种形态详见 LESSONS L27/L28）。
 
 ## 交接与升级（主会话已转入待命）
 
@@ -59,6 +64,7 @@ Codex 全面接手施工与 git。**升级（停止并联系用户/主会话）�
 输出格式完全相同），答案写到 `_scratch_p0257/codex_calibration_answers.json`。
 判卷：`python _scratch_p0257/grade_calibration.py`（将答案文件名改为 codex 版）。
 **核心题 ≥8/10 → 资格生效；<8/10 → 停，写报告等主会话换模型。**
+**跨日续跑须复测校准卷**（供应商模型行为会隔夜突变——GLM 曾一夜之间成批填充退化）。
 
 ## 里程碑（顺序执行；每个都有机器可验的完成判据）
 
@@ -66,7 +72,10 @@ Codex 全面接手施工与 git。**升级（停止并联系用户/主会话）�
 - 队列：`literature/workspace_m2_dhs834/collision_mr/adk/adk_pXXXX.json`（1,101 页）。
   **已有 `adk_verdict_pXXXX.json` 且 JSON 完整的页跳过**（断点续跑）。
 - 每页：读任务文件 items（position/field/v1/rr）→ 对照三张横带切图裁决 → 写
-  `adk_verdict_pXXXX.json`（五选一：V1对/重读对/两皆误/等价/墨迹不明，两皆误必须填 ink）。
+  `adk_verdict_pXXXX.json`（五选一：V1对/重读对/两皆误/等价/墨迹不明，两皆误必须填 ink）；
+  **判级双填**（防判级噪声——字母差与调符记法差分开）：每条 verdict 除 verdict/ink 外，
+  必须填 `"letters": "V1|rr|两皆误|等价"`（剥声调符后字母本体的一致性）与
+  `"tone_mark": "一致|位置差|缺失|存疑"`（声调符归属层）。
 - 验收：`python literature/tools/collect_adk_verdicts.py` 跑通，缺页清单 = 空或入账。
 
 ### M2 · 修复应用（纯确定性，照抄工具不许改）
