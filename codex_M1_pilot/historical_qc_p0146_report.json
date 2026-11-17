@@ -1,0 +1,22 @@
+{
+  "page": 146,
+  "position": 15,
+  "field": "R",
+  "recorded_at": "2026-11-18T03:48:21.373670+08:00",
+  "blind_file_sha256": "1d172d2e46969c8c97f3cd9a4be972f4f3ebbb6615c8a3c091efdc1ce312757b",
+  "blind_read": "hông [残] zū",
+  "old": "hōng lú zū",
+  "new": "hông lûtzū",
+  "field_assessment": "不明",
+  "reason": "盲读仅能辨认首尾词，中间音节的字母边界及是否有 t 均为残缺，因此无法核准将 lú zū 改为 lûtzū 的关键字母修复。首词帽形调号与新值局部一致，但不足以支持整字段。",
+  "reference_report": "C:\\Users\\being\\AppData\\Local\\Temp\\dhs_historical_seal_pilot_u2airbgy\\literature\\workspace_m2_dhs834\\collision_mr\\REPAIR_BATCH_A_0146_0146_20261117T185747267451Z.json",
+  "scope": "独立模型盲核；无人工审核，非终审真值",
+  "source": "literature/tiles/01_DHS/page_0146/pdf_0146_band_y2_bot.png",
+  "crop_xyxy": [
+    1480,
+    520,
+    1900,
+    780
+  ],
+  "magnification": 5
+}

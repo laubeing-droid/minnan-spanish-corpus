@@ -1,0 +1,99 @@
+{
+  "created_at": "2026-11-18T02:51:13.581116+08:00",
+  "scope": "7项独立模型抽验，非人审、终审或真实性真值",
+  "counts": {
+    "一致": 5,
+    "不一致": 1,
+    "不可判断": 1
+  },
+  "notable": "p0184 位置5 R 独立读作 chā，候选选 V1 chō；该元音 a/o 分歧须回到原图人工复核，不得直接覆盖。",
+  "fivefold_example": {
+    "source": "literature/tiles/01_DHS/page_0184/pdf_0184_band_y1_mid.png",
+    "box_xyxy": [
+      1680,
+      0,
+      1940,
+      100
+    ],
+    "scale": 5
+  },
+  "comparisons": [
+    {
+      "position": 2,
+      "field": "M",
+      "v1": "chòa co.",
+      "rr": "chùa cỏ.",
+      "independent_verdict": "重读对",
+      "candidate_verdict": "重读对",
+      "comparison": "一致",
+      "independent_evidence": "首音节 ch 后可见 u 形连笔，再接 a；后音节调符受墨斑遮挡。",
+      "candidate_evidence": "上带第二行中栏首词元音形态较接近 u。"
+    },
+    {
+      "position": 2,
+      "field": "R",
+      "v1": "chüi con",
+      "rr": "chìi cōn",
+      "independent_verdict": "V1对",
+      "candidate_verdict": "V1对",
+      "comparison": "一致",
+      "independent_evidence": "首音节 ch 后呈 u 形再接带点 i，非连续两个 i。",
+      "candidate_evidence": "上带第二行右栏首词中间字母可辨为 u。"
+    },
+    {
+      "position": 3,
+      "field": "M",
+      "v1": "pa cù hâu lo",
+      "rr": "pa cò haur lo",
+      "independent_verdict": "墨迹不明",
+      "candidate_verdict": "重读对",
+      "comparison": "不可判断",
+      "independent_evidence": "第二音节元音圆合程度及第三音节末笔不能同时可靠裁定。",
+      "candidate_evidence": "上带第三行中栏第二词圆形字母及第三词尾笔更接近重读。"
+    },
+    {
+      "position": 5,
+      "field": "M",
+      "v1": "chât c [残]",
+      "rr": "chài.",
+      "independent_verdict": "重读对",
+      "candidate_verdict": "重读对",
+      "comparison": "一致",
+      "independent_evidence": "M 栏所见为单个 chai 形，未见 V1 中可确定的 t 与额外正文 c。",
+      "candidate_evidence": "上带第五行中栏可辨 ch、a、i；残损候选未能完整呈现。"
+    },
+    {
+      "position": 5,
+      "field": "R",
+      "v1": "chō",
+      "rr": "chā",
+      "independent_verdict": "重读对",
+      "candidate_verdict": "V1对",
+      "comparison": "不一致",
+      "independent_evidence": "R 栏 ch 后元音呈 a 形，顶上横调，未见 o 的圆形闭合。",
+      "candidate_evidence": "上带第五行右栏元音笔画较接近 o。"
+    },
+    {
+      "position": 6,
+      "field": "M",
+      "v1": "hôu, borron ou hôu",
+      "rr": "bou, borrón ou bou'",
+      "independent_verdict": "V1对",
+      "candidate_verdict": "V1对",
+      "comparison": "一致",
+      "independent_evidence": "中带首尾两音节的起笔更像 h，后接 ou；首音节上方有覆墨。",
+      "candidate_evidence": "中带该行中栏末词起笔呈 h 形，行内西语注记可见。"
+    },
+    {
+      "position": 6,
+      "field": "R",
+      "v1": "hûi",
+      "rr": "bùi",
+      "independent_verdict": "V1对",
+      "candidate_verdict": "V1对",
+      "comparison": "一致",
+      "independent_evidence": "R 栏起笔为向上延伸后成肩形的 h，后接 u、带点 i。",
+      "candidate_evidence": "中带该行右栏首笔呈高起的 h 形。"
+    }
+  ]
+}

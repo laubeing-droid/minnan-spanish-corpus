@@ -1,0 +1,53 @@
+{
+  "status": "independent_model_blind_read_sealed",
+  "rows": [
+    {
+      "page": 159,
+      "position": 2,
+      "field": "R",
+      "blind_read": "pỳ vȳ choǎng",
+      "uncertainty": "末词声调符横向归属在 a/n 附近，字母形体待对照。",
+      "source": "literature/tiles/01_DHS/page_0159/pdf_0159_band_y0_top.png",
+      "crop_xyxy": [
+        1570,
+        535,
+        2000,
+        700
+      ],
+      "magnification": 5,
+      "recorded_at": "2026-11-18T03:07:43.954868+08:00"
+    },
+    {
+      "page": 91,
+      "position": 11,
+      "field": "R",
+      "blind_read": "mēn sēng",
+      "uncertainty": "字母按可见连笔判作 men seng，尚需核对行序与末笔。",
+      "source": "literature/tiles/01_DHS/page_0091/pdf_0091_band_y1_mid.png",
+      "crop_xyxy": [
+        1490,
+        760,
+        1900,
+        1040
+      ],
+      "magnification": 5,
+      "recorded_at": "2026-11-18T03:19:27.173239+08:00"
+    },
+    {
+      "page": 114,
+      "position": 2,
+      "field": "R",
+      "blind_read": "zū iuěn vàng",
+      "uncertainty": "末音节起笔按墨迹写 v，首词起笔及第二音节调符仍存疑。",
+      "source": "literature/tiles/01_DHS/page_0114/pdf_0114_band_y0_top.png",
+      "crop_xyxy": [
+        1650,
+        480,
+        2040,
+        650
+      ],
+      "magnification": 5,
+      "recorded_at": "2026-11-18T03:27:52.375429+08:00"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "created_at": "2026-11-18T02:32:44.489327+08:00",
+  "scope": "7项独立模型抽验；不是人审、终审或真实性真值",
+  "counts": {
+    "一致": 5,
+    "不一致": 1,
+    "不可判断": 1
+  },
+  "notable": "p0183 position=5 field=R 的候选理由称字母 a、y，但 V1 原文末字母为 i；独立读取为 cuày chày，判两皆误，须人工复核，不可直接覆盖。",
+  "fivefold_example": {
+    "source": "literature/tiles/01_DHS/page_0183/pdf_0183_band_y1_mid.png",
+    "box_xyxy": [
+      1580,
+      100,
+      1900,
+      240
+    ],
+    "scale": 5
+  },
+  "comparisons": [
+    {
+      "position": 1,
+      "field": "M",
+      "v1": "siû",
+      "rr": "sùⁿ",
+      "independent_verdict": "V1对",
+      "candidate_verdict": "V1对",
+      "comparison": "一致",
+      "independent_evidence": "首音节可见 i 的点及后接 u；未见可定的上标 n。",
+      "candidate_evidence": "上带首行中栏可见 i、u 和帽形调号，未辨出重读的上标 n。"
+    },
+    {
+      "position": 2,
+      "field": "M",
+      "v1": "chiá siû",
+      "rr": "chhia sùⁿ",
+      "independent_verdict": "V1对",
+      "candidate_verdict": "V1对",
+      "comparison": "一致",
+      "independent_evidence": "首词可见单个 h，后词可见 i 点与 u；未见上标 n。",
+      "candidate_evidence": "上带第二行中栏首词只辨一处 h，后词可见 i、u。"
+    },
+    {
+      "position": 4,
+      "field": "M",
+      "v1": "Lāp siû lāng",
+      "rr": "laⁿp sùⁿ lang",
+      "independent_verdict": "V1对",
+      "candidate_verdict": "V1对",
+      "comparison": "一致",
+      "independent_evidence": "首词可辨 lap，中词可见 i 点和 u；未见两个上标 n。",
+      "candidate_evidence": "上带第四行中栏可见 lap、siu、lang，未见可确定的上标 n。"
+    },
+    {
+      "position": 5,
+      "field": "R",
+      "v1": "cuāy chái",
+      "rr": "cuày chèⁿ",
+      "independent_verdict": "两皆误",
+      "candidate_verdict": "V1对",
+      "comparison": "不一致",
+      "independent_evidence": "首词呈 cuay，第二词呈 chay，末笔下伸似 y，非 i 或 n。",
+      "candidate_evidence": "中带首行右栏第二词可辨 a、y 的连写。"
+    },
+    {
+      "position": 6,
+      "field": "M",
+      "v1": "thiāng",
+      "rr": "tiàng",
+      "independent_verdict": "重读对",
+      "candidate_verdict": "重读对",
+      "comparison": "一致",
+      "independent_evidence": "起笔 t 后接带点的 i，未见另一 h；呈 tiang。",
+      "candidate_evidence": "中带第二行中栏可见 t、i、a、n、g 连写，未辨出额外 h。"
+    },
+    {
+      "position": 7,
+      "field": "M",
+      "v1": "ség sià",
+      "rr": "seg già",
+      "independent_verdict": "墨迹不明",
+      "candidate_verdict": "V1对",
+      "comparison": "不可判断",
+      "independent_evidence": "第二音节首笔与邻近长 s / g 的区分不够稳定。",
+      "candidate_evidence": "中带第三行中栏第二词首字更像长 s，后接 i、a。"
+    },
+    {
+      "position": 7,
+      "field": "R",
+      "v1": "chȳ chāy",
+      "rr": "chỹ chèy",
+      "independent_verdict": "V1对",
+      "candidate_verdict": "V1对",
+      "comparison": "一致",
+      "independent_evidence": "第二音节可见 ch 后 a 形及下伸的 y；非 cheⁿ。",
+      "candidate_evidence": "中带第三行右栏末词可见 a、y 连写。"
+    }
+  ]
+}

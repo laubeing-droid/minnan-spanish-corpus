@@ -1,0 +1,38 @@
+{
+  "method": "先独立按墨迹逐页封存；机器视觉判读，非人审",
+  "stage": "blind_sealed",
+  "items": [
+    {
+      "page": 75,
+      "position": 20,
+      "field": "M",
+      "independent_reading": "quiū fît",
+      "image": "literature/tiles/01_DHS/page_0075/pdf_0075_band_y2_bot.png",
+      "crop_box_px": [
+        1030,
+        810,
+        1430,
+        1130
+      ],
+      "scale": 5,
+      "row_anchor": "页底最后一条视觉行，汉字栏为求得",
+      "uncertainty": "首词笔画和两处声调符位置存疑；不依音系改写"
+    },
+    {
+      "page": 72,
+      "position": 6,
+      "field": "M",
+      "independent_reading": "[残]iǒng [残]",
+      "image": "literature/tiles/01_DHS/page_0072/pdf_0072_band_y0_top.png",
+      "crop_box_px": [
+        1160,
+        870,
+        1510,
+        1110
+      ],
+      "scale": 5,
+      "row_anchor": "自上而下第六条视觉行，汉字栏为頌德",
+      "uncertainty": "首字母 s/f 与末一词字母轮廓不清，保留残缺；不依音系改写"
+    }
+  ]
+}

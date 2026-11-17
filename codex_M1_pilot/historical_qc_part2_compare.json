@@ -1,0 +1,28 @@
+{
+  "blind_file": "codex_M1_pilot/historical_qc_part2.json",
+  "blind_sha256": "68ae1762e7e552e4b6ddee234daa95fab6ecaa4c26406b90856a78c5bcb2875b",
+  "source": "codex_M1_pilot/qc_historical100_sample.json",
+  "reviewer_type": "机器视觉独立盲读；非人审",
+  "items": [
+    {
+      "page": 75,
+      "position": 20,
+      "field": "source_M",
+      "old": "guīñ fit.",
+      "new": "quīu tít.",
+      "independent_reading": "quiū fît",
+      "comparison": "不明",
+      "reason": "首词独立读法近新值；次词盲读首字母为 f、与新值 t 不同，但放大墨迹 f/t 未能可靠区分，不能断定旧值或新值整条正确。"
+    },
+    {
+      "page": 72,
+      "position": 6,
+      "field": "source_M",
+      "old": "fiong tay [残]",
+      "new": "sionǧ tey",
+      "independent_reading": "[残]iǒng [残]",
+      "comparison": "不明",
+      "reason": "首字母 s/f 与第二词受墨迹遮挡无法可靠区分，不足以裁断新值。"
+    }
+  ]
+}

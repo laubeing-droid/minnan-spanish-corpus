@@ -1,0 +1,51 @@
+{
+  "seed": 20261118,
+  "population": 100,
+  "samples": [
+    {
+      "page": 159,
+      "position": 2,
+      "field": "source_R",
+      "old": "pÿ vōy choāng",
+      "new": "pÿ vȳ choāng",
+      "verdict": "两皆误",
+      "staleDrift": false
+    },
+    {
+      "page": 91,
+      "position": 11,
+      "field": "source_R",
+      "old": "meu fēng",
+      "new": "mēu sēng",
+      "verdict": "两皆误",
+      "staleDrift": false
+    },
+    {
+      "page": 114,
+      "position": 2,
+      "field": "source_R",
+      "old": "zûn iuĕn vâng",
+      "new": "zū iuĕn vang",
+      "verdict": "两皆误",
+      "staleDrift": false
+    },
+    {
+      "page": 75,
+      "position": 20,
+      "field": "source_M",
+      "old": "guīñ fit.",
+      "new": "quīu tít.",
+      "verdict": "两皆误",
+      "staleDrift": false
+    },
+    {
+      "page": 72,
+      "position": 6,
+      "field": "source_M",
+      "old": "fiong tay [残]",
+      "new": "sionǧ tey",
+      "verdict": "两皆误",
+      "staleDrift": false
+    }
+  ]
+}

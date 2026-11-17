@@ -1,0 +1,64 @@
+{
+  "created_at": "2026-11-18T03:30:58.017930+08:00",
+  "scope": "三项独立模型盲核，非人审或最终真值；整字段与局部字母判断分开",
+  "blind_file_sha256": "e38c8990e889ba170329f68e617e091e41c942ab6cb6f9a0f4f773c99ade30ca",
+  "rows": [
+    {
+      "page": 159,
+      "position": 2,
+      "field": "R",
+      "blind_read": "pỳ vȳ choǎng",
+      "old": "pÿ vōy choāng",
+      "new": "pÿ vȳ choāng",
+      "field_assessment": "不明",
+      "changed_letters_assessment": "支持新值",
+      "reason": "盲读第二音节为 vȳ，与新值字母一致，旧值多出 o；但首、末音节调符的形态及归属仍存疑，不能据此核准整字段。",
+      "source": "literature/tiles/01_DHS/page_0159/pdf_0159_band_y0_top.png",
+      "crop_xyxy": [
+        1570,
+        535,
+        2000,
+        700
+      ],
+      "magnification": 5
+    },
+    {
+      "page": 91,
+      "position": 11,
+      "field": "R",
+      "blind_read": "mēn sēng",
+      "old": "meu fēng",
+      "new": "mēu sēng",
+      "field_assessment": "不明",
+      "changed_letters_assessment": "支持新值",
+      "reason": "盲读第二词首字为 s，支持新值而非旧值的 f；第一词盲读为 mēn，旧新值写 meu，末笔 u/n 仍不能确定。",
+      "source": "literature/tiles/01_DHS/page_0091/pdf_0091_band_y1_mid.png",
+      "crop_xyxy": [
+        1490,
+        760,
+        1900,
+        1040
+      ],
+      "magnification": 5
+    },
+    {
+      "page": 114,
+      "position": 2,
+      "field": "R",
+      "blind_read": "zū iuěn vàng",
+      "old": "zûn iuĕn vâng",
+      "new": "zū iuĕn vang",
+      "field_assessment": "不支持",
+      "changed_letters_assessment": "部分支持新值",
+      "reason": "首词盲读 zū，与新值省去旧值尾 n 的字母变化一致；但末词盲读为带斜调符的 vàng，新值 vang 未记该符，故不能支持完整字面。",
+      "source": "literature/tiles/01_DHS/page_0114/pdf_0114_band_y0_top.png",
+      "crop_xyxy": [
+        1650,
+        480,
+        2040,
+        650
+      ],
+      "magnification": 5
+    }
+  ]
+}
