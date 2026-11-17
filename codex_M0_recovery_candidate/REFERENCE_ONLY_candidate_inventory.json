@@ -1,0 +1,75 @@
+{
+  "status": "BLOCKED_PENDING_EVIDENCE",
+  "ready_for_grading": false,
+  "purpose": "记录新卷修复候选；不是判卷标准，禁止用于正式放行",
+  "supersedes_old_standard": false,
+  "old_standard": "literature/workspace_m2_dhs834/collision_mr/calibration/CALIBRATION_STANDARD_V1.json",
+  "old_threshold": {
+    "core_count": 9,
+    "minimum_correct": 8,
+    "hanzi_count": 2,
+    "hanzi_minimum_correct": 2
+  },
+  "old_standard_actual_core_count": 8,
+  "crop_b_candidate": {
+    "path": "codex_M0_recovery_candidate/B_wide_v2_candidate.png",
+    "sha256": "b7514a2c06e36f414047903d4031b1bb71d576cad2b5d462cbd07c3c7eb460fb",
+    "source": "literature/tiles/01_DHS/page_0257/pdf_0257_band_y1_mid.png",
+    "source_sha256": "8c3a125273d76a80302ab2d104f4a1574d760bc637094c981b6404bb7babfed1",
+    "bbox_xyxy": [
+      950,
+      0,
+      1530,
+      1217
+    ],
+    "scale": 2,
+    "resampling": "Pillow LANCZOS",
+    "local_only_not_tracked": true
+  },
+  "old_core_candidates_if_a3_a4_excluded": [
+    {
+      "crop": "A",
+      "visual_line_1based": 5,
+      "field": "M"
+    },
+    {
+      "crop": "B",
+      "visual_line_1based": 2,
+      "field": "M"
+    },
+    {
+      "crop": "B",
+      "visual_line_1based": 5,
+      "field": "M"
+    },
+    {
+      "crop": "B",
+      "visual_line_1based": 6,
+      "field": "M"
+    },
+    {
+      "crop": "B",
+      "visual_line_1based": 7,
+      "field": "M"
+    },
+    {
+      "crop": "D",
+      "visual_line_1based": 1,
+      "field": "H"
+    },
+    {
+      "crop": "D",
+      "visual_line_1based": 2,
+      "field": "H"
+    }
+  ],
+  "candidates_evidence_status": "以上只是原标准现有题目的定位，尚未全部核实为可评分的人工验真行。",
+  "additional_complete_latin_lines_needed_if_a3_a4_excluded": 2,
+  "additional_complete_latin_lines_needed_if_a4_adequately_resolved": 1,
+  "blocking_items": [
+    "A 第 3 行原标准明确排除；A 第 4 行 truth 与 verify、truthNote 冲突。",
+    "保留核心九题、8/9、汉字 2/2 的前提下，还缺经证据支持的独立整行。",
+    "B 第 5、6 行完整值和 D 两行的用户原始验真凭据尚未定位。",
+    "B 第 7 行 ŋ 与 ng、上置小字母和组合标记的比较规则尚未裁定。"
+  ]
+}

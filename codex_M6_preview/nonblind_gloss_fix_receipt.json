@@ -1,0 +1,117 @@
+{
+  "status": "APPLIED_NONBLIND_GLOSS_ONLY",
+  "scope": "3 页 4 条主释义；本次先阅读既有字面与释义，再看原图、文献并独立复核，不是独立盲读；M0 及 M6 均未完成。",
+  "reference": {
+    "author": "刘莉美",
+    "year": 2020,
+    "url": "https://ccsndb.ncl.edu.tw/nclccs/pdf/01_038_002_01_06.pdf",
+    "pages": [
+      225,
+      226,
+      227
+    ]
+  },
+  "files": [
+    {
+      "page": 286,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0286.json",
+      "old_sha256": "a3c39c78083ba9a10f443ad13a9e80e1fc2cb1e3c1b863b18a6bd83d635fbaa6",
+      "new_sha256": "e3ff810169a2d147e96a2692c64e37a98464fbd9700472455353d61c589b5f4d",
+      "sealed_sha256": "33723ef53137b7c0d9a02d38031efeefba3946eefc46cb426b8b543924024d61",
+      "image": "literature/tiles/01_DHS/page_0286/pdf_0286_band_y0_top.png",
+      "image_sha256": "b3cc024a0e711bf068cbaf31a9f1c977a3001491b356e4cdbb80d6ccc515a75f"
+    },
+    {
+      "page": 340,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0340.json",
+      "old_sha256": "0a2f636dbc2ac104700171cd324dd1bb2446e5240ffbbf9460caea25062e109e",
+      "new_sha256": "c10d8e95bf0cfb680f933fede64829a02b460613c04fef80eefd0712efd55928",
+      "sealed_sha256": "a9404f06e8fdfbc22f8e77ec89cb41163c55bd46ad1ae0084514d6a25e7f65ec",
+      "image": "literature/tiles/01_DHS/page_0340/pdf_0340_band_y1_mid.png",
+      "image_sha256": "1950aa6e5ca7296591a6b10634224aa651d304e7cf3c552af5f3568c8900eb59"
+    },
+    {
+      "page": 1135,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p1135.json",
+      "old_sha256": "03995881a16ae4744ee5f71ab9297ff41b880c3493862c0584247c0849dcbcbb",
+      "new_sha256": "da60ad0fa272d744ee2ea8d4a5c754a7dc48fdffe00552909e552ff15356d0bb",
+      "sealed_sha256": "fe2740b7873feac4fc196183a2222cd925ef403603683a1c183232a96bd1468e",
+      "image": "literature/tiles/01_DHS/page_1135/pdf_1135_band_y2_bot.png",
+      "image_sha256": "986faf63f0e00936036464ee6d01fe74c01b6b9140448b14350a3a52371b6392"
+    }
+  ],
+  "changes": [
+    {
+      "page": 286,
+      "position": 3,
+      "old": {
+        "position": 3,
+        "zh": "蚶（大型贝类，血蚶、泥蚶）",
+        "en": "large shells; cockles (blood cockle, Arca type)",
+        "confidence": "high",
+        "notes": "西栏尾词 pajamer 难解（疑为原稿转写之讹），不影响四栏互证之主释义。"
+      },
+      "new": {
+        "position": 3,
+        "zh": "蚶；大型食用贝类。",
+        "en": "large edible shellfish (蚶)",
+        "confidence": "medium",
+        "notes": "刘莉美（2020）第 226 页表三将该例排印为 conchas grandes para comer；原封存西文末段仍存疑，未据此更改字面。"
+      }
+    },
+    {
+      "page": 340,
+      "position": 11,
+      "old": {
+        "position": 11,
+        "zh": "轮回：车轮回转、轮转不息；亦指轮回转世",
+        "en": "the wheel turns round; the round of transmigration (samsara)",
+        "confidence": "high",
+        "notes": ""
+      },
+      "new": {
+        "position": 11,
+        "zh": "轮回；轮子转动。",
+        "en": "the wheel turns",
+        "confidence": "medium",
+        "notes": "刘莉美（2020）第 225 页将此例与《明心寶鑑》译文对照，并讨论命运之轮意象；本行未提供明确转世语境。"
+      }
+    },
+    {
+      "page": 1135,
+      "position": 16,
+      "old": {
+        "position": 16,
+        "zh": "僧；和尚（出家人，西语以“我乃司铎、执事”相比况）",
+        "en": "a monk (Buddhist cleric); glossed 'I the priest, the minister'",
+        "confidence": "medium",
+        "notes": "词头尾词有[疑:minundo]标记；M 栏音节 ge 与单字“僧”不合，释义以汉字栏为准。"
+      },
+      "new": {
+        "position": 16,
+        "zh": "僧；本条为教士自称，约“我，教士……”。",
+        "en": "A cleric’s self-reference here: “I, the priest …”",
+        "confidence": "medium",
+        "notes": "词头尾词封存为 ministro [疑:minundo]，具体职衔待核；M 栏 cheng ge 与 H 栏单字“僧”不合。刘莉美（2020）第 227 页讨论教士以“僧”自称。"
+      }
+    },
+    {
+      "page": 1135,
+      "position": 18,
+      "old": {
+        "position": 18,
+        "zh": "僧家；僧众、佛门（出家人一门）",
+        "en": "the monastic order; monks as a class",
+        "confidence": "medium",
+        "notes": "词头'escriuimiento'有[疑:escriuiendo]标记，词头义依赖推断；释义以汉字栏僧、家为准。"
+      },
+      "new": {
+        "position": 18,
+        "zh": "僧家；本条与教士自称有关，具体用法待核。",
+        "en": "The phrase “僧家” occurs here in a cleric’s self-reference; its exact usage is uncertain.",
+        "confidence": "low",
+        "notes": "词头封存为 escrivimiento [疑:escriuiendo]。刘莉美（2020）第 226 页表三合列“僧／僧家”，第 227 页讨论“僧”自称；不足以单独确定本条“僧家”的具体词义。"
+      }
+    }
+  ]
+}
