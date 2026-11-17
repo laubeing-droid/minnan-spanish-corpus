@@ -1,0 +1,136 @@
+{
+  "status": "APPLIED_NONBLIND_GLOSS_ONLY",
+  "scope": "4 页 4 条主释义；先阅读既有字面和释义，再看原图、文献并独立复核，不是独立盲读；M0、M6 均未完成。",
+  "references": [
+    {
+      "author": "刘莉美",
+      "year": 2020,
+      "url": "https://ccsndb.ncl.edu.tw/nclccs/pdf/01_038_002_01_06.pdf",
+      "pages": [
+        222,
+        226,
+        227
+      ]
+    },
+    {
+      "author": "方真真",
+      "year": 2021,
+      "url": "https://www.ith.sinica.edu.tw/quarterly_download.php?filename=161890764312.pdf&name=05%E6%96%B9%E7%9C%9F%E7%9C%9F3%E5%AE%9A%E7%A8%BF0208.pdf",
+      "pages": [
+        201
+      ]
+    }
+  ],
+  "files": [
+    {
+      "page": 86,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0086.json",
+      "old_sha256": "30e8ba0f0d061580bfdf3a5ae88cabf3a36d3608d6e5ccf96b08bd9c266aa82c",
+      "new_sha256": "9b68697c20b3fca5db05fe5433a7d5db2a02ccabdda218e79a33e9b1ef993582",
+      "sealed_sha256": "fedacc0c49925b35eae978a3062483c41ea005f6b624933428b944c3865b9c93",
+      "image": "literature/tiles/01_DHS/page_0086/pdf_0086_band_y0_top.png",
+      "image_sha256": "dc099e1069fb5c1023961ac59f1c2b0508bcf0dd703947c4e3ca3be3c12e0ff7"
+    },
+    {
+      "page": 387,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0387.json",
+      "old_sha256": "6174d04a72a8a71382030dd886dd2d527fabd86772e347b7ba3074b90d7010ef",
+      "new_sha256": "ef8256d1c99db989c3822d206209219afcc3fe6488eda0b8ab23f2cb5aa80c57",
+      "sealed_sha256": "9434c43797bbc8f9277bad5531df2813bca91c36a1afc9b57e125cf5d3fe2d0f",
+      "image": "literature/tiles/01_DHS/page_0387/pdf_0387_band_y2_bot.png",
+      "image_sha256": "33304d71172ea3ac6ec254de0cb0581627aba74525ce6fe869dee2d2dbc465a1"
+    },
+    {
+      "page": 1029,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p1029.json",
+      "old_sha256": "02b54a4dcc02997754490b85f12ea2fe992ca25a39f8e3d2cd6e23db2076de01",
+      "new_sha256": "56bda1fd3c495ca578d51ca9da73d4b6e9f61ee7ff5748adee8f142e5c144cd1",
+      "sealed_sha256": "c695248607e37982883ea9df8198cc6a4b100ead511836273b29c5e8d4fb14c0",
+      "image": "literature/tiles/01_DHS/page_1029/pdf_1029_band_y2_bot.png",
+      "image_sha256": "4f549d163e981383c7f3829b8939e29494a6d947513f2b7313f35e5ac0581dee"
+    },
+    {
+      "page": 1137,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p1137.json",
+      "old_sha256": "af838f0a64e8670467365f81903d10d4397c02c4ded00e6619c024a0229f0731",
+      "new_sha256": "8c257c39214f2efc2816d4a4f770815f6f03b15f9bf001f4a3d6cf37d7e03d87",
+      "sealed_sha256": "b6bab119113a3200594a0ffeb72be89ad45373006d7cbecf5f81fe390f6dc4ba",
+      "image": "literature/tiles/01_DHS/page_1137/pdf_1137_band_y2_bot.png",
+      "image_sha256": "ab1f7b654fe53c6ef8fb1e779252aa83228519d5de3061ce0c25c01e55f58555"
+    }
+  ],
+  "changes": [
+    {
+      "page": 86,
+      "position": 5,
+      "old": {
+        "position": 5,
+        "zh": "宇宙：上下四方、天地万物（高与卑之总称）",
+        "en": "the universe; all that is high and low, the cosmos",
+        "confidence": "high",
+        "notes": ""
+      },
+      "new": {
+        "position": 5,
+        "zh": "宇宙；论文将本条西文释作“高与低”。",
+        "en": "the universe; the Spanish wording is interpreted as “high and low”",
+        "confidence": "medium",
+        "notes": "刘莉美（2020）第 226 页表三将此条排为 alto y bajo；现封存西文为 alos y baſo，字面差异待核。刘文同表另列本书 p0254 宇宙对应 cielo y tierra，不将其移作本条原文。"
+      }
+    },
+    {
+      "page": 387,
+      "position": 19,
+      "old": {
+        "position": 19,
+        "zh": "太极：太极；西语原以 Dios 对译，原稿划去",
+        "en": "t'ai-chi, the Supreme Ultimate (the Spanish gloss “Dios” is struck through in the original)",
+        "confidence": "low",
+        "notes": "词头与 M 栏均有划去，M 后旁注 Esvia 难辨且有 T99 污损；汉字太极仍可辨，Dios 对译已废。"
+      },
+      "new": {
+        "position": 19,
+        "zh": "太极；原与 Dios 对译，西文、汉字及闽南音写均见划线。",
+        "en": "Taiji (the Supreme Ultimate), originally paired with Dios; the Spanish, Chinese and Hokkien are struck through.",
+        "confidence": "low",
+        "notes": "刘莉美（2020）第 222、227 页记太極被删改；原图可见西文、汉字及 M 栏音写划线，官话栏仍可辨。M 旁注封存作 Esvia [疑:大字难辨]，音写有 T99；刘文释读为 Erejia（异端），字面待核；删改者和动因未定。"
+      }
+    },
+    {
+      "page": 1029,
+      "position": 16,
+      "old": {
+        "position": 16,
+        "zh": "鸡笼、淡水（「美丽岛」〔台湾〕上西班牙人所驻两处据点）",
+        "en": "Kelang (Keelung) and Tamsui, Spanish-held places on Isla Hermosa (Taiwan)",
+        "confidence": "medium",
+        "notes": "adosetan 疑为 a donde se están 之连写；美丽岛即台湾，鸡笼、淡水为 17 世纪西班牙人据点。"
+      },
+      "new": {
+        "position": 16,
+        "zh": "鸡笼淡水；福尔摩沙（台湾）上西班牙人所在的土地。",
+        "en": "“雞籠淡水”: land on Isla Hermosa where the Spaniards are.",
+        "confidence": "medium",
+        "notes": "封存 adosetan 疑为 a donde se están 连写，字面待核。刘莉美（2020）第 222 页、方真真（2021）第 201 页均讨论此条；原条地名连续，精确空间范围未单独确定。"
+      }
+    },
+    {
+      "page": 1137,
+      "position": 17,
+      "old": {
+        "position": 17,
+        "zh": "澎湖；澎湖列岛（闽海渔民群岛，西人称 Pescadores，马尼拉—闽南航线所经）",
+        "en": "P'eng-hu, the Pescadores: island group off the Fujian coast, way-station of Hokkien fishermen on the Manila trade route",
+        "confidence": "high",
+        "notes": ""
+      },
+      "new": {
+        "position": 17,
+        "zh": "彭湖（今澎湖）；近中国沿岸的渔人之岛。",
+        "en": "Penghu (written 彭湖 in the manuscript); a fishermen’s islet near the coast of China.",
+        "confidence": "medium",
+        "notes": "方真真（2021）第 201 页列此词例；原图西文拼写仍待逐笔核对。本条未直接载明渔人的闽南身份或马尼拉航线。"
+      }
+    }
+  ]
+}
