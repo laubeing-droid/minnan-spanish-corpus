@@ -32,6 +32,12 @@ def soup(s):
                    unicodedata.name(c, "").startswith("LATIN "))
 
 
+def soup_with_modifiers(s):
+    s = unicodedata.normalize("NFD", s or "").lower()
+    return "".join(c if unicodedata.category(c) == "Lm" or
+                   unicodedata.name(c, "").startswith("COMBINING LATIN") else soup(c) for c in s)
+
+
 def identity(row):
     if not isinstance(row, dict) or type(row.get("position")) is not int:
         return None
@@ -292,8 +298,9 @@ def main():
                 continue
             ink = str(v.get("ink") or "").strip()
             if vd == "重读对":
-                if ink and soup(ink) != soup(row["rr"]):
-                    deferred.append({**row, "reason": "重读对的 ink 与 rr 字母不一致"})
+                if ink and (soup(ink) != soup(row["rr"]) or
+                            soup_with_modifiers(ink) != soup_with_modifiers(row["rr"])):
+                    deferred.append({**row, "receipt": source, "reason": "重读对的 ink 与 rr 字母不一致"})
                     continue
                 ink_source = "ink" if ink else "rr"
                 ink = ink or row["rr"].strip()
@@ -321,7 +328,10 @@ def main():
                 continue
             old = str(sealed_pos[pos].get(fld) or "")
             if old == row["v1"] and soup(old) == soup(ink):
-                skipped["字母汤等价"] += 1
+                if soup_with_modifiers(old) != soup_with_modifiers(ink):
+                    deferred.append({**row, "receipt": source, "reason": "上置或修饰字母差异；字母汤忽略，待核"})
+                else:
+                    skipped["字母汤等价"] += 1
                 continue
             token_change = None
             if old != row["v1"]:
@@ -343,7 +353,10 @@ def main():
                     deferred.append({**row, "reason": reason})
                     continue
                 if soup(row["v1"]) == soup(ink):
-                    skipped["字母汤等价"] += 1
+                    if soup_with_modifiers(row["v1"]) != soup_with_modifiers(ink):
+                        deferred.append({**row, "receipt": source, "reason": "上置或修饰字母差异；字母汤忽略，待核"})
+                    else:
+                        skipped["字母汤等价"] += 1
                     continue
                 token_change = {"old_token": row["v1"], "new_token": ink, "offset": offset,
                                 "offset_unit": "unicode_codepoint",

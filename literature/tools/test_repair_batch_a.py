@@ -35,7 +35,8 @@ def setup(root, pg, items, verdicts, entries, raw=None):
     m = root / "literature/workspace_m2_dhs834"
     q = m / "collision_mr/adk" / f"adk_p{pg:04}.json"
     write(q, {"page": pg, "items": items})
-    write(q.with_name(f"adk_verdict_p{pg:04}.json"), {"page": pg, "verdicts": verdicts})
+    graded = [dict(v, letters="两皆误", tone_mark="存疑") for v in verdicts]
+    write(q.with_name(f"adk_verdict_p{pg:04}.json"), {"page": pg, "verdicts": graded})
     write(m / f"blind_read_p{pg:04}.json", {"pdf_page": pg, "entries": entries})
     (m / "raw_blind").mkdir(exist_ok=True)
     if raw is not None:
@@ -51,6 +52,7 @@ def freeze(root, queues):
         files.append({"path": q.relative_to(root).as_posix(), "bytes": len(data),
                       "sha256": hashlib.sha256(data).hexdigest()})
     write(root / "codex_M1_adk_queue_freeze.json", {"queue_count": len(files), "files": files})
+    write(root / "codex_M1_legacy_verdict_freeze.json", {"files": []})
 
 
 def run(root, script, *args):
@@ -199,6 +201,31 @@ def soup_test(root):
     assert log["skipped"]["字母汤等价"] == 1
 
 
+def modifier_deferred_test(root):
+    queues = []
+    cases = [
+        (108, "chûi tay", "chûi tay", "chûiᶜ tay̌", "两皆误", "other"),
+        (109, "hi pien bye", "pien", "pieⁿ", "两皆误", "other"),
+        (110, "bao", "bao", "chûiᶜ", "重读对", "chui"),
+        (111, "ba", "ba", "bā", "两皆误", "other"),
+    ]
+    for pg, old, v1, ink, vd, rr in cases:
+        it = item(field="R", v1=v1, rr=rr)
+        entries = [entry(r=old)]
+        queues.append(setup(root, pg, [it], [verdict(it, ink=ink, vd=vd)], entries, copy.deepcopy(entries)))
+    freeze(root, queues)
+    assert run(root, "collect_adk_verdicts.py").returncode == 0
+    m = root / "literature/workspace_m2_dhs834"
+    before = {pg: (m / "raw_blind" / f"raw_part_p{pg:04}.json").read_bytes() for pg, *_ in cases}
+    result = run(root, "repair_batch_a.py", "--pages", ",".join(str(x[0]) for x in cases))
+    assert result.returncode == 0, (result.stdout, result.stderr)
+    log = json.loads(next((m / "collision_mr").glob("REPAIR_BATCH_A_0108_0111_*.json")).read_text(encoding="utf-8"))
+    assert log["appliedCount"] == 0 and log["skipped"]["字母汤等价"] == 1
+    assert {r["page"] for r in log["deferred"]} == {108, 109, 110}
+    assert all(r["v1"] and r["rr"] and r["receipt"]["file"] for r in log["deferred"])
+    assert all((m / "raw_blind" / f"raw_part_p{pg:04}.json").read_bytes() == data for pg, data in before.items())
+
+
 def duplicate_merge_test(root):
     queues = []
     for pg in range(70, 82):
@@ -323,7 +350,7 @@ def token_repair_test(root):
 
 
 if __name__ == "__main__":
-    for test in (batch_test, threshold_test, frozen_test, outside_frozen_test, soup_test,
+    for test in (batch_test, threshold_test, frozen_test, outside_frozen_test, soup_test, modifier_deferred_test,
                  duplicate_merge_test, token_repair_test):
         with tempfile.TemporaryDirectory() as td:
             test(Path(td))

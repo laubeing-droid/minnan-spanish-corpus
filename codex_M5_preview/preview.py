@@ -5,13 +5,12 @@ import json
 import re
 import subprocess
 import sys
-import unicodedata
 from collections import Counter, defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "literature" / "tools"))
-from repair_batch_a import soup
+from repair_batch_a import soup, soup_with_modifiers as index_letters
 
 WORK = ROOT / "literature" / "workspace_m2_dhs834"
 OUT = ROOT / "codex_M5_preview"
@@ -26,12 +25,6 @@ def han_key(text):
         n = ord(c)
         return 0x3400 <= n <= 0x9FFF or 0xF900 <= n <= 0xFAFF or 0x20000 <= n <= 0x323AF
     return text if text and all(han(c) for c in text) else ""
-
-
-def index_letters(text):
-    text = unicodedata.normalize("NFD", str(text or "")).lower()
-    return "".join(c if unicodedata.category(c) == "Lm" or
-                   unicodedata.name(c, "").startswith("COMBINING LATIN") else soup(c) for c in text)
 
 
 def roman(text):
