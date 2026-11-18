@@ -1,7 +1,7 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-18T01:12:27.575257+00:00",
-  "git_head_at_snapshot": "2e917b5e679b73b3109827c5679738a5419e9c0c",
+  "snapshot_utc": "2026-11-18T05:36:19.498492+00:00",
+  "git_head_at_snapshot": "323f02f3147480124c7458d74c7cef285d4ff5c7",
   "protocol": "CODEX_RESIDUAL_LEDGER_IN_PROGRESS_V1",
   "scope": "交接时点尚待处理的裁决、校准、复核、互证与释义事项；跨模块计数可重叠，不得简单相加。",
   "sources": {
@@ -15,7 +15,7 @@
     },
     "m0": {
       "path": "codex_M0_fresh_report.md",
-      "sha256": "3bcf587f72712b1fdf228a076f6ba498e4947bb9133be17c93949c19ebc95d61"
+      "sha256": "e3e0c47fb5fab577a8b2037e75350ba8a3da29481d0dbb68377f5647d4857401"
     },
     "m1": {
       "path": "codex_progress_M1.md",
@@ -39,7 +39,7 @@
     },
     "m6": {
       "path": "codex_M6_gloss_inventory.md",
-      "sha256": "014fdd0c4038e97825855f38b32a177a5ba588c98185aa7e69c20fd83d21f976"
+      "sha256": "69148d2f6ae12ec51e8ff6caefcde8f301006fb4df2ba8bbae0bc0a5de5de7f5"
     },
     "manifest": {
       "path": "literature/workspace_m2_dhs834/BLIND_READ_MANIFEST.json",
@@ -136,6 +136,26 @@
     "m6_nonblind_fix_9": {
       "path": "codex_M6_preview/nonblind_gloss_fix_receipt_9.json",
       "sha256": "70b9919c0535a97738f04f1542c6d29c40a2ea20c624b6ae272193d3fff404eb"
+    },
+    "m6_nonblind_fix_10": {
+      "path": "codex_M6_preview/nonblind_gloss_fix_receipt_10.json",
+      "sha256": "757f69c13a0271be56dc4ee2564f21223769b938d837007b921be780561f8228"
+    },
+    "m0_original_reference": {
+      "path": "codex_M0_recovery_candidate/REFERENCE_ONLY_ORIGINAL_CROPS_NINE.json",
+      "sha256": "c333e395c6e31b7e7c33d9737c58a2e5a71ddfdefe7bc925989e76515e3bfcd8"
+    },
+    "m0_original_candidate_review": {
+      "path": "codex_M0_recovery_candidate/REFERENCE_ONLY_ORIGINAL_CROPS_REVIEW_20261118.md",
+      "sha256": "9b2756637fac773a4da355111e36e6539e3633ad96926f2899371e252664d1a7"
+    },
+    "m0_original_candidate_grader": {
+      "path": "codex_M0_recovery_candidate/grade_original_crops_candidate.py",
+      "sha256": "76e8214ab99b050338e66553da5f07cad13b7675900b2853ad25acb91b07057b"
+    },
+    "m0_original_candidate_tests": {
+      "path": "codex_M0_recovery_candidate/test_original_crops_candidate.py",
+      "sha256": "bbae2351af9bc0468bd9f27eb94d836270bade933c8d2cbf6e8ae20dccb3e955"
     }
   },
   "m0": {
@@ -159,7 +179,23 @@
       "report": "codex_M0_zoom_report.json",
       "b6_status": "B 单图截边，原 D 图有续笔，跨图评分规则未定"
     },
-    "v2_draft": "新卷、题号映射及记号比较仍待核；合成测试不构成放行"
+    "v2_draft": "新卷、题号映射及记号比较仍待核；合成测试不构成放行",
+    "original_four_candidate": {
+      "official_score": null,
+      "status": "仅相对用户九值的候选诊断；行序及 A3/A4/B7 参考冲突未定，不能授予正式资格。",
+      "zoom": {
+        "certain_matches": 4,
+        "possible_maximum": 5,
+        "hanzi_matches": 2
+      },
+      "fresh": {
+        "certain_matches": 4,
+        "possible_maximum": 6,
+        "hanzi_matches": 2
+      },
+      "synthetic_tests_passed": 33,
+      "review": "codex_M0_recovery_candidate/REFERENCE_ONLY_ORIGINAL_CROPS_REVIEW_20261118.md"
+    }
   },
   "m1": {
     "queue_pages": 1101,
@@ -8206,13 +8242,17 @@
       "1139",
       "1140"
     ],
-    "limits": "主释义结构完整不证明译义正确；v3 缺页属于第三版及旧 K≥3 对碰范围，与主释义覆盖不是同一口径；受正式字面修复影响页仍须刷新。 已有八十一条不同释义非盲修订，其他内容及第二版仍须核对。",
+    "limits": "主释义结构完整不证明译义正确；v3 缺页属于第三版及旧 K≥3 对碰范围，与主释义覆盖不是同一口径；受正式字面修复影响页仍须刷新。 已有八十七条不同释义非盲修订，其他内容及第二版仍须核对。",
     "primary_gloss_nonblind_fixed": {
       "pages": [
         45,
+        49,
+        50,
+        54,
         67,
         86,
         99,
+        110,
         112,
         119,
         133,
@@ -8250,6 +8290,7 @@
         706,
         727,
         730,
+        749,
         774,
         776,
         798,
@@ -8266,13 +8307,14 @@
         1067,
         1071,
         1095,
+        1109,
         1115,
         1127,
         1135,
         1137
       ],
-      "entries": 81,
-      "revision_events": 82,
+      "entries": 87,
+      "revision_events": 88,
       "receipts": [
         "codex_M6_preview/nonblind_gloss_fix_receipt.json",
         "codex_M6_preview/nonblind_gloss_fix_receipt_2.json",
@@ -8282,7 +8324,8 @@
         "codex_M6_preview/nonblind_gloss_fix_receipt_6.json",
         "codex_M6_preview/nonblind_gloss_fix_receipt_7.json",
         "codex_M6_preview/nonblind_gloss_fix_receipt_8.json",
-        "codex_M6_preview/nonblind_gloss_fix_receipt_9.json"
+        "codex_M6_preview/nonblind_gloss_fix_receipt_9.json",
+        "codex_M6_preview/nonblind_gloss_fix_receipt_10.json"
       ],
       "v2_synchronized": false
     }
