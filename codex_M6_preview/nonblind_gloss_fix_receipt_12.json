@@ -1,0 +1,217 @@
+{
+  "status": "APPLIED_NONBLIND_GLOSS_ONLY",
+  "scope": "5 页 7 条主释义；先阅读既有封存和释义，再对照原图及文献并独立非盲复核；不是独立盲读；M0、M6 均未完成。",
+  "reference": {
+    "author": "Juan Gil",
+    "title": "El Dictionarivm Hispano-Sinicvm de la Universidad de Santo Tomás (Manila)",
+    "publication": "Abenámar III (2019–2020), 67–83",
+    "url": "https://fundacionramonmenendezpidal.org/revista/index.php/Abenamar/article/download/33/65",
+    "pdf_sha256": "3b19bc629293149e82606f01c04b2a592c12e49016201eacd5e174e1048c3019",
+    "printed_pages": [
+      71,
+      72,
+      74,
+      78
+    ],
+    "note": "每条均为论文直接引例；参见、类比和跨行对位的限制见各条 notes。"
+  },
+  "files": [
+    {
+      "page": 60,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0060.json",
+      "old_sha256": "254edeccc0000687ba839f4eb05f4ba37fceb8a02c6dff919b87cc7222c2d521",
+      "new_sha256": "9bca75454e11fa4ee5a94b7fa589ed2aea61385f7d54e6d390b7aa3ec7868c86",
+      "sealed_sha256": "6a8167762ab9df09b00fa3b3edceceddea956d2feda13d6788d9af3aedeb9e10",
+      "image": "literature/tiles/01_DHS/page_0060/pdf_0060_band_y1_mid.png",
+      "image_sha256": "19d60aaced8d562188017db6915d0fcc347662b47e66aadac83e19d5913b0e1b",
+      "additional_images": []
+    },
+    {
+      "page": 68,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0068.json",
+      "old_sha256": "e1ec61d41e31bc79969bbcb8bb556f7eb4add100bbada2c0564edd1e2ddfbfc0",
+      "new_sha256": "9ce5e2bacbe987346abf870cc68eca23f10bb48c9d060b987b581517e4c17237",
+      "sealed_sha256": "637b7bc6cf178e8ae32aeb5d8f3c48e3b10b06a629bbf3d4449a2ed0075a6d1f",
+      "image": "literature/tiles/01_DHS/page_0068/pdf_0068_band_y0_top.png",
+      "image_sha256": "37c80b2d3717bf5512ae9d23356b8ceff80290f1532e3f46ba3fda8eea661802",
+      "additional_images": [
+        {
+          "path": "literature/tiles/01_DHS/page_0068/pdf_0068_band_y2_bot.png",
+          "sha256": "2f36d825596e3db48958e54fc5ae994a6cfa7917b824b30c16936c4fc6fbeaf8"
+        }
+      ]
+    },
+    {
+      "page": 54,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0054.json",
+      "old_sha256": "23c09c678c957c6c073cc8c674c5f30880daa822e80284cb2500f6ed606f782a",
+      "new_sha256": "2863f49a8d935eb232522718e4a6133439d0eb1f4a866054bf3ffebabfc03b86",
+      "sealed_sha256": "ed7cd7bc18c630d4efc1e74b9577482c1f4fc6c1f796e7380f9a1c061e2dede4",
+      "image": "literature/tiles/01_DHS/page_0054/pdf_0054_band_y0_top.png",
+      "image_sha256": "e36a2a4657682fc2e2a50e004dfefa2abb3e25ded1faf965c4212c9e3cd9556e",
+      "additional_images": []
+    },
+    {
+      "page": 758,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0758.json",
+      "old_sha256": "367a996ebc4a826e0bc38b8555dbf9d77374d9b421cd5cd925c49b18d9c5f7b7",
+      "new_sha256": "103c9a3d09d16fd93dadc81b68d91862682d7e86c1324ee564135095a085564f",
+      "sealed_sha256": "95577beeb667af3e4ff6cc4305f5c74cf9a4b896c65f560091a105157b70ca0b",
+      "image": "literature/tiles/01_DHS/page_0758/pdf_0758_band_y0_top.png",
+      "image_sha256": "b3f23f7cf2735507b1ff229d399e0daa5ec60b8026ee07b4153bcf9a448a754b",
+      "additional_images": []
+    },
+    {
+      "page": 643,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0643.json",
+      "old_sha256": "f7990d59f81b147cba31beefa0d5e0fe27122a2368a03944b95364d382ae3bc9",
+      "new_sha256": "9fae6f00893c4310a3a0d1332ebe0fc9b20fc297d7165fd4d26afe5f9990580f",
+      "sealed_sha256": "bf560b0c1a3c42a1e1cc42615adc131d2891c804c7f74a64cd19d67d6a233ee0",
+      "image": "literature/tiles/01_DHS/page_0643/pdf_0643_band_y1_mid.png",
+      "image_sha256": "88a9850e27fa3bf352658aff946498bc9ca3b7d0043747690ae3a4b3dc57ba44",
+      "additional_images": []
+    }
+  ],
+  "changes": [
+    {
+      "page": 60,
+      "position": 7,
+      "old": {
+        "position": 7,
+        "zh": "报答——回报、酬谢；西文注谓“即报偿、酬报”",
+        "en": "to repay, requite; to return thanks (agradecer, glossed in Spanish as 'to pay, retribution')",
+        "confidence": "high",
+        "notes": ""
+      },
+      "new": {
+        "position": 7,
+        "zh": "报答——回报、酬谢（参见报偿、酬报）",
+        "en": "to repay, requite; to return thanks (see pay, recompense)",
+        "confidence": "high",
+        "notes": "Juan Gil（2019–2020）第 71 页直接引影印本 p.31 此条，将 q; 释为 quaere（参见）；pagar、retribución 是参检词，不是定义等式。"
+      },
+      "image": "literature/tiles/01_DHS/page_0060/pdf_0060_band_y1_mid.png",
+      "image_sha256": "19d60aaced8d562188017db6915d0fcc347662b47e66aadac83e19d5913b0e1b"
+    },
+    {
+      "page": 68,
+      "position": 3,
+      "old": {
+        "position": 3,
+        "zh": "节省开支；敛省（省俭用度、节制花费）",
+        "en": "to save on expenses; to spend moderately, economize",
+        "confidence": "high",
+        "notes": ""
+      },
+      "new": {
+        "position": 3,
+        "zh": "节省开支；敛省（省俭用度、节制花费）",
+        "en": "to save on expenses; to spend moderately, economize",
+        "confidence": "high",
+        "notes": "Juan Gil（2019–2020）第 71 页直接引影印本 p.39 此条，q; 为参见，目标作 moderado gasto；封存作 moderado, gastar，具体分词待核。"
+      },
+      "image": "literature/tiles/01_DHS/page_0068/pdf_0068_band_y0_top.png",
+      "image_sha256": "37c80b2d3717bf5512ae9d23356b8ceff80290f1532e3f46ba3fda8eea661802"
+    },
+    {
+      "page": 68,
+      "position": 10,
+      "old": {
+        "position": 10,
+        "zh": "搬嫁妆：备办、搬送陪嫁财物；嫁妆、妆奁",
+        "en": "dowry, trousseau; household goods brought in marriage (to move the dowry)",
+        "confidence": "high",
+        "notes": ""
+      },
+      "new": {
+        "position": 10,
+        "zh": "搬嫁妆：搬送陪嫁财物；嫁妆、妆奁",
+        "en": "dowry, trousseau; household goods brought in marriage (to move the dowry)",
+        "confidence": "high",
+        "notes": "Juan Gil（2019–2020）第 71 页直接引影印本 p.39 此条；q; 为参见 dote，不能仅凭参见关系断定该词与 ajuar 完全等义。"
+      },
+      "image": "literature/tiles/01_DHS/page_0068/pdf_0068_band_y2_bot.png",
+      "image_sha256": "2f36d825596e3db48958e54fc5ae994a6cfa7917b824b30c16936c4fc6fbeaf8"
+    },
+    {
+      "page": 68,
+      "position": 12,
+      "old": {
+        "position": 12,
+        "zh": "插插：把窗扇插闩关合（关上两扇窗）",
+        "en": "to shut or bar (two) windows; to fit the window shutters closed",
+        "confidence": "medium",
+        "notes": "M/R 音写 ba ba 与 H「插」音不协，本字存疑；释义依 L「ajustar ventanas」（关合窗扉）与 H「插」（插闩）取关窗义。"
+      },
+      "new": {
+        "position": 12,
+        "zh": "接合、对合，如两扇窗相合；汉字及动作细节待核。",
+        "en": "to fit together, as in the case of two windows; the characters and precise action remain uncertain",
+        "confidence": "medium",
+        "notes": "Juan Gil（2019–2020）第 71–72 页解释 ut 为类比并直接引此例；原图词头有涂改。封存 H 作「插插」，字形与音写待核，不据此断定插闩或关窗。"
+      },
+      "image": "literature/tiles/01_DHS/page_0068/pdf_0068_band_y2_bot.png",
+      "image_sha256": "2f36d825596e3db48958e54fc5ae994a6cfa7917b824b30c16936c4fc6fbeaf8"
+    },
+    {
+      "page": 54,
+      "position": 3,
+      "old": {
+        "position": 3,
+        "zh": "煽；煽动挑拨，以谄言拨弄人心（义同阿谀奉承）",
+        "en": "to incite, stir up; to flatter, coax (same as lisonjear)",
+        "confidence": "high",
+        "notes": ""
+      },
+      "new": {
+        "position": 3,
+        "zh": "煽；谄媚、奉承（参见 lisonjear）。",
+        "en": "to flatter or fawn (see lisonjear)",
+        "confidence": "medium",
+        "notes": "Juan Gil（2019–2020）第 71 页直接引影印本 p.25 此条，q; 为参见；汉栏作「煽」，不据单字外推挑拨目的。下一行另有以奉承行骗的词条。"
+      },
+      "image": "literature/tiles/01_DHS/page_0054/pdf_0054_band_y0_top.png",
+      "image_sha256": "e36a2a4657682fc2e2a50e004dfefa2abb3e25ded1faf965c4212c9e3cd9556e"
+    },
+    {
+      "page": 758,
+      "position": 3,
+      "old": {
+        "position": 3,
+        "zh": "〔原件残缺，释义存疑〕",
+        "en": "〔原件残缺，释义存疑〕",
+        "confidence": "low",
+        "notes": "汉字栏与官话栏皆空，M栏对音无字可证，西栏Paquin. S. Corte & luy难解，材料不足"
+      },
+      "new": {
+        "position": 3,
+        "zh": "Paquin；参见国王朝廷。汉字栏空。",
+        "en": "Paquin; see the king's court; the Chinese-character column is blank",
+        "confidence": "medium",
+        "notes": "原图及 Juan Gil（2019–2020）第 78 页直接引影印本 p.724 此条，支持 q. corte del rey 的参见关系；封存西文缩写与尾词读法不同，未改字面。汉字及官话栏空。"
+      },
+      "image": "literature/tiles/01_DHS/page_0758/pdf_0758_band_y0_top.png",
+      "image_sha256": "b3f23f7cf2735507b1ff229d399e0daa5ec60b8026ee07b4153bcf9a448a754b"
+    },
+    {
+      "page": 643,
+      "position": 9,
+      "old": {
+        "position": 9,
+        "zh": "知县：一县之长官，掌全县政务、刑名、钱谷；西语比作城市长官（alcalde de ciudad）。",
+        "en": "知縣 (district magistrate): chief officer of a county, likened to a city mayor (alcalde de ciudad).",
+        "confidence": "high",
+        "notes": ""
+      },
+      "new": {
+        "position": 9,
+        "zh": "知县；西文承上行，将八品官比作普通地方长官（alcalde ordinario）。",
+        "en": "county magistrate; the entry compares an eighth-rank official to an ordinary local magistrate",
+        "confidence": "medium",
+        "notes": "原图西文 dignidad 跨上下两视觉行，Juan Gil（2019–2020）第 74 页直接引整句；此为词条作者的跨制度类比，不据此断言知县实际法定品级。封存 de ciudad 与原图及论文不同，待字面层裁决。"
+      },
+      "image": "literature/tiles/01_DHS/page_0643/pdf_0643_band_y1_mid.png",
+      "image_sha256": "88a9850e27fa3bf352658aff946498bc9ca3b7d0043747690ae3a4b3dc57ba44"
+    }
+  ]
+}
