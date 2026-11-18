@@ -1,7 +1,7 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-18T00:33:39.540897+00:00",
-  "git_head_at_snapshot": "8ecace514c8de33da96914abe2fa0ca4223ea7a2",
+  "snapshot_utc": "2026-11-18T00:47:54.109613+00:00",
+  "git_head_at_snapshot": "87a8384e613bbe9f5265b7dd0b15c4c1065d1993",
   "protocol": "CODEX_RESIDUAL_LEDGER_IN_PROGRESS_V1",
   "scope": "交接时点尚待处理的裁决、校准、复核、互证与释义事项；跨模块计数可重叠，不得简单相加。",
   "sources": {
@@ -39,7 +39,7 @@
     },
     "m6": {
       "path": "codex_M6_gloss_inventory.md",
-      "sha256": "ac251023b220e2f223fd59a701b6c85fc2bc210add70ecb33d124e05b8939663"
+      "sha256": "8b613b98e343dc5801f0acc58d616bb53d4ccdb8ab18b2e35f52c453ab568e80"
     },
     "manifest": {
       "path": "literature/workspace_m2_dhs834/BLIND_READ_MANIFEST.json",
@@ -128,6 +128,10 @@
     "m6_nonblind_fix_7": {
       "path": "codex_M6_preview/nonblind_gloss_fix_receipt_7.json",
       "sha256": "ac0b79e67f48dbae80d2a333fdf1ebccc900f42cf0c2a75ca522646db4eff55d"
+    },
+    "m6_nonblind_fix_8": {
+      "path": "codex_M6_preview/nonblind_gloss_fix_receipt_8.json",
+      "sha256": "518502286e89ae7b0bfeb6218731c17ce5c8f13111f87f8a0d91a72961d6b90b"
     }
   },
   "m0": {
@@ -8198,9 +8202,10 @@
       "1139",
       "1140"
     ],
-    "limits": "主释义结构完整不证明译义正确；v3 缺页属于第三版及旧 K≥3 对碰范围，与主释义覆盖不是同一口径；受正式字面修复影响页仍须刷新。 已有四十一条不同释义非盲修订，其他内容及第二版仍须核对。",
+    "limits": "主释义结构完整不证明译义正确；v3 缺页属于第三版及旧 K≥3 对碰范围，与主释义覆盖不是同一口径；受正式字面修复影响页仍须刷新。 已有六十条不同释义非盲修订，其他内容及第二版仍须核对。",
     "primary_gloss_nonblind_fixed": {
       "pages": [
+        67,
         86,
         99,
         112,
@@ -8210,8 +8215,14 @@
         165,
         181,
         192,
+        205,
+        237,
+        250,
         259,
+        263,
+        265,
         281,
+        284,
         286,
         290,
         291,
@@ -8221,9 +8232,14 @@
         383,
         387,
         488,
+        505,
+        563,
+        622,
         706,
+        727,
         730,
         876,
+        955,
         956,
         984,
         996,
@@ -8231,11 +8247,12 @@
         1067,
         1095,
         1115,
+        1127,
         1135,
         1137
       ],
-      "entries": 41,
-      "revision_events": 42,
+      "entries": 60,
+      "revision_events": 61,
       "receipts": [
         "codex_M6_preview/nonblind_gloss_fix_receipt.json",
         "codex_M6_preview/nonblind_gloss_fix_receipt_2.json",
@@ -8243,7 +8260,8 @@
         "codex_M6_preview/nonblind_gloss_fix_receipt_4.json",
         "codex_M6_preview/nonblind_gloss_fix_receipt_5.json",
         "codex_M6_preview/nonblind_gloss_fix_receipt_6.json",
-        "codex_M6_preview/nonblind_gloss_fix_receipt_7.json"
+        "codex_M6_preview/nonblind_gloss_fix_receipt_7.json",
+        "codex_M6_preview/nonblind_gloss_fix_receipt_8.json"
       ],
       "v2_synchronized": false
     }
