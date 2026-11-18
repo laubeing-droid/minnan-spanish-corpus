@@ -67,3 +67,7 @@ print(json.dumps({'pages':len(pages),'entries':count,'bad':bad},ensure_ascii=Fal
 sys.exit(bool(bad))
 '@ | python -X utf8 -
 ```
+
+## p0203–0222 批次的受影响页
+
+p0209、p0215、p0220 经实际字面修复并重封后，主释义 61 条按最新封存刷新，其中 54 条有变化。逐项 old/new、输入摘要及非盲复核见 `codex_M6_preview/batch02_gloss_refresh_receipt.json`；其他释义版本未据此视为同步。
