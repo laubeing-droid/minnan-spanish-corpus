@@ -1,0 +1,82 @@
+{
+  "status": "APPLIED_NONBLIND_GLOSS_ONLY",
+  "scope": "p0281 #6/#7 非盲释义修订及 #8 调号注释更正；不是独立字面盲读，M0 与 M6 均未完成。",
+  "reference": {
+    "author": "Juan Gil",
+    "publication": "Abenámar III (2019–2020), 67–83",
+    "url": "https://fundacionramonmenendezpidal.org/revista/index.php/Abenamar/article/download/33/65",
+    "pdf_sha256": "3b19bc629293149e82606f01c04b2a592c12e49016201eacd5e174e1048c3019",
+    "printed_pages": [
+      72
+    ],
+    "limit": "论文直接引用相邻 #8，不直接引用 #6/#7。"
+  },
+  "files": [
+    {
+      "page": 281,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0281.json",
+      "old_sha256": "d443379e86ba97a1daec8f6d9d82205432403c8a1d3f3480fe2ff5cf978b2a3e",
+      "new_sha256": "ee953c92a97a1ca3640f88d8f238810be181bb032ace8c56961950de36d59a03",
+      "sealed_sha256": "9606cee2ed1dd9c323e2692473f36e08de38e992f954edf751c4ef2d64e6d054",
+      "image": "literature/tiles/01_DHS/page_0281/pdf_0281_band_y1_mid.png",
+      "image_sha256": "cf8a73974f8cc7a9b12af078fc1f015865386e007bc1a6e005c1a2a9764fb927"
+    }
+  ],
+  "changes": [
+    {
+      "page": 281,
+      "position": 6,
+      "old": {
+        "position": 6,
+        "zh": "音；声音；音信、消息（传音、通信）",
+        "en": "sound; news, tidings; message (to send word)",
+        "confidence": "medium",
+        "notes": "“諳/訡”二字难辨，惟 M im、R in 与“音”相合（官话 in），取“音（音讯）”义以合西语 comunicar（传通）。"
+      },
+      "new": {
+        "position": 6,
+        "zh": "传递或分享财物、益处；汉字词义待核。",
+        "en": "to communicate or share goods or benefits; the Chinese character and its meaning remain uncertain",
+        "confidence": "low",
+        "notes": "原图西文末词形似 bienes，现封存记为 bien；Juan Gil（2019–2020）第 72 页引同页相邻词例，但未逐条讨论本行。汉字末字諳/訡及其与西文的对应关系待核。"
+      }
+    },
+    {
+      "page": 281,
+      "position": 7,
+      "old": {
+        "position": 7,
+        "zh": "福音；好消息、喜讯（马尼拉天主教语境指基督福音）",
+        "en": "the Gospel (evangelium); good news, glad tidings",
+        "confidence": "medium",
+        "notes": "“諳”疑为“音”之误识，hoc im / fo in 即 hok-im（福音），R 官话 fu-in 亦合；R 首音节标记 T99 污损，但不碍判断。"
+      },
+      "new": {
+        "position": 7,
+        "zh": "传递或分享财物、益处；汉字词义待核。",
+        "en": "to communicate or share goods or benefits; the Chinese expression and its meaning remain uncertain",
+        "confidence": "low",
+        "notes": "原图西文末词形似 bienes，现封存记为 bien；Juan Gil（2019–2020）第 72 页引同页相邻词例，但未逐条讨论本行。汉字末字諳/訡及其对应关系、圈记性质待核；R 首音节 T99。"
+      }
+    },
+    {
+      "page": 281,
+      "position": 8,
+      "old": {
+        "position": 8,
+        "zh": "相互分享财物或福益；汉字词义待核。",
+        "en": "to share goods or benefits with one another; the Chinese expression remains uncertain",
+        "confidence": "medium",
+        "notes": "Juan Gil（2019–2020）第 72 页引影印本 p.252，录为 comunicarse ad inuicem los bienes；现封存末段为 las bieng，存在字面差异。汉字及其与西文的对应关系待核；R 首标记 T99。"
+      },
+      "new": {
+        "position": 8,
+        "zh": "相互分享财物或福益；汉字词义待核。",
+        "en": "to share goods or benefits with one another; the Chinese expression remains uncertain",
+        "confidence": "medium",
+        "notes": "Juan Gil（2019–2020）第 72 页引影印本 p.252，录为 comunicarse ad inuicem los bienes；现封存末段为 las bieng，存在字面差异。汉字及其与西文的对应关系待核；R 栏一处标记为 T99。"
+      },
+      "reason": "原先将第二项 T99 误记为首标记，按封存 tone_marks_R 更正位置表述。"
+    }
+  ]
+}
