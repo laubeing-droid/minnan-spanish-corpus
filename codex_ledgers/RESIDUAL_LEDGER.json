@@ -1,7 +1,7 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-18T05:55:15.573766+00:00",
-  "git_head_at_snapshot": "13e106c6800363f1152d3f03ab000236223227d0",
+  "snapshot_utc": "2026-11-18T06:21:11.519921+00:00",
+  "git_head_at_snapshot": "381be814108f64e02897e6e334e73912dad8659d",
   "protocol": "CODEX_RESIDUAL_LEDGER_IN_PROGRESS_V1",
   "scope": "交接时点尚待处理的裁决、校准、复核、互证与释义事项；跨模块计数可重叠，不得简单相加。",
   "sources": {
@@ -39,7 +39,7 @@
     },
     "m6": {
       "path": "codex_M6_gloss_inventory.md",
-      "sha256": "69148d2f6ae12ec51e8ff6caefcde8f301006fb4df2ba8bbae0bc0a5de5de7f5"
+      "sha256": "f8ddeaa9d19dbab6c3dafdc9a1d4eb628dc6c77c8f596ee78f5cc768a2f58b93"
     },
     "manifest": {
       "path": "literature/workspace_m2_dhs834/BLIND_READ_MANIFEST.json",
@@ -164,6 +164,10 @@
     "m0_ink_reference": {
       "path": "codex_M0_ink_reference_audit.md",
       "sha256": "046b9550fbea33c46478d5c1bf40b725534ac4e36fe0645e1d773c82d571dfe1"
+    },
+    "m6_nonblind_fix_11": {
+      "path": "codex_M6_preview/nonblind_gloss_fix_receipt_11.json",
+      "sha256": "889ad46baec2d0028efebb59613716cc52606899caeb204a484bf72cdc4c5994"
     }
   },
   "m0": {
@@ -8257,13 +8261,16 @@
       "1139",
       "1140"
     ],
-    "limits": "主释义结构完整不证明译义正确；v3 缺页属于第三版及旧 K≥3 对碰范围，与主释义覆盖不是同一口径；受正式字面修复影响页仍须刷新。 已有八十七条不同释义非盲修订，其他内容及第二版仍须核对。",
+    "limits": "主释义结构完整不证明译义正确；v3 缺页属于第三版及旧 K≥3 对碰范围，与主释义覆盖不是同一口径；受正式字面修复影响页仍须刷新。 已有九十条不同释义非盲修订，其他内容及第二版仍须核对。",
     "primary_gloss_nonblind_fixed": {
       "pages": [
         45,
         49,
         50,
+        53,
         54,
+        56,
+        57,
         67,
         86,
         99,
@@ -8328,8 +8335,8 @@
         1135,
         1137
       ],
-      "entries": 87,
-      "revision_events": 88,
+      "entries": 90,
+      "revision_events": 91,
       "receipts": [
         "codex_M6_preview/nonblind_gloss_fix_receipt.json",
         "codex_M6_preview/nonblind_gloss_fix_receipt_2.json",
@@ -8340,7 +8347,8 @@
         "codex_M6_preview/nonblind_gloss_fix_receipt_7.json",
         "codex_M6_preview/nonblind_gloss_fix_receipt_8.json",
         "codex_M6_preview/nonblind_gloss_fix_receipt_9.json",
-        "codex_M6_preview/nonblind_gloss_fix_receipt_10.json"
+        "codex_M6_preview/nonblind_gloss_fix_receipt_10.json",
+        "codex_M6_preview/nonblind_gloss_fix_receipt_11.json"
       ],
       "v2_synchronized": false
     }

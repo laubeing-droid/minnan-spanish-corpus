@@ -1,0 +1,102 @@
+{
+  "status": "APPLIED_NONBLIND_GLOSS_ONLY",
+  "scope": "3 页 3 条主释义；先阅读既有封存和释义，再对照原图及文献并独立非盲复核；不是独立盲读；M0、M6 均未完成。",
+  "reference": {
+    "author": "Juan Gil",
+    "title": "El Dictionarivm Hispano-Sinicvm de la Universidad de Santo Tomás (Manila)",
+    "publication": "Abenámar III (2019–2020), 67–83",
+    "url": "https://fundacionramonmenendezpidal.org/revista/index.php/Abenamar/article/download/33/65",
+    "pdf_sha256": "3b19bc629293149e82606f01c04b2a592c12e49016201eacd5e174e1048c3019",
+    "printed_pages": [
+      71,
+      78,
+      79
+    ],
+    "note": "三条均为论文直接引例，具体出处与未决对应各见条目 notes。"
+  },
+  "files": [
+    {
+      "page": 56,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0056.json",
+      "old_sha256": "1dc1967eadfdc659c68c1763c896dbae438d6a3f2399d19cb53368d45f6716fd",
+      "new_sha256": "64dbdae40e684cdf916da905c89e079424603483d038d6634b5ad6f60ec561fd",
+      "sealed_sha256": "2cba096974b309fcb894340a84024954e4f105d302f67e57f4c431fd802ff92d",
+      "image": "literature/tiles/01_DHS/page_0056/pdf_0056_band_y1_mid.png",
+      "image_sha256": "5f8081a20419f16888266bf8ec8447ae7d28945e0c5b45685e2c6b19710c8809"
+    },
+    {
+      "page": 57,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0057.json",
+      "old_sha256": "b4d5ece12984e829ddb36ece9a65ee064e87bdcb60a067764f6ae68fa8e8f5a1",
+      "new_sha256": "de141904a2630469b6481d41aa0502d0ed22f77712e6a9b321f14641eafe8bcc",
+      "sealed_sha256": "cf8a22870a9531867a47a9742ed105eb827cee661ac5bf1ba9b2dd253f4fb4ca",
+      "image": "literature/tiles/01_DHS/page_0057/pdf_0057_band_y0_top.png",
+      "image_sha256": "3a0ae152439d001e59dd410f6e992fc2d306f9397e1bc41c170484d986c9aa36"
+    },
+    {
+      "page": 53,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0053.json",
+      "old_sha256": "8e4a8b8a2c6ac346ed8aa073576319bd91a14d1d2c87c94f2564692a9bc54fdf",
+      "new_sha256": "da149ec44aaa8b281cdd6dc698b6c65d39b3d0a5faf20c395bb06917ffd5edf4",
+      "sealed_sha256": "8b9f2ee6ddb2400b5c13e80d7b31cbde0c7980d1ade0b79c6e3fc7d117b357b5",
+      "image": "literature/tiles/01_DHS/page_0053/pdf_0053_band_y1_mid.png",
+      "image_sha256": "8226a5a64cdb7c0fc80f404521665aae9717cf156fb7ea20380d01b9d04455a7"
+    }
+  ],
+  "changes": [
+    {
+      "page": 56,
+      "position": 12,
+      "old": {
+        "position": 12,
+        "zh": "红颜；红润姣好之容颜（精心妆饰之貌）",
+        "en": "a rosy, carefully adorned countenance; beauty of complexion (fine adornment)",
+        "confidence": "high",
+        "notes": ""
+      },
+      "new": {
+        "position": 12,
+        "zh": "女子精心妆饰；参见 adorno。汉字「紅顔」的对应待核。",
+        "en": "a woman adorning herself carefully; see adorno; the correspondence with 紅顔 remains uncertain",
+        "confidence": "medium",
+        "notes": "Juan Gil（2019–2020）第 71 页直接引影印本 p.27 此条并将 q; 释为 quaere（参见）；封存的 q[ue] es 展开与此有别，释义不据其增补作等式。"
+      }
+    },
+    {
+      "page": 57,
+      "position": 4,
+      "old": {
+        "position": 4,
+        "zh": "忧愁憔悴；使困苦（因劳苦、悲伤、痛苦而憔悴）",
+        "en": "to afflict; to wear one out with toil, sorrow and pain",
+        "confidence": "high",
+        "notes": ""
+      },
+      "new": {
+        "position": 4,
+        "zh": "使忧苦、使痛苦；参见劳苦、悲痛等词，汉字「憔」的对应待核。",
+        "en": "to afflict or distress; see hardship and sorrow or pain; the correspondence with 憔 remains uncertain",
+        "confidence": "medium",
+        "notes": "Juan Gil（2019–2020）第 71 页直接引影印本 p.28 此条，将 q; 解释为参见；后接词不宜合成「因劳苦而憔悴」的因果句。Gil 作 trabajo，封存作 trabajos；分条与字面差异待核。"
+      }
+    },
+    {
+      "page": 53,
+      "position": 12,
+      "old": {
+        "position": 12,
+        "zh": "冠巾，戴冠裹巾（头部冠饰）",
+        "en": "cap and kerchief; to don headwear",
+        "confidence": "high",
+        "notes": "西语 banquin 疑为 bonete/vincha 一类头戴物之形讹；释义据汉栏冠巾与对音"
+      },
+      "new": {
+        "position": 12,
+        "zh": "装饰 banquin；汉字栏作「冠巾」，具体所指待核。",
+        "en": "to adorn the banquin; the Chinese column reads 冠巾, with the referent unconfirmed",
+        "confidence": "medium",
+        "notes": "Juan Gil（2019–2020）第 78–79 页直接引影印本 p.24 此条，并列出缝带及佩戴等其他用例；此处未给词形、材质或具体帽制定义，不据此改作 bonete 或 vincha。"
+      }
+    }
+  ]
+}
