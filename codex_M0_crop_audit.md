@@ -37,3 +37,5 @@ gray = np.asarray(b.convert('L'))[835:900, 1430:1460]
 print('right_of_edge_dark_lt150', int((gray < 150).sum()))
 '@ | python -X utf8 -
 ```
+
+【后续更正】本核查结论限于 B 单图。原卷 D 四栏图包含 B 第六行及其右边续笔，原提示要求 D 输出汉字，但是否允许借 D 的 M 栏核对 B 题尚待裁定；详见 `codex_M0_cross_crop_audit.md`。不可据 B 单图截断就断言原卷全部四图无法观察行末。
