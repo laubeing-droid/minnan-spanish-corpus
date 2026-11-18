@@ -11,3 +11,5 @@
 第二批经两位非盲读者核对原图与论文：p0086 #5 收窄宇宙词义，p0387 #19 补记汉字亦划去，p1029 #16 与 p1137 #17 去掉原条未载的地理历史推断。四页四条 old/new 及来源在 `codex_M6_preview/nonblind_gloss_fix_receipt_2.json`；两批合计七页八条，均不能代替全书逐条验收。
 
 第三、四批依据原图及 Juan Gil（2019–2020）对本辞典的逐例讨论，并经另一位非盲读者核对，修正 19 页 22 条主释义；对字面差异、跨栏对应和未定汉字均保留待核。两批逐项 old/new 见 `codex_M6_preview/nonblind_gloss_fix_receipt_3.json`、`codex_M6_preview/nonblind_gloss_fix_receipt_4.json`。截至本批四份回执合计 26 页 30 条，均非正式字面修复或全书释义验收。
+
+第五批将三页六条西文器物、节庆与汉字对译的差异按栏分述：p0181 #12/#13、p0323 #3–#5、p0488 #11；第六批依据原图及文献修正 p0290 #3、p0730 #20、p1115 #14，保留跨栏和字义待核。两批 old/new 分别见 `codex_M6_preview/nonblind_gloss_fix_receipt_5.json` 与 `codex_M6_preview/nonblind_gloss_fix_receipt_6.json`。六批累计 32 页 39 条；其他释义版本和全书内容仍未完成复核。
