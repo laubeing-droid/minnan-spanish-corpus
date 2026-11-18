@@ -92,7 +92,7 @@
       "consensus_status": "未决",
       "consensus_votes": 0,
       "handoff_reference": "cûa ciòng guêng pūē",
-      "reason": "原 B 裁片截去末段，故只列未决；不得要求读者补出画外文字。"
+      "reason": "原 B 图截去末段；原 D 图可见续笔，原卷是否允许跨图核对未裁定，本次仍列未决。"
     },
     {
       "question": "B7",
@@ -135,12 +135,14 @@
     "上置小字母 ᶜ 与组合小字母 ͨ 在现行字母汤中的处理不同",
     "ŋ 与 ng 现行比较不等同；若另作等同仅为敏感性讨论",
     "三个任务使用同一模型，错误可能相关",
-    "B6 原始裁片右侧截断，完整题无从仅凭原卷判错"
+    "B6 的 B 图右侧截断；原 D 图包含续笔，跨图评分口径待定"
   ],
   "reference_note": "交接九题清单原值与物理行的对应；其中 A3 与仓库排除裁定、A4 与标准 truth 冲突，列示不等于自行确定正式真值。",
   "crop_audit": {
     "path": "codex_M0_crop_audit.md",
-    "sha256": "8967e878c14fe0108e7fbcbd792f823b417907dacc241068701bd29ccd49be9c",
-    "B6": "原 B 裁片右边界截去行末；该题全行不可据原裁片完整作答，不作为确定错误"
+    "sha256": "60b93e47b195470353cf0f4463949951edc89aa1ac3db44bc2f8120a7fce0fd5",
+    "B6": "原 B 图截边；原 D 图含续笔，原卷跨图使用规则待定。",
+    "cross_crop_path": "codex_M0_cross_crop_audit.md",
+    "cross_crop_sha256": "5d4b203aab1b7e3e5e9f9bf9f4574b7ccb220839a73ee0a49bd2f2445fd684a1"
   }
 }

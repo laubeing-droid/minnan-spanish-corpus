@@ -1,0 +1,172 @@
+{
+  "protocol": "CALIBRATION_STANDARD_V2_DRAFT",
+  "frozen": null,
+  "frozenBy": null,
+  "changelog": [
+    "V1.1 2026-11-17：核真值后封存。y0 段 4 行降级排除（f/t/Z 三形混淆族 2 行、chiē̃/chēng 存疑 1 行、页眉词 1 行）；核心题冻结 9 条；门槛改为 core ≥8/9 且汉字 2/2 全过；cropD 改 CJK 精确比对（修复 soup 把汉字删成空串的虚假通过 bug——Codex RSI 提案证实）",
+    "V2 草案：采用本轮用户提供的九题清单，A3 入核心、A4 按清单取值；B 改扩框，保持 8/9 和汉字 2/2；非正式标准。"
+  ],
+  "crops": {
+    "cropA": {
+      "path": "_scratch_p0257/calib_p0257_mcol_y0.png",
+      "field": "M",
+      "lines": [
+        {
+          "idx": 0,
+          "truth": "ante.",
+          "core": false,
+          "verify": "2x 自读；页眉引导词，答案含/不含均可解释，不入核心"
+        },
+        {
+          "idx": 1,
+          "truth": "hiū fvā",
+          "core": false,
+          "verify": "排除：首字母 h/f 存疑（Gemini 提 hïū/fiiū）且 word2 f/t/Z 三形混淆族（音系非法），待墨迹裁决"
+        },
+        {
+          "idx": 2,
+          "truth": "tó toâ",
+          "core": true,
+          "verify": "用户本轮清单含 tó toâ；映射到 A3 为根据旧记录的推定，旧标准记 fo fva 并排除此行，待核"
+        },
+        {
+          "idx": 3,
+          "truth": "yô toâ",
+          "core": true,
+          "verify": "用户本轮清单；旧标准 truth 写 yō fvā，verify 和 truthNote 写 yô toâ",
+          "truthNote": "本轮清单 yô toâ；旧标准 truth 另写 yō fvā，参见来源记录"
+        },
+        {
+          "idx": 4,
+          "truth": "yó.",
+          "core": true,
+          "verify": "2x 清晰"
+        },
+        {
+          "idx": 5,
+          "truth": "chiē̃ pē",
+          "core": false,
+          "verify": "排除：i 的存在性存疑（Gemini 读 chēng pê，音系亦通），待墨迹裁决"
+        }
+      ]
+    },
+    "cropB": {
+      "path": "codex_M0_recovery_candidate/B_wide_v2_candidate.png",
+      "field": "M",
+      "lines": [
+        {
+          "idx": 0,
+          "truth": "chiē̃ pē",
+          "core": false,
+          "verify": "同 A5 存疑，排除"
+        },
+        {
+          "idx": 1,
+          "truth": "piēn",
+          "core": true,
+          "verify": "2x 清晰；遍 piēⁿ 音系通"
+        },
+        {
+          "idx": 2,
+          "truth": "ŷ uān",
+          "core": false,
+          "verify": "排除：首字母 ŷ/v/uy 存疑（圍圈 ūi-khoan 亦通）"
+        },
+        {
+          "idx": 3,
+          "truth": "tāū cōu",
+          "core": false,
+          "verify": "排除：尾字母 n/u 极小笔存疑（Gemini 亦如实标注）"
+        },
+        {
+          "idx": 4,
+          "truth": "cûa pūe",
+          "core": true,
+          "verify": "5x + 用户眼验双坐实（KEY 点：V1 曾误 ûia、GLM 曾误 ciā）"
+        },
+        {
+          "idx": 5,
+          "truth": "cûa ciòng guêng pūē",
+          "core": true,
+          "verify": "5x + 用户眼验双坐实（KEY 点）；ciòng/giôs 已裁 Gemini 误读"
+        },
+        {
+          "idx": 6,
+          "truth": "Pēŋ.",
+          "core": true,
+          "verify": "用户本轮清单为 Pēŋ；旧标准说明写 P-e-ng，不自动视作 ŋ/ng 等价"
+        }
+      ]
+    },
+    "cropC": {
+      "path": "_scratch_p0257/calib_p0030_m_lines12_4x.png",
+      "field": "M",
+      "lines": [
+        {
+          "idx": 0,
+          "truth": "aña ti Zūñ tûñ",
+          "core": false,
+          "hard": true,
+          "verify": "4x；两套机器读法均错（V1 tî Zūn cūn / 重读 tiⁿû tûû），难题试金不入门槛，单独报告"
+        }
+      ]
+    },
+    "cropD": {
+      "path": "_scratch_p0257/p0257_pos10_circuncidar.png",
+      "field": "H",
+      "compare": "CJK_EXACT",
+      "lines": [
+        {
+          "idx": 0,
+          "truth": "割皮",
+          "core": true,
+          "verify": "用户+主会话双验"
+        },
+        {
+          "idx": 1,
+          "truth": "割玉脛皮",
+          "core": true,
+          "verify": "用户眼验坐实（脛 为 莖 之俗写，音系+字义双证）"
+        }
+      ]
+    }
+  },
+  "grading": {
+    "latin": "沿用当前判卷器 soup：NFD 去 canonical combining class 非零字符，ⁿ→n，小写后保留 Unicode isalnum；ŋ 与 ng 不等同",
+    "cjk": "去除全部空白后字符串全等（修复 Codex RSI 提案所指虚假通过：旧 soup 将汉字删为空串致任意答案含 [未答] 皆过）",
+    "coreCount": 9,
+    "threshold": "核心题通过 ≥ 8/9 且 cropD 2/2 全过（汉字任一错即不通过）",
+    "hardLine": "cropC 单独报告，不入门槛",
+    "excludedCount": 6,
+    "excludedPolicy": "排除行不评分；答案缺失/多余行不入判，只记录"
+  },
+  "selftest": [
+    {
+      "case": "汉字正确",
+      "got": "割皮",
+      "truth": "割 皮",
+      "expect": "PASS"
+    },
+    {
+      "case": "汉字错误",
+      "got": "割肘",
+      "truth": "割 皮",
+      "expect": "FAIL"
+    },
+    {
+      "case": "汉字缺答",
+      "got": "",
+      "truth": "割 皮",
+      "expect": "FAIL"
+    }
+  ],
+  "status": "DRAFT_NOT_FORMAL",
+  "provenance": {
+    "user_reference": "主会话逐字转引本对话用户转交的 zcode 九题陈述；zcode 称全部经 5 倍镜/用户双验；与旧标准部分记录有冲突，本记录制作者未亲见原会话或逐字验墨过程",
+    "source_note": "codex_M0_recovery_candidate/REFERENCE_ONLY_V2_SOURCE.md",
+    "previous_standard": "literature/workspace_m2_dhs834/collision_mr/calibration/CALIBRATION_STANDARD_V1.json",
+    "previous_standard_preserved": true,
+    "crop_b_change": "B 为中横带 [950,0,1530,1217] 的 2 倍扩框新卷，非旧 B 裁片",
+    "item_location_mapping": "用户给出九值但未指定页内题号；本稿映射为根据旧记录与行序的推定，A3 尤待核。"
+  }
+}

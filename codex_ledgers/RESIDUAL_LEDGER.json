@@ -1,7 +1,7 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-17T23:52:10.040411+00:00",
-  "git_head_at_snapshot": "1d972f49d2e5c487458999e4afd3fab3e33e3924",
+  "snapshot_utc": "2026-11-18T00:14:35.605922+00:00",
+  "git_head_at_snapshot": "fd9359ee40dd53e3be8108ce80968be899f4f218",
   "protocol": "CODEX_RESIDUAL_LEDGER_IN_PROGRESS_V1",
   "scope": "交接时点尚待处理的裁决、校准、复核、互证与释义事项；跨模块计数可重叠，不得简单相加。",
   "sources": {
@@ -15,7 +15,7 @@
     },
     "m0": {
       "path": "codex_M0_fresh_report.md",
-      "sha256": "2a832f0d2d89fef726389b260ff32694d8c2433a3ba620eedd7db95a8a0b750b"
+      "sha256": "3bcf587f72712b1fdf228a076f6ba498e4947bb9133be17c93949c19ebc95d61"
     },
     "m1": {
       "path": "codex_progress_M1.md",
@@ -39,7 +39,7 @@
     },
     "m6": {
       "path": "codex_M6_gloss_inventory.md",
-      "sha256": "8ae5c8204decbd25cdd43b854df8196be9cf89c6f2d46eb720e297d24e372233"
+      "sha256": "27db454dfe2844b9fd5fb5ac620d0f85cf51dae98f30a998198946006000b0c6"
     },
     "manifest": {
       "path": "literature/workspace_m2_dhs834/BLIND_READ_MANIFEST.json",
@@ -79,11 +79,11 @@
     },
     "m0_ensemble": {
       "path": "codex_M0_ensemble_report.json",
-      "sha256": "961805dce0bd75807f0ebe0d77001992a54b18878604c5be3657b0908e0ac739"
+      "sha256": "2d42b350147cfaba98751be74923d3c7893978df065b3aec2dd275aa48ef6827"
     },
     "m0_crop": {
       "path": "codex_M0_crop_audit.md",
-      "sha256": "8967e878c14fe0108e7fbcbd792f823b417907dacc241068701bd29ccd49be9c"
+      "sha256": "60b93e47b195470353cf0f4463949951edc89aa1ac3db44bc2f8120a7fce0fd5"
     },
     "m4_literature": {
       "path": "codex_M4_literature_candidates.md",
@@ -99,7 +99,23 @@
     },
     "m0_zoom": {
       "path": "codex_M0_zoom_report.json",
-      "sha256": "77419823de553b6aef2b229c92d06edc132828cda11802983af1a12764faf2c7"
+      "sha256": "d335f47c6e1151c5635b6b6b65f1b782bc605beff48f3ac44e9f27151d31783d"
+    },
+    "m0_cross": {
+      "path": "codex_M0_cross_crop_audit.md",
+      "sha256": "5d4b203aab1b7e3e5e9f9bf9f4574b7ccb220839a73ee0a49bd2f2445fd684a1"
+    },
+    "m0_v2_draft": {
+      "path": "codex_M0_recovery_candidate/REFERENCE_ONLY_CALIBRATION_STANDARD_V2_DRAFT.json",
+      "sha256": "2ea1051e06758d3d8144c4ecb718ad79dfe2d2d17d047e0fe5b0c35bd179fcc1"
+    },
+    "m6_nonblind_fix_3": {
+      "path": "codex_M6_preview/nonblind_gloss_fix_receipt_3.json",
+      "sha256": "43a197d7bd2ec9e3f94f19b948ae330f29eb560c353c2abf717127dbcc5d338a"
+    },
+    "m6_nonblind_fix_4": {
+      "path": "codex_M6_preview/nonblind_gloss_fix_receipt_4.json",
+      "sha256": "079f9249490799d4052d43f119a1d42b025bee43df8370a4d2604e37ab4586d4"
     }
   },
   "m0": {
@@ -114,15 +130,16 @@
       "official_score": null,
       "limitations": "正式标准冲突，模型输出可能相关"
     },
-    "crop_B6": "原裁片右侧截断，完整行不可仅据原卷比较；旧卷成绩仅供诊断",
+    "crop_B6": "B 单图截边；原 D 图包含续笔，能否依原提示跨图使用尚待裁定。",
     "zoom_diagnostic": {
       "visible_rows_matching": 5,
       "visible_rows_disagreeing": 3,
-      "truncated_rows_not_scorable": 1,
       "hanzi_matching": 2,
       "official_score": null,
-      "report": "codex_M0_zoom_report.json"
-    }
+      "report": "codex_M0_zoom_report.json",
+      "b6_status": "B 单图截边，原 D 图有续笔，跨图评分规则未定"
+    },
+    "v2_draft": "新卷、题号映射及记号比较仍待核；合成测试不构成放行"
   },
   "m1": {
     "queue_pages": 1101,
@@ -8169,21 +8186,42 @@
       "1139",
       "1140"
     ],
-    "limits": "主释义结构完整不证明译义正确；v3 缺页属于第三版及旧 K≥3 对碰范围，与主释义覆盖不是同一口径；受正式字面修复影响页仍须刷新。 已有八条非盲修订，其他内容及第二版仍须核对。",
+    "limits": "主释义结构完整不证明译义正确；v3 缺页属于第三版及旧 K≥3 对碰范围，与主释义覆盖不是同一口径；受正式字面修复影响页仍须刷新。 已有三十条非盲修订，其他内容及第二版仍须核对。",
     "primary_gloss_nonblind_fixed": {
       "pages": [
         86,
+        99,
+        112,
+        119,
+        144,
+        159,
+        165,
+        192,
+        259,
+        281,
         286,
+        291,
+        322,
         340,
+        383,
         387,
+        706,
+        876,
+        956,
+        984,
+        996,
         1029,
+        1067,
+        1095,
         1135,
         1137
       ],
-      "entries": 8,
+      "entries": 30,
       "receipts": [
         "codex_M6_preview/nonblind_gloss_fix_receipt.json",
-        "codex_M6_preview/nonblind_gloss_fix_receipt_2.json"
+        "codex_M6_preview/nonblind_gloss_fix_receipt_2.json",
+        "codex_M6_preview/nonblind_gloss_fix_receipt_3.json",
+        "codex_M6_preview/nonblind_gloss_fix_receipt_4.json"
       ],
       "v2_synchronized": false
     }
