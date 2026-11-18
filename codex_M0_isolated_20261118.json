@@ -1,0 +1,25 @@
+{
+  "status": "DIAGNOSTIC_NOT_OFFICIAL",
+  "date": "2026-11-18",
+  "input": "原提示及四张原裁片的字节相同副本；同模型新独立读者仅在隔离目录读图，先交卷后比较。",
+  "original_prompt_sha256": "99677ad0757c053312db2e4b1ec91004170af5e9d49f3f4aa2464cf720c59db5",
+  "original_image_sha256": {
+    "A": "bc870402e452be101e618df195a5cd84fa809ed3f38bd52ea8af057304577691",
+    "B": "d2944f17f3b345526b7c0a443cdf750de44838b81c40277ac1a8832993eb64d6",
+    "C": "7be0d6ae8b833154cfeb78144647336e09e0a0bb8f8f0bf2511059f58bec040c",
+    "D": "efcb99cf23aee502b9ad5c17d3c76a5eaacf981597729227c36087615fdc88bb"
+  },
+  "answer_local_only": "_scratch_p0257/codex_calibration_isolated_20261118.json",
+  "answer_sha256": "056d995643773c9f7a301fc3dfedc626f2ed75505bb9c6f6fbbc9537046b5dff",
+  "candidate_grader": "codex_M0_recovery_candidate/grade_original_crops_candidate.py",
+  "candidate_grader_sha256": "76e8214ab99b050338e66553da5f07cad13b7675900b2853ad25acb91b07057b",
+  "candidate_reference_sha256": "c333e395c6e31b7e7c33d9737c58a2e5a71ddfdefe7bc925989e76515e3bfcd8",
+  "candidate_matching": ["A5", "B2", "D1", "D2"],
+  "candidate_unresolved": ["B5", "B7"],
+  "candidate_disagreements": ["A3", "A4", "B6"],
+  "candidate_matching_count": 4,
+  "candidate_possible_maximum": 6,
+  "hanzi_matching_count": 2,
+  "formal_pass": false,
+  "limits": "此为用户九值的候选比较，非正式成绩；依赖页眉和逐行对齐。A3/A4 的参考与旧 V1 冲突，B6 原 B 图截边、D 图有续笔，B7 有 ŋ/ng 记号差。C 不入门槛。旧 V1 标记八题而声明九题，正式判卷器拒判。"
+}

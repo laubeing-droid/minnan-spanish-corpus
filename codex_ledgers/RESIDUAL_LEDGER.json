@@ -1,7 +1,7 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-18T05:36:19.498492+00:00",
-  "git_head_at_snapshot": "323f02f3147480124c7458d74c7cef285d4ff5c7",
+  "snapshot_utc": "2026-11-18T05:55:15.573766+00:00",
+  "git_head_at_snapshot": "13e106c6800363f1152d3f03ab000236223227d0",
   "protocol": "CODEX_RESIDUAL_LEDGER_IN_PROGRESS_V1",
   "scope": "交接时点尚待处理的裁决、校准、复核、互证与释义事项；跨模块计数可重叠，不得简单相加。",
   "sources": {
@@ -15,7 +15,7 @@
     },
     "m0": {
       "path": "codex_M0_fresh_report.md",
-      "sha256": "e3e0c47fb5fab577a8b2037e75350ba8a3da29481d0dbb68377f5647d4857401"
+      "sha256": "f4b799efd883fa0df941cb03257b405bca3ec2c54fd70880308168759ec72c83"
     },
     "m1": {
       "path": "codex_progress_M1.md",
@@ -156,11 +156,19 @@
     "m0_original_candidate_tests": {
       "path": "codex_M0_recovery_candidate/test_original_crops_candidate.py",
       "sha256": "bbae2351af9bc0468bd9f27eb94d836270bade933c8d2cbf6e8ae20dccb3e955"
+    },
+    "m0_isolated": {
+      "path": "codex_M0_isolated_20261118.json",
+      "sha256": "79f5065038c3bd01414afd41171af735d87e186275dee2a768f69e23446a4426"
+    },
+    "m0_ink_reference": {
+      "path": "codex_M0_ink_reference_audit.md",
+      "sha256": "046b9550fbea33c46478d5c1bf40b725534ac4e36fe0645e1d773c82d571dfe1"
     }
   },
   "m0": {
     "formal_pass": false,
-    "status": "标准记录 8 项核心但声明 9 项，正式判卷拒判；同模型复测交接口径试算 5/9 为非正式结果。",
+    "status": "V1 标记 8 项核心但声明 9 项，正式判卷拒判；原四图同模型新盲卷相对用户九值确定一致 4/9、上限 6/9，为非正式诊断。",
     "same_model_consensus_diagnostic": {
       "handoff_reference_count": 9,
       "matching": 4,
@@ -194,7 +202,14 @@
         "hanzi_matches": 2
       },
       "synthetic_tests_passed": 33,
-      "review": "codex_M0_recovery_candidate/REFERENCE_ONLY_ORIGINAL_CROPS_REVIEW_20261118.md"
+      "review": "codex_M0_recovery_candidate/REFERENCE_ONLY_ORIGINAL_CROPS_REVIEW_20261118.md",
+      "isolated": {
+        "certain_matches": 4,
+        "possible_maximum": 6,
+        "hanzi_matches": 2,
+        "report": "codex_M0_isolated_20261118.json"
+      },
+      "ink_audit": "A3/A4 的 t/f/Z 与 o/v 未能按原图可靠裁定；见 codex_M0_ink_reference_audit.md。"
     }
   },
   "m1": {
