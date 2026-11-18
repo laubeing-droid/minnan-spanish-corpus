@@ -1,0 +1,67 @@
+{
+  "page": 215,
+  "review_type": "NONBLIND_FOLLOWUP",
+  "scope": "仅复核此前审阅的第 1、5、7、10、17、19 条是否已按最新封存修正；不是独立盲读、全页重审或历史文献人工验收。",
+  "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0215.json",
+  "sealed_sha256": "d444c17beedb13e30b85eb86e94af0bdbebba1e98c4e4b894b8f388a4d2291f4",
+  "candidate_path": "codex_M6_preview/batch02_refresh_p0215.json",
+  "candidate_sha256": "9a83764eb8ed668130b5ca48d2c987c9f5fa8c26aa46dd28beefc335c41c634e",
+  "previous_review_path": "codex_M6_preview/batch02_review_p0215.json",
+  "positions_reviewed": [
+    1,
+    5,
+    7,
+    10,
+    17,
+    19
+  ],
+  "result": "PASS_SIX_PREVIOUS_ISSUES",
+  "findings": [
+    {
+      "position": 1,
+      "previous_issue_resolved": true,
+      "evidence": "中英文均明确甘薯义属于 L 栏 Camote；notes 保留 H 栏羊/薯、两栏音写及对应不确定性。"
+    },
+    {
+      "position": 5,
+      "previous_issue_resolved": true,
+      "evidence": "notes 已改为 Juan Gil 论文印刷页 74、其所引影印本 p.186，并区分其引文与当前封存，未强行定为同条。"
+    },
+    {
+      "position": 7,
+      "previous_issue_resolved": true,
+      "evidence": "notes 已改为论文印刷页 74、其所引影印本 p.186，并分别保留封存读法与 Gil 引文及对应疑问。"
+    },
+    {
+      "position": 10,
+      "previous_issue_resolved": true,
+      "evidence": "notes 已改为论文印刷页 74、其所引影印本 p.186，并分别保留封存读法与 Gil 引文及对应疑问。"
+    },
+    {
+      "position": 17,
+      "previous_issue_resolved": true,
+      "evidence": "中英文均补入 L 栏 largo 的长或广阔义；notes 保留圈划和栏间对应待核。"
+    },
+    {
+      "position": 19,
+      "previous_issue_resolved": true,
+      "evidence": "中英文均指出 L 栏末段可能涉及战争；notes 保留末词辨读、句义及栏间对应未定，未将其断为实际用途。",
+      "additional_check": "L 栏另有 corto、pequeño。corto 除短外亦可表示小或有限；候选以小块场地概括不能据此认定为漏译，但其具体细义仍不应强断。"
+    }
+  ],
+  "reference_checks": [
+    {
+      "url": "https://fundacionramonmenendezpidal.org/revista/index.php/Abenamar/article/download/33/65",
+      "finding": "论文页 74 的同段列出三处引文，括号中 p.186 指其所引词典页；该论述并不独立证明三个候选分别对应当前封存各条。"
+    },
+    {
+      "url": "https://dle.rae.es/camote",
+      "finding": "一般西语词典支持 camote 的甘薯义和纳瓦特语词源，不解决 H 栏字形及对应。"
+    },
+    {
+      "url": "https://dle.rae.es/corto",
+      "finding": "一般西语词典列出短、小等用法，不单独决定本条历史语境中的细义。"
+    }
+  ],
+  "remaining_limit": "原有读文、音写及文献引文与各条的对应疑问仍保留；本结果只说明六项既有审阅意见已处理。"
+}

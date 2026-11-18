@@ -1,0 +1,452 @@
+{
+  "protocol": "ADK_VERDICT_V1",
+  "page": 206,
+  "actor": "Codex 子代理",
+  "actor_id": "/root/adk_batch02_a",
+  "method": "对照 v1/rr 的原图裁决，非独立盲读",
+  "verdicts": [
+    {
+      "position": 11,
+      "field": "source_R",
+      "v1": "veng.",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏该词横画上另有小点，首字形及记号归属不清。"
+    },
+    {
+      "position": 12,
+      "field": "source_R",
+      "v1": "veng cheng.",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏首词横画上有点，后词尖形旁有小笔，归属不清。"
+    },
+    {
+      "position": 16,
+      "field": "source_M",
+      "v1": "chun pūã fia. [疑:fia/sia]",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏该词组有划改及墨团，末词字母和上置记号不清。"
+    },
+    {
+      "position": 2,
+      "field": "M",
+      "v1": "coah",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏末尾长下笔与上方墨迹重叠，不能确定 coah 全形。"
+    },
+    {
+      "position": 16,
+      "field": "M",
+      "v1": "fia",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏末词与划改、墨团及栏界重叠，首字不能确定。"
+    },
+    {
+      "position": 6,
+      "field": "R",
+      "v1": "iaen",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏该词横画上方有点，字母及标记归属未能确认。"
+    },
+    {
+      "position": 11,
+      "field": "R",
+      "v1": "veng",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏该词横画上另有点，首字形及记号归属不清。"
+    },
+    {
+      "position": 12,
+      "field": "R",
+      "v1": "veng",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏首词横画上另有点，首字形及记号归属不清。"
+    },
+    {
+      "position": 21,
+      "field": "R",
+      "v1": "hiap",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏词尾有下笔，上方横画横跨词尾，归属未能确认。"
+    },
+    {
+      "position": 1,
+      "field": "M",
+      "v1": "siõ.",
+      "rr": "sion",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏该词上方有波形及斜画，两个记号归属不明。"
+    },
+    {
+      "position": 1,
+      "field": "R",
+      "v1": "siong.",
+      "rr": "sian",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏末尾有下笔且上方有 V 形记号，元音及记号归属不明。"
+    },
+    {
+      "position": 2,
+      "field": "M",
+      "v1": "coah. [疑:coah/coã]",
+      "rr": "con cua",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏该词末笔和上置墨迹交叠，无法完整辨定。"
+    },
+    {
+      "position": 3,
+      "field": "M",
+      "v1": "pān siõ.",
+      "rr": "pan sion",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏第二词上方的波形与斜画归属不明。"
+    },
+    {
+      "position": 3,
+      "field": "R",
+      "v1": "pien siong.",
+      "rr": "pien sian",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏两词均有上置记号，第二词元音形及位置不清。"
+    },
+    {
+      "position": 4,
+      "field": "M",
+      "v1": "te ap.",
+      "rr": "te ab.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏两词上方有交叉笔画，末字形和记号不易分离。"
+    },
+    {
+      "position": 4,
+      "field": "R",
+      "v1": "tay ka. [疑:ka/ha]",
+      "rr": "tay ho",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏两词有横画，首词横画与末字位置关系不清。"
+    },
+    {
+      "position": 5,
+      "field": "M",
+      "v1": "teng nia cap.",
+      "rr": "heng nia cach.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏多处上置墨迹及末尾小写笔画交叠。"
+    },
+    {
+      "position": 5,
+      "field": "R",
+      "v1": "keng chay co.",
+      "rr": "hen choy con",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏末词横画上有 c 形小笔，前词记号归属亦不清。"
+    },
+    {
+      "position": 6,
+      "field": "M",
+      "v1": "in tàu.",
+      "rr": "in fau.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏首词上方交叉墨迹及次词斜画归属不明。"
+    },
+    {
+      "position": 6,
+      "field": "R",
+      "v1": "iaen tsin.",
+      "rr": "jaen reu.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏两词上方各有点与横斜画，字母和记号不能完整判定。"
+    },
+    {
+      "position": 7,
+      "field": "M",
+      "v1": "tū.",
+      "rr": "tun.",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "中栏单词为 tu，上方一横。"
+    },
+    {
+      "position": 7,
+      "field": "R",
+      "v1": "chu.",
+      "rr": "chiq.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏词上方尖画旁有 c 形小笔且与字母相接。"
+    },
+    {
+      "position": 8,
+      "field": "M",
+      "v1": "tū siõ.",
+      "rr": "tu sion",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏第二词上方波形及斜画的归属不明。"
+    },
+    {
+      "position": 8,
+      "field": "R",
+      "v1": "chu siong.",
+      "rr": "chy sian",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏首词上方尖画旁有小笔，第二词记号归属亦不清。"
+    },
+    {
+      "position": 9,
+      "field": "M",
+      "v1": "thiu siõ.",
+      "rr": "tiu sion",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏首词上方 c 形小笔与斜画、第二词上方两笔归属不清。"
+    },
+    {
+      "position": 9,
+      "field": "R",
+      "v1": "chin siong. [疑:chin/chiu]",
+      "rr": "chin sian",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏首词上方有 c 形小笔，词尾及记号归属不清。"
+    },
+    {
+      "position": 11,
+      "field": "M",
+      "v1": "sia nā ap.",
+      "rr": "sun va ap.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏首词上方墨团及末词上置笔画重叠。"
+    },
+    {
+      "position": 11,
+      "field": "R",
+      "v1": "veng.",
+      "rr": "ven",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏首字形及横画上小点的归属未能确认。"
+    },
+    {
+      "position": 12,
+      "field": "M",
+      "v1": "sia chāĩ.",
+      "rr": "fia chan",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏首词上方涂写，第二词横画及字母位置不清。"
+    },
+    {
+      "position": 12,
+      "field": "R",
+      "v1": "veng cheng.",
+      "rr": "sen chen",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏首词横画上有点，第二词尖画旁有 c 形小笔。"
+    },
+    {
+      "position": 13,
+      "field": "M",
+      "v1": "sia ap.",
+      "rr": "sun siao ap.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏词组被圈线及墨团覆盖，上方笔画难分。"
+    },
+    {
+      "position": 13,
+      "field": "R",
+      "v1": "peng ka.",
+      "rr": "sen ha",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏首词横画上有点且首字形不清。"
+    },
+    {
+      "position": 14,
+      "field": "M",
+      "v1": "pūã.",
+      "rr": "puan",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏该词横画上方另有波形，二者归属未能确认。"
+    },
+    {
+      "position": 15,
+      "field": "M",
+      "v1": "thang pūã.",
+      "rr": "tan puan.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏首词上方有 c 形小笔，次词上方波形与横画位置不清。"
+    },
+    {
+      "position": 16,
+      "field": "M",
+      "v1": "chun pūã fia. [疑:fia/sia]",
+      "rr": "chun poan sio.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏词组有划改，末词字母与上置墨团交叠。"
+    },
+    {
+      "position": 16,
+      "field": "R",
+      "v1": "chun peng.",
+      "rr": "chun eng.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏首词尖画旁有 c 形小笔，末词上方另有点。"
+    },
+    {
+      "position": 17,
+      "field": "M",
+      "v1": "cue chip. [疑:cue chip/quip]",
+      "rr": "que gin.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏两词上置笔画与字母位置关系不清。"
+    },
+    {
+      "position": 17,
+      "field": "R",
+      "v1": "hia. [疑:hia/tsie]",
+      "rr": "hia",
+      "verdict": "两皆误",
+      "letters": "等价",
+      "tone_mark": "缺失",
+      "note": "右栏为 hia，a 上有横画。",
+      "ink": "hiā."
+    },
+    {
+      "position": 19,
+      "field": "M",
+      "v1": "ap.",
+      "rr": "ab.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏词尾为长圈笔，上方 V 形画的归属不明。"
+    },
+    {
+      "position": 19,
+      "field": "R",
+      "v1": "ha. [疑:ha/ka]",
+      "rr": "ha",
+      "verdict": "两皆误",
+      "letters": "等价",
+      "tone_mark": "缺失",
+      "note": "右栏为 ha，a 上有横画。",
+      "ink": "hā."
+    },
+    {
+      "position": 20,
+      "field": "M",
+      "v1": "choā̃ ap.",
+      "rr": "choan ab.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏首词横画跨多字母，次词上方 V 形画归属不明。"
+    },
+    {
+      "position": 21,
+      "field": "M",
+      "v1": "a. [疑:a/ap]",
+      "rr": "a.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏单字上方 V 形画位置不清，不能确认完整记号。"
+    },
+    {
+      "position": 21,
+      "field": "R",
+      "v1": "hiap.",
+      "rr": "hian",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏词尾有下笔，上方横画横跨词尾，归属未能确认。"
+    },
+    {
+      "position": 22,
+      "field": "R",
+      "v1": "hue.",
+      "rr": "hui",
+      "verdict": "两皆误",
+      "letters": "rr",
+      "tone_mark": "缺失",
+      "note": "右栏可见 hui，u 上有 V 形记号。",
+      "ink": "hǔi."
+    }
+  ]
+}

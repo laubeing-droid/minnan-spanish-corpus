@@ -1,0 +1,71 @@
+{
+  "page": 215,
+  "review_type": "NONBLIND",
+  "scope": "依据封存 L/H/M/R、主释义及候选逐条复核，不是独立盲读或整书验收。",
+  "candidate_path": "codex_M6_preview/batch02_refresh_p0215.json",
+  "candidate_sha256": "2a23da53314db2d03172b1107f8c7e84c5ee2d8ba3fb296e8796c27f30dec966",
+  "positions_reviewed": 19,
+  "result": "ISSUES_FOUND",
+  "issues": [
+    {
+      "position": 1,
+      "type": "column_attribution",
+      "issue": "中英文将甘薯、番薯写为本条主释义；虽然 notes 标明汉字与音写对应未定，释义本身未说明该物义据 L 栏 Camote，容易与 H 栏羊/薯的疑读混同。",
+      "suggestion": "在中英文释义中明确甘薯义据西文 L 栏，同时保留 H 栏羊/薯及栏间对应未定。"
+    },
+    {
+      "position": 5,
+      "type": "source_locator",
+      "issue": "notes 将 Juan Gil（2019–2020）论文中该引文定位为第 76 页。经核原期刊 PDF，该段在文章印刷页 74；论文引词典影印本页码为 186。",
+      "suggestion": "论文页码改为 74，影印本页码保留 186，继续将论文引文与封存转写分开。",
+      "source": "https://fundacionramonmenendezpidal.org/revista/index.php/Abenamar/article/download/33/65"
+    },
+    {
+      "position": 7,
+      "type": "source_locator",
+      "issue": "notes 将 Juan Gil（2019–2020）论文中该引文定位为第 76 页。经核原期刊 PDF，该段在文章印刷页 74；论文引词典影印本页码为 186。",
+      "suggestion": "论文页码改为 74，影印本页码保留 186，继续将论文引文与封存转写分开。",
+      "source": "https://fundacionramonmenendezpidal.org/revista/index.php/Abenamar/article/download/33/65"
+    },
+    {
+      "position": 10,
+      "type": "source_locator",
+      "issue": "notes 将 Juan Gil（2019–2020）论文中该引文定位为第 76 页。经核原期刊 PDF，该段在文章印刷页 74；论文引词典影印本页码为 186。",
+      "suggestion": "论文页码改为 74，影印本页码保留 186，继续将论文引文与封存转写分开。",
+      "source": "https://fundacionramonmenendezpidal.org/revista/index.php/Abenamar/article/download/33/65"
+    },
+    {
+      "position": 17,
+      "type": "omitted_source_sense",
+      "issue": "L 栏封存为圈划的「Campo largo」；notes 保留原文，但中英文释义没有说明 largo 所提示的长度或广阔义。",
+      "suggestion": "可分别说明 L 栏为长或广阔的田野，注明原文有圈划及与 H 栏「郊」的对应待核；不将两栏强合。"
+    },
+    {
+      "position": 19,
+      "type": "omitted_qualified_source_sense",
+      "issue": "L 栏封存含「como para guerra」，末词标疑；notes 保存了西文原词，但中英文仅述小块场地，未提示可能涉及战争或作战争之用。",
+      "suggestion": "可在中英文说明 L 栏末段疑似涉及战争，明确末词辨读及整句均未定，不将其当作实际用途，也不强行对应 H 栏「菜埔」。"
+    }
+  ],
+  "review_notes": [
+    "第 6 条使用现代词典提出悬雍垂候选，已明言历史用法未定，且未将其定为封存原文的确定解释；可保留。",
+    "第 5、7、10 条均将 Gil 所引版本和本次封存的不同写法分开，未凭引文强行改写封存；需修正论文页码。",
+    "其余位置本次未发现需要指出的具体问题；这不等于人工历史文献验收。"
+  ],
+  "reference_checks": [
+    {
+      "purpose": "确认第 5、7、10 条引文所在论文印刷页",
+      "url": "https://fundacionramonmenendezpidal.org/revista/index.php/Abenamar/article/download/33/65",
+      "article_page": 74,
+      "cited_edition_page": 186
+    },
+    {
+      "purpose": "确认现代词典中 campanilla 有悬雍垂义",
+      "url": "https://dle.rae.es/campanilla"
+    },
+    {
+      "purpose": "确认现代词典中 tragadero 有咽部义",
+      "url": "https://dle.rae.es/tragadero"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "status": "SEALED_AND_VERIFIED",
+  "selected_pages": [
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222
+  ],
+  "repair_batch": "literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_0203_0222_20261118T185142592990Z.json",
+  "repair_batch_sha256": "7cf98a1ea7fc85648f823d5b6933fdf4afe027194f8e71397f8583629f032a67",
+  "sealed_pages": [
+    209,
+    215,
+    220
+  ],
+  "actual_repairs": [
+    {
+      "page": 209,
+      "position": 4,
+      "field": "source_M",
+      "old": "lat",
+      "new": "lǎ",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0209.json",
+        "index": 25,
+        "position": 4,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "rr",
+          "tone_mark": "存疑"
+        }
+      },
+      "sealed_sha256": "4c7c34ba949928de898b3226abde5322089b1edf73f7c7977cd3c74cfb684852"
+    },
+    {
+      "page": 215,
+      "position": 4,
+      "field": "source_R",
+      "old": "riang. chǒng [疑:chǒng/chàng]",
+      "new": "chǒng",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0215.json",
+        "index": 15,
+        "position": 4,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "rr",
+          "tone_mark": "一致"
+        }
+      },
+      "sealed_sha256": "d444c17beedb13e30b85eb86e94af0bdbebba1e98c4e4b894b8f388a4d2291f4"
+    },
+    {
+      "page": 220,
+      "position": 15,
+      "field": "source_M",
+      "old": "būe",
+      "new": "luè",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0220.json",
+        "index": 25,
+        "position": 15,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "两皆误",
+          "tone_mark": "一致"
+        }
+      },
+      "sealed_sha256": "44ddfe99bfabc187eee32da433d7ff1328af5a25c2d47e2af131dcea7a015932"
+    }
+  ],
+  "actual_repair_count": 3,
+  "deferred_count": 70,
+  "collector_pending_count": 598,
+  "pipeline_result": {
+    "verdict": "PASS",
+    "coverage_ok": true,
+    "gate_pass": true,
+    "resweep_exit": 0,
+    "hard_baseline_before": 3705,
+    "hard_after": 3705,
+    "delta": 0,
+    "source": "seal_and_verify.py --source literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_0203_0222_20261118T185142592990Z.json"
+  },
+  "limitations": "修复账中的 deferred、收集待核和墨迹不明存在重叠，不可相加；门禁只证明结构与封存校验。"
+}

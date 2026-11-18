@@ -1,13 +1,13 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-18T18:22:56.701064+00:00",
-  "git_head_at_snapshot": "9e0921f7af7b347c0703861f8d21d05c74cf80f3",
+  "snapshot_utc": "2026-11-18T19:00:45.187079+00:00",
+  "git_head_at_snapshot": "659a8271df23142f8273bd6324d0455098141c1f",
   "protocol": "CODEX_REPAIR_LEDGER_IN_PROGRESS_V1",
   "scope": "本次接手及其复核范围的 M2 字面修复，不等同于全库历史修改史。",
   "sources": {
     "adjudication": {
       "path": "literature/workspace_m2_dhs834/collision_mr/ADK_ADJUDICATION_LEDGER.json",
-      "sha256": "b26b38638cabd648cfb1ac12fb5a3111dc0230c773b5c7fdbb4c50aafc42e64a"
+      "sha256": "e593ea82926c2ceb6c0a863819a1a2b2b605c76865d43404e38f3fcfcedf2bc6"
     },
     "historical_batch_a_v4": {
       "path": "literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_V4.json",
@@ -48,6 +48,26 @@
     "batch_0183_0202_gloss": {
       "path": "codex_M6_preview/batch01_gloss_refresh_receipt.json",
       "sha256": "d117fa2c825432402cc2cc93f7b0adc1b77c9d3a47458ecc1be2612c68dd23b3"
+    },
+    "batch_0203_0222": {
+      "path": "literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_0203_0222_20261118T185142592990Z.json",
+      "sha256": "7cf98a1ea7fc85648f823d5b6933fdf4afe027194f8e71397f8583629f032a67"
+    },
+    "batch_0203_0222_seal": {
+      "path": "codex_M1_batch02_seal_receipt.json",
+      "sha256": "ca67f7f3c89992fc7e5c0bc1fdd413bff14ee5a3efb36517da671d73f9050e31"
+    },
+    "batch_0203_0222_gloss": {
+      "path": "codex_M6_preview/batch02_gloss_refresh_receipt.json",
+      "sha256": "379360719978facf5d6f1a39e7b877382de81eea57df4731116d9a34fa253ef5"
+    },
+    "batch_0203_0222_audit_a": {
+      "path": "codex_M1_batch02_audit_a.json",
+      "sha256": "f3dbd3a77e2c3dd38d7468e6b17e1a80a0c6e677dbe5069321f76d30dd74ad36"
+    },
+    "batch_0203_0222_audit_b": {
+      "path": "codex_M1_batch02_audit_b.json",
+      "sha256": "b081485ad43423bc4110b03f50cccc0111495f7fcbd71be46ae3e8dd236ff8b2"
     }
   },
   "current_campaign_formal_literal_repairs": [
@@ -164,9 +184,66 @@
         }
       },
       "sealed_sha256": "d4aba7ed599ac1716ad70090491f8167de3613071cb298a7208d6c20655e7db3"
+    },
+    {
+      "page": 209,
+      "position": 4,
+      "field": "source_M",
+      "old": "lat",
+      "new": "lǎ",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0209.json",
+        "index": 25,
+        "position": 4,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "rr",
+          "tone_mark": "存疑"
+        }
+      },
+      "sealed_sha256": "4c7c34ba949928de898b3226abde5322089b1edf73f7c7977cd3c74cfb684852"
+    },
+    {
+      "page": 215,
+      "position": 4,
+      "field": "source_R",
+      "old": "riang. chǒng [疑:chǒng/chàng]",
+      "new": "chǒng",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0215.json",
+        "index": 15,
+        "position": 4,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "rr",
+          "tone_mark": "一致"
+        }
+      },
+      "sealed_sha256": "d444c17beedb13e30b85eb86e94af0bdbebba1e98c4e4b894b8f388a4d2291f4"
+    },
+    {
+      "page": 220,
+      "position": 15,
+      "field": "source_M",
+      "old": "būe",
+      "new": "luè",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0220.json",
+        "index": 25,
+        "position": 15,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "两皆误",
+          "tone_mark": "一致"
+        }
+      },
+      "sealed_sha256": "44ddfe99bfabc187eee32da433d7ff1328af5a25c2d47e2af131dcea7a015932"
     }
   ],
-  "current_campaign_formal_literal_repairs_count": 6,
+  "current_campaign_formal_literal_repairs_count": 9,
   "historical_reported_applied": {
     "declared_count": 100,
     "declared_pages": 51,
@@ -1917,7 +1994,7 @@
   "tool_safeguards": {
     "modifier_equal_soup": "已实施；五页隔离重放10项转待核",
     "sanitizer_and_unexpected_field_changes": "已实施；p0146隔离全链通过、p0181隔离延迟",
-    "formal_literal_repairs_after_safeguards": 6,
+    "formal_literal_repairs_after_safeguards": 9,
     "rollback": "只用原 raw→commit；隔离故障注入后旧 sealed/清册/基线摘要一致；单写者条件",
     "sealed_pages_replay_preflight": {
       "exact": 1062,

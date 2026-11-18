@@ -1,0 +1,38 @@
+{
+  "page": 220,
+  "status": "TARGETED_FINDINGS_RESOLVED_SELF_CHECK",
+  "review_type": "修订者自核，非独立复审",
+  "scope": "仅复核原非盲审阅报告所提第 10、15、18 条，与最新封存相对照；不代表对整页完成新的独立复审。",
+  "sealed_sha256": "44ddfe99bfabc187eee32da433d7ff1328af5a25c2d47e2af131dcea7a015932",
+  "previous_review_sha256": "7ec9f5d9a3989bf02c0c46419a6eef4f3b87f2fba00373ac2ca311e1897212e2",
+  "previous_review_candidate_sha256": "18991d6100deea5391e90c2dedd0b922b73160241d70e75625eb7c896d34107a",
+  "revised_candidate_sha256": "0ec17e59c722a38671cb58133877375b09aa8dde23bead43ed67378558866a76",
+  "results": [
+    {
+      "position": 10,
+      "status": "resolved",
+      "sealed_L": "cansar, enfadar",
+      "sealed_H": "劳煩",
+      "candidate_zh": "劳烦；使人疲劳或烦扰",
+      "candidate_en": "to tire, weary or annoy",
+      "reason": "去除原英文的 to toil 和原中文的劳苦展开；现释义涵盖使疲劳或烦扰，保留汉字词条。"
+    },
+    {
+      "position": 15,
+      "status": "resolved",
+      "sealed_L": "cansado hambriento.",
+      "sealed_H": "餒 [疑:餒/餓]",
+      "candidate_en": "餒〔餒/餓 uncertain〕: tired; hungry. The character and its exact correspondence are uncertain.",
+      "reason": "英文分列 tired 与 hungry，不再以 and 限定二者同时成立；汉字餒/餓及词义对应存疑仍有保留。"
+    },
+    {
+      "position": 18,
+      "status": "resolved",
+      "sealed_L": "cansado, enfadado, cansado. o cansar y enfadar -",
+      "sealed_H": "着劳",
+      "candidate_en": "着劳: weary; annoyed. The left column also gives the senses “to tire and annoy”.",
+      "reason": "英文形容词分列 weary 与 annoyed；动词部分的 and 对应 L 栏明确的 y，notes 仍说明与 H 栏的具体对应未定。"
+    }
+  ],
+  "limit": "本记录由执行上述候选修订的同一代理完成，不构成独立复审；第 3、8 条为先前报告的非阻断观察，未在本次另行判定。"
+}

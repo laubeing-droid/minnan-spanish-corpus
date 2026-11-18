@@ -1,0 +1,964 @@
+{
+  "status": "APPLIED_NONBLIND_REFRESH",
+  "scope": "三个本批成功重封的受影响页；依据最新封存与原释义逐行刷新并由另一名同模型读者非盲核查。不是独立字面重读，也不是全书释义验收。",
+  "review": "初审指出的内容问题已修正并对修正位置再次核查；初审 SHA 绑定修订前候选，末次复核绑定现候选。",
+  "files": [
+    {
+      "page": 209,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0209.json",
+      "sealed_sha256": "4c7c34ba949928de898b3226abde5322089b1edf73f7c7977cd3c74cfb684852",
+      "old_sha256": "6f21b8d60b251e7134ec5d7ff5a5a7dc1b21236f22fd8eff70975af77262c525",
+      "new_sha256": "2ec16fa72163541fd6950cfe3e571d2cd8037d2f19e1dfeb1356cf8b3d3d19db",
+      "entries": 20,
+      "changed_entries": 17,
+      "changes": [
+        {
+          "position": 1,
+          "old": {
+            "position": 1,
+            "zh": "蚝壳灰：牡蛎壳烧制的石灰，供嚼槟榔蘸用，亦作砌筑灰浆",
+            "en": "oyster-shell lime (cal del othion); lime for betel-quid chewing, also building mortar",
+            "confidence": "medium",
+            "notes": "西栏 caldo del buyc 与 quando/quamdo 均有[疑]，疑为 cal del buyo（槟榔灰）之讹；汉字蠔/蠓亦存疑，据 M ō-cag-húe 与汉字栏西注 Cal del othion 定为蚝壳灰。"
+          },
+          "new": {
+            "position": 1,
+            "zh": "〔蠔/蠓〕壳灰：可能为蚝壳灰；L 栏含 caldo（一般可指汤汁）及疑似吐出之语，M 栏含 zumo（汁液）；两栏句意及其与 H 栏的对应待核。",
+            "en": "〔蠔/蠓〕壳灰: possibly oyster-shell ash or lime. The L column includes caldo, which can mean broth, and a possible reference to spitting; the M column includes zumo (juice). The phrases and their correspondence with the H column are uncertain.",
+            "confidence": "low",
+            "notes": "H 栏首字标「[疑:蠔/蠓]」，另录「Cal del othion」；L 栏为「caldo del buyc[疑:buey/buyc], o quando[疑:quando/quamdo] se es cupe」，M 栏为「ō cag húe. dizen del zumo albuig le es cupe =」，R 栏为「hōn cō hùi」。「se es cupe」和「le es cupe」疑与 escupe（吐出）有关，但断词、句义及各栏关系未定。"
+          }
+        },
+        {
+          "position": 2,
+          "old": {
+            "position": 2,
+            "zh": "泡饭：米加汤水泡煮成的软饭；汤泡饭",
+            "en": "soft boiled rice in broth; soaked rice (arroz morisqueto)",
+            "confidence": "medium",
+            "notes": "汉字'泡'与末字（閻/閹）有[疑]；西栏 morisquera 疑即 arroz morisqueto（汤煮软饭），与'泡飯'及 M pān-pay 相合。"
+          },
+          "new": {
+            "position": 2,
+            "zh": "〔泡/疱〕飯〔閻/閹〕：疑与泡饭有关，整词词义未定；L 栏涉及 morisquera 的汤汁及一些 morisquera，其所指未定。",
+            "en": "〔泡/疱〕飯〔閻/閹〕: possibly related to soaked rice; the full expression is uncertain. The L column refers to morisquera broth with some morisquera; the referent of morisquera is uncertain.",
+            "confidence": "low",
+            "notes": "H 栏首字疑为「泡/疱」，末字疑为「閻/閹」；L 栏为「caldo de morisquera con alguna morisquera」，morisquera 的含义及其与 H 栏的对应待核。"
+          }
+        },
+        {
+          "position": 3,
+          "old": {
+            "position": 3,
+            "zh": "豆油：酱油；豆汁、豉汁之类的咸豆露",
+            "en": "soy sauce; salty bean sauce or liquor (caldo de frisoles salado)",
+            "confidence": "medium",
+            "notes": "官话栏 tēn iēn 与'豆油'对音不合，据汉字荳油、闽南 tǎu iū 与西语'咸豆汁'三栏定为酱油。"
+          },
+          "new": {
+            "position": 3,
+            "zh": "荳油：H 栏词语的具体所指待核；L 栏为咸豆汤汁，两栏对应及是否指酱油均待核。",
+            "en": "荳油: the specific referent of the Chinese expression is uncertain; the L column describes salty bean broth. The correspondence between the columns and whether soy sauce is meant remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏为「caldo de frisoles, salado.」；M 栏除「tǎu iū」外另录「t chiáp」，R 栏作「tēn iēn」；音写与汉字栏的对应关系待核。"
+          }
+        },
+        {
+          "position": 5,
+          "old": {
+            "position": 5,
+            "zh": "历日：历书、日历；一年的历日",
+            "en": "annual calendar; almanac, calendrical days",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 5,
+            "zh": "历日：日历、历书；左栏指年度日历。",
+            "en": "Calendar or almanac; the left column specifies an annual calendar.",
+            "confidence": "high",
+            "notes": "M 栏另录「anual」，其与音写的关系待核。"
+          }
+        },
+        {
+          "position": 6,
+          "old": {
+            "position": 6,
+            "zh": "燥：干热、燥热（中医六淫之一，热而干燥）；使干燥、烘燥",
+            "en": "hot and dry; parched; to dry, to scorch",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 6,
+            "zh": "燥：干燥；左栏为加热，或热而干燥的东西。",
+            "en": "燥: dry; the left column gives 'to heat' or 'a hot, dry thing'.",
+            "confidence": "high",
+            "notes": ""
+          }
+        },
+        {
+          "position": 7,
+          "old": {
+            "position": 7,
+            "zh": "燥热：干热、燥热之性（热而干燥）",
+            "en": "dry heat; hot and dry (quality)",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 7,
+            "zh": "燥热：干燥而热；左栏为加热，或热而干燥的东西。",
+            "en": "燥热: hot and dry; the left column gives 'to heat' or 'a hot, dry thing'.",
+            "confidence": "high",
+            "notes": ""
+          }
+        },
+        {
+          "position": 8,
+          "old": {
+            "position": 8,
+            "zh": "灼：烧灼、炙烤；（烤火）暖身",
+            "en": "to scorch, burn; to warm oneself by fire",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 8,
+            "zh": "灼：变热、取暖（左栏释义）；“灼”在此的具体用法待核。",
+            "en": "灼: to become warm or hot, or to warm oneself (left column); the precise use of the character is uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「Calentarse.」，未注明火；H 栏作「灼」。"
+          }
+        },
+        {
+          "position": 9,
+          "old": {
+            "position": 9,
+            "zh": "灼烧：烤火取暖；烧灼",
+            "en": "to warm oneself at the fire; to burn, scorch",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 9,
+            "zh": "灼燒：字面可指烧灼；L 栏为靠火取暖，本条词语的用法及两栏对应待核。",
+            "en": "灼燒: literally, burning or scorching; the L column says to warm oneself by the fire. The expression’s use here and its correspondence with the left column remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏为「Calentarse al fuego.」，H 栏为「灼燒」；两栏的具体对应待核。"
+          }
+        },
+        {
+          "position": 11,
+          "old": {
+            "position": 11,
+            "zh": "热：热、炎热；烫热如火",
+            "en": "hot, burning hot; heat",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 11,
+            "zh": "热：变热；热如火。",
+            "en": "To become warm or hot; hot as fire.",
+            "confidence": "high",
+            "notes": ""
+          }
+        },
+        {
+          "position": 12,
+          "old": {
+            "position": 12,
+            "zh": "热火：火热、滚烫如火",
+            "en": "hot as fire; glowing hot",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 12,
+            "zh": "热火：热如火，火一般热。",
+            "en": "Hot as fire.",
+            "confidence": "high",
+            "notes": ""
+          }
+        },
+        {
+          "position": 14,
+          "old": {
+            "position": 14,
+            "zh": "炒过：已炒过、炒制过的；炒焙（如炒辣椒）",
+            "en": "to toast (peppers); stir-fried, toasted (done)",
+            "confidence": "high",
+            "notes": "西栏 piambres 无[疑]标记，按 17 世纪拼写姑读作 pimientos（辣椒，经马尼拉传入）；'炒過'本义据四栏（kuè/过）自明。"
+          },
+          "new": {
+            "position": 14,
+            "zh": "炒過：字面似有炒过之意；L 栏为加热、烘烤 piambres，所指未定。",
+            "en": "炒過: it may literally involve having stir-fried; the L column refers to heating or toasting piambres, whose referent is uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏原文为「calentar, tostar los piambres」，不据未定词形指定食材；H 栏「過」的语法作用及两栏的具体对应待核。"
+          }
+        },
+        {
+          "position": 15,
+          "old": {
+            "position": 15,
+            "zh": "炒烧：炒焙、翻炒兼烧灼",
+            "en": "to stir-fry and scorch; heat and toast over fire",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 15,
+            "zh": "炒烧：炒、加热或烘烤；“炒燒”的具体用法待核。",
+            "en": "炒燒: to fry, heat, or toast; the precise use of the Chinese expression is uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「calentar tostar」，两动词的关系未定。"
+          }
+        },
+        {
+          "position": 16,
+          "old": {
+            "position": 16,
+            "zh": "烘：烘烤、烘暖（在炭火余烬上加热）",
+            "en": "to warm, bake over embers (al rescoldo), by the fire",
+            "confidence": "low",
+            "notes": "闽南栏首音调符污损（T99）且 M 栏夹残句（hay mano:）；据 hang、官话 hòng 与西语 rescoldo 仍定为'烘'义，置信从低。"
+          },
+          "new": {
+            "position": 16,
+            "zh": "烘：在余烬或火边加热、烘暖。",
+            "en": "To heat or warm by embers or fire.",
+            "confidence": "low",
+            "notes": "M 栏首音调标为 T99；除「hang」外另录「hang chiū, hay mano:」，其归属未定。"
+          }
+        },
+        {
+          "position": 17,
+          "old": {
+            "position": 17,
+            "zh": "烘火：烤火、烘火取暖",
+            "en": "to warm oneself at the embers/fire",
+            "confidence": "low",
+            "notes": "闽南栏首音调符污损（T99）；据 hang-hué 与官话 hòng hò 仍定为'烘火'，置信从低。"
+          },
+          "new": {
+            "position": 17,
+            "zh": "烘火：靠余烬加热、烘暖；是否专指取暖待核。",
+            "en": "To heat or warm by embers; whether it specifically means warming oneself is uncertain.",
+            "confidence": "low",
+            "notes": "M 栏首音调标为 T99；L 栏作「calentar al rescoldo」，未指明加热对象。"
+          }
+        },
+        {
+          "position": 18,
+          "old": {
+            "position": 18,
+            "zh": "放水：把水放（到火上）烧热；原义放水、倒水",
+            "en": "to put water on (to heat); to heat water",
+            "confidence": "high",
+            "notes": "西语 calentar agua 与汉字'放水'对举：传教士记'放水'为烧水之说法，M 栏附 al agua 与互见号 103。"
+          },
+          "new": {
+            "position": 18,
+            "zh": "放水：字面为放水；左栏为加热水，两者的具体对应关系未定。",
+            "en": "放水: literally, to release water; the left column means 'to heat water'; how the two correspond is uncertain.",
+            "confidence": "low",
+            "notes": "M 栏另录「al agua: 103」，其中 103 的性质及与本条的关系未定。"
+          }
+        },
+        {
+          "position": 19,
+          "old": {
+            "position": 19,
+            "zh": "煎药：熬药、煎煮汤药",
+            "en": "to boil, brew medicine; medicinal decoction",
+            "confidence": "medium",
+            "notes": "闽南栏 fim 与'煎'对音不合（官话 chīn yò、汉字煎藥相合），据三栏定为煎药。"
+          },
+          "new": {
+            "position": 19,
+            "zh": "煎药：煎煮药物；左栏为加热药物。",
+            "en": "To prepare medicine by simmering; the left column says to heat medicine.",
+            "confidence": "medium",
+            "notes": "M 栏作「fim yò」，R 栏作「chīn yò」；音写与 H 栏的对应关系待核。"
+          }
+        },
+        {
+          "position": 20,
+          "old": {
+            "position": 20,
+            "zh": "温烧：文火温热、焐暖（烤火或在被窝里取暖）",
+            "en": "to warm gently at the fire or in bed",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 20,
+            "zh": "温烧：加热或焐暖；左栏说在火边或床上加热。",
+            "en": "To warm or heat; the left column mentions heating by the fire or in bed.",
+            "confidence": "high",
+            "notes": ""
+          }
+        }
+      ],
+      "initial_review": "codex_M6_preview/batch02_review_p0209.json",
+      "final_review": "codex_M6_preview/batch02_review_p0209_final.json"
+    },
+    {
+      "page": 215,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0215.json",
+      "sealed_sha256": "d444c17beedb13e30b85eb86e94af0bdbebba1e98c4e4b894b8f388a4d2291f4",
+      "old_sha256": "5964aeae014acc5ccd8bdbe96eefada7c9f59b961f9fb8cdc6efbed5c2bfa4db",
+      "new_sha256": "9a83764eb8ed668130b5ca48d2c987c9f5fa8c26aa46dd28beefc335c41c634e",
+      "entries": 19,
+      "changed_entries": 18,
+      "changes": [
+        {
+          "position": 1,
+          "old": {
+            "position": 1,
+            "zh": "甘薯、番薯（西语 camote 借自纳瓦特语 camotli，指甜薯类块根作物）",
+            "en": "sweet potato (camote, from Nahuatl camotli)",
+            "confidence": "low",
+            "notes": "左栏词头明确为甜薯，但汉栏首字羊/薯、闽音 sũ/sū、官音 iū/in 均存疑且官栏声调符污損（T99），故降为低置信。"
+          },
+          "new": {
+            "position": 1,
+            "zh": "西文 Camote：甘薯、番薯（camote 借自纳瓦特语 camotli）；汉字栏字形及其对应关系未定。",
+            "en": "Spanish camote: sweet potato (from Nahuatl camotli); the Chinese character and the correspondence are uncertain",
+            "confidence": "low",
+            "notes": "H 栏封存作「羊 [疑:羊/薯]」；M 栏 sũ/sū、R 栏 iū/in 均存疑，R 栏音调标记为 T99；汉字及音写的对应关系未定。"
+          }
+        },
+        {
+          "position": 2,
+          "old": {
+            "position": 2,
+            "zh": "番薯（甘薯通称，谓“外来之薯”）",
+            "en": "sweet potato (lit. “foreign tuber”)",
+            "confidence": "medium",
+            "notes": "仅官栏声调符存疑，词义四栏一致。"
+          },
+          "new": {
+            "position": 2,
+            "zh": "番薯，甘薯。",
+            "en": "sweet potato",
+            "confidence": "medium",
+            "notes": "L 栏沿用「(Camote)」；M 栏作「húān chū」，R 栏作「fǎn chǔ」，R 栏声调符存疑，音写对应待核。"
+          }
+        },
+        {
+          "position": 3,
+          "old": {
+            "position": 3,
+            "zh": "薯卵、小番薯（卵圆形的小薯块）",
+            "en": "small sweet potato; egg-shaped small tuber",
+            "confidence": "medium",
+            "notes": "首字羊/薯、次字卯/卵及首音 sū/cū 均存疑，以左栏 (Camote) 加 pequeño（小）定其义。"
+          },
+          "new": {
+            "position": 3,
+            "zh": "甘薯（据西文）；H 栏字形及具体所指存疑。",
+            "en": "sweet potato (Spanish); the characters in the Chinese column and their precise referent are uncertain",
+            "confidence": "low",
+            "notes": "L 栏沿用「(Camote)」；H 栏首字疑为羊或薯、次字疑为卯或卵。M 栏另记「pequeño」（小），首音 sū/cū 存疑；R 栏首音 iū/in 存疑，字形及各栏对应未定。"
+          }
+        },
+        {
+          "position": 4,
+          "old": {
+            "position": 4,
+            "zh": "钟（教堂钟、报时之铃）",
+            "en": "bell",
+            "confidence": "medium",
+            "notes": "官栏音写 chǒng/chàng 及 riang 存疑；西语 campana＝钟，与汉闽两栏互证。"
+          },
+          "new": {
+            "position": 4,
+            "zh": "钟。",
+            "en": "bell",
+            "confidence": "medium",
+            "notes": "L 栏为「Campana」，H 栏为「鐘」；M 栏「chiēng」的声调符存疑，R 栏封存作「chǒng」。"
+          }
+        },
+        {
+          "position": 5,
+          "old": {
+            "position": 5,
+            "zh": "汉字「钹」；西文描述由中国僧人敲击、形如臼的钟，具体对应待核。",
+            "en": "Chinese 鈸; the Spanish describes a mortar-shaped bell played by Chinese monks; their precise correspondence remains uncertain",
+            "confidence": "low",
+            "notes": "Juan Gil（2019–2020）第 76 页引影印本 p.186 的 campana ut mortero que tocan los bonzos de China。现封存西文与论文不同，L 与 M 有圈划，R 字符存疑；不据此确定材质。"
+          },
+          "new": {
+            "position": 5,
+            "zh": "钹；西文提及钟，细部描述及与汉字的对应待核。",
+            "en": "cymbal (鈸); the Spanish mentions bells, but the detailed description and correspondence are uncertain",
+            "confidence": "low",
+            "notes": "L 栏封存为「campanas ut mokeros, bruyan las bonas dechinas」，圈划内草书存疑；M 栏有圈划，R 栏末字符存疑。Juan Gil（2019–2020）第 74 页引影印本 p.186 的近似表述为「campana ut mortero que tocan los bonzos de China」；与封存不同，是否对应本条待核。"
+          }
+        },
+        {
+          "position": 6,
+          "old": {
+            "position": 6,
+            "zh": "〔原件残缺，释义存疑〕",
+            "en": "〔原件残缺，释义存疑〕",
+            "confidence": "low",
+            "notes": "汉栏空白、官栏删划残缺；左栏可辨 campanilla tragadero（小钟／檐口滴水槽），材料不足，释义存疑。"
+          },
+          "new": {
+            "position": 6,
+            "zh": "西文可能与咽部的悬雍垂有关；具体所指存疑。",
+            "en": "the Spanish may refer to the uvula in the throat; the exact referent is uncertain",
+            "confidence": "low",
+            "notes": "L 栏封存「campanilla tragadero」，草书存疑；H 栏空白，M 栏末音节字形存疑，R 栏删划残字难辨。现代《西班牙语词典》列 campanilla 的悬雍垂义和 tragadero 的咽部义（https://dle.rae.es/campanilla；https://dle.rae.es/tragadero）；据此仅提出候选，不能确定此处历史用法。"
+          }
+        },
+        {
+          "position": 7,
+          "old": {
+            "position": 7,
+            "zh": "磬；西文称僧人使用的小钟，具体器物及对应关系待核。",
+            "en": "qing (磬); the Spanish describes small bells used by monks, whose exact correspondence remains uncertain",
+            "confidence": "medium",
+            "notes": "Juan Gil（2019–2020）第 76 页引影印本 p.186 的 campanillas de bonços；现封存西文词尾与论文不同，器形和材质不能单据该句确定。"
+          },
+          "new": {
+            "position": 7,
+            "zh": "磬；西文似指小钟，后文及具体对应待核。",
+            "en": "qing (磬); the Spanish may refer to small bells, but the following words and correspondence remain uncertain",
+            "confidence": "medium",
+            "notes": "L 栏封存「Campanillas ap. quibongos」，末词拼写难辨。Juan Gil（2019–2020）第 74 页引影印本 p.186 的近似表述为「campanillas de bonços」；与封存不同，是否对应本条待核。"
+          }
+        },
+        {
+          "position": 8,
+          "old": {
+            "position": 8,
+            "zh": "木鱼（僧道诵经用木制鱼形打击器）",
+            "en": "wooden fish (muyu, fish-shaped wooden slit drum)",
+            "confidence": "medium",
+            "notes": "闽栏首词 cof 疑为“木”（kok），与左栏“木制之钟”及官音 mō iū 相合。"
+          },
+          "new": {
+            "position": 8,
+            "zh": "木鱼；西文作木制的钟。",
+            "en": "wooden fish; the Spanish gives a wooden bell",
+            "confidence": "medium",
+            "notes": "L 栏作「Campana de madera」，H 栏作「木魚」；M 栏作「cof. Boğu.」，首词疑读；R 栏作「mō iū」，音写对应待核。"
+          }
+        },
+        {
+          "position": 9,
+          "old": {
+            "position": 9,
+            "zh": "铃钹（铃与铜钹）",
+            "en": "bells and cymbals",
+            "confidence": "medium",
+            "notes": "左栏草书难辨；依汉栏“鈴鈸”与闽音 lān/lāu-pōā、官音 lēng pōat 合观。"
+          },
+          "new": {
+            "position": 9,
+            "zh": "铃钹；具体所指存疑。",
+            "en": "鈴鈸, apparently associated with bells or cymbals; the precise referent is uncertain",
+            "confidence": "low",
+            "notes": "H 栏封存作「鈴鈸」；L 栏草书难辨，M 栏首音 lān/lāu 存疑，R 栏末字符存疑，不据此确定器物组合或材质。"
+          }
+        },
+        {
+          "position": 10,
+          "old": {
+            "position": 10,
+            "zh": "磬仔、小磬；西文比作隐修士所用的小钟，具体对应待核。",
+            "en": "a small qing; the Spanish compares it to small bells used by hermits; the exact correspondence remains uncertain",
+            "confidence": "medium",
+            "notes": "Juan Gil（2019–2020）第 76 页引影印本 p.186 的 campanillas ut de ermitaños；现封存末词与论文不同，原图有圈划，R 尾音 chaỹ/chây 存疑。"
+          },
+          "new": {
+            "position": 10,
+            "zh": "磬仔，疑指小磬；西文似指小钟，细部描述及对应待核。",
+            "en": "磬仔, possibly a small qing; the Spanish may refer to small bells, but the details and correspondence are uncertain",
+            "confidence": "medium",
+            "notes": "H 栏作「磬仔」；L 栏封存「Campanillas ut decernitang」，末词难辨，M 栏作「quēng nià」，R 栏尾音 chaỹ/chây 存疑。Juan Gil（2019–2020）第 74 页引影印本 p.186 的近似表述为「campanillas ut de ermitaños」；与封存不同，是否对应本条待核。"
+          }
+        },
+        {
+          "position": 11,
+          "old": {
+            "position": 11,
+            "zh": "对钟（成对之小钟）",
+            "en": "pair of small bells; campanilla",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 11,
+            "zh": "对钟；西文作 campanilla，可指小钟，是否成对及具体对应待核。",
+            "en": "對鐘; Spanish campanilla can mean a small bell; whether it refers to a pair and the exact correspondence are uncertain",
+            "confidence": "medium",
+            "notes": "H 栏作「對鐘」，L 栏作「Campanilla」；不能仅据字面确定这里指成对的钟。"
+          }
+        },
+        {
+          "position": 12,
+          "old": {
+            "position": 12,
+            "zh": "钟楼",
+            "en": "bell tower, belfry",
+            "confidence": "medium",
+            "notes": "仅官栏声调符存疑；义为钟楼，四栏一致。"
+          },
+          "new": {
+            "position": 12,
+            "zh": "钟楼",
+            "en": "bell tower, belfry",
+            "confidence": "medium",
+            "notes": "L 栏作「Campanario」，H 栏作「鐘樓」，M 栏作「chiōng laū」；R 栏封存作「chiōng. chǒng keû」，声调符存疑，音写的具体对应待核。"
+          }
+        },
+        {
+          "position": 13,
+          "old": {
+            "position": 13,
+            "zh": "水泡、气泡（“水中之小铃泡”）",
+            "en": "bubble (water bubble)",
+            "confidence": "medium",
+            "notes": "左栏末词 Ouebe 难辨、官音 gām/pūm 存疑；以 campanillas del agua 与汉栏“泡”互证为水泡义。"
+          },
+          "new": {
+            "position": 13,
+            "zh": "泡，水泡；西文末词及具体对应待核。",
+            "en": "bubble, water bubble; the final Spanish word and exact correspondence are uncertain",
+            "confidence": "medium",
+            "notes": "H 栏作「泡」；L 栏含「campanillas del agua」，末词疑作「Ouebe」；M 栏「chiūp-a」声调符存疑，R 栏 gām/pūm 存疑。"
+          }
+        },
+        {
+          "position": 14,
+          "old": {
+            "position": 14,
+            "zh": "草埔（草地、原野空地）",
+            "en": "grassland, open field",
+            "confidence": "medium",
+            "notes": "闽官两栏均仅声调符存疑；义为田野草地，四栏一致。"
+          },
+          "new": {
+            "position": 14,
+            "zh": "草埔（草地、原野空地）",
+            "en": "grassland, open field",
+            "confidence": "medium",
+            "notes": "M 栏「chau poú」和 R 栏「châin pū」的声调符均存疑；音写与 H 栏「草埔」的具体对应待核。"
+          }
+        },
+        {
+          "position": 15,
+          "old": {
+            "position": 15,
+            "zh": "岫（鸟巢、兽穴；山洞）",
+            "en": "nest; burrow, den; cave",
+            "confidence": "medium",
+            "notes": "左栏 Campo 已删划、汉栏圈划改订，闽音字形与官音 siū/viū 仍存疑；余栏互证为“岫”（巢穴义）。"
+          },
+          "new": {
+            "position": 15,
+            "zh": "岫；此处具体词义及与西文的对应未定。",
+            "en": "岫; its precise sense here and correspondence with the Spanish are uncertain",
+            "confidence": "low",
+            "notes": "H 栏「岫」有圈划，L 栏「Campo」有删划；M 栏字形、R 栏 siū/viū 均存疑，不能据此确定为巢穴或山洞。"
+          }
+        },
+        {
+          "position": 16,
+          "old": {
+            "position": 16,
+            "zh": "场、市集场地（赶集／庙会所用的空场）",
+            "en": "fairground; open field or site",
+            "confidence": "medium",
+            "notes": "左栏草书难辨，拟读为 campo a donde se ha de hacer la feria（将设市集之场），与汉栏“場”相合。"
+          },
+          "new": {
+            "position": 16,
+            "zh": "场；西文可能涉及集市或节庆，具体词义及对应存疑。",
+            "en": "場; the Spanish may refer to a fair or market, but the exact sense and correspondence are uncertain",
+            "confidence": "low",
+            "notes": "H 栏作「場」；L 栏封存「Campo adonse han de feria」，草书难辨，不能将其扩写定读。"
+          }
+        },
+        {
+          "position": 17,
+          "old": {
+            "position": 17,
+            "zh": "郊、郊野（城外旷远之地）",
+            "en": "outskirts, open country outside the town",
+            "confidence": "medium",
+            "notes": "左栏圈划、闽音 tauia/cauia 与官音 guiàu 拼写均存疑；依汉栏“郊”与左栏 largo（旷远）定其义。"
+          },
+          "new": {
+            "position": 17,
+            "zh": "郊、郊野；西文指长或广阔的田野，两栏对应待核。",
+            "en": "outskirts or open country; the Spanish gives a long or extensive field; the correspondence remains uncertain",
+            "confidence": "medium",
+            "notes": "L 栏「Campo largo」有圈划；M 栏 tauia/cauia 及 R 栏「guiàu」的拼写存疑，各栏具体对应待核。"
+          }
+        },
+        {
+          "position": 19,
+          "old": {
+            "position": 19,
+            "zh": "菜埔（菜园地、菜畦）",
+            "en": "vegetable plot, kitchen-garden plot",
+            "confidence": "low",
+            "notes": "左栏末词难辨且 guerra（战争）与汉栏“菜埔”不协，疑原词为 huerta（菜园）；闽栏声调符污損（T99）。"
+          },
+          "new": {
+            "position": 19,
+            "zh": "菜埔：疑指菜地；西文提及小块场地，末段似说如用于战争，末词、句义及栏间对应未定。",
+            "en": "菜埔, possibly a vegetable plot; the Spanish mentions a small field and may say 'as if for war'; the final word, overall sense, and correspondence remain uncertain",
+            "confidence": "low",
+            "notes": "H 栏作「菜埔」；L 栏封存「campo corto, pequeño como para guerra」，末词难辨，不据此改读为 huerta。M 栏声调符位置存疑且记 T99，R 栏声调符亦存疑。"
+          }
+        }
+      ],
+      "initial_review": "codex_M6_preview/batch02_review_p0215.json",
+      "final_review": "codex_M6_preview/batch02_review_p0215_final.json"
+    },
+    {
+      "page": 220,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0220.json",
+      "sealed_sha256": "44ddfe99bfabc187eee32da433d7ff1328af5a25c2d47e2af131dcea7a015932",
+      "old_sha256": "3ef4eaac10119dd21410d353d6d67abb488e3951647d9f274bc690042df82b7a",
+      "new_sha256": "0ec17e59c722a38671cb58133877375b09aa8dde23bead43ed67378558866a76",
+      "entries": 22,
+      "changed_entries": 19,
+      "changes": [
+        {
+          "position": 1,
+          "old": {
+            "position": 1,
+            "zh": "沟；水沟、沟渠（引水或排水之沟道）",
+            "en": "ditch; water channel, drain",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 1,
+            "zh": "溝；水沟、沟渠",
+            "en": "溝: ditch; water channel",
+            "confidence": "medium",
+            "notes": "M 栏封存为「caú chùy」，其中第二音节与 H 栏的对应关系未定。"
+          }
+        },
+        {
+          "position": 3,
+          "old": {
+            "position": 3,
+            "zh": "鸭嘴管；唢呐类管乐器（chirimía）的吹管、吹嘴",
+            "en": "duck-bill pipe; mouthpiece/pipe of a chirimía (shawm)",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 3,
+            "zh": "鴨嘴；左栏指 chirimía 管乐器的管，具体部位存疑",
+            "en": "鴨嘴: the left column refers to a pipe of a chirimía (shawm); the exact part is uncertain",
+            "confidence": "medium",
+            "notes": "H 栏为「鴨嘴」，L 栏为「caño de chirimiã.」；是否特指吹嘴未定。"
+          }
+        },
+        {
+          "position": 4,
+          "old": {
+            "position": 4,
+            "zh": "沟洼；沟渠低洼积水处（第二字存疑）",
+            "en": "ditch hollow; sunken water channel (second character uncertain)",
+            "confidence": "medium",
+            "notes": "汉字栏带〔疑：窪/窑〕标记，且闽南/官话音写第二音节 cūi 亦可通'水'，按'沟洼'释义并降为 medium。"
+          },
+          "new": {
+            "position": 4,
+            "zh": "溝〔窪/窑存疑〕；水沟、沟渠，具体词义及对应关系未定",
+            "en": "溝〔窪/窑 uncertain〕: a water channel or ditch; the exact sense and correspondence are uncertain",
+            "confidence": "low",
+            "notes": "H 栏封存为「溝窪 [疑:窪/窑]」；L 栏为「caño de agua zanja」，M 栏为「caú cūi」、R 栏为「quén cūi」。不凭音写确定第二字。"
+          }
+        },
+        {
+          "position": 5,
+          "old": {
+            "position": 5,
+            "zh": "沟壑；大水沟、沟谷",
+            "en": "ditch and ravine; gully, watercourse",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 5,
+            "zh": "溝壑；沟谷、沟槽；左栏为水道或水管，具体对应关系待核",
+            "en": "溝壑: ditch or gully; the left column refers to a water conduit, and the precise correspondence remains uncertain",
+            "confidence": "medium",
+            "notes": "H 栏为「溝壑」，L 栏为「caño de agua.」；未据此确定沟的大小。"
+          }
+        },
+        {
+          "position": 6,
+          "old": {
+            "position": 6,
+            "zh": "酒筩；蒸酒（蒸馏）取酒用的竹管、酒筒",
+            "en": "wine-tube; pipe for distilling wine (still-pipe)",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 6,
+            "zh": "酒筩；蒸馏酒用的管",
+            "en": "酒筩: pipe for distilling wine",
+            "confidence": "high",
+            "notes": "L 栏为「caño para destilar el bino」；管的材质未注明。"
+          }
+        },
+        {
+          "position": 7,
+          "old": {
+            "position": 7,
+            "zh": "圳沟；田间引水灌溉的沟渠、田沟",
+            "en": "irrigation ditch; field water channel (furrow trench)",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 7,
+            "zh": "圳溝；水沟、沟渠；左栏末词的含义未定",
+            "en": "圳溝: water channel or ditch; the meaning of the final word in the left column remains uncertain",
+            "confidence": "medium",
+            "notes": "L 栏末词为「rayadera」，其含义及与本条的关系未定。"
+          }
+        },
+        {
+          "position": 8,
+          "old": {
+            "position": 8,
+            "zh": "〔原件残缺，释义存疑〕",
+            "en": "〔Definition uncertain: original columns missing〕",
+            "confidence": "low",
+            "notes": "西语词头 'Cañon. q. pluma.'（或为笔管、大羽管义），但汉字、闽南、官话三栏皆〔空〕，材料不足，按要求标注残缺存疑。"
+          },
+          "new": {
+            "position": 8,
+            "zh": "左栏为 Cañon，另有 pluma（羽毛或笔）；具体词义及缩写存疑",
+            "en": "The left column has Cañon and pluma (feather or pen); the exact sense and abbreviation are uncertain",
+            "confidence": "low",
+            "notes": "L 栏为「Cañon. q. pluma.」；H、M、R 栏均为「[空]」。缩写「q.」未作展开。"
+          }
+        },
+        {
+          "position": 9,
+          "old": {
+            "position": 9,
+            "zh": "劳；劳累、辛劳（操劳至疲乏）",
+            "en": "to toil, labor; to grow weary, tire",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 9,
+            "zh": "劳；劳累；左栏也有使人疲劳之义",
+            "en": "劳: to toil or grow tired; the left column also has the sense “to tire or weary”",
+            "confidence": "medium",
+            "notes": "M 栏封存为「bōa lô」，其两个音节与 H 栏单字「劳」的对应关系未定。"
+          }
+        },
+        {
+          "position": 10,
+          "old": {
+            "position": 10,
+            "zh": "劳烦；劳苦烦扰（使人烦劳）",
+            "en": "to toil and trouble; weary, annoy",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 10,
+            "zh": "劳烦；使人疲劳或烦扰",
+            "en": "to tire, weary or annoy",
+            "confidence": "high",
+            "notes": ""
+          }
+        },
+        {
+          "position": 11,
+          "old": {
+            "position": 11,
+            "zh": "惰；懒惰（倦怠懒散）",
+            "en": "lazy, slothful; weary, indolent",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 11,
+            "zh": "惰；懒惰、倦怠；左栏也有疲倦之义",
+            "en": "惰: lazy or indolent; the left column also includes tiredness",
+            "confidence": "high",
+            "notes": ""
+          }
+        },
+        {
+          "position": 12,
+          "old": {
+            "position": 12,
+            "zh": "倦；因（枉屈）劳苦而疲倦",
+            "en": "weary, worn out (with unjust toil); fatigued",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 12,
+            "zh": "倦；因某种劳作而疲倦",
+            "en": "倦: tired or weary from some work",
+            "confidence": "medium",
+            "notes": "L 栏末词「yngucio」未解，未据此断定劳作的性质。"
+          }
+        },
+        {
+          "position": 14,
+          "old": {
+            "position": 14,
+            "zh": "劳；劳碌、疲劳",
+            "en": "to toil; weary, fatigue",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 14,
+            "zh": "劳；劳累，也可指使人疲劳",
+            "en": "劳: to toil or grow tired; to tire or weary",
+            "confidence": "high",
+            "notes": ""
+          }
+        },
+        {
+          "position": 15,
+          "old": {
+            "position": 15,
+            "zh": "饿；饥饿（又含气馁义；字迹存疑）",
+            "en": "hungry, famished; faint for want of food",
+            "confidence": "medium",
+            "notes": "汉字栏带〔疑：餒/餓〕标记；闽南音写 būe 更近'餓'，按饥饿义释义并降为 medium。"
+          },
+          "new": {
+            "position": 15,
+            "zh": "餒〔疑餒/餓〕；疲倦、饥饿，字形及词义对应存疑",
+            "en": "餒〔餒/餓 uncertain〕: tired; hungry. The character and its exact correspondence are uncertain.",
+            "confidence": "low",
+            "notes": "H 栏封存为「餒 [疑:餒/餓]」，M 栏为「luè」、R 栏为「múi」；L 栏为「cansado hambriento.」。不凭音写定字。"
+          }
+        },
+        {
+          "position": 16,
+          "old": {
+            "position": 16,
+            "zh": "困；困乏、疲惫不堪（力竭）",
+            "en": "exhausted, worn out; overcome with fatigue",
+            "confidence": "low",
+            "notes": "闽南/官话音写栏带 T99（污损难辨）标记，按纪律降为 low；释义据清晰的'困'与西语 cansado, rendido 给出。"
+          },
+          "new": {
+            "position": 16,
+            "zh": "困；困乏、疲惫不堪（力竭）",
+            "en": "exhausted, worn out; overcome with fatigue",
+            "confidence": "low",
+            "notes": "M 栏第三音节及 R 栏的音调标记为 T99；M 栏封存「cêñ cūn tūn」，与 H 栏「困」的对应关系未定。释义据 H 栏及 L 栏「cansado, rendido」给出。"
+          }
+        },
+        {
+          "position": 17,
+          "old": {
+            "position": 17,
+            "zh": "厌倦、疲乏（原稿字存疑：屑/厭）",
+            "en": "weariness, fatigue; disgust (character uncertain)",
+            "confidence": "medium",
+            "notes": "汉字栏带〔疑：屑/厭〕标记，闽南音写 hiânşiag 亦更近'厭'类音，释义存疑降为 medium。"
+          },
+          "new": {
+            "position": 17,
+            "zh": "屑〔疑屑/厭〕；左栏为疲劳、疲倦，汉字词义及对应关系存疑",
+            "en": "屑〔屑/厭 uncertain〕: the left column means fatigue or weariness; the character’s sense and correspondence are uncertain",
+            "confidence": "low",
+            "notes": "H 栏封存为「屑 [疑:屑/厭]」，M 栏为「hiânşiag」、R 栏为「şîōg」；不凭音写定字。"
+          }
+        },
+        {
+          "position": 18,
+          "old": {
+            "position": 18,
+            "zh": "着劳；受劳成倦（劳而烦倦）",
+            "en": "to be wearied and annoyed; to labor and vex",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 18,
+            "zh": "着劳；疲倦、烦倦；左栏也有使人疲倦、烦恼之义",
+            "en": "着劳: weary; annoyed. The left column also gives the senses “to tire and annoy”.",
+            "confidence": "medium",
+            "notes": "L 栏另有「o cansar y enfadar」，动词义与 H 栏的具体对应关系未定。"
+          }
+        },
+        {
+          "position": 19,
+          "old": {
+            "position": 19,
+            "zh": "脚酸；脚腿酸软疲疼",
+            "en": "sore, aching feet; weariness in the legs",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 19,
+            "zh": "脚酸；疲倦，脚酸痛",
+            "en": "脚酸: tired, with sore or aching feet",
+            "confidence": "high",
+            "notes": ""
+          }
+        },
+        {
+          "position": 20,
+          "old": {
+            "position": 20,
+            "zh": "劳心；操心、忧思费神（心神劳倦）",
+            "en": "mental weariness; to worry, trouble the mind",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 20,
+            "zh": "劳心；心神劳倦、费神；左栏含 imaginaciones（想象、思绪），全句意思未定",
+            "en": "劳心: mental weariness; the left column mentions imaginaciones (imaginings or thoughts), but the full phrase is unclear",
+            "confidence": "medium",
+            "notes": "L 栏为「cansado y de imaginaciones」，其句法及细义未定。"
+          }
+        },
+        {
+          "position": 21,
+          "old": {
+            "position": 21,
+            "zh": "劳力；体力劳苦、气力疲乏",
+            "en": "weariness of strength; bodily toil",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 21,
+            "zh": "劳力；气力疲乏、体力疲倦",
+            "en": "劳力: weariness or fatigue of physical strength",
+            "confidence": "high",
+            "notes": ""
+          }
+        }
+      ],
+      "initial_review": "codex_M6_preview/batch02_review_p0220.json",
+      "final_review": "codex_M6_preview/batch02_review_p0220_second.json"
+    }
+  ]
+}

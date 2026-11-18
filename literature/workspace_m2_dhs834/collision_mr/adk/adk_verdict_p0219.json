@@ -1,0 +1,149 @@
+{
+  "protocol": "ADK_VERDICT_V1",
+  "page": 219,
+  "actor": "Codex 子代理",
+  "actor_id": "/root/adk_batch02_b",
+  "method": "对照 v1/rr 的原图裁决，非独立盲读",
+  "verdicts": [
+    {
+      "position": 14,
+      "field": "source_M",
+      "v1": "tòa zōa tāy fù",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第14行中栏四词上方分别有曲折、重墨斜笔和角笔，完整标位难定。"
+    },
+    {
+      "position": 14,
+      "field": "M",
+      "v1": "fù",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第14行中栏末词可见长下伸圈的 f 接 u，u 上有右下斜笔。"
+    },
+    {
+      "position": 8,
+      "field": "R",
+      "v1": "chîm",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第8行右栏 chîm 的尖角上方另有 c 形小字，候选未录。"
+    },
+    {
+      "position": 11,
+      "field": "R",
+      "v1": "chîm",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第11行右栏目标词的尖角旁有 c 形小字，末字连笔也需核。"
+    },
+    {
+      "position": 13,
+      "field": "R",
+      "v1": "chîm",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第13行右栏目标词尖角上另有 c 形小字，不能省略。"
+    },
+    {
+      "position": 1,
+      "field": "M",
+      "v1": "tāy",
+      "rr": "say",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第1行中栏是 t-a-y，a 上方有横线；起笔有明显横划。"
+    },
+    {
+      "position": 1,
+      "field": "R",
+      "v1": "cheng hen tǎy",
+      "rr": "cheng rien. fāy",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第1行右栏前部跨分栏线，末词尖角旁有上置 c 形小字。"
+    },
+    {
+      "position": 3,
+      "field": "M",
+      "v1": "zeng",
+      "rr": "teng.",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第3行中栏划去的西文之后为 z-e-n-g，首字呈 2 形连笔。"
+    },
+    {
+      "position": 4,
+      "field": "R",
+      "v1": "teng ho",
+      "rr": "tèng fó",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第4行右栏首词上有角形笔和一点，次词斜笔下字母难完全定出。"
+    },
+    {
+      "position": 9,
+      "field": "M",
+      "v1": "pon òa",
+      "rr": "pōng òa,",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第9行中栏首词横线上有 c 形小字，词尾与次词元音连笔不清。"
+    },
+    {
+      "position": 12,
+      "field": "M",
+      "v1": "pon oa",
+      "rr": "pōng òa",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第12行中栏两词被圈线包围，首词上有横线，次词角形上标与圈线相接。"
+    },
+    {
+      "position": 14,
+      "field": "M",
+      "v1": "tòa zōa tāy fù",
+      "rr": "tōa xōa tāy sù",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第14行中栏四词上置笔形态和归属与两候选均有差异，末词 fù 可辨。"
+    },
+    {
+      "position": 15,
+      "field": "M",
+      "v1": "chung te",
+      "rr": "chūng kē",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第15行中栏首词横线上另有 6 形小字，次词上方还有点与角形笔。"
+    },
+    {
+      "position": 16,
+      "field": "M",
+      "v1": "chung te",
+      "rr": "chūng kē",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第16行中栏被圈线穿过，首词上方有 6 形小字，次词上标与圈线交叠。"
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "protocol": "ADK_VERDICT_V1",
+  "page": 214,
+  "actor": "Codex 子代理",
+  "actor_id": "/root/adk_batch02_c",
+  "method": "对照 v1/rr 的原图裁决，非独立盲读",
+  "verdicts": [
+    {
+      "position": 3,
+      "field": "source_M",
+      "v1": "vay.",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第3行中栏词上有粗重黑色覆笔，不能确定原来的调号。"
+    },
+    {
+      "position": 3,
+      "field": "source_R",
+      "v1": "voay",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第3行右栏该词上有折形笔，元音连写不能确定是 o、a 的何种组合。"
+    },
+    {
+      "position": 16,
+      "field": "source_M",
+      "v1": "lou van.",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第16行中栏首词上有波形笔，第二词有斜笔，归属位置无法完整确认。"
+    },
+    {
+      "position": 16,
+      "field": "source_R",
+      "v1": "lu van",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第16行右栏首词有横线，第二词有折笔，元音连写及记号位置不明。"
+    },
+    {
+      "position": 17,
+      "field": "source_M",
+      "v1": "van guiog lou",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第17行中栏首词上有斜笔，第二词上有小字，末词上有粗弯笔。"
+    },
+    {
+      "position": 17,
+      "field": "source_R",
+      "v1": "van cong lu",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第17行右栏前两词上均有折笔，末词有横线，连写及记号位置不清。"
+    },
+    {
+      "position": 1,
+      "field": "M",
+      "v1": "sabido",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第1行中栏对应的外文小词可辨 s-a-b-i-d-o，词内未见附加调号。"
+    },
+    {
+      "position": 3,
+      "field": "M",
+      "v1": "vay",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第3行中栏该词上方有粗重覆笔，不能确定完整标记。"
+    },
+    {
+      "position": 16,
+      "field": "M",
+      "v1": "van",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第16行中栏第二词上方有斜笔，落在连写的元音和尾笔附近，归属未定。"
+    },
+    {
+      "position": 17,
+      "field": "M",
+      "v1": "van",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第17行中栏首词上方有斜笔，元音和末尾连笔不易拆分。"
+    },
+    {
+      "position": 18,
+      "field": "M",
+      "v1": "wc",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第18行中栏 cheng 上方有 wc 形小字，不能确定其作为独立词还是上置记号。"
+    },
+    {
+      "position": 19,
+      "field": "M",
+      "v1": "wc",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第19行中栏 cheng 上方有细小覆笔及 c 形小字，是否独立词无法确认。"
+    },
+    {
+      "position": 3,
+      "field": "R",
+      "v1": "voay",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第3行右栏词上有折笔，元音连写不能确定全部字母。"
+    },
+    {
+      "position": 12,
+      "field": "R",
+      "v1": "tam",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第12行右栏首词尖形笔旁有 c 形小字，词尾连写。"
+    },
+    {
+      "position": 14,
+      "field": "R",
+      "v1": "inon",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第14行右栏首词中间连笔，斜笔与点的位置也无法可靠归属。"
+    },
+    {
+      "position": 16,
+      "field": "R",
+      "v1": "van",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第16行右栏第二词上有折笔，元音与尾部连写不清。"
+    },
+    {
+      "position": 17,
+      "field": "R",
+      "v1": "van",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第17行右栏首词上有折笔，元音和尾部连写及标记位置不明。"
+    },
+    {
+      "position": 1,
+      "field": "M",
+      "v1": "chuy liog sabido loỹ",
+      "rr": "chuy liog sabido lòu y᷉",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第1行中栏后段跨竖线且有粗黑涂改，末词及其上置笔不能完整辨定。"
+    },
+    {
+      "position": 2,
+      "field": "M",
+      "v1": "han lou gy han. hua lou.",
+      "rr": "han lòu g᷉ han hua lòu",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第2行中栏词串跨汉字栏，局部覆写并有多个小字与折笔。"
+    },
+    {
+      "position": 3,
+      "field": "R",
+      "v1": "voay",
+      "rr": "vòy",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第3行右栏有折形调笔，元音形态和准确落位无法确认。"
+    },
+    {
+      "position": 4,
+      "field": "M",
+      "v1": "gui.",
+      "rr": "giy",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第4行中栏词上有 c 形小字和斜笔，底部元音连写。"
+    },
+    {
+      "position": 5,
+      "field": "M",
+      "v1": "lon chio",
+      "rr": "lǒn chiom",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第5行中栏两词均有上置弯笔，第二词末部与小字相近。"
+    },
+    {
+      "position": 5,
+      "field": "R",
+      "v1": "li jang",
+      "rr": "lī᷉ jiōng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第5行右栏两词的横线覆盖相邻连笔，末词尾部不清。"
+    },
+    {
+      "position": 6,
+      "field": "M",
+      "v1": "liog lou",
+      "rr": "liog lōn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第6行中栏首词上有粗折笔，末词上方有两层弯笔。"
+    },
+    {
+      "position": 7,
+      "field": "M",
+      "v1": "han lou",
+      "rr": "han lōn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第7行中栏词串被圈线包住，上方弯笔与圈线相叠。"
+    },
+    {
+      "position": 9,
+      "field": "R",
+      "v1": "lu zu",
+      "rr": "lī᷉ zī᷉",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第9行右栏两词上方横线及点的位置靠近连写字母，不能完整确认。"
+    },
+    {
+      "position": 10,
+      "field": "R",
+      "v1": "leng lu",
+      "rr": "lèng lī᷉",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第10行右栏首词斜笔及末词横线归属不清，首词尾部连写。"
+    },
+    {
+      "position": 13,
+      "field": "R",
+      "v1": "cheng lu gui",
+      "rr": "chēng lī᷉ cũi᷉",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第13行右栏首词和末词横线上均有 c 形小字，末词另有点。"
+    },
+    {
+      "position": 14,
+      "field": "R",
+      "v1": "inon tou",
+      "rr": "ǐen tō᷉",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第14行右栏首词有斜笔及点，第二词横线落在连笔上，归属不明。"
+    },
+    {
+      "position": 15,
+      "field": "R",
+      "v1": "to lu",
+      "rr": "tǒ lī᷉",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第15行右栏首词有折笔，第二词有横线，元音与记号的对应不清。"
+    },
+    {
+      "position": 16,
+      "field": "R",
+      "v1": "lu van",
+      "rr": "lī᷉ vō᷉n",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第16行右栏首词横线与第二词折笔的位置难以精确归属。"
+    },
+    {
+      "position": 17,
+      "field": "M",
+      "v1": "van guiog lou",
+      "rr": "vān guig lōu",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第17行中栏第二词上有小字、末词上有粗弯笔，整串标记不明。"
+    },
+    {
+      "position": 17,
+      "field": "R",
+      "v1": "van cong lu",
+      "rr": "vān cōng lī᷉",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第17行右栏两处折笔与末词横线可见，但与连写字母的归属未定。"
+    },
+    {
+      "position": 18,
+      "field": "M",
+      "v1": "cheng wc",
+      "rr": "chêng au",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第18行中栏词上有 wc 形小字，旁注 au 位于竖线另一侧，关系不清。"
+    },
+    {
+      "position": 18,
+      "field": "R",
+      "v1": "au. cheng",
+      "rr": "chêng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第18行右栏主词折笔上有 c 形小字，左侧 au 是跨栏小注，归属不明。"
+    },
+    {
+      "position": 19,
+      "field": "M",
+      "v1": "cheng wc sa ia",
+      "rr": "chêng sa ia᷉",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第19行中栏首词上有重叠小字，后两词亦有弯笔、斜笔。"
+    },
+    {
+      "position": 19,
+      "field": "R",
+      "v1": "cheng san",
+      "rr": "chêng si᷉",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第19行右栏首词上有 c 形小字，末词折笔和字母连写。"
+    },
+    {
+      "position": 20,
+      "field": "M",
+      "v1": "lay oy",
+      "rr": "lāy ôg",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第20行中栏第二词被粗黑笔划覆盖，无法辨明字母和调号。"
+    },
+    {
+      "position": 20,
+      "field": "R",
+      "v1": "lui y",
+      "rr": "lī᷉ ī᷉",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第20行右栏首词横线及末词折笔的位置不能准确对应连写字母。"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "coordinate_system": "横带图左上角为原点，bbox_xyxy 为原图像素坐标，右下为裁剪边界；以 5 倍最近邻放大查看。",
+  "records": [
+    {
+      "page": "0215",
+      "index_1based": 15,
+      "position": 4,
+      "field": "R",
+      "candidate_source": "rr",
+      "candidate": "chǒng",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0215/pdf_0215_band_y0_top.png",
+      "bbox_xyxy": [
+        1550,
+        1000,
+        1750,
+        1130
+      ],
+      "reason": "右栏目标词可辨 c-h-o-n-g，o 上有 V 形调号；词段范围内未见遗漏的上置小字。"
+    },
+    {
+      "page": "0218",
+      "index_1based": 35,
+      "position": 14,
+      "field": "R",
+      "candidate_source": "ink",
+      "candidate": "zò.",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0218/pdf_0218_band_y2_bot.png",
+      "bbox_xyxy": [
+        1690,
+        300,
+        1810,
+        440
+      ],
+      "reason": "右栏可见下伸的 z 形字母与 o，上方为右下斜的调号；未见遗漏的上置小字。"
+    },
+    {
+      "page": "0221",
+      "index_1based": 22,
+      "position": 11,
+      "field": "R",
+      "candidate_source": "rr",
+      "candidate": "cǎn guī",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0221/pdf_0221_band_y1_mid.png",
+      "bbox_xyxy": [
+        1635,
+        525,
+        1870,
+        625
+      ],
+      "reason": "右栏可辨 can 和 gui，首词有 V 形画，次词有横画及 i 点；但横画位于 gui 前部，无法由图完整确认其与 i 的对应关系。"
+    },
+    {
+      "page": "0218",
+      "index_1based": 38,
+      "position": 16,
+      "field": "R",
+      "candidate_source": "rr",
+      "candidate": "chō",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0218/pdf_0218_band_y2_bot.png",
+      "bbox_xyxy": [
+        1700,
+        655,
+        1875,
+        775
+      ],
+      "reason": "右栏目标词可辨 c-h-o，o 上横画清楚；按指定词段核对，未将同一行其他位置的文字计入。"
+    },
+    {
+      "page": "0206",
+      "index_1based": 40,
+      "position": 19,
+      "field": "R",
+      "candidate_source": "ink",
+      "candidate": "hā.",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0206/pdf_0206_band_y2_bot.png",
+      "bbox_xyxy": [
+        1680,
+        460,
+        1810,
+        570
+      ],
+      "reason": "右栏目标词可辨 h-a，a 上横画清楚；未见遗漏的上置小字。"
+    },
+    {
+      "page": "0218",
+      "index_1based": 40,
+      "position": 17,
+      "field": "R",
+      "candidate_source": "ink",
+      "candidate": "lāt chō.",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0218/pdf_0218_band_y2_bot.png",
+      "bbox_xyxy": [
+        1700,
+        775,
+        1920,
+        885
+      ],
+      "reason": "右栏两词可辨 l-a-t 与 c-h-o，两词上方各有横画；未见遗漏的上置小字。"
+    },
+    {
+      "page": "0218",
+      "index_1based": 25,
+      "position": 7,
+      "field": "R",
+      "candidate_source": "ink",
+      "candidate": "chȳ.",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0218/pdf_0218_band_y1_mid.png",
+      "bbox_xyxy": [
+        1690,
+        160,
+        1840,
+        310
+      ],
+      "reason": "右栏可辨 c-h-y，末字有完整下伸笔，字上有横画；未见遗漏的上置小字。"
+    },
+    {
+      "page": "0203",
+      "index_1based": 34,
+      "position": 18,
+      "field": "M",
+      "candidate_source": "ink",
+      "candidate": "zò.",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0203/pdf_0203_band_y2_bot.png",
+      "bbox_xyxy": [
+        1025,
+        440,
+        1175,
+        615
+      ],
+      "reason": "中栏可见带长下伸笔的 z 形字母与 o，上方是右下斜的调号；未见遗漏的上置小字。"
+    }
+  ]
+}

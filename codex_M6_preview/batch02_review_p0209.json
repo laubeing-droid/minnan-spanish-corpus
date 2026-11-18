@@ -1,0 +1,98 @@
+{
+  "page": 209,
+  "status": "REVISION_REQUESTED",
+  "scope": "第二读者非盲对照最新封存、原主释义及候选；并非独立盲读或全书释义验收。",
+  "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0209.json",
+  "original_path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0209.json",
+  "candidate_path": "codex_M6_preview/batch02_refresh_p0209.json",
+  "entries_reviewed": 20,
+  "findings": [
+    {
+      "position": 1,
+      "confidence": "high",
+      "fields": [
+        "zh",
+        "en",
+        "notes"
+      ],
+      "problem": "候选只概述壳灰与首字不确定性，未交代 L 栏「caldo」和「cuando…se es cupe」，也未说明 M 栏「zumo」与「le es cupe」中可辨的汁液及疑似吐出词素；直接引原文但完全不释其可辨部分，读者无法看到另一组可能的含义。",
+      "suggested_repair": "分栏补充：L 栏含 caldo（一般可指汤汁）与 cuando…se es cupe；M 栏含 zumo（汁液）及 le es cupe。后者疑与 escupe 有关，但分词、整句及其与 H 栏的关系未定，不将这几栏合成同一含义。",
+      "source_quotes": {
+        "L": "caldo del buyc[疑:buey/buyc], o quando[疑:quando/quamdo] se es cupe",
+        "M": "ō cag húe. dizen del zumo albuig le es cupe =",
+        "H": "蠔[疑:蠔/蠓]壳灰 Cal del othion -"
+      },
+      "reference_urls": [
+        "https://dle.rae.es/caldo",
+        "https://dle.rae.es/escupir"
+      ]
+    },
+    {
+      "position": 2,
+      "confidence": "high",
+      "fields": [
+        "zh",
+        "en",
+        "notes"
+      ],
+      "problem": "候选只说 morisquera 未解，没有交代 L 栏可辨的「caldo de … con alguna …」（某种汤汁并含一些某物），遗漏了汤汁义；H 栏不同字形用斜杠连写也不够清楚。",
+      "suggested_repair": "分栏说明左栏涉及 morisquera 汤汁和一些 morisquera，morisquera 所指与其对 H 栏的对应均未定；H 栏首末字可明确分组为〔泡/疱〕飯〔閻/閹〕，不将其定作具体食材。",
+      "source_quotes": {
+        "L": "caldo de morisquera con alguna morisquera -",
+        "H": "泡[疑:泡/疱]飯閻[疑:閻/閹]"
+      },
+      "reference_urls": [
+        "https://dle.rae.es/caldo"
+      ]
+    },
+    {
+      "position": 3,
+      "confidence": "medium",
+      "fields": [
+        "zh",
+        "en",
+        "notes"
+      ],
+      "problem": "英文将荳油直接写成「bean oil or liquid」，其中 liquid 作为汉字栏定义缺少独立依据，且比中文「豆油」范围更宽；左栏的咸豆汤汁不应未经说明直接合并为该词的确定词义。",
+      "suggested_repair": "保留 H 栏字形并说明其具体品类待核，单列 L 栏「咸豆汤汁」；是否为酱油及两栏的具体对应仍存疑，中英文保持同一不确定度。",
+      "source_quotes": {
+        "L": "caldo de frisoles, salado.",
+        "H": "荳油"
+      }
+    },
+    {
+      "position": 9,
+      "confidence": "medium",
+      "fields": [
+        "zh",
+        "en",
+        "confidence",
+        "notes"
+      ],
+      "problem": "候选将「灼燒」直接定义为「靠火取暖」，只体现 L 栏 Calentarse al fuego 的意思；汉字栏「灼燒」本有烧灼的字面义，候选未说明两栏语义对应存在待核之处。",
+      "suggested_repair": "中英文分述 H 栏「灼燒」及 L 栏「靠火取暖」，说明汉字词在本条的具体用法和两栏对应待核；相应考虑下调确定度。",
+      "source_quotes": {
+        "L": "Calentarse al fuego.",
+        "H": "灼燒"
+      }
+    },
+    {
+      "position": 14,
+      "confidence": "medium",
+      "fields": [
+        "zh",
+        "en",
+        "notes"
+      ],
+      "problem": "候选把「炒過」释为「炒、加热或烘烤」，未说明「過」在该词中的可能作用；「加热或烘烤」又直接并入 H 栏释义，而它们直接来自 L 栏的 calentar、tostar。",
+      "suggested_repair": "保留「炒過」及其字面上可能涉及的「炒过」意义，但不强断完成体；分列 L 栏「加热、烘烤 piambres」，后者所指继续存疑，汉字词的实际用法与两栏对应待核。",
+      "source_quotes": {
+        "L": "calentar, tostar los piambres",
+        "H": "炒過"
+      }
+    }
+  ],
+  "findings_count": 5,
+  "other_entries": "其余位置未发现必须返修的问题；未判定字面重读或历史事实。",
+  "external_reference_scope": "RAE 词条仅辅助一般西语词义，不能证明此手稿中的断词、语境或各栏对应。"
+}

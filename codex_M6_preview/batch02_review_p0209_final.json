@@ -1,0 +1,45 @@
+{
+  "page": 209,
+  "status": "REVIEW_FINDINGS_RESOLVED",
+  "scope": "仅对原非盲复审指出的第 1、2、3、9、14 条对照最新封存复核；不构成独立盲读、全页重新复审或人工作出历史判断。",
+  "candidate_path": "codex_M6_preview/batch02_refresh_p0209.json",
+  "candidate_sha256": "2ec16fa72163541fd6950cfe3e571d2cd8037d2f19e1dfeb1356cf8b3d3d19db",
+  "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0209.json",
+  "sealed_sha256": "4c7c34ba949928de898b3226abde5322089b1edf73f7c7977cd3c74cfb684852",
+  "previous_review_path": "codex_M6_preview/batch02_review_p0209.json",
+  "positions_reviewed": [
+    1,
+    2,
+    3,
+    9,
+    14
+  ],
+  "results": [
+    {
+      "position": 1,
+      "status": "RESOLVED",
+      "assessment": "已分列 L 栏 caldo 及疑似吐出之语、M 栏 zumo；notes 保留 L 栏 quando/quamdo 与各栏原文，说明吐出解释、断词、句意及栏间对应未定。"
+    },
+    {
+      "position": 2,
+      "status": "RESOLVED",
+      "assessment": "已分组标明首末疑字，单列 L 栏 morisquera 汤汁及其中一些 morisquera，并保留其所指和与 H 栏对应待核。"
+    },
+    {
+      "position": 3,
+      "status": "RESOLVED",
+      "assessment": "已移除英文 bean oil or liquid 的直接定义，区分 H 栏「荳油」与 L 栏咸豆汤汁，并说明两栏对应和是否为酱油待核。"
+    },
+    {
+      "position": 9,
+      "status": "RESOLVED",
+      "assessment": "已分列 H 栏「灼燒」的可能字面义和 L 栏靠火取暖义，注明具体用法及对应待核，置信度为 medium。"
+    },
+    {
+      "position": 14,
+      "status": "RESOLVED",
+      "assessment": "已将 H 栏可能的字面义与 L 栏加热、烘烤 piambres 分列，保留 piambres 所指、「過」的作用及栏间对应待核。"
+    }
+  ],
+  "remaining_uncertainty": "以上已解决的是原复审问题；各条写明的字形、断词、词义与栏间对应仍待核，不能据此声称历史事实已确认。"
+}

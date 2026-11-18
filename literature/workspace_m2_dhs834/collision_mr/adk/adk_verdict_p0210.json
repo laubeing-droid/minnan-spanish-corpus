@@ -1,0 +1,560 @@
+{
+  "protocol": "ADK_VERDICT_V1",
+  "page": 210,
+  "actor": "Codex 子代理",
+  "actor_id": "/root/adk_batch02_b",
+  "method": "对照 v1/rr 的原图裁决，非独立盲读",
+  "verdicts": [
+    {
+      "position": 4,
+      "field": "source_M",
+      "v1": "lang fung",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第4行中栏第二词上方和末尾附近被粗墨划改，首字和完整调号难定。"
+    },
+    {
+      "position": 8,
+      "field": "source_R",
+      "v1": "fa xie",
+      "rr": "",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第8行右栏 fa 的 a 上和 xie 的 i 上各有一横。",
+      "ink": "fā xīe"
+    },
+    {
+      "position": 1,
+      "field": "M",
+      "v1": "xi",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第1行中栏第二词的起始片段是交叉的 x 和带点的 i。"
+    },
+    {
+      "position": 4,
+      "field": "M",
+      "v1": "fung",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第4行中栏第二词上方被粗墨覆盖，首字和整个词的记号不明。"
+    },
+    {
+      "position": 5,
+      "field": "M",
+      "v1": "xi",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第5行中栏该词起笔为 x，接带点的 i；此项只核 xi 片段。"
+    },
+    {
+      "position": 6,
+      "field": "M",
+      "v1": "xi",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第6行中栏第二词起始是 x 加带点的 i；此项只核 xi 片段。"
+    },
+    {
+      "position": 6,
+      "field": "M",
+      "v1": "interior",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第6行中栏末尾可辨西文连写 interior，尾字 r 跨近竖线。"
+    },
+    {
+      "position": 6,
+      "field": "M",
+      "v1": "interior",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第6行中栏末尾是 interior，末段 i-o-r 连写清楚。"
+    },
+    {
+      "position": 7,
+      "field": "M",
+      "v1": "xi",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第7行中栏首词起始为 x 与带点 i；此项只核 xi 片段。"
+    },
+    {
+      "position": 7,
+      "field": "M",
+      "v1": "minor",
+      "rr": "",
+      "verdict": "两皆误",
+      "letters": "两皆误",
+      "tone_mark": "一致",
+      "note": "第7行中栏冒号后字母为 m-e-n-o-r，第二字不是 i。",
+      "ink": "menor"
+    },
+    {
+      "position": 7,
+      "field": "M",
+      "v1": "minor",
+      "rr": "",
+      "verdict": "两皆误",
+      "letters": "两皆误",
+      "tone_mark": "一致",
+      "note": "第7行中栏末词可辨 menor，e 的连笔与 n 分开。",
+      "ink": "menor"
+    },
+    {
+      "position": 8,
+      "field": "M",
+      "v1": "xi",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第8行中栏第二词起始可见 x 与有点的 i，此项只核 xi。"
+    },
+    {
+      "position": 8,
+      "field": "M",
+      "v1": "tenerla",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第8行中栏下一小行西文依次写 tenerla。"
+    },
+    {
+      "position": 13,
+      "field": "M",
+      "v1": "xa",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第13行中栏第二词为 x 后连写的元音，顶部有角形笔，不能确认 xa 全词。"
+    },
+    {
+      "position": 15,
+      "field": "M",
+      "v1": "xoa",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第15行中栏首词元音连笔上有角形标，具体落点待核。"
+    },
+    {
+      "position": 15,
+      "field": "M",
+      "v1": "xi",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第15行中栏次词起始交叉笔为 x，后接带点 i，此项只核 xi。"
+    },
+    {
+      "position": 16,
+      "field": "M",
+      "v1": "xoa",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第16行中栏首词 x 后元音连写，上方角形笔的对应元音不明。"
+    },
+    {
+      "position": 17,
+      "field": "R",
+      "v1": "yam",
+      "rr": "",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第17行右栏 y-a-m 的 a 上清楚有一横。",
+      "ink": "yām"
+    },
+    {
+      "position": 17,
+      "field": "R",
+      "v1": "yam",
+      "rr": "",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第17行右栏单词 yam 的 a 上有横线，原候选漏记。",
+      "ink": "yām"
+    },
+    {
+      "position": 18,
+      "field": "R",
+      "v1": "yam",
+      "rr": "",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第18行右栏首词 y-a-m 的 a 上有横线；只录该词。",
+      "ink": "yām"
+    },
+    {
+      "position": 18,
+      "field": "R",
+      "v1": "yam",
+      "rr": "",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第18行右栏首词为 yām，后词上标不属于该词段。",
+      "ink": "yām"
+    },
+    {
+      "position": 1,
+      "field": "M",
+      "v1": "un xiẽ",
+      "rr": "v̂n xièr",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第1行中栏首词有斜笔，次词末部上方有角形标，末字 r 与调号待核。"
+    },
+    {
+      "position": 1,
+      "field": "R",
+      "v1": "un xie",
+      "rr": "v̂n xiē",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第1行右栏首词上有角形笔，第二词上横线与字母 i 的归属不清。"
+    },
+    {
+      "position": 2,
+      "field": "M",
+      "v1": "un luan",
+      "rr": "v̂n loān",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第2行中栏两词都有斜形上标，次词 l 后元音连写不易分辨。"
+    },
+    {
+      "position": 2,
+      "field": "R",
+      "v1": "un noan",
+      "rr": "v̂n noān",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第2行右栏首词上是角形笔，次词的元音和斜笔落点难定。"
+    },
+    {
+      "position": 3,
+      "field": "M",
+      "v1": "pag hue",
+      "rr": "pèg huè",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第3行中栏第一词字母连写，上方小角标与第二词斜标均需复核。"
+    },
+    {
+      "position": 4,
+      "field": "M",
+      "v1": "lang fung",
+      "rr": "lang gung [行内涂改]",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第4行中栏次词上方被浓墨涂改，不能确定 f/g 及全部记号。"
+    },
+    {
+      "position": 4,
+      "field": "R",
+      "v1": "long zoang",
+      "rr": "lòng zòng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第4行右栏两词分别有尖角与斜笔，元音连写的确切标位不清。"
+    },
+    {
+      "position": 5,
+      "field": "M",
+      "v1": "xiẽ",
+      "rr": "xièr [旁有改注]",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第5行中栏词尾连接上置角形笔，无法确定末尾字母及该笔归属。"
+    },
+    {
+      "position": 5,
+      "field": "R",
+      "v1": "xie",
+      "rr": "xiē [前有改注 correg. chuan.]",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第5行右栏词前存在跨栏修改文字，目标词横线与 i/e 的对应待核。"
+    },
+    {
+      "position": 6,
+      "field": "M",
+      "v1": "ut xiẽ interior",
+      "rr": "v̂t xièr interior.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第6行中栏第一词顶部有粗斜笔，第二词上方改写密集，附注跨分栏线。"
+    },
+    {
+      "position": 6,
+      "field": "R",
+      "v1": "un xie",
+      "rr": "v̂n xiē",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第6行右栏两个词均带横线，首词元音和横线位置与候选不一致。"
+    },
+    {
+      "position": 7,
+      "field": "M",
+      "v1": "xiẽ quy : minor.",
+      "rr": "xieⁿ quy : menor.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第7行中栏第二词上方被涂黑且上有 c 形小字，后面西文为 menor。"
+    },
+    {
+      "position": 8,
+      "field": "M",
+      "v1": "huan xiẽ tenerla.",
+      "rr": "huār xièr tenerla.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第8行中栏首词尾笔和次词上置角形符号有歧义，tenerla 在其下方。"
+    },
+    {
+      "position": 8,
+      "field": "R",
+      "v1": "fa xie",
+      "rr": "jā xiē",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第8行右栏第一词是 fā，第二词 i 上有横线；重读首字不符。",
+      "ink": "fā xīe"
+    },
+    {
+      "position": 9,
+      "field": "M",
+      "v1": "sy ho",
+      "rr": "sī hō",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第9行中栏首词上方有 n 形小笔，次词上为横线，候选均未完整录记。"
+    },
+    {
+      "position": 10,
+      "field": "M",
+      "v1": "sio gue.",
+      "rr": "gûe.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第10项对应的相逆行中栏次词上方被墨迹划叉，完整调号难定。"
+    },
+    {
+      "position": 10,
+      "field": "R",
+      "v1": "siong ngue",
+      "rr": "ngûe",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第10项对应的相逆行右栏有两词，首词上置角标和次词横线位置难定。"
+    },
+    {
+      "position": 11,
+      "field": "M",
+      "v1": "5. gin cheng. 2. gin chiag.",
+      "rr": "siōⁿ gûe.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第11项对应银钟行，中栏分段数字及词语跨分栏线，斜笔与字母部分相接。"
+    },
+    {
+      "position": 11,
+      "field": "R",
+      "v1": "gin chong",
+      "rr": "siōⁿ ngûe",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第11项对应银钟行右栏，首词首字及两词顶部角形笔有歧义。"
+    },
+    {
+      "position": 12,
+      "field": "M",
+      "v1": "gin chun.",
+      "rr": "gīn chéng. l. gīn chiàⁿ.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第12项对应银船行中栏，两词被圈线穿过，次词末笔受遮挡。"
+    },
+    {
+      "position": 12,
+      "field": "R",
+      "v1": "xien chuen",
+      "rr": "gîn chǒng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第12项对应银船行右栏，次词调号旁有上置 c 形小字。"
+    },
+    {
+      "position": 13,
+      "field": "M",
+      "v1": "su xa.",
+      "rr": "gîn chûn.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第13项对应暑行中栏，首词上有重墨，第二词上标角形且元音连写。"
+    },
+    {
+      "position": 13,
+      "field": "R",
+      "v1": "sy",
+      "rr": "xiên chuên",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第13项对应暑行右栏单词，上方斜笔外还有 c 形小字。"
+    },
+    {
+      "position": 14,
+      "field": "M",
+      "v1": "su tien soã",
+      "rr": "sū xōa.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第14项对应暑天行中栏，三词上方分别有多处小笔，第三词被重墨覆盖。"
+    },
+    {
+      "position": 14,
+      "field": "R",
+      "v1": "sy xoa tien",
+      "rr": "sỳ [行间另有 car rao.] ",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第14项对应暑天行右栏，首末词上方可见 c 形小字，中词亦有涂改。"
+    },
+    {
+      "position": 15,
+      "field": "M",
+      "v1": "xoa xiẽ idy",
+      "rr": "sū thiⁿ sōaⁿ",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第15项对应热行中栏，两个读音和末尾附字之间标记密集、笔画重叠。"
+    },
+    {
+      "position": 15,
+      "field": "R",
+      "v1": "xie",
+      "rr": "sỳ xiōn hiēn",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第15项对应热行右栏仅 xie 一词，i 上有横线。",
+      "ink": "xīe"
+    },
+    {
+      "position": 16,
+      "field": "M",
+      "v1": "xoa ty sy",
+      "rr": "xōa xièⁿ idg",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第16项对应热天时行中栏，首词角标及次词上置细笔不能完整定读。"
+    },
+    {
+      "position": 16,
+      "field": "R",
+      "v1": "xie tien gin",
+      "rr": "xiē",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第16项对应热天时行右栏是三词，第二词上方另有 c 形小字。"
+    },
+    {
+      "position": 17,
+      "field": "M",
+      "v1": "iam.",
+      "rr": "xōa sỳ sȳ",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第17项对应炎行中栏，iam 的 a 上清楚有一横，重读属于上一行。",
+      "ink": "iām"
+    },
+    {
+      "position": 17,
+      "field": "R",
+      "v1": "yam",
+      "rr": "xiē thiēn sĩ",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第17项对应炎行右栏仅 yām 一词，a 上有横线。",
+      "ink": "yām"
+    },
+    {
+      "position": 18,
+      "field": "M",
+      "v1": "iam tien.",
+      "rr": "iām.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第18项对应炎天行中栏两词，第二词斜线上另有 c 形小字。"
+    },
+    {
+      "position": 18,
+      "field": "R",
+      "v1": "yam tien",
+      "rr": "yām",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第18项对应炎天行右栏两词，第二词角标上有 c 形小字，重读仅录首词。"
+    }
+  ]
+}

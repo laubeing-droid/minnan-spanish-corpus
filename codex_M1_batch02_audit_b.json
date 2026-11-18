@@ -1,0 +1,91 @@
+{
+  "method": "指定原始横带定位后以内存裁剪并放大五倍核验；词段按字母、调号、可见上置小字与栏位判断。",
+  "coordinates": "原始横带像素坐标，左上角为原点；bbox_xyxy 为左、上、右、下，右下为开区间。",
+  "items": [
+    {
+      "page": 206,
+      "receipt_index_1based": 38,
+      "position": 17,
+      "field": "R",
+      "candidate_source": "ink",
+      "candidate": "hiā.",
+      "result": "SUPPORTED",
+      "image_path": "literature/tiles/01_DHS/page_0206/pdf_0206_band_y2_bot.png",
+      "bbox_xyxy": [
+        1670,
+        205,
+        1840,
+        330
+      ],
+      "reason": "右栏该词段可见 h、带点的 i、a，a 上有横线；未见额外独立上置小字。"
+    },
+    {
+      "page": 206,
+      "receipt_index_1based": 44,
+      "position": 22,
+      "field": "R",
+      "candidate_source": "ink",
+      "candidate": "hǔi.",
+      "result": "SUPPORTED",
+      "image_path": "literature/tiles/01_DHS/page_0206/pdf_0206_band_y2_bot.png",
+      "bbox_xyxy": [
+        1670,
+        785,
+        1850,
+        910
+      ],
+      "reason": "右栏该词段可见 h、u、带点的 i，u 上方有折钩形记号；未见额外独立上置小字。"
+    },
+    {
+      "page": 209,
+      "receipt_index_1based": 25,
+      "position": 4,
+      "field": "M",
+      "candidate_source": "ink",
+      "candidate": "lǎ",
+      "result": "SUPPORTED",
+      "image_path": "literature/tiles/01_DHS/page_0209/pdf_0209_band_y0_top.png",
+      "bbox_xyxy": [
+        1090,
+        850,
+        1280,
+        970
+      ],
+      "reason": "中栏该词段可见 l、a，a 右上方有折钩形记号；未见额外独立上置小字。"
+    },
+    {
+      "page": 215,
+      "receipt_index_1based": 10,
+      "position": 1,
+      "field": "M",
+      "candidate_source": "rr",
+      "candidate": "oũ",
+      "result": "UNKNOWN",
+      "image_path": "literature/tiles/01_DHS/page_0215/pdf_0215_band_y0_top.png",
+      "bbox_xyxy": [
+        1040,
+        420,
+        1230,
+        560
+      ],
+      "reason": "中栏字母 ou 与上方波浪形笔画可见；但波浪形笔画左端有交叠的斜笔，不能确定它是否为独立的上置记号或小字，因此无法完整确认。"
+    },
+    {
+      "page": 220,
+      "receipt_index_1based": 25,
+      "position": 15,
+      "field": "M",
+      "candidate_source": "ink",
+      "candidate": "luè",
+      "result": "SUPPORTED",
+      "image_path": "literature/tiles/01_DHS/page_0220/pdf_0220_band_y1_mid.png",
+      "bbox_xyxy": [
+        1150,
+        940,
+        1360,
+        1080
+      ],
+      "reason": "中栏该词段可见连写的 l、u、e，e 上方有右下倾斜的重音线；未见额外独立上置小字。"
+    }
+  ]
+}

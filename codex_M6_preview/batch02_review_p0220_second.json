@@ -1,0 +1,33 @@
+{
+  "page": 220,
+  "status": "REVIEW_FINDINGS_RESOLVED",
+  "scope": "仅对原非盲复审提出的第 10、15、18 条对照最新封存作返修复核；不构成独立盲读或全页、全书释义验收。",
+  "candidate_path": "codex_M6_preview/batch02_refresh_p0220.json",
+  "candidate_sha256": "0ec17e59c722a38671cb58133877375b09aa8dde23bead43ed67378558866a76",
+  "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0220.json",
+  "sealed_sha256": "44ddfe99bfabc187eee32da433d7ff1328af5a25c2d47e2af131dcea7a015932",
+  "previous_review_path": "codex_M6_preview/batch02_review_p0220.json",
+  "positions_reviewed": [
+    10,
+    15,
+    18
+  ],
+  "results": [
+    {
+      "position": 10,
+      "status": "RESOLVED",
+      "assessment": "中文保留「劳烦」，释为使人疲劳或烦扰；英文改为 to tire, weary or annoy，已去除无依据的辛苦劳动及将两个动作强行连在一起的表达。"
+    },
+    {
+      "position": 15,
+      "status": "RESOLVED",
+      "assessment": "英文将 tired、hungry 以分号并列，不再认定两种状态必须同时成立；保留 H 栏餒/餓疑读及具体对应待核。"
+    },
+    {
+      "position": 18,
+      "status": "RESOLVED",
+      "assessment": "英文将形容词义 weary、annoyed 分列，动词义保留 to tire and annoy；notes 标明动词义与 H 栏具体对应待核。"
+    }
+  ],
+  "remaining_uncertainty": "复核解决的是上述三项返修问题；不因此消除候选中注明的字形、语义或栏间对应疑点。原报告另有第 3、8 条观察，本次不在复核范围。"
+}
