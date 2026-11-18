@@ -1,0 +1,924 @@
+{
+  "status": "APPLIED_NONBLIND_REFRESH",
+  "scope": "三个本批成功重封的受影响页；依据最新封存与原释义逐行刷新，并由另一名同模型读者非盲核查。不是独立字面重读，也不是全书释义验收。",
+  "review": "0183 和 0194 全页复核通过；0192 第 9 条补回 santo 后复核通过。",
+  "files": [
+    {
+      "page": 183,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0183.json",
+      "sealed_sha256": "f8870ca6cfbf0a9c4ceff84365ae3b74a5c1ab416cad1c0dba867f31ac6e49eb",
+      "old_sha256": "ade48ffce70f1d559c39b79596681498c61f62679df20bdeda14038bc25139ac",
+      "new_sha256": "6932affde3c06e76e86834c22380c85f7680c72036e8967b3e385edeb58358b6",
+      "entries": 18,
+      "changed_entries": 15,
+      "changes": [
+        {
+          "position": 3,
+          "old": {
+            "position": 3,
+            "zh": "绣花：绣出花卉图案",
+            "en": "to embroider flowers; floral embroidery",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 3,
+            "zh": "绣花：刺绣花样",
+            "en": "to embroider a design",
+            "confidence": "high",
+            "notes": ""
+          }
+        },
+        {
+          "position": 4,
+          "old": {
+            "position": 4,
+            "zh": "纳绣人：绣工，做刺绣的人（“纳”谓穿针缝绣）",
+            "en": "embroiderer",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 4,
+            "zh": "纳绣人：绣工，做刺绣的人",
+            "en": "embroiderer",
+            "confidence": "high",
+            "notes": ""
+          }
+        },
+        {
+          "position": 5,
+          "old": {
+            "position": 5,
+            "zh": "拐仔：拐杖，手杖",
+            "en": "walking stick, staff; crutch",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 5,
+            "zh": "拐仔：拐杖，手杖",
+            "en": "walking stick, staff; crutch",
+            "confidence": "high",
+            "notes": "R 栏封存作「cuày chày」；释义依 L 栏「Bordon.」及 H 栏「拐 仔」，音写与词义的对应关系未判。"
+          }
+        },
+        {
+          "position": 6,
+          "old": {
+            "position": 6,
+            "zh": "杖：杖，棍杖；（官员手持之）杖",
+            "en": "staff, rod (a mandarin's staff)",
+            "confidence": "medium",
+            "notes": "西语词头中「facyan」未能辨识（疑为汉语音写或抄损），惟 L/H/M/R 四栏于「杖」字互证清晰。"
+          },
+          "new": {
+            "position": 6,
+            "zh": "杖：杖，棍杖；（官员手持之）杖",
+            "en": "staff, rod (a mandarin's staff)",
+            "confidence": "medium",
+            "notes": "L 栏「con facyan」含义未明；H 栏作「杖」，M 栏封存作「tiàng」、R 栏作「chiâng」，音写对应关系未判。"
+          }
+        },
+        {
+          "position": 7,
+          "old": {
+            "position": 7,
+            "zh": "粟仔：粟谷，小米",
+            "en": "millet, millet grain (borona o mijo); sense uncertain",
+            "confidence": "low",
+            "notes": "汉字栏作「擺仔」，与音写 sek-sia 及西语 borona o mijo（「borona 或小米」）不合，据音写与西语推断为「粟仔」，语义无法定夺。"
+          },
+          "new": {
+            "position": 7,
+            "zh": "擺仔：疑与小米有关，具体词义存疑",
+            "en": "possibly millet; the precise sense and correspondence are uncertain",
+            "confidence": "low",
+            "notes": "H 栏封存为「擺 仔」；L 栏作「Borona omijo; morona」，其中是否分读出 mijo（小米）及其与 H 栏的对应关系存疑，不以音写改字。"
+          }
+        },
+        {
+          "position": 8,
+          "old": {
+            "position": 8,
+            "zh": "粟米：碾净的粟米，净小米",
+            "en": "husked (clean) millet (borona limpia); sense uncertain",
+            "confidence": "low",
+            "notes": "汉字栏作「擺米」，首字音写 sek 与「擺」不合；据西语 borona limpia（净粟）并比照上条结构推断为「粟米」，首字未获互证。"
+          },
+          "new": {
+            "position": 8,
+            "zh": "擺米：疑与洁净的 borona 有关，具体词义存疑",
+            "en": "possibly clean borona; the precise sense and correspondence are uncertain",
+            "confidence": "low",
+            "notes": "H 栏封存为「擺 米」，L 栏作「Borona limpia,」；borona 与 H 栏的对应义未确定，M 栏另录「limpia」，不以音写改字。"
+          }
+        },
+        {
+          "position": 9,
+          "old": {
+            "position": 9,
+            "zh": "醉：喝醉，醉态",
+            "en": "drunk; intoxicated",
+            "confidence": "low",
+            "notes": "R 栏标[残]（录作 chīū），惟 L/H/M 三栏互证「borracho＝醉＝chūy」，释义无碍。"
+          },
+          "new": {
+            "position": 9,
+            "zh": "醉：喝醉，醉态",
+            "en": "drunk; intoxicated",
+            "confidence": "low",
+            "notes": "R 栏残损，封存作「[残] chīū」；L 栏作「Borracho」、H 栏作「醉」。"
+          }
+        },
+        {
+          "position": 11,
+          "old": {
+            "position": 11,
+            "zh": "食酒醉：喝了酒便醉，醉酒",
+            "en": "to get drunk on wine; drunk",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 11,
+            "zh": "食酒醉：饮酒而醉，醉酒",
+            "en": "to become drunk from drinking alcohol; drunk",
+            "confidence": "high",
+            "notes": ""
+          }
+        },
+        {
+          "position": 12,
+          "old": {
+            "position": 12,
+            "zh": "醉酒汉：醉汉，酒鬼",
+            "en": "drunkard, drunken fellow",
+            "confidence": "medium",
+            "notes": "汉字栏第三字标[疑:漢/儓]，M/R 音写均作 hān，当为「漢」，醉酒汉即醉汉。"
+          },
+          "new": {
+            "position": 12,
+            "zh": "醉酒〔第三字疑为漢或儓〕：醉酒；或指醉酒的人",
+            "en": "drunk; possibly a drunk person",
+            "confidence": "low",
+            "notes": "H 栏第三字标「[疑:漢/儓]」；M 栏封存作「chūy chīn hān」，R 栏封存作「(chūy chīn hān」，不凭音写确定该字。"
+          }
+        },
+        {
+          "position": 13,
+          "old": {
+            "position": 13,
+            "zh": "臭醋不臭酒：醋发臭而酒不臭（俗语）",
+            "en": "the vinegar stinks but the wine does not (colloquial saying)",
+            "confidence": "low",
+            "notes": "R 栏第二音节 T99 污损，L 栏「hechos de vina joe」难解；依 H/M 两栏互证为「臭醋不臭酒」，全句语义存疑。"
+          },
+          "new": {
+            "position": 13,
+            "zh": "臭醋不臭酒：字面似为「醋臭、酒不臭」，句义存疑",
+            "en": "possibly, literally, “the vinegar smells, but the wine does not”; the sense is uncertain",
+            "confidence": "low",
+            "notes": "L 栏后半「hechos de vina joe」难解；R 栏第二音节的音调标记为 T99。断句及整体意思未确定。"
+          }
+        },
+        {
+          "position": 14,
+          "old": {
+            "position": 14,
+            "zh": "醉倒：醉倒，醉后跌倒",
+            "en": "to fall down drunk",
+            "confidence": "high",
+            "notes": "M 栏混入残损串「go tuedaborra cho」；核心对音 chūy tò 与 R 栏一致，L 栏「se cae」亦合「倒」义。"
+          },
+          "new": {
+            "position": 14,
+            "zh": "醉倒：醉倒，醉后跌倒",
+            "en": "to fall down drunk",
+            "confidence": "high",
+            "notes": "M 栏除「chūy tò」外另录「go tuedaborra cho」，其归属未定；L 栏含「se cae」。"
+          }
+        },
+        {
+          "position": 15,
+          "old": {
+            "position": 15,
+            "zh": "醉言：醉话，醉汉之言",
+            "en": "drunken talk, drunkard's words",
+            "confidence": "low",
+            "notes": "R 栏第二音节 T99 污损，M 栏混入西语 palabras 及多余音节 gīū；依 L/H 互证为「醉言」（palabras del borracho）。"
+          },
+          "new": {
+            "position": 15,
+            "zh": "醉言：醉话，醉汉之言",
+            "en": "drunken talk, drunkard's words",
+            "confidence": "low",
+            "notes": "M 栏另录「palabras gīū」；R 栏第二音节的音调标记为 T99，其具体对应关系未定。"
+          }
+        },
+        {
+          "position": 16,
+          "old": {
+            "position": 16,
+            "zh": "醉乱颠：醉后癫狂、言行失序",
+            "en": "drunk, frenzied and deranged",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 16,
+            "zh": "醉乱颠：醉后混乱或颠乱，具体情状存疑",
+            "en": "drunken disorder or confusion; the precise sense is uncertain",
+            "confidence": "low",
+            "notes": "L 栏「Borrachos & otras piez」后段未解；H 栏作「醉 乱 颠」，细义未定。"
+          }
+        },
+        {
+          "position": 17,
+          "old": {
+            "position": 17,
+            "zh": "醉醒了：酒醒，醉后清醒过来",
+            "en": "to sober up, wake from drunkenness",
+            "confidence": "medium",
+            "notes": "L 栏「adijerido la cara」难解，R 栏第二音节 pēng 与「醒」不合；依 H/M 及第 18 条「醒」之对音定为「醉醒了」。"
+          },
+          "new": {
+            "position": 17,
+            "zh": "醉醒了：酒醒，醉后清醒过来",
+            "en": "to sober up, wake from drunkenness",
+            "confidence": "medium",
+            "notes": "L 栏「adijerido la cara」未解；H 栏作「醉 醒 了」，M、R 栏第二音节分别封存为「ché」「pēng」，对应关系未判。"
+          }
+        },
+        {
+          "position": 18,
+          "old": {
+            "position": 18,
+            "zh": "醉未醒：醉了还没醒，尚未酒醒",
+            "en": "drunk and not yet sober",
+            "confidence": "high",
+            "notes": "L 栏「laGotio」疑为抄损，后半「y aun no la despierto」与「醉未醒」相合。"
+          },
+          "new": {
+            "position": 18,
+            "zh": "醉未醒：醉了还没醒，尚未酒醒",
+            "en": "drunk and not yet sober",
+            "confidence": "medium",
+            "notes": "L 栏「laGotio」及后半句的具体句法未解；H 栏作「醉 未 醒」。"
+          }
+        }
+      ]
+    },
+    {
+      "page": 192,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0192.json",
+      "sealed_sha256": "5165c929a940820f16a4a8b5ea807a93f417b631c3bd0a00d9a69892171f3def",
+      "old_sha256": "d7879d163fae3245e82ed91928b1cf4140610b6908fece2cf46471a351eea5d9",
+      "new_sha256": "d43394a055989bd147c426b5f24c6b9e8b946a203a64ac8061a4f73bd49e772f",
+      "entries": 22,
+      "changed_entries": 18,
+      "changes": [
+        {
+          "position": 1,
+          "old": {
+            "position": 1,
+            "zh": "爽：舒适畅快、惬意；本然之好（就其本身而言是好的）",
+            "en": "pleasant, comfortable, at ease; good in itself, intrinsically good",
+            "confidence": "medium",
+            "notes": "官话与闽音两栏音写均与“爽”字读音不合（官话栏带[疑]），疑有串行，以汉字本义为主"
+          },
+          "new": {
+            "position": 1,
+            "zh": "爽：舒适畅快、惬意；左栏为“本然之好”。",
+            "en": "爽: pleasant, comfortable; left column: intrinsically good.",
+            "confidence": "medium",
+            "notes": "M 栏 hò，R 栏 xȳ；两栏音写与汉字的对应关系待核。"
+          }
+        },
+        {
+          "position": 4,
+          "old": {
+            "position": 4,
+            "zh": "懿美：贤美、美好可爱；和蔼可亲",
+            "en": "virtuous and lovely; beautiful, amiable",
+            "confidence": "medium",
+            "notes": "西语缩写 b.o 展开（bueno 或 amable）不定，官话第二音节读法存疑"
+          },
+          "new": {
+            "position": 4,
+            "zh": "懿美：贤美、美好；左栏含“可亲”义。",
+            "en": "懿美: virtuous and beautiful; the left column includes “amiable”.",
+            "confidence": "medium",
+            "notes": "左栏 b.o/f.o 及 R 栏 mīy/mēy 存疑；未展开左栏缩写。"
+          }
+        },
+        {
+          "position": 5,
+          "old": {
+            "position": 5,
+            "zh": "祉：福、福气；西文词头表示道德上的好，对应关系待核。",
+            "en": "blessing or felicity; the Spanish headword indicates moral goodness, with the correspondence uncertain",
+            "confidence": "low",
+            "notes": "西文为 Bueno moraliter；Juan Gil（2019–2020）第 72 页解释 moraliter 的一般用法，未逐条讨论此例。闽音首调 T99、首音及与汉字的对应仍待核。"
+          },
+          "new": {
+            "position": 5,
+            "zh": "祉：福、福气；左栏表示道德上的好，对应关系待核。",
+            "en": "祉: blessing or felicity; the left column indicates moral goodness, with the correspondence uncertain.",
+            "confidence": "low",
+            "notes": "M 栏首段 hyg/hōg 及其调号存疑；左栏道德之善与“祉”的对应待核。"
+          }
+        },
+        {
+          "position": 7,
+          "old": {
+            "position": 7,
+            "zh": "好啦：好了、行啦（应答语，表就此即可）",
+            "en": "very well, all right now; that will do (colloquial assent)",
+            "confidence": "medium",
+            "notes": "西语 BasHan 展开存疑（或为 basta 类词），“啦”字形亦带[疑]，以应答语气为主"
+          },
+          "new": {
+            "position": 7,
+            "zh": "好啦（啦/菈存疑）：可能释为“好了、行啦”，具体用法存疑。",
+            "en": "好啦 (啦/菈 uncertain): possibly “all right” or “fine”; the precise usage is uncertain.",
+            "confidence": "low",
+            "notes": "左栏 BasHan/basla 及 H 栏 啦/菈 存疑；左栏末词不作展开。"
+          }
+        },
+        {
+          "position": 8,
+          "old": {
+            "position": 8,
+            "zh": "好……：这就好、如此便好了（第二字当为语气助词，字形与音写不合，存疑）",
+            "en": "this is good, it is fine now; phrase of assent",
+            "confidence": "medium",
+            "notes": "“卽”字与闽、官两栏音写均不合，字形或音写有误，故降置信"
+          },
+          "new": {
+            "position": 8,
+            "zh": "好卽：好；整个词组的具体词义及用法存疑。",
+            "en": "好卽: good; the precise meaning and usage of the phrase are uncertain.",
+            "confidence": "low",
+            "notes": "H 栏为“好 卽”；M、R 栏分别为 hò nō、hòu làng，第二字与音写的对应待核。"
+          }
+        },
+        {
+          "position": 9,
+          "old": {
+            "position": 9,
+            "zh": "良：本性良善、天生为善；良善",
+            "en": "naturally good, good by nature; virtuous",
+            "confidence": "medium",
+            "notes": "西语 subto 展开存疑（subito），后半语义不明，以“良”字天然良善义为主"
+          },
+          "new": {
+            "position": 9,
+            "zh": "良：本性良善；西文另有 santo（圣、圣善），对应待核。",
+            "en": "Chinese 良: good by nature; Spanish also has santo (holy or saint); the correspondence remains uncertain.",
+            "confidence": "medium",
+            "notes": "左栏 subto/subito 读法存疑，后段与“良”的对应待核。"
+          }
+        },
+        {
+          "position": 10,
+          "old": {
+            "position": 10,
+            "zh": "良善：善良、仁善；良善之性",
+            "en": "good and kind; benign, virtuous",
+            "confidence": "medium",
+            "notes": "西语缩写 yt. 展开存疑（yt./yst./yb.），以“良善”字义为主"
+          },
+          "new": {
+            "position": 10,
+            "zh": "良善：善良、仁善；良善之性。",
+            "en": "良善: good and kind; benign, virtuous.",
+            "confidence": "medium",
+            "notes": "左栏末尾 yt./yst./yb. 读法存疑，未作展开。"
+          }
+        },
+        {
+          "position": 12,
+          "old": {
+            "position": 12,
+            "zh": "好心：心地善良、好心",
+            "en": "kind-hearted, good-natured; goodness of heart",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 12,
+            "zh": "好心：心地善良、好心；左栏为“绝对地好”。",
+            "en": "好心: kind-hearted, good-natured; left column: absolutely good.",
+            "confidence": "medium",
+            "notes": "左栏“绝对地好”与汉字词义的对应待核。"
+          }
+        },
+        {
+          "position": 13,
+          "old": {
+            "position": 13,
+            "zh": "臧：善、好（古义：善也）〔原件污损，释义存疑〕",
+            "en": "good, right (classical sense: good) 〔original smudged; gloss uncertain〕",
+            "confidence": "low",
+            "notes": "“臧”字带[疑]、闽音调号污损（T99），读音与字不合，依古训“臧＝善”姑释"
+          },
+          "new": {
+            "position": 13,
+            "zh": "臧：善、好（字形存疑）；左栏为“自然地好”。",
+            "en": "臧: good (character uncertain); left column: naturally good.",
+            "confidence": "low",
+            "notes": "H 栏“臧”带疑；M 栏上横线是声符或涂改存疑，R 栏 chàng/chòng 存疑。"
+          }
+        },
+        {
+          "position": 14,
+          "old": {
+            "position": 14,
+            "zh": "亨：通达顺利、亨通",
+            "en": "prosperous, going smoothly; auspicious",
+            "confidence": "medium",
+            "notes": "西语 llena/lleno 阴阳性存疑（不碍义）；“亨”取通达顺利古义"
+          },
+          "new": {
+            "position": 14,
+            "zh": "亨：通达、顺利；左栏提及“好、充满善良”。",
+            "en": "亨: prosperous, going smoothly; the left column mentions “good” and “full of goodness”.",
+            "confidence": "low",
+            "notes": "左栏 llena/lleno 存疑；左栏与“亨”的对应待核。"
+          }
+        },
+        {
+          "position": 15,
+          "old": {
+            "position": 15,
+            "zh": "亨通：诸事顺遂、通达无阻",
+            "en": "smooth and prosperous, everything going well; unobstructed",
+            "confidence": "medium",
+            "notes": "第二字闽音写法存疑（清浊不定），以“亨通”连词义为主"
+          },
+          "new": {
+            "position": 15,
+            "zh": "亨通：顺利、通达；左栏提及“好、充满种种美善”。",
+            "en": "亨通: prosperous and proceeding smoothly; the left column mentions “good” and “full of good qualities”.",
+            "confidence": "medium",
+            "notes": "M 栏 tong/hong 存疑；左栏与汉字词义的对应待核。"
+          }
+        },
+        {
+          "position": 16,
+          "old": {
+            "position": 16,
+            "zh": "聖：神圣、圣；圣者、圣徒〔原件污损，释义存疑〕",
+            "en": "holy, sacred; saint, holy one 〔original smudged; gloss uncertain〕",
+            "confidence": "low",
+            "notes": "闽音调号污损（T99）且读法存疑致降置信；“聖＝santo”字义互证本身清晰"
+          },
+          "new": {
+            "position": 16,
+            "zh": "聖：圣、神圣；圣善。",
+            "en": "聖: holy, sacred; saintly.",
+            "confidence": "high",
+            "notes": "M 栏 sèng/sêng 及调号存疑；R 栏为 sēng。"
+          }
+        },
+        {
+          "position": 17,
+          "old": {
+            "position": 17,
+            "zh": "善：善良、善（好的、仁善的）",
+            "en": "good, virtuous, kindly",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 17,
+            "zh": "善：善良、善（好的、仁善的）。",
+            "en": "善: good, virtuous, kindly.",
+            "confidence": "high",
+            "notes": "左栏 sant. 为未展开的缩写。"
+          }
+        },
+        {
+          "position": 18,
+          "old": {
+            "position": 18,
+            "zh": "善心：善心、仁慈之心",
+            "en": "kind-heartedness, benevolence; a good heart",
+            "confidence": "medium",
+            "notes": "两栏第二音节读法存疑（字形与音写有出入），不碍“善心”之义"
+          },
+          "new": {
+            "position": 18,
+            "zh": "善心：善良之心、仁慈之心；左栏为“好、圣善”。",
+            "en": "善心: a kind heart, benevolence; left column: good, holy.",
+            "confidence": "medium",
+            "notes": "M 栏第二音节 sīòn/sīm 及 R 栏第一音节 siān/sīen 存疑；左栏与汉字词义的对应待核。"
+          }
+        },
+        {
+          "position": 19,
+          "old": {
+            "position": 19,
+            "zh": "著：对、不错；做得对、妥当",
+            "en": "right, correct; well done, properly done",
+            "confidence": "medium",
+            "notes": "字形著/着存疑，闽音栏两读不齐，依闽南语“著＝对、正确”之义释"
+          },
+          "new": {
+            "position": 19,
+            "zh": "著/着：好、做得好；可暂释为“对、妥当”。",
+            "en": "著/着: good, well done; possibly “right” or “proper”.",
+            "confidence": "medium",
+            "notes": "H 栏著/着存疑；M 栏记为 chiāg: sio.，其分读及与汉字的对应待核。"
+          }
+        },
+        {
+          "position": 20,
+          "old": {
+            "position": 20,
+            "zh": "好个：好样的、真是好（赞其所做诸事皆好）",
+            "en": "what a good one!; well done in all that has been done",
+            "confidence": "medium",
+            "notes": "西语 p 展开存疑（por/para），“个”字音写亦存疑，以“好个”赞叹语为主"
+          },
+          "new": {
+            "position": 20,
+            "zh": "好个：好的（具体用法存疑）；左栏提及“好、所做的一切”。",
+            "en": "好个: good (exact usage uncertain); the left column mentions “good” and “everything done”.",
+            "confidence": "low",
+            "notes": "左栏 p/por、M 栏 gē/ē 存疑；左栏各部分的关系待核。"
+          }
+        },
+        {
+          "position": 21,
+          "old": {
+            "position": 21,
+            "zh": "上好个：顶好、最好不过（非常好）",
+            "en": "very good, the very best; most excellent",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 21,
+            "zh": "上好个：顶好、最好；左栏为“好，是非常好”。",
+            "en": "上好个: very good, the best; left column: “good, it is very good”.",
+            "confidence": "medium",
+            "notes": "“个”在此的具体用法待核。"
+          }
+        },
+        {
+          "position": 22,
+          "old": {
+            "position": 22,
+            "zh": "温雅：温文尔雅、彬彬有礼；优雅",
+            "en": "gentle and refined, courteous, elegant",
+            "confidence": "medium",
+            "notes": "官话第二音节读法存疑，不碍“温雅”之义"
+          },
+          "new": {
+            "position": 22,
+            "zh": "温雅：温文尔雅、优雅；左栏为“极好”。",
+            "en": "温雅: gentle and refined, elegant; left column: “most excellent”.",
+            "confidence": "medium",
+            "notes": "R 栏第二音节 ngūia/ngūà 存疑；左栏与汉字词义的对应待核。"
+          }
+        }
+      ]
+    },
+    {
+      "page": 194,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0194.json",
+      "sealed_sha256": "d4aba7ed599ac1716ad70090491f8167de3613071cb298a7208d6c20655e7db3",
+      "old_sha256": "8cac69c657ac69e58447bb57ba8b42d1873845708adb202199a26c4ead8abfba",
+      "new_sha256": "787750e74f75a2d524520e9db89a392edb4b8753694f18d89a3c10a2656f2a81",
+      "entries": 21,
+      "changed_entries": 19,
+      "changes": [
+        {
+          "position": 1,
+          "old": {
+            "position": 1,
+            "zh": "搅混、纠缠不清；疑兼市井戏谑、浑话打诨义（词头非通行词形，释义存疑）",
+            "en": "to mix and knead together, to tangle; prob. vulgar banter or mocking chatter (headword doubtful)",
+            "confidence": "low",
+            "notes": "Burbelo 非标准 17 世纪西语通行词形，疑为 bureo/burla 类手稿变体；汉字栏有 糅/糾 异文，语义无法定夺。"
+          },
+          "new": {
+            "position": 1,
+            "zh": "疑为绞合、混合或纠缠；具体词义存疑",
+            "en": "Possibly to twist, mix, or entangle; the exact sense is uncertain.",
+            "confidence": "low",
+            "notes": "L 栏作“Burbelo.”；H 栏作“絞 糅 [疑:糅/糾]”，汉字辨读及其与词头的对应关系存疑。"
+          }
+        },
+        {
+          "position": 2,
+          "old": {
+            "position": 2,
+            "zh": "轻贱、作践；看轻贬弄",
+            "en": "to treat with contempt, make light of; to slight and mock",
+            "confidence": "medium",
+            "notes": ""
+          },
+          "new": {
+            "position": 2,
+            "zh": "嘲弄、戏弄",
+            "en": "To mock or make fun of.",
+            "confidence": "medium",
+            "notes": "H 栏作“賤 [疑:賤/賊]”，汉字辨读未定。"
+          }
+        },
+        {
+          "position": 3,
+          "old": {
+            "position": 3,
+            "zh": "轻贱糟践、以言语作弄（賤滚，滚字用法存疑）",
+            "en": "to slight and abuse with words; to make game of someone",
+            "confidence": "medium",
+            "notes": ""
+          },
+          "new": {
+            "position": 3,
+            "zh": "嘲弄、戏弄；汉字栏的具体词形存疑",
+            "en": "To mock or make fun of; the exact Chinese expression is uncertain.",
+            "confidence": "low",
+            "notes": "H 栏作“賤 [疑:賤/賊] 滚”，首字辨读未定。"
+          }
+        },
+        {
+          "position": 4,
+          "old": {
+            "position": 4,
+            "zh": "翻滚耍闹、滚闹作耍（音栏三音节对汉字仅一字，释义存疑）",
+            "en": "to tumble and romp in mocking play; sense uncertain",
+            "confidence": "low",
+            "notes": "汉字栏仅'滚'一字而音栏三音节（中音节未明），与第 17 条'合滚'或同类叠语，语义依赖推断。"
+          },
+          "new": {
+            "position": 4,
+            "zh": "嘲弄、戏弄；具体词形和词义存疑",
+            "en": "To mock or make fun of; the exact expression and sense are uncertain.",
+            "confidence": "low",
+            "notes": "H 栏仅有“滚”，M 栏作“cǔn cǒg cǔn.”，R 栏作“cùn.”；对应关系未明。"
+          }
+        },
+        {
+          "position": 5,
+          "old": {
+            "position": 5,
+            "zh": "以言调笑、谑笑打闹（滚笑）",
+            "en": "to jest and banter with words; to mock in play",
+            "confidence": "medium",
+            "notes": ""
+          },
+          "new": {
+            "position": 5,
+            "zh": "以言语调笑、嘲弄",
+            "en": "To mock or tease in words.",
+            "confidence": "medium",
+            "notes": ""
+          }
+        },
+        {
+          "position": 6,
+          "old": {
+            "position": 6,
+            "zh": "戏弄、作弄；摆弄",
+            "en": "to tease, toy with; to make game of",
+            "confidence": "medium",
+            "notes": ""
+          },
+          "new": {
+            "position": 6,
+            "zh": "戏弄、作弄",
+            "en": "To tease or make game of.",
+            "confidence": "medium",
+            "notes": "L 栏尾词疑作“vuihan/bruhan”，具体指称未明。"
+          }
+        },
+        {
+          "position": 7,
+          "old": {
+            "position": 7,
+            "zh": "作弄、整蛊（闽南'創治'之創）；搅弄、搞出事端",
+            "en": "to play tricks on, torment teasingly; to stir up, create (mischief)",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 7,
+            "zh": "嘲弄、戏弄；“創”的具体词义存疑",
+            "en": "To mock or make sport of; the exact sense of “創” here is uncertain.",
+            "confidence": "low",
+            "notes": "H 栏作“創”；基本释义依据 L 栏，汉字栏的具体用法未定。"
+          }
+        },
+        {
+          "position": 8,
+          "old": {
+            "position": 8,
+            "zh": "嬉戏、动手逗弄（对恋人动手动脚地调笑）",
+            "en": "to frolic, tease with the hands; to flirt with and make sport of lovers",
+            "confidence": "medium",
+            "notes": ""
+          },
+          "new": {
+            "position": 8,
+            "zh": "以手戏弄、逗弄；与恋人有关的用法存疑",
+            "en": "To tease or play with the hands; the reference to a lover is uncertain.",
+            "confidence": "low",
+            "notes": "L 栏末词疑作“enamorade/enamorada”；R 栏字面为“hȳ”。"
+          }
+        },
+        {
+          "position": 9,
+          "old": {
+            "position": 9,
+            "zh": "戏耍、玩弄；嘲弄",
+            "en": "to mock, ridicule; to tease and make sport of",
+            "confidence": "high",
+            "notes": "M 栏末混入西语原词 mofar（'hŷ zoà mofar'），系抄手将词头误入音栏，不影响释义。"
+          },
+          "new": {
+            "position": 9,
+            "zh": "戏耍、玩弄；嘲弄",
+            "en": "to mock, ridicule; to tease and make sport of",
+            "confidence": "high",
+            "notes": "M 栏末记有“mofar”，与 L 栏词形相同；其在音栏中的性质未定。"
+          }
+        },
+        {
+          "position": 10,
+          "old": {
+            "position": 10,
+            "zh": "戏谑、打诨；嘲弄",
+            "en": "to banter and jest; to mock, ridicule",
+            "confidence": "medium",
+            "notes": ""
+          },
+          "new": {
+            "position": 10,
+            "zh": "戏谑、打诨；嘲弄",
+            "en": "to banter and jest; to mock, ridicule",
+            "confidence": "medium",
+            "notes": "H 栏第二字疑作“譚/談”，字形未定。"
+          }
+        },
+        {
+          "position": 11,
+          "old": {
+            "position": 11,
+            "zh": "戏弄恋人、轻薄逗弄（姦字疑为'姣'，带狎昵义）",
+            "en": "to toy with and make sport of lovers; to tease flirtatiously",
+            "confidence": "medium",
+            "notes": ""
+          },
+          "new": {
+            "position": 11,
+            "zh": "与恋人有关的戏弄；具体用法存疑",
+            "en": "Mocking or teasing associated with lovers; the exact usage is uncertain.",
+            "confidence": "low",
+            "notes": "H 栏第二字疑作“姦/姣”；L 栏作“Burlar vt los enamorade.”；R 栏字面为“hȳ cǎn”。"
+          }
+        },
+        {
+          "position": 12,
+          "old": {
+            "position": 12,
+            "zh": "讥诮、阴阳怪气地说；反讽",
+            "en": "to speak ironically, to say with mockery",
+            "confidence": "medium",
+            "notes": ""
+          },
+          "new": {
+            "position": 12,
+            "zh": "反讽地嘲弄；以讥讽的话戏弄",
+            "en": "To mock or speak with irony.",
+            "confidence": "medium",
+            "notes": "H 栏疑作“挸/挩”，字形未定。"
+          }
+        },
+        {
+          "position": 13,
+          "old": {
+            "position": 13,
+            "zh": "讥刺耍弄、冷嘲热讽地戏弄",
+            "en": "to taunt and mock ironically",
+            "confidence": "medium",
+            "notes": ""
+          },
+          "new": {
+            "position": 13,
+            "zh": "讥刺耍弄、冷嘲热讽地戏弄",
+            "en": "to taunt and mock ironically",
+            "confidence": "medium",
+            "notes": "H 栏首字疑作“挸/挩”，字形未定。"
+          }
+        },
+        {
+          "position": 14,
+          "old": {
+            "position": 14,
+            "zh": "翻白眼、以眼色讥嘲",
+            "en": "to mock with eye-gestures; to roll the whites of the eyes at someone",
+            "confidence": "low",
+            "notes": "M 栏第二音节声调标记 T99 污損难辨；目白即翻白眼，与西语栏'以目作态嘲弄'相合，惟材料受限记 low。"
+          },
+          "new": {
+            "position": 14,
+            "zh": "以眼部动作嘲弄；“目白”所指的具体动作存疑",
+            "en": "To mock by making gestures with the eyes; the exact gesture denoted by “目白” is uncertain.",
+            "confidence": "low",
+            "notes": "H 栏作“目 白”；M 栏第二音节声调标为 T99（污損難辨）。"
+          }
+        },
+        {
+          "position": 16,
+          "old": {
+            "position": 16,
+            "zh": "侮弄、欺弄；嘲弄者（burlón）",
+            "en": "to insult and make game of; (n.) a mocker, scoffer",
+            "confidence": "high",
+            "notes": "M 栏末混入西语 Bufar、R 栏多出 cūn 一音节，属抄写杂入，不碍 侮弄 本义。"
+          },
+          "new": {
+            "position": 16,
+            "zh": "侮弄、戏弄；嘲弄者",
+            "en": "To mock or make game of; a mocker or scoffer.",
+            "confidence": "medium",
+            "notes": "L 栏作“Burlarse y Burlon.”，M 栏另记“Bufar.”，R 栏作“cūn bù lòng.”；音栏与汉字栏的对应关系未明。"
+          }
+        },
+        {
+          "position": 17,
+          "old": {
+            "position": 17,
+            "zh": "滚闹作耍、翻滚嬉谑（合滚，释义存疑）",
+            "en": "to romp and tumble in mocking play; sense uncertain",
+            "confidence": "low",
+            "notes": "'合'字音栏读 cog 与字形常音不合（或为'咯/谷'类字），滚闹义系就 M/R 与 L 推断，无法定夺。"
+          },
+          "new": {
+            "position": 17,
+            "zh": "嘲弄、戏弄；“合滚”的具体词义存疑",
+            "en": "To mock or make fun of; the exact meaning of “合滚” is uncertain.",
+            "confidence": "low",
+            "notes": "H 栏作“合 滚”；M、R 栏均作“cóg cùn.”，具体词义未定。"
+          }
+        },
+        {
+          "position": 18,
+          "old": {
+            "position": 18,
+            "zh": "清谈闲话、谑浪之词（以言相戏）",
+            "en": "idle jesting talk; bantering, mocking words",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 18,
+            "zh": "嘲弄；带有戏谑、嘲弄意味的话",
+            "en": "To mock; words used in jest or mockery.",
+            "confidence": "medium",
+            "notes": "H 栏作“清 談”，与 L 栏的具体对应关系未明。"
+          }
+        },
+        {
+          "position": 19,
+          "old": {
+            "position": 19,
+            "zh": "哄闹戏耍、劝酒相谑一类义（'當酒'词形存疑）",
+            "en": "uncertain: prob. playful mocking or coaxing (lit. 'serve as wine', reading doubtful)",
+            "confidence": "low",
+            "notes": "汉字栏'當酒'与音栏不合：M 栏三音节（zoà 之音近前条'耍'）、R 栏仅两音节，词形与释义均无法定夺。"
+          },
+          "new": {
+            "position": 19,
+            "zh": "嘲弄、戏弄；具体词义存疑",
+            "en": "To mock or make sport of; the exact sense is uncertain.",
+            "confidence": "low",
+            "notes": "H 栏作“當 酒”，M 栏作“hōng zoà tǒg.”，R 栏作“tāng zà”；音栏与汉字栏的对应关系及具体词义未明。"
+          }
+        },
+        {
+          "position": 20,
+          "old": {
+            "position": 20,
+            "zh": "斗嘴、打嘴鼓（以口舌相谑）",
+            "en": "to banter, spar with words; to mock verbally",
+            "confidence": "low",
+            "notes": "M 栏第二音节声调标记 T99 污損难辨；打口鼓即打嘴鼓，与西语栏'Burlarse de palabra'相合，记 low。"
+          },
+          "new": {
+            "position": 20,
+            "zh": "以言语嘲弄、斗嘴；汉字栏作“打口鼓”",
+            "en": "To mock or banter with words; the Chinese column reads “打口鼓”.",
+            "confidence": "low",
+            "notes": "H 栏作“打 口 鼓”，M 栏作“bòa chǔy con tǒg.”，R 栏作“tò guěn cùn.”；音栏与汉字栏的对应关系未明。"
+          }
+        }
+      ]
+    }
+  ]
+}

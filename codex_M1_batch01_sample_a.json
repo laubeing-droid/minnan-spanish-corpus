@@ -1,0 +1,167 @@
+{
+  "scope": "固定种子抽样，仅限指定八项，不代表整个批次",
+  "method": "指定词段复核：对回执选用字段与对应原始横带局部按原像素最近邻放大 5 倍核对；仅对重读对核 rr，其余核 ink。0190/5、0200/6、0183/1、0197/3 以任务 v1 指定词段为单位，不要求覆盖整行；词段位置或跨栏归属不唯一时标 UNKNOWN。其他四项保留先前审计结论。",
+  "index_base": 1,
+  "band_path_pattern": "literature/tiles/01_DHS/page_{page}/pdf_{page}_band_{band}.png",
+  "box_coordinates": "对应原始横带的像素坐标，左上包含、右下不包含",
+  "counts": {
+    "SUPPORTED": 0,
+    "CONTRADICTED": 1,
+    "UNKNOWN": 7
+  },
+  "samples": [
+    {
+      "page": "0200",
+      "receipt_index": 25,
+      "position": 11,
+      "field": "M",
+      "checked_field": "rr",
+      "checked_text": "chàng pāy:",
+      "result": "UNKNOWN",
+      "image_basis": "两组字母及第二组上方横线可见；首组上方笔画重墨交叠，无法确认是否与回执的抑音符一致。",
+      "band": "y1_mid",
+      "box_xyxy": [
+        1150,
+        610,
+        1450,
+        730
+      ]
+    },
+    {
+      "page": "0190",
+      "receipt_index": 5,
+      "position": 5,
+      "field": "M",
+      "checked_field": "ink",
+      "checked_text": "comen",
+      "result": "UNKNOWN",
+      "image_basis": "原图可定位到 co 开头的连写词段；后续笔画相连，不能从图像可靠区分回执 comen 中的 e、n 与其他相近笔形。",
+      "band": "y1_mid",
+      "box_xyxy": [
+        1210,
+        180,
+        1635,
+        300
+      ],
+      "prior_result": "CONTRADICTED",
+      "prior_image_basis": "同栏在该字串之前另有一组字母及上方记号，后面还有连续字母；ink 仅写其中一小段。",
+      "task_v1": "comu"
+    },
+    {
+      "page": "0200",
+      "receipt_index": 35,
+      "position": 20,
+      "field": "M",
+      "checked_field": "rr",
+      "checked_text": "γōng",
+      "result": "UNKNOWN",
+      "image_basis": "后续 ong 字形及其上方横线可见；首字曲笔近似 γ，但无法仅凭图排除其他同形字母。",
+      "band": "y2_bot",
+      "box_xyxy": [
+        1160,
+        715,
+        1430,
+        850
+      ]
+    },
+    {
+      "page": "0200",
+      "receipt_index": 6,
+      "position": 4,
+      "field": "R",
+      "checked_field": "ink",
+      "checked_text": "tȳ",
+      "result": "UNKNOWN",
+      "image_basis": "右栏存在带上横的 y 形词段；首字为粗重斜长笔，缺少可辨横笔，且同一行另有 t 形起笔，v1 的 tt 无坐标，无法唯一绑定并确认 ink 的 t。",
+      "band": "y0_top",
+      "box_xyxy": [
+        1680,
+        700,
+        2030,
+        835
+      ],
+      "prior_result": "CONTRADICTED",
+      "prior_image_basis": "右栏同一行有连续四组字母及多个上方记号，tȳ 仅覆盖其中一组。",
+      "task_v1": "tt"
+    },
+    {
+      "page": "0183",
+      "receipt_index": 1,
+      "position": 8,
+      "field": "M",
+      "checked_field": "ink",
+      "checked_text": "by",
+      "result": "UNKNOWN",
+      "image_basis": "可见近似 by 的字组；右上方另有斜笔，但位置偏向该字组与后续笔画之间，不能确定其是否属于 y，故不能确认 by 是否包含完整记号。",
+      "band": "y1_mid",
+      "box_xyxy": [
+        1080,
+        550,
+        1440,
+        700
+      ],
+      "prior_result": "CONTRADICTED",
+      "prior_image_basis": "by 之前另有一组字母和清晰的上方记号；之后还有连续笔画，ink 未覆盖前组。",
+      "task_v1": "b"
+    },
+    {
+      "page": "0187",
+      "receipt_index": 20,
+      "position": 9,
+      "field": "M",
+      "checked_field": "rr",
+      "checked_text": "can, sèⁿ.",
+      "result": "CONTRADICTED",
+      "image_basis": "第一组 can 上方有清晰斜笔，rr 的首组未记录该记号；第二组斜笔及上置小字可见。",
+      "band": "y1_mid",
+      "box_xyxy": [
+        1060,
+        640,
+        1330,
+        775
+      ]
+    },
+    {
+      "page": "0194",
+      "receipt_index": 10,
+      "position": 8,
+      "field": "M",
+      "checked_field": "ink",
+      "checked_text": "hŷ. hŷ cán",
+      "result": "UNKNOWN",
+      "image_basis": "字母及后两处上方记号可见；首音上方粗黑笔画交叠，不能确认该处是否仅为回执所录的尖形记号。",
+      "band": "y1_mid",
+      "box_xyxy": [
+        1205,
+        335,
+        1590,
+        470
+      ]
+    },
+    {
+      "page": "0197",
+      "receipt_index": 3,
+      "position": 2,
+      "field": "M",
+      "checked_field": "ink",
+      "checked_text": "mulu",
+      "result": "UNKNOWN",
+      "image_basis": "近似 mulu 的字组位于分隔线右侧；无法仅凭该横带确定其为 M 栏跨线续写还是另一栏或边注。",
+      "band": "y0_top",
+      "box_xyxy": [
+        1020,
+        630,
+        1460,
+        770
+      ],
+      "prior_result": "CONTRADICTED",
+      "prior_image_basis": "分隔线左侧 M 栏已有两组字母及其上方记号；mulu 仅在分隔线右侧出现，不能覆盖左侧可见内容。",
+      "task_v1": "mumu"
+    }
+  ],
+  "prior_counts": {
+    "SUPPORTED": 0,
+    "CONTRADICTED": 5,
+    "UNKNOWN": 3
+  }
+}

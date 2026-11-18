@@ -1,0 +1,28 @@
+{
+  "protocol": "CODEX_M1_IMAGE_AUDIT_V1",
+  "scope": "按所给 20 个回执索引核验，索引从 1 开始；只使用对应 adk_verdict、adk 条目及原图横带。",
+  "criterion": "完整候选的字母、可见上置符号、调号及栏位均能确认时为 SUPPORTED；有明确相反图像证据时为 CONTRADICTED；不能完整确认时为 UNKNOWN。",
+  "coordinate_system": "各原图横带像素坐标，左上为原点，xyxy 为局部查看边界；局部以 5 倍放大查看。",
+  "results": [
+    {"page":184,"receipt_index":16,"position":9,"field":"R","candidate":"chày","result":"UNKNOWN","band":"literature/tiles/01_DHS/page_0184/pdf_0184_band_y1_mid.png","xyxy":[1770,570,1885,680],"evidence":"右栏冒号前的首个目标词可见 c、h、a 及下伸尾笔；向右下的斜画偏在 a 和尾笔之间，不能完整确认 à 的附着位置。"},
+    {"page":185,"receipt_index":21,"position":3,"field":"R","candidate":"toù mâng","result":"UNKNOWN","band":"literature/tiles/01_DHS/page_0185/pdf_0185_band_y0_top.png","xyxy":[1660,780,1910,900],"evidence":"右栏可见两词及首词的向右下斜画；次词连笔末部上方有帽形，但帽形偏向词尾，无法完整确认 â 的位置。"},
+    {"page":185,"receipt_index":29,"position":11,"field":"M","candidate":"liù chú","result":"SUPPORTED","band":"literature/tiles/01_DHS/page_0185/pdf_0185_band_y1_mid.png","xyxy":[1110,880,1340,1000],"evidence":"中栏第一词可见 l、带点的 i、u 和斜画；第二词为 ch-u，上方有向右上斜画，u 后未见独立 i。"},
+    {"page":185,"receipt_index":34,"position":14,"field":"R","candidate":"fà niù xîn","result":"UNKNOWN","band":"literature/tiles/01_DHS/page_0185/pdf_0185_band_y2_bot.png","xyxy":[1620,200,1920,320],"evidence":"右栏三词中可见斜画、末词交叉形起笔、点画与帽形；末词帽形偏在末笔上方，且首词起笔形态不够确定，不能完整确认该串。"},
+    {"page":186,"receipt_index":28,"position":8,"field":"R","candidate":"chiù pȳ","result":"UNKNOWN","band":"literature/tiles/01_DHS/page_0186/pdf_0186_band_y1_mid.png","xyxy":[1690,675,1930,800],"evidence":"右栏第二词有 p、下伸尾笔及横画；首词点画和斜画紧邻，斜画相对 i、u 的附着位置不能可靠区分。"},
+    {"page":186,"receipt_index":29,"position":9,"field":"M","candidate":"pŷ lado","result":"SUPPORTED","band":"literature/tiles/01_DHS/page_0186/pdf_0186_band_y1_mid.png","xyxy":[1200,790,1480,940],"evidence":"中栏该行首词为 p 加下伸 y，y 上方有帽形；后接连写的 l-a-d-o。"},
+    {"page":186,"receipt_index":30,"position":9,"field":"R","candidate":"pȳ","result":"SUPPORTED","band":"literature/tiles/01_DHS/page_0186/pdf_0186_band_y1_mid.png","xyxy":[1690,790,1840,940],"evidence":"右栏该行是 p 加下伸 y，y 上方有横画。"},
+    {"page":186,"receipt_index":36,"position":12,"field":"R","candidate":"chò pȳ","result":"SUPPORTED","band":"literature/tiles/01_DHS/page_0186/pdf_0186_band_y2_bot.png","xyxy":[1690,115,1890,245],"evidence":"右栏两词分别可见 ch-o 与 p-y；首词上方为向右下斜画，第二词 y 下伸、上方有横画。"},
+    {"page":186,"receipt_index":38,"position":13,"field":"R","candidate":"ŏ chày","result":"UNKNOWN","band":"literature/tiles/01_DHS/page_0186/pdf_0186_band_y2_bot.png","xyxy":[1690,340,1880,500],"evidence":"右栏首词 o 上有向下折角；第二词可见 ch、a 和下伸尾笔，斜画偏在 a 与尾笔交界，不能完整确认 à 的附着位置。"},
+    {"page":189,"receipt_index":23,"position":11,"field":"R","candidate":"cùi sîn","result":"UNKNOWN","band":"literature/tiles/01_DHS/page_0189/pdf_0189_band_y1_mid.png","xyxy":[1550,630,1800,765],"evidence":"右栏首词可见 c-u-i、点画及斜画；次词有长形起笔、点画和末笔，帽形偏在末笔上方，不能完整确认 î 的附着位置。"},
+    {"page":189,"receipt_index":29,"position":17,"field":"R","candidate":"nguiên","result":"SUPPORTED","band":"literature/tiles/01_DHS/page_0189/pdf_0189_band_y2_bot.png","xyxy":[1550,405,1800,555],"evidence":"右栏可见 n-g 的连笔、u、带点 i、e 和末 n；帽形位于 e 的上方。"},
+    {"page":191,"receipt_index":35,"position":12,"field":"M","candidate":"gūy.","result":"UNKNOWN","band":"literature/tiles/01_DHS/page_0191/pdf_0191_band_y1_mid.png","xyxy":[1020,625,1175,775],"evidence":"中栏可见 g、u 和下伸尾笔，横画横跨后部且偏向 y；不能可靠确定横画仅归于 u。"},
+    {"page":191,"receipt_index":37,"position":13,"field":"R","candidate":"chiō","result":"SUPPORTED","band":"literature/tiles/01_DHS/page_0191/pdf_0191_band_y1_mid.png","xyxy":[1515,750,1680,885],"evidence":"右栏可见 c-h 连笔、带点 i 和末 o，o 上方有横画；细竖线穿过末部，但不妨辨认该词。"},
+    {"page":191,"receipt_index":46,"position":21,"field":"R","candidate":"chiâng","result":"UNKNOWN","band":"literature/tiles/01_DHS/page_0191/pdf_0191_band_y2_bot.png","xyxy":[1510,640,1690,785],"evidence":"右栏可见 ch、i、尾部连笔及上方帽形，但 i 后元音受连笔影响难以可靠区分，帽形也偏向词尾，无法完整确认。"},
+    {"page":192,"receipt_index":6,"position":1,"field":"R","candidate":"xȳ","result":"SUPPORTED","band":"literature/tiles/01_DHS/page_0192/pdf_0192_band_y0_top.png","xyxy":[1700,455,1845,595],"evidence":"右栏可见交叉形 x、下伸 y，y 上方有横画。"},
+    {"page":198,"receipt_index":24,"position":3,"field":"R","candidate":"teìn","result":"UNKNOWN","band":"literature/tiles/01_DHS/page_0198/pdf_0198_band_y0_top.png","xyxy":[1690,725,1845,850],"evidence":"右栏起笔 t、e 及上方点和斜画可见；后部受连笔及污迹影响，i、n 的边界与斜画附着位置均无法完整确认。"},
+    {"page":199,"receipt_index":22,"position":11,"field":"R","candidate":"chiō guiā","result":"SUPPORTED","band":"literature/tiles/01_DHS/page_0199/pdf_0199_band_y1_mid.png","xyxy":[1590,525,1870,660],"evidence":"右栏两词可见 ch-i-o 与 g-u-i-a，两处 i 有点，横画分别位于 o 和末 a 上方。"},
+    {"page":201,"receipt_index":5,"position":3,"field":"R","candidate":"mà pȳ","result":"SUPPORTED","band":"literature/tiles/01_DHS/page_0201/pdf_0201_band_y0_top.png","xyxy":[1600,700,1830,865],"evidence":"右栏首词可见 m-a 和向右下斜画，次词为 p 加下伸 y，y 上方有横画。"},
+    {"page":201,"receipt_index":12,"position":9,"field":"M","candidate":"tûy nȳ","result":"UNKNOWN","band":"literature/tiles/01_DHS/page_0201/pdf_0201_band_y1_mid.png","xyxy":[1060,490,1280,670],"evidence":"中栏两词均有下伸尾笔，次词上方有横画；首词帽形偏在 u/y 交界，不能可靠确认 û 的附着位置。"},
+    {"page":201,"receipt_index":17,"position":16,"field":"R","candidate":"yěn yâng","result":"UNKNOWN","band":"literature/tiles/01_DHS/page_0201/pdf_0201_band_y2_bot.png","xyxy":[1535,425,1820,580],"evidence":"右栏两词可见下伸起笔和连写尾部，首词上方有向下折角，次词上方有帽形；两处标记均偏向词尾，不能完整确认其附着元音。"}
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "scope": "只核验指定 14 项本项 v1、rr、ink 与对应原横带；非空 ink 为核验对象，否则核验 rr。坐标为 300 dpi 原页像素，xyxy 左上到右下。",
+  "index_base": 1,
+  "count": 14,
+  "counts": {
+    "SUPPORTED": 12,
+    "CONTRADICTED": 1,
+    "UNKNOWN": 1
+  },
+  "items": [
+    {
+      "page": "0183",
+      "receipt_index": 14,
+      "position": 5,
+      "field": "R",
+      "target": "cuày chày",
+      "result": "SUPPORTED",
+      "image_location": {
+        "horizontal_band": "literature/tiles/01_DHS/page_0183/pdf_0183_band_y1_mid.png",
+        "full_page_bbox_xyxy": [
+          1630,
+          1190,
+          2000,
+          1340
+        ],
+        "band_bbox_xyxy": [
+          1582,
+          94,
+          1952,
+          244
+        ],
+        "magnification": 5
+      },
+      "basis": "原词可见 c-u-a-y、c-h-a-y，两个斜向调号均可见；位于 R 栏。"
+    },
+    {
+      "page": "0183",
+      "receipt_index": 15,
+      "position": 6,
+      "field": "M",
+      "target": "tiàng",
+      "result": "SUPPORTED",
+      "image_location": {
+        "horizontal_band": "literature/tiles/01_DHS/page_0183/pdf_0183_band_y1_mid.png",
+        "full_page_bbox_xyxy": [
+          1140,
+          1300,
+          1470,
+          1440
+        ],
+        "band_bbox_xyxy": [
+          1092,
+          204,
+          1422,
+          344
+        ],
+        "magnification": 5
+      },
+      "basis": "本项 ink 为空，核对 rr；t-i-a-n-g 与上方斜向调号可辨，位于 M 栏。"
+    },
+    {
+      "page": "0183",
+      "receipt_index": 19,
+      "position": 9,
+      "field": "R",
+      "target": "chūi",
+      "result": "UNKNOWN",
+      "image_location": {
+        "horizontal_band": "literature/tiles/01_DHS/page_0183/pdf_0183_band_y1_mid.png",
+        "full_page_bbox_xyxy": [
+          1770,
+          1870,
+          2050,
+          2015
+        ],
+        "band_bbox_xyxy": [
+          1722,
+          774,
+          2002,
+          919
+        ],
+        "magnification": 5
+      },
+      "basis": "R 栏可见 chui、i 点和上方横画，但横画偏向末尾 i，不能确认其可明确归属于 u；左侧有划销。"
+    },
+    {
+      "page": "0187",
+      "receipt_index": 14,
+      "position": 4,
+      "field": "R",
+      "target": "tā lû",
+      "result": "SUPPORTED",
+      "image_location": {
+        "horizontal_band": "literature/tiles/01_DHS/page_0187/pdf_0187_band_y0_top.png",
+        "full_page_bbox_xyxy": [
+          1600,
+          840,
+          1900,
+          960
+        ],
+        "band_bbox_xyxy": [
+          1554,
+          772,
+          1854,
+          892
+        ],
+        "magnification": 5
+      },
+      "basis": "可辨 t-a 与 l-u，分别有横画和尖形上置调号；位于 R 栏。"
+    },
+    {
+      "page": "0187",
+      "receipt_index": 16,
+      "position": 5,
+      "field": "R",
+      "target": "vŷ lû",
+      "result": "SUPPORTED",
+      "image_location": {
+        "horizontal_band": "literature/tiles/01_DHS/page_0187/pdf_0187_band_y0_top.png",
+        "full_page_bbox_xyxy": [
+          1600,
+          940,
+          1900,
+          1100
+        ],
+        "band_bbox_xyxy": [
+          1554,
+          872,
+          1854,
+          1032
+        ],
+        "magnification": 5
+      },
+      "basis": "可辨 v-y 与 l-u，两组尖形上置调号均可见；位于 R 栏。"
+    },
+    {
+      "page": "0187",
+      "receipt_index": 22,
+      "position": 10,
+      "field": "R",
+      "target": "guièn liō",
+      "result": "SUPPORTED",
+      "image_location": {
+        "horizontal_band": "literature/tiles/01_DHS/page_0187/pdf_0187_band_y1_mid.png",
+        "full_page_bbox_xyxy": [
+          1550,
+          1830,
+          1950,
+          2000
+        ],
+        "band_bbox_xyxy": [
+          1504,
+          742,
+          1904,
+          912
+        ],
+        "magnification": 5
+      },
+      "basis": "本项 ink 为空，核对 rr；两组字母及第一组斜画、第二组横画可辨，位于 R 栏。"
+    },
+    {
+      "page": "0190",
+      "receipt_index": 29,
+      "position": 12,
+      "field": "M",
+      "target": "quéng gū",
+      "result": "SUPPORTED",
+      "image_location": {
+        "horizontal_band": "literature/tiles/01_DHS/page_0190/pdf_0190_band_y2_bot.png",
+        "full_page_bbox_xyxy": [
+          1190,
+          2300,
+          1530,
+          2470
+        ],
+        "band_bbox_xyxy": [
+          1142,
+          195,
+          1482,
+          365
+        ],
+        "magnification": 5
+      },
+      "basis": "可辨 q-u-e-n-g 与 g-u，第一组上方斜画、第二组横画可见；位于 M 栏。"
+    },
+    {
+      "page": "0194",
+      "receipt_index": 11,
+      "position": 8,
+      "field": "R",
+      "target": "hȳ",
+      "result": "SUPPORTED",
+      "image_location": {
+        "horizontal_band": "literature/tiles/01_DHS/page_0194/pdf_0194_band_y1_mid.png",
+        "full_page_bbox_xyxy": [
+          1700,
+          1420,
+          1950,
+          1600
+        ],
+        "band_bbox_xyxy": [
+          1652,
+          328,
+          1902,
+          508
+        ],
+        "magnification": 5
+      },
+      "basis": "本项 ink 为空，核对 rr；可辨 h-y，y 上有横画，位于 R 栏。"
+    },
+    {
+      "page": "0194",
+      "receipt_index": 17,
+      "position": 11,
+      "field": "R",
+      "target": "hȳ cǎn",
+      "result": "SUPPORTED",
+      "image_location": {
+        "horizontal_band": "literature/tiles/01_DHS/page_0194/pdf_0194_band_y1_mid.png",
+        "full_page_bbox_xyxy": [
+          1700,
+          1780,
+          2020,
+          1930
+        ],
+        "band_bbox_xyxy": [
+          1652,
+          688,
+          1972,
+          838
+        ],
+        "magnification": 5
+      },
+      "basis": "可辨 h-y、c-a-n，横画和第二组 V 形上置调号均可见；位于 R 栏。"
+    },
+    {
+      "page": "0194",
+      "receipt_index": 29,
+      "position": 19,
+      "field": "R",
+      "target": "tāng zà",
+      "result": "SUPPORTED",
+      "image_location": {
+        "horizontal_band": "literature/tiles/01_DHS/page_0194/pdf_0194_band_y2_bot.png",
+        "full_page_bbox_xyxy": [
+          1690,
+          2700,
+          2020,
+          2860
+        ],
+        "band_bbox_xyxy": [
+          1642,
+          584,
+          1972,
+          744
+        ],
+        "magnification": 5
+      },
+      "basis": "可辨 t-a-n-g、z-a，分别有横画与斜画；位于 R 栏。"
+    },
+    {
+      "page": "0197",
+      "receipt_index": 15,
+      "position": 6,
+      "field": "R",
+      "target": "hòu hān",
+      "result": "SUPPORTED",
+      "image_location": {
+        "horizontal_band": "literature/tiles/01_DHS/page_0197/pdf_0197_band_y1_mid.png",
+        "full_page_bbox_xyxy": [
+          1520,
+          1380,
+          1820,
+          1550
+        ],
+        "band_bbox_xyxy": [
+          1473,
+          284,
+          1773,
+          454
+        ],
+        "magnification": 5
+      },
+      "basis": "可辨 h-o-u、h-a-n，第一组斜画与第二组横画可见；位于 R 栏起始附近。"
+    },
+    {
+      "page": "0200",
+      "receipt_index": 4,
+      "position": 18,
+      "field": "source_R",
+      "target": "mân vǎn fǎn",
+      "result": "SUPPORTED",
+      "image_location": {
+        "horizontal_band": "literature/tiles/01_DHS/page_0200/pdf_0200_band_y2_bot.png",
+        "full_page_bbox_xyxy": [
+          1660,
+          2460,
+          2060,
+          2650
+        ],
+        "band_bbox_xyxy": [
+          1612,
+          344,
+          2012,
+          534
+        ],
+        "magnification": 5
+      },
+      "basis": "R 栏可见 m-a-n、v-a-n、f-a-n；依次为尖形、V 形、V 形上置调号，词段未跨栏。与第 34 项为同一原图词段。"
+    },
+    {
+      "page": "0200",
+      "receipt_index": 14,
+      "position": 3,
+      "field": "M",
+      "target": "cau coû",
+      "result": "CONTRADICTED",
+      "image_location": {
+        "horizontal_band": "literature/tiles/01_DHS/page_0200/pdf_0200_band_y0_top.png",
+        "full_page_bbox_xyxy": [
+          1150,
+          560,
+          1500,
+          850
+        ],
+        "band_bbox_xyxy": [
+          1102,
+          492,
+          1452,
+          782
+        ],
+        "magnification": 5
+      },
+      "basis": "M 栏第一词上方可见独立斜向笔画，所审 ink 的 cau 未记录该上置记号；第二词上方尖形调号可见。"
+    },
+    {
+      "page": "0200",
+      "receipt_index": 34,
+      "position": 18,
+      "field": "R",
+      "target": "mân vǎn fǎn",
+      "result": "SUPPORTED",
+      "image_location": {
+        "horizontal_band": "literature/tiles/01_DHS/page_0200/pdf_0200_band_y2_bot.png",
+        "full_page_bbox_xyxy": [
+          1660,
+          2460,
+          2060,
+          2650
+        ],
+        "band_bbox_xyxy": [
+          1612,
+          344,
+          2012,
+          534
+        ],
+        "magnification": 5
+      },
+      "basis": "R 栏可见 m-a-n、v-a-n、f-a-n；依次为尖形、V 形、V 形上置调号，词段未跨栏。与第 4 项为同一原图词段。"
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-17T22:47:23.290110+00:00",
-  "git_head_at_snapshot": "133c933102a933903584adadefb1c82f40b15a74",
+  "snapshot_utc": "2026-11-18T18:22:56.701064+00:00",
+  "git_head_at_snapshot": "9e0921f7af7b347c0703861f8d21d05c74cf80f3",
   "protocol": "CODEX_REPAIR_LEDGER_IN_PROGRESS_V1",
   "scope": "本次接手及其复核范围的 M2 字面修复，不等同于全库历史修改史。",
   "sources": {
     "adjudication": {
       "path": "literature/workspace_m2_dhs834/collision_mr/ADK_ADJUDICATION_LEDGER.json",
-      "sha256": "598eb965f917d4244abd42f86bd04c45a24bd9efa03e1ac6aba5026e09ef2a15"
+      "sha256": "b26b38638cabd648cfb1ac12fb5a3111dc0230c773b5c7fdbb4c50aafc42e64a"
     },
     "historical_batch_a_v4": {
       "path": "literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_V4.json",
@@ -36,10 +36,137 @@
     "ink_comparison": {
       "path": "codex_pipeline_ink_comparison.json",
       "sha256": "0af8569de5c681a5ca59dad8745bf5f0d2496f2eb6290e9d62ef6f0d9806d58f"
+    },
+    "batch_0183_0202": {
+      "path": "literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_0183_0202_20261118T180904565741Z.json",
+      "sha256": "c5f90d39b7da81b647d3f043370c15d14db79a43dde428c11187c61b7a7a5afb"
+    },
+    "batch_0183_0202_seal": {
+      "path": "codex_M1_batch01_seal_receipt.json",
+      "sha256": "be3621d5a3bf4c325064717ec7ffb9383deda2cf2ad10e23ad24d7f1ec3527fc"
+    },
+    "batch_0183_0202_gloss": {
+      "path": "codex_M6_preview/batch01_gloss_refresh_receipt.json",
+      "sha256": "d117fa2c825432402cc2cc93f7b0adc1b77c9d3a47458ecc1be2612c68dd23b3"
     }
   },
-  "current_campaign_formal_literal_repairs": [],
-  "current_campaign_formal_literal_repairs_count": 0,
+  "current_campaign_formal_literal_repairs": [
+    {
+      "page": 183,
+      "position": 5,
+      "field": "source_R",
+      "old": "cuāy chái",
+      "new": "cuày chày",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0183.json",
+        "index": 14,
+        "position": 5,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "V1",
+          "tone_mark": "存疑"
+        }
+      },
+      "sealed_sha256": "f8870ca6cfbf0a9c4ceff84365ae3b74a5c1ab416cad1c0dba867f31ac6e49eb"
+    },
+    {
+      "page": 183,
+      "position": 6,
+      "field": "source_M",
+      "old": "thiāng",
+      "new": "tiàng",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0183.json",
+        "index": 15,
+        "position": 6,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "rr",
+          "tone_mark": "一致"
+        }
+      },
+      "sealed_sha256": "f8870ca6cfbf0a9c4ceff84365ae3b74a5c1ab416cad1c0dba867f31ac6e49eb"
+    },
+    {
+      "page": 192,
+      "position": 1,
+      "field": "source_R",
+      "old": "xū [疑:syū/chū]",
+      "new": "xȳ",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0192.json",
+        "index": 6,
+        "position": 1,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "两皆误",
+          "tone_mark": "存疑"
+        }
+      },
+      "sealed_sha256": "5165c929a940820f16a4a8b5ea807a93f417b631c3bd0a00d9a69892171f3def"
+    },
+    {
+      "page": 194,
+      "position": 8,
+      "field": "source_R",
+      "old": "hī.",
+      "new": "hȳ",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0194.json",
+        "index": 11,
+        "position": 8,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "rr",
+          "tone_mark": "一致"
+        }
+      },
+      "sealed_sha256": "d4aba7ed599ac1716ad70090491f8167de3613071cb298a7208d6c20655e7db3"
+    },
+    {
+      "page": 194,
+      "position": 11,
+      "field": "source_R",
+      "old": "hī cain.",
+      "new": "hȳ cǎn",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0194.json",
+        "index": 17,
+        "position": 11,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "rr",
+          "tone_mark": "存疑"
+        }
+      },
+      "sealed_sha256": "d4aba7ed599ac1716ad70090491f8167de3613071cb298a7208d6c20655e7db3"
+    },
+    {
+      "page": 194,
+      "position": 19,
+      "field": "source_R",
+      "old": "hāng zā.",
+      "new": "tāng zà",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0194.json",
+        "index": 29,
+        "position": 19,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "rr",
+          "tone_mark": "缺失"
+        }
+      },
+      "sealed_sha256": "d4aba7ed599ac1716ad70090491f8167de3613071cb298a7208d6c20655e7db3"
+    }
+  ],
+  "current_campaign_formal_literal_repairs_count": 6,
   "historical_reported_applied": {
     "declared_count": 100,
     "declared_pages": 51,
@@ -1790,7 +1917,7 @@
   "tool_safeguards": {
     "modifier_equal_soup": "已实施；五页隔离重放10项转待核",
     "sanitizer_and_unexpected_field_changes": "已实施；p0146隔离全链通过、p0181隔离延迟",
-    "formal_literal_repairs_after_safeguards": 0,
+    "formal_literal_repairs_after_safeguards": 6,
     "rollback": "只用原 raw→commit；隔离故障注入后旧 sealed/清册/基线摘要一致；单写者条件",
     "sealed_pages_replay_preflight": {
       "exact": 1062,
