@@ -1,0 +1,169 @@
+{
+  "protocol": "USER_NINE_REFERENCE_ORIGINAL_CROPS_CANDIDATE",
+  "frozen": null,
+  "frozenBy": "仅参考候选；非正式标准",
+  "changelog": [
+    "V1.1 2026-11-17：核真值后封存。y0 段 4 行降级排除（f/t/Z 三形混淆族 2 行、chiē̃/chēng 存疑 1 行、页眉词 1 行）；核心题冻结 9 条；门槛改为 core ≥8/9 且汉字 2/2 全过；cropD 改 CJK 精确比对（修复 soup 把汉字删成空串的虚假通过 bug——Codex RSI 提案证实）",
+    "候选使用用户转交九值及原四裁片；A3 列入并记录原排除冲突，A4 truth 用原 verify/truthNote 所载及用户九值；不覆盖 V1。"
+  ],
+  "crops": {
+    "cropA": {
+      "path": "_scratch_p0257/calib_p0257_mcol_y0.png",
+      "field": "M",
+      "lines": [
+        {
+          "idx": 0,
+          "truth": "ante.",
+          "core": false,
+          "verify": "2x 自读；页眉引导词，答案含/不含均可解释，不入核心"
+        },
+        {
+          "idx": 1,
+          "truth": "hiū fvā",
+          "core": false,
+          "verify": "排除：首字母 h/f 存疑（Gemini 提 hïū/fiiū）且 word2 f/t/Z 三形混淆族（音系非法），待墨迹裁决"
+        },
+        {
+          "idx": 2,
+          "truth": "tó toâ",
+          "core": true,
+          "verify": "用户转交九题含 tó toâ；旧 V1 将本行列为 fo fva 且排除，理由为与 tó toâ 无法定夺；两者并存，不改旧标准。"
+        },
+        {
+          "idx": 3,
+          "truth": "yô toâ",
+          "core": true,
+          "verify": "word1 yō 2x 清晰；word2 经用户音系论证+V1[疑:To]+R栏tāy 三证裁定为 toâ（fvā 音系非法）；用户转交九值为 yô toâ，旧 truth 字段与本说明冲突。",
+          "truthNote": "冻结真值 yô toâ（声调符位置差判等价）"
+        },
+        {
+          "idx": 4,
+          "truth": "yó.",
+          "core": true,
+          "verify": "2x 清晰"
+        },
+        {
+          "idx": 5,
+          "truth": "chiē̃ pē",
+          "core": false,
+          "verify": "排除：i 的存在性存疑（Gemini 读 chēng pê，音系亦通），待墨迹裁决"
+        }
+      ]
+    },
+    "cropB": {
+      "path": "_scratch_p0257/calib_p0257_mcol_y1.png",
+      "field": "M",
+      "lines": [
+        {
+          "idx": 0,
+          "truth": "chiē̃ pē",
+          "core": false,
+          "verify": "同 A5 存疑，排除"
+        },
+        {
+          "idx": 1,
+          "truth": "piēn",
+          "core": true,
+          "verify": "2x 清晰；遍 piēⁿ 音系通"
+        },
+        {
+          "idx": 2,
+          "truth": "ŷ uān",
+          "core": false,
+          "verify": "排除：首字母 ŷ/v/uy 存疑（圍圈 ūi-khoan 亦通）"
+        },
+        {
+          "idx": 3,
+          "truth": "tāū cōu",
+          "core": false,
+          "verify": "排除：尾字母 n/u 极小笔存疑（Gemini 亦如实标注）"
+        },
+        {
+          "idx": 4,
+          "truth": "cûa pūe",
+          "core": true,
+          "verify": "5x + 用户眼验双坐实（KEY 点：V1 曾误 ûia、GLM 曾误 ciā）"
+        },
+        {
+          "idx": 5,
+          "truth": "cûa ciòng guêng pūē",
+          "core": true,
+          "verify": "5x + 用户眼验双坐实（KEY 点）；ciòng/giôs 已裁 Gemini 误读；原 B 截右端，原 D 同行可见续笔。"
+        },
+        {
+          "idx": 6,
+          "truth": "Pēŋ.",
+          "core": true,
+          "verify": "2x 清晰；P-e-ng 结构明确"
+        }
+      ]
+    },
+    "cropC": {
+      "path": "_scratch_p0257/calib_p0030_m_lines12_4x.png",
+      "field": "M",
+      "lines": [
+        {
+          "idx": 0,
+          "truth": "aña ti Zūñ tûñ",
+          "core": false,
+          "hard": true,
+          "verify": "4x；两套机器读法均错（V1 tî Zūn cūn / 重读 tiⁿû tûû），难题试金不入门槛，单独报告"
+        }
+      ]
+    },
+    "cropD": {
+      "path": "_scratch_p0257/p0257_pos10_circuncidar.png",
+      "field": "H",
+      "compare": "CJK_EXACT",
+      "lines": [
+        {
+          "idx": 0,
+          "truth": "割皮",
+          "core": true,
+          "verify": "用户+主会话双验"
+        },
+        {
+          "idx": 1,
+          "truth": "割玉脛皮",
+          "core": true,
+          "verify": "用户眼验坐实（脛 为 莖 之俗写，音系+字义双证）"
+        }
+      ]
+    }
+  },
+  "grading": {
+    "latin": "按 idx 对位；soup 比对 = NFD 去组合符 + ⁿ→n + 去非字母后小写全等（声调符位置差判等价）",
+    "cjk": "去除全部空白后字符串全等（修复 Codex RSI 提案所指虚假通过：旧 soup 将汉字删为空串致任意答案含 [未答] 皆过）",
+    "coreCount": 9,
+    "threshold": "核心题通过 ≥ 8/9 且 cropD 2/2 全过（汉字任一错即不通过）",
+    "hardLine": "cropC 单独报告，不入门槛",
+    "excludedCount": 6,
+    "excludedPolicy": "排除行不评分；答案缺失/多余行按原比较函数处理；A 页眉按旧 V1 可有可无。"
+  },
+  "selftest": [
+    {
+      "case": "汉字正确",
+      "got": "割皮",
+      "truth": "割 皮",
+      "expect": "PASS"
+    },
+    {
+      "case": "汉字错误",
+      "got": "割肘",
+      "truth": "割 皮",
+      "expect": "FAIL"
+    },
+    {
+      "case": "汉字缺答",
+      "got": "",
+      "truth": "割 皮",
+      "expect": "FAIL"
+    }
+  ],
+  "source": {
+    "user_reference": "codex_M0_recovery_candidate/REFERENCE_ONLY_V2_SOURCE.md",
+    "prior_standard": "literature/workspace_m2_dhs834/collision_mr/calibration/CALIBRATION_STANDARD_V1.json",
+    "mapping_note": "用户九值与行号对应见 REFERENCE_ONLY_ORIGINAL_CROPS_NINE.md；A3 和旧排除裁定存在冲突。",
+    "status": "候选比较材料，非正式标准"
+  }
+}
