@@ -1,0 +1,91 @@
+{
+  "protocol": "ADK_FINAL_SPOT_AUDIT_V1",
+  "actor": "Codex 子代理 /root/adk_batch03_b",
+  "method": "非盲对照 ADK、指定回执及原横带五倍裁图；未改源回执",
+  "records": [
+    {
+      "page": 231,
+      "index_1based": 11,
+      "candidate": "vûn",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0231/pdf_0231_band_y0_top.png",
+      "bbox_xyxy": [
+        1600,
+        750,
+        1770,
+        890
+      ],
+      "reason": "第四视觉行右栏首词的首笔为独立弯形，v/u 字形不能稳分；后段多拱连写，帽形覆盖连笔，无法确认 vûn 的全部字母和记号归属。"
+    },
+    {
+      "page": 231,
+      "index_1based": 12,
+      "candidate": "vûn",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0231/pdf_0231_band_y0_top.png",
+      "bbox_xyxy": [
+        1600,
+        865,
+        1770,
+        1010
+      ],
+      "reason": "第五视觉行右栏首词首笔呈弯曲回钩形，v/u 难稳分；后段连续拱笔与帽形的附着位置尚需核。"
+    },
+    {
+      "page": 231,
+      "index_1based": 14,
+      "candidate": "vûn",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0231/pdf_0231_band_y2_bot.png",
+      "bbox_xyxy": [
+        1720,
+        195,
+        1890,
+        330
+      ],
+      "reason": "第十六视觉行右栏第二词的首笔独立弯曲，难由字形确定为 v；帽形位于其后两拱之间，不能确认完整 vûn。"
+    },
+    {
+      "page": 241,
+      "index_1based": 10,
+      "candidate": "lỳ",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0241/pdf_0241_band_y0_top.png",
+      "bbox_xyxy": [
+        1580,
+        870,
+        1750,
+        1010
+      ],
+      "reason": "第四视觉行右栏短词首笔为上伸的 l，次笔为下伸的 y；其右上是一条左斜记号，词旁无另一字或上置小字，可对应 lỳ。"
+    },
+    {
+      "page": 241,
+      "index_1based": 12,
+      "candidate": "lỳ",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0241/pdf_0241_band_y1_mid.png",
+      "bbox_xyxy": [
+        1580,
+        40,
+        1740,
+        190
+      ],
+      "reason": "第六视觉行右栏有上伸圈形 l 和下伸 y，右上有一条左斜笔；该独立短词与回执 ink 的 lỳ 对应。"
+    },
+    {
+      "page": 241,
+      "index_1based": 26,
+      "candidate": "lȳ",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0241/pdf_0241_band_y2_bot.png",
+      "bbox_xyxy": [
+        1580,
+        285,
+        1740,
+        425
+      ],
+      "reason": "第十六视觉行右栏可辨高起笔和下伸 y 形；水平短笔从 y 右缘向词外延伸，是否为附着在 y 上的横记不能可靠确定。"
+    }
+  ]
+}

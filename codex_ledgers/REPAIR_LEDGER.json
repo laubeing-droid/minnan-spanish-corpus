@@ -1,13 +1,13 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-18T19:00:45.187079+00:00",
-  "git_head_at_snapshot": "659a8271df23142f8273bd6324d0455098141c1f",
+  "snapshot_utc": "2026-11-18T19:25:28.954957+00:00",
+  "git_head_at_snapshot": "89722a1252f7daae9e9dc04bb4df392990e16a89",
   "protocol": "CODEX_REPAIR_LEDGER_IN_PROGRESS_V1",
   "scope": "本次接手及其复核范围的 M2 字面修复，不等同于全库历史修改史。",
   "sources": {
     "adjudication": {
       "path": "literature/workspace_m2_dhs834/collision_mr/ADK_ADJUDICATION_LEDGER.json",
-      "sha256": "e593ea82926c2ceb6c0a863819a1a2b2b605c76865d43404e38f3fcfcedf2bc6"
+      "sha256": "ce674e6128b16dc1190196ac7315632e9accb4062f526b75a197162c0967b728"
     },
     "historical_batch_a_v4": {
       "path": "literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_V4.json",
@@ -68,6 +68,14 @@
     "batch_0203_0222_audit_b": {
       "path": "codex_M1_batch02_audit_b.json",
       "sha256": "b081485ad43423bc4110b03f50cccc0111495f7fcbd71be46ae3e8dd236ff8b2"
+    },
+    "batch_0223_0242": {
+      "path": "literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_0223_0242_20261118T192143585236Z.json",
+      "sha256": "e86477daf35e037220ec67e254ce0ef57eb02da4aeb8754ff6c239b5a1d0f34a"
+    },
+    "batch_0223_0242_seal": {
+      "path": "codex_M1_batch03_seal_receipt.json",
+      "sha256": "29eba7d9b3da38009958bf8f206146c9d7e4a8e2335c1009727d93b74e8887b7"
     }
   },
   "current_campaign_formal_literal_repairs": [

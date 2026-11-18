@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "page": 226,
+      "index_1based": 24,
+      "candidate": "chiān",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0226/pdf_0226_band_y2_bot.png",
+      "bbox_xyxy": [
+        1630,
+        285,
+        1900,
+        465
+      ],
+      "reason": "五倍放大可见 ch、i、a 与近似 n 的末笔，a 附近有横记；横记正上方较远处另有孤立黑点，无法确定是上置记号还是散点，因此不能确认候选完整。"
+    },
+    {
+      "page": 229,
+      "index_1based": 18,
+      "candidate": "chō jō",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0229/pdf_0229_band_y1_mid.png",
+      "bbox_xyxy": [
+        1510,
+        520,
+        1810,
+        680
+      ],
+      "reason": "五倍放大可见前词 cho、两词各有横记；第二词首笔呈无点的弯形下伸环，j 与 y 的字形归属不能仅凭此图确定，故无法确认候选全部字母。"
+    }
+  ]
+}

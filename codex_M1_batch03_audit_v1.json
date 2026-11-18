@@ -1,0 +1,77 @@
+{
+  "protocol": "ADK_V1_SPOT_AUDIT_V1",
+  "actor": "Codex 子代理 /root/adk_batch03_b",
+  "method": "逐项对照 ADK、既有 V1 对回执及原横带；未改源回执",
+  "records": [
+    {
+      "page": 223,
+      "index_1based": 11,
+      "candidate": "hūn tūn",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0223/pdf_0223_band_y1_mid.png",
+      "bbox_xyxy": [
+        1590,
+        260,
+        1900,
+        400
+      ],
+      "reason": "第五视觉行右栏两词均见横线；第二词首笔与后续连写紧接，无法可靠区分 t/h，因此不确认 V1 对。"
+    },
+    {
+      "page": 225,
+      "index_1based": 16,
+      "candidate": "xiěn gǔi:siēn gǔi",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0225/pdf_0225_band_y2_bot.png",
+      "bbox_xyxy": [
+        1680,
+        60,
+        2150,
+        205
+      ],
+      "reason": "第十四视觉行右栏连续可见 xiěn gǔi、冒号、siēn gǔi；两处 gui 的勾和 i 点、首词勾及后组横线均可对应候选。"
+    },
+    {
+      "page": 226,
+      "index_1based": 16,
+      "candidate": "pă",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0226/pdf_0226_band_y1_mid.png",
+      "bbox_xyxy": [
+        1650,
+        420,
+        1840,
+        560
+      ],
+      "reason": "第九视觉行右栏为下伸环形 p 接 a，a 上有勾形；目标短词内无其他可见上置小字，与 pă 相符。"
+    },
+    {
+      "page": 228,
+      "index_1based": 3,
+      "candidate": "âb",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0228/pdf_0228_band_y1_mid.png",
+      "bbox_xyxy": [
+        1160,
+        300,
+        1370,
+        425
+      ],
+      "reason": "第八视觉行中栏首词为 a 接高竖笔 b，a 上两斜笔成尖形；逗号后的另一 a 形词与目标 âb 分开。"
+    },
+    {
+      "page": 228,
+      "index_1based": 13,
+      "candidate": "Seng. căng.",
+      "result": "CONTRADICTED",
+      "image": "literature/tiles/01_DHS/page_0228/pdf_0228_band_y0_top.png",
+      "bbox_xyxy": [
+        1380,
+        770,
+        1810,
+        910
+      ],
+      "reason": "第三视觉行分隔线右侧可见 Seng.，远右为带勾形上标的 cang；远右词后的空白处未见候选所写的末尾句点。"
+    }
+  ]
+}

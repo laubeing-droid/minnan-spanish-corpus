@@ -1,0 +1,74 @@
+{
+  "records": [
+    {
+      "page": 225,
+      "index_1based": 4,
+      "candidate": "chòng pǐng",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0225/pdf_0225_band_y0_top.png",
+      "bbox_xyxy": [
+        1690,
+        425,
+        1995,
+        555
+      ],
+      "reason": "第 1 行右栏首词可见斜上记，次词有下伸首笔、点和 V 形上笔；次词中段被浓墨聚合，不能完整确认 pǐng 的全部字母与符号归属。"
+    },
+    {
+      "page": 225,
+      "index_1based": 7,
+      "candidate": "sōn cuǎn",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0225/pdf_0225_band_y0_top.png",
+      "bbox_xyxy": [
+        1680,
+        875,
+        1970,
+        990
+      ],
+      "reason": "第 5 行右栏两词上分别有横笔和 V 形笔；首词首字与 o/n 连笔、横笔的具体附着位置均不能可靠确定。"
+    },
+    {
+      "page": 225,
+      "index_1based": 8,
+      "candidate": "sōn pǐng",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0225/pdf_0225_band_y0_top.png",
+      "bbox_xyxy": [
+        1680,
+        995,
+        1970,
+        1110
+      ],
+      "reason": "第 6 行右栏首词横笔偏向词尾，次词可见下伸首笔、上方一点和 V 形笔；首词字母及次词调号与 i/n 的精确归属待核。"
+    },
+    {
+      "page": 225,
+      "index_1based": 9,
+      "candidate": "hây tōu",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0225/pdf_0225_band_y1_mid.png",
+      "bbox_xyxy": [
+        1670,
+        165,
+        1920,
+        320
+      ],
+      "reason": "第 8 行右栏首词末笔下伸近 y，上方尖笔跨 a/y 连笔区域；次词上方横笔可见。无法仅从墨迹确定尖笔附着在 a 或 y。"
+    },
+    {
+      "page": 240,
+      "index_1based": 3,
+      "candidate": "māu, bāu.",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0240/pdf_0240_band_y0_top.png",
+      "bbox_xyxy": [
+        1120,
+        765,
+        1460,
+        890
+      ],
+      "reason": "第 3 行中栏两词各有一横笔，均横跨或偏向 a/u 连写区域，不能确定候选所示两个 ā 的附着位置；词间小撇旁另有一点，其归属待核。"
+    }
+  ]
+}

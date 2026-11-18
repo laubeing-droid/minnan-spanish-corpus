@@ -1,0 +1,69 @@
+{
+  "status": "NO_REPAIR_GATE_AND_RESWEEP_VERIFIED",
+  "selected_pages": [
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242
+  ],
+  "repair_batch": "literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_0223_0242_20261118T192143585236Z.json",
+  "repair_batch_sha256": "e86477daf35e037220ec67e254ce0ef57eb02da4aeb8754ff6c239b5a1d0f34a",
+  "sealed_pages": [],
+  "actual_repairs": [],
+  "actual_repair_count": 0,
+  "deferred_count": 11,
+  "collector_pending_count": 486,
+  "pipeline_result": {
+    "verdict": "NO_REPAIRS",
+    "gate_pass": true,
+    "gate_coverage": "1103/1103",
+    "resweep_exit": 0,
+    "hard_baseline_before": 3705,
+    "hard_after": 3705,
+    "delta": 0,
+    "source": "architect_gatekeeper.py; post_repair_verify.py --help (该脚本无 CLI 参数解析，执行了复扫)"
+  },
+  "p0241_source_m_nasal_discrepancy": {
+    "reason": "修复器检测原 raw 与封存不一致，相关两条裁决延迟；封存 SHA 符合清册、raw 与封存均与当前 Git HEAD 内容一致。",
+    "positions": [
+      {
+        "position": 7,
+        "sealed": "chiē̃ êy",
+        "raw": "chiēⁿ êy"
+      },
+      {
+        "position": 10,
+        "sealed": "êy chiē̃ yō̃",
+        "raw": "êy chiēⁿ yōⁿ"
+      },
+      {
+        "position": 12,
+        "sealed": "siū̃ queing ey",
+        "raw": "siūⁿ queing ey"
+      },
+      {
+        "position": 14,
+        "sealed": "goā̃ ey",
+        "raw": "goāⁿ ey"
+      }
+    ]
+  },
+  "gloss_refresh": "无实际字面修改，因此本批无受影响页。",
+  "limitations": "修复延迟、收集待核和墨迹不明存在重叠，不可相加；门禁只验证封存和覆盖。"
+}

@@ -1,0 +1,284 @@
+{
+  "status": "CANDIDATES_DOWNGRADED",
+  "reason": "拟修复项原图复核不能完整确认；保留 v1/rr 并入待核，不以不确定墨迹覆盖封存。",
+  "items": [
+    {
+      "page": 225,
+      "index_1based": 4,
+      "audit": "codex_M1_batch03_audit_ca.json",
+      "old": {
+        "position": 1,
+        "field": "R",
+        "v1": "chòng jǐng",
+        "rr": "chòng pǐng",
+        "verdict": "重读对",
+        "letters": "rr",
+        "tone_mark": "一致",
+        "note": "第 1 行右栏第二词首字母为有下伸环的 p，非 j；其上有折形标记。"
+      },
+      "new": {
+        "position": 1,
+        "field": "R",
+        "v1": "chòng jǐng",
+        "rr": "chòng pǐng",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第 1 行右栏第二词首字母为有下伸环的 p，非 j；其上有折形标记。 五倍图复核：第 1 行右栏首词可见斜上记，次词有下伸首笔、点和 V 形上笔；次词中段被浓墨聚合，不能完整确认 pǐng 的全部字母与符号归属。"
+      }
+    },
+    {
+      "page": 225,
+      "index_1based": 7,
+      "audit": "codex_M1_batch03_audit_ca.json",
+      "old": {
+        "position": 5,
+        "field": "R",
+        "v1": "sūn cūan",
+        "rr": "sōn cūan",
+        "verdict": "两皆误",
+        "letters": "两皆误",
+        "tone_mark": "位置差",
+        "note": "第 5 行右栏首词元音为 o，次词上方为折形记号。",
+        "ink": "sōn cuǎn"
+      },
+      "new": {
+        "position": 5,
+        "field": "R",
+        "v1": "sūn cūan",
+        "rr": "sōn cūan",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第 5 行右栏首词元音为 o，次词上方为折形记号。 五倍图复核：第 5 行右栏两词上分别有横笔和 V 形笔；首词首字与 o/n 连笔、横笔的具体附着位置均不能可靠确定。"
+      }
+    },
+    {
+      "page": 225,
+      "index_1based": 8,
+      "audit": "codex_M1_batch03_audit_ca.json",
+      "old": {
+        "position": 6,
+        "field": "R",
+        "v1": "sūn jǐng",
+        "rr": "sōn pǐng",
+        "verdict": "重读对",
+        "letters": "rr",
+        "tone_mark": "一致",
+        "note": "第 6 行右栏首词元音是 o；次词有下伸环的 p，词上有折形标记。"
+      },
+      "new": {
+        "position": 6,
+        "field": "R",
+        "v1": "sūn jǐng",
+        "rr": "sōn pǐng",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第 6 行右栏首词元音是 o；次词有下伸环的 p，词上有折形标记。 五倍图复核：第 6 行右栏首词横笔偏向词尾，次词可见下伸首笔、上方一点和 V 形笔；首词字母及次词调号与 i/n 的精确归属待核。"
+      }
+    },
+    {
+      "page": 225,
+      "index_1based": 9,
+      "audit": "codex_M1_batch03_audit_ca.json",
+      "old": {
+        "position": 8,
+        "field": "R",
+        "v1": "hâi tōu",
+        "rr": "hây tōu",
+        "verdict": "重读对",
+        "letters": "rr",
+        "tone_mark": "一致",
+        "note": "第 8 行右栏首词末笔下伸为 y，其上有尖角；后词上有横记。"
+      },
+      "new": {
+        "position": 8,
+        "field": "R",
+        "v1": "hâi tōu",
+        "rr": "hây tōu",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第 8 行右栏首词末笔下伸为 y，其上有尖角；后词上有横记。 五倍图复核：第 8 行右栏首词末笔下伸近 y，上方尖笔跨 a/y 连笔区域；次词上方横笔可见。无法仅从墨迹确定尖笔附着在 a 或 y。"
+      }
+    },
+    {
+      "page": 240,
+      "index_1based": 3,
+      "audit": "codex_M1_batch03_audit_ca.json",
+      "old": {
+        "position": 3,
+        "field": "M",
+        "v1": "rnāū, bāū.",
+        "rr": "maû. baû.",
+        "verdict": "两皆误",
+        "letters": "两皆误",
+        "tone_mark": "位置差",
+        "note": "第 3 行中栏首词起笔为 m，后接 au；两词上各有一横，词间逗点、末尾点可见。",
+        "ink": "māu, bāu."
+      },
+      "new": {
+        "position": 3,
+        "field": "M",
+        "v1": "rnāū, bāū.",
+        "rr": "maû. baû.",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第 3 行中栏首词起笔为 m，后接 au；两词上各有一横，词间逗点、末尾点可见。 五倍图复核：第 3 行中栏两词各有一横笔，均横跨或偏向 a/u 连写区域，不能确定候选所示两个 ā 的附着位置；词间小撇旁另有一点，其归属待核。"
+      }
+    },
+    {
+      "page": 226,
+      "index_1based": 24,
+      "audit": "codex_M1_batch03_audit_ac.json",
+      "old": {
+        "position": 16,
+        "field": "R",
+        "v1": "chiāū.",
+        "rr": "chiān",
+        "verdict": "重读对",
+        "letters": "rr",
+        "tone_mark": "一致",
+        "note": "第 16 行右栏字母为 chiān，末尾为 n，上方横笔落在 a 附近，与重读一致。"
+      },
+      "new": {
+        "position": 16,
+        "field": "R",
+        "v1": "chiāū.",
+        "rr": "chiān",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第 16 行右栏字母为 chiān，末尾为 n，上方横笔落在 a 附近，与重读一致。 五倍图复核：五倍放大可见 ch、i、a 与近似 n 的末笔，a 附近有横记；横记正上方较远处另有孤立黑点，无法确定是上置记号还是散点，因此不能确认候选完整。"
+      }
+    },
+    {
+      "page": 229,
+      "index_1based": 18,
+      "audit": "codex_M1_batch03_audit_ac.json",
+      "old": {
+        "position": 10,
+        "field": "R",
+        "v1": "chō gō",
+        "rr": "chō jō",
+        "verdict": "重读对",
+        "letters": "rr",
+        "tone_mark": "一致",
+        "note": "第 10 行右栏前词为 chō，后词首笔下伸呈 j、o 上有横线；与 chō jō 相符。"
+      },
+      "new": {
+        "position": 10,
+        "field": "R",
+        "v1": "chō gō",
+        "rr": "chō jō",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第 10 行右栏前词为 chō，后词首笔下伸呈 j、o 上有横线；与 chō jō 相符。 五倍图复核：五倍放大可见前词 cho、两词各有横记；第二词首笔呈无点的弯形下伸环，j 与 y 的字形归属不能仅凭此图确定，故无法确认候选全部字母。"
+      }
+    },
+    {
+      "page": 231,
+      "index_1based": 11,
+      "audit": "codex_M1_batch03_audit_final.json",
+      "old": {
+        "position": 4,
+        "field": "R",
+        "v1": "vûn",
+        "rr": "",
+        "verdict": "V1对",
+        "letters": "V1",
+        "tone_mark": "一致",
+        "note": "第 4 行右栏首词可辨 v、u、n，上方有尖形记号。"
+      },
+      "new": {
+        "position": 4,
+        "field": "R",
+        "v1": "vûn",
+        "rr": "",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第 4 行右栏首词可辨 v、u、n，上方有尖形记号。 五倍图复核：第四视觉行右栏首词的首笔为独立弯形，v/u 字形不能稳分；后段多拱连写，帽形覆盖连笔，无法确认 vûn 的全部字母和记号归属。"
+      }
+    },
+    {
+      "page": 231,
+      "index_1based": 12,
+      "audit": "codex_M1_batch03_audit_final.json",
+      "old": {
+        "position": 5,
+        "field": "R",
+        "v1": "vûn",
+        "rr": "",
+        "verdict": "V1对",
+        "letters": "V1",
+        "tone_mark": "一致",
+        "note": "第 5 行右栏首词 v、u、n 连写，上方尖形记号清楚。"
+      },
+      "new": {
+        "position": 5,
+        "field": "R",
+        "v1": "vûn",
+        "rr": "",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第 5 行右栏首词 v、u、n 连写，上方尖形记号清楚。 五倍图复核：第五视觉行右栏首词首笔呈弯曲回钩形，v/u 难稳分；后段连续拱笔与帽形的附着位置尚需核。"
+      }
+    },
+    {
+      "page": 231,
+      "index_1based": 14,
+      "audit": "codex_M1_batch03_audit_final.json",
+      "old": {
+        "position": 16,
+        "field": "R",
+        "v1": "vûn",
+        "rr": "",
+        "verdict": "V1对",
+        "letters": "V1",
+        "tone_mark": "一致",
+        "note": "第 16 行右栏第二词是 v、u、n 连写，上方为尖形记号。"
+      },
+      "new": {
+        "position": 16,
+        "field": "R",
+        "v1": "vûn",
+        "rr": "",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第 16 行右栏第二词是 v、u、n 连写，上方为尖形记号。 五倍图复核：第十六视觉行右栏第二词的首笔独立弯曲，难由字形确定为 v；帽形位于其后两拱之间，不能确认完整 vûn。"
+      }
+    },
+    {
+      "page": 241,
+      "index_1based": 26,
+      "audit": "codex_M1_batch03_audit_final.json",
+      "old": {
+        "position": 16,
+        "field": "R",
+        "v1": "lŷ",
+        "rr": "lū",
+        "verdict": "两皆误",
+        "letters": "V1",
+        "tone_mark": "一致",
+        "note": "第 16 行右栏首笔 l，后为带下伸尾的 y，y 上是横笔；横笔与重读相同，但其 u 与墨迹不同。",
+        "ink": "lȳ"
+      },
+      "new": {
+        "position": 16,
+        "field": "R",
+        "v1": "lŷ",
+        "rr": "lū",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第 16 行右栏首笔 l，后为带下伸尾的 y，y 上是横笔；横笔与重读相同，但其 u 与墨迹不同。 五倍图复核：第十六视觉行右栏可辨高起笔和下伸 y 形；水平短笔从 y 右缘向词外延伸，是否为附着在 y 上的横记不能可靠确定。"
+      }
+    }
+  ]
+}
