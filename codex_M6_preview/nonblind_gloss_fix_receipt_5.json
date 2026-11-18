@@ -1,0 +1,155 @@
+{
+  "status": "APPLIED_NONBLIND_GLOSS_ONLY",
+  "scope": "3 页 6 条主释义；先阅读既有封存和释义，再对照原图及文献并独立非盲复核；不是独立盲读；M0、M6 均未完成。",
+  "reference": {
+    "author": "Juan Gil",
+    "title": "El Dictionarivm Hispano-Sinicvm de la Universidad de Santo Tomás (Manila)",
+    "publication": "Abenámar III (2019–2020), 67–83",
+    "url": "https://fundacionramonmenendezpidal.org/revista/index.php/Abenamar/article/download/33/65",
+    "pdf_sha256": "3b19bc629293149e82606f01c04b2a592c12e49016201eacd5e174e1048c3019",
+    "printed_pages": [
+      76,
+      79,
+      80
+    ]
+  },
+  "files": [
+    {
+      "page": 181,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0181.json",
+      "old_sha256": "48ffa0017b68f41eaec9133e214a5b598fe7741e380f3911da27362e625e6223",
+      "new_sha256": "1ea76ae4cefc6120201383fd9d59df4cfd08d9946bbac9964e39ca9ec10655ae",
+      "sealed_sha256": "18fcebe06c6486d9a30e55f9cce702c74f980087faeab514d5cc21a06bec9681",
+      "image": "literature/tiles/01_DHS/page_0181/pdf_0181_band_y1_mid.png",
+      "image_sha256": "05a08d93f3494ee08b2588d1c6429216519107cd9e2d4447b1321337b8f45c98"
+    },
+    {
+      "page": 323,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0323.json",
+      "old_sha256": "6ae392ddf3dd39dbc658c7b8eb78c57b37ef86fbb261d15b03383718ff936c6f",
+      "new_sha256": "659ab5e917afebbce2b9383795cf62a511b5d5f0ac20081df40b2af205ed947d",
+      "sealed_sha256": "35b1e2f6577345166c937c2b54eb8dc58d5cbd913e079c74818a928d3548e5e4",
+      "image": "literature/tiles/01_DHS/page_0323/pdf_0323_band_y0_top.png",
+      "image_sha256": "ac892fb8a725ce7261da272b0ee15d140ba1a4feacd41a1a98f65ebc8784c21d"
+    },
+    {
+      "page": 488,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0488.json",
+      "old_sha256": "1972cbcaa9f57e1b987e16f7fc1c917fb700be0cc55ed6bc5cfb952d83478877",
+      "new_sha256": "9f21ef0698ff289985ded93744918cec4c252900f35e3424e8d13e4ee7404dab",
+      "sealed_sha256": "3e9680a579eb4855d1bbe773ddfe0c192ff5e80809a8b556f16fa3abf15d01ff",
+      "image": "literature/tiles/01_DHS/page_0488/pdf_0488_band_y1_mid.png",
+      "image_sha256": "892db10b5b44e031a55d9f07cb9e3ddeed40059859cb706ad3ab6f68d240fdf4"
+    }
+  ],
+  "changes": [
+    {
+      "page": 181,
+      "position": 12,
+      "old": {
+        "position": 12,
+        "zh": "膀：字义难解，疑为「膀胱」之省或阴囊类袋状器官",
+        "en": "an obscure body-bag word; possibly the bladder character alone or a scrotum-like term (uncertain)",
+        "confidence": "low",
+        "notes": "H 栏仅「膀」一字，对音与之不合，西语词头 comparones 未详，释义无法定夺。"
+      },
+      "new": {
+        "position": 12,
+        "zh": "据西文可释为阴囊；汉字记「膀」，其词义及与西文的对应待核。",
+        "en": "The Spanish describes the sac of the testicles (scrotum); the recorded Chinese character 膀 and its correspondence remain uncertain.",
+        "confidence": "low",
+        "notes": "Juan Gil（2019–2020）第 80 页引影印本 p.152，并说明 compañones 指睾丸；现封存西文作 comparones，H 仅「膀」，字义及对音待核。"
+      }
+    },
+    {
+      "page": 181,
+      "position": 13,
+      "old": {
+        "position": 13,
+        "zh": "膀胱：贮尿的袋状器官",
+        "en": "urinary bladder",
+        "confidence": "medium",
+        "notes": "西语词头 comparones 未详，M 栏多出一入声音节、R 栏第二音节与「胱」对音不合；据 H 栏「膀胱」立义。"
+      },
+      "new": {
+        "position": 13,
+        "zh": "汉字「膀胱」通常指贮尿器官；西文可释为睾丸囊袋（阴囊）。两栏对应待核。",
+        "en": "The Chinese term generally refers to the urinary bladder; the Spanish describes the sac of the testicles (scrotum). Their correspondence remains unresolved.",
+        "confidence": "low",
+        "notes": "Juan Gil（2019–2020）第 80 页引影印本 p.152，并说明 compañones 指睾丸；现封存西文作 comparones，H 作膀胱。M/R 对音与汉字亦有疑，西文及两栏差异未裁定。"
+      }
+    },
+    {
+      "page": 323,
+      "position": 3,
+      "old": {
+        "position": 3,
+        "zh": "笊篱（竹编捞饭器；字作「離」，疑为「籬」）",
+        "en": "bamboo rice-strainer / skimmer (character likely 籬 rather than 離)",
+        "confidence": "medium",
+        "notes": "「離/籬」有疑且 M、R 两栏音写音节不合，取西语捞饭具语境定为笊篱义。"
+      },
+      "new": {
+        "position": 3,
+        "zh": "西文指茎秆制饭勺；汉字「離／籬」存疑，其器物义待核。",
+        "en": "Spanish: a cane spoon for cooked rice; the character 離/籬 and its utensil sense remain uncertain",
+        "confidence": "low",
+        "notes": "Juan Gil（2019–2020）第 79 页引影印本 p.294 的熟饭勺例。封存 H 作「離」且疑籬，M、R 音写不合；不能仅据西文定为竹编笊篱或无孔勺。"
+      }
+    },
+    {
+      "page": 323,
+      "position": 4,
+      "old": {
+        "position": 4,
+        "zh": "饭篱（竹制捞饭笊篱；「離」疑为「籬」）",
+        "en": "bamboo rice-strainer / skimmer for boiled rice (morisqueta)",
+        "confidence": "medium",
+        "notes": "「離/籬」有疑，据音写与西语捞饭具义定为「籬」（篱）。"
+      },
+      "new": {
+        "position": 4,
+        "zh": "西文指茎秆制饭勺；汉字作「飯離」，末字或为「籬」，对应义待核。",
+        "en": "Spanish: a cane spoon for cooked rice; Chinese 飯離/飯籬 and its utensil sense remain uncertain",
+        "confidence": "low",
+        "notes": "Juan Gil（2019–2020）第 79 页引影印本 p.294 的熟饭勺例；现封存「飯離」末字疑籬。是否指笊篱及其与西文器形的关系待核；原图西文圈线性质待核。"
+      }
+    },
+    {
+      "page": 323,
+      "position": 5,
+      "old": {
+        "position": 5,
+        "zh": "捞饭笊篱一类炊具（首字「盡/蓋」存疑，次字疑为「籬」）",
+        "en": "rice-strainer type utensil (first character uncertain: 盡/蓋)",
+        "confidence": "medium",
+        "notes": "两字均带[疑]，M、R 两栏音写彼此分歧，仅西语词头与次字「籬」支持炊具义。"
+      },
+      "new": {
+        "position": 5,
+        "zh": "西文指茎秆制饭勺；汉字「盡／蓋」「離／籬」均存疑，器物义待核。",
+        "en": "Spanish: a cane spoon for cooked rice; both Chinese characters and their utensil sense remain uncertain",
+        "confidence": "low",
+        "notes": "Juan Gil（2019–2020）第 79 页引影印本 p.294 的熟饭勺例；封存汉字两处存疑，M、R 音写分歧。是否指笊篱及具体器形待核；原图圈线性质待核。"
+      }
+    },
+    {
+      "page": 488,
+      "position": 11,
+      "old": {
+        "position": 11,
+        "zh": "漏傘（字面可辨；西栏记夜间灯火之节，具体所指未详）",
+        "en": "(lit.) a leaking, dripping umbrella — a feast of lights held at night; precise referent uncertain",
+        "confidence": "low",
+        "notes": "音写两处 T99、西语残讹，“漏傘”字面可辨但语义无法定夺"
+      },
+      "new": {
+        "position": 11,
+        "zh": "夜间携带灯烛与伞的节庆；汉字记「漏傘」，具体所指待核。",
+        "en": "a festival of candles carried at night with a payo (umbrella); the sense of the recorded 漏傘 remains uncertain",
+        "confidence": "low",
+        "notes": "Juan Gil（2019–2020）第 76、80 页引影印本 p.454 的夜间灯烛节，并将 payo 联系伞；现封存西文末词作 gapo。H「漏傘」的意义及其与西文的对应待核，M 两处 T99。"
+      }
+    }
+  ]
+}

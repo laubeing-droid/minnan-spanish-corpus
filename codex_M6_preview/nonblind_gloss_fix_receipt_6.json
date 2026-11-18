@@ -1,0 +1,110 @@
+{
+  "status": "APPLIED_NONBLIND_GLOSS_ONLY",
+  "scope": "3 页 3 条主释义；先阅读封存和释义，再对照原图、文献或词典并独立非盲复核；不证明字面校定，M0 与 M6 均未完成。",
+  "references": [
+    {
+      "author": "Juan Gil",
+      "publication": "Abenámar III (2019–2020), 67–83",
+      "url": "https://fundacionramonmenendezpidal.org/revista/index.php/Abenamar/article/download/33/65",
+      "pdf_sha256": "3b19bc629293149e82606f01c04b2a592c12e49016201eacd5e174e1048c3019",
+      "printed_pages": [
+        70
+      ]
+    },
+    {
+      "publisher": "教育部重編國語辭典",
+      "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=29759&la=0&powerMode=0",
+      "scope": "滿目一般字义，不证明跨栏对应"
+    },
+    {
+      "publisher": "RAE",
+      "url": "https://dle.rae.es/ojo",
+      "scope": "现代 ojo 字义旁证，不证明此词组历史义"
+    }
+  ],
+  "files": [
+    {
+      "page": 290,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0290.json",
+      "old_sha256": "a6ab283f9021a9ea8e6a870ceb9589fd746de8c75a627a8e72c5fe8d43520163",
+      "new_sha256": "cafea59d6f833b5a6c8b8954609fe3d97c7c7106a158d378e2e09e7f4dce3192",
+      "sealed_sha256": "abecc5e9b0852c95a9307580f0d3cb51c193a9f2682d47fac815c801a87353fa",
+      "image": "literature/tiles/01_DHS/page_0290/pdf_0290_band_y0_top.png",
+      "image_sha256": "f6e202ad00f6e923ba50ff93f1810767b119b3c809d6d7990977c9e67aa51e1c"
+    },
+    {
+      "page": 730,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0730.json",
+      "old_sha256": "9e3c7cf38216e7ba1546a0ae59b02c385b701a71ea19062b7763c6bda3ae8eca",
+      "new_sha256": "718494d60cc0838b1daa8b1f15d6e4741228367563b7b46bf83622d2083a4ce5",
+      "sealed_sha256": "8964d43d76e0ba02998daaec0b3118e8bf990dcf297d7e95c274c1e07490a9f7",
+      "image": "literature/tiles/01_DHS/page_0730/pdf_0730_band_y2_bot.png",
+      "image_sha256": "5c76a52cceccde16b58a2c004f6777da8f338d7703b88005f22cb41651cc318a"
+    },
+    {
+      "page": 1115,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p1115.json",
+      "old_sha256": "3bb40b0af6593cf2ad472f55a2547e4cbcb8b3f5ac181d8965bd9e5efe583a33",
+      "new_sha256": "f61bc5b06652c361818dd0749f5362f3e275dd3bfb50f0d1834e05218739142d",
+      "sealed_sha256": "8795b4795f2aa4af41495a89336726009579d8893839ac22234eb219625d98a4",
+      "image": "literature/tiles/01_DHS/page_1115/pdf_1115_band_y2_bot.png",
+      "image_sha256": "8511ec204202ce6ddda8237c457c86a89c2a7b4a51a60e7986d408d4bdbd033e"
+    }
+  ],
+  "changes": [
+    {
+      "page": 290,
+      "position": 3,
+      "old": {
+        "position": 3,
+        "zh": "满目，满眼皆是",
+        "en": "〔原件残缺，释义存疑〕",
+        "confidence": "low",
+        "notes": "西栏中段残损（confiar de[残]ura con.）且与汉字栏『滿目』语义不协，官栏音又近『面目』，西文原词与英译无从定夺，中文暂依汉字、闽语两栏。"
+      },
+      "new": {
+        "position": 3,
+        "zh": "满目，满眼皆是〔仅据汉字暂释；跨栏对应待核〕",
+        "en": "filling the view; all that meets the eye [tentative Chinese-character gloss only; cross-column correspondence unverified]",
+        "confidence": "low",
+        "notes": "现封存西文标残且与汉字「滿目」语义未能对应，官话栏音又近「面目」；此释仅依据汉字与闽南栏，跨栏对应及西文读法待核。"
+      }
+    },
+    {
+      "page": 730,
+      "position": 20,
+      "old": {
+        "position": 20,
+        "zh": "眼彩（眼神、目光神采）",
+        "en": "〔原件残缺，释义存疑〕",
+        "confidence": "low",
+        "notes": "西语词头栏 [空]，仅汉字'眼彩'与音写 gien chay 两栏存，义项无从以西语对勘。"
+      },
+      "new": {
+        "position": 20,
+        "zh": "眼彩；西文似指眼光好、有辨识力，汉字词义待核。",
+        "en": "The Spanish appears to describe a good, discerning eye; the exact sense of 眼彩 remains uncertain.",
+        "confidence": "low",
+        "notes": "封存西文记为 [空]，但原图对应视觉条左侧有跨行西文，疑指眼光好、能辨识；下条另有相近西文与「眼力好」。本条西文逐笔、续行归属及「眼彩」具体词义待核。"
+      }
+    },
+    {
+      "page": 1115,
+      "position": 14,
+      "old": {
+        "position": 14,
+        "zh": "仁爱；仁德〔释义存疑〕",
+        "en": "〔原件残缺，释义存疑〕",
+        "confidence": "low",
+        "notes": "西栏词头 LMa 缩写无法展开且语义（de nuebo/muerte/edad/cria，尾部截断）与仁不合，疑串行或形误；zh 暂依 H 栏仁、M 栏 jun（Xim 或为第二字之心 sim，即仁心）。"
+      },
+      "new": {
+        "position": 14,
+        "zh": "仁；西文词头涉及蛋黄，或涉及果仁；具体对应及余文待核。",
+        "en": "The Chinese character 仁; the Spanish mentions egg yolk and possibly a nut kernel. Their exact correspondence and the remaining wording are uncertain.",
+        "confidence": "low",
+        "notes": "Juan Gil（2019–2020）第 70 页引影印本 p.1077 的 yema de guebo（蛋黄）；原图该行西文与「仁」相邻。现封存首词为 LMa，西文余段、音写 Xim 及与汉字的对应待核，不据单字断为仁爱。"
+      }
+    }
+  ]
+}
