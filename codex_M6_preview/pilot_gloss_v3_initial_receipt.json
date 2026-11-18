@@ -1,0 +1,55 @@
+{
+  "status": "PILOT_REVIEW_IN_PROGRESS",
+  "scope": "五页第三版释义候选；每位新读者仅被提供本页封存路径并指示不读已有释义，先交结果后做结构及非盲复核。无独立文件访问审计；同模型输出可能相关。",
+  "structural_status": "PASS",
+  "semantic_status": "FAIL：已发现反身义过度确定及主客关系遗漏，其余复核进行中",
+  "read_protocol": "与既有释义独立，读取封存用于派生释义；不是独立字面重读。",
+  "rows": [
+    {
+      "page": 303,
+      "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0303.json",
+      "sealed_sha256": "e58cbd8f8d17a99f57d4b82550feff860c11a13f04c4d425d8f2a269525ad372",
+      "candidate_path": "codex_M6_preview/pilot_gloss_v3_p0303.json",
+      "candidate_sha256": "1950b7aeaae89ad25c8054f1af8e5eb5629d4cb19326515cf2b9fd130ae24fd2",
+      "entries": 17,
+      "low": 6
+    },
+    {
+      "page": 304,
+      "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0304.json",
+      "sealed_sha256": "3e05f51cc3d336c2cda93a08a48516f7265241067ac2ea7184b5fde48a1791db",
+      "candidate_path": "codex_M6_preview/pilot_gloss_v3_p0304.json",
+      "candidate_sha256": "e38bf1cac437c1d3d9a2d988387b8ce166b6fc975cf86ea2cc946ec0e22ccd8f",
+      "entries": 19,
+      "low": 8
+    },
+    {
+      "page": 305,
+      "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0305.json",
+      "sealed_sha256": "0627ccb2ae90a9befea41973292827406758826d982a3b16cce33f0414d4e351",
+      "candidate_path": "codex_M6_preview/pilot_gloss_v3_p0305.json",
+      "candidate_sha256": "b41be266ac08446b2c76624da6f8d165046101725834d2ef89ce83bd21175510",
+      "entries": 22,
+      "low": 12
+    },
+    {
+      "page": 306,
+      "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0306.json",
+      "sealed_sha256": "7b910d2e5ff972d07d84d41694effe20e0199c301f5ed05d0b7247000f8421cf",
+      "candidate_path": "codex_M6_preview/pilot_gloss_v3_p0306.json",
+      "candidate_sha256": "9a675a9f81e4a8f56e2872e59cbbf06de1b2f5492488670dc7f04efa65bedf61",
+      "entries": 23,
+      "low": 10
+    },
+    {
+      "page": 307,
+      "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0307.json",
+      "sealed_sha256": "5cc8f8bef33e69d13b62a6f2f4440a554b63df90389cde2e6b7c42d1d26594e3",
+      "candidate_path": "codex_M6_preview/pilot_gloss_v3_p0307.json",
+      "candidate_sha256": "f6b6614015f20e47c58943b96eafcee9bc096d9e1cef73d30730945de135aa19",
+      "entries": 21,
+      "low": 8
+    }
+  ],
+  "limits": "预览不进入正式 v3；相应封存一旦改变须重新生成；字面准确性不由本试点证明。"
+}

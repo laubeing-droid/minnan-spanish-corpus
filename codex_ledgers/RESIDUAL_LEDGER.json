@@ -1,7 +1,7 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-18T06:50:07.515686+00:00",
-  "git_head_at_snapshot": "f698a0e51db9acd2d25aba8bb2e857bc5fb0adf5",
+  "snapshot_utc": "2026-11-18T10:09:40.971884+00:00",
+  "git_head_at_snapshot": "6879cc97c6556f9bcdab5231583b13362e3707af",
   "protocol": "CODEX_RESIDUAL_LEDGER_IN_PROGRESS_V1",
   "scope": "交接时点尚待处理的裁决、校准、复核、互证与释义事项；跨模块计数可重叠，不得简单相加。",
   "sources": {
@@ -31,7 +31,7 @@
     },
     "m4": {
       "path": "codex_progress_M4.md",
-      "sha256": "9fda9759cab8f6859c4061341da4a5d2482a6c2a4ff64ceea5b420fe7ec502f5"
+      "sha256": "26b89cd5daed19caf2ebeba3446d6a6efee6af933ca205965cb1de7268fe4715"
     },
     "m5": {
       "path": "codex_M5_preview/summary.json",
@@ -87,7 +87,7 @@
     },
     "m4_literature": {
       "path": "codex_M4_literature_candidates.md",
-      "sha256": "9bd9c8046950d2a560dbeec7541845e2120e5a8bfa3a5a2ee1c38295707c4647"
+      "sha256": "2eb432aa39a3c30b12b4ba28b66642faff8e041073f233acbce5b5b73e77e18e"
     },
     "m6_nonblind_fix": {
       "path": "codex_M6_preview/nonblind_gloss_fix_receipt.json",
@@ -172,6 +172,18 @@
     "m6_nonblind_fix_12": {
       "path": "codex_M6_preview/nonblind_gloss_fix_receipt_12.json",
       "sha256": "483d035b23c777e89a3791a4efa068979ddd38d5155637feed2ae1771b6dfe43"
+    },
+    "m6_v3_pilot_report": {
+      "path": "codex_M6_v3_pilot_report.md",
+      "sha256": "d49867d93381373749a8ef4be0fc750a0c169ee680b5ce325817add3ccae7a0b"
+    },
+    "m6_v3_pilot_initial_receipt": {
+      "path": "codex_M6_preview/pilot_gloss_v3_initial_receipt.json",
+      "sha256": "fe213511bc623f9fb65f9a1373f661aa1f0f52255ef4c80ce2229b0dc2413682"
+    },
+    "m6_v3_pilot_review_ledger": {
+      "path": "codex_M6_preview/pilot_gloss_v3_review_ledger.json",
+      "sha256": "7ea8257096c460de9c4ef268843d1a1703f466201913a92bcd39d3a33dd82ade"
     }
   },
   "m0": {
@@ -7418,7 +7430,9 @@
     "located_user_attested_lines_in_project_record": 2,
     "original_human_receipt": "尚未找到；其他8行缺失",
     "literature_candidate_rows": 15,
-    "literature_candidate_limit": "论文可能规范化异体，存在页码疑点和窄图截字；尚非十行逐笔真值"
+    "literature_candidate_limit": "论文可能规范化异体，存在页码疑点和窄图截字；尚非十行逐笔真值",
+    "literature_candidate_boxes": 9,
+    "literature_candidate_box_limit": "论文与原图的非盲候选，未完成十行逐笔验真；p0086 笔画粘连、p1029 字形冲突不为凑题数纳入。"
   },
   "m5": {
     "fill_count": 0,
@@ -8360,6 +8374,15 @@
         "codex_M6_preview/nonblind_gloss_fix_receipt_12.json"
       ],
       "v2_synchronized": false
+    },
+    "v3_pilot_preview": {
+      "pages": 5,
+      "entries": 102,
+      "initial_semantic_review": "FAIL",
+      "reported_issues_rechecked": "PASS",
+      "low_after_review": 53,
+      "status": "预览；不纳入正式 v3 页数。",
+      "report": "codex_M6_v3_pilot_report.md"
     }
   },
   "update_protocol": "每次以正式裁决账、实际成功重封账和互证到账结果刷新本快照；保留采样时间及源版本，不用多个重叠统计求和。",
