@@ -1,0 +1,63 @@
+{
+  "status": "ALIGNED_TO_EXISTING_SEALED_BASELINE",
+  "reason": "修复器发现既存 raw 经净化后与封存同源但字段不完全一致；以用户指定的封存现值为基准，仅对齐差异后重跑原修复管线。旧 raw 可由所记 Git 版本重取；不改封存。",
+  "temporary_backup": "C:\\Users\\being\\AppData\\Local\\Temp\\codex_batch04_raw_mgybfpd1",
+  "pages": [
+    {
+      "page": 246,
+      "raw": "literature/workspace_m2_dhs834/raw_blind/raw_part_p0246.json",
+      "old_raw_sha256": "6d57f234c0133db392776053bfc83a20338315be8ccea2685ce240a65cd84e84",
+      "aligned_raw_sha256": "0b4f1297029c1600ed9a73dc2256709fa2a752f7bdae7e0e0a3644c600a56b77",
+      "sealed_sha256": "7703c58e5ecccb2cce3edc7dec096215017cb31f2cba50c16210f5013d8f1c24",
+      "git_head_preserving_old_raw": "888de5d89f27aaacbe13d8ab850302e0ccaf2ad8",
+      "changes": [
+        {
+          "position": 12,
+          "field": "source_M",
+          "old_raw": "chīok.",
+          "aligned_to_sealed": "chīoc."
+        },
+        {
+          "position": 18,
+          "field": "source_M",
+          "old_raw": "chȳ chīok.",
+          "aligned_to_sealed": "chȳ chīoc."
+        }
+      ]
+    },
+    {
+      "page": 247,
+      "raw": "literature/workspace_m2_dhs834/raw_blind/raw_part_p0247.json",
+      "old_raw_sha256": "d00950d0ad8329b6833b68830bb345ebd8e033b723deba72857effabe34b4873",
+      "aligned_raw_sha256": "8fe89132548f915e3b87145523fd8843d1c066bd99a8cd59aa0520c484741287",
+      "sealed_sha256": "e35ffd2ea6e29ae23ac8c90cc1c6d6334a4cc97da614e347227aaf4fb5fae981",
+      "git_head_preserving_old_raw": "888de5d89f27aaacbe13d8ab850302e0ccaf2ad8",
+      "changes": [
+        {
+          "position": 12,
+          "field": "source_M",
+          "old_raw": "iāⁿ chē.",
+          "aligned_to_sealed": "iā̃ chē."
+        },
+        {
+          "position": 17,
+          "field": "source_M",
+          "old_raw": "uyⁿ",
+          "aligned_to_sealed": "uỹ"
+        },
+        {
+          "position": 18,
+          "field": "source_M",
+          "old_raw": "x it ūyⁿ cou.",
+          "aligned_to_sealed": "x it ūỹ cou."
+        },
+        {
+          "position": 19,
+          "field": "source_M",
+          "old_raw": "guē ūyⁿ cou.",
+          "aligned_to_sealed": "guē ūỹ cou."
+        }
+      ]
+    }
+  ]
+}

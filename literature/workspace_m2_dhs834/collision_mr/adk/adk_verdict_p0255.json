@@ -1,0 +1,230 @@
+{
+  "protocol": "ADK_VERDICT_V1",
+  "page": 255,
+  "actor": "Codex 子代理",
+  "actor_id": "/root/adk_batch04_a",
+  "method": "对照 v1/rr 的原图裁决，非独立盲读",
+  "verdicts": [
+    {
+      "position": 2,
+      "field": "M",
+      "v1": "xiēn",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第2行 M 词身可辨 xien，尾部上方有横画，但横画跨在 e/n 附近，无法确认只附 e。"
+    },
+    {
+      "position": 3,
+      "field": "M",
+      "v1": "xiēn",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第3行 M 词身可辨 xien，尾部上方有横画，横画与 e/n 的精确归属待核。"
+    },
+    {
+      "position": 4,
+      "field": "M",
+      "v1": "xiēn",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第4行 M 词身可辨 xien，尾部上方有横画，横画与 e/n 的精确归属待核。"
+    },
+    {
+      "position": 16,
+      "field": "M",
+      "v1": "s",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第16行 M 首词为长 s 形笔后接 e，其上方有多个小笔画；不能截作独立 s。"
+    },
+    {
+      "position": 17,
+      "field": "M",
+      "v1": "s",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第17行 M 首词为长 s 形笔后接 e 并有上置小字，不是独立 s。"
+    },
+    {
+      "position": 1,
+      "field": "R",
+      "v1": "pit",
+      "rr": "",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第1行 R 的局部词是 pīt，i 上方横画清楚；v1 pit 未记录横画。完整墨迹 pīt。",
+      "ink": "pīt"
+    },
+    {
+      "position": 4,
+      "field": "R",
+      "v1": "pit",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第4行 R 第二词字母可辨 pit，确有 t 韵尾；i 上方另有点和弯曲横画，其是横调还是波形及精确归属不能确认，故撤去完整 ink。"
+    },
+    {
+      "position": 3,
+      "field": "M",
+      "v1": "cuat xiēn.",
+      "rr": "cuān xiēn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第3行 M 首词末笔与纸面划痕相接，上方有重墨；t/n 及首词调号不能可靠分开。"
+    },
+    {
+      "position": 3,
+      "field": "R",
+      "v1": "guie xiên",
+      "rr": "quie xiên",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第3行 R 第一词为 gui-e 连写，第二词 xiên；第一词上有横画而 v1 未记录。"
+    },
+    {
+      "position": 5,
+      "field": "M",
+      "v1": "tic tic.",
+      "rr": "tēt tēt",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第5行 M 两个重复词上方均有重墨改写，词尾下伸；元音和末字不能据此选定。"
+    },
+    {
+      "position": 5,
+      "field": "R",
+      "v1": "tī tī: tī tī",
+      "rr": "tȳ tȳ : tȳ tȳ",
+      "verdict": "墨迹不明",
+      "letters": "rr",
+      "tone_mark": "存疑",
+      "note": "第5行 R 为四个 t+y 形重复词，前两次上方是横画，后两次上方是折画；候选把标记处理相同。"
+    },
+    {
+      "position": 6,
+      "field": "R",
+      "v1": "sī sī",
+      "rr": "sȳ sȳ",
+      "verdict": "墨迹不明",
+      "letters": "rr",
+      "tone_mark": "存疑",
+      "note": "第6行 R 两个词的末字均有 y 的下伸笔，且各有横画和点；点与调号归属须核。"
+    },
+    {
+      "position": 7,
+      "field": "M",
+      "v1": "sog sin: [疑:sog/siog]",
+      "rr": "sog sîn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第7行 M 第一词首部及上方被重墨覆盖，第二词上方也有粗重折画；不能排除额外字母。"
+    },
+    {
+      "position": 7,
+      "field": "R",
+      "v1": "zog siên",
+      "rr": "zōg xiēn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第7行 R 首词为下伸 z 形，次词的首字是长笔并与后字相连；第二词首字及折画须核。"
+    },
+    {
+      "position": 8,
+      "field": "M",
+      "v1": "lēng [疑:lēng/bēng]",
+      "rr": "lēng",
+      "verdict": "墨迹不明",
+      "letters": "等价",
+      "tone_mark": "存疑",
+      "note": "第8行 M 词身为 leng，首笔长回环而非 b；两候选正文相同，但尾部上方横画的元音归属待核。"
+    },
+    {
+      "position": 9,
+      "field": "R",
+      "v1": "tīng",
+      "rr": "kēng",
+      "verdict": "墨迹不明",
+      "letters": "rr",
+      "tone_mark": "存疑",
+      "note": "第9行 R 字母呈 keng 而非 ting，尾部上方有横画，但其与 e 的精确归属待核。"
+    },
+    {
+      "position": 10,
+      "field": "R",
+      "v1": "guien jia",
+      "rr": "guiēn sȳ",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第10行 R 第一词上方折画，第二词末端浓墨并有点、横画；首字与元音不能完整分辨。"
+    },
+    {
+      "position": 13,
+      "field": "R",
+      "v1": "tong tou",
+      "rr": "thong thèu",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第13行 R 两词上方都叠有折画和小 c，首词首字及后词末笔无法可靠核定。"
+    },
+    {
+      "position": 14,
+      "field": "M",
+      "v1": "loc",
+      "rr": "lo̍k",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第14行 M 为 l-o 后接带下伸环的末笔，上方有折画；c/k 及该标记处理须核。"
+    },
+    {
+      "position": 16,
+      "field": "M",
+      "v1": "sẽ",
+      "rr": "séng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第16行 M 字身为长 s 形与 e，上方有两个小笔画，其中可能包含小 n；不能把 tilde 和 ng 当作同一墨迹。"
+    },
+    {
+      "position": 17,
+      "field": "M",
+      "v1": "sẽ sia",
+      "rr": "séng sià",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第17行 M 首词上有小 n 形画，第二词上有斜画；首词上标与末字及第二词调号均须核。"
+    },
+    {
+      "position": 17,
+      "field": "R",
+      "v1": "seng sia",
+      "rr": "séng siè",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第17行 R 两词均有斜画，第一词末尾下伸；两个斜画的具体元音归属与方向须核。"
+    }
+  ]
+}

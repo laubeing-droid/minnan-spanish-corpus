@@ -1,0 +1,85 @@
+{
+  "page": 256,
+  "review_type": "NONBLIND_FOLLOWUP",
+  "scope": "仅复核上轮第 2、12 条确定性问题，第 1、13、14、15 条新增词典候选，以及第 9 条与最新封存及修复回执的同步；不代表本次重新复核全页或独立盲读。",
+  "candidate_path": "codex_M6_preview/batch04_refresh_p0256.json",
+  "candidate_sha256": "b30ad574480eb398326f515afdd0e0ddce8549383803182c4b0538f47484f32c",
+  "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0256.json",
+  "sealed_sha256": "4f87ba5e70aba347391a21f16c04d2889b8f22e99dd225fc8d84a9c6ac731a6f",
+  "previous_review_path": "codex_M6_preview/batch04_review_p0256.json",
+  "previous_review_sha256": "e6084e0210378401b67141a0a414af31ae0b597e68f1d5ecda38df213fcb1417",
+  "seal_receipt_path": "codex_M1_batch04_seal_receipt_initial.json",
+  "seal_receipt_sha256": "4e0c1ddbd4852c996c5d28ab107b393cd3d6883a076fc4ac26c51bf5219b4e66",
+  "positions_reviewed": [
+    1,
+    2,
+    9,
+    12,
+    13,
+    14,
+    15
+  ],
+  "result": "PASS",
+  "issues": [],
+  "entry_reviews": [
+    {
+      "position": 1,
+      "result": "PASS",
+      "finding": "notes 将鸣叫作为 Canta 可为 cantar 变位时的可能义，并保留词性、断句、与前文关系及 H 三字之疑；未断言本蝉实际鸣叫。",
+      "reference_check": "RAE cantar 包含动物鸣叫义及 canta 变位；只能支持一般词义和形式，不能确定本条断句。",
+      "reference": "https://dle.rae.es/cantar"
+    },
+    {
+      "position": 2,
+      "result": "PASS",
+      "finding": "两语都把吃 oraya 限定为可能解释，保留缩写、句法、对象及栏间对应待核；H 螳与 L 中国蝉分列。"
+    },
+    {
+      "position": 9,
+      "result": "PASS",
+      "finding": "候选 notes 的 R 为 mà lē tū，H 为 馬 勒 肚，L 为 cincha de caballo，与当前封存的三个字面字段完全一致；R 亦与本批修复回执 new 一致。"
+    },
+    {
+      "position": 12,
+      "result": "PASS",
+      "finding": "两语只列 Cingulo、paño 与 ÿ，不再把 ÿ 译为确定的“和”；主释及 notes 分别保留其作用、al roño 和栏间对应未定。"
+    },
+    {
+      "position": 13,
+      "result": "PASS",
+      "finding": "仅在断作 o liga 的条件下列出现代词典可能义，明确断词和历史义待核；未把袜带写成确定主释。",
+      "reference_check": "RAE liga 包含袜带及束带类义，不能证明 oliga 在本条确应如此断词或确定历史义。",
+      "reference": "https://dle.rae.es/liga"
+    },
+    {
+      "position": 14,
+      "result": "PASS",
+      "finding": "弓剑套袋作为现代字典义提出，并明确本条是否取此义及 H/L 对应待核；L 缩写和断词亦保留不确定。",
+      "reference_check": "所引教育部「韜」词条收装弓或刀剑的套子义，未证明本条必取该义。",
+      "reference": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=10163&la=0&powerMode=0"
+    },
+    {
+      "position": 15,
+      "result": "PASS",
+      "finding": "中英文将牛角或玉石装饰的腰带标为词典释义，均说明本条是否取此义及具体形制待核；notes 保留 H/L 对应和音写对应未定。",
+      "reference_check": "所引教育部「角帶」词条确有该释义；该词典义不构成本条实物形制或 H/L 对应的独立证明。",
+      "reference": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=91418&la=0&powerMode=0"
+    }
+  ],
+  "entry_9_update_check": {
+    "field": "source_R",
+    "receipt_old": "mà lē tín",
+    "receipt_new": "mà lē tū",
+    "sealed_R": "mà lē tū",
+    "sealed_H": "馬 勒 肚",
+    "sealed_L": "cincha de caballo",
+    "candidate_notes": "R 栏作「mà lē tū」；H 栏为「馬 勒 肚」，L 栏为「cincha de caballo」。",
+    "matches_seal_and_receipt": true
+  },
+  "limitations": [
+    "本次未独立重读原图，未重新裁定字形、断句或历史义项。",
+    "词典只能支持所标明的一般字义或现代词义，不能直接证明该历史条目实际用法。",
+    "PASS 限定于本次列示位置、当前候选与封存哈希；其他位置沿用上轮复核范围，不代表整书验收。"
+  ],
+  "receipt_relocation_note": "首份单页封存回执保留原字节；先前审阅的引用路径已同步更新。"
+}

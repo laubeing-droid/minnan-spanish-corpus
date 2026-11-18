@@ -1,0 +1,198 @@
+{
+  "page": 247,
+  "review_type": "NONBLIND",
+  "scope": "仅复核本批实际修复影响页 p0247；以最新封存、原主释义与候选逐条比较；非独立盲读、非整书验收。",
+  "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0247.json",
+  "sealed_sha256": "7ed3be189b76e4eff8bc5315ad9e26c916d3c91b00d9cdedccb3fee5377c1767",
+  "original_gloss_path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0247.json",
+  "original_gloss_sha256": "343a89fe6ac85ad54c3e127f4d4734325934d9370377191ad99a3ae3269a3269",
+  "candidate_path": "codex_M6_preview/batch04_refresh_p0247.json",
+  "candidate_sha256": "35ded0351f198df825d86bbd565ce2a0a731ae3d0688730382f75d93eff92a56",
+  "seal_receipt_path": "codex_M1_batch04_seal_receipt.json",
+  "seal_receipt_sha256": "c9187f941e79b2496e79dd38e1da0952dac62fa20b3f71405ddea0eb70d8a05b",
+  "positions_reviewed": 19,
+  "result": "ISSUES_FOUND",
+  "entry_3_update_check": {
+    "field": "source_R",
+    "previous": "bŷ",
+    "receipt_new": "lŷ",
+    "sealed": "lŷ",
+    "candidate_notes": "R 栏作「lŷ」，M 栏作「lȳ.」；L 栏作「cerca; cercar . — — —」。RAE 收 cerca 的围栏与附近义，cercar 的围住义及已废的使靠近义；本条取义与两栏对应待核（https://dle.rae.es/cerca；https://dle.rae.es/cercar）。",
+    "matches_seal_and_receipt": true,
+    "sealed_H": "離",
+    "sealed_M": "lȳ."
+  },
+  "issues": [
+    {
+      "position": 2,
+      "priority": "recommended_revision",
+      "type": "untranslated_source_column",
+      "evidence": "封存 L 为「cerca; cercar.」；候选中、英均只原样列出两个西语词，未给可理解的 L 栏一般词义。",
+      "issue": "原主释虽不宜以确定的围栏义解释 H，但删去两词的一切一般词义后，中英读者无法判断 L 可能表达什么。",
+      "suggestion": "可在中英释义中以条件式列 cerca 的「附近/围栏」和 cercar 的「围住」等一般义，并说明本条义项及 H/L 对应仍待核；第 3 条已有同类表达可参考。",
+      "limitation": "普通词典义不能证明本条词义或确定隔/迫疑字。",
+      "references": [
+        "https://dle.rae.es/cerca",
+        "https://dle.rae.es/cercar"
+      ]
+    },
+    {
+      "position": 6,
+      "priority": "optional",
+      "type": "column_specific_qualifier",
+      "evidence": "H 栏仅为「柵」，L 栏是「cerca de espinas」；候选作「栅；栅栏（荆棘围篱）」和「palisade; fence of thorns」。",
+      "issue": "荆棘限定来自 L，H 单字本身未写出材料；合并表述可能使读者把荆棘当作 H 必有的含义。",
+      "suggestion": "可在两语或 notes 标明 H 泛称栅栏、荆棘来自 L；不必否定 L 的荆棘围篱候选义。",
+      "limitation": "分列语源不能单独证明此条跨栏对应，荆棘的具体植物种类与围篱编法亦未定。"
+    },
+    {
+      "position": 9,
+      "priority": "optional",
+      "type": "qualified_historical_word_sense",
+      "evidence": "封存 H 为「欄截」，L 为「cerca de madera」；原释包含拦阻，候选只保留 H 字面并称其词义待核。",
+      "issue": "候选未保留「欄截」可涉及拦阻这一可验证的历史用法作为参考。",
+      "suggestion": "可在 notes 补充「欄截在其他古文中有拦阻用例；本条是否取此义、是否指木围栏及两栏对应待核」。例如《東坡全集》所收《奏淮南閉糴狀二首》在阻止稻种通行的语境中使用欄截。",
+      "limitation": "异文献用例不能证明本条的名词或动词用法，不能直接定作木栏或构件。",
+      "references": [
+        "https://www.shidianguji.com/zh/book/HY0641/chapter/1knvkejqdixor"
+      ]
+    },
+    {
+      "position": 11,
+      "priority": "recommended_revision",
+      "type": "certainty_mismatch",
+      "evidence": "封存 L 作「cercar a se defender deladroⁿg, y hacer la ¯」；候选主释确定作「围起来以自卫」/「to enclose for self-defense」，同时称断词和符号所指待核。",
+      "issue": "自卫关联可作句义候选，但 L 的具体断词、句法与 cercar 的义项尚未确定；两语的确定句法强于现有证据。",
+      "suggestion": "两语均改为「可能涉及围合与自卫」，或以原短语加条件式说明；继续保留 deladroⁿg 可能涉盗贼及末尾横线所指待核。",
+      "limitation": "RAE 的 cercar 包含围住及已废的靠近义；不能仅据 H「置寨」决定西语句法。",
+      "references": [
+        "https://dle.rae.es/cercar"
+      ]
+    },
+    {
+      "position": 12,
+      "priority": "recommended_revision",
+      "type": "certainty_mismatch",
+      "evidence": "封存 L 作「cerca delos ladrones p sede fender.」；候选 notes 明称 p 展开和 sede fender 断词待核，主释却确定写「有关盗贼和自卫」/「concerning robbers and self-defense」。",
+      "issue": "自卫取决于将 sede fender 断为 se defender 等解释；候选两语没有给该关系加可能性限定。",
+      "suggestion": "两语改为「涉及盗贼，可能涉及自卫；p 的展开、断词、句法和两栏对应待核」；防盗围栅仍仅作为可能。",
+      "limitation": "本次不确定 p 展开、断词、指向或句法，也不据 H 栏反推 L 栏。"
+    },
+    {
+      "position": 17,
+      "priority": "optional",
+      "type": "qualified_dictionary_sense",
+      "evidence": "候选列 H「眩」的一般眼花义和「瞑」的昏暗/闭目义；原释还提及眩目。候选引用的教育部词典同时收「眩」通炫的照耀义。",
+      "issue": "候选未保留一个与旧释眩目相关、可作比较的普通字典义。",
+      "suggestion": "可在 notes 限定为字典参考：眩另有照耀、照亮义；本条是否取此义待核。不可因此确定日光眩目。",
+      "limitation": "一般字义不能证明该历史条义、疑字及两栏对应。",
+      "references": [
+        "https://dict.revised.moe.edu.tw/dictView.jsp?ID=7402&la=0&powerMode=0"
+      ]
+    }
+  ],
+  "entry_reviews": [
+    {
+      "position": 1,
+      "result": "PASS",
+      "finding": "H 止与 L 两词的可能义分列，未把「止」确定为围栏拦阻；现代辞典义与本条待核的边界明确。"
+    },
+    {
+      "position": 2,
+      "result": "REVISE",
+      "finding": "隔/迫疑读、音写及对应保留；L 未译出任何供中英读者理解的一般词义。"
+    },
+    {
+      "position": 3,
+      "result": "PASS",
+      "finding": "R 栏 lŷ 与最新封存、本批回执及候选 notes 一致；L 多义、H 離和栏间对应分列。"
+    },
+    {
+      "position": 4,
+      "result": "PASS",
+      "finding": "圍的围住义与 L cercar 的一般围合义相符；没有补充材料或对象。"
+    },
+    {
+      "position": 5,
+      "result": "PASS",
+      "finding": "H 城与 L 城市围垣/附近分列，L 尾部音写及问号保留待核。"
+    },
+    {
+      "position": 6,
+      "result": "OPTIONAL",
+      "finding": "H 柵泛称与 L 荆棘限定目前合写；可注明限定来源以避免过窄理解 H。"
+    },
+    {
+      "position": 7,
+      "result": "PASS",
+      "finding": "H 寨与 L 涉盗贼、防卫的词面分列；防盗围栅仅为可能，p 展开与句法待核，T99 保留。"
+    },
+    {
+      "position": 8,
+      "result": "PASS",
+      "finding": "枝条或细杆根据 L varas，具体材料与编法在 notes 保留未定，未沿用未经证明的竹制或编织。"
+    },
+    {
+      "position": 9,
+      "result": "OPTIONAL",
+      "finding": "H 欄截与 L 木围栏分列、H 词义待核；可限于外部例句补充栏截有拦阻用例。"
+    },
+    {
+      "position": 10,
+      "result": "PASS",
+      "finding": "H 疑记及附着位置未强断；L 的杆或藤为可能义，o 的择一关系保留；旧写法证据仅作参考。"
+    },
+    {
+      "position": 11,
+      "result": "REVISE",
+      "finding": "H 置寨与 L 已分列；围合自卫在两语中应保持候选句法的限定。"
+    },
+    {
+      "position": 12,
+      "result": "REVISE",
+      "finding": "H 營寨与 L 分列；自卫依赖未定断词，主释应同步标可能。"
+    },
+    {
+      "position": 13,
+      "result": "PASS",
+      "finding": "H 離笆可能为篱笆，L 两种读法分列；未将離确定为籬的写变。"
+    },
+    {
+      "position": 14,
+      "result": "PASS",
+      "finding": "H 建鱼池与 L 的池塘围栏/附近候选分列，estangue、音调与对应保留待核。"
+    },
+    {
+      "position": 15,
+      "result": "PASS",
+      "finding": "H 露与 L Cerro 分列，山丘作为现代词典义；未将封存 Cerro 强改为 sereno。"
+    },
+    {
+      "position": 16,
+      "result": "PASS",
+      "finding": "H 昏暗和 L 可能日月附近分列，未补成日月接近地平线。"
+    },
+    {
+      "position": 17,
+      "result": "OPTIONAL",
+      "finding": "眩/瞑疑读及两种字义保留；可有条件增加词典所列眩通炫的照耀义。"
+    },
+    {
+      "position": 18,
+      "result": "PASS",
+      "finding": "日圓箍可能日晕，L 可能太阳附近，引用的现代用例及历史适用范围已限定。"
+    },
+    {
+      "position": 19,
+      "result": "PASS",
+      "finding": "月圓箍可能月晕，L 可能月亮附近；月圍箍字典义与原写法是否同词留待核。"
+    }
+  ],
+  "review_notes": [
+    "recommended_revision 涉及漏掉 L 栏可理解词义或主释义确定性高于材料；optional 为更明确的栏间来源或条件式参考。",
+    "PASS 仅表示本次针对所列范围未发现具体问题，不表示历史用义或栏间对应已获独立裁定。",
+    "外部词典与异文献例句仅支持所标一般词义或比较用法，不能直接证明本条历史语义。",
+    "本次未重读原图；第 3 条只核对修复回执、最新封存与候选注记，不代表独立视觉复核。",
+    "复核绑定所列哈希；封存、主释或候选有变动时应针对变化重新核对。"
+  ]
+}

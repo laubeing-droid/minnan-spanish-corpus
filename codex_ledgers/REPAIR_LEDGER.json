@@ -1,13 +1,13 @@
 {
   "status": "IN_PROGRESS",
-  "snapshot_utc": "2026-11-18T19:25:28.954957+00:00",
-  "git_head_at_snapshot": "89722a1252f7daae9e9dc04bb4df392990e16a89",
+  "snapshot_utc": "2026-11-18T20:13:52.331317+00:00",
+  "git_head_at_snapshot": "888de5d89f27aaacbe13d8ab850302e0ccaf2ad8",
   "protocol": "CODEX_REPAIR_LEDGER_IN_PROGRESS_V1",
   "scope": "本次接手及其复核范围的 M2 字面修复，不等同于全库历史修改史。",
   "sources": {
     "adjudication": {
       "path": "literature/workspace_m2_dhs834/collision_mr/ADK_ADJUDICATION_LEDGER.json",
-      "sha256": "ce674e6128b16dc1190196ac7315632e9accb4062f526b75a197162c0967b728"
+      "sha256": "f4cca47dc7036d4b0313f160472bb9c0e8ea236f4c55bd3dedf34837bbd1d6f5"
     },
     "historical_batch_a_v4": {
       "path": "literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_V4.json",
@@ -76,6 +76,50 @@
     "batch_0223_0242_seal": {
       "path": "codex_M1_batch03_seal_receipt.json",
       "sha256": "29eba7d9b3da38009958bf8f206146c9d7e4a8e2335c1009727d93b74e8887b7"
+    },
+    "batch_0243_0262": {
+      "path": "literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_0243_0262_20261118T194938228166Z.json",
+      "sha256": "9c48026d3ab6b733bfea5c2f494e8df07041358185b9dc0ccbab7ecea8af1efd"
+    },
+    "batch_0246_0247_retry": {
+      "path": "literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_0246_0247_20261118T195839391902Z.json",
+      "sha256": "256e9dbad9b99f0fd74853d05b6d8f2f2390e4c78dc6277c1b5aaf9402a29167"
+    },
+    "batch_0243_0262_seal": {
+      "path": "codex_M1_batch04_seal_receipt.json",
+      "sha256": "c9187f941e79b2496e79dd38e1da0952dac62fa20b3f71405ddea0eb70d8a05b"
+    },
+    "batch_0243_0262_initial_seal": {
+      "path": "codex_M1_batch04_seal_receipt_initial.json",
+      "sha256": "4e0c1ddbd4852c996c5d28ab107b393cd3d6883a076fc4ac26c51bf5219b4e66"
+    },
+    "batch_0243_0262_alignment": {
+      "path": "codex_M1_batch04_raw_alignment.json",
+      "sha256": "40e2b2dca3436219f44d2c0b59dfc45fa206ad6acd32efd94db5f7728be7e71f"
+    },
+    "batch_0243_0262_gloss": {
+      "path": "codex_M6_preview/batch04_gloss_refresh_receipt.json",
+      "sha256": "68ab0887560cb6e6d0b0e19f5aaec36b39bd8c0b1f3fa5d45dc32cae3c6def17"
+    },
+    "batch_0243_0262_audit_ca": {
+      "path": "codex_M1_batch04_audit_ca.json",
+      "sha256": "e2ec229dacca96c44a0b3ca72b8b8b5b690500f04203d36c9814aa7f7a2c7154"
+    },
+    "batch_0243_0262_audit_ab": {
+      "path": "codex_M1_batch04_audit_ab.json",
+      "sha256": "ec492520602280c334c1b80777bd97d2cacd13b085f79e591145376886036256"
+    },
+    "batch_0243_0262_audit_b": {
+      "path": "codex_M1_batch04_audit_b.json",
+      "sha256": "21ba3bc3420121adc5e5bbc68e717697a651c0d0b40478f214dc6525de031d19"
+    },
+    "batch_0243_0262_audit_final": {
+      "path": "codex_M1_batch04_audit_final.json",
+      "sha256": "8e9aa0e328c9bf43aa3763be7582dbe32bdac6f4aa47e6c4441f4f0f0e4d22b0"
+    },
+    "batch_0243_0262_corrections": {
+      "path": "codex_M1_batch04_audit_corrections.json",
+      "sha256": "57a860042739af9e262f5b297c42541036df62467992fa2f8d698be5ba9365df"
     }
   },
   "current_campaign_formal_literal_repairs": [
@@ -249,9 +293,66 @@
         }
       },
       "sealed_sha256": "44ddfe99bfabc187eee32da433d7ff1328af5a25c2d47e2af131dcea7a015932"
+    },
+    {
+      "page": 246,
+      "position": 16,
+      "field": "source_R",
+      "old": "chȳ guīn.",
+      "new": "chī guīn",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+        "index": 18,
+        "position": 16,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "rr",
+          "tone_mark": "一致"
+        }
+      },
+      "sealed_sha256": "073659763e5cce789b595a76e2b9eedf554023de772aa87012abfa2017c66082"
+    },
+    {
+      "page": 247,
+      "position": 3,
+      "field": "source_R",
+      "old": "bŷ",
+      "new": "lŷ",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+        "index": 11,
+        "position": 3,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "rr",
+          "tone_mark": "一致"
+        }
+      },
+      "sealed_sha256": "7ed3be189b76e4eff8bc5315ad9e26c916d3c91b00d9cdedccb3fee5377c1767"
+    },
+    {
+      "page": 256,
+      "position": 9,
+      "field": "source_R",
+      "old": "mà lē tín",
+      "new": "mà lē tū",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0256.json",
+        "index": 14,
+        "position": 9,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "rr",
+          "tone_mark": "一致"
+        }
+      },
+      "sealed_sha256": "4f87ba5e70aba347391a21f16c04d2889b8f22e99dd225fc8d84a9c6ac731a6f"
     }
   ],
-  "current_campaign_formal_literal_repairs_count": 9,
+  "current_campaign_formal_literal_repairs_count": 12,
   "historical_reported_applied": {
     "declared_count": 100,
     "declared_pages": 51,
@@ -2002,7 +2103,7 @@
   "tool_safeguards": {
     "modifier_equal_soup": "已实施；五页隔离重放10项转待核",
     "sanitizer_and_unexpected_field_changes": "已实施；p0146隔离全链通过、p0181隔离延迟",
-    "formal_literal_repairs_after_safeguards": 9,
+    "formal_literal_repairs_after_safeguards": 12,
     "rollback": "只用原 raw→commit；隔离故障注入后旧 sealed/清册/基线摘要一致；单写者条件",
     "sealed_pages_replay_preflight": {
       "exact": 1062,

@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "page": 247,
+      "index_1based": 11,
+      "candidate": "lŷ",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0247/pdf_0247_band_y0_top.png",
+      "bbox_xyxy": [
+        1510,
+        690,
+        1690,
+        860
+      ],
+      "reason": "第3行右栏独立词由上伸回环 l 和下伸 y 相连，y 上方有尖折；词内无其他可见字母或上置小字。候选 lŷ 的字母、词界及标记与该墨迹对应。"
+    },
+    {
+      "page": 256,
+      "index_1based": 14,
+      "candidate": "mà lē tū",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0256/pdf_0256_band_y1_mid.png",
+      "bbox_xyxy": [
+        1610,
+        600,
+        1940,
+        790
+      ],
+      "reason": "第9行右栏为连续三词 ma、le、tu；第一词上有向右下斜画，后两词各有横画，未见额外上置小字或第三词额外字母。候选 mà lē tū 与词段和标记对应。"
+    }
+  ]
+}

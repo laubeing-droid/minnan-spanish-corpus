@@ -1,0 +1,209 @@
+{
+  "protocol": "ADK_VERDICT_V1",
+  "page": 256,
+  "actor": "Codex 子代理",
+  "actor_id": "adk_batch04_b",
+  "method": "对照 v1/rr 的原图裁决，非独立盲读",
+  "verdicts": [
+    {
+      "position": 1,
+      "field": "M",
+      "v1": "ám gìn chūn",
+      "rr": "am pû chûn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第 1 行 M 栏 am 后的词以 p 起，元音连笔似 pou，和两候选均有差别；末词上方横笔仍需对位。"
+    },
+    {
+      "position": 1,
+      "field": "R",
+      "v1": "ngán pîn chûn",
+      "rr": "ngân pû chûn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第 1 行右栏可辨 ngan pu chun；中词上方折笔之外还有小 c，不能仅凭字母判整串。 上置小字是否计入字母及其归属待核。"
+    },
+    {
+      "position": 2,
+      "field": "M",
+      "v1": "tāng",
+      "rr": "sōng",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第 2 行 M 栏完整字母为 Tong，首字为大写 T、元音 o、尾 ng；上方一横的位置需核。"
+    },
+    {
+      "position": 3,
+      "field": "R",
+      "v1": "tông lông",
+      "rr": "tâng lâng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第 3 行右栏为 tang lang，首词尖折旁有小 c，不能把两词只按字母判全对。 上置小字是否计入字母及其归属待核。"
+    },
+    {
+      "position": 4,
+      "field": "M",
+      "v1": "chūi gō",
+      "rr": "chûi yó",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第 4 行 M 栏首词末笔下伸近 y，次词起笔有回环；与 chui 的字母对应尚需核，上方粗笔也未定。"
+    },
+    {
+      "position": 4,
+      "field": "R",
+      "v1": "zūi ngô",
+      "rr": "chùi ngô",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第 4 行右栏首笔为 z 形，后为 ui，次词 ngo；首词上方斜笔与点的关系待核。"
+    },
+    {
+      "position": 5,
+      "field": "M",
+      "v1": "gín",
+      "rr": "gỹ",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第 5 行 M 栏完整字母为 guy：g 后接 u 和下伸 y；上方斜笔承载位置未定。"
+    },
+    {
+      "position": 5,
+      "field": "R",
+      "v1": "gǐin",
+      "rr": "gủi",
+      "verdict": "墨迹不明",
+      "letters": "rr",
+      "tone_mark": "存疑",
+      "note": "第 5 行右栏为 gui，尾为 i 的点，u/i 上方有折笔；不是 V1 的 giin 字母形。"
+    },
+    {
+      "position": 6,
+      "field": "M",
+      "v1": "chiō gín.",
+      "rr": "chiôⁿ gỹ",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第 6 行 M 栏完整字母为 chio guy，第二词有 u 和下伸 y；首词上方横笔旁另有数字形小字。"
+    },
+    {
+      "position": 6,
+      "field": "R",
+      "v1": "châng gǐn",
+      "rr": "pchâng gủi",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第 6 行右栏 chang 前有一处贴近竖线的浓墨，是否独立 p 不明；后词为 gui 形。"
+    },
+    {
+      "position": 7,
+      "field": "M",
+      "v1": "tēy gín.",
+      "rr": "tek gỹ",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第 7 行 M 栏完整字母为 tey guy；第一词上方有粗曲笔，第二词上方有斜笔。"
+    },
+    {
+      "position": 7,
+      "field": "R",
+      "v1": "tǐ gǐn",
+      "rr": "tī gủi",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第 7 行右栏可见完整字母 ty gui：首词尾笔下伸，后词有 u 和 i；调号与字母位置需再核。"
+    },
+    {
+      "position": 9,
+      "field": "M",
+      "v1": "bè lég tôu",
+      "rr": "bê lég fūi",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第 9 行 M 栏可辨 be leg tou，末词上方有粗黑重笔，调号无法确认。"
+    },
+    {
+      "position": 9,
+      "field": "R",
+      "v1": "mà lē tín",
+      "rr": "mà lē tū",
+      "verdict": "重读对",
+      "letters": "rr",
+      "tone_mark": "一致",
+      "note": "第 9 行右栏写 ma le tu；第一词斜笔、后两词横笔与重读对应。"
+    },
+    {
+      "position": 10,
+      "field": "M",
+      "v1": "gǒu: ngǒu: pram.",
+      "rr": "gōu: ngōu. pnam.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第 10 行 M 栏 gou、ngou 后 pram 跨越分栏线；第二词上方有额外小 n，归属及调号待核。"
+    },
+    {
+      "position": 10,
+      "field": "R",
+      "v1": "ngǐn",
+      "rr": "ngǔ",
+      "verdict": "墨迹不明",
+      "letters": "rr",
+      "tone_mark": "存疑",
+      "note": "第 10 行右栏可辨 ngu，原图 u 上为斜笔，重读所写折号与其形状尚不一致。"
+    },
+    {
+      "position": 12,
+      "field": "M",
+      "v1": "hǎn guín",
+      "rr": "kan gǔn",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "复核第 12 行 M 栏：主体可辨 han guin，第一词折笔偏向尾部，第二词斜笔跨 i/n 上方；标记具体落点不能可靠锁定。"
+    },
+    {
+      "position": 15,
+      "field": "M",
+      "v1": "cǎg hôa",
+      "rr": "caq tòa",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第 15 行 M 栏为 cag hoa 形，首词末笔有下伸环；两处上方粗墨遮盖折笔细节。"
+    },
+    {
+      "position": 17,
+      "field": "M",
+      "v1": "sīn quy.",
+      "rr": "sīn gǔy",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第 17 行 M 栏首词有下伸 y 及上置 n 形小字；次词和两处顶部重墨使完整字母未能锁定。"
+    },
+    {
+      "position": 17,
+      "field": "R",
+      "v1": "sīn tāy",
+      "rr": "sīn kūy",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "复核第 17 行右栏：主体可辨 sin tay，但首词横笔在 i 点与 n 上方交界，次词横笔靠近 a/y，精确归属待核。"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "page": 247,
+  "review_type": "NONBLIND_FOLLOWUP",
+  "scope": "仅复核上轮第 2、11、12 条必改问题，第 6、9、17 条补充说明，以及第 3 条 R 与最新封存和修复回执的同步；不代表本轮重审全页或独立盲读。",
+  "candidate_path": "codex_M6_preview/batch04_refresh_p0247.json",
+  "candidate_sha256": "29f1ec68cc3de95462990927d45fa91c8929de6379b879ba5fba139d030c8bc9",
+  "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0247.json",
+  "sealed_sha256": "7ed3be189b76e4eff8bc5315ad9e26c916d3c91b00d9cdedccb3fee5377c1767",
+  "previous_review_path": "codex_M6_preview/batch04_review_p0247.json",
+  "previous_review_sha256": "4d0037e3b65e6b38123a36ed2fa04ccbe32bdae8dacb887a04e3a29dc63c2f79",
+  "seal_receipt_path": "codex_M1_batch04_seal_receipt.json",
+  "seal_receipt_sha256": "c9187f941e79b2496e79dd38e1da0952dac62fa20b3f71405ddea0eb70d8a05b",
+  "positions_reviewed": [
+    2,
+    3,
+    6,
+    9,
+    11,
+    12,
+    17
+  ],
+  "result": "PASS",
+  "issues": [],
+  "entry_reviews": [
+    {
+      "position": 2,
+      "result": "PASS",
+      "finding": "中英文补列 cerca 的围栏与附近义、cercar 的围住义；隔/迫疑读、L 取义及跨栏对应均待核。",
+      "reference_check": "RAE 收 cerca 的围栏义和附近义、cercar 的围住义；一般词义不能确定本条用法。",
+      "references": [
+        "https://dle.rae.es/cerca",
+        "https://dle.rae.es/cercar"
+      ]
+    },
+    {
+      "position": 3,
+      "result": "PASS",
+      "finding": "候选 notes 的 R「lŷ」与当前封存及修复回执一致；M「lȳ.」亦与封存一致。"
+    },
+    {
+      "position": 6,
+      "result": "PASS",
+      "finding": "两语将 H 栏柵与 L 栏可能的荆棘围篱分列；notes 明确荆棘限定来自 L，植物种类、编法及栏间对应待核。"
+    },
+    {
+      "position": 9,
+      "result": "PASS",
+      "finding": "候选以《奏淮南閉糴狀二首》作为其他文献中欄截用例，明确本条词性、词义及两栏对应待核；未用该例断定本条为木栏。",
+      "reference_check": "《東坡全集》第六十卷所收该篇有稻种被栏住、不得过淮河及「欄截稻種」的语境；该材料支持作拦阻的异文献用例，不能证明本条用法。",
+      "references": [
+        "https://www.shidianguji.com/zh/book/HY0641/chapter/1knvkejqdixor"
+      ]
+    },
+    {
+      "position": 11,
+      "result": "PASS",
+      "finding": "两语均将围合、自卫、盗贼和「y hacer la ¯」解释写为可能，断词、句法、横线所指和对应待核。"
+    },
+    {
+      "position": 12,
+      "result": "PASS",
+      "finding": "L 的 ladrones 保留为盗贼，涉及自卫及防盗围栅均用可能表述；p 展开与 sede fender 断词、句法和栏间对应待核。"
+    },
+    {
+      "position": 17,
+      "result": "PASS",
+      "finding": "notes 将「眩」通「炫」的照耀、照亮义作为词典参考，并保留本条是否取该义待核，不据此定为日光眩目。",
+      "reference_check": "教育部《重编国语辞典》「眩」确列通「炫」的照耀、照亮义；「瞑」条收闭目与昏暗义，均不能直接证明本条用法或疑字。",
+      "references": [
+        "https://dict.revised.moe.edu.tw/dictView.jsp?ID=7402&la=0&powerMode=0",
+        "https://dict.revised.moe.edu.tw/dictView.jsp?ID=1451&la=0&powerMode=0"
+      ]
+    }
+  ],
+  "entry_3_update_check": {
+    "field": "source_R",
+    "receipt_old": "bŷ",
+    "receipt_new": "lŷ",
+    "sealed_R": "lŷ",
+    "sealed_M": "lȳ.",
+    "candidate_notes": "R 栏作「lŷ」，M 栏作「lȳ.」；L 栏作「cerca; cercar . — — —」。RAE 收 cerca 的围栏与附近义，cercar 的围住义及已废的使靠近义；本条取义与两栏对应待核（https://dle.rae.es/cerca；https://dle.rae.es/cercar）。",
+    "matches_seal_and_receipt": true
+  },
+  "limitations": [
+    "本次未独立重读原图，也未裁定字形、断句、历史义项或跨栏对应。",
+    "词典和其他文献只能支持所标一般字义或比较用例，不能直接证明本历史条目的实际含义。",
+    "PASS 限定于本次列示位置、当前候选及封存哈希；其余位置沿用上轮复核范围，不代表整书验收。"
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "status": "CANDIDATES_DOWNGRADED",
+  "items": [
+    {
+      "page": 243,
+      "index_1based": 15,
+      "audit": "codex_M1_batch04_audit_ca.json",
+      "old": {
+        "position": 3,
+        "field": "R",
+        "v1": "ṣūn",
+        "rr": "zūn",
+        "verdict": "重读对",
+        "letters": "rr",
+        "tone_mark": "一致",
+        "note": "第3行 R 可辨 zūn，u 上方长横，符合重读；v1 的首字形不同。"
+      },
+      "new": {
+        "position": 3,
+        "field": "R",
+        "v1": "ṣūn",
+        "rr": "zūn",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第3行 R 可辨 zūn，u 上方长横，符合重读；v1 的首字形不同。 五倍图复核：右栏第 3 行首笔呈 z，后段若干弧线连写；横画偏在末段上方，u/n 分界及横画对 u 的归属不能从五倍原图确定。词段仅为该单词，不足以支持完整 zūn。"
+      }
+    },
+    {
+      "page": 246,
+      "index_1based": 11,
+      "audit": "codex_M1_batch04_audit_ca.json",
+      "old": {
+        "position": 6,
+        "field": "R",
+        "v1": "lī̂ [旁注: riaq.]",
+        "rr": "lîn",
+        "verdict": "重读对",
+        "letters": "rr",
+        "tone_mark": "一致",
+        "note": "第6行 R 可见 lîn 及上方折形；栏间另有旁注，重读保留了右栏正文的 n。"
+      },
+      "new": {
+        "position": 6,
+        "field": "R",
+        "v1": "lī̂ [旁注: riaq.]",
+        "rr": "lîn",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第6行 R 可见 lîn 及上方折形；栏间另有旁注，重读保留了右栏正文的 n。 五倍图复核：右栏第 6 行可见 l 与后续连笔，i 点和尖折分开，尖折偏在末笔上方，i/n 分界和尖折是否确属 i 无法确定；中间栏 riaq 旁注与右栏正文分开，不计入目标词段。"
+      }
+    },
+    {
+      "page": 249,
+      "index_1based": 9,
+      "audit": "codex_M1_batch04_audit_ca.json",
+      "old": {
+        "position": 4,
+        "field": "M",
+        "v1": "hû tā.",
+        "rr": "hū fâ.",
+        "verdict": "重读对",
+        "letters": "rr",
+        "tone_mark": "一致",
+        "note": "第4行 M 可见 hū fâ：第一词上方横画，第二词上方折形，首字是 f 形而非 t。"
+      },
+      "new": {
+        "position": 4,
+        "field": "M",
+        "v1": "hû tā.",
+        "rr": "hū fâ.",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第4行 M 可见 hū fâ：第一词上方横画，第二词上方折形，首字是 f 形而非 t。 五倍图复核：M 栏第 4 行有两个词，首词 h-u 上方是横画，次词 a 上方有尖折并有句点；次词起笔为带横穿笔的长竖，与同页相似笔形对照仍不能可靠区分 f/t，不能确认完整 hū fâ。"
+      }
+    },
+    {
+      "page": 252,
+      "index_1based": 7,
+      "audit": "codex_M1_batch04_audit_b.json",
+      "old": {
+        "position": 7,
+        "field": "M",
+        "v1": "chô.",
+        "rr": "zo.",
+        "verdict": "两皆误",
+        "letters": "rr",
+        "tone_mark": "缺失",
+        "note": "第7行 M 是 zô：长下伸 z 形后接 o，o 上方有折形；v1 首字不符，重读漏折形。完整墨迹 zô。",
+        "ink": "zô"
+      },
+      "new": {
+        "position": 7,
+        "field": "M",
+        "v1": "chô.",
+        "rr": "zo.",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第7行 M 是 zô：长下伸 z 形后接 o，o 上方有折形；v1 首字不符，重读漏折形。完整墨迹 zô。 五倍图复核：该行 M 可见带长下伸弯笔的首字和圆形元音，上方有向右延展的折形笔。首字虽接近 z 形，但与长 s 形的界限不能可靠锁定；折笔相对元音偏右且笔画分叉，能否完整记作该元音的独立 ^ 尚不确定。字母和调号任一不确定，不能确认完整拟修复 zô。"
+      }
+    },
+    {
+      "page": 245,
+      "index_1based": 2,
+      "audit": "codex_M1_batch04_audit_b.json",
+      "old": {
+        "position": 2,
+        "field": "M",
+        "v1": "l",
+        "rr": "",
+        "verdict": "V1对",
+        "letters": "V1",
+        "tone_mark": "一致",
+        "note": "第二行 M 栏起笔可见 l；此项只裁该字母，不把它当整词。"
+      },
+      "new": {
+        "position": 2,
+        "field": "M",
+        "v1": "l",
+        "rr": "",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第二行 M 栏起笔可见 l；此项只裁该字母，不把它当整词。 五倍图复核：原图可见长升笔 l 接带下伸笔的 y，词上方有浓横及相交小笔；回执只验证起首 l，而任务的异常标识为韵尾 -l。起首单字母存在不等于确认词尾或整个词段为 l，且上方小笔归属未定，不能将 V1对 扩充为该任务范围内的完整支持。"
+      }
+    },
+    {
+      "page": 248,
+      "index_1based": 3,
+      "audit": "codex_M1_batch04_audit_b.json",
+      "old": {
+        "position": 5,
+        "field": "M",
+        "v1": "aina",
+        "rr": "",
+        "verdict": "V1对",
+        "letters": "V1",
+        "tone_mark": "一致",
+        "note": "第五行 M 栏末尾独立词清见 aina，此项仅裁所给词段。"
+      },
+      "new": {
+        "position": 5,
+        "field": "M",
+        "v1": "aina",
+        "rr": "",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第五行 M 栏末尾独立词清见 aina，此项仅裁所给词段。 五倍图复核：所指词位于前一段 my 右侧，末部似 ina，但开头圆笔之后另有弯折笔，无法排除多出一字母；i 点附近上方另有一墨点，其是否为附标及归属也不清。不能只据部分字形肯定无标记的完整 aina。"
+      }
+    },
+    {
+      "page": 254,
+      "index_1based": 2,
+      "audit": "codex_M1_batch04_audit_b.json",
+      "old": {
+        "position": 12,
+        "field": "R",
+        "v1": "t",
+        "rr": "",
+        "verdict": "V1对",
+        "letters": "V1",
+        "tone_mark": "一致",
+        "note": "第十二行右栏词首可见 t，此项只核 t 字母，不代表该行整词。"
+      },
+      "new": {
+        "position": 12,
+        "field": "R",
+        "v1": "t",
+        "rr": "",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第十二行右栏词首可见 t，此项只核 t 字母，不代表该行整词。 五倍图复核：该行右栏可见 t 形首笔与随后下伸的 y，y 上方有折形；回执只核首笔，任务标识却是韵尾 -t。可见词首 t 不足以证实词尾为 t 或 t 是完整词段，故对该任务范围的 V1对 不予确认。"
+      }
+    },
+    {
+      "page": 260,
+      "index_1based": 4,
+      "audit": "codex_M1_batch04_audit_b.json",
+      "old": {
+        "position": 18,
+        "field": "R",
+        "v1": "t",
+        "rr": "",
+        "verdict": "V1对",
+        "letters": "V1",
+        "tone_mark": "一致",
+        "note": "第十八行右栏首词起笔为 t，此项只核所给字母。"
+      },
+      "new": {
+        "position": 18,
+        "field": "R",
+        "v1": "t",
+        "rr": "",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第十八行右栏首词起笔为 t，此项只核所给字母。 五倍图复核：该行右栏首词是 t 起的连写词，后接明显的 e、n 和下伸 g，并另有下一词；首词上方有折形，次词顶部有重墨。回执只核词首 t，任务标识为韵尾 -t，现图不能支持把词首单字母当作该词尾或完整词段。"
+      }
+    },
+    {
+      "page": 250,
+      "index_1based": 13,
+      "audit": "codex_M1_batch04_audit_final.json",
+      "old": {
+        "position": 7,
+        "field": "R",
+        "v1": "chā hū",
+        "rr": "chî̃ hû",
+        "verdict": "V1对",
+        "letters": "V1",
+        "tone_mark": "一致",
+        "note": "第 7 行右栏写 cha hu，两词元音上均有横笔。"
+      },
+      "new": {
+        "position": 7,
+        "field": "R",
+        "v1": "chā hū",
+        "rr": "chî̃ hû",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第 7 行右栏写 cha hu，两词元音上均有横笔。 五倍图复核：第 7 行 R 栏有两段及两条上横，红色横格线穿过文字基线，第一段末字和第二段末端笔画与线叠在一起；第一词是否完整为 cha、第二词是否止于 hu 不能排除其他连笔，不能确认整条 chā hū。"
+      }
+    },
+    {
+      "page": 252,
+      "index_1based": 1,
+      "audit": "codex_M1_batch04_audit_final.json",
+      "old": {
+        "position": 9,
+        "field": "source_R",
+        "v1": "fūn",
+        "rr": "",
+        "verdict": "两皆误",
+        "letters": "V1",
+        "tone_mark": "存疑",
+        "note": "第9行 R 为 fùn：首字 f 有下伸笔，u 上为向右下的斜画；v1 写作横调。完整墨迹 fùn。",
+        "ink": "fùn"
+      },
+      "new": {
+        "position": 9,
+        "field": "source_R",
+        "v1": "fūn",
+        "rr": "",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第9行 R 为 fùn：首字 f 有下伸笔，u 上为向右下的斜画；v1 写作横调。完整墨迹 fùn。 五倍图复核：第 9 行 R 栏是一个连写词，上方确有右下斜画；首笔呈细长上升及底部弯钩，五倍图不能可靠区分 f 与相近的 h 形，后部 u/n 分界也紧连。该项专查 fv 声母，不能仅因有斜画确认完整 fùn。"
+      }
+    },
+    {
+      "page": 252,
+      "index_1based": 8,
+      "audit": "codex_M1_batch04_audit_final.json",
+      "old": {
+        "position": 9,
+        "field": "R",
+        "v1": "fūn",
+        "rr": "hùn",
+        "verdict": "两皆误",
+        "letters": "V1",
+        "tone_mark": "存疑",
+        "note": "第9行 R 为 fùn：f 首笔下伸，u 上方为斜画；v1 写横调而重读首字写 h。完整墨迹 fùn。",
+        "ink": "fùn"
+      },
+      "new": {
+        "position": 9,
+        "field": "R",
+        "v1": "fūn",
+        "rr": "hùn",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第9行 R 为 fùn：f 首笔下伸，u 上方为斜画；v1 写横调而重读首字写 h。完整墨迹 fùn。 五倍图复核：第 9 行 R 栏两候选的区别涉及首字 f/h 和调号；原图首笔为长上升笔加底部弯钩，不能确定 f 或 h，u/n 连写，斜画虽可见仍不足以确认完整墨迹 fùn，因此不能确认两读皆误。"
+      }
+    },
+    {
+      "page": 261,
+      "index_1based": 27,
+      "audit": "codex_M1_batch04_audit_final.json",
+      "old": {
+        "position": 10,
+        "field": "R",
+        "v1": "nā",
+        "rr": "tòn zù",
+        "verdict": "V1对",
+        "letters": "V1",
+        "tone_mark": "一致",
+        "note": "第10行 R 为 nā，a 上方横画清楚；重读的两词在下方计数行。"
+      },
+      "new": {
+        "position": 10,
+        "field": "R",
+        "v1": "nā",
+        "rr": "tòn zù",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第10行 R 为 nā，a 上方横画清楚；重读的两词在下方计数行。 五倍图复核：第 10 行 R 栏为一短词，顶部可见横画；末字笔画与红色格线重合，n/a 连写分界及末字是否完整为 a 不能确定。下方计数行有另两词，但不据此补全当前词，不能确认 nā。"
+      }
+    }
+  ]
+}

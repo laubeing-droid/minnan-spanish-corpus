@@ -1,0 +1,92 @@
+{
+  "protocol": "CODEX_M1_BATCH04_AUDIT_FINAL_V1",
+  "actor": "Codex 子代理 adk_batch04_c",
+  "bbox_space": "原始横带图像像素坐标，左上为原点，xyxy",
+  "method": "非盲核验 ADK task 和回执；核对原横带五倍裁剪及相邻行",
+  "records": [
+    {
+      "page": 250,
+      "index_1based": 13,
+      "candidate": "chā hū",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0250/pdf_0250_band_y1_mid.png",
+      "bbox_xyxy": [
+        1580,
+        260,
+        1930,
+        450
+      ],
+      "reason": "第 7 行 R 栏有两段及两条上横，红色横格线穿过文字基线，第一段末字和第二段末端笔画与线叠在一起；第一词是否完整为 cha、第二词是否止于 hu 不能排除其他连笔，不能确认整条 chā hū。"
+    },
+    {
+      "page": 252,
+      "index_1based": 1,
+      "candidate": "fùn",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0252/pdf_0252_band_y1_mid.png",
+      "bbox_xyxy": [
+        1580,
+        485,
+        1870,
+        660
+      ],
+      "reason": "第 9 行 R 栏是一个连写词，上方确有右下斜画；首笔呈细长上升及底部弯钩，五倍图不能可靠区分 f 与相近的 h 形，后部 u/n 分界也紧连。该项专查 fv 声母，不能仅因有斜画确认完整 fùn。"
+    },
+    {
+      "page": 252,
+      "index_1based": 8,
+      "candidate": "fùn",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0252/pdf_0252_band_y1_mid.png",
+      "bbox_xyxy": [
+        1580,
+        485,
+        1870,
+        660
+      ],
+      "reason": "第 9 行 R 栏两候选的区别涉及首字 f/h 和调号；原图首笔为长上升笔加底部弯钩，不能确定 f 或 h，u/n 连写，斜画虽可见仍不足以确认完整墨迹 fùn，因此不能确认两读皆误。"
+    },
+    {
+      "page": 253,
+      "index_1based": 11,
+      "candidate": "bû mē",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0253/pdf_0253_band_y1_mid.png",
+      "bbox_xyxy": [
+        1490,
+        0,
+        1870,
+        155
+      ],
+      "reason": "第 7 行 R 栏为两词，第一词可见 b 与 u，u 上为尖折；第二词可见 m、e，e 上有横画。两词之间有间隔，五倍图未见须并入的上置小字，支持 bû mē。"
+    },
+    {
+      "page": 255,
+      "index_1based": 6,
+      "candidate": "pīt",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0255/pdf_0255_band_y0_top.png",
+      "bbox_xyxy": [
+        1510,
+        375,
+        1830,
+        525
+      ],
+      "reason": "第 1 行 R 栏共有两词，目标局部是右侧第二词；该词可见下伸的 p、带点的 i 及词末 t，i 上有横画，符合 pīt；v1 pit 未收横画。未把第一词并入该局部韵尾核查。"
+    },
+    {
+      "page": 261,
+      "index_1based": 27,
+      "candidate": "nā",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0261/pdf_0261_band_y1_mid.png",
+      "bbox_xyxy": [
+        1510,
+        760,
+        1850,
+        950
+      ],
+      "reason": "第 10 行 R 栏为一短词，顶部可见横画；末字笔画与红色格线重合，n/a 连写分界及末字是否完整为 a 不能确定。下方计数行有另两词，但不据此补全当前词，不能确认 nā。"
+    }
+  ]
+}

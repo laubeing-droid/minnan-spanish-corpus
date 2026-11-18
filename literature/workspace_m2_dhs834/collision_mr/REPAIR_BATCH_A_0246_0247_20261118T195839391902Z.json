@@ -1,0 +1,1164 @@
+{
+ "protocol": "REPAIR_BATCH_A_V4",
+ "selectedPages": [
+  246,
+  247
+ ],
+ "status": "READY_FOR_SEAL",
+ "appliedCount": 2,
+ "pagesTouched": 2,
+ "dirtyPages": [
+  246,
+  247
+ ],
+ "deferredCount": 2,
+ "deferred": [
+  {
+   "page": 247,
+   "position": 6,
+   "field": "M",
+   "v1": "bȳ sa.",
+   "rr": "bğ sa.",
+   "verdict": "墨迹不明",
+   "ink": null,
+   "reason": "任务或收集账目标重复"
+  },
+  {
+   "page": 247,
+   "position": 8,
+   "field": "M",
+   "v1": "lȳ pā.",
+   "rr": "pa",
+   "verdict": "墨迹不明",
+   "ink": null,
+   "reason": "任务或收集账目标重复"
+  }
+ ],
+ "phonotacticDeferredByPage": {},
+ "upgrade": [],
+ "missingPages": [],
+ "receiptProblems": [],
+ "skipped": {
+  "墨迹不明": 10
+ },
+ "unprocessedPages": [],
+ "collectorPending": [
+  {
+   "page": 246,
+   "queueIndex": 1,
+   "position": 13,
+   "field": "source_R",
+   "kind": "fv声母",
+   "v1": "teù. [疑:teù/feù]",
+   "rr": "",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    1
+   ]
+  },
+  {
+   "page": 246,
+   "queueIndex": 3,
+   "position": 17,
+   "field": "M",
+   "kind": "音系非法韵尾:-s",
+   "v1": "s",
+   "rr": "",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    3,
+    19
+   ]
+  },
+  {
+   "page": 246,
+   "queueIndex": 4,
+   "position": 1,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "gìam",
+   "rr": "",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    4,
+    7
+   ]
+  },
+  {
+   "page": 246,
+   "queueIndex": 5,
+   "position": 9,
+   "field": "R",
+   "kind": "官话存疑韵尾:-p",
+   "v1": "p",
+   "rr": "",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    5
+   ]
+  },
+  {
+   "page": 246,
+   "queueIndex": 6,
+   "position": 14,
+   "field": "R",
+   "kind": "官话存疑韵尾:-m",
+   "v1": "m",
+   "rr": "",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    6,
+    15
+   ]
+  },
+  {
+   "page": 246,
+   "queueIndex": 7,
+   "position": 1,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "chàng gìam.",
+   "rr": "chàngpiām",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    4,
+    7
+   ]
+  },
+  {
+   "page": 246,
+   "queueIndex": 8,
+   "position": 2,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "l̄ châng. [疑:l̄/h̄]",
+   "rr": "ki chōṅg",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    8
+   ]
+  },
+  {
+   "page": 246,
+   "queueIndex": 9,
+   "position": 3,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "l̄ [疑:l̄/h̄]",
+   "rr": "lā",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    9
+   ]
+  },
+  {
+   "page": 246,
+   "queueIndex": 11,
+   "position": 6,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "lī̂ [旁注: riaq.]",
+   "rr": "lîn",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    11
+   ]
+  },
+  {
+   "page": 246,
+   "queueIndex": 12,
+   "position": 8,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "ìì. [疑:ìì/ùl]",
+   "rr": "ǐl",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    12
+   ]
+  },
+  {
+   "page": 246,
+   "queueIndex": 13,
+   "position": 12,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "chīoc.",
+   "rr": "chiŏz.",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    13
+   ]
+  },
+  {
+   "page": 246,
+   "queueIndex": 14,
+   "position": 13,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "teù. [疑:teù/feù]",
+   "rr": "fēn",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    14
+   ]
+  },
+  {
+   "page": 246,
+   "queueIndex": 15,
+   "position": 14,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "lī̂m quīn.",
+   "rr": "lîm guīn",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    6,
+    15
+   ]
+  },
+  {
+   "page": 246,
+   "queueIndex": 16,
+   "position": 15,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "quīn quīn.",
+   "rr": "guīnguīn",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    16
+   ]
+  },
+  {
+   "page": 246,
+   "queueIndex": 17,
+   "position": 15,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "quīn quīn.",
+   "rr": "guīnguīn",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    17
+   ]
+  },
+  {
+   "page": 246,
+   "queueIndex": 19,
+   "position": 17,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "sȳ sūȳ.",
+   "rr": "sȳuī",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    3,
+    19
+   ]
+  },
+  {
+   "page": 246,
+   "queueIndex": 20,
+   "position": 17,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "s̄y ūêy.",
+   "rr": "zūnchī",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    20
+   ]
+  },
+  {
+   "page": 246,
+   "queueIndex": 21,
+   "position": 18,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "chȳ chīoc.",
+   "rr": "chy chìoz.",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "candidateIndexes": [
+    21
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 1,
+   "position": 4,
+   "field": "source_R",
+   "kind": "fv声母",
+   "v1": "vŷ",
+   "rr": "",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    1
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 2,
+   "position": 3,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "l",
+   "rr": "",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    2
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 3,
+   "position": 6,
+   "field": "M",
+   "kind": "音系非法韵尾:-b",
+   "v1": "b",
+   "rr": "",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    3,
+    14
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 4,
+   "position": 8,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "l",
+   "rr": "",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    4,
+    16
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 5,
+   "position": 13,
+   "field": "M",
+   "kind": "音系非法韵尾:-l",
+   "v1": "l",
+   "rr": "",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    5
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 6,
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法声母:x",
+   "v1": "x",
+   "rr": "",
+   "reason": "完整键重复",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    6,
+    7,
+    25
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 7,
+   "position": 18,
+   "field": "M",
+   "kind": "音系非法韵尾:-x",
+   "v1": "x",
+   "rr": "",
+   "reason": "完整键重复",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    6,
+    7,
+    25
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 8,
+   "position": 4,
+   "field": "R",
+   "kind": "官话非法声母:v",
+   "v1": "v",
+   "rr": "",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    8,
+    12
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 10,
+   "position": 2,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "gè",
+   "rr": "če",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    10
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 12,
+   "position": 4,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "vŷ",
+   "rr": "ûy",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    8,
+    12
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 13,
+   "position": 5,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "siā: sēng",
+   "rr": "fia: lêñg",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    13
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 19,
+   "position": 10,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "pā lân tēng",
+   "rr": "pâ lūi têñg",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    19
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 22,
+   "position": 14,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "chō xū chȳ",
+   "rr": "chō xîn chŷ",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    22
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 23,
+   "position": 16,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "hūn",
+   "rr": "yùn",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    23
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 25,
+   "position": 18,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "x it ūỹ cou.",
+   "rr": "xit ūy cū.",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    6,
+    7,
+    25
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 26,
+   "position": 18,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "xī uy cū",
+   "rr": "xī ŷ cû",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    26
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 27,
+   "position": 19,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "guē ūỹ cou.",
+   "rr": "gūe ūy cū",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    27
+   ]
+  },
+  {
+   "page": 247,
+   "queueIndex": 28,
+   "position": 19,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "inē uy cū",
+   "rr": "iē ŷ cû",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "candidateIndexes": [
+    28
+   ]
+  }
+ ],
+ "collectorUnmatched": [
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 1,
+   "value": {
+    "position": 13,
+    "field": "source_R",
+    "v1": "teù. [疑:teù/feù]",
+    "rr": "",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第13行 R 首笔为长竖并带横，后接 e 形和末端连笔；尾字及上方点、折画不能按 teù 确认。"
+   }
+  },
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 3,
+   "value": {
+    "position": 17,
+    "field": "M",
+    "v1": "s",
+    "rr": "",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第17行 M 为两段连写，首段开头长笔与后续 y 相连，不能把 s 当成完整独立词。"
+   }
+  },
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 4,
+   "value": {
+    "position": 1,
+    "field": "R",
+    "v1": "gìam",
+    "rr": "",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第1行 R 第二词的起笔、尾部连笔和上方斜画相互贴近，gìam 不足以直接确认。"
+   }
+  },
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 5,
+   "value": {
+    "position": 9,
+    "field": "R",
+    "v1": "p",
+    "rr": "",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第9行 R 可见 p 形下伸笔，后面仍有连笔，上置横线、小 c 和点画；独立 p 的边界不明。"
+   }
+  },
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 6,
+   "value": {
+    "position": 14,
+    "field": "R",
+    "v1": "m",
+    "rr": "",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第14行 R 第一词是 l 开头带折形的连写，末端 n/m 及单独 m 的边界不能确定。"
+   }
+  },
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 7,
+   "value": {
+    "position": 1,
+    "field": "R",
+    "v1": "chàng gìam.",
+    "rr": "chàngpiām",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第1行 R 有 chàng 后接另一连写词，后词首笔和尾字互相接近，不能在 gi 与 pi 之间定案。"
+   }
+  },
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 8,
+   "value": {
+    "position": 2,
+    "field": "R",
+    "v1": "l̄ châng. [疑:l̄/h̄]",
+    "rr": "ki chōṅg",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第2行 R 首词短笔紧贴分隔线，第二词 ch 开头末端被重墨连住，首字、韵尾及上标均须核。"
+   }
+  },
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 9,
+   "value": {
+    "position": 3,
+    "field": "R",
+    "v1": "l̄ [疑:l̄/h̄]",
+    "rr": "lā",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第3行 R 只有一段短字形并有横画，首笔和末笔贴合；无法确定 l̄ 或 lā。"
+   }
+  },
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 11,
+   "value": {
+    "position": 6,
+    "field": "R",
+    "v1": "lī̂ [旁注: riaq.]",
+    "rr": "lîn",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第6行 R 可见 lîn 及上方折形；栏间另有旁注，重读保留了右栏正文的 n。 五倍图复核：右栏第 6 行可见 l 与后续连笔，i 点和尖折分开，尖折偏在末笔上方，i/n 分界和尖折是否确属 i 无法确定；中间栏 riaq 旁注与右栏正文分开，不计入目标词段。"
+   }
+  },
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 12,
+   "value": {
+    "position": 8,
+    "field": "R",
+    "v1": "ìì. [疑:ìì/ùl]",
+    "rr": "ǐl",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第8行 R 两个短竖连写，上方分见点画和斜画；i、l、u 的边界不能确定。"
+   }
+  },
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 13,
+   "value": {
+    "position": 12,
+    "field": "M",
+    "v1": "chīoc.",
+    "rr": "chiŏz.",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第12行 M 字尾下伸，上方重墨及小 c 相叠；末字 c/z 与调号不能可靠分开。"
+   }
+  },
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 14,
+   "value": {
+    "position": 13,
+    "field": "R",
+    "v1": "teù. [疑:teù/feù]",
+    "rr": "fēn",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第13行 R 可见 f 形长笔及后续连写，上方有点和折画；末字 n/u 与完整调号须核。"
+   }
+  },
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 15,
+   "value": {
+    "position": 14,
+    "field": "R",
+    "v1": "lī̂m quīn.",
+    "rr": "lîm guīn",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第14行 R 第一词上方为折形，第二词上方重墨；第一词末 n/m 与第二词首 q/g 均难定。"
+   }
+  },
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 16,
+   "value": {
+    "position": 15,
+    "field": "M",
+    "v1": "quīn quīn.",
+    "rr": "guīnguīn",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第15行 M 是两次相同的 uin 连写，两首字下伸形近 q/g，两个上方折画不能照搬横调。"
+   }
+  },
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 17,
+   "value": {
+    "position": 15,
+    "field": "R",
+    "v1": "quīn quīn.",
+    "rr": "guīnguīn",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第15行 R 两个 uin 词前均有下伸首字、上方横画；q/g 的笔形须再核。"
+   }
+  },
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 19,
+   "value": {
+    "position": 17,
+    "field": "M",
+    "v1": "sȳ sūȳ.",
+    "rr": "sȳuī",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第17行 M 首段有长下伸笔与折形，第二段有横画；候选的字母分段与声调均未能完整对应。"
+   }
+  },
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 20,
+   "value": {
+    "position": 17,
+    "field": "R",
+    "v1": "s̄y ūêy.",
+    "rr": "zūnchī",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第17行 R 为两段文字，首段有点及横画，次段有折形与粗墨；两个候选均不能据此完整确认。"
+   }
+  },
+  {
+   "page": 246,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+   "index": 21,
+   "value": {
+    "position": 18,
+    "field": "M",
+    "v1": "chȳ chīoc.",
+    "rr": "chy chìoz.",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第18行 M 首词上方有墨团，次词末下伸并有折画及小字；末字和上标均不能可靠确定。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 1,
+   "value": {
+    "position": 4,
+    "field": "source_R",
+    "v1": "vŷ",
+    "rr": "",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "复核第 4 行右栏：词首是弯曲 v/u 形，后接 y 和尖折；不能只按外形锁定 v 与 u。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 2,
+   "value": {
+    "position": 3,
+    "field": "M",
+    "v1": "l",
+    "rr": "",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "复核第 3 行 M 栏：l 在 ly 的词首，后接带横笔的 y；任务标示韵尾 -l，词首 l 不能证明该韵尾。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 3,
+   "value": {
+    "position": 6,
+    "field": "M",
+    "v1": "b",
+    "rr": "",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "复核第 6 行 M 栏：b 是首词 by 的词首，末笔为下伸 y，上方有附笔；不能以词首 b 确认任务中的韵尾 -b。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 4,
+   "value": {
+    "position": 8,
+    "field": "M",
+    "v1": "l",
+    "rr": "",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "复核第 8 行 M 栏：l 位于带横笔的 ly 之首，后接另一词；词首 l 不能证明所标韵尾 -l。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 5,
+   "value": {
+    "position": 13,
+    "field": "M",
+    "v1": "l",
+    "rr": "",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "复核第 13 行 M 栏圈内：l 位于 ly 词首、其后还有 y 和 pa，上方记号与圈线邻近；不能把首笔当韵尾 -l。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 6,
+   "value": {
+    "position": 18,
+    "field": "M",
+    "v1": "x",
+    "rr": "",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "复核第 18 行 M 栏：可见 x 后接 it 形笔画，词上有重墨及上置小笔；仅凭首笔不足以确认完整词段及记号。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 7,
+   "value": {
+    "position": 18,
+    "field": "M",
+    "v1": "x",
+    "rr": "",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "复核第 18 行 M 栏：x 出现在首部，后有 it 形笔画而非可确认的末尾 x；上方重墨及小字未清。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 8,
+   "value": {
+    "position": 4,
+    "field": "R",
+    "v1": "v",
+    "rr": "",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "复核第 4 行右栏：候选首字是弯曲 v/u 形，后接 y；不能仅凭该笔形确定 v。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 10,
+   "value": {
+    "position": 2,
+    "field": "R",
+    "v1": "gè",
+    "rr": "če",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第 2 行右栏可见 g 的下伸回环和 e；上方横笔及小 c 的作用未定。 上置小字是否计入字母及其归属待核。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 12,
+   "value": {
+    "position": 4,
+    "field": "R",
+    "v1": "vŷ",
+    "rr": "ûy",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "复核第 4 行右栏：后接 y 且上方有尖折，但首字在 v/u 之间仍有字形歧义，不能判整词 V1 对。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 13,
+   "value": {
+    "position": 5,
+    "field": "M",
+    "v1": "siā: sēng",
+    "rr": "fia: lêñg",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第 5 行 M 栏被圈线穿过，上方有额外小笔；两词首笔形近长 s/f，完整字母与标记待核。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 19,
+   "value": {
+    "position": 10,
+    "field": "R",
+    "v1": "pā lân tēng",
+    "rr": "pâ lūi têñg",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第 10 行右栏中词可辨 lan 而非 lui；首末词上方有小 c 和尖折，完整调号待核。 上置小字是否计入字母及其归属待核。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 22,
+   "value": {
+    "position": 14,
+    "field": "R",
+    "v1": "chō xū chȳ",
+    "rr": "chō xîn chŷ",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第 14 行右栏中词可辨 xin，非单独 xu；末词上方横笔旁另有小 c。 上置小字是否计入字母及其归属待核。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 23,
+   "value": {
+    "position": 16,
+    "field": "R",
+    "v1": "hūn",
+    "rr": "yùn",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第 16 行右栏首笔与后续元音相连，h/y 难以可靠分开；上方折笔也需确认。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 25,
+   "value": {
+    "position": 18,
+    "field": "M",
+    "v1": "x it ūỹ cou.",
+    "rr": "xit ūy cū.",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第 18 行 M 栏 xit 后可见 uy 与含 o 的 cou；中间被重笔涂改，上方还有小字。 上置小字是否计入字母及其归属待核。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 26,
+   "value": {
+    "position": 18,
+    "field": "R",
+    "v1": "xī uy cū",
+    "rr": "xī ŷ cû",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第 18 行右栏中词含 u 与 y，末词 cu 上方有尖折及小 c；不能据字母认定完整调号。 上置小字是否计入字母及其归属待核。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 27,
+   "value": {
+    "position": 19,
+    "field": "M",
+    "v1": "guē ūỹ cou.",
+    "rr": "gūe ūy cū",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第 19 行 M 栏末词可见 cou 的 o；中词上方有小 n，末词上方有小 c 和斜笔。 上置小字是否计入字母及其归属待核。"
+   }
+  },
+  {
+   "page": 247,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+   "index": 28,
+   "value": {
+    "position": 19,
+    "field": "R",
+    "v1": "inē uy cū",
+    "rr": "iē ŷ cû",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "第 19 行右栏首词中间短笔挤在一起，n 是否为字母不能锁定；后词上方另有小 c。"
+   }
+  }
+ ],
+ "batchB": {
+  "pages": [],
+  "rows": []
+ },
+ "applied": [
+  {
+   "page": 246,
+   "position": 16,
+   "field": "source_R",
+   "old": "chȳ guīn.",
+   "new": "chī guīn",
+   "task_field": "R",
+   "verdict": "重读对",
+   "ink_source": "rr",
+   "queue_v1": "chȳ guīn.",
+   "queue_rr": "chī guīn",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+    "index": 18,
+    "position": 16,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "rr",
+     "tone_mark": "一致"
+    }
+   },
+   "match": "position_and_values"
+  },
+  {
+   "page": 247,
+   "position": 3,
+   "field": "source_R",
+   "old": "bŷ",
+   "new": "lŷ",
+   "task_field": "R",
+   "verdict": "重读对",
+   "ink_source": "rr",
+   "queue_v1": "bŷ",
+   "queue_rr": "lŷ",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+    "index": 11,
+    "position": 3,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "rr",
+     "tone_mark": "一致"
+    }
+   },
+   "match": "position_and_values"
+  }
+ ],
+ "plannedNotWritten": []
+}

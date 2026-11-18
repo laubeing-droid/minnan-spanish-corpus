@@ -1,0 +1,65 @@
+{
+  "status": "SEALED_AND_VERIFIED",
+  "selected_pages": [
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262
+  ],
+  "repair_batch": "literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_0243_0262_20261118T194938228166Z.json",
+  "repair_batch_sha256": "9c48026d3ab6b733bfea5c2f494e8df07041358185b9dc0ccbab7ecea8af1efd",
+  "sealed_pages": [
+    256
+  ],
+  "actual_repairs": [
+    {
+      "page": 256,
+      "position": 9,
+      "field": "source_R",
+      "old": "mà lē tín",
+      "new": "mà lē tū",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0256.json",
+        "index": 14,
+        "position": 9,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "rr",
+          "tone_mark": "一致"
+        }
+      },
+      "sealed_sha256": "4f87ba5e70aba347391a21f16c04d2889b8f22e99dd225fc8d84a9c6ac731a6f"
+    }
+  ],
+  "actual_repair_count": 1,
+  "deferred_count": 37,
+  "collector_pending_count": 353,
+  "pipeline_result": {
+    "verdict": "PASS",
+    "coverage_ok": true,
+    "gate_pass": true,
+    "resweep_exit": 0,
+    "hard_baseline_before": 3705,
+    "hard_after": 3705,
+    "delta": 0,
+    "source": "seal_and_verify.py --source literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_0243_0262_20261118T194938228166Z.json"
+  },
+  "limitations": "修复延迟、收集待核和墨迹不明存在重叠，不可相加；门禁只验证封存和覆盖。"
+}

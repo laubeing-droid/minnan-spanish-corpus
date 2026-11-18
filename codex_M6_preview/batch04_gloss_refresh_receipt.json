@@ -1,0 +1,913 @@
+{
+  "status": "APPLIED_NONBLIND_REFRESH",
+  "scope": "三个本批成功重封的受影响页；依据最新封存与原释义逐行刷新并经另一名同模型读者非盲核查，不是独立字面重读或全书释义验收。",
+  "review": "0247、0256 初审发现的问题已修订并对相关位置复核；初审候选 SHA 为修订前版本，候选文件随后被覆盖而旧候选字节未单独留存，现候选 SHA 由末次复核绑定。",
+  "files": [
+    {
+      "page": 246,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0246.json",
+      "sealed_sha256": "073659763e5cce789b595a76e2b9eedf554023de772aa87012abfa2017c66082",
+      "old_sha256": "dab546239f71efbdc57b8f2c89c3059fd826a261ac7a58a9c310c8801ed721bc",
+      "new_sha256": "647769d033fd3731d1ceb5dfd13ca81512c0c6405fcb281f3636de81edb61b80",
+      "entries": 18,
+      "changed_entries": 17,
+      "changes": [
+        {
+          "position": 1,
+          "old": {
+            "position": 1,
+            "zh": "爪敲：抓挠、刮擦（所用的刷子）；爪子抓挠。",
+            "en": "brush for scratching/scraping; claw, scratch",
+            "confidence": "medium",
+            "notes": "汉栏原字爪/瓜存疑；西语 de lollar 未能确解，据 para arañar（刮擦用）与汉字定抓挠义。"
+          },
+          "new": {
+            "position": 1,
+            "zh": "L 栏：cepillo，可指刷具或刨具；后续短语与具体用途待核。H 栏：〔爪/瓜〕敲，首字及词义待核。",
+            "en": "L: cepillo, which can mean a brush or a plane; the following phrase and specific use are uncertain. H: 〔爪/瓜〕敲, with the first character and sense uncertain.",
+            "confidence": "low",
+            "notes": "L 栏作「Cepillo p̃ araiar, de lollar.」，其中 p̃、araiar 和 de lollar 的展开及具体含义待核；H 栏首字标「[疑:爪/瓜]」，两栏对应待核。现代西语 cepillo 的刷具和刨具义参 RAE：https://dle.rae.es/cepillo；不能据此确定本条用途。"
+          }
+        },
+        {
+          "position": 2,
+          "old": {
+            "position": 2,
+            "zh": "合床：枷锁刑具，铐合手脚之械（脚镣手铐）。",
+            "en": "fetters or stocks for the feet and hands; shackles",
+            "confidence": "medium",
+            "notes": "官话栏音写存疑；据西语 cepos de pie y manos（手脚枷锁）与汉字合床定刑具义。"
+          },
+          "new": {
+            "position": 2,
+            "zh": "L 栏：用于手足的枷具；H 栏：合床，具体所指及两栏对应待核。",
+            "en": "L: stocks for hands and feet; H: 合床, whose specific referent and correspondence with L remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「Cepos de pie y manos.」；H 栏合床的具体形制不能仅据 L 栏确定。R 栏作「l̄ châng. [疑:l̄/h̄]」。现代西语 cepo 的枷具义参 RAE：https://dle.rae.es/cepo。"
+          }
+        },
+        {
+          "position": 3,
+          "old": {
+            "position": 3,
+            "zh": "蜡：蜡（蜂蜡）。",
+            "en": "wax",
+            "confidence": "medium",
+            "notes": "仅官话栏音写存疑；词义由西语 cera 与汉字蠟互证，明确。"
+          },
+          "new": {
+            "position": 3,
+            "zh": "蜡。",
+            "en": "Wax.",
+            "confidence": "medium",
+            "notes": "L 栏 cera 与 H 栏「蠟」均可释为蜡；本条未限定为蜂蜡。R 栏作「l̄ [疑:l̄/h̄]」。"
+          }
+        },
+        {
+          "position": 4,
+          "old": {
+            "position": 4,
+            "zh": "印色（印泥）：钤印用的红色印料。",
+            "en": "red wax; red seal paste (ink paste for stamping seals)",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 4,
+            "zh": "L 栏：红色的蜡；H 栏：印色，可指印泥。两栏所指是否相同待核。",
+            "en": "L: red wax; H: 印色, which can mean seal paste. Whether the columns refer to the same substance remains uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏为「cera colorada」，H 栏为「印色」。现代词典将印色释为印泥（教育部《臺灣台語常用詞辭典》：https://sutian.moe.edu.tw/und-hani/siannuntiau/tiau/3/_/in3/%E5%8D%B0/?iahbe=1&pitsoo=100）；本条所指及两栏对应仍待核。"
+          }
+        },
+        {
+          "position": 5,
+          "old": {
+            "position": 5,
+            "zh": "耳垢（耳蜡）：耳中分泌物。",
+            "en": "earwax",
+            "confidence": "medium",
+            "notes": "汉栏为空、官话栏仅存不可解旁注残文；据西语 cera de las orejas（耳蜡）定耳垢义。"
+          },
+          "new": {
+            "position": 5,
+            "zh": "L 栏：耳垢（耳蜡）；H 栏为空。",
+            "en": "L: earwax; H: blank.",
+            "confidence": "medium",
+            "notes": "L 栏作「cera de las orejas」；H 栏为空，R 栏为旁注「ach gàrchiàc.」，旁注含义及其与其他栏的对应待核。"
+          }
+        },
+        {
+          "position": 6,
+          "old": {
+            "position": 6,
+            "zh": "临：靠近、临近；就在近处。",
+            "en": "near, close by; imminent, at hand",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 6,
+            "zh": "临：临近、在附近。",
+            "en": "Near; close by.",
+            "confidence": "medium",
+            "notes": "L 栏含「prox̃e」和「agui」，读法、缩写与句法待核。M 栏作「līm.」，R 栏作「lī̂ [旁注: riaq.]」，音写及旁注的对应待核。"
+          }
+        },
+        {
+          "position": 7,
+          "old": {
+            "position": 7,
+            "zh": "近：距离近、靠近（临近）。",
+            "en": "near, close to",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 7,
+            "zh": "近：近、在附近。",
+            "en": "Near; nearby.",
+            "confidence": "medium",
+            "notes": "H 栏为单字「近」，M 栏为双音节「līm quīn.」，R 栏为「quīn.」；各栏音字对应待核。"
+          }
+        },
+        {
+          "position": 8,
+          "old": {
+            "position": 8,
+            "zh": "将近、相近（接近之义；原字迗/迕辨识存疑）。",
+            "en": "near, close (source character uncertain)",
+            "confidence": "medium",
+            "notes": "汉栏迗/迕两形与官话栏音写均存疑，仅能按词头 cerca 定接近义。"
+          },
+          "new": {
+            "position": 8,
+            "zh": "L 栏：cerca，可能指近、附近，也可指围栏；H 栏：〔迗/迕〕，字形和词义待核。",
+            "en": "L: cerca, which may mean near or a fence; H: 〔迗/迕〕, with the character reading and sense uncertain.",
+            "confidence": "medium",
+            "notes": "H 栏标「[疑:迗/迕]」，R 栏标「[疑:ìì/ùl]」；L 栏 cerca 按邻近条目暂释为近，其亦可指围栏，具体词义及栏间对应待核。"
+          }
+        },
+        {
+          "position": 9,
+          "old": {
+            "position": 9,
+            "zh": "迫：逼近、迫近；紧迫。",
+            "en": "to press close, to approach; urgent, pressed",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 9,
+            "zh": "迫：迫近、逼近。",
+            "en": "To approach closely; to press near.",
+            "confidence": "high",
+            "notes": ""
+          }
+        },
+        {
+          "position": 10,
+          "old": {
+            "position": 10,
+            "zh": "亲：亲近、接近；亲人、亲眷。",
+            "en": "close, intimate; near; kinsman, relative",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 10,
+            "zh": "亲：亲近、接近。",
+            "en": "Close, near; intimate.",
+            "confidence": "high",
+            "notes": ""
+          }
+        },
+        {
+          "position": 11,
+          "old": {
+            "position": 11,
+            "zh": "只：仅、只；（只近）就在近旁、相隔不远。",
+            "en": "only, just; ('only near') close by, a short way off",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 11,
+            "zh": "H 栏：只；L 栏：cerca，可能指近、附近，也可指围栏。M 栏双音节与 H 栏单字的对应待核。",
+            "en": "H: 只; L: cerca, which may mean near or a fence. The correspondence between the two M-column syllables and the single H-column character remains uncertain.",
+            "confidence": "medium",
+            "notes": "H 栏仅作「只」，M 栏作「chȳ·gīn.」，R 栏作「chȳ.」；不可直接为 H 栏增补「近」字。"
+          }
+        },
+        {
+          "position": 12,
+          "old": {
+            "position": 12,
+            "zh": "蹙：蹙近、收拢；皱缩（眉头紧蹙）。",
+            "en": "to contract, to draw close; to knit (brow), to shrink",
+            "confidence": "medium",
+            "notes": "汉栏蹙/壓两形存疑，取蹙（收拢迫近）义。"
+          },
+          "new": {
+            "position": 12,
+            "zh": "H 栏：〔蹙/壓〕，字形及词义待核；L 栏：cerca，可能指近、附近，也可指围栏。两栏对应待核。",
+            "en": "H: 〔蹙/壓〕, with the character and sense uncertain; L: cerca, which may mean near or a fence. The correspondence between the columns is uncertain.",
+            "confidence": "medium",
+            "notes": "H 栏标「[疑:蹙/壓]」；不能将疑字直接定为「蹙」，也不能仅据其中一字补出皱眉等义。现代西语 cerca 有近处与围栏两种词义，参 RAE：https://dle.rae.es/cerca；本条具体义项待核。"
+          }
+        },
+        {
+          "position": 13,
+          "old": {
+            "position": 13,
+            "zh": "兜：凑近、兜近；围拢、兜接。",
+            "en": "to go near, to approach; to surround, envelop",
+            "confidence": "medium",
+            "notes": "官话栏音写存疑，据汉字兜定凑近、围拢义。"
+          },
+          "new": {
+            "position": 13,
+            "zh": "H 栏：兜，词义待核；L 栏：cerca，可指近、附近，也可指围栏。两栏对应待核。",
+            "en": "H: 兜, with its sense uncertain; L: cerca, which can mean near or a fence. The correspondence between the columns is uncertain.",
+            "confidence": "medium",
+            "notes": "R 栏标「[疑:teù/feù]」。现代西语 cerca 有近处与围栏两种词义，参 RAE：https://dle.rae.es/cerca；本条具体词义及 H、L 栏对应待核。"
+          }
+        },
+        {
+          "position": 15,
+          "old": {
+            "position": 15,
+            "zh": "近近：很近、紧挨着（叠用言其极近）。",
+            "en": "very close, right nearby (reduplicated 'near-near')",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 15,
+            "zh": "H 栏：近近；L 栏：近、附近。叠用的具体含义待核。",
+            "en": "H: 近近; L: near, nearby. The specific sense of the reduplication remains uncertain.",
+            "confidence": "medium",
+            "notes": "H 栏「近近」为叠写；L 栏只作「cerca」，不能仅据此确定极近或紧挨之义。"
+          }
+        },
+        {
+          "position": 16,
+          "old": {
+            "position": 16,
+            "zh": "只近：就在近旁、离得不远。",
+            "en": "close by, just a short way off",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 16,
+            "zh": "H 栏：只近；L 栏：近、附近。词义及两栏具体对应待核。",
+            "en": "H: 只近; L: near, nearby. The precise sense and correspondence between the columns remain uncertain.",
+            "confidence": "medium",
+            "notes": "R 栏作「chī guīn」，M 栏作「chȳ guīn.」，首音节写法不同；H 栏「只近」的具体词义及音字对应待核。"
+          }
+        },
+        {
+          "position": 17,
+          "old": {
+            "position": 17,
+            "zh": "四围：四周、周围；到处、各处。",
+            "en": "all around, on every side; everywhere",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 17,
+            "zh": "四围：四周、周围。L 栏余文的拼写及句意待核。",
+            "en": "All around; on all sides. The spelling and meaning of the remaining L-column wording are uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「cerca por thodes partes」，其中「thodes partes」的拼写、句法和具体语义待核；不据此增加「到处」义。"
+          }
+        },
+        {
+          "position": 18,
+          "old": {
+            "position": 18,
+            "zh": "止足：止步、拦住脚步（如以木桩围拦阻路）。",
+            "en": "to stop the feet, to halt (as a fence of stakes blocks the way)",
+            "confidence": "high",
+            "notes": "西语 falen 当为 vallen（以木桩围拦）之讹写；据汉栏止足定止步、阻拦义。"
+          },
+          "new": {
+            "position": 18,
+            "zh": "H 栏：止足，词义待核；L 栏含 cerca 和 palos，整句及两栏对应待核。",
+            "en": "H: 止足, with its sense uncertain; L contains cerca and palos. The full phrase and correspondence between the columns remain uncertain.",
+            "confidence": "low",
+            "notes": "L 栏作「cerca; nos falen com palos.」，其中「nos falen com」未解。现代西语 cerca 可指近处或围栏，palos 可指木棍（RAE：https://dle.rae.es/cerca；https://dle.rae.es/palo）；不能据此确定本条句义、木栅拦路或止步义。"
+          }
+        }
+      ],
+      "initial_review": "codex_M6_preview/batch04_review_p0246.json",
+      "final_review": "codex_M6_preview/batch04_review_p0246.json"
+    },
+    {
+      "page": 247,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0247.json",
+      "sealed_sha256": "7ed3be189b76e4eff8bc5315ad9e26c916d3c91b00d9cdedccb3fee5377c1767",
+      "old_sha256": "343a89fe6ac85ad54c3e127f4d4734325934d9370377191ad99a3ae3269a3269",
+      "new_sha256": "29f1ec68cc3de95462990927d45fa91c8929de6379b879ba5fba139d030c8bc9",
+      "entries": 19,
+      "changed_entries": 18,
+      "changes": [
+        {
+          "position": 1,
+          "old": {
+            "position": 1,
+            "zh": "止；止住（以围栏拦阻之义）",
+            "en": "to stop; to bar, hold back (fence sense of cerca/cercar)",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 1,
+            "zh": "H 栏：止，停止、止住；L 栏：cerca、cercar，可涉及围栏、附近或围住。两栏对应待核。",
+            "en": "H: 止, to stop; L: cerca and cercar, which can refer to a fence, nearness, or enclosing. The correspondence between the columns is uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「cerca; cercar」；现代西语词典分别收 cerca 的围栏与附近义、cercar 的围住义，不能据此确定本条用法或将「止」限定为围栏拦阻（RAE：https://dle.rae.es/cerca；https://dle.rae.es/cercar）。"
+          }
+        },
+        {
+          "position": 2,
+          "old": {
+            "position": 2,
+            "zh": "隔；隔断（以围栏相隔）〔疑：或为「迫」，逼近〕",
+            "en": "to separate, fence off (variant reading 迫: to press close)",
+            "confidence": "medium",
+            "notes": "汉字栏标 [疑:迫]，隔/迫二读之间以「隔」为主。"
+          },
+          "new": {
+            "position": 2,
+            "zh": "H 栏：隔（分隔）〔疑：迫，逼近或逼迫〕；L 栏：cerca 可指围栏或附近，cercar 可指围住。字形、L 栏取义与两栏对应待核。",
+            "en": "H: 隔, to separate, with 迫, to approach or press, as an uncertain reading; L: cerca can mean a fence or nearness, and cercar can mean to enclose. The character reading, intended L sense, and correspondence are uncertain.",
+            "confidence": "low",
+            "notes": "封存 H 栏作「隔 [疑:迫]」；M 栏「pèy」、R 栏「gè」及其与候选字形的对应待核。L 栏一般词义参 RAE（https://dle.rae.es/cerca；https://dle.rae.es/cercar），本条取义及与 H 栏的对应不可据此确定。"
+          }
+        },
+        {
+          "position": 3,
+          "old": {
+            "position": 3,
+            "zh": "离；离开；使之相离（隔开）",
+            "en": "to part; to keep apart; to leave",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 3,
+            "zh": "H 栏：離，分离、离开；L 栏：cerca、cercar，可涉及围栏、附近、围住或靠近。两栏对应待核。",
+            "en": "H: 離, to part or leave; L: cerca and cercar, which can refer to a fence, nearness, enclosing, or bringing near. The correspondence between the columns is uncertain.",
+            "confidence": "medium",
+            "notes": "R 栏作「lŷ」，M 栏作「lȳ.」；L 栏作「cerca; cercar . — — —」。RAE 收 cerca 的围栏与附近义，cercar 的围住义及已废的使靠近义；本条取义与两栏对应待核（https://dle.rae.es/cerca；https://dle.rae.es/cercar）。"
+          }
+        },
+        {
+          "position": 5,
+          "old": {
+            "position": 5,
+            "zh": "城墙；城郭（围城之垣；罗马字 siâ-chiâⁿ 指城牆）",
+            "en": "city wall; enclosure of a city",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 5,
+            "zh": "H 栏：城，城市或城墙；L 栏：城市的围垣，或城市附近。各栏具体所指及对应待核。",
+            "en": "H: 城, a city or city wall; L: a city's enclosure, or near a city. The intended senses and correspondence between the columns are uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「cerca de ciudad . sia chioⁿ?」，尾部音写及问号照封存保留；M 栏「siā: sēng」、R 栏「chēⁿg」与其对应待核。cerca 可指围栏，cerca de 亦可指附近，参 RAE：https://dle.rae.es/cerca。"
+          }
+        },
+        {
+          "position": 6,
+          "old": {
+            "position": 6,
+            "zh": "栅；栅栏（荆棘围篱）",
+            "en": "palisade; fence of thorns",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 6,
+            "zh": "H 栏：柵，栅栏；L 栏：可能指荆棘围篱。两栏对应及材料细节待核。",
+            "en": "H: 柵, a fence; L: possibly a fence of thorns. The correspondence and details of the material are uncertain.",
+            "confidence": "medium",
+            "notes": "H 栏仅作「柵」，L 栏作「cerca de espinas .」；荆棘限定来自 L 栏，植物种类与围篱编法未明，栏间对应待核。"
+          }
+        },
+        {
+          "position": 7,
+          "old": {
+            "position": 7,
+            "zh": "寨；栅寨（防盗御卫之围栅）",
+            "en": "stockade; fortified fence against robbers, for defense",
+            "confidence": "low",
+            "notes": "M 栏声调 T99（污损难辨）；释义据 H（寨）与西语词头。"
+          },
+          "new": {
+            "position": 7,
+            "zh": "H 栏：寨；L 栏：有关盗贼和防卫的 cerca，可能指防盗围栅。句法及两栏对应待核。",
+            "en": "H: 寨, a stockade; L: cerca in a phrase concerning robbers and defense, possibly a defensive fence. The syntax and correspondence are uncertain.",
+            "confidence": "low",
+            "notes": "L 栏作「cerca a ladrones, p defender.」，p 的展开、短语句法和所指待核；M 栏声调 T99（污损难辨）。"
+          }
+        },
+        {
+          "position": 8,
+          "old": {
+            "position": 8,
+            "zh": "笆；篱笆（竹木条编成之篱）",
+            "en": "wattle/bamboo fence (of stakes)",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 8,
+            "zh": "笆；枝条或细杆制成的围篱。",
+            "en": "A fence made of branches or slender poles; 笆.",
+            "confidence": "high",
+            "notes": "L 栏为「cerca de varas」，varas 可指枝条或细杆，具体材料及编法未明（RAE：https://dle.rae.es/vara）；R 栏保留「pā : pà」两音。"
+          }
+        },
+        {
+          "position": 9,
+          "old": {
+            "position": 9,
+            "zh": "栏截；木栏（拦阻之栅）",
+            "en": "wooden barrier; fence of timber",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 9,
+            "zh": "H 栏：欄截，词义待核；L 栏：木围栏。",
+            "en": "H: 欄截, whose meaning here is uncertain; L: a wooden fence.",
+            "confidence": "medium",
+            "notes": "L 栏作「cerca de madera.」；M 栏「nuā chà」、R 栏「lān chiē」与 H 栏的具体对应及 H 栏词义待核。苏轼《奏淮南閉糴狀二首》在阻止稻种过河的语境中使用「欄截」（https://www.shidianguji.com/zh/book/HY0641/chapter/1knvkejqdixor）；异文献用例不能确定本条的词性、词义或两栏对应。"
+          }
+        },
+        {
+          "position": 10,
+          "old": {
+            "position": 10,
+            "zh": "笆篱藤（竹桩与藤条所编之篱；第三字录「箠」有疑）",
+            "en": "fence of stakes or vines (bejuco); bamboo-and-vine hedge",
+            "confidence": "medium",
+            "notes": "汉字栏第三字标 [疑:箠]。"
+          },
+          "new": {
+            "position": 10,
+            "zh": "H 栏：笆 篱 [疑:箠] 藤，疑字及断读待核；L 栏：可能为枝条或藤蔓的围篱。两栏对应待核。",
+            "en": "H: 笆 篱 [疑:箠] 藤, with the uncertain character and segmentation unresolved; L: possibly a fence of rods or vines. The correspondence is uncertain.",
+            "confidence": "medium",
+            "notes": "封存 H 栏作「笆 篱 [疑:箠] 藤」，疑记所附字位和断读待核，不能断定「箠」为第三字。L 栏作「cerca de baras, o bejucos」；baras 可能为 varas 的旧写法（巴塞罗那大学十五世纪卡斯蒂利亚语词典收 baras 形式：https://ghcl.ub.edu/diccaxv/dictionary/ViewLema/21497），bejuco 可指藤蔓（RAE：https://dle.rae.es/bejuco）；本条词义仍待核。R 栏作「pā lân tēng」，与 H 栏的逐字对应待核。"
+          }
+        },
+        {
+          "position": 11,
+          "old": {
+            "position": 11,
+            "zh": "置寨（为防盗贼设寨自卫）",
+            "en": "to set up a stockade for defense against robbers",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 11,
+            "zh": "H 栏：置寨，设置寨栅；L 栏：可能涉及围合、自卫和盗贼，后有 y hacer la ¯，可能是「并作……」。断词、句法、符号所指及两栏对应待核。",
+            "en": "H: 置寨, to set up a stockade; L: may involve enclosure, self-defense, and robbers, followed by y hacer la ¯, possibly ‘and make the ...’. Word division, syntax, the sign's reference, and correspondence are uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「cercar a se defender deladroⁿg, y hacer la ¯」；deladroⁿg 可能涉及 ladrones，但断词和词形待核，末尾横线所指未定。"
+          }
+        },
+        {
+          "position": 12,
+          "old": {
+            "position": 12,
+            "zh": "营寨（防盗贼之营垒栅寨）",
+            "en": "stockaded camp; fortified camp against robbers",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 12,
+            "zh": "H 栏：營寨，营寨；L 栏：涉及盗贼，可能涉及自卫，也可能指防盗围栅。缩写、断词、句法及两栏对应待核。",
+            "en": "H: 營寨, a stockaded camp; L: mentions robbers, may involve self-defense, and may refer to a defensive fence. The abbreviation, word division, syntax, and correspondence are uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「cerca delos ladrones p sede fender.」，p 的展开、sede fender 的断词和句法待核。"
+          }
+        },
+        {
+          "position": 13,
+          "old": {
+            "position": 13,
+            "zh": "篱笆（宅舍周围之围篱；「離」为「籬」之写变）",
+            "en": "hedge/fence around the house (liba)",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 13,
+            "zh": "H 栏：離笆，可能指篱笆；L 栏：房屋的围栏，或房屋附近。写法、取义及两栏对应待核。",
+            "en": "H: 離笆, possibly a fence; L: a house's enclosure, or near a house. The written form, intended senses, and correspondence are uncertain.",
+            "confidence": "medium",
+            "notes": "H 栏作「離笆」，不能直接确定「離」就是「籬」的写变；L 栏作「cerca dela casa.」，cerca 的具体用法待核。"
+          }
+        },
+        {
+          "position": 14,
+          "old": {
+            "position": 14,
+            "zh": "筑鱼池（围堤成池；池之围垣）",
+            "en": "to build/enclose a fish-pond; fishpond fence",
+            "confidence": "low",
+            "notes": "M 栏首音（築）T99（污损难辨）；据 H（築魚池）与西语词头释义。"
+          },
+          "new": {
+            "position": 14,
+            "zh": "H 栏：築魚池，建造鱼池；L 栏：cerca del estangue，可能涉及池塘围栏或池塘附近。词形及两栏对应待核。",
+            "en": "H: 築魚池, to build a fishpond; L: cerca del estangue, possibly referring to a pond enclosure or its vicinity. The word form and correspondence are uncertain.",
+            "confidence": "low",
+            "notes": "L 栏「estangue」可能与西语 estanque（池塘）有关，词形和本条取义待核；M 栏首音声调 T99（污损难辨），R 栏作「chō xū chȳ」。"
+          }
+        },
+        {
+          "position": 15,
+          "old": {
+            "position": 15,
+            "zh": "露（露水）",
+            "en": "dew; night dew",
+            "confidence": "low",
+            "notes": "西语词头 Cerro（山丘）与 H/M/R（露）不合，疑词头为 sereno（夜露）之误读，故降置信。"
+          },
+          "new": {
+            "position": 15,
+            "zh": "H 栏：露，可指露水；L 栏：Cerro，现代西语可指山丘。各自取义与两栏对应待核。",
+            "en": "H: 露, which can mean dew; L: Cerro, which can mean a hill in modern Spanish. The intended senses and correspondence are uncertain.",
+            "confidence": "low",
+            "notes": "L 栏封存为「Cerro.」，其词典义见 RAE：https://dle.rae.es/cerro；H 栏为「露」，M 栏「lòů」、R 栏「lū」。不能据汉字将 L 栏改读为 sereno；本条用义及对应待核。"
+          }
+        },
+        {
+          "position": 16,
+          "old": {
+            "position": 16,
+            "zh": "昏；昏暗（日月将沉近地平时之昏暗）",
+            "en": "dusk; dimness (when the sun or moon draws near)",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 16,
+            "zh": "H 栏：昏，可指昏暗；L 栏：cerca del sol, luna，可能指太阳或月亮附近。具体取义及两栏对应待核。",
+            "en": "H: 昏, which can mean dimness; L: cerca del sol, luna, possibly near the sun or moon. The intended senses and correspondence are uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏「cerca del sol, luna」的具体用法待核；不能据此断定日月将沉或处于地平线附近。"
+          }
+        },
+        {
+          "position": 17,
+          "old": {
+            "position": 17,
+            "zh": "目眩（日光眩目）〔疑：或为「瞑」，昏暗〕",
+            "en": "dazzled by the glare of sun/moon; or dim, dark (瞑)",
+            "confidence": "low",
+            "notes": "汉字栏标 [疑:瞑]，且 M 栏声调 T99（污损难辨）。"
+          },
+          "new": {
+            "position": 17,
+            "zh": "H 栏：眩或疑作瞑；眩可指眼花，瞑可指昏暗或闭目。L 栏：cerca del sol, luna，可能指太阳或月亮附近。疑字、取义及两栏对应待核。",
+            "en": "H: 眩 or the uncertain reading 瞑; 眩 can mean blurred vision, while 瞑 can mean dim or to close the eyes. L: cerca del sol, luna, possibly near the sun or moon. The reading, senses, and correspondence are uncertain.",
+            "confidence": "low",
+            "notes": "封存 H 栏作「眩 [疑:瞑]」；M 栏声调 T99（污损难辨），R 栏作「nēng」。教育部《重编国语辞典》亦收「眩」通「炫」的照耀、照亮义（https://dict.revised.moe.edu.tw/dictView.jsp?ID=7402&la=0&powerMode=0），「瞑」义参 https://dict.revised.moe.edu.tw/dictView.jsp?ID=1451&la=0&powerMode=0；本条是否取照耀义待核，不能据此认定本条为日光眩目。"
+          }
+        },
+        {
+          "position": 18,
+          "old": {
+            "position": 18,
+            "zh": "日晕；日圆箍（太阳周围的圆环光环）",
+            "en": "halo round the sun; solar ring",
+            "confidence": "low",
+            "notes": "M 栏首音（日）T99（污损难辨）。"
+          },
+          "new": {
+            "position": 18,
+            "zh": "H 栏：日圓箍，可能指日晕；L 栏：cerca del sol，可能指太阳附近。具体取义及两栏对应待核。",
+            "en": "H: 日圓箍, possibly a solar halo; L: cerca del sol, possibly near the sun. The intended senses and correspondence are uncertain.",
+            "confidence": "low",
+            "notes": "M 栏首音声调 T99（污损难辨），R 栏作「xī uy cū」。台湾农业资料以「日圓箍」作「日圍箍」的另一说法，并说明太阳周围有圆形云翳（https://www.ia.gov.tw/zh-TW/service/MultilingualList?P=17&a=187）；现代用例不能直接确定本历史条义。"
+          }
+        },
+        {
+          "position": 19,
+          "old": {
+            "position": 19,
+            "zh": "月晕；月圆箍（月亮周围的圆环光环）",
+            "en": "halo round the moon; lunar ring",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 19,
+            "zh": "H 栏：月圓箍，可能指月晕；L 栏：cerca dela luna，可能指月亮附近。具体取义及两栏对应待核。",
+            "en": "H: 月圓箍, possibly a lunar halo; L: cerca dela luna, possibly near the moon. The intended senses and correspondence are uncertain.",
+            "confidence": "medium",
+            "notes": "M 栏作「guē ūỹ cou.」，R 栏作「inē uy cū」，两栏与 H 字的对应待核。教育部台语辞典「月圍箍」释为月晕（https://sutian.moe.edu.tw/und-hani/tshiau/?iahbe=1&lui=tai_su&pitsoo=100&tsha=%E7%AE%8D）；与本条「月圓箍」是否同词及本条取义待核。"
+          }
+        }
+      ],
+      "initial_review": "codex_M6_preview/batch04_review_p0247.json",
+      "final_review": "codex_M6_preview/batch04_review_p0247_final.json"
+    },
+    {
+      "page": 256,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0256.json",
+      "sealed_sha256": "4f87ba5e70aba347391a21f16c04d2889b8f22e99dd225fc8d84a9c6ac731a6f",
+      "old_sha256": "7de06323549cf3089012ef7e1939512491d974a16de6310cb54400fdf33e10cb",
+      "new_sha256": "b30ad574480eb398326f515afdd0e0ddce8549383803182c4b0538f47484f32c",
+      "entries": 17,
+      "changed_entries": 16,
+      "changes": [
+        {
+          "position": 1,
+          "old": {
+            "position": 1,
+            "zh": "大蝉；大型蝉类（确切的汉字用字存疑）",
+            "en": "large cicada, big cigarra (exact Chinese characters uncertain)",
+            "confidence": "medium",
+            "notes": "三个汉字均带[疑]标且音写难以互证，释义仅据西语词头 cigarra grande 立义；'Canta'疑为残句。"
+          },
+          "new": {
+            "position": 1,
+            "zh": "L 栏：大型蝉；H 栏：〔諳/蟬〕〔蝻/蜺〕〔船/蟬〕，三字待核。",
+            "en": "L: a large cicada; H: 〔諳/蟬〕〔蝻/蜺〕〔船/蟬〕, all three characters uncertain.",
+            "confidence": "medium",
+            "notes": "现代西语词典中 cantar 有动物鸣叫义，Canta 可为该动词的变位；若属此义可能涉及鸣叫，本条的词性、断句及与前文关系待核（RAE《西班牙语词典》cantar：https://dle.rae.es/cantar）。H 栏三字均标疑，M、R 音写与 H 栏的对应待核。"
+          }
+        },
+        {
+          "position": 2,
+          "old": {
+            "position": 2,
+            "zh": "螳螂（西语词头称'食 oraya 之中国蝉'，oraya 所指不明）",
+            "en": "praying mantis (Spanish headword: 'Chinese cigarra that eats ...'; referent of 'oraya' unclear)",
+            "confidence": "medium",
+            "notes": "词头'q̄'为 que 之缩写，'la oraya'所指不明；据汉字螳与螳螂释义定。"
+          },
+          "new": {
+            "position": 2,
+            "zh": "H 栏：螳，可指螳螂；L 栏：中国蝉，含 q̄ come La oraya，可能涉及吃 oraya；缩写、句法、oraya 所指及两栏对应待核。",
+            "en": "H: 螳, which can refer to a mantis; L: a Chinese cicada, followed by q̄ come La oraya, possibly referring to eating oraya. The abbreviation, syntax, referent of oraya, and correspondence between the columns are uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「cigarra de china q̄ come La oraya.」；q̄ 疑为 que 的缩写，oraya 未解。H 栏仅作「螳」，其与 L 栏词语的对应待核。"
+          }
+        },
+        {
+          "position": 3,
+          "old": {
+            "position": 3,
+            "zh": "螳螂；螳蜋",
+            "en": "praying mantis",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 3,
+            "zh": "H 栏：螳蜋，即螳螂；L 栏：中国蝉。两栏的对应待核。",
+            "en": "H: 螳蜋, a praying mantis; L: Chinese cicada. The correspondence between the columns is uncertain.",
+            "confidence": "medium",
+            "notes": "H 栏为「螳 蜋」，L 栏为「cigarra de china」；两栏所指及其对应待核。"
+          }
+        },
+        {
+          "position": 4,
+          "old": {
+            "position": 4,
+            "zh": "鹳；水鹅（涉水大鸟；第二字'鶯/鵝'存疑）",
+            "en": "stork (Chinese literally 'water goose'; second character uncertain)",
+            "confidence": "medium",
+            "notes": "汉字第二字带[疑]标，据西语 cigüeña（鹳类涉禽）立义。"
+          },
+          "new": {
+            "position": 4,
+            "zh": "L 栏：鹳；H 栏：水〔鶯/鵝〕，第二字待核。",
+            "en": "L: storks; H: 水〔鶯/鵝〕, with the second character uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏为「Cigüeñas.」；H 栏第二字标「[疑:鶯/鵝]」，H 栏词语及两栏对应待核。"
+          }
+        },
+        {
+          "position": 6,
+          "old": {
+            "position": 6,
+            "zh": "墙基；墙体基础",
+            "en": "foundations of a wall",
+            "confidence": "medium",
+            "notes": "[疑]标仅涉'牆/墙'繁简异体，字义无别，不影响释义。"
+          },
+          "new": {
+            "position": 6,
+            "zh": "墙基；墙体基础。L 栏泛指基础。",
+            "en": "Wall foundation; the L column refers generally to foundations.",
+            "confidence": "medium",
+            "notes": "H 栏首字标「[疑:牆/墙]」，两者均表示墙；墙基据 H 栏，L 栏为「cimientos」。"
+          }
+        },
+        {
+          "position": 7,
+          "old": {
+            "position": 7,
+            "zh": "地基；房基",
+            "en": "ground foundation; foundation of a building/site",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 7,
+            "zh": "地基；基础。",
+            "en": "Ground foundation; foundation.",
+            "confidence": "high",
+            "notes": ""
+          }
+        },
+        {
+          "position": 8,
+          "old": {
+            "position": 8,
+            "zh": "勒；马勒（马口衔缰之革带）",
+            "en": "bridle, leather band for a horse (Chinese 勒; Spanish headword reads cincha de caballo 'girth', tail 'ta' truncated)",
+            "confidence": "medium",
+            "notes": "西语 cincha 本义马腹带，与汉字'勒'（马勒）语义不一致，以汉字与对音立义；词头尾部'ta'疑截断。"
+          },
+          "new": {
+            "position": 8,
+            "zh": "L 栏：马腹带；H 栏：勒，具体所指待核。",
+            "en": "L: a horse’s girth; H: 勒, whose specific referent is uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏为「Cincha. de caballo ta」；末尾「ta」含义待核。H 栏单字「勒」在此的具体用法及两栏对应待核。"
+          }
+        },
+        {
+          "position": 9,
+          "old": {
+            "position": 9,
+            "zh": "马勒肚；马腹下勒带（即马肚带）",
+            "en": "horse's belly-strap; girth (cincha de caballo)",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 9,
+            "zh": "马勒肚；马腹下勒带（即马肚带）",
+            "en": "horse's belly-strap; girth (cincha de caballo)",
+            "confidence": "high",
+            "notes": "R 栏作「mà lē tū」；H 栏为「馬 勒 肚」，L 栏为「cincha de caballo」。"
+          }
+        },
+        {
+          "position": 10,
+          "old": {
+            "position": 10,
+            "zh": "五",
+            "en": "five",
+            "confidence": "high",
+            "notes": "M 栏并列三种读法（gǒu/ngǒu/pram），其中 pram 非闽语常见音形，仅备案存疑，不影响语义。"
+          },
+          "new": {
+            "position": 10,
+            "zh": "五。",
+            "en": "Five.",
+            "confidence": "medium",
+            "notes": "M 栏为「gǒu: ngǒu: pram.」，R 栏为「ngǐn」；各音写与汉字及彼此的对应关系待核，pram 的所指亦待核。"
+          }
+        },
+        {
+          "position": 11,
+          "old": {
+            "position": 11,
+            "zh": "酉；酉时（十二时辰之一，午后五至七时）",
+            "en": "you, the tenth earthly branch; the double hour 5-7 p.m. (Spanish 'a las cinco de la tarde', five in the afternoon)",
+            "confidence": "medium",
+            "notes": "西语词头为连写残句（alas/delatarde 系'a las ... de la tarde'误切），据汉字酉时与西语'下午五点'对定。"
+          },
+          "new": {
+            "position": 11,
+            "zh": "H 栏：酉，地支之一；L 栏有「五」及疑似下午的字样，断句和对应待核。",
+            "en": "H: yǒu (酉), an Earthly Branch; L: “five” and wording apparently referring to the afternoon. The segmentation and correspondence are uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「cinco. alas y delatarde.」，其中 y 及连写、断句待核；M 栏作「iū sī.」，H 栏仅作「酉」，是否指酉时及两栏对应待核。"
+          }
+        },
+        {
+          "position": 12,
+          "old": {
+            "position": 12,
+            "zh": "汗巾；束腰擦汗之巾",
+            "en": "sweat-cloth; cloth girdle worn at the waist (cíngulo, paño)",
+            "confidence": "medium",
+            "notes": "'ÿ'疑为'或(o)'之缩写；尾句'al roño'残讹不明，据汉字汗巾与 cíngulo（腰带）立义。"
+          },
+          "new": {
+            "position": 12,
+            "zh": "H 栏：汗巾；L 栏含 Cingulo（束带）、paño（布）及 ÿ；ÿ 的作用、al roño 的含义及两栏对应待核。",
+            "en": "H: a sweat cloth; L contains Cingulo (girdle), paño (cloth), and ÿ. The function of ÿ, meaning of al roño, and correspondence between the columns are uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「Cingulo ÿ paño al roño:」；ÿ 可能为连接词 y（和），al roño 未解，不能据此确定汗巾的佩戴或使用方式。"
+          }
+        },
+        {
+          "position": 13,
+          "old": {
+            "position": 13,
+            "zh": "带；带子（腰带、束带、缎带）",
+            "en": "ribbon; sash; band (cinta, or liga)",
+            "confidence": "medium",
+            "notes": "'oliga'疑为'o liga'连写（liga 束带/袜带），缩写展开依赖推断。"
+          },
+          "new": {
+            "position": 13,
+            "zh": "带；L 栏 cinta 可指带子或条带，oliga 的断词待核。",
+            "en": "A band or ribbon; the L column includes cinta and oliga, whose word division is uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏「oliga」可能为「o liga」连写；若如此断词，现代西语词典中的 liga 可指袜带或束带，本条断词及历史义待核（RAE《西班牙语词典》liga：https://dle.rae.es/liga）。"
+          }
+        },
+        {
+          "position": 14,
+          "old": {
+            "position": 14,
+            "zh": "韬；韬带（韬本义弓剑之套袋，此处西语释作官员束带）",
+            "en": "bow-case / sheath (韜); Spanish glosses it as the mandarin's sash, correspondence doubtful",
+            "confidence": "medium",
+            "notes": "汉字'韬'本义弓剑套袋，与西语 cinta o liga de mandarín（官员束带）对应不顺，据西语词头立义。"
+          },
+          "new": {
+            "position": 14,
+            "zh": "H 栏：韜，具体义待核；L 栏可能指官员的带或束带，两栏对应待核。",
+            "en": "H: 韜, with its precise sense uncertain; L may refer to a mandarin’s band or sash. The correspondence between the columns is uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏为「cinta, oliga d mandarin.」；oliga 可能是 o liga 的连写，d 可能为 de 的缩写，均待核。现代汉语词典中「韜」可指装弓或刀剑的套子，本条是否取此义及与 L 栏对应待核（教育部《国语辞典简编本》「韜」：https://dict.concised.moe.edu.tw/dictView.jsp?ID=10163&la=0&powerMode=0）。M 栏「Tō tôa」和 R 栏「tôn」与 H 栏的对应亦待核。"
+          }
+        },
+        {
+          "position": 15,
+          "old": {
+            "position": 15,
+            "zh": "角带；镶角饰的官带（官员腰间角带）",
+            "en": "horn-studded belt worn by mandarins (cinto del mandarín)",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 15,
+            "zh": "H 栏：角带；词典释为以牛角或玉石装饰的腰带，本条是否取此义及实际形制待核；L 栏：官员的带。",
+            "en": "H: 角帶 (jiaodai), defined in a dictionary as a belt decorated with ox horn or jade; the intended sense and specific form here are uncertain. L: a mandarin’s belt.",
+            "confidence": "medium",
+            "notes": "角带的字典义参教育部《重编国语辞典修订本》「角帶」：https://dict.revised.moe.edu.tw/dictView.jsp?ID=91418&la=0&powerMode=0；本条形制及 H、L 两栏的对应待核。M 栏为「cǎg hôa」，R 栏为「cō tāy」；末音与 H 栏「帶」的具体对应待核。"
+          }
+        },
+        {
+          "position": 16,
+          "old": {
+            "position": 16,
+            "zh": "冠带；冠与腰带（官员衣冠束带，亦借指官身名分）",
+            "en": "cap and girdle - the mandarin's official headwear and belt; insignia of rank",
+            "confidence": "medium",
+            "notes": "西语词头两处[疑]标（cinco/cinto、Mandain/Mandarin），据汉字冠带与对音 cuân tāy 定为 cinto de mandarín。"
+          },
+          "new": {
+            "position": 16,
+            "zh": "H 栏：冠带；L 栏：cinco/cinto de Mandain/Mandarin，若读作 cinto de Mandarin 可译为官员的带；疑读及两栏对应待核。",
+            "en": "H: cap and belt (冠帶); L: cinco/cinto de Mandain/Mandarin. If read as cinto de Mandarin, it means a mandarin’s belt; the readings and correspondence remain uncertain.",
+            "confidence": "low",
+            "notes": "L 栏两处分别标「[疑:cinco/cinto]」「[疑:Mandain/Mandarin]」，不能据 H 栏或邻条直接确定疑读。"
+          }
+        },
+        {
+          "position": 17,
+          "old": {
+            "position": 17,
+            "zh": "贵绅之带；士绅腰间束带（汉字二字均带疑标，确字难定）",
+            "en": "belt of the nobles / gentry (cinto de nobles); exact Chinese characters uncertain",
+            "confidence": "medium",
+            "notes": "汉字'翁/翕''陸/陛'均带[疑]标且不成词，尾句'q̃ Ma mn ml paypay'残讹；据西语义与对音第二音节 tāy≈带 立义。"
+          },
+          "new": {
+            "position": 17,
+            "zh": "L 栏：贵族的带；H 栏：〔翁/翕〕〔陸/陛〕，字形、词义及两栏对应待核。",
+            "en": "L: a belt of the nobles; H: 〔翁/翕〕〔陸/陛〕, with the character readings, expression, and correspondence uncertain.",
+            "confidence": "low",
+            "notes": "H 栏两字分别标「[疑:翁/翕]」「[疑:陸/陛]」；L 栏余文「q̃ Ma mn ml paypay」未解。M 栏「sīn quy」与 R 栏「sīn tāy」后段不同，其与 H 栏的对应待核。"
+          }
+        }
+      ],
+      "initial_review": "codex_M6_preview/batch04_review_p0256.json",
+      "final_review": "codex_M6_preview/batch04_review_p0256_final.json"
+    }
+  ]
+}

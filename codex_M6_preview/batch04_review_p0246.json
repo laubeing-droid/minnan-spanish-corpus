@@ -1,0 +1,156 @@
+{
+  "page": 246,
+  "review_type": "NONBLIND",
+  "scope": "仅复核本批实际修复影响页 p0246；以最新封存、原主释义与候选逐条比较；非独立盲读、非整书验收。",
+  "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0246.json",
+  "sealed_sha256": "073659763e5cce789b595a76e2b9eedf554023de772aa87012abfa2017c66082",
+  "original_gloss_path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0246.json",
+  "original_gloss_sha256": "dab546239f71efbdc57b8f2c89c3059fd826a261ac7a58a9c310c8801ed721bc",
+  "candidate_path": "codex_M6_preview/batch04_refresh_p0246.json",
+  "candidate_sha256": "647769d033fd3731d1ceb5dfd13ca81512c0c6405fcb281f3636de81edb61b80",
+  "seal_receipt_path": "codex_M1_batch04_seal_receipt.json",
+  "seal_receipt_sha256": "c9187f941e79b2496e79dd38e1da0952dac62fa20b3f71405ddea0eb70d8a05b",
+  "positions_reviewed": 18,
+  "result": "PASS_WITH_OPTIONAL_IMPROVEMENTS",
+  "entry_16_update_check": {
+    "field": "source_R",
+    "previous": "chȳ guīn.",
+    "sealed": "chī guīn",
+    "candidate_notes": "R 栏作「chī guīn」，M 栏作「chȳ guīn.」，首音节写法不同；H 栏「只近」的具体词义及音字对应待核。",
+    "source_M": "chȳ guīn.",
+    "matches_seal_and_receipt": true,
+    "limitation": "仅核对本批修复回执、封存与候选的文字一致性，不是对原图重新裁读。"
+  },
+  "issues": [
+    {
+      "position": 4,
+      "priority": "optional",
+      "type": "source_locator",
+      "evidence": "候选所引教育部台语辞典索引页确有「印色：印泥」，并非错误来源；另有同一辞典的印色专条。",
+      "issue": "当前链接指向包含多个词目的索引页，读者需在页中定位印色。",
+      "suggestion": "可改为直达「印色」专条 https://sutian.moe.edu.tw/zh-hant/su/2165/，仍保留其为现代一般词义、不能决定本条 L/H 对应的限定。",
+      "limitation": "词典专条只能支持印色可指印泥，不能证明历史条目所指或与红蜡同物。"
+    },
+    {
+      "position": 17,
+      "priority": "optional",
+      "type": "qualified_word_sense",
+      "evidence": "封存 L 为「cerca por thodes partes」；候选保留整句和 thodes partes 待核，尚未说明可独立识别的 partes 的一般词义。",
+      "issue": "未保留 partes 可能指部分或地点的词典参照；但候选并未漏记原文，也未误判整句。",
+      "suggestion": "可在 notes 附带说明：现代西语 parte 有部分或地点义，封存的 partes 与其对应、本条词义及整句仍待核；不得把 thodes 直接定为 todas 或把整句定为「到处」。",
+      "reference": "https://dle.rae.es/parte",
+      "limitation": "现代词典不裁定 thodes 的字形、partes 的具体义项或全句与 H 栏对应。"
+    },
+    {
+      "position": 18,
+      "priority": "optional",
+      "type": "bilingual_completeness",
+      "evidence": "候选 notes 已说明 cerca 可指近处或围栏、palos 可指木棍；zh/en 主释义仅列西语词形而未译这些可能义。",
+      "issue": "英文读者不能仅凭 en 看到 notes 所列西语词形的一般可能义；整句和两栏对应已正确标为待核。",
+      "suggestion": "可在中英主释义限定式补充 cerca 可能为近或围栏、palos 可能为木棍 / sticks，并继续标明未判定本条词义、整句及栏间对应。",
+      "references": [
+        "https://dle.rae.es/cerca",
+        "https://dle.rae.es/palo"
+      ],
+      "limitation": "多义词的一般词典义不能确定 palos 指何物，不能据此构造木栅、阻路或止步场景。"
+    }
+  ],
+  "entry_reviews": [
+    {
+      "position": 1,
+      "result": "PASS_WITH_CAUTION",
+      "finding": "cepillo 的刷具或刨具为词典可能义；H 首字爪/瓜及对应关系标疑。araiar、p̃ 和 de lollar 未解，不能仅凭近形词把其定为刮擦。"
+    },
+    {
+      "position": 2,
+      "result": "PASS",
+      "finding": "L 按手足枷具释义，H 合床的形制及两栏对应另标待核；R 首音疑读保留。"
+    },
+    {
+      "position": 3,
+      "result": "PASS",
+      "finding": "cera 与蠟的蜡义保留，未按原释增加未证的蜂蜡；R 疑读有记载。"
+    },
+    {
+      "position": 4,
+      "result": "PASS_WITH_OPTIONAL_LOCATOR",
+      "finding": "红蜡与印色分栏、是否同物待核；所引辞典索引页确有印色，可选换专条链接。"
+    },
+    {
+      "position": 5,
+      "result": "PASS",
+      "finding": "耳蜡据 L 栏，H 为空，R 为旁注且内容与对应待核。"
+    },
+    {
+      "position": 6,
+      "result": "PASS_WITH_CAUTION",
+      "finding": "近、临近义保留；prox̃e、agui 及 R 旁注未擅自展开，具体句法和音写待核。"
+    },
+    {
+      "position": 7,
+      "result": "PASS",
+      "finding": "近义有 L/H 支持，M 双音与 H 单字的对应待核。"
+    },
+    {
+      "position": 8,
+      "result": "PASS",
+      "finding": "H 迗/迕、R ìì/ùl 的疑读保留；L 的近与围栏均作可能义。"
+    },
+    {
+      "position": 9,
+      "result": "PASS",
+      "finding": "L 近与 H 迫近义可相互参照，删除原释未经本条确认的紧迫义；未发现必须修订之处。"
+    },
+    {
+      "position": 10,
+      "result": "PASS",
+      "finding": "接近、亲近义与 cerca/cercano 及親可相参照；未续用原释未经本条确认的亲眷义。"
+    },
+    {
+      "position": 11,
+      "result": "PASS",
+      "finding": "H 单字只与 L cerca 分列，M 的双音未用作向 H 增字的证据，词义与对应未强行合并。"
+    },
+    {
+      "position": 12,
+      "result": "PASS",
+      "finding": "H 蹙/壓 疑字保留，L cerca 的近或围栏均作可能义，未将皱眉写成确定背景。"
+    },
+    {
+      "position": 13,
+      "result": "PASS",
+      "finding": "H 兜具体义与 L 对应待核；R teù/feù 疑读保留，未将围拢确定为本条释义。"
+    },
+    {
+      "position": 14,
+      "result": "PASS",
+      "finding": "L cerca 与 H 臨近对应的近、靠近义有封存支持；未发现必须修订之处。"
+    },
+    {
+      "position": 15,
+      "result": "PASS",
+      "finding": "H 近近与 L 近义分列；叠用含义未被直接定为极近或紧挨。"
+    },
+    {
+      "position": 16,
+      "result": "PASS",
+      "finding": "R 栏 chī guīn 与本批实际修复、最新封存和候选 notes 一致；M 栏 chȳ guīn. 另列，未混同。"
+    },
+    {
+      "position": 17,
+      "result": "PASS_WITH_OPTIONAL_GLOSS",
+      "finding": "H 四圍释四周，L 原文及 thodes 句义待核；可附 partes 的一般词典义，但不能确定整句。"
+    },
+    {
+      "position": 18,
+      "result": "PASS_WITH_OPTIONAL_GLOSS",
+      "finding": "H 止足和 L 的 cerca、palos 分列，整句未解；可将 notes 中的可能词义同步写入中英文主释义，仍保留不确定性。"
+    }
+  ],
+  "review_notes": [
+    "逐条比较 zh、en、notes、confidence 与封存 L/H/M/R；PASS 仅表示本次未发现需指出的具体问题。",
+    "三项建议均为可选改进，不把一般词典义升级为本条确定历史义或栏间对应。",
+    "未对原图进行独立盲读、视觉重裁或人工验真；仅对照当前封存、修复回执、原释义与候选。",
+    "复核绑定列示的哈希；封存、原释或候选若变更，应针对变更重新检查。"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "protocol": "CODEX_M1_BATCH04_AUDIT_V1",
+  "actor": "Codex 子代理 adk_batch04_c",
+  "bbox_space": "原始横带图像像素坐标，左上为原点，xyxy",
+  "method": "非盲复核 ADK 任务及回执，对原横带做五倍像素放大",
+  "records": [
+    {
+      "page": 243,
+      "index_1based": 15,
+      "candidate": "zūn",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0243/pdf_0243_band_y0_top.png",
+      "bbox_xyxy": [
+        1580,
+        920,
+        1830,
+        1060
+      ],
+      "reason": "右栏第 3 行首笔呈 z，后段若干弧线连写；横画偏在末段上方，u/n 分界及横画对 u 的归属不能从五倍原图确定。词段仅为该单词，不足以支持完整 zūn。"
+    },
+    {
+      "page": 246,
+      "index_1based": 11,
+      "candidate": "lîn",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0246/pdf_0246_band_y1_mid.png",
+      "bbox_xyxy": [
+        1650,
+        140,
+        1840,
+        280
+      ],
+      "reason": "右栏第 6 行可见 l 与后续连笔，i 点和尖折分开，尖折偏在末笔上方，i/n 分界和尖折是否确属 i 无法确定；中间栏 riaq 旁注与右栏正文分开，不计入目标词段。"
+    },
+    {
+      "page": 246,
+      "index_1based": 18,
+      "candidate": "chī guīn",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0246/pdf_0246_band_y2_bot.png",
+      "bbox_xyxy": [
+        1650,
+        400,
+        1940,
+        560
+      ],
+      "reason": "右栏第 16 行为两个词：第一词可见 ch 后短 i 及其点，无 y 的下伸笔；第二词可见 g 的下伸圈、ui 与 n，i 有点；两词上方各有横画，图中未见另加上置字母，支持 chī guīn。"
+    },
+    {
+      "page": 249,
+      "index_1based": 9,
+      "candidate": "hū fâ.",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0249/pdf_0249_band_y0_top.png",
+      "bbox_xyxy": [
+        1040,
+        700,
+        1320,
+        850
+      ],
+      "reason": "M 栏第 4 行有两个词，首词 h-u 上方是横画，次词 a 上方有尖折并有句点；次词起笔为带横穿笔的长竖，与同页相似笔形对照仍不能可靠区分 f/t，不能确认完整 hū fâ。"
+    },
+    {
+      "page": 255,
+      "index_1based": 16,
+      "candidate": "kēng",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0255/pdf_0255_band_y1_mid.png",
+      "bbox_xyxy": [
+        1520,
+        390,
+        1760,
+        530
+      ],
+      "reason": "右栏第 9 行为单词，末段有下伸圈及上横；首字与相邻元音处浓墨连成一团，无法可靠区分 k/t 及完整元音，故不能确认 kēng。"
+    }
+  ]
+}

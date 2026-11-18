@@ -1,0 +1,181 @@
+{
+  "page": 256,
+  "review_type": "NONBLIND",
+  "scope": "仅复核本批实际修复影响页 p0256；以最新封存、原主释义与候选逐条比较；非独立盲读、非整书验收。",
+  "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0256.json",
+  "sealed_sha256": "4f87ba5e70aba347391a21f16c04d2889b8f22e99dd225fc8d84a9c6ac731a6f",
+  "original_gloss_path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0256.json",
+  "original_gloss_sha256": "7de06323549cf3089012ef7e1939512491d974a16de6310cb54400fdf33e10cb",
+  "candidate_path": "codex_M6_preview/batch04_refresh_p0256.json",
+  "candidate_sha256": "1cc7340a00b5d357403273a1d71d50216de2e80ab27b5cb0c6ea1bad85ee3176",
+  "seal_receipt_path": "codex_M1_batch04_seal_receipt_initial.json",
+  "seal_receipt_sha256": "4e0c1ddbd4852c996c5d28ab107b393cd3d6883a076fc4ac26c51bf5219b4e66",
+  "positions_reviewed": 17,
+  "result": "ISSUES_FOUND",
+  "entry_9_update_check": {
+    "field": "source_R",
+    "previous": "mà lē tín",
+    "sealed": "mà lē tū",
+    "candidate_notes": "mà lē tū",
+    "matches_seal_and_receipt": true,
+    "sealed_H": "馬 勒 肚",
+    "candidate_H": "馬 勒 肚",
+    "sealed_L": "cincha de caballo",
+    "candidate_L": "cincha de caballo"
+  },
+  "issues": [
+    {
+      "position": 1,
+      "priority": "optional",
+      "type": "qualified_source_sense",
+      "evidence": "封存 L 为「cigarra grande Canta,」；候选两语仅释大型蝉，notes 仅称 Canta 词性及与前文关系待核。",
+      "issue": "原词虽保留，但未提示 Canta 可能涉及鸣叫，读者无法从现注释了解被搁置的潜在语义。",
+      "suggestion": "可在 notes 标注「Canta 若为 cantar 的变位，可能涉及鸣叫；词性、断句及与前文关系待核」。不要径作“这只蝉鸣叫”的确定释义。",
+      "limitation": "现代词典可说明动物的鸣叫用法，不能确定此处历史语境、字词归属或断句。",
+      "reference": "https://dle.rae.es/cantar"
+    },
+    {
+      "position": 2,
+      "priority": "recommended_revision",
+      "type": "certainty_mismatch",
+      "evidence": "封存 L 为「cigarra de china q̄ come La oraya.」；候选 notes 称 q̄ 疑为 que，zh/en 却直接断言其吃 oraya。",
+      "issue": "两语已将缩写和句法尚待核的解读写成确定的关系从句；notes 的存疑不足以消除主释义的确定口吻。",
+      "suggestion": "改为「L 栏：中国蝉；含 q̄ come La oraya，可能涉及吃 oraya，缩写、句法和 oraya 所指待核」；英文同步用 may，H 与 L 分列。",
+      "limitation": "q̄ 的展开、oraya 所指及两栏对应均未由本次对照解决；不猜测 oraya 的对象。"
+    },
+    {
+      "position": 12,
+      "priority": "recommended_revision",
+      "type": "certainty_mismatch",
+      "evidence": "封存 L 为「Cingulo ÿ paño al roño:」；候选 zh/en 作「束带和布」「a girdle and cloth」，notes 则仅说 ÿ 可能为连接词 y。",
+      "issue": "主释义把两项之间的“和/and”写成确定关系，与 notes 的条件表述不一致；al roño 和栏间对应虽已保留待核。",
+      "suggestion": "中文可写「L 栏含束带、布及 ÿ；ÿ 是否为‘和’、al roño 含义与两栏对应待核」，英文同步表述，保留原疑点。",
+      "limitation": "本次未据原图或历史词典裁定 ÿ 的字形、词性及整句结构。"
+    },
+    {
+      "position": 13,
+      "priority": "optional",
+      "type": "qualified_original_sense",
+      "evidence": "原释 notes 将 oliga 疑分为 o liga，并提到 liga 可指束带/袜带；候选 notes 保留分词待核，但没有任何 liga 的可能义。",
+      "issue": "分词候选的内容仍在，但原注释中可供比对的一项可能词义被省去。",
+      "suggestion": "可在 notes 补「若断作 o liga，现代词典中 liga 可指束带或袜带；本条断词与历史语义均待核」。不将袜带作为本条确定主释义。",
+      "limitation": "现代词典义不证明此处一定为 o liga，亦不证明历史使用的具体形制。",
+      "reference": "https://dle.rae.es/liga"
+    },
+    {
+      "position": 14,
+      "priority": "optional",
+      "type": "qualified_original_sense",
+      "evidence": "原释 zh/en 将韬列为弓剑套袋义；候选改为仅称「韜，具体义待核」，将该字典义完全删去。封存 H 仅为「韜」，L 为「cinta, oliga d mandarin.」。",
+      "issue": "候选避免把弓剑套袋强加于本条是审慎的，但未保留原释中可以作为字典参照的重要普通字义。",
+      "suggestion": "可在 notes 说明「字典中韜有弓、剑套袋义，本条是否为该义及与 L 栏是否对应均待核」；英文如引用此义也标明是一般字典义。",
+      "limitation": "字典给出一般字义，不足以确定该历史词条实际义项或解决 H/L 不合。",
+      "reference": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=10163&la=0&powerMode=0"
+    },
+    {
+      "position": 15,
+      "priority": "optional",
+      "type": "qualified_original_sense_and_translation",
+      "evidence": "封存 H 为「角 帶」、L 为「Cinto de Mandarin」；原释含“镶角饰”，候选英文仅音译 角帶 并解释 L 为官员的带。",
+      "issue": "候选未将原释有根据的角带通行释义保留为限定性的词典参考；英文读者也看不到 H 的可能含义。",
+      "suggestion": "可在中英文或 notes 补充「角带一般指以角或玉等装饰的腰带；本条具体形制及 H/L 对应待核」，将其明确标作外部词典参考，不确定为本件佩饰的实物形制。",
+      "limitation": "普通辞典所列通义不能直接证明本条所指的材质、形制或佩戴人身份。",
+      "reference": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=91418&la=0&powerMode=0"
+    }
+  ],
+  "entry_reviews": [
+    {
+      "position": 1,
+      "result": "OPTIONAL",
+      "finding": "L 大蝉、H 三字疑读与栏间对应均已保留；Canta 的可能鸣叫义可加条件式说明。"
+    },
+    {
+      "position": 2,
+      "result": "REVISE",
+      "finding": "两栏分列正确；L 相对句的断定强度高于 notes 对 q̄ 的把握。"
+    },
+    {
+      "position": 3,
+      "result": "PASS",
+      "finding": "H 螳蜋和 L 中国蝉分列，未把不同栏义强行合并。"
+    },
+    {
+      "position": 4,
+      "result": "PASS",
+      "finding": "L 鹳和 H 水〔鶯/鵝〕分列，疑字与对应关系保留。"
+    },
+    {
+      "position": 5,
+      "result": "PASS",
+      "finding": "基础义与 L cimientos、H 基相符，原主释未变。"
+    },
+    {
+      "position": 6,
+      "result": "PASS",
+      "finding": "墙基依据 H；L 泛称基础，H 牆/墙疑形及语义见 notes。"
+    },
+    {
+      "position": 7,
+      "result": "PASS",
+      "finding": "H 地基与 L 基础均保留；删除未经本条确认的房基专指可接受。"
+    },
+    {
+      "position": 8,
+      "result": "PASS",
+      "finding": "L 马腹带与 H 勒分列，去掉旧释直接判为马口衔缰的断言；ta 和对应待核。"
+    },
+    {
+      "position": 9,
+      "result": "PASS",
+      "finding": "候选 notes 为 R「mà lē tū」，与最新封存和本批实际修复回执一致；H 馬勒肚及 L cincha de caballo 也同步。"
+    },
+    {
+      "position": 10,
+      "result": "PASS",
+      "finding": "L/H 五义保留；M、R 字音对应及 pram 均明确待核。"
+    },
+    {
+      "position": 11,
+      "result": "PASS_WITH_CAUTION",
+      "finding": "L 的五与疑似下午、H 酉及 M iū sī 均有交代；未将旧释下午五点和酉时定论重写，可接受。若补旧释须限于可能性且保留句法疑点。"
+    },
+    {
+      "position": 12,
+      "result": "REVISE",
+      "finding": "H 汗巾及 L 词面分列；ÿ 在主释被译为确定的“和”，与 notes 的存疑不一致。"
+    },
+    {
+      "position": 13,
+      "result": "OPTIONAL",
+      "finding": "H 带、L cinta 和 oliga 待核均保留；可条件式补充原释中的 liga 候选义。"
+    },
+    {
+      "position": 14,
+      "result": "OPTIONAL",
+      "finding": "H 韜、L 疑似官员束带分列；可将旧释所含套袋字典义限于一般参考保留。"
+    },
+    {
+      "position": 15,
+      "result": "OPTIONAL",
+      "finding": "H 角带及 L 官员的带分列，现未确定形制；可补一般词典义，英文尤其需要可理解的释义。"
+    },
+    {
+      "position": 16,
+      "result": "PASS",
+      "finding": "H 冠带与 L 两处疑读分列；仅以条件句解释 cinto de Mandarin，未定为原文。"
+    },
+    {
+      "position": 17,
+      "result": "PASS",
+      "finding": "L 贵族的带、H 双字疑读及余文未解分列；M、R 音写差异保留。"
+    }
+  ],
+  "review_notes": [
+    "recommended_revision 标示主释义确定性与 notes 不一致；optional 为有条件地保存可能义，不应将普通字典义当作本词条已证历史义。",
+    "已按候选现有 zh、en、notes 与封存 L/H/M/R 比对全部 17 条；PASS 仅表示本次未发现需指出的具体问题。",
+    "外部现代辞典仅用于解释可能的一般词义，不是本件字形、断句、具体历史语义或栏间对应的裁决。",
+    "本次未重读原图或人工裁定字面；第 9 条同步检查核对的是最新盲读封存、候选和修复回执的一致性，非独立视觉复核。",
+    "复核绑定列示的哈希；若封存、原释或候选发生变动，须针对变动重新检查。"
+  ],
+  "receipt_relocation_note": "首份单页封存回执保留原字节；汇总其他受影响页后改为独立路径，原 SHA 不变。"
+}

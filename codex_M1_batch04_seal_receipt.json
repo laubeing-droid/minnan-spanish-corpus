@@ -1,0 +1,121 @@
+{
+  "status": "SEALED_AND_VERIFIED",
+  "selected_pages": [
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262
+  ],
+  "repair_batches": [
+    {
+      "path": "literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_0243_0262_20261118T194938228166Z.json",
+      "sha256": "9c48026d3ab6b733bfea5c2f494e8df07041358185b9dc0ccbab7ecea8af1efd",
+      "applied_count": 1,
+      "deferred_count": 37
+    },
+    {
+      "path": "literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_0246_0247_20261118T195839391902Z.json",
+      "sha256": "256e9dbad9b99f0fd74853d05b6d8f2f2390e4c78dc6277c1b5aaf9402a29167",
+      "applied_count": 2,
+      "deferred_count": 2
+    }
+  ],
+  "baseline_alignment": "codex_M1_batch04_raw_alignment.json",
+  "sealed_pages": [
+    246,
+    247,
+    256
+  ],
+  "actual_repairs": [
+    {
+      "page": 246,
+      "position": 16,
+      "field": "source_R",
+      "old": "chȳ guīn.",
+      "new": "chī guīn",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0246.json",
+        "index": 18,
+        "position": 16,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "rr",
+          "tone_mark": "一致"
+        }
+      },
+      "sealed_sha256": "073659763e5cce789b595a76e2b9eedf554023de772aa87012abfa2017c66082"
+    },
+    {
+      "page": 247,
+      "position": 3,
+      "field": "source_R",
+      "old": "bŷ",
+      "new": "lŷ",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0247.json",
+        "index": 11,
+        "position": 3,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "rr",
+          "tone_mark": "一致"
+        }
+      },
+      "sealed_sha256": "7ed3be189b76e4eff8bc5315ad9e26c916d3c91b00d9cdedccb3fee5377c1767"
+    },
+    {
+      "page": 256,
+      "position": 9,
+      "field": "source_R",
+      "old": "mà lē tín",
+      "new": "mà lē tū",
+      "receipt": {
+        "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0256.json",
+        "index": 14,
+        "position": 9,
+        "match": "position_and_values",
+        "legacyExempt": false,
+        "metadata": {
+          "letters": "rr",
+          "tone_mark": "一致"
+        }
+      },
+      "sealed_sha256": "4f87ba5e70aba347391a21f16c04d2889b8f22e99dd225fc8d84a9c6ac731a6f"
+    }
+  ],
+  "actual_repair_count": 3,
+  "initial_deferred_count": 37,
+  "later_resolved_initial_deferrals": 2,
+  "remaining_initial_deferrals": 35,
+  "later_deferred_count": 2,
+  "collector_pending_count": 353,
+  "pipeline_result": {
+    "verdict": "PASS",
+    "coverage_ok": true,
+    "gate_pass": true,
+    "resweep_exit": 0,
+    "hard_baseline_before": 3705,
+    "hard_after": 3705,
+    "delta": 0,
+    "source": "两次 seal_and_verify.py --source 均通过"
+  },
+  "limitations": "后续两条延迟属于首批延迟的重叠；修复延迟、收集待核和墨迹不明存在重叠，不能相加。门禁只验证封存和覆盖。"
+}
