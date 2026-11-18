@@ -13,3 +13,5 @@
 第三、四批依据原图及 Juan Gil（2019–2020）对本辞典的逐例讨论，并经另一位非盲读者核对，修正 19 页 22 条主释义；对字面差异、跨栏对应和未定汉字均保留待核。两批逐项 old/new 见 `codex_M6_preview/nonblind_gloss_fix_receipt_3.json`、`codex_M6_preview/nonblind_gloss_fix_receipt_4.json`。截至本批四份回执合计 26 页 30 条，均非正式字面修复或全书释义验收。
 
 第五批将三页六条西文器物、节庆与汉字对译的差异按栏分述：p0181 #12/#13、p0323 #3–#5、p0488 #11；第六批依据原图及文献修正 p0290 #3、p0730 #20、p1115 #14，保留跨栏和字义待核。两批 old/new 分别见 `codex_M6_preview/nonblind_gloss_fix_receipt_5.json` 与 `codex_M6_preview/nonblind_gloss_fix_receipt_6.json`。六批累计 32 页 39 条；其他释义版本和全书内容仍未完成复核。
+
+第七批对照 p0281 #6/#7 原图，将不受西文支持的音信、基督福音释义改为有待核标记的财物或益处；Gil 只直接引同页 #8，未逐条引 #6/#7。另更正此前 #8 将 R 栏第二项 T99 误写为首项的注释；逐项回执为 `codex_M6_preview/nonblind_gloss_fix_receipt_7.json`。累计 32 页 41 条不同释义有非盲修订，其中 #8 有一次后续注释更正，共 42 个修订事件。
