@@ -1,0 +1,261 @@
+{
+  "protocol": "ADK_VERDICT_V1",
+  "page": 279,
+  "actor": "Codex 子代理",
+  "actor_id": "adk_batch05_b",
+  "method": "对照 v1/rr 的原图裁决，非独立盲读",
+  "verdicts": [
+    {
+      "position": 4,
+      "field": "source_R",
+      "v1": "ār fā",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第4行右栏前词上横、后词上横清楚；后词起笔粗黑成团，不能完整排定 f 或 j 一类字母。"
+    },
+    {
+      "position": 6,
+      "field": "source_M",
+      "v1": "cat cháy fēng",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第6行中栏首词末笔无 t 横画，更像 r；cháy 上另有小字，第三词上横可见，整段不能按现有文字完整确认。"
+    },
+    {
+      "position": 6,
+      "field": "source_R",
+      "v1": "guīe cháy fēng",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第6行右栏第二词上有清楚的上置 c 形字，v1 漏记；末词起笔及第二词调记需细辨，不能填完整 ink。"
+    },
+    {
+      "position": 2,
+      "field": "M",
+      "v1": "tīēp",
+      "rr": "",
+      "verdict": "两皆误",
+      "letters": "两皆误",
+      "tone_mark": "位置差",
+      "note": "第2行中栏是 t、i、a、p，a 上为向下尖的勾形，非 ie 两横；此项按完整目标词裁决。",
+      "ink": "tiǎp"
+    },
+    {
+      "position": 6,
+      "field": "M",
+      "v1": "fēng",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第6行中栏第三词起笔有高环长下笔，后接 eng，e 上横；所查 fēng 为词内完整部分。"
+    },
+    {
+      "position": 1,
+      "field": "M",
+      "v1": "uē.",
+      "rr": "cue.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "缺失",
+      "note": "第1行中栏词被圈线穿过，后部 ue 和上方尖角清楚；最前 c 形与圈线交叠，不能把无调的 rr 判作完整正确。"
+    },
+    {
+      "position": 2,
+      "field": "M",
+      "v1": "tīēp",
+      "rr": "tiāp",
+      "verdict": "两皆误",
+      "letters": "rr",
+      "tone_mark": "位置差",
+      "note": "第2行中栏 t、i、a、p 清楚，a 上为向下尖的勾形，非 v1 的 ie，也非 rr 的平横。",
+      "ink": "tiǎp"
+    },
+    {
+      "position": 3,
+      "field": "M",
+      "v1": "ān chē.",
+      "rr": "archèng.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第3行中栏首词尾有短挑，次词及上部重叠墨点不易拆分，无法确认词尾和上置小字。"
+    },
+    {
+      "position": 4,
+      "field": "M",
+      "v1": "āt chā",
+      "rr": "ar ĝoà",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第4行中栏首词写 ar，次词起笔长下伸并连后续字母，上方斜笔及浓墨交叠，不能确认完整次词。"
+    },
+    {
+      "position": 4,
+      "field": "R",
+      "v1": "ār fā",
+      "rr": "ar joā",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第4行右栏两词上方均为横笔；后词首字上端浓墨，f 与其他长下笔字母不能完整区分。"
+    },
+    {
+      "position": 5,
+      "field": "M",
+      "v1": "cat cháy.",
+      "rr": "carchây.",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第5行中栏前词末笔为短挑而非 t 横，后词上方有小 c 形及重墨，两个候选都未覆盖上置字。"
+    },
+    {
+      "position": 6,
+      "field": "M",
+      "v1": "cat cháy fēng",
+      "rr": "carchay tēng",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第6行中栏首词末笔非 t 横，第二词上有小 c 形字；候选均未覆盖该上置字及完整符号。"
+    },
+    {
+      "position": 6,
+      "field": "R",
+      "v1": "guīe cháy fēng",
+      "rr": "guīe chây tēng",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第6行右栏第二词上有清楚的上置 c 形字，两候选均漏记；末词首字和第二词调记需细辨。"
+    },
+    {
+      "position": 7,
+      "field": "R",
+      "v1": "gày chìy chèng",
+      "rr": "gây chî chèng",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第7行右栏首词上有小 c 形，两候选均漏记；首字下伸笔及其上调形仍需细辨。"
+    },
+    {
+      "position": 9,
+      "field": "M",
+      "v1": "chit būn.",
+      "rr": "chiîç bûn.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第9行中栏首词末笔有下伸，似非 t；其本体及上方尖笔需细辨，次词上有横笔。"
+    },
+    {
+      "position": 10,
+      "field": "M",
+      "v1": "chēng quy ȳ.",
+      "rr": "chèng guî y.",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第10行中栏首词上有斜笔，第二词上有附加小字，末词有横笔；不能忽略小字仅按候选字母判对。"
+    },
+    {
+      "position": 11,
+      "field": "R",
+      "v1": "chī lcān hòn",
+      "rr": "chī can hòn",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第11行右栏次词上有小 c 形，两候选均漏记；首词 i/y 及次词首长竖需辨。"
+    },
+    {
+      "position": 12,
+      "field": "M",
+      "v1": "chỳ yō liāu",
+      "rr": "tiāp guî",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第12行中栏写三词，第二词上为勾形，第三词上有浓重附笔；rr 对应的字形不在此行，v1 未覆盖上部笔画。"
+    },
+    {
+      "position": 12,
+      "field": "R",
+      "v1": "chī yō lāu",
+      "rr": "tiē gìi",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第12行右栏依次为 chy、yo、lau，三词各有上横；首词 y 明显下伸，rr 不对应此行。 五倍图复核：制药料行右栏有三词且均上横，首词 y 明显下伸、第二词为 yo；第三词 la 后末笔连写，u 与 n 尚不能可靠区分，因此完整候选待核。"
+    },
+    {
+      "position": 13,
+      "field": "M",
+      "v1": "siāng chù.",
+      "rr": "sī bûn.",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第13行中栏第二词上有小 c 形，两候选均漏记；第一词及调记需进一步核清。"
+    },
+    {
+      "position": 13,
+      "field": "R",
+      "v1": "siàng chù",
+      "rr": "gîbûn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第13行右栏第一词上方为弯折笔，第二词尾及上方斜笔需辨，rr 不对应该行。"
+    },
+    {
+      "position": 14,
+      "field": "M",
+      "v1": "chiān hāp,",
+      "rr": "bīn māu",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第14行中栏两词上分别有重墨和勾形笔，前词起笔及上方覆盖难以确认完整字母。"
+    },
+    {
+      "position": 14,
+      "field": "R",
+      "v1": "zūe kō",
+      "rr": "miēn māu",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第14行右栏第一词 z 形长下笔后接 ue，上有横；第二词 ko 上亦有横，完整范围清楚。"
+    },
+    {
+      "position": 15,
+      "field": "M",
+      "v1": "tiāp quy",
+      "rr": "iōng māu",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第15行中栏首词可见 i、a、p 及向下勾，次词上有浓墨和小 e 形附笔，两候选均未覆盖该上部字。"
+    },
+    {
+      "position": 15,
+      "field": "R",
+      "v1": "tīé quy",
+      "rr": "yông māu",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第15行右栏首词有上横，次词上另有小 c 形附笔，两候选均未覆盖上置小字。"
+    }
+  ]
+}

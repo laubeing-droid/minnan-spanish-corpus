@@ -1,0 +1,110 @@
+{
+  "page": 282,
+  "review_type": "AUTHOR_SELF_CHECK_NONBLIND",
+  "independent_review": false,
+  "scope": "由候选作者自核修订后的第 1、2、4、6、7、14、16 条，以及最新封存第 13 条 R 栏声调标记；不是独立复审或原图重读。",
+  "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0282.json",
+  "sealed_sha256": "ecbafdec52c8ef6644116716ece221be797eb57398e59cad4a6f6c8e6712a724",
+  "candidate_path": "codex_M6_preview/batch05_refresh_v2_p0282.json",
+  "candidate_sha256": "865e255fee61623539d72b1e070ada55f0f30bfa5254c0c8bedd9ba3c3f7cf0c",
+  "prior_review_path": "codex_M6_preview/batch05_review_p0282.json",
+  "prior_review_sha256": "87f0201a5a414b0c2f0752ca89dc728216e4b86beeeed1e34737c395daf24b9e",
+  "raw_path": "literature/workspace_m2_dhs834/raw_blind/raw_part_p0282.json",
+  "raw_sha256": "7b1ea1e40210ea1db1f0cf0852d055cdeef583d2984b71e3ae39d70eb97db90f",
+  "result": "SELF_CHECK_FURTHER_IMPROVEMENT_RECOMMENDED",
+  "entry_13_update_check": {
+    "sealed_source_R": "chŷ chèng",
+    "candidate_notes_excerpt": "R 栏现封存为「chŷ chèng」，M 栏为「chěy chěng」，两栏音写的具体对应待核。",
+    "sealed_tone_marks_R": [
+      "T03 (尖頂帽)",
+      "T02 (降斜)"
+    ],
+    "prior_second_tone_mark": "T04 (凹角)",
+    "current_second_tone_mark": "T02 (降斜)",
+    "matches_latest_seal": true,
+    "limitation": "只核最新封存和候选文字；候选 notes 未列 R 声调数组，也未重复旧 T04。未重读原图，不能独立确认声调改动。"
+  },
+  "checks": [
+    {
+      "position": 1,
+      "result": "PASS",
+      "finding": "英文「a major effort or attempt」保留 grande 对两个候选义项的限定；本条义及 L/H 对应仍待核。"
+    },
+    {
+      "position": 2,
+      "result": "PASS_WITH_CAUTION",
+      "finding": "Conabir 与 concebir 仅作为可能关系，M 字段 T99 被保留且未单据它断定词义；原始转录备注对小符号类型另存疑，见 issues。"
+    },
+    {
+      "position": 4,
+      "result": "PASS_WITH_CAUTION",
+      "finding": "中英区分 concebir 可指受孕与辞典所列「投胎」的转生人世义，不把词典义当作本条已定用义；M 字段 T99 保留，其符号类型仍见 issues。",
+      "references": [
+        "https://dle.rae.es/concebir",
+        "https://dict.revised.moe.edu.tw/dictView.jsp?ID=50572&q=1&word=%E6%8A%95"
+      ]
+    },
+    {
+      "position": 6,
+      "result": "PASS",
+      "finding": "中英均有现代词典所列担子、责任或抬头用例；con ceder 和 Bayando 的读法、本条取义和跨栏对应均保留待核。",
+      "references": [
+        "https://sutian.moe.edu.tw/zh-hant/su/11696/",
+        "https://sutian.moe.edu.tw/zh-hant/su/11650/"
+      ]
+    },
+    {
+      "position": 7,
+      "result": "PASS_WITH_COMPLETENESS_CONCERN",
+      "finding": "已保留应允与否认、H 疑字及 uno/otro 指人还是事和说话者关系待核；后半句中英文仍只照录西语并称其与说话有关，可考虑以两种可能读法补足分述关系。"
+    },
+    {
+      "position": 14,
+      "result": "PASS",
+      "finding": "中英将 concertar 的商定或整理列为一般词典可能义；ce 的断词、本条用义及跨栏对应待核。",
+      "reference": "https://dle.rae.es/concertar"
+    },
+    {
+      "position": 16,
+      "result": "PASS_WITH_CAUTION",
+      "finding": "中英列 concertar、puntos、aderezo 的一般可能义，具体词义、搭配及是否有缝纫或装饰场景仍未定；M 字段 T99 保留，其符号类型仍见 issues。",
+      "references": [
+        "https://dle.rae.es/concertar",
+        "https://dle.rae.es/punto",
+        "https://dle.rae.es/aderezo"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "position": 7,
+      "priority": "recommended",
+      "type": "bilingual_completeness",
+      "evidence": "L 栏「Concede y niega, ya dice uno, ya dice otro -」的前半句已释为应允与否认；候选 zh/en 对后半句仅保留西文并说明与说话有关，没有译出 ya…ya… 的分述关系。",
+      "issue": "原先将 uno/otro 强定为所说事物的问题已消除，但不懂西语的读者仍不能从中英文主释看见后半句的两种可能关系。",
+      "suggestion": "可在中英文限定式列出两种可能：或为一人说、另一人说，或为说一件事、又说另一件事；uno/otro 的指代、说话者及两部分关系继续待核，不应强定某一种或具体时序。",
+      "reference": "https://dle.rae.es/ya",
+      "limitation": "RAE 对 ya 的分述用法是一般词典参照，不能裁定该手稿的指代和语法。"
+    },
+    {
+      "positions": [
+        2,
+        4,
+        16
+      ],
+      "priority": "optional",
+      "type": "uncertain_mark_type",
+      "evidence": "最新封存将 M 栏未辨记号列于 tone_marks_M 并标 T99；候选称其为声调标记。原始转录备注则说相关小符号可能为鼻化钩或细小声调符，类型未确认。",
+      "issue": "「声调标记为 T99」可能被理解为已确定原符号属于声调，而原始转录备注并未定其类型。",
+      "suggestion": "可保持封存字段 T99 原状，在 notes 区分「记录于 tone_marks_M」与原符号类型待核；如引用原备注，须说明声调或鼻化钩只是转录员候选，不是本次原图裁定。",
+      "limitation": "原始转录备注和 T99 都不是新一轮原图复核结果，不能据此选择具体符号或自动更改 confidence。"
+    }
+  ],
+  "confidence_note": "本批 T99 不自动等于语义低置信；第 2、4 条为 medium，第 16 条因多项词义、搭配和跨栏对应未定为 low，第 7 条因指代与 H 疑字未定为 low。这是候选作者的本页工作判断，不是独立置信度校准。",
+  "review_notes": [
+    "本文件由候选作者自核，不能作为独立复审或独立盲读的证据。",
+    "所列建议未写回候选或正式释义；如后续修改候选或封存，须重新绑定哈希并复核变更。",
+    "未重新查看原图；词典一般义不直接证明历史条目的实际用法或各栏对应。"
+  ],
+  "candidate_relocation_note": "第二版字节原样保存，后续再修订正式候选路径。"
+}

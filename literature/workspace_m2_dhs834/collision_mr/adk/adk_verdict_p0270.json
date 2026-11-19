@@ -1,0 +1,585 @@
+{
+  "protocol": "ADK_VERDICT_V1",
+  "page": 270,
+  "actor": "Codex 子代理",
+  "actor_id": "adk_batch05_b",
+  "method": "对照 v1/rr 的原图裁决，非独立盲读",
+  "verdicts": [
+    {
+      "position": 5,
+      "field": "source_R",
+      "v1": "fǔn",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第5位右栏：f 起笔，un 上向下钩形，末笔为 n。"
+    },
+    {
+      "position": 22,
+      "field": "source_M",
+      "v1": "xiǎng vȳ",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第22行中栏第二词以 v 起笔并以 y 下伸结尾，上方 Y 形有下伸一笔，究竟是调号还是上置字未能确认；不能把它简单写成 y 的勾调。"
+    },
+    {
+      "position": 22,
+      "field": "source_R",
+      "v1": "yāng vȳ",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第22位右栏：yāng 后的 vy 以 v 起笔、y 下伸，两词上均为横线。"
+    },
+    {
+      "position": 3,
+      "field": "M",
+      "v1": "pierchiù",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第3位中栏：后部为 chiù；首段有长笔和重叠涂划，不支持直接以 pier 作完整词。"
+    },
+    {
+      "position": 9,
+      "field": "M",
+      "v1": "soānchià",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第9位中栏：词分作 soan 和 chia，chia 右上有独立小形；首音节斜笔与候选横线不同。"
+    },
+    {
+      "position": 14,
+      "field": "M",
+      "v1": "pāychiù",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第14行中栏首词横线上有独立点，后词上方亦见多点；点与调记或污迹的关系无法完整确认。"
+    },
+    {
+      "position": 20,
+      "field": "M",
+      "v1": "xâ",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第20位中栏第三词首为带横划的竖笔，非交叉的 x；其上尖形有浓墨重涂。"
+    },
+    {
+      "position": 21,
+      "field": "M",
+      "v1": "xiǎng",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第21行中栏 xiang 的 x 及其余字母可辨，i 上附近有重墨与旁点；不能忽略附加点迹判完整 xiǎng。"
+    },
+    {
+      "position": 22,
+      "field": "M",
+      "v1": "xiǎng",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第22位中栏首词有交叉 x 与 i 点，a 上钩形，末 g 下伸。"
+    },
+    {
+      "position": 22,
+      "field": "M",
+      "v1": "v",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第22位中栏第二词以 v 形起笔，后续 y 下伸；这里只判断词首 v。"
+    },
+    {
+      "position": 22,
+      "field": "M",
+      "v1": "v",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第22行中栏第二词的 v 在词首，词尾是下伸 y；其上 Y 形笔画的性质未明，不能按词首 v 判 -v，也不能写未证实的完整带调尾字。"
+    },
+    {
+      "position": 3,
+      "field": "R",
+      "v1": "jit",
+      "rr": "",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第3位右栏首词为 jit，i 上有横线，v1 漏记调号；t 有横划，确在词尾。",
+      "ink": "jīt"
+    },
+    {
+      "position": 22,
+      "field": "R",
+      "v1": "v",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第22位右栏第二词以 v 起笔，后接下伸 y；此项核的是词首 v。"
+    },
+    {
+      "position": 1,
+      "field": "M",
+      "v1": "Quiaû",
+      "rr": "čiāu",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第1位中栏：词首是带横笔的长笔，iau 上钩及类 c 小形；不能按候选确定首字及全部调记。"
+    },
+    {
+      "position": 1,
+      "field": "R",
+      "v1": "chiǖ",
+      "rr": "chȳ",
+      "verdict": "墨迹不明",
+      "letters": "rr",
+      "tone_mark": "存疑",
+      "note": "第1行右栏 ch 后为下伸 y，横线上方另有独立点，重读的字母较近但不能忽略该点判完整字面。"
+    },
+    {
+      "position": 3,
+      "field": "M",
+      "v1": "pierchiù",
+      "rr": "iāuyò",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第3位中栏：实际末段 chiù，而重读 iau-yò 是下方另一行；首段有重叠涂划。"
+    },
+    {
+      "position": 3,
+      "field": "R",
+      "v1": "jit chǐn",
+      "rr": "yàu",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "第3位右栏：首词 jit 上有横线，次词 chin 上是右下斜笔；重读对应下一行。",
+      "ink": "jīt chìn"
+    },
+    {
+      "position": 4,
+      "field": "M",
+      "v1": "iàu: yó.",
+      "rr": "pūn",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第4行中栏首词 i 上可见两处点迹，两词上升斜笔附近也有细小交笔；完整附记及标点不能确认。"
+    },
+    {
+      "position": 4,
+      "field": "R",
+      "v1": "yaǔ",
+      "rr": "fùn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "位置差",
+      "note": "第4行右栏 y 后圆形和末笔相连，向下勾在中部；末笔 u/n 不易区分，不能保证完整墨迹。"
+    },
+    {
+      "position": 5,
+      "field": "M",
+      "v1": "pun",
+      "rr": "zāu",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第5行中栏主体为 pun，斜笔附近有细小交笔；完整符号尚不能确认。"
+    },
+    {
+      "position": 5,
+      "field": "R",
+      "v1": "fǔn",
+      "rr": "tsìn",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第5位右栏：f 起笔、un 上钩形；重读不是本行。"
+    },
+    {
+      "position": 6,
+      "field": "M",
+      "v1": "Lau.",
+      "rr": "chiàⁿlâng",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第6位中栏：Lau 的 u 上有横线，v1 漏记；重读是下一行两词。",
+      "ink": "Laū."
+    },
+    {
+      "position": 6,
+      "field": "R",
+      "v1": "lên",
+      "rr": "chêng",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第6行右栏 len 上尖形的右上还有独立点，点与调记的关系未明，不能直接判完整 v1。"
+    },
+    {
+      "position": 7,
+      "field": "M",
+      "v1": "chià̃ lâng",
+      "rr": "zūn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第7行中栏首词上有斜笔和像数字 2 的上置笔，无法仅凭位置确定是否为小 n，后词上有横线。"
+    },
+    {
+      "position": 7,
+      "field": "R",
+      "v1": "chěng",
+      "rr": "zūn",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第7位右栏：可见 cheng、末 g 下伸，词上斜笔旁另有类 c 小记号，完整调记待核。"
+    },
+    {
+      "position": 8,
+      "field": "M",
+      "v1": "chut",
+      "rr": "sōanchiàⁿ",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第8位中栏：单词末有 u/t，上方尖形重墨；首笔不是清楚的 ch，重读是下行双词。"
+    },
+    {
+      "position": 8,
+      "field": "R",
+      "v1": "chūn",
+      "rr": "siēnchhèng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第8位右栏：z 形起笔接 un，上有横线；v1 的 ch 不在该词，重读属下行。 五倍图复核：对应率字行右栏首字为 z 形、上有横画，但词尾黑色高竖与横划连写在一起，难定为 n 的收笔或另一个 t，不能确认完整 zūn；重读长串在下一行。"
+    },
+    {
+      "position": 9,
+      "field": "M",
+      "v1": "soānchià̃.",
+      "rr": "sōan",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第9位中栏：soan 的调笔为上升斜线，chia 上有斜笔及小 n 形；重读少了后半词。"
+    },
+    {
+      "position": 9,
+      "field": "R",
+      "v1": "siěn chěng",
+      "rr": "sièn",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第9位右栏：有 sien 和 cheng 两段，后段斜笔旁有类 c 小形，不能仅凭两段字母定调。"
+    },
+    {
+      "position": 10,
+      "field": "M",
+      "v1": "soān.",
+      "rr": "chió",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "第10位中栏：soan 上为上升斜笔而非横线；重读 chio 是下行。",
+      "ink": "soán."
+    },
+    {
+      "position": 10,
+      "field": "R",
+      "v1": "siěn",
+      "rr": "chiàu",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第10位右栏：sien 上为向下钩形，重读 chiau 在下一行。"
+    },
+    {
+      "position": 11,
+      "field": "M",
+      "v1": "chió",
+      "rr": "khe",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第11位中栏：chio 上为上升斜笔；重读 khe 在下一行。"
+    },
+    {
+      "position": 11,
+      "field": "R",
+      "v1": "chiàu",
+      "rr": "que",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "位置差",
+      "note": "第11行右栏 chi 后末段连笔紧靠红线，上方为勾形；u 与 n 的完整末形不能确信。"
+    },
+    {
+      "position": 12,
+      "field": "M",
+      "v1": "que",
+      "rr": "pīn",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第12位中栏：que 上有尖形及类 c 小记号，v1 完全未记；完整小记号待核。"
+    },
+    {
+      "position": 12,
+      "field": "R",
+      "v1": "que",
+      "rr": "pièn",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第12位右栏：que 上有横线及类 c 小记号，v1 未记；重读位于下行。"
+    },
+    {
+      "position": 13,
+      "field": "M",
+      "v1": "pín",
+      "rr": "pāychiù",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第13行中栏 pin 上升斜笔与 i 点外还有小墨点，附点归属未明，不能判定完整符号。"
+    },
+    {
+      "position": 13,
+      "field": "R",
+      "v1": "piěn",
+      "rr": "pàychhīn",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第13位右栏：pien 的 e 上为钩形；重读双词在下行。"
+    },
+    {
+      "position": 14,
+      "field": "M",
+      "v1": "pāychiù",
+      "rr": "chiàⁿlâng",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第14行中栏首词横线上有独立点，后词上方亦见多点；完整符号无法确认。"
+    },
+    {
+      "position": 14,
+      "field": "R",
+      "v1": "pây chǐn",
+      "rr": "chhěngjīn",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "第14位右栏：pay 上尖形旁有类 c 小形，chin 上是右下斜笔而非 v1 的钩形。"
+    },
+    {
+      "position": 15,
+      "field": "M",
+      "v1": "chià̃ lâng",
+      "rr": "chiàⁿchiù",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第15行中栏首词斜笔旁为类似数字 2 的上置形，圈线经过词旁，不能确定上置字本体。"
+    },
+    {
+      "position": 15,
+      "field": "R",
+      "v1": "chěng jīn",
+      "rr": "chhěngchhìn",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第15位右栏：第二词为交叉 x 起笔并有尖形，非 jin 或 chhin；第一词斜笔旁有小形。"
+    },
+    {
+      "position": 16,
+      "field": "M",
+      "v1": "chià̃ chiù",
+      "rr": "chiàⁿchīn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第16行中栏首词斜笔与上置的 2 形笔画相交，不能确定小字是否为 n。"
+    },
+    {
+      "position": 16,
+      "field": "R",
+      "v1": "chěng chīn",
+      "rr": "chhěngchhīn",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "第16位右栏：第二词 chin 上是右下斜笔，第一词上有斜笔与类 c 小形。"
+    },
+    {
+      "position": 17,
+      "field": "M",
+      "v1": "chià̃ chīn",
+      "rr": "chòchúlâng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第17位中栏：首词上有小 n 形，第二词 chin 上重墨；重读三词在下行。"
+    },
+    {
+      "position": 17,
+      "field": "R",
+      "v1": "chěng chīn",
+      "rr": "chōchùzīn",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第17位右栏：可见 cheng chin，第二词横线清楚，首词斜笔旁类 c 小形待核。"
+    },
+    {
+      "position": 18,
+      "field": "M",
+      "v1": "chò chū lâng",
+      "rr": "iāuiû",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第18行中栏三词可辨，第二词斜笔上端浓黑，不能确认是否还有附加笔画。"
+    },
+    {
+      "position": 18,
+      "field": "R",
+      "v1": "chō chǔ jin",
+      "rr": "yàuyên",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第18位右栏：末词为交叉 x 起笔且上尖形，第二词上斜笔；重读属于下行。"
+    },
+    {
+      "position": 19,
+      "field": "M",
+      "v1": "iaū iū",
+      "rr": "lāum̄ūa",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "第19行中栏两词各有上横，第一横线的位置跨 a 与 u，无法完全对应 v1 的 u 上标记。"
+    },
+    {
+      "position": 19,
+      "field": "R",
+      "v1": "yaù yeû",
+      "rr": "lěnpūtây",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "第19位右栏：首词上为钩形，次词上尖形；次词横向笔画较粘，完整调位待核。"
+    },
+    {
+      "position": 20,
+      "field": "M",
+      "v1": "laū mí xâ",
+      "rr": "xiāngthiēnē",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第20位中栏：中词为 m 形，上钩；末词起笔有横划而非 x，其上浓墨；重读属下行。"
+    },
+    {
+      "position": 20,
+      "field": "R",
+      "v1": "lên pīn tāy",
+      "rr": "yāngthiēnhià",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第20位右栏：首词 len 上尖形，末词 tay 上横线；中词 u/i 及其横线归属未能分清。"
+    },
+    {
+      "position": 21,
+      "field": "M",
+      "v1": "xiǎng tien è.",
+      "rr": "xiāngvī",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第21位中栏：首词 xiang 上钩，中词 tien 上有斜笔及类 c，末词 e 上钩；v1 漏中词调记。"
+    },
+    {
+      "position": 21,
+      "field": "R",
+      "v1": "yāng tiěn hiā",
+      "rr": "yāngvī",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第21位右栏：yang 和 hia 上横线，tien 上钩形；重读位于下行。"
+    },
+    {
+      "position": 22,
+      "field": "M",
+      "v1": "xiǎng vȳ",
+      "rr": "siāchiù",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第22行中栏词尾 y 上是 Y 形，带下伸一笔；不能将它径直化为 y 上勾调，完整文字待辨。"
+    },
+    {
+      "position": 22,
+      "field": "R",
+      "v1": "yāng vȳ",
+      "rr": "siēchìn",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第22位右栏：yang、vy 上都有横线，v 是第二词词首；重读位于下行。"
+    },
+    {
+      "position": 23,
+      "field": "M",
+      "v1": "sià chiù",
+      "rr": "iēnsiâ",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "第23位中栏：sia 上为向下钩形，chiu 上为右下斜笔；重读属下一行。",
+      "ink": "siǎ chiù"
+    },
+    {
+      "position": 23,
+      "field": "R",
+      "v1": "siē chǐn",
+      "rr": "yènsȳ",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "第23位右栏：sie 上横线，chin 上为右下斜笔而非钩形；重读是下行。",
+      "ink": "siē chìn"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "page": 274,
+  "review_type": "NONBLIND",
+  "scope": "仅复核本批实际修复影响页 p0274；逐条对照最新封存、原主释义及候选的中英文、notes 和 confidence，非独立盲读。",
+  "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0274.json",
+  "sealed_sha256": "952e556b1c6b8e5ab78eddb0620beee6fd04d306cf8f105e3813b910b97268f2",
+  "original_gloss_path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0274.json",
+  "original_gloss_sha256": "86eaf9f422be19594448e8d81f0731096c02b23148fdca0b4ba2e21c26584b6e",
+  "candidate_path": "codex_M6_preview/batch05_refresh_p0274.json",
+  "candidate_sha256": "52168bf0062519eb08aaccd45dce9d78508c45efd56e5812f19fbd3d0bece4ad",
+  "positions_reviewed": 20,
+  "result": "PASS_WITH_OPTIONAL_IMPROVEMENT",
+  "entry_12_update_check": {
+    "field": "source_M",
+    "previous": "chî nȳ.",
+    "sealed": "chû nȳ",
+    "candidate_notes": "L 栏作「como? de que manera.」；最新封存 M 栏作「chû nȳ」，R 栏作「masatiang chô niên」。R 栏首段含义及音写与 H 栏的对应待核。",
+    "matches_seal": true,
+    "limitation": "仅比较原主释义、当前封存和候选中的文字，不对原图重新裁读，也不独立验证音系转换。"
+  },
+  "issues": [
+    {
+      "position": 15,
+      "priority": "optional",
+      "type": "bilingual_completeness",
+      "evidence": "封存 L 栏为「como? porq cauza.」；候选完整保留词形，中文 notes 已说后段可能涉及缘故，但中英文主释义均只说后段意思待核。历史西语词典将 cauza 列为 causa 的书写形式，现代词典所列 causa 含原因、理由义。",
+      "issue": "英文主释义未提示后段可能涉及 cause 或 reason；这是可补充的词典线索，候选没有把该句误定为确定译文。",
+      "suggestion": "可在 zh 和 en 中补充「cauza 可能指原因／cauza may refer to a cause or reason」，并保留 porq 的展开、整句含义及与 H 栏对应待核。",
+      "references": [
+        "https://ghcl.ub.edu/diccaxv/dictionary/ViewLema/4702",
+        "https://dle.rae.es/causa"
+      ],
+      "limitation": "其他历史材料中的拼写及现代词典义不能独自确定本条 porq 的展开、整句语法或其与「何如」的对应。"
+    }
+  ],
+  "entry_reviews": [
+    {"position": 1, "result": "PASS", "finding": "L 的如、正如与 H 单字将分列，R 的 muuet 未解及两栏对应待核。"},
+    {"position": 2, "result": "PASS", "finding": "保留 como esto 的像这样与 H「将只」，R 各部分关系未强定。"},
+    {"position": 3, "result": "PASS", "finding": "L 的怎样与 H「焉」分别解释；L 中 chǔng! chiàng hô. 保留并标待核。所引教育部辞典同一词条 ID 的疑问和反诘义可查。"},
+    {"position": 4, "result": "PASS", "finding": "L 的疑问和比拟两义均保留；H「胡」的可能义与本条词义分开。"},
+    {"position": 5, "result": "PASS", "finding": "L 的像这样与 H「如」义均保留，未增加原释中的例如义。"},
+    {"position": 6, "result": "PASS", "finding": "L 的疑问义保留；pregunton 的历史用法及 H「将何」未据现代词典强定。"},
+    {"position": 7, "result": "PASS", "finding": "H「幾」可能表示数量疑问，L 的 como 与未解 casa casa 分列；未将 L 断作 cuanto。"},
+    {"position": 8, "result": "PASS", "finding": "H「顺意」及 L 可能涉及如你所愿，te 和句法的限制清楚。"},
+    {"position": 9, "result": "PASS", "finding": "H「主宰」与 L 的意愿或喜爱义分列；quisiere 的变位可由所引 RAE 表核对，未强定主语或神。"},
+    {"position": 10, "result": "PASS", "finding": "H「旨意」与 L 分列；tu 的作用和 quisiere 主语待核，未把政令义强加于本条。"},
+    {"position": 11, "result": "PASS", "finding": "H「做」与 L 的疑问词分列，未据两栏差异断定错位。"},
+    {"position": 12, "result": "PASS", "finding": "候选 notes 的 M「chû nȳ」与最新封存一致；L、H、R 分列并标对应待核，原释中旧 M 读法没有续用。"},
+    {"position": 13, "result": "PASS", "finding": "H 首字伯／佃疑读保留，L 的怎样与 H 词义分开。"},
+    {"position": 14, "result": "PASS", "finding": "L 的方式疑问与 H「奚為」可能的原因疑问分列，音写及对应待核。"},
+    {"position": 15, "result": "PASS_WITH_OPTIONAL_GLOSS", "finding": "H「何如」与 L 后段分列，中文 notes 已提示可能涉及缘故；中英文主释义可选补充 cause／reason 线索，不能强定缩写或全句。"},
+    {"position": 16, "result": "PASS", "finding": "H「缘由」与 L 的感叹分列，未把原因和怎么直接合并。"},
+    {"position": 17, "result": "PASS", "finding": "L 的照常与 H「如常」对应明确，中英一致。"},
+    {"position": 18, "result": "PASS", "finding": "H「宛然」与 L 的如、正如保留；未断言完全相同。"},
+    {"position": 19, "result": "PASS", "finding": "H「如然」的通行义有注明词典来源，L「escota clara」保留并待核。"},
+    {"position": 20, "result": "PASS", "finding": "H「猶」可能义和 L 的如、正如分列；M、R 音写及对应待核。"}
+  ],
+  "review_notes": [
+    "20 条逐条对照 L、H、M、R 与 zh、en、notes、confidence；PASS 表示本次未发现必须修改的问题。",
+    "第 15 条为可选补充，不据其他词典或历史语料裁定本条疑读及跨栏关系。",
+    "未重读原图；本次只复核封存、原释义和候选，不等同于视觉验真或整书验收。",
+    "绑定的封存、主释义或候选发生变化时，须针对变更重新复核。"
+  ]
+}

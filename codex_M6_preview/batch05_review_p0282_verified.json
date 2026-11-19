@@ -1,0 +1,77 @@
+{
+  "page": 282,
+  "review_type": "NONBLIND_TARGETED_VERIFICATION",
+  "scope": "仅核第 7 条两种限定式分述、第 2、4、16 条 T99 字段与原符号类型未定的区分，以及第 13 条当前封存同步；不是原图复裁或本轮重新复核全页。",
+  "candidate_path": "codex_M6_preview/batch05_refresh_p0282.json",
+  "candidate_sha256": "e8d2b6ae174f8fefd3485de69043a20245a3ebb2dbd0b10abc994e13b8a603dc",
+  "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0282.json",
+  "sealed_sha256": "ecbafdec52c8ef6644116716ece221be797eb57398e59cad4a6f6c8e6712a724",
+  "raw_path": "literature/workspace_m2_dhs834/raw_blind/raw_part_p0282.json",
+  "raw_sha256": "7b1ea1e40210ea1db1f0cf0852d055cdeef583d2984b71e3ae39d70eb97db90f",
+  "original_gloss_path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0282.json",
+  "original_gloss_sha256": "d3074491d00be5293c032babb757dda0d28f0c7affb87e0bb65335d513debb78",
+  "previous_review_path": "codex_M6_preview/batch05_review_p0282_final.json",
+  "previous_review_sha256": "5237284f8c29cbfd12dc3ecb78d0de050ad0d7939fe3edcc6900fc574e2bb5cd",
+  "previous_candidate_path": "codex_M6_preview/batch05_refresh_v2_p0282.json",
+  "previous_candidate_sha256": "865e255fee61623539d72b1e070ada55f0f30bfa5254c0c8bedd9ba3c3f7cf0c",
+  "positions_reviewed": [
+    2,
+    4,
+    7,
+    13,
+    16
+  ],
+  "result": "PASS",
+  "issues": [],
+  "entry_reviews": [
+    {
+      "position": 2,
+      "result": "PASS",
+      "finding": "notes 将 T99 明确标为 tone_marks_M 字段记录，将鼻化钩或声调符列为原始转录员未定候选；未据符号记录定词义。"
+    },
+    {
+      "position": 4,
+      "result": "PASS",
+      "finding": "notes 将第二记号的 T99 作为 tone_marks_M 字段记录，另说明原始转录员未定符号类型；中英保留受孕、投胎词典义及本条对应待核的区分。"
+    },
+    {
+      "position": 7,
+      "result": "PASS",
+      "finding": "中英文都给出「一人说、另一人说」与「说一事、说另一事」两种限定式可能读法；notes 将 ya…ya… 分述列为可能，保留 uno/otro 指代、说话者、句间关系和时序未定，H 疑字仍保留。",
+      "reference_check": "RAE 将 ya 列为可引出不同分项的分述连词；这一一般词义不能裁定本历史条目的指代或句法。",
+      "reference": "https://dle.rae.es/ya"
+    },
+    {
+      "position": 13,
+      "result": "PASS",
+      "finding": "候选 notes 的 R 字面 chŷ chèng 与最新封存一致；tone_marks_R 为 T03 (尖頂帽)、T02 (降斜)，与两音节记录的符号一致，音字对应待核。"
+    },
+    {
+      "position": 16,
+      "result": "PASS",
+      "finding": "notes 将 T99 说明为 tone_marks_M 字段记录，并将原符号可能为鼻化钩或声调符归于原始转录员的未定意见；既有词义和跨栏对应的不确定性保留。"
+    }
+  ],
+  "change_checks": {
+    "candidate_changed_positions_since_previous_review": [
+      2,
+      4,
+      7,
+      16
+    ],
+    "candidate_position_13_unchanged": true,
+    "sealed_sha_matches_previous_review": true,
+    "raw_transcriber_note": "原始转录员记第 2、4、16 条对应小符号形似鼻化钩或细小声调符，类型不能确认；这不是本次重新读图的结论。",
+    "entry_13_source_R": "chŷ chèng",
+    "entry_13_tone_marks_R": [
+      "T03 (尖頂帽)",
+      "T02 (降斜)"
+    ]
+  },
+  "limitations": [
+    "本次只核五个指定位置及前次列出的两个问题；其余条目沿用前次复核范围。",
+    "未独立重读原图；原始转录员关于符号类型的两种候选仍未裁定。",
+    "本批非盲刷新未将试点 T99 降级要求自动作为本批硬性规则；本次未进行置信度校准。",
+    "PASS 仅绑定所列候选、封存和相关记录的哈希；任何变化均需针对变化复核。"
+  ]
+}

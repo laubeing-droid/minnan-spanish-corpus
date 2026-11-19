@@ -1,0 +1,174 @@
+{
+  "method": "非盲对照各页 ADK 任务、既有裁决和原横带五倍裁切",
+  "actor_id": "/root/adk_batch05_c",
+  "records": [
+    {
+      "page": 263,
+      "index_1based": 11,
+      "candidate": "sȳ xîn",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0263/pdf_0263_band_y0_top.png",
+      "bbox_xyxy": [
+        1550,
+        915,
+        1810,
+        1060
+      ],
+      "reason": "咬人行右栏两词：首词长 s、y 下伸且上横；次词 x-i-n，i 点可见、上方折尖，与重读 sȳ xîn 完整吻合。"
+    },
+    {
+      "page": 263,
+      "index_1based": 13,
+      "candidate": "hȳ zīn chiên",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0263/pdf_0263_band_y1_mid.png",
+      "bbox_xyxy": [
+        1560,
+        210,
+        1940,
+        370
+      ],
+      "reason": "系是钱行右栏 hȳ zīn chiên：首词 y 下伸、次词 z 形首笔后 i 有点，两词上横；末词 i 点和折尖可见，候选末词不是 chièn。"
+    },
+    {
+      "page": 263,
+      "index_1based": 17,
+      "candidate": "chōng lȳ",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0263/pdf_0263_band_y1_mid.png",
+      "bbox_xyxy": [
+        1580,
+        710,
+        1850,
+        850
+      ],
+      "reason": "重利行右栏 chōng lȳ：首词 ng 有下伸环，第二词 y 有下伸长笔，两词均上横；支持重读全词段。"
+    },
+    {
+      "page": 266,
+      "index_1based": 7,
+      "candidate": "lȳ sỳ",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0266/pdf_0266_band_y0_top.png",
+      "bbox_xyxy": [
+        1600,
+        700,
+        1790,
+        850
+      ],
+      "reason": "滤洗行右栏两词 ly sy 均有 y 下伸；第一词上横，第二词上反斜画，支持 lȳ sỳ 而非两个候选末词的横画。"
+    },
+    {
+      "page": 269,
+      "index_1based": 7,
+      "candidate": "yěn chy̌",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0269/pdf_0269_band_y0_top.png",
+      "bbox_xyxy": [
+        1530,
+        445,
+        1820,
+        570
+      ],
+      "reason": "胭脂行右栏首词 y-en 的 y 下伸，第二词 ch-y 的 y 下伸；两词上均为折画，支持 yěn chy̌，不能把第二词作 u。"
+    },
+    {
+      "page": 269,
+      "index_1based": 9,
+      "candidate": "yěn chy̌ hông",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0269/pdf_0269_band_y0_top.png",
+      "bbox_xyxy": [
+        1530,
+        665,
+        1900,
+        785
+      ],
+      "reason": "胭脂红行右栏 yěn chy̌ hông 三词完整可见，前两词上折画且各有 y 下伸，末词上折尖，无重读额外反斜画。"
+    },
+    {
+      "page": 269,
+      "index_1based": 15,
+      "candidate": "cǎn chȳ",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0269/pdf_0269_band_y1_mid.png",
+      "bbox_xyxy": [
+        1530,
+        570,
+        1800,
+        700
+      ],
+      "reason": "痔积行右栏首词 can 末 n、上折画；次词 chy 的 y 下伸、上横，支持 cǎn chȳ；下方小 c 属下一行，未混入本行。"
+    },
+    {
+      "page": 272,
+      "index_1based": 12,
+      "candidate": "siěn",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0272/pdf_0272_band_y0_top.png",
+      "bbox_xyxy": [
+        1140,
+        950,
+        1320,
+        1060
+      ],
+      "reason": "膳字行中栏长 s 首笔后接 i-e-n，i 点及词上折画可见；支持 siěn，非 b 首笔或横画。"
+    },
+    {
+      "page": 275,
+      "index_1based": 15,
+      "candidate": "chiàng chây",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0275/pdf_0275_band_y0_top.png",
+      "bbox_xyxy": [
+        1610,
+        375,
+        1960,
+        520
+      ],
+      "reason": "掌才行右栏 chiang chay，首词 i 点和反斜画清楚，次词只有一个 h、末 y 下伸并有折尖；支持 chiàng chây。"
+    },
+    {
+      "page": 275,
+      "index_1based": 33,
+      "candidate": "līn bìn",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0275/pdf_0275_band_y1_mid.png",
+      "bbox_xyxy": [
+        1040,
+        910,
+        1300,
+        1070
+      ],
+      "reason": "悯字行中栏 lin bin，两词 i 点和末 n 可见；首词上横、次词上反斜画，支持 līn bìn。"
+    },
+    {
+      "page": 281,
+      "index_1based": 8,
+      "candidate": "nā zō",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0281/pdf_0281_band_y0_top.png",
+      "bbox_xyxy": [
+        1640,
+        555,
+        1880,
+        700
+      ],
+      "reason": "纳粟行右栏 na zo，第二词为 z 形下伸笔和 o；两词各上横，支持 nā zō，重读末词的折尖与原图不同。"
+    },
+    {
+      "page": 281,
+      "index_1based": 22,
+      "candidate": "chīn lȳ",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0281/pdf_0281_band_y2_bot.png",
+      "bbox_xyxy": [
+        1660,
+        335,
+        1910,
+        485
+      ],
+      "reason": "尽力行右栏 chin ly：前词 i 点、末 n 及上横可见；后词 y 明显下伸，y 上横而非两点，支持 chīn lȳ。"
+    }
+  ]
+}

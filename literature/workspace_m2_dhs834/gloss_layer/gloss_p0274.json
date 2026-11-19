@@ -1,25 +1,145 @@
 {
   "page": 274,
   "entries": [
-    {"position": 1, "zh": "将（作副词）：如此，就；正如，就像", "en": "as; just as, thus", "confidence": "medium", "notes": "R 栏 muuet 一词未能解读；将字『如此/正如』义系依西语词头与后条「将只=como esto」推断。"},
-    {"position": 2, "zh": "将只：像这样，如此", "en": "like this; thus", "confidence": "high", "notes": "R 栏另有 Puch ne.、chǔng 等未解读写法，不影响判定。"},
-    {"position": 3, "zh": "焉：怎么（文言疑问词）", "en": "how? (classical interrogative)", "confidence": "high", "notes": ""},
-    {"position": 4, "zh": "胡：怎么，为何（文言疑问词）", "en": "how? why? (classical interrogative)", "confidence": "high", "notes": ""},
-    {"position": 5, "zh": "如：如同，像；例如", "en": "like, as; just as, for example", "confidence": "high", "notes": ""},
-    {"position": 6, "zh": "将何：怎样，如何（发问用语）", "en": "how? (interrogative)", "confidence": "medium", "notes": "『将何』今无惯用组合，释『怎样』系依 L 疑问义（pregunton）与本页问法词群推断。"},
-    {"position": 7, "zh": "几（幾）：多少，几何（问数量）", "en": "how many; how much", "confidence": "medium", "notes": "L『como: casa casa』与幾义不合，疑为讹录（或系 cuanto 之误）；释义依汉字幾及音读 kuí。"},
-    {"position": 8, "zh": "顺意：随你心意，随意；如你所愿", "en": "as you wish; as you please", "confidence": "high", "notes": ""},
-    {"position": 9, "zh": "主宰：主宰，主宰者（主人／主宰之神，凭己意行事）", "en": "sovereign, master, ruler; as he pleases", "confidence": "high", "notes": ""},
-    {"position": 10, "zh": "旨意：旨意，谕旨；意旨，心愿", "en": "decree, mandate; will, intention; as you will", "confidence": "high", "notes": ""},
-    {"position": 11, "zh": "做：做，作，干", "en": "to do, to make", "confidence": "medium", "notes": "L『como?』与做字义不合，疑条目错位或删节；释义依汉字。"},
-    {"position": 12, "zh": "做年：怎样，如何（以何种方式）", "en": "how? in what manner, in what way", "confidence": "medium", "notes": "M 音写 chî nȳ 与 H『做』读音不齐（chî 多对应只），字际关系存疑；语义依 L 及 R（chô niên）。"},
-    {"position": 13, "zh": "〔首字存疑（伯／佃？）〕年：怎样，以何种方式", "en": "how? in what manner, in what way", "confidence": "medium", "notes": "首字原件即标注存疑（伯/佃未定）；语义依 L『de que manera』与音读 chāy nȳ。"},
-    {"position": 14, "zh": "奚为：为何，为什么；何以（文言）", "en": "why? for what reason; how? (classical)", "confidence": "high", "notes": ""},
-    {"position": 15, "zh": "何如：怎么样，如何；缘何（为何）", "en": "how? what like?; why?, for what cause", "confidence": "high", "notes": ""},
-    {"position": 16, "zh": "缘由：缘由，缘故；原因，来由", "en": "reason, cause; wherefore", "confidence": "high", "notes": ""},
-    {"position": 17, "zh": "如常：照常，一如既往；像平常一样", "en": "as usual; in the ordinary way", "confidence": "high", "notes": ""},
-    {"position": 18, "zh": "宛然：仿佛，宛如；恰如", "en": "just as if; exactly like, as though", "confidence": "high", "notes": ""},
-    {"position": 19, "zh": "如然：如此，这样；照这样", "en": "like this, in this manner; thus", "confidence": "medium", "notes": "L『escota clara』疑为讹录、语义不明；释义依汉字如然（如此）。"},
-    {"position": 20, "zh": "犹（猶）：犹如，如同；还，尚", "en": "just as, like; still, yet", "confidence": "high", "notes": ""}
+    {
+      "position": 1,
+      "zh": "L 栏：如、像，或正如；H 栏：将，具体词义及两栏对应待核。",
+      "en": "L: as, like, or just as; H: 将, whose specific sense and correspondence with L remain uncertain.",
+      "confidence": "medium",
+      "notes": "L 栏作「Como. o así como.」；R 栏作「muuet chiǎng」，其中 muuet 未解。不能仅据 L 栏断定单字「将」在此的具体用法。"
+    },
+    {
+      "position": 2,
+      "zh": "L 栏：像这样；H 栏：将只，词义及与 L 栏的对应待核。",
+      "en": "L: like this; H: 将只, whose sense and correspondence with L remain uncertain.",
+      "confidence": "medium",
+      "notes": "L 栏作「como esto.」，R 栏作「Puch ne. chǔng chȳ」；R 栏各部分的关系及与 H 栏的对应待核。"
+    },
+    {
+      "position": 3,
+      "zh": "L 栏：怎样？H 栏：焉，可作疑问或反诘词，本条用法待核。",
+      "en": "L: how? H: 焉 can be used in questions or rhetorical questions; its use here remains uncertain.",
+      "confidence": "medium",
+      "notes": "L 栏还作「chǔng! chiàng hô.」，其作用及与其他栏的关系待核。焉的疑问及反诘用法参教育部《重编国语辞典修订本》：https://dict.revised.moe.edu.tw/dictView.jsp?ID=10967&la=0 。"
+    },
+    {
+      "position": 4,
+      "zh": "L 栏：怎样？如、正如。H 栏：胡，可作为何解，本条用法及两栏对应待核。",
+      "en": "L: how?; as, just as. H: 胡 can mean why; its use here and correspondence with L remain uncertain.",
+      "confidence": "medium",
+      "notes": "L 栏作「como? asi como.」；其中疑问与比拟两种表达并列，不能将两者直接合并为 H 栏确定义。"
+    },
+    {
+      "position": 5,
+      "zh": "如：如同、像；L 栏还有「像这样」之意。",
+      "en": "As, like; the L column also conveys 'like this'.",
+      "confidence": "high",
+      "notes": "H 栏为「如」，L 栏作「como, asi como esto」。"
+    },
+    {
+      "position": 6,
+      "zh": "L 栏：怎样？「pregunton」的具体作用待核；H 栏：将何，词义及两栏对应待核。",
+      "en": "L: how? The precise function of 'pregunton' is uncertain; H: 将何, whose sense and correspondence with L remain uncertain.",
+      "confidence": "medium",
+      "notes": "L 栏作「como? pregunton」。现代西语 preguntón 可指爱追问的人，但不能据此断定本条历史用法（RAE：https://dle.rae.es/pregunt%C3%B3n）。M、R 栏均作「chiang hô」。"
+    },
+    {
+      "position": 7,
+      "zh": "H 栏：几，可指多少；L 栏 como 可表示如、像，也可能作疑问「怎样」；「casa casa」及两栏对应待核。",
+      "en": "H: 幾 can mean how many or how much; L: como may mean as or like, or may be interrogative “how”; “casa casa” and the correspondence remain uncertain.",
+      "confidence": "medium",
+      "notes": "L 栏作「como: casa casa」；不能据此断言是 cuanto 之误。M 栏作「gûý」，R 栏作「gûì」，音写与汉字的具体对应待核。"
+    },
+    {
+      "position": 8,
+      "zh": "H 栏：顺意，顺从心意；L 栏可能涉及如你所愿，代词关系及句法待核。",
+      "en": "H: 順意, following one's wishes; L may convey 'as you wish', but the pronoun and syntax remain uncertain.",
+      "confidence": "medium",
+      "notes": "L 栏作「como te quisieres.」，其中 te 的关系及全句用法待核；M 栏作「gūin ŷ」，R 栏作「guīn ŷ」。"
+    },
+    {
+      "position": 9,
+      "zh": "H 栏：主宰，支配、主导；L 栏含「如」和表示意愿或喜爱的词，主语、代词及句意待核。",
+      "en": "H: 主宰, to govern or control; L contains words for “as” and for wishing or loving, but its subject, pronoun relation, and full meaning remain uncertain.",
+      "confidence": "medium",
+      "notes": "L 栏作「como te quisiere」；quisiere 是 querer 的变位（RAE：https://www.rae.es/diccionario-estudiante/docs/conjugaciones-verbales.pdf，条目 53），主语及 te 的关系待核，不可据此确定主语是主宰者或神。M、R 栏均作「chù chày」。"
+    },
+    {
+      "position": 10,
+      "zh": "H 栏：旨意，意旨、意愿；L 栏含「如」及表示意愿或喜爱的词，句法及两栏对应待核。",
+      "en": "H: 旨意, will or intention; L contains words for “as” and for wishing or loving; its syntax and correspondence with H remain uncertain.",
+      "confidence": "medium",
+      "notes": "L 栏作「como tu quisiere.」，quisiere 是 querer 的变位（RAE：https://www.rae.es/diccionario-estudiante/docs/conjugaciones-verbales.pdf，条目 53），tu 的作用和 quisiere 的主语待核；M 栏作「chŷ ŷ」，R 栏作「chŷ ȳ」，两栏后段音写及其与汉字的对应待核。"
+    },
+    {
+      "position": 11,
+      "zh": "H 栏：做，做、作；L 栏：怎样？两栏的对应待核。",
+      "en": "H: 做, to do or make; L: how? The correspondence between the columns remains uncertain.",
+      "confidence": "medium",
+      "notes": "L 栏作「como?」，H 栏作「做」；不能仅据差异断定条目错位或删节。"
+    },
+    {
+      "position": 12,
+      "zh": "L 栏：怎样？以什么方式？H 栏：做年，词义及两栏对应待核。",
+      "en": "L: how? in what manner? H: 做年, whose sense and correspondence with L remain uncertain.",
+      "confidence": "medium",
+      "notes": "L 栏作「como? de que manera.」；最新封存 M 栏作「chû nȳ」，R 栏作「masatiang chô niên」。R 栏首段含义及音写与 H 栏的对应待核。"
+    },
+    {
+      "position": 13,
+      "zh": "L 栏：怎样？以什么方式？H 栏：〔伯／佃〕年，首字、词义及两栏对应待核。",
+      "en": "L: how? in what manner? H: 〔伯/佃〕年, with the first character, sense, and correspondence uncertain.",
+      "confidence": "low",
+      "notes": "封存 H 栏记作「伯[疑:伯/佃]年」；M 栏为「chāy nȳ」，R 栏为「chāy niên」，不能据 L 栏或音写强定首字。"
+    },
+    {
+      "position": 14,
+      "zh": "L 栏：怎样？以什么方式？H 栏：奚为，可指为何、为什么；本条用法及两栏对应待核。",
+      "en": "L: how? in what manner? H: 奚為 can mean why or for what reason; its use here and correspondence with L remain uncertain.",
+      "confidence": "medium",
+      "notes": "L 栏作「como? de que manera」；M 栏「Gēiȳ.」与 R 栏「hŷ nŷ」的分词及音字对应待核。"
+    },
+    {
+      "position": 15,
+      "zh": "H 栏：何如，怎样、如何；L 栏有「怎样？」及「porq cauza」，后者的缩写和句意待核。",
+      "en": "H: 何如, how or what is it like? L includes 'how?' and 'porq cauza', whose abbreviation and meaning remain uncertain.",
+      "confidence": "medium",
+      "notes": "L 栏作「como? porq cauza.」，后段可能涉及缘故，但「porq」的展开和整句用法待核；不将「为何」直接定为 H 栏义。"
+    },
+    {
+      "position": 16,
+      "zh": "H 栏：缘由，缘故、原因；L 栏：「怎么！」两栏对应待核。",
+      "en": "H: 緣由, a reason or cause; L: 'how!' The correspondence between the columns remains uncertain.",
+      "confidence": "medium",
+      "notes": "L 栏作「como!」，H 栏作「緣由」；感叹用法与汉字词义不宜直接合并。"
+    },
+    {
+      "position": 17,
+      "zh": "如常：照常，像平常一样。",
+      "en": "As usual; in the ordinary way.",
+      "confidence": "high",
+      "notes": "L 栏作「Como lo ordinario.」，H 栏作「如常」。"
+    },
+    {
+      "position": 18,
+      "zh": "宛然：仿佛、宛如；L 栏为如、正如。",
+      "en": "As if, as though; L gives 'as, just as'.",
+      "confidence": "high",
+      "notes": "L 栏作「Como. asi como.」，H 栏作「宛然」；不据此扩为完全相同的确定判断。"
+    },
+    {
+      "position": 19,
+      "zh": "H 栏：如然，一般可释为如此、这样；L 栏：怎样？「escota clara」及两栏对应待核。",
+      "en": "H: 如然 can mean 'thus' or 'like this'; L: how? 'escota clara' and the correspondence between the columns remain uncertain.",
+      "confidence": "medium",
+      "notes": "L 栏作「como? escota clara.」，后段未解，不能断言为讹录；如然的词典义参汉典：https://zdic.net/hans/%E5%A6%82%E7%84%B6 ，本条具体用法仍待核。"
+    },
+    {
+      "position": 20,
+      "zh": "L 栏：如、正如；H 栏：犹，可有犹如或仍然之义，本条用法及两栏对应待核。",
+      "en": "L: as, just as; H: 猶 can mean 'like' or 'still', but its use here and correspondence with L remain uncertain.",
+      "confidence": "medium",
+      "notes": "L 栏作「como, asi como –」；M 栏作「îû.」，R 栏作「yên」，两栏音写与 H 栏的对应待核。"
+    }
   ]
 }

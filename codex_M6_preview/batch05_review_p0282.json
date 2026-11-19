@@ -1,0 +1,198 @@
+{
+  "page": 282,
+  "review_type": "NONBLIND",
+  "scope": "仅复核本批实际修复影响页 p0282；逐条对照最新封存、原主释义及刷新候选的中英文、notes 和 confidence；不是独立盲读、原图复裁或整书验收。",
+  "sealed_path": "codex_M6_preview/batch05_seal_before_tones_p0282.json",
+  "sealed_sha256": "87b1b0cf0529c05e67a7cfac9b0ca36c3778424bbf6ca89b9abaea04466f726b",
+  "original_gloss_path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0282.json",
+  "original_gloss_sha256": "d3074491d00be5293c032babb757dda0d28f0c7affb87e0bb65335d513debb78",
+  "candidate_path": "codex_M6_preview/batch05_refresh_initial_p0282.json",
+  "candidate_sha256": "ef74a23c325061ec61e8b671626752cee6301de3afc7e329eaa416d4c10e9a86",
+  "positions_reviewed": 18,
+  "result": "NEEDS_REVISION",
+  "entry_13_update_check": {
+    "field": "source_R",
+    "previous_in_git_diff": "chîy chěng",
+    "sealed": "chŷ chèng",
+    "candidate_notes_excerpt": "R 栏现封存为「chŷ chèng」，M 栏为「chěy chěng」，两栏音写的具体对应待核。",
+    "matches_seal": true,
+    "limitation": "仅核当前封存、候选文字与工作树差异，不重新读图，也不判定音字对应。"
+  },
+  "issues": [
+    {
+      "position": 1,
+      "priority": "optional",
+      "type": "bilingual_qualifier",
+      "evidence": "L 栏「Conato grande」中 grande 修饰 conato；候选英文写「great effort or an attempt」。",
+      "issue": "英文 great 明确修饰 effort，但对后一个 attempt 未明确保留程度。",
+      "suggestion": "可用「a major effort or attempt」等将限定词覆盖两个候选义项，并继续注明本条具体义与栏间对应待核。"
+    },
+    {
+      "position": 2,
+      "priority": "optional",
+      "type": "confidence_consistency",
+      "evidence": "封存 M 栏声调含 T99；候选 notes 已注明，confidence 为 medium。本页第 4 条亦有 M 栏 T99 且为 medium；第 16 条为 low。此前项目复核包和本批前的部分非盲刷新记录中，存在 T99 降 low 的做法。",
+      "issue": "本页标签与此前部分记录的 T99 降级做法不一致；单凭音调未辨并不能推出汉字或西语释义不明。",
+      "suggestion": "检查本次非盲刷新采用的置信度口径；若标签反映整条四栏可靠性，可按既往做法降 low；若仅衡量语义解释，应说明该口径并在第 2、4、16 条一致使用。",
+      "limitation": "五页 v3 试点曾固定 T99 一律 low，但该试点协议不自动适用于本批非盲刷新，不能仅凭它认定本页违反硬规则。"
+    },
+    {
+      "position": 4,
+      "priority": "required",
+      "type": "unsupported_chinese_sense",
+      "evidence": "封存 H 栏为「投胎」、L 为「concebir」；候选英文确定写 H: 投胎, to enter a womb，notes 又说不能仅据本条断定涉及转世。教育部国语辞典将「投胎」列为转生人世。",
+      "issue": "候选将 H 词语直接释为进入子宫，没有区分词典中可查的一般转生义与本条实际取义；容易使读者将 H 简化为生物学受孕，且无法从候选判知词典义。",
+      "suggestion": "中英分列：L concebir 有受孕义；H「投胎」一般词典义为转生，是否即本条用义及其与 L 的关系仍待核。不要以词典义断言本条实际发生或主张转世。M 栏 T99 亦应继续注明。",
+      "references": [
+        "https://dict.revised.moe.edu.tw/dictView.jsp?ID=50572&la=0",
+        "https://dle.rae.es/concebir"
+      ],
+      "limitation": "现代词典可支持一般词义，不能单独裁定历史文献此条的用法或跨栏对应。"
+    },
+    {
+      "position": 6,
+      "priority": "optional",
+      "type": "bilingual_completeness",
+      "evidence": "候选 notes 以教育部台语辞典列出「擔頭」可指担子/责任及「擔頭」用例可释抬头；英文主释仅写其意义未定。两个引用页均支持所列一般词义。",
+      "issue": "英文读者仅看 en 看不到 notes 所列可能词典义；L 的 con ceder 分写与是否合读为 conceder 亦可更明确。",
+      "suggestion": "可在中英限定式补充担子/责任或抬头的词典可能义，并保留本条用义及两栏对应待核；con ceder 的断写亦可注明。",
+      "references": [
+        "https://sutian.moe.edu.tw/zh-hant/su/11696/",
+        "https://sutian.moe.edu.tw/zh-hant/su/11650/"
+      ],
+      "limitation": "现代台语词典的一般词义不能直接裁定十七世纪本条用法。"
+    },
+    {
+      "position": 7,
+      "priority": "required",
+      "type": "undetermined_reference",
+      "evidence": "L 栏为「Concede y niega, ya dice uno, ya dice otro -」；候选中英写「时说这个、时说那个」及「sometimes saying one thing and sometimes another」。",
+      "issue": "候选将 uno/otro 定为所说的不同事物，并暗示同一说话者先后变换说法；原句也可能涉及一个人和另一个人说话，单凭封存不足以排除。",
+      "suggestion": "保留应允与否认、先后说话两部分；中英应将 uno/otro 指人还是指事物、说话者及关系写为待核或列可能读法，不强定一种。H 的三处疑读继续保留。",
+      "limitation": "此处只指出句法与指代的不确定性，不据此改写字面层。"
+    },
+    {
+      "position": 14,
+      "priority": "optional",
+      "type": "bilingual_completeness",
+      "evidence": "L 为「concertar ce -」，候选两语均保留原词并标断词待核。RAE 的 concertar 可指商定或整理，concertarse 另有用法。",
+      "issue": "候选未给可辨 concertar 的任何一般词义，英文亦只照录。",
+      "suggestion": "可在中英限定式说明 concertar 的商定、整理等一般可能义，保留 ce 是否接作词尾、整句及与 H 栏对应待核。",
+      "reference": "https://dle.rae.es/concertar",
+      "limitation": "词典一般义不能定 ce 的断词或本条具体义。"
+    },
+    {
+      "position": 16,
+      "priority": "optional",
+      "type": "bilingual_completeness",
+      "evidence": "L 为「concertar puntos, aderezo.」，候选中英文仅照录原词并标具体义待核。RAE 收 concertar 的商定/整理义、punto 的点/针脚等义和 aderezo 的装饰/整理等义。",
+      "issue": "没有提供可辨词汇的一般可能义；候选正确保留了整体句义与栏间对应待核。",
+      "suggestion": "可向中英补充有关词的限定式一般词典义，并明确多个词义、具体搭配及本条选择均未定；不把该条定为缝纫或装饰场景。M 栏 T99 和 low 继续保留。",
+      "references": [
+        "https://dle.rae.es/concertar",
+        "https://dle.rae.es/punto",
+        "https://dle.rae.es/aderezo"
+      ],
+      "limitation": "一般词义不证明本条涉及针脚、饰品或任何具体物事。"
+    }
+  ],
+  "entry_reviews": [
+    {
+      "position": 1,
+      "result": "PASS_WITH_OPTIONAL_QUALIFIER",
+      "finding": "conato 的努力和尝试为可能义，L/H 对应标待核；英文的程度限定可更明确覆盖两个候选义项。"
+    },
+    {
+      "position": 2,
+      "result": "PASS_WITH_CONFIDENCE_NOTE",
+      "finding": "Conabir 与 concebir 的联系为可能解释，H 胎分列；M 的 T99 已标，medium 与部分既往记录的 low 做法有口径差异。"
+    },
+    {
+      "position": 3,
+      "result": "PASS",
+      "finding": "con çebir 与 concebir 的关系标为可能，未据邻条强定单字投为受孕。"
+    },
+    {
+      "position": 4,
+      "result": "NEEDS_REVISION",
+      "finding": "L 受孕与 H 投胎分列，但英文将 H 确定释为进入子宫，未交代该词的转生词典义和本条取义之间的区别；M T99 及置信口径亦需保留。"
+    },
+    {
+      "position": 5,
+      "result": "PASS",
+      "finding": "Bayando 按 bajando 读时的低头仅作可能解释，未将低头与点头等同。"
+    },
+    {
+      "position": 6,
+      "result": "PASS_WITH_OPTIONAL_GLOSS",
+      "finding": "词典支持担子/责任和抬头的一般义，候选保留本条义与两栏对应待核；可将可能词典义同步英文。"
+    },
+    {
+      "position": 7,
+      "result": "NEEDS_REVISION",
+      "finding": "H 呾/咀及来/來疑读保留，但 L 的 uno/otro 和说话者指代被定成一种读法。"
+    },
+    {
+      "position": 8,
+      "result": "PASS",
+      "finding": "L concertar 与 H 處分列，商定/安排和处理为一般可能义；无新增具体场景。"
+    },
+    {
+      "position": 9,
+      "result": "PASS",
+      "finding": "L 商定价钱与 H 品分列，不径定品为货品评级或定价。"
+    },
+    {
+      "position": 10,
+      "result": "PASS",
+      "finding": "L 商定价钱与 H 甲分列，M 额外音节及其对应待核，未将甲改作合意。"
+    },
+    {
+      "position": 11,
+      "result": "PASS",
+      "finding": "L 为恶商议与 H 討分列，R 的具体对应待核，未强定 H 作图谋。"
+    },
+    {
+      "position": 12,
+      "result": "PASS",
+      "finding": "L 为恶商议与 H 度分列，R 的具体对应待核，未强定 H 作谋算。"
+    },
+    {
+      "position": 13,
+      "result": "PASS",
+      "finding": "释义与排列相关的 L/H 可互参；R chŷ chèng 及 M chěy chěng 与当前封存一致，音写对应仍标待核。"
+    },
+    {
+      "position": 14,
+      "result": "PASS_WITH_OPTIONAL_GLOSS",
+      "finding": "H 齊應为可能释义、ce 是否接入 concertarse 未定；可限定式增加 concertar 的一般词典义。"
+    },
+    {
+      "position": 15,
+      "result": "PASS",
+      "finding": "H 朴和 L recto 的可能义分列，concertad、音写及对应未强定。"
+    },
+    {
+      "position": 16,
+      "result": "PASS_WITH_OPTIONAL_GLOSS",
+      "finding": "H 与 L 分列，具体义和对应待核，M T99 与 low 已记；可限定式补充可辨词语的一般义。"
+    },
+    {
+      "position": 17,
+      "result": "PASS",
+      "finding": "H 谋与 L 修整缺陷分列，L 用「可能」限定，R 与 H 的对应待核。"
+    },
+    {
+      "position": 18,
+      "result": "PASS",
+      "finding": "H 綿及 L 词形待核；所引原始转录备注确提出 concertado 与 compuesto 等候选，未当作定读。"
+    }
+  ],
+  "review_notes": [
+    "需要修订的问题为第 4、7 条；第 1、2、6、14、16 条为可选完善，其中第 2 条置信口径说明同样适用于第 4 条。",
+    "逐条 PASS 仅表示本次未发现列示范围之外的具体问题，不等于证明历史词义、跨栏关系或图像读数正确。",
+    "记录绑定所列封存、原释义及候选哈希；任一项变更后应针对变更重新复核。"
+  ],
+  "candidate_relocation_note": "初审候选字节已原样保存到此路径，随后修订原候选路径；初审 SHA 保持不变。",
+  "sealed_relocation_note": "初审所见调标同步前封存已原字节保留；正式封存随后只更新调标数组。"
+}

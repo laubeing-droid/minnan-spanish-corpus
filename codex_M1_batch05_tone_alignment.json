@@ -1,0 +1,45 @@
+{
+  "status": "COMMITTED_VERIFIED",
+  "reason": "本批已修字面中原 tone_marks_R 仍保留旧标；按已核原图的帽形/斜形同步码，不改字母。",
+  "backup": "C:\\Users\\being\\AppData\\Local\\Temp\\codex_batch05_tone_f8m240a_",
+  "items": [
+    {
+      "page": 267,
+      "position": 9,
+      "field": "tone_marks_R",
+      "old": [
+        "T05 (平橫)",
+        "T02 (降斜)",
+        "T05 (平橫)"
+      ],
+      "new": [
+        "T05 (平橫)",
+        "T03 (尖頂帽)",
+        "T05 (平橫)"
+      ],
+      "literal": "hān lîn xīn",
+      "old_sealed_sha256": "c9be1118c646976c7215f1e602878437a03ac6a576200fba3595a68b789ad2a9",
+      "new_sealed_sha256": "24a492d22567aeea95b5fd699c77f53998dfd287cf1818e5d69ce9f32b6ed0fa"
+    },
+    {
+      "page": 282,
+      "position": 13,
+      "field": "tone_marks_R",
+      "old": [
+        "T03 (尖頂帽)",
+        "T04 (凹角)"
+      ],
+      "new": [
+        "T03 (尖頂帽)",
+        "T02 (降斜)"
+      ],
+      "literal": "chŷ chèng",
+      "old_sealed_sha256": "87b1b0cf0529c05e67a7cfac9b0ca36c3778424bbf6ca89b9abaea04466f726b",
+      "new_sealed_sha256": "ecbafdec52c8ef6644116716ece221be797eb57398e59cad4a6f6c8e6712a724"
+    }
+  ],
+  "sources": [
+    "codex_M1_batch05_audit_b1.json",
+    "codex_M1_batch05_audit_b2.json"
+  ]
+}

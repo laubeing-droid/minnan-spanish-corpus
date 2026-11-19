@@ -1,0 +1,250 @@
+{
+  "protocol": "ADK_VERDICT_V1",
+  "page": 266,
+  "actor": "Codex 子代理",
+  "actor_id": "/root/adk_batch05_a",
+  "method": "对照 v1/rr 的原图裁决，非独立盲读",
+  "verdicts": [
+    {
+      "position": 7,
+      "field": "M",
+      "v1": "xiōg",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第7行中栏词首是清楚交叉的 x，末尾为长下行 g；上方粗斜画与 V1 横调不能直接等同。"
+    },
+    {
+      "position": 8,
+      "field": "M",
+      "v1": "xiōg",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第8行中栏第二词的 x 起笔、尾部下行 g 可见，上方斜画粗重；此项仅审 xiog。"
+    },
+    {
+      "position": 12,
+      "field": "R",
+      "v1": "sīm",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "第12行右栏中词 s 后接 i、m，末端两拱可辨；上方是钩形而非 V1 横画，此项只裁 sim。"
+    },
+    {
+      "position": 16,
+      "field": "R",
+      "v1": "sīm",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "第16行右栏第三词 sim 尾部 m 可辨，上方呈钩形；不是单凭音系假定 n，也未见 V1 所写平直调线。"
+    },
+    {
+      "position": 1,
+      "field": "R",
+      "v1": "chīn",
+      "rr": "chū",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第1行右栏 ch 后接带点 i 与 n，i 上横画；不作重读的 u。"
+    },
+    {
+      "position": 3,
+      "field": "M",
+      "v1": "lû chûe",
+      "rr": "lû cuè",
+      "verdict": "墨迹不明",
+      "letters": "rr",
+      "tone_mark": "存疑",
+      "note": "第3行中栏首词 lu、次词 cue，次词 c 后未见 h；首词波形与次词粗重上画难以准确归定为两案调号。"
+    },
+    {
+      "position": 4,
+      "field": "R",
+      "v1": "lȳ sī",
+      "rr": "lȳ sȳ",
+      "verdict": "两皆误",
+      "letters": "rr",
+      "tone_mark": "位置差",
+      "note": "第4行右栏两词字母为 ly sy，第二个 y 上斜画而非两案的横画；第一 y 上为横画。",
+      "ink": "lȳ sỳ"
+    },
+    {
+      "position": 5,
+      "field": "R",
+      "v1": "lī chiāng",
+      "rr": "lȳ chiūñ",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "第5行右栏首词 li，上有横画；后词 chiang 末有下行 g，a 上钩形，与 V1 的平横调不同。"
+    },
+    {
+      "position": 6,
+      "field": "M",
+      "v1": "chũi sé.",
+      "rr": "chuy so",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第6行中栏首词末字有 y 下行，次词元音形 e；V1 首词作 i、重读次词作 o，首词上还有类似数字的小字及斜画。"
+    },
+    {
+      "position": 6,
+      "field": "R",
+      "v1": "chién şǎ",
+      "rr": "chuën sǎ",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第6行右栏首词 chu(e)n 上有钩形及小字，次词 sa 上有钩形；元音和首词上置小字尚不能逐一固定。"
+    },
+    {
+      "position": 7,
+      "field": "M",
+      "v1": "xiōg",
+      "rr": "xiōñ",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "第7行中栏可见 x-i-o-g，末字下行是 g，不是 n；o 上粗斜笔与两案所写横调不吻合或难定。"
+    },
+    {
+      "position": 8,
+      "field": "M",
+      "v1": "cûn xiōg",
+      "rr": "cūn xiōñ",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第8行中栏 cun xiog，前词粗黑上画及其上小 c 状笔画需保留，后词末字是 g 下行而非 n；调形不能确定。"
+    },
+    {
+      "position": 8,
+      "field": "R",
+      "v1": "cûn xiōg",
+      "rr": "cūn xiōñ",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第8行右栏 cun xiog，首词横线上另有小 c 状笔画，次词末字为下行 g；重读作 ñ，完整上标需辨。"
+    },
+    {
+      "position": 9,
+      "field": "M",
+      "v1": "gĩ çō",
+      "rr": "giñ só",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第9行中栏首词 gin 有底行 n，次词起笔带长下行形似 ç；两案分别遗漏 n 或遗漏次词下行，顶上笔画粗重。"
+    },
+    {
+      "position": 9,
+      "field": "R",
+      "v1": "chān",
+      "rr": "chēn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第9行右栏 ch 后元音更像 a 而非 e，末有 n；上方横画之上另有小 c 状字，完整标记待确认。"
+    },
+    {
+      "position": 10,
+      "field": "R",
+      "v1": "nguēng sēng",
+      "rr": "ngnēng sēng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第10行右栏两词连笔，首词 ng 后元音挤压，难区分 ngueng 与 ngneng；两词上均有横画及点状墨迹。"
+    },
+    {
+      "position": 11,
+      "field": "M",
+      "v1": "cûy gûĩ.",
+      "rr": "cuñ guìn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第11行中栏首词 cuy 下行清楚，但顶上墨团与小字重叠；第二词 guin 上有斜画，不能确定两案全部上置字母。"
+    },
+    {
+      "position": 12,
+      "field": "M",
+      "v1": "gûĩ sīm sê.",
+      "rr": "guīn sīm sè",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第12行中栏 guin、sim、se 三词可见，末词上方粗黑尖形及小字、首词调画均未能与两案完全对应。"
+    },
+    {
+      "position": 12,
+      "field": "R",
+      "v1": "gûiⁿ sīm sēng",
+      "rr": "guīn sīn sēng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第12行右栏首词有底行 n，中词末尾为 m，两案分别作上置 ⁿ 和末尾 n；三词上画及小字尚需确认。"
+    },
+    {
+      "position": 13,
+      "field": "M",
+      "v1": "sê gúí.",
+      "rr": "sè guīr",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第13行中栏首词 se 上方有小字及粗重尖画；次词 gui 后有直立收笔，既非 V1 无尾也不像重读 r，完整字形未定。"
+    },
+    {
+      "position": 14,
+      "field": "M",
+      "v1": "sê gúĩ",
+      "rr": "sè guìn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第14行中栏首词 se 上方有粗画及小字，次词 guin 上为右斜画；上置笔画的字母与调号归属未确定。"
+    },
+    {
+      "position": 15,
+      "field": "M",
+      "v1": "gûĩ çô",
+      "rr": "guìn só",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第15行中栏圈内首词有底行 n，次词首字有明显下行；V1 首词缺底行 n，重读次词写普通 s；顶上尖画待辨。"
+    },
+    {
+      "position": 15,
+      "field": "R",
+      "v1": "gûiⁿ chān",
+      "rr": "guìn chēn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第15行右栏首词 guin、次词 chan，V1 将 n 写为上置，重读次词作 chen；第二词横线上还有小 c 状字。"
+    },
+    {
+      "position": 18,
+      "field": "M",
+      "v1": "queg chûiy.",
+      "rr": "quèg chhùy",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第18行中栏首词 queg 末为下行笔，次词 ch(u)y 上方有大墨块覆盖，h 数目和调号均无法完整确认。"
+    }
+  ]
+}

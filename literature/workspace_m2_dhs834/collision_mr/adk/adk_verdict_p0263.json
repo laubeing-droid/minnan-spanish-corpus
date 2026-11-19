@@ -1,0 +1,290 @@
+{
+  "protocol": "ADK_VERDICT_V1",
+  "page": 263,
+  "actor": "Codex 子代理",
+  "actor_id": "/root/adk_batch05_a",
+  "method": "对照 v1/rr 的原图裁决，非独立盲读",
+  "verdicts": [
+    {
+      "position": 8,
+      "field": "source_R",
+      "v1": "[疑:tan chāng/fon chang]",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第8行右栏首词起笔像 t，非可确认的 f；两词上方还有细小墨迹，完整字面与调号待辨。"
+    },
+    {
+      "position": 14,
+      "field": "R",
+      "v1": "lom",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第14行右栏靠分隔线有 lom，末尾为 m；此项只裁 lom 词段，后面的字不纳入。"
+    },
+    {
+      "position": 18,
+      "field": "R",
+      "v1": "nièm",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第18行右栏中词 ni(e) 后收笔连写，n/m 难定，上方呈钩形；不能只按声韵规则定 -m。"
+    },
+    {
+      "position": 2,
+      "field": "M",
+      "v1": "tam Bōū jān",
+      "rr": "tām bōṹ bāṹ",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第2行中栏首词 tam，后两词均以 b 起笔，第三词不是 j；首词斜画及后两词上画、上置小字不能完整对应重读。"
+    },
+    {
+      "position": 3,
+      "field": "M",
+      "v1": "sīm siõ",
+      "rr": "sāu siōn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第3行中栏首词可见 sia 起笔，第二词 sio 上方有改写及小字，两候选首词字母均未完整覆盖这些笔画。"
+    },
+    {
+      "position": 3,
+      "field": "R",
+      "v1": "jin siàng",
+      "rr": "sû siàng",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第3行右栏第一词呈 z/i/n 连写，非 jin 或 sû；第二词末见长下行 g，首词调号和全部字母仍需辨。"
+    },
+    {
+      "position": 4,
+      "field": "M",
+      "v1": "tam hō̃",
+      "rr": "tām thāu",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第4行中栏圈内首词 tam，第二词前部与圈线相交，不能确定 h 或 th 及末尾字母；上方线条亦与圈线交叠。"
+    },
+    {
+      "position": 4,
+      "field": "R",
+      "v1": "tan māu",
+      "rr": "tân khû",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第4行右栏首词 tan 上有钩形及小字；第二词起笔连写，kh/h 和声调无法确定。"
+    },
+    {
+      "position": 5,
+      "field": "M",
+      "v1": "tām lām.",
+      "rr": "tām sīm",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第5行中栏第二词起笔是长 s，不是 l；两词上方斜笔与小字不等于可确定的平线调。"
+    },
+    {
+      "position": 5,
+      "field": "R",
+      "v1": "tān lán",
+      "rr": "tān sīn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第5行右栏第二词是 s 开头而非 l，首词上有小字和钩形，末词上为弯画，不能把重读的全部平线当作已证。"
+    },
+    {
+      "position": 6,
+      "field": "R",
+      "v1": "xû jîn",
+      "rr": "sȳ xîn",
+      "verdict": "重读对",
+      "letters": "rr",
+      "tone_mark": "一致",
+      "note": "第6行右栏首词是 sy、y 上横画，次词为 xin 上尖形画，与重读的字母及调号相符。"
+    },
+    {
+      "position": 7,
+      "field": "M",
+      "v1": "hey sy chī̃",
+      "rr": "hē sī chȳ",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第7行中栏首词写有 hey，末词呈 chy 并有上置小字；两案分别遗漏首词 y 或末词形体，末词上画需细辨。"
+    },
+    {
+      "position": 7,
+      "field": "R",
+      "v1": "hy jin chièn",
+      "rr": "hȳ zīn chièn",
+      "verdict": "两皆误",
+      "letters": "rr",
+      "tone_mark": "位置差",
+      "note": "第7行右栏字母为 hy zin chien；首二词 y/i 上横画，末词 e 上尖形而非重读的右斜调，故重读只在字母层吻合。",
+      "ink": "hȳ zīn chiên"
+    },
+    {
+      "position": 8,
+      "field": "R",
+      "v1": "[疑:tan chāng/fon chang]",
+      "rr": "tān châng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第8行右栏首词清楚从 t 起，后接 an，次词为 chang；两词上方钩画和细小字与候选调号对应关系不清。"
+    },
+    {
+      "position": 9,
+      "field": "M",
+      "v1": "lōan lōan nī",
+      "rr": "lōān lōān nȳ",
+      "verdict": "墨迹不明",
+      "letters": "rr",
+      "tone_mark": "存疑",
+      "note": "第9行中栏两次 loan 后是带长下行的 ny；每个 loan 上各见一长横画，重读双元音上的双标记不能据此确认。"
+    },
+    {
+      "position": 10,
+      "field": "M",
+      "v1": "chiù chỹ",
+      "rr": "chiūⁿ chhȳ",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第10行中栏第一词 chiu 上有上置小字，第二词 chy 上亦有小字；V1 缺前词小字，重读第二词写 chhy，与可见形体不同。"
+    },
+    {
+      "position": 11,
+      "field": "R",
+      "v1": "chōng lī",
+      "rr": "chōng lȳ",
+      "verdict": "重读对",
+      "letters": "rr",
+      "tone_mark": "一致",
+      "note": "第11行右栏为 chong ly，两词各有横画；末字有 y 下行，与重读 lȳ 一致。"
+    },
+    {
+      "position": 12,
+      "field": "M",
+      "v1": "chiōh",
+      "rr": "chhioⁿ",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第12行中栏可见 chio，词上有两笔小字，不能确定是 h 还是上置字母，也不能确认调号。"
+    },
+    {
+      "position": 13,
+      "field": "M",
+      "v1": "chiú āu que / chiú āu re",
+      "rr": "chiūⁿ āu khe",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第13行中栏圈内 chiu、au、末词；末词受圈线穿过且第一词有上置小字，不能把 que/re 或 khe 任一完整确认。"
+    },
+    {
+      "position": 13,
+      "field": "R",
+      "v1": "chiù heú chī",
+      "rr": "chîn kēn chîn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第13行右栏为三词，第二词 k 起笔且末词与首词均为 chin 形；首词上斜画与重读尖形调不易统一。"
+    },
+    {
+      "position": 15,
+      "field": "M",
+      "v1": "lõ",
+      "rr": "lōⁿ",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第15行中栏首字长 l，后接 o/u 形并上覆波形；两候选只写 lo，底行字母和波形是否为上置字母仍待辨。"
+    },
+    {
+      "position": 15,
+      "field": "R",
+      "v1": "[疑:hi/lu]",
+      "rr": "lī",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第15行右栏为 h 起笔与短竖，形近 hi；上方一横画，V1 的疑读只给 hi/lu 而未定调，重读 l 与起笔不合。"
+    },
+    {
+      "position": 17,
+      "field": "M",
+      "v1": "āu chiũ",
+      "rr": "āu chhiūⁿ chhȳ",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第17行中栏 au 后接 chiu 与 chy；两处上置小字及 h 数目、曲画与斜画难以和任一完整案一致。"
+    },
+    {
+      "position": 17,
+      "field": "R",
+      "v1": "heū chiù",
+      "rr": "kēn chîn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第17行右栏首词 ken 形上方横画及独立点紧邻，点是否对应额外 i 不能确定；末词 chin 上斜画，不能补成完整 ink。"
+    },
+    {
+      "position": 18,
+      "field": "M",
+      "v1": "chiú liām lāi",
+      "rr": "chiūⁿ liām lōi",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第18行中栏 chiu 上有小字，接 liam 与 lay 形；第二、第三词上波形及钩形与两案标记不能确配。"
+    },
+    {
+      "position": 18,
+      "field": "R",
+      "v1": "chiù nièm nei",
+      "rr": "chiūⁿ niēm nūi",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第18行右栏首词 chiu 后接 ni(e)n 与 n(u)i 形，中词末笔、首词上方斜画及末词元音尚难确定。"
+    },
+    {
+      "position": 19,
+      "field": "M",
+      "v1": "āu chiú chī̃.",
+      "rr": "āu chhiūⁿ chhȳ",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第19行中栏圈内 au、chiu、chy，第一词及后两词上方有钩、斜画或小字，圈线覆盖末尾，不能确认整串。"
+    },
+    {
+      "position": 19,
+      "field": "R",
+      "v1": "heū chiù chièn",
+      "rr": "kēn chîn chièn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第19行右栏首词 ken 形上方横画及独立点紧邻，点与底行字母的对应未能确定；后两词分别有斜画和尖画。"
+    }
+  ]
+}

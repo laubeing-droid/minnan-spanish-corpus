@@ -1,0 +1,331 @@
+{
+  "protocol": "ADK_VERDICT_V1",
+  "page": 271,
+  "actor": "Codex 子代理",
+  "actor_id": "/root/adk_batch05_c",
+  "method": "对照 v1/rr 的原图裁决，非独立盲读",
+  "verdicts": [
+    {
+      "position": 9,
+      "field": "source_M",
+      "v1": "poã hŷ [疑:首音p/f]",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "搬戏行中栏第一词开头长下伸笔近 p/f，元音上另有波状小笔；后一 hy 上有折号。"
+    },
+    {
+      "position": 10,
+      "field": "M",
+      "v1": "componer",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "做戏行中栏夹注跨行写 compo- / ner；连接后为 componer，词尾 r 属西文注释。"
+    },
+    {
+      "position": 10,
+      "field": "M",
+      "v1": "componer",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "同一夹注跨行写 compo- / ner；目标是 componer 中的 -omponer，而非该行拼音词。"
+    },
+    {
+      "position": 10,
+      "field": "M",
+      "v1": "comedia",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "做戏行中栏细字夹注第二行写 comedia，词中 -omedia 清楚。"
+    },
+    {
+      "position": 4,
+      "field": "R",
+      "v1": "sīh",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "食燕行右栏首词长首笔、短元音上有横，末笔靠近下一 yen；是否另有 h 不能可靠分开。"
+    },
+    {
+      "position": 5,
+      "field": "R",
+      "v1": "Hōp",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "合字行右栏 Ho 后一短末笔与横画挤在一起；p 或末饰及元音 o/a 不稳。"
+    },
+    {
+      "position": 12,
+      "field": "R",
+      "v1": "antie",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "旦占行右栏第一词起笔贴红竖线，后面接 tie，词界与行首小笔需核；不能径认 -antie。"
+    },
+    {
+      "position": 1,
+      "field": "M",
+      "v1": "chô chiù",
+      "rr": "chò chiuⁿ",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "做酒行中栏 chô chiù，首词折尖、第二词反斜画，第二词末无上置 n。"
+    },
+    {
+      "position": 1,
+      "field": "R",
+      "v1": "chō chiū [疑:chiū/chīn]",
+      "rr": "chō chhiùⁿ",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "做酒行右栏首词 cho 上横，第二词上反斜画，末 u/n 连笔及是否上置 n 不稳。"
+    },
+    {
+      "position": 2,
+      "field": "M",
+      "v1": "tō̃ tō [疑:鼻化号/g]",
+      "rr": "tòng toⁿ",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "东道行中栏首词 tong 末 g 下伸，上方正斜画；第二词 to 上为折画，重读附上置 ⁿ 而原图未见，两个候选均与完整记号不合。 五倍图复核：东道行中栏首词末 g 下行，第二词 to 上为折画；首词正斜画旁还有一点状墨迹，不能确定是否为独立上置笔画，无法完全确认候选。"
+    },
+    {
+      "position": 2,
+      "field": "R",
+      "v1": "tōⁿ tō [疑:鼻化号/g]",
+      "rr": "tōng tān",
+      "verdict": "两皆误",
+      "letters": "rr",
+      "tone_mark": "位置差",
+      "note": "东道行右栏为 tǒng tān，首词末 g 下伸且上为折画，第二词上横。",
+      "ink": "tǒng tān"
+    },
+    {
+      "position": 4,
+      "field": "M",
+      "v1": "chia iēn",
+      "rr": "chiàh ien",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "食燕行中栏 chia 后接 ien，第一词上交叉笔、第二词上浓黑；是否有词末 h 与声符需核。"
+    },
+    {
+      "position": 5,
+      "field": "R",
+      "v1": "Hōp [疑:尾p或为笔饰]",
+      "rr": "Hāp",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "合字行右栏首字大写 H，后有圆腹及紧贴的末笔，上有横；o/a 与尾 p 难同时锁定。"
+    },
+    {
+      "position": 6,
+      "field": "R",
+      "v1": "[残]gong [疑:前段墨污]",
+      "rr": "jong",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "痒字行右栏前段涂划，后接以长下伸笔开头的 -ong，首字 g/j 及调号未定。"
+    },
+    {
+      "position": 8,
+      "field": "M",
+      "v1": "Hŷ",
+      "rr": "Hì",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "戏字行中栏大写 H 后为带下伸笔的 y，上有折尖；重读 i 不符该字形。"
+    },
+    {
+      "position": 9,
+      "field": "M",
+      "v1": "poã hŷ [疑:首音p/f]",
+      "rr": "pòa hì",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "搬戏行中栏首词上有波状小笔及斜画，p/f 起笔和小字角色难定；次词 hy 上折号。"
+    },
+    {
+      "position": 9,
+      "field": "R",
+      "v1": "pān hī [疑:首字母g/p]",
+      "rr": "pōaⁿ hī",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "搬戏行右栏首词以长下伸笔起，后接 oa 与末笔，上有折画；是否为上置 ⁿ 与词尾 n 未定。"
+    },
+    {
+      "position": 10,
+      "field": "M",
+      "v1": "chô hŷ. Pien hī. componer comedia. [疑:后段为夹注]",
+      "rr": "chò hì",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "做戏行中栏先写 cho hy，再以细字写 Pien hi、跨行 compo-ner comedia；前两词及夹注上符号拥挤。"
+    },
+    {
+      "position": 11,
+      "field": "M",
+      "v1": "ièn hŷ",
+      "rr": "iēn hì",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "演戏行中栏 ièn 上反斜画，hy 的 y 下伸且上有折尖；重读首词调号和末字母不同。"
+    },
+    {
+      "position": 11,
+      "field": "R",
+      "v1": "yēn hī [疑:首字母y/g]",
+      "rr": "yèn hī",
+      "verdict": "两皆误",
+      "letters": "两皆误",
+      "tone_mark": "缺失",
+      "note": "演戏行右栏为 yèn hȳ，首词上反斜画，第二词 y 下伸并有横；两候选均把 y 写为 i。",
+      "ink": "yèn hȳ"
+    },
+    {
+      "position": 12,
+      "field": "M",
+      "v1": "[残]oa ŋiap [疑:首音涂损]",
+      "rr": "Jóa hiāp",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "旦占行中栏首词上半被黑墨覆盖，第二词 iap 上有交叉及小 c；首字与上置字母无法全判。"
+    },
+    {
+      "position": 12,
+      "field": "R",
+      "v1": "[残]antie· tan chien [疑:行首切损，首词或为 santie]",
+      "rr": "sān tie: sān chien",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "旦占行右栏 san、tie、san、chien 横写，tie 上有横且上方另有小 c；候选均未完整记该上置小字。"
+    },
+    {
+      "position": 13,
+      "field": "M",
+      "v1": "hŷ tōã [疑:污点遮鼻化]",
+      "rr": "hì joa",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "戏旦行中栏 hy 后接 toa，第二词上方黑墨与波形小笔叠压；t/j 与上置字母不能确认。"
+    },
+    {
+      "position": 14,
+      "field": "M",
+      "v1": "[涂改]hŷ tūy. [疑:划除遮蔽声符]",
+      "rr": "hỳ tūi",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "戏队行中栏划去前段，保留 hy 与 tuy，y 均有下伸笔；第二词上可见折画而非横画。"
+    },
+    {
+      "position": 15,
+      "field": "M",
+      "v1": "guiùn [疑]",
+      "rr": "giūm",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "谨字行中栏首字 q/g 下伸，后有 u、i 和连笔，末 n/m 及上方斜画落点不稳。"
+    },
+    {
+      "position": 15,
+      "field": "R",
+      "v1": "guiùn [疑]",
+      "rr": "giùm",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "谨字行右栏首字下伸，后续 ui 及末 n/m 紧连，上方反斜画可见。"
+    },
+    {
+      "position": 16,
+      "field": "M",
+      "v1": "sio chūi [疑:尾音i/u]",
+      "rr": "sio chūi",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "缺失",
+      "note": "相推行中栏 sio 后接 chuy，第一词上斜画，第二词上有交叉及小 c；候选同字母但未记全小字。"
+    },
+    {
+      "position": 16,
+      "field": "R",
+      "v1": "siāng chǔi [疑:第二声符难辨]",
+      "rr": "siōng chhūi",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "相推行右栏首词末 ng 明显，第二词首 ch 后连笔及词上折画、小弧难分，不能只选单 h 或双 h。"
+    },
+    {
+      "position": 17,
+      "field": "M",
+      "v1": "chú quey. [疑:quey/cài]",
+      "rr": "chù gūey",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "注解行中栏 chu 后接 quey，第二词上反斜画，首词折号与上置小笔相叠；q/g 和调号需核。"
+    },
+    {
+      "position": 17,
+      "field": "R",
+      "v1": "chū guāy [疑:g/k]",
+      "rr": "chū guāy",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "注解行右栏首词 chu 上横及小点，后词 guay 上横；小点是否属于书写字面不能确定。"
+    },
+    {
+      "position": 18,
+      "field": "M",
+      "v1": "t[残]ay [疑:潦草，或为 thoān 类]",
+      "rr": "trūan",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "传字行中栏为紧缩连笔词，尾部下伸且上有横及另一个小标；t- 开头后续无法全辨。"
+    },
+    {
+      "position": 18,
+      "field": "R",
+      "v1": "chūēn [疑:上似有叠置符号]",
+      "rr": "chhoān",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "传字行右栏 ch- 后连写 uen 一类笔画，上方有折号及小弧；完整元音和上置小字未定。"
+    }
+  ]
+}

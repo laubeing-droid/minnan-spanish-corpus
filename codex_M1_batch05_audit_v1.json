@@ -1,0 +1,93 @@
+{
+  "protocol": "ADK_V1_SAMPLE_AUDIT_V1",
+  "actor_id": "adk_batch05_b",
+  "method": "非盲抽查各页首条 V1对；对照该页 ADK 任务、回执及原横带",
+  "bbox_coordinate_space": "所列原横带原始像素；xyxy，左上为原点、右下不含",
+  "records": [
+    {
+      "page": 263,
+      "index_1based": 2,
+      "candidate": "lom",
+      "position": 14,
+      "field": "R",
+      "kind": "官话存疑韵尾:-m",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0263/pdf_0263_band_y2_bot.png",
+      "bbox_xyxy": [
+        1415,
+        145,
+        1600,
+        260
+      ],
+      "reason": "第14行靠中右栏分隔线，原图首词依次 l-o-m，m 有两个拱，后接独立的 day；目标 m 确在 lom 词尾，该局部上方未见调号或上置字。"
+    },
+    {
+      "page": 266,
+      "index_1based": 5,
+      "candidate": "chīn",
+      "position": 1,
+      "field": "R",
+      "kind": "两读字母差",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0266/pdf_0266_band_y0_top.png",
+      "bbox_xyxy": [
+        1640,
+        350,
+        1760,
+        485
+      ],
+      "reason": "第1行右栏为 ch 后接带点 i 与单拱 n，词上有横线；末部为 n，i 点在横线上方，完整目标与 chīn 相符。"
+    },
+    {
+      "page": 268,
+      "index_1based": 7,
+      "candidate": "tiām",
+      "position": 6,
+      "field": "R",
+      "kind": "官话存疑韵尾:-m",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0268/pdf_0268_band_y0_top.png",
+      "bbox_xyxy": [
+        1660,
+        970,
+        1835,
+        1080
+      ],
+      "reason": "割吊心行右栏有三个相邻词，目标是中间词；t、带点 i、a、双拱 m 以及上横均可见，m 处于该词末尾。"
+    },
+    {
+      "page": 271,
+      "index_1based": 2,
+      "candidate": "componer",
+      "position": 10,
+      "field": "M",
+      "kind": "音系非法韵尾:-r",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0271/pdf_0271_band_y1_mid.png",
+      "bbox_xyxy": [
+        1260,
+        735,
+        1645,
+        900
+      ],
+      "reason": "做戏行中栏旁西文夹注第一行写 compo-，下一行左侧接 ner；连合后为 componer，r 是该西文词的末字。此处是西文夹注，不作为闽南语音节判断。"
+    },
+    {
+      "page": 274,
+      "index_1based": 7,
+      "candidate": "xiēn",
+      "position": 18,
+      "field": "M",
+      "kind": "音系非法声母:x",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0274/pdf_0274_band_y2_bot.png",
+      "bbox_xyxy": [
+        1325,
+        575,
+        1460,
+        705
+      ],
+      "reason": "宛然行中栏第二词可见 x、i、e、n 和上横；i 上方有分离点迹，横线末端靠分隔线，不能确认上部点迹是否仅为 i 点及完整符号。"
+    }
+  ]
+}

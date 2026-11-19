@@ -1,0 +1,90 @@
+{
+  "method": "非盲对照各页 ADK 任务、既有裁决和原横带五倍裁切",
+  "actor_id": "/root/adk_batch05_c",
+  "records": [
+    {
+      "page": 276,
+      "index_1based": 8,
+      "candidate": "lôn",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0276/pdf_0276_band_y0_top.png",
+      "bbox_xyxy": [
+        1640,
+        390,
+        1810,
+        500
+      ],
+      "reason": "劳字行右栏首字 l、圆腹 o 与上方折尖可见，o 后连续折笔可能包含 u 及末 n，也可能只是 n 的连接；无法确认候选排除了 u。"
+    },
+    {
+      "page": 276,
+      "index_1based": 25,
+      "candidate": "fǒng",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0276/pdf_0276_band_y2_bot.png",
+      "bbox_xyxy": [
+        1640,
+        480,
+        1820,
+        620
+      ],
+      "reason": "帮字行右栏首字为带横划和下伸笔的 f，后接 ong、末 g 下伸；词上为折画，支持 fǒng，不能记为重读的反斜画。"
+    },
+    {
+      "page": 276,
+      "index_1based": 28,
+      "candidate": "pvān",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0276/pdf_0276_band_y2_bot.png",
+      "bbox_xyxy": [
+        1650,
+        710,
+        1820,
+        835
+      ],
+      "reason": "伴字行右栏 p 后有一个圆折形元音笔画，再接 a、n，词上横画可见；该连接笔是 v 还是 u 不能稳定分辨，不按音系替换。"
+    },
+    {
+      "page": 279,
+      "index_1based": 19,
+      "candidate": "chȳ yō lāu",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0279/pdf_0279_band_y1_mid.png",
+      "bbox_xyxy": [
+        1640,
+        755,
+        1980,
+        925
+      ],
+      "reason": "制药料行右栏有三词且均上横，首词 y 明显下伸、第二词为 yo；第三词 la 后末笔连写，u 与 n 尚不能可靠区分，因此完整候选待核。"
+    },
+    {
+      "page": 282,
+      "index_1based": 13,
+      "candidate": "chŷ chèng",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0282/pdf_0282_band_y2_bot.png",
+      "bbox_xyxy": [
+        1570,
+        315,
+        1860,
+        475
+      ],
+      "reason": "齐整行右栏首词 ch 后接下伸 y，上为折尖，未见独立 i 及其点；次词 cheng 末 g 下伸、上反斜画，支持 chŷ chèng。"
+    },
+    {
+      "page": 282,
+      "index_1based": 15,
+      "candidate": "pōᶜ",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0282/pdf_0282_band_y2_bot.png",
+      "bbox_xyxy": [
+        1560,
+        555,
+        1760,
+        690
+      ],
+      "reason": "扑字行右栏 p 下伸，词上横画及横上小 c 清楚；其后的元音被黑墨连成团，o/a 尚不能稳分，不能确认完整候选 pōᶜ。"
+    }
+  ]
+}

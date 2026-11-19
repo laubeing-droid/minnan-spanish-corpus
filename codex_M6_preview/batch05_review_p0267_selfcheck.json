@@ -1,0 +1,112 @@
+{
+  "page": 267,
+  "review_type": "NONBLIND_AUTHOR_SELF_CHECK",
+  "reviewer_role": "本自核者同时是本次 p0267 初稿与修订候选的作者。",
+  "candidate_author": true,
+  "independent_review": false,
+  "scope": "仅由候选作者对照初审，检查第 5、10、12 条必改、第 2、6、17 条可选修订及第 9 条 R 栏同步；未独立复审、未重读原图。",
+  "candidate_path": "codex_M6_preview/batch05_refresh_p0267.json",
+  "candidate_sha256": "aa078a173b16f04e444b2e508b21307e6b8dee77e02d340e31239f5a83b8dae8",
+  "sealed_path": "codex_M6_preview/batch05_seal_before_tones_p0267.json",
+  "sealed_sha256": "c9be1118c646976c7215f1e602878437a03ac6a576200fba3595a68b789ad2a9",
+  "original_gloss_path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0267.json",
+  "original_gloss_sha256": "bc701e3a6426e7f6648fb05b5a69273da1e017e9b0a75ca80a5a5b57bb8f1025",
+  "previous_review_path": "codex_M6_preview/batch05_review_p0267.json",
+  "previous_review_sha256": "4bfc3fe0fe615b6f965ab55d84db624136f7d5d657fbee5895f0cd0f1c7d15e6",
+  "initial_candidate_path": "codex_M6_preview/batch05_refresh_initial_p0267.json",
+  "initial_candidate_sha256": "8acfd23d65407edef1c4ede18a2faaef821cfcd7f173e8fb6de7d2ecdf06de6b",
+  "seal_receipt_path": "literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_0263_0282_20261119T034746665162Z.json",
+  "seal_receipt_sha256": "217fba7f1d82142fa7192d1421a49420093b0415f5bcac994b1bbd2b8654574d",
+  "positions_reviewed": [
+    2,
+    5,
+    6,
+    9,
+    10,
+    12,
+    17
+  ],
+  "changed_positions_from_initial": [
+    2,
+    5,
+    6,
+    10,
+    12,
+    17
+  ],
+  "result": "SELF_CHECK_PASS_WITH_SOURCE_CONFLICT",
+  "issues": [
+    {
+      "position": 9,
+      "priority": "source_observation",
+      "type": "sealed_field_disagreement",
+      "evidence": "当前封存 source_R 为「hān lîn xīn」；同条 tone_marks_R 为 T05、T02、T05，其中第二项标注「T02 (降斜)」。lîn 的 î 经 NFD 分解为 i + U+0302（尖顶号），同页 T03 标签为「尖頂帽」。",
+      "issue": "封存的音写第二音节尖顶号与其第二个声调几何标签 T02 不一致；候选仅引用 source_R，引用本身与封存一致。",
+      "limitation": "此为文件内字段对照，未重读图，不能据此裁定哪个字段应修改。本次未修改封存或候选。"
+    }
+  ],
+  "entry_reviews": [
+    {
+      "position": 2,
+      "result": "PASS_SELF_CHECK",
+      "finding": "notes 将 hiriendo 的现代词形、herir 的一般伤害义作为词典参照，未定 de ara con、具体词义、主客体或整段句法；R 的 T99 与 low 保留。",
+      "reference": "https://dle.rae.es/herir"
+    },
+    {
+      "position": 5,
+      "result": "PASS_SELF_CHECK",
+      "finding": "中英保留 quiere dar，击打仅作可能解释；次字亮/凶、具体义及两栏对应仍待核。",
+      "reference": "https://dle.rae.es/dar"
+    },
+    {
+      "position": 6,
+      "result": "PASS_SELF_CHECK",
+      "finding": "中英分列 L 的自然易怒与 H 的火性；notes 将天生／自然归于 L 栏。"
+    },
+    {
+      "position": 9,
+      "result": "PASS_SELF_CHECK_WITH_SOURCE_CONFLICT",
+      "finding": "候选 notes 的 R「hān lîn xīn」与最新封存 source_R 和修复回执一致；但封存本条 tone_marks_R 第二项仍为 T02（降斜），与 source_R 第二音节 lîn 的尖顶号（同页 T03 几何标签）不一致，哪一项需改须另核，不据此改候选或封存。"
+    },
+    {
+      "position": 10,
+      "result": "PASS_SELF_CHECK",
+      "finding": "中英将 Coles 释为甘蓝类，单列 Verços 读法和所指待核；H 首字芥/隔与具体所指仍待核。",
+      "reference": "https://dle.rae.es/col"
+    },
+    {
+      "position": 12,
+      "result": "PASS_SELF_CHECK",
+      "finding": "中英保留 o 连接的两个 colgadura 短语及 de Macama 的关联；Macama 和具体关系待核，H、R 空未解释为原件残缺。",
+      "reference": "https://dle.rae.es/colgadura"
+    },
+    {
+      "position": 17,
+      "result": "PASS_SELF_CHECK",
+      "finding": "中英将 cinta 的带子、腰带、腰部列为可能，espadas 指剑，vt 作用和本条词义待核；H 与 M 对应未定。",
+      "reference": "https://dle.rae.es/cinta"
+    }
+  ],
+  "entry_9_update_check": {
+    "field": "source_R",
+    "receipt_old": "hān lìn xūn",
+    "receipt_new": "hān lîn xīn",
+    "sealed_R": "hān lîn xīn",
+    "candidate_notes": "L 栏「Colégiales del Rey」指学院成员，H 栏「翰林院」为机构；R 栏现封存「hān lîn xīn」，末音与 H 栏「院」的对应待核，不凭音写改字。",
+    "matches_seal_and_receipt": true,
+    "sealed_tone_marks_R": [
+      "T05 (平橫)",
+      "T02 (降斜)",
+      "T05 (平橫)"
+    ],
+    "sealed_R_second_syllable": "lîn",
+    "tone_mark_source_conflict": true,
+    "limitation": "source_R 的文字比对不等于复核图像，也未判定声调标签应如何修复。"
+  },
+  "limitations": [
+    "本次为候选作者自核，并非独立复审；未对原图进行盲读、视觉重裁或人工验真。",
+    "自核覆盖列示位置及绑定哈希；其余位置沿用初审，候选或封存变更应重新检查。",
+    "现代词典支持一般词义或词形，不能决定本条历史词义及栏间对应。"
+  ],
+  "sealed_relocation_note": "所见封存为调标同步前版本，已原字节保留。"
+}

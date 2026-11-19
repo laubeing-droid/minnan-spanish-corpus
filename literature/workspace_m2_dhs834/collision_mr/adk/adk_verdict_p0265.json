@@ -1,0 +1,409 @@
+{
+  "protocol": "ADK_VERDICT_V1",
+  "page": 265,
+  "actor": "Codex 子代理",
+  "actor_id": "/root/adk_batch05_c",
+  "method": "对照 v1/rr 的原图裁决，非独立盲读",
+  "verdicts": [
+    {
+      "position": 5,
+      "field": "source_R",
+      "v1": "ja quim fing",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "缺失",
+      "note": "第5行右栏三词上均有符号，第二词首笔与 q/g 的区分不稳；v1 未记这些调号。"
+    },
+    {
+      "position": 13,
+      "field": "source_R",
+      "v1": "vaoguio xin",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "缺失",
+      "note": "右栏含 v 形首笔的 va- 词见摆脚人上一行；其后连写 guio、xin 且有调号，词尾与行号需核。"
+    },
+    {
+      "position": 19,
+      "field": "source_R",
+      "v1": "tien fin",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "底横带末一行右栏见 tien 与 fin 两段，前段上斜画、后段上折画；v1 未记调号。"
+    },
+    {
+      "position": 3,
+      "field": "M",
+      "v1": "liatio",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第3行中栏开头 lia、tio 相接，两段上均见记号，候选未记；记号与邻笔交叠。"
+    },
+    {
+      "position": 3,
+      "field": "M",
+      "v1": "Boalang",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第3行中栏后段 Boa 与 lang 连接，a、lang 上有记号；v1 未记调号。"
+    },
+    {
+      "position": 5,
+      "field": "R",
+      "v1": "quim",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "缺失",
+      "note": "第5行右栏第二词末有 m 形三连笔且上有折号，词首 q/g 形相近；v1 未记调号。"
+    },
+    {
+      "position": 6,
+      "field": "R",
+      "v1": "guiea",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "缺失",
+      "note": "第6行右栏首词 gui 后的末笔紧连，上方有长横；末字母 a/n 不稳，不能据韵母推断。"
+    },
+    {
+      "position": 7,
+      "field": "R",
+      "v1": "sit",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第7行右栏首词以长 s 形起，末笔为 t，i 上有横；v1 漏上方记号。"
+    },
+    {
+      "position": 8,
+      "field": "R",
+      "v1": "chut",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第8行右栏中词在 chu 后仍有连笔，末画与上方小标重叠；不能只凭词首判 chut。"
+    },
+    {
+      "position": 13,
+      "field": "R",
+      "v1": "vaoguio",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "缺失",
+      "note": "右栏 va- 与 guio 相连处有连笔；含此词者在摆脚人上一行，且上有横画。"
+    },
+    {
+      "position": 13,
+      "field": "R",
+      "v1": "vaoguio",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "缺失",
+      "note": "同一右栏 va- 连写词，a 后至 gui 前的笔画难断，不足以锁定 -aoguio。"
+    },
+    {
+      "position": 15,
+      "field": "R",
+      "v1": "paon",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "缺失",
+      "note": "右栏 ja pa- 位于杉板行，pa 的元音后直接接尾笔且上有斜画；不能仅凭候选确认 o。"
+    },
+    {
+      "position": 1,
+      "field": "R",
+      "v1": "guion",
+      "rr": "guin",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "首行右栏 gui 与后续 o、n 连写，末 n 可见；上有斜调画，两候选均未记。"
+    },
+    {
+      "position": 2,
+      "field": "M",
+      "v1": "Bag.",
+      "rr": "baý",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第2行中栏大写首笔与末尾下伸笔相连，末字母 g/y 及上方黑块难辨。"
+    },
+    {
+      "position": 2,
+      "field": "R",
+      "v1": "poⁿ",
+      "rr": "pō",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第2行右栏 po 上有横，横上另有小弧笔；小弧是否字母 ⁿ 无法确认。"
+    },
+    {
+      "position": 3,
+      "field": "R",
+      "v1": "ly chio cha mon xin",
+      "rr": "lỹ chiō chà màn xîn",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第3行右栏五词，第四词圆腹更近 mon；多个词上有横、折及斜画，v1 漏调，重读调号亦未完全对应。"
+    },
+    {
+      "position": 4,
+      "field": "M",
+      "v1": "la ho u sin.",
+      "rr": "lâ hṻ sîn",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第4行中栏圈内依次可见 la、ho、u、sin；u 上折画及 sin 上横画未在 v1 完整表示。"
+    },
+    {
+      "position": 5,
+      "field": "M",
+      "v1": "la quim sin.",
+      "rr": "lâ guîm sîn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "缺失",
+      "note": "第5行中栏圈内为 la、quim、sin 一类连写，第二词首 q/g 形相近，各词上标与圈线交叠。"
+    },
+    {
+      "position": 5,
+      "field": "R",
+      "v1": "ja quim fing",
+      "rr": "jà guîm sîng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "缺失",
+      "note": "第5行右栏末词有 f 形长笔及 ng，第二词 q/g 难区分；v1 缺调，重读的符号也不能全部核实。"
+    },
+    {
+      "position": 7,
+      "field": "R",
+      "v1": "sit guio lo chin",
+      "rr": "cīt guīo lò chìn",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "第7行右栏首字为长 s 形并接 it，其后 guio、lo、chin 连写；上方横与斜画未全见于 v1。"
+    },
+    {
+      "position": 8,
+      "field": "M",
+      "v1": "chiog chuu lay",
+      "rr": "chiò chūr lay",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第8行中栏首词末下伸笔、第二词上黑块及上置小笔交叠，无法确认 chiog/chio 和 chuu/chur 全貌。"
+    },
+    {
+      "position": 8,
+      "field": "R",
+      "v1": "cho chut lay",
+      "rr": "chō chūre lay",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第8行右栏首词 cho、末词 lay 可见，中词末连笔与上置小笔挤在一起，不能确定 chut 或 chure。"
+    },
+    {
+      "position": 9,
+      "field": "M",
+      "v1": "cua chiang quy lay",
+      "rr": "cuā chìāng gûy lay",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "缺失",
+      "note": "第9行中栏依次有 cua、chiang、quy、lay，第三词上黑墨遮符；v1 未记可见调画。"
+    },
+    {
+      "position": 9,
+      "field": "R",
+      "v1": "Xun quy gui lay",
+      "rr": "hūn gūīy gûn lay",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第9行右栏首词为 X 形首笔，后面三词均连写；第三词末笔与上方记号拥挤，不能完整确定。"
+    },
+    {
+      "position": 11,
+      "field": "M",
+      "v1": "cue",
+      "rr": "cūē ca lâng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏跛行有 cue；下一行 cue ca lang。词上横画之上另有小弯笔，两个候选取词范围不同。"
+    },
+    {
+      "position": 11,
+      "field": "R",
+      "v1": "guy",
+      "rr": "gỹ guīō xîn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏跛行有单词，下一行后接 guio xin；首词上有折画与小弯笔，两个候选取词范围不同。"
+    },
+    {
+      "position": 12,
+      "field": "M",
+      "v1": "cue ca lang.",
+      "rr": "toāt ca lâng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏相邻两行分别为 cue ca lang 与另一 ca lang，后者首词有折画；候选似跨行且首词难全辨。"
+    },
+    {
+      "position": 12,
+      "field": "R",
+      "v1": "guy guio xin",
+      "rr": "vāxguīō xîn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏相邻两行一行为 guy guio xin，下一行首词似 va-，连笔及上方记号不支持直接选整条。"
+    },
+    {
+      "position": 13,
+      "field": "M",
+      "v1": "bat ca lang.",
+      "rr": "paÿ ca lâng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "中栏相邻两行首词不同，一行为带折号的 va-/bat，下一行为带斜号的 pay；后均接 ca lang。"
+    },
+    {
+      "position": 13,
+      "field": "R",
+      "v1": "vaoguio xin",
+      "rr": "paÿ guīō xîn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "右栏相邻两行首词分别为 va- 和 pay，后均有 guio xin；前一词连笔与行号错位需核。"
+    },
+    {
+      "position": 14,
+      "field": "M",
+      "v1": "pay ca lang.",
+      "rr": "sám pàn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "杉板行中栏为 sám pàn，首音上斜画、第二音上反斜画；v1 的 pay ca lang 位于上一行。 复核发现先前取到下一视觉行，其位置与本条不对应，已撤回并恢复封存旧值。"
+    },
+    {
+      "position": 14,
+      "field": "R",
+      "v1": "pay guio xin",
+      "rr": "jà pàn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "杉板行右栏为 jǎ pàn，首词上折画、次词上反斜画；重读把首词折画记作斜画，v1 对应上一行。 五倍图复核：杉板行右栏第一词首笔是长下行的连笔，j 与长 s 形难以分定；a 上折画和 pan 上反斜画可见，不能据此确认完整的 jǎ pàn。"
+    },
+    {
+      "position": 15,
+      "field": "M",
+      "v1": "sam pan.",
+      "rr": "Bue'",
+      "verdict": "墨迹不明",
+      "letters": "rr",
+      "tone_mark": "存疑",
+      "note": "尾字行中栏 Bue 后有浓黑小笔，重读的末标是否对应该笔尚不能确定；sam pan 在上一行。"
+    },
+    {
+      "position": 15,
+      "field": "R",
+      "v1": "ja paon",
+      "rr": "vuèÿ",
+      "verdict": "墨迹不明",
+      "letters": "rr",
+      "tone_mark": "存疑",
+      "note": "尾字行右栏可见 uey 一类连写及上方斜画；是否带词首 v、调号落点仍不稳，ja paon 在上一行。"
+    },
+    {
+      "position": 16,
+      "field": "M",
+      "v1": "Bue",
+      "rr": "cá: cáû",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "胶字行中栏两段 ca: cau 上各有向右上斜画；v1 的 Bue 在上一行，重读第二段多记折号。 五倍图复核：胶字行中栏是 ca: cau，两词均有正斜画，第二个画跨在 au 上方且偏向右侧，无法确定应落在 a 或 u，候选 cáu 的完整记号位置待核。"
+    },
+    {
+      "position": 16,
+      "field": "R",
+      "v1": "uey",
+      "rr": "guàò",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "胶字行右栏 gui 后接 ao，上方有折画；重读少了 i，v1 uey 位于上一行，折画落点不稳。"
+    },
+    {
+      "position": 17,
+      "field": "M",
+      "v1": "ca: cau.",
+      "rr": "Tē' liàu",
+      "verdict": "墨迹不明",
+      "letters": "rr",
+      "tone_mark": "存疑",
+      "note": "茶料行中栏为 Te 与 liau，首词上两小点及末词上方墨块难确定；ca: cau 在上一行。"
+    },
+    {
+      "position": 17,
+      "field": "R",
+      "v1": "guiao",
+      "rr": "châ liān",
+      "verdict": "墨迹不明",
+      "letters": "rr",
+      "tone_mark": "存疑",
+      "note": "茶料行右栏 cha 与 lian 连写，各上方有小弧和横线；gui- 一词位于上一行，细符未能完整锁定。"
+    },
+    {
+      "position": 18,
+      "field": "M",
+      "v1": "Te liau.",
+      "rr": "tiam sīm",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "点心行中栏为 tiàm sím，第一音上反斜画、第二音上正斜画；v1 茶料行在上，重读两处调号不同。 复核发现先前取到下一视觉行，其位置与本条不对应，已撤回并恢复封存旧值。"
+    },
+    {
+      "position": 18,
+      "field": "R",
+      "v1": "cha lian",
+      "rr": "tièn sīn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "点心行右栏首词 tien 上反斜画，次词长首笔及上方折号清楚但首字形需核；cha lian 在上一行。"
+    }
+  ]
+}

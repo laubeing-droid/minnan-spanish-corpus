@@ -1,0 +1,140 @@
+{
+  "page": 282,
+  "review_type": "NONBLIND_FOLLOWUP",
+  "scope": "仅复核修订后的第 1、2、4、6、7、14、16 条、作者自检的两项建议，以及第 13 条 R 栏字面和调号数组；不是独立盲读或原图复裁，也非本轮重新复核全页。",
+  "candidate_path": "codex_M6_preview/batch05_refresh_v2_p0282.json",
+  "candidate_sha256": "865e255fee61623539d72b1e070ada55f0f30bfa5254c0c8bedd9ba3c3f7cf0c",
+  "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0282.json",
+  "sealed_sha256": "ecbafdec52c8ef6644116716ece221be797eb57398e59cad4a6f6c8e6712a724",
+  "original_gloss_path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0282.json",
+  "original_gloss_sha256": "d3074491d00be5293c032babb757dda0d28f0c7affb87e0bb65335d513debb78",
+  "initial_review_path": "codex_M6_preview/batch05_review_p0282.json",
+  "initial_review_sha256": "87f0201a5a414b0c2f0752ca89dc728216e4b86beeeed1e34737c395daf24b9e",
+  "author_selfcheck_path": "codex_M6_preview/batch05_review_p0282_selfcheck.json",
+  "author_selfcheck_sha256": "6b3161b302bf8c2ea3071d01e0d9ddda300de2bb419e76a3b990d04948245345",
+  "raw_path": "literature/workspace_m2_dhs834/raw_blind/raw_part_p0282.json",
+  "raw_sha256": "7b1ea1e40210ea1db1f0cf0852d055cdeef583d2984b71e3ae39d70eb97db90f",
+  "initial_candidate_path": "codex_M6_preview/batch05_refresh_initial_p0282.json",
+  "initial_candidate_sha256": "ef74a23c325061ec61e8b671626752cee6301de3afc7e329eaa416d4c10e9a86",
+  "previous_sealed_sha256": "87b1b0cf0529c05e67a7cfac9b0ca36c3778424bbf6ca89b9abaea04466f726b",
+  "positions_reviewed": [
+    1,
+    2,
+    4,
+    6,
+    7,
+    13,
+    14,
+    16
+  ],
+  "result": "NEEDS_REVISION",
+  "issues": [
+    {
+      "position": 7,
+      "priority": "required",
+      "type": "untranslated_distributive_relation",
+      "evidence": "L 栏为「Concede y niega, ya dice uno, ya dice otro -」；候选中英文只称后半句为说话表述并照录西语，未说明两次 ya 连接不同分项。RAE 的 ya 收分述用法。",
+      "issue": "上一版强定 uno/otro 指事物的问题已移除，但读者仅看中英文仍不能理解后半句的分述关系。作者将此列为 recommended；鉴于本次要求保留原文关键义，复核判为必须补足。",
+      "suggestion": "在中英文限定式表现两项分述，可列「或一人说、或另一人说」与「或说一件事、或说另一件事」为可能读法；保留 uno/otro 指代、说话者和句间关系待核，不强定先后时间或任何一种读法。",
+      "reference": "https://dle.rae.es/ya",
+      "limitation": "现代词典只支持分述用法的一般可能性，不单独裁定此历史句子的语法或指代。"
+    },
+    {
+      "positions": [
+        2,
+        4,
+        16
+      ],
+      "priority": "required",
+      "type": "undetermined_mark_type",
+      "evidence": "三条候选 notes 都说 M 栏「声调标记为 T99」；封存将 T99 记录在 tone_marks_M 字段。原始转录备注明确称对应小符号形似鼻化钩或细小声调符，类型不能确认。",
+      "issue": "把原符号径称为声调标记容易表达为其种类已确定，与原转录记录的未定状态不一致。作者将此列为 optional；复核认为应消除这一证据层面的确定性冲突。",
+      "suggestion": "将三条 notes 最小改为「M 栏 tone_marks_M 中该记号记录为 T99」，必要时注明原转录员列出的鼻化钩或声调符两种候选、类型待核；不得将其视为本次读图裁决，也不修改封存字面、数组或自动调整 confidence。",
+      "limitation": "原转录备注意见属于转录员的未定候选，并非新一轮图像验证；本次仅核对记录之间的表述。"
+    }
+  ],
+  "selfcheck_evaluation": [
+    {
+      "selfcheck_issue": "第 7 条中英缺少后半句分述关系",
+      "selfcheck_priority": "recommended",
+      "review_priority": "required",
+      "reason": "未译出可辨的分述关系，影响不懂西语的读者；可限定式补足而不强定人称与时序。"
+    },
+    {
+      "selfcheck_issue": "第 2、4、16 条 T99 记号类型",
+      "selfcheck_priority": "optional",
+      "review_priority": "required",
+      "reason": "当前将记号直接称为声调符，原始转录备注却明确未定类型；区分字段标签与原符号性质可避免确定性失真。"
+    }
+  ],
+  "entry_reviews": [
+    {
+      "position": 1,
+      "result": "PASS",
+      "finding": "英文 a major effort or attempt 覆盖 grande 对两个候选义项的限定；本条用义与 L/H 对应仍待核。",
+      "reference_check": "所引日内瓦大学编辑本的第 33 注将 conato 释为努力等，并提供 1635 年文本用例；现代 RAE 词条亦收努力与未完成的尝试义。来源只支持一般词义，不能确定本条用义。",
+      "references": [
+        "https://www.unige.ch/grete/application/files/1816/7906/2892/Carrillo_Ceron_Jimenez_Virosta_Ediciones_GRETE.pdf",
+        "https://dle.rae.es/conato"
+      ]
+    },
+    {
+      "position": 2,
+      "result": "NEEDS_REVISION",
+      "finding": "Conabir 可能对应 concebir 已限定；notes 对 T99 的符号类型表述须区分字段记录与原转录员未定意见。"
+    },
+    {
+      "position": 4,
+      "result": "NEEDS_REVISION",
+      "finding": "中英已区分 L concebir 的受孕义、H 投胎的一般词典转生义和本条待核用法；notes 对 T99 的符号类型仍须改明。"
+    },
+    {
+      "position": 6,
+      "result": "PASS",
+      "finding": "中英文均将担子/责任或抬头作为现代词典用例，con ceder 和 Bayando 的读法、本条用义及跨栏对应均待核。"
+    },
+    {
+      "position": 7,
+      "result": "NEEDS_REVISION",
+      "finding": "已移除确定的人物或事物指代，H 疑字保留；中英文尚未译出 ya…ya… 的分述关系。"
+    },
+    {
+      "position": 13,
+      "result": "PASS",
+      "finding": "R 字面 chŷ chèng 与候选 notes 一致；调号数组为 T03/T02，分别对应尖顶和降斜字面符号，音字对应仍待核。"
+    },
+    {
+      "position": 14,
+      "result": "PASS",
+      "finding": "中英补充 concertar 的一般词典可能义，ce 的断词、本条用义及跨栏对应仍待核。"
+    },
+    {
+      "position": 16,
+      "result": "NEEDS_REVISION",
+      "finding": "中英补充一般可能词义并保留搭配和具体场景待核；notes 对 T99 的符号类型仍须改明。"
+    }
+  ],
+  "entry_13_update_check": {
+    "sealed_source_R": "chŷ chèng",
+    "candidate_notes_excerpt": "R 栏现封存为「chŷ chèng」，M 栏为「chěy chěng」，两栏音写的具体对应待核。",
+    "previous_tone_marks_R": [
+      "T03 (尖頂帽)",
+      "T04 (凹角)"
+    ],
+    "current_tone_marks_R": [
+      "T03 (尖頂帽)",
+      "T02 (降斜)"
+    ],
+    "candidate_matches_seal": true,
+    "seal_change_scope": "相对初审时封存，仅第 13 条 tone_marks_R 第二项从 T04 (凹角) 变为 T02 (降斜)；包括 source_R 的原文字段未变。",
+    "verification": "在内存将当前封存字节的第 13 条第二调号逆换回 T04，所得 SHA-256 与初审封存 SHA 完全一致；逐字段比较亦仅见该调号数组变化。",
+    "limitation": "本次核查封存和候选内容，未独立重读原图。"
+  },
+  "limitations": [
+    "本次仅核所列八个位置及作者自检两项；其他条目沿用初审，不代表本轮重新复核全页。",
+    "本批非盲释义刷新不是 v3 五页试点，不将试点的 T99 降级规则自动当成本批硬性要求；置信度与符号类型应分别说明。",
+    "结论绑定所列候选、封存、原始转录和自检哈希；修改后需重新绑定并复核变更。"
+  ],
+  "candidate_relocation_note": "所审第二版已原样保存到独立路径。",
+  "previous_sealed_path": "codex_M6_preview/batch05_seal_before_tones_p0282.json"
+}

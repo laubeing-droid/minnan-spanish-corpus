@@ -1,0 +1,89 @@
+{
+  "method": "非盲审阅，逐项对照 ADK 任务、回执和原横带五倍局部图",
+  "records": [
+    {
+      "page": 264,
+      "index_1based": 43,
+      "candidate": "tȳ",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0264/pdf_0264_band_y2_bot.png",
+      "bbox_xyxy": [
+        1620,
+        680,
+        1810,
+        850
+      ],
+      "reason": "第18行右栏为 t 与下行 y，y 上有横画；t/y 间未见独立 i，小字与调号范围支持 tȳ。"
+    },
+    {
+      "page": 267,
+      "index_1based": 25,
+      "candidate": "hān lîn xīn",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0267/pdf_0267_band_y1_mid.png",
+      "bbox_xyxy": [
+        1580,
+        325,
+        1950,
+        480
+      ],
+      "reason": "翰林院行右栏依次为 han、lin、xin；首末词上横画，中词 i 点及尖形画可见，末词 x 交叉起笔，与 hān lîn xīn 相符。"
+    },
+    {
+      "page": 270,
+      "index_1based": 27,
+      "candidate": "zūn",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0270/pdf_0270_band_y0_top.png",
+      "bbox_xyxy": [
+        1615,
+        935,
+        1765,
+        1060
+      ],
+      "reason": "对应率字行右栏首字为 z 形、上有横画，但词尾黑色高竖与横划连写在一起，难定为 n 的收笔或另一个 t，不能确认完整 zūn；重读长串在下一行。"
+    },
+    {
+      "page": 273,
+      "index_1based": 19,
+      "candidate": "jiē pòn",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0273/pdf_0273_band_y0_top.png",
+      "bbox_xyxy": [
+        1570,
+        820,
+        1870,
+        1000
+      ],
+      "reason": "食饱行右栏次词 pon 上右下斜画清楚；首词长下行起笔与红线接近，j 与长 s 形不易分，不能确认 jiē pòn 的全部字母。"
+    },
+    {
+      "page": 273,
+      "index_1based": 29,
+      "candidate": "chiāng yàng",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0273/pdf_0273_band_y1_mid.png",
+      "bbox_xyxy": [
+        1550,
+        820,
+        1930,
+        1010
+      ],
+      "reason": "将养行右栏为 chiang、yang；首词上横画，末词上右下斜画，两个 g 均下行，末词上未见上置 n；符合 chiāng yàng。"
+    },
+    {
+      "page": 273,
+      "index_1based": 41,
+      "candidate": "còn",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0273/pdf_0273_band_y2_bot.png",
+      "bbox_xyxy": [
+        1540,
+        390,
+        1820,
+        730
+      ],
+      "reason": "最末行右栏为 c、o、n 连写，o 上右下斜画，末端 n 清楚；与 còn 相符，两个原候选写的横画不符。"
+    }
+  ]
+}

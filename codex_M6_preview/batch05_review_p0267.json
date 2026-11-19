@@ -1,0 +1,185 @@
+{
+  "page": 267,
+  "review_type": "NONBLIND",
+  "scope": "仅复核本批实际修复影响页 p0267；逐条对照最新封存、原主释义和刷新候选的 zh、en、confidence、notes；不是独立盲读、原图复裁或整书验收。",
+  "sealed_path": "codex_M6_preview/batch05_seal_before_tones_p0267.json",
+  "sealed_sha256": "c9be1118c646976c7215f1e602878437a03ac6a576200fba3595a68b789ad2a9",
+  "original_gloss_path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0267.json",
+  "original_gloss_sha256": "bc701e3a6426e7f6648fb05b5a69273da1e017e9b0a75ca80a5a5b57bb8f1025",
+  "candidate_path": "codex_M6_preview/batch05_refresh_initial_p0267.json",
+  "candidate_sha256": "8acfd23d65407edef1c4ede18a2faaef821cfcd7f173e8fb6de7d2ecdf06de6b",
+  "positions_reviewed": 19,
+  "result": "NEEDS_REVISION",
+  "entry_9_update_check": {
+    "field": "source_R",
+    "previous_in_git_diff": "hān lìn xūn",
+    "sealed": "hān lîn xīn",
+    "candidate_notes_excerpt": "R 栏现封存「hān lîn xīn」，末音与 H 栏「院」的对应待核",
+    "matches_seal": true,
+    "limitation": "只对照当前封存、候选文字和工作树差异；未重新读图或验证音字对应。"
+  },
+  "issues": [
+    {
+      "position": 2,
+      "priority": "optional",
+      "type": "qualified_word_sense",
+      "evidence": "L 封存「Colerico: apresurado, de ara con hiriendo」；候选保留后段并标待解。RAE 确认 hiriendo 是 herir 的动副词，herir 可指伤害。",
+      "issue": "候选没有说明后段中可独立识别的 hiriendo 的一般词义；目前并未将整句误译。",
+      "suggestion": "可在备注中补 hiriendo 可为 herir 的动副词及伤害等一般词义，仍明确 de ara con、词义选择、主客体和整段句法待核；R 栏 T99 和低置信保留。",
+      "reference": "https://dle.rae.es/herir",
+      "limitation": "现代词典词形与一般义不证明本历史条目的具体句意。"
+    },
+    {
+      "position": 5,
+      "priority": "required",
+      "type": "unqualified_word_sense",
+      "evidence": "L 封存「Colerico & quiere dar.」；候选中英分别确定为「并想动手击打」和「wanting to strike」。RAE 的 dar 有给予、造成击打等多个义项。",
+      "issue": "「quiere dar」本身未明确宾语或动作细节；易怒语境可使击打成为候选，但不足以将击打确定为唯一词义。备注只说明不能用 L 定 H 次字，没有对击打解标注不确定。",
+      "suggestion": "中英保留易怒与 quiere dar；若给击打义，应标为可能并说明 dar 的具体所指及句意待核；保留 H 栏亮/凶与栏间对应之疑。",
+      "reference": "https://dle.rae.es/dar",
+      "limitation": "词典的现代多义与语境仅支持可能解释，不确定本条历史义。"
+    },
+    {
+      "position": 6,
+      "priority": "optional",
+      "type": "column_attribution",
+      "evidence": "L 封存「Colerico naturalm.te.」含 naturally 义，H 封存「火性」；候选写「火性；天生易怒的脾气」。",
+      "issue": "天生一语有 L 栏支持，但与 H 栏词语同句，读者可能把它理解为 H 栏自身已经限定的义项。",
+      "suggestion": "可注明天生/自然是 L 栏 naturalm.te 对应的限定，H 栏为火性；不必据此否定两栏可能有关。"
+    },
+    {
+      "position": 10,
+      "priority": "required",
+      "type": "unresolved_source_word",
+      "evidence": "L 封存「Coles, Verços.」；候选中英将 L 概述为甘蓝类或 cabbages/coleworts，备注未说明 Verços 是否已释定。",
+      "issue": "Coles 支持甘蓝类义，但候选没有给出 Verços 字形与所赋义项对应的证据，也未将该词标为未解；读者易把两个词都视为已释定。",
+      "suggestion": "可释 Coles 为甘蓝类，并单列 Verços 及其读法、所指待核；如提出其为其他词的候选，须标明条件和依据。H 栏芥/隔之疑继续保留。",
+      "reference": "https://dem.colmex.mx/Ver/cols",
+      "limitation": "词典仅支持 col 的一般植物义，不能证明 Verços 的词形或本条具体品种。"
+    },
+    {
+      "position": 12,
+      "priority": "required",
+      "type": "omitted_source_relation",
+      "evidence": "L 封存「Colgadura, o colgadura de Macama」；候选 notes 保留全句，但 zh/en 主释仅列 colgadura 的一般义并说 Macama 待解。",
+      "issue": "中英主释漏掉原文以 o 连接的第二个 colgadura 短语及 de Macama 的关系。",
+      "suggestion": "中英分别保留「悬饰布，或与 Macama 有关的悬饰布」，并标 Macama 的含义与 de 在本条具体关系待核；H、R 空不等于原件残缺。",
+      "reference": "https://dle.rae.es/colgadura",
+      "limitation": "不得据近形词把 Macama 改写或直接断定为床帷或地名。"
+    },
+    {
+      "position": 17,
+      "priority": "optional",
+      "type": "qualified_word_sense",
+      "evidence": "L 封存「colgar de la cinta vt espadas &.」；候选释「挂在腰带上，如佩剑」。RAE 的 cinta 收旧义腰带，也收带及旧义腰部。",
+      "issue": "腰带结合剑的语境属合理候选，但当前中英只给腰带，未说明该词可能指腰部或其他带状物；vt 的作用未独立说明。",
+      "suggestion": "可保留腰带作为可能解释并提示 cinta 的其他词典义和本条用法待核；如将 vt 释为例示，注明依据与不确定程度。",
+      "reference": "https://dle.rae.es/cinta",
+      "limitation": "多义词词典义不能单独决定原文的具体用法。"
+    }
+  ],
+  "entry_reviews": [
+    {
+      "position": 1,
+      "result": "PASS",
+      "finding": "L 怒意与 H 鬵/爨疑读分列，未据西语强定首字或 H 词义。"
+    },
+    {
+      "position": 2,
+      "result": "PASS_WITH_OPTIONAL_GLOSS",
+      "finding": "L 后段原文保留待解，R 栏 T99 与 low 一致；可限定式补充 hiriendo 的一般词形和词义。"
+    },
+    {
+      "position": 3,
+      "result": "PASS",
+      "finding": "急性和急躁之义可对照 L 的 Colerico apresurad 与 H；未增加具体场景。"
+    },
+    {
+      "position": 4,
+      "result": "PASS",
+      "finding": "L 很快生气与 H 動着就恬分列，末字未据语境擅改。"
+    },
+    {
+      "position": 5,
+      "result": "NEEDS_REVISION",
+      "finding": "亮/凶之疑保留，但把多义的 quiere dar 直接定为击打，未标解释的不确定性。"
+    },
+    {
+      "position": 6,
+      "result": "PASS_WITH_OPTIONAL_ATTRIBUTION",
+      "finding": "naturalm.te 支持自然/天生限定；可更明确该限定来自 L，而不直接视为火性一词自身的全部语义。"
+    },
+    {
+      "position": 7,
+      "result": "PASS",
+      "finding": "L 过于易怒与 H 六鑿心性分列，未凭音写定六鑿词义。"
+    },
+    {
+      "position": 8,
+      "result": "PASS",
+      "finding": "L 官员学院与 H 国子监分列，未增加具体培养制度。"
+    },
+    {
+      "position": 9,
+      "result": "PASS",
+      "finding": "学院成员与翰林院分列并说明对应待核；候选所引 R 栏与本批最新封存完全一致。"
+    },
+    {
+      "position": 10,
+      "result": "NEEDS_REVISION",
+      "finding": "H 首字之疑保留，但 L 中 Verços 尚无词形或词义依据，未单列其不确定性。"
+    },
+    {
+      "position": 11,
+      "result": "PASS",
+      "finding": "cueros 与可能的 coleto 义分列，后者及与甲仔的对应标待核；所引 RAE 词典确收 16—17 世纪常用皮革上衣义。"
+    },
+    {
+      "position": 12,
+      "result": "NEEDS_REVISION",
+      "finding": "Macama 未强释，空栏也未当作残缺；但中英主释遗漏 o colgadura de Macama 的选择和修饰关系。"
+    },
+    {
+      "position": 13,
+      "result": "PASS",
+      "finding": "Colgar 与吊的悬挂义可互参。"
+    },
+    {
+      "position": 14,
+      "result": "PASS",
+      "finding": "Colgar 与懸的悬挂义可互参。"
+    },
+    {
+      "position": 15,
+      "result": "PASS",
+      "finding": "L 自上而下垂挂与 H 懸分列；M、R 的音字对应标待核。"
+    },
+    {
+      "position": 16,
+      "result": "PASS",
+      "finding": "L 垂挂与 H 隨跟从分列，未凭语境改字。"
+    },
+    {
+      "position": 17,
+      "result": "PASS_WITH_OPTIONAL_GLOSS",
+      "finding": "cinta 作腰带有词典支持且与剑的语境相容；可补充词典其他义项与 vt 解释的限定。"
+    },
+    {
+      "position": 18,
+      "result": "PASS",
+      "finding": "L 身上悬挂与 H 帶[残]分列，未增加缺字和腰带。"
+    },
+    {
+      "position": 19,
+      "result": "PASS",
+      "finding": "L colgar 与 H 翻分列，Iapices 未解并保留对应待核。"
+    }
+  ],
+  "review_notes": [
+    "需要修订的问题共 3 条：第 5、10、12 条；第 2、6、17 条为可选补充。",
+    "复核仅表示本次未发现列示范围之外的具体问题；不等于证明所有历史词义、栏间对应或图像读数正确。",
+    "记录绑定所列封存、原释义与候选哈希；任何一项变更后应针对变更复核。"
+  ],
+  "candidate_relocation_note": "初审候选字节已原样保存到此路径，随后修订原候选路径；初审 SHA 保持不变。",
+  "sealed_relocation_note": "初审所见调标同步前封存已原字节保留；正式封存随后只更新调标数组。"
+}

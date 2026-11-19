@@ -1,0 +1,1015 @@
+{
+  "status": "APPLIED_NONBLIND_REFRESH",
+  "scope": "三张本批最终保留字面修复的页面；依据最新封存与原释义逐行刷新并经另一位同模型读者非盲核查。不是独立字面重读或全书释义验收。",
+  "review": "0274 全页复核；0267、0282 初审问题修正后对问题位置复核。调标同步前封存和初审/中间候选均另存并标注引用版本。",
+  "files": [
+    {
+      "page": 267,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0267.json",
+      "sealed_sha256": "24a492d22567aeea95b5fd699c77f53998dfd287cf1818e5d69ce9f32b6ed0fa",
+      "old_sha256": "bc701e3a6426e7f6648fb05b5a69273da1e017e9b0a75ca80a5a5b57bb8f1025",
+      "new_sha256": "aa078a173b16f04e444b2e508b21307e6b8dee77e02d340e31239f5a83b8dae8",
+      "entries": 19,
+      "changed_entries": 19,
+      "changes": [
+        {
+          "position": 1,
+          "old": {
+            "position": 1,
+            "zh": "怒气迸发；心头冒火",
+            "en": "choleric with anger; bursting into rage",
+            "confidence": "medium",
+            "notes": "汉字首字存疑（鬵/爨两形难辨），据西语 colerico con enojo 定为怒气迸发义。"
+          },
+          "new": {
+            "position": 1,
+            "zh": "L 栏：易怒，带有怒意；H 栏：「〔鬵/爨〕心炮」，首字及具体义待核。",
+            "en": "L: choleric and angry; H: 〔鬵/爨〕心炮, with the first character and precise sense uncertain.",
+            "confidence": "low",
+            "notes": "H 栏首字标疑「鬵/爨」；L 栏的怒意不能用来确定该字或整个 H 栏词组的具体义。"
+          }
+        },
+        {
+          "position": 2,
+          "old": {
+            "position": 2,
+            "zh": "躁急心热；性急心火盛",
+            "en": "choleric and hasty; impatient, hot-hearted",
+            "confidence": "low",
+            "notes": "官话栏末音节声调污损难辨（T99），按纪律降为低置信；躁急心热之义由汉字与闽南音互证。"
+          },
+          "new": {
+            "position": 2,
+            "zh": "L 栏：易怒、急躁；后段待解。H 栏：燥急心热。",
+            "en": "L: choleric, hasty; the remaining phrase is unclear. H: 燥急心熱, hasty and hot-hearted.",
+            "confidence": "low",
+            "notes": "L 栏后段封存为「de ara con hiriendo」。现代西语 hiriendo 是 herir 的动副词，herir 有伤害等义；de ara con、具体义项、主客体与整段句法仍待核。R 栏末音节标 T99，不能声称四栏完全互证。参考：https://dle.rae.es/herir"
+          }
+        },
+        {
+          "position": 3,
+          "old": {
+            "position": 3,
+            "zh": "急性；急躁的性子",
+            "en": "hasty temper; quick-tempered",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 3,
+            "zh": "急性；急躁的性子。",
+            "en": "a hasty or quick temper; quick-tempered.",
+            "confidence": "high",
+            "notes": "L 栏作「Colerico apresurad.」，H 栏作「急性」。"
+          }
+        },
+        {
+          "position": 4,
+          "old": {
+            "position": 4,
+            "zh": "一动就动怒；稍触即恼",
+            "en": "choleric, apt to fly into a rage at the least provocation",
+            "confidence": "medium",
+            "notes": "末字'恬'（安静义）与西语 luego se enoja 不合，疑为形近误字（如嗔/沉），义依西语定为触怒。"
+          },
+          "new": {
+            "position": 4,
+            "zh": "L 栏：易怒，很快生气；H 栏：「動着就恬」，具体义及两栏对应待核。",
+            "en": "L: choleric and quick to become angry; H: 動着就恬, with its precise sense and correspondence uncertain.",
+            "confidence": "low",
+            "notes": "H 栏末字封存为「恬」，其与 L 栏发怒之义的关系待核；不能径改为「嗔」或「沉」。"
+          }
+        },
+        {
+          "position": 5,
+          "old": {
+            "position": 5,
+            "zh": "逞凶；发怒便要动手",
+            "en": "choleric and ready to strike; bent on violence",
+            "confidence": "medium",
+            "notes": "次字'亮/凶'存疑，西语 quiere dar（欲击打）支持'逞凶'读法。"
+          },
+          "new": {
+            "position": 5,
+            "zh": "L 栏：易怒，并有「quiere dar」（可能指想击打，具体所指待核）；H 栏：「逞〔亮/凶〕」，次字、具体义及栏间对应待核。",
+            "en": "L: choleric and “quiere dar” (possibly wanting to strike; the precise sense is uncertain); H: 逞〔亮/凶〕, with the second character, precise sense and correspondence uncertain.",
+            "confidence": "low",
+            "notes": "H 栏次字标疑「亮/凶」。L 栏「quiere dar」未明确宾语；dar 有给予、击打等义，击打仅为可能解释，具体词义和句意待核，不能据此定 H 次字为「凶」。参考：https://dle.rae.es/dar"
+          }
+        },
+        {
+          "position": 6,
+          "old": {
+            "position": 6,
+            "zh": "火性；天生火暴脾气",
+            "en": "fiery temper; naturally choleric",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 6,
+            "zh": "L 栏：天生易怒；H 栏：火性。",
+            "en": "L: naturally choleric; H: 火性, a fiery temperament.",
+            "confidence": "high",
+            "notes": "「天生／自然」对应 L 栏「Colerico naturalm.te.」；H 栏为「火性」。"
+          }
+        },
+        {
+          "position": 7,
+          "old": {
+            "position": 7,
+            "zh": "六鑿心性；心性极躁、暴躁过甚",
+            "en": "excessively choleric; a heart-nature all churned up",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 7,
+            "zh": "L 栏：过于易怒；H 栏：「六鑿心性」，具体义及两栏对应待核。",
+            "en": "L: excessively choleric; H: 六鑿心性, with its precise sense and correspondence uncertain.",
+            "confidence": "low",
+            "notes": "H 栏作「六鑿心性」；不能仅据 L 栏的「demasiado」或音写断定「六鑿」的词义或出处。"
+          }
+        },
+        {
+          "position": 8,
+          "old": {
+            "position": 8,
+            "zh": "国子监；官学最高学府（培养官员之所）",
+            "en": "the Imperial College (Guozijian); college for training mandarins",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 8,
+            "zh": "L 栏：官员的学院；H 栏：国子监。",
+            "en": "L: a college of mandarins; H: the Guozijian, or Imperial College.",
+            "confidence": "high",
+            "notes": "L 栏作「Collegio de Mandarines.」，H 栏作「國子監」。"
+          }
+        },
+        {
+          "position": 9,
+          "old": {
+            "position": 9,
+            "zh": "翰林院；翰林学士之署",
+            "en": "the Hanlin Academy; college of the emperor's scholars",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 9,
+            "zh": "L 栏：国王的学院成员；H 栏：翰林院，两栏对应待核。",
+            "en": "L: the king's collegiate scholars; H: the Hanlin Academy; their correspondence remains uncertain.",
+            "confidence": "low",
+            "notes": "L 栏「Colégiales del Rey」指学院成员，H 栏「翰林院」为机构；R 栏现封存「hān lîn xīn」，末音与 H 栏「院」的对应待核，不凭音写改字。"
+          }
+        },
+        {
+          "position": 10,
+          "old": {
+            "position": 10,
+            "zh": "芥蓝菜；甘蓝类蔬菜",
+            "en": "Chinese kale (gai-lan); cabbages, coleworts",
+            "confidence": "medium",
+            "notes": "首字'芥/隔'存疑，音义均指向'芥蓝菜'，与西语 coles, verças（甘蓝类）相合。"
+          },
+          "new": {
+            "position": 10,
+            "zh": "L 栏：甘蓝类蔬菜（Coles）；「Verços」的读法及所指待核。H 栏：「〔芥/隔〕藍菜」，首字及所指待核。",
+            "en": "L: cabbages (Coles); the reading and referent of Verços are uncertain. H: 〔芥/隔〕藍菜, with its first character and referent uncertain.",
+            "confidence": "low",
+            "notes": "L 栏作「Coles, Verços」；Coles 释为甘蓝类，Verços 的读法与所指待核，不径定为某一现代词。H 栏首字标疑「芥/隔」，不能径定作「芥藍菜」或确定具体品种。参考：https://dle.rae.es/col"
+          }
+        },
+        {
+          "position": 11,
+          "old": {
+            "position": 11,
+            "zh": "甲仔；皮制护身甲、皮短甲",
+            "en": "colets: leather jerkins (buff coats); hide armor",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 11,
+            "zh": "L 栏：皮革；「Colets」可能指皮制短上衣。H 栏：「甲仔」，所指待核。",
+            "en": "L: leather or hides; Colets may refer to leather jerkins. H: 甲仔, whose referent is uncertain.",
+            "confidence": "low",
+            "notes": "L 栏封存为「Colets, cueros」。现代西语词典 coleto 有 16—17 世纪皮制上衣义，但本处「Colets」是否即该词、与 H 栏「甲仔」如何对应均待核；不能径定为护身甲。参考：https://dle.rae.es/coleto"
+          }
+        },
+        {
+          "position": 12,
+          "old": {
+            "position": 12,
+            "zh": "〔原件残缺，释义存疑〕",
+            "en": "〔原件残缺，释义存疑〕",
+            "confidence": "low",
+            "notes": "汉字与官话两栏均[空]，仅存西语 colgadura（帷幔、悬饰）与单音节闽南音残留，不足以定本字。"
+          },
+          "new": {
+            "position": 12,
+            "zh": "L 栏：悬挂用的饰布，或「colgadura de Macama」（与 Macama 有关的悬饰布）；Macama 的含义及其与饰布的具体关系待核。H、R 栏记为空，未定本字。",
+            "en": "L: hanging cloth, or “colgadura de Macama” (a hanging associated with Macama); the meaning of Macama and its precise relation to the hanging are uncertain. H and R are recorded as blank; the Chinese form is undetermined.",
+            "confidence": "low",
+            "notes": "L 栏封存为「Colgadura, o colgadura de Macama」；保留 o 的选择关系，de 的具体关系及 Macama 含义待核，不径作床帷或地名。M 栏为「Tȳ.」，H、R 栏均标「[空]」，不能因此断定原件残缺。colgadura 的一般义参考：https://dle.rae.es/colgadura"
+          }
+        },
+        {
+          "position": 13,
+          "old": {
+            "position": 13,
+            "zh": "吊；悬吊",
+            "en": "to hang, suspend",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 13,
+            "zh": "吊；悬挂。",
+            "en": "to hang or suspend.",
+            "confidence": "high",
+            "notes": "L 栏为「Colgar.」，H 栏为「吊」。"
+          }
+        },
+        {
+          "position": 14,
+          "old": {
+            "position": 14,
+            "zh": "悬；悬挂",
+            "en": "to hang, suspend",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 14,
+            "zh": "悬；悬挂。",
+            "en": "to hang or suspend.",
+            "confidence": "high",
+            "notes": "L 栏为「Colgar.」，H 栏为「懸」。"
+          }
+        },
+        {
+          "position": 15,
+          "old": {
+            "position": 15,
+            "zh": "悬；自上而下垂挂",
+            "en": "to hang down from above",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 15,
+            "zh": "L 栏：自上而下垂挂；H 栏：悬。",
+            "en": "L: to hang down from above; H: 懸, to hang or suspend.",
+            "confidence": "medium",
+            "notes": "M 栏封存「huān.」，R 栏封存「hiĕn.」；M 栏与 H 栏「懸」及 R 栏的对应待核。"
+          }
+        },
+        {
+          "position": 16,
+          "old": {
+            "position": 16,
+            "zh": "随；跟从、相随",
+            "en": "to follow, go along with",
+            "confidence": "medium",
+            "notes": "汉字与双音栏均为'随'（跟从义），西语词头 colgar de arriba p' abajo（垂挂）与之不合，疑词头沿抄上条或讹读。"
+          },
+          "new": {
+            "position": 16,
+            "zh": "L 栏：自上而下垂挂；H 栏：随、跟从。两栏对应待核。",
+            "en": "L: to hang down from above; H: 隨, to follow or accompany. Their correspondence remains uncertain.",
+            "confidence": "low",
+            "notes": "H 栏封存为「隨」，M 栏为「Zūy.」，R 栏为「chûi.」；L 与 H 的对应及音写对应待核，不径改「隨」为「垂」。"
+          }
+        },
+        {
+          "position": 17,
+          "old": {
+            "position": 17,
+            "zh": "佩；佩挂于腰间（如佩剑）",
+            "en": "to wear suspended at the girdle, as swords",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 17,
+            "zh": "L 栏：从 cinta 悬挂（cinta 或指带子、腰带或腰部）；「vt espadas &.」中 espadas 为剑，vt 的作用待核。H 栏：佩。",
+            "en": "L: to hang from a cinta, possibly a band, belt or the waist; espadas means swords, while the role of vt is uncertain. H: 佩, to wear.",
+            "confidence": "medium",
+            "notes": "L 栏为「colgar de la cinta vt espadas &.」。RAE 收 cinta 的带子义及旧时腰带、腰部义；本条具体义项和 vt 的作用待核。M 栏「Pŭe giâm.」与 H 栏单字「佩」的对应待核。参考：https://dle.rae.es/cinta"
+          }
+        },
+        {
+          "position": 18,
+          "old": {
+            "position": 18,
+            "zh": "带；随身佩带、携带",
+            "en": "to wear on one's person; to carry at the girdle",
+            "confidence": "low",
+            "notes": "汉字栏标[残]，'带'义依西语 colgar de sí（佩于自身）与双音栏互证，按纪律降为低置信。"
+          },
+          "new": {
+            "position": 18,
+            "zh": "L 栏：将物件挂在自己身上；H 栏：「帶」〔残〕，具体义待核。",
+            "en": "L: to hang something on oneself; H: 帶 [damaged], with its precise sense uncertain.",
+            "confidence": "low",
+            "notes": "H 栏封存「帶[残]」，M 栏为「Toâ tȳ.」，R 栏为「tāy piên.」；各栏对应待核，不增写腰带或缺字。"
+          }
+        },
+        {
+          "position": 19,
+          "old": {
+            "position": 19,
+            "zh": "翻；翻转、翻动（书页）",
+            "en": "to turn over, flip through (leaves)",
+            "confidence": "medium",
+            "notes": "西语词头 colgar Iapices 与汉字'翻'难以互证（疑词头讹读），释义依汉字与双音栏定为翻转义。"
+          },
+          "new": {
+            "position": 19,
+            "zh": "L 栏：悬挂，「Iapices」待解；H 栏：翻、翻转。两栏对应待核。",
+            "en": "L: to hang; Iapices is unclear. H: 翻, to turn over. Their correspondence remains uncertain.",
+            "confidence": "low",
+            "notes": "L 栏封存为「colgar Iapices.」，H 栏为「翻」；不据末词增补书页或判断原文错讹。M 栏「huān」与 R 栏「fân.」的对应亦待核。"
+          }
+        }
+      ],
+      "initial_review": "codex_M6_preview/batch05_review_p0267.json",
+      "final_review": "codex_M6_preview/batch05_review_p0267_final.json"
+    },
+    {
+      "page": 274,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0274.json",
+      "sealed_sha256": "952e556b1c6b8e5ab78eddb0620beee6fd04d306cf8f105e3813b910b97268f2",
+      "old_sha256": "86eaf9f422be19594448e8d81f0731096c02b23148fdca0b4ba2e21c26584b6e",
+      "new_sha256": "52168bf0062519eb08aaccd45dce9d78508c45efd56e5812f19fbd3d0bece4ad",
+      "entries": 20,
+      "changed_entries": 20,
+      "changes": [
+        {
+          "position": 1,
+          "old": {
+            "position": 1,
+            "zh": "将（作副词）：如此，就；正如，就像",
+            "en": "as; just as, thus",
+            "confidence": "medium",
+            "notes": "R 栏 muuet 一词未能解读；将字『如此/正如』义系依西语词头与后条「将只=como esto」推断。"
+          },
+          "new": {
+            "position": 1,
+            "zh": "L 栏：如、像，或正如；H 栏：将，具体词义及两栏对应待核。",
+            "en": "L: as, like, or just as; H: 将, whose specific sense and correspondence with L remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「Como. o así como.」；R 栏作「muuet chiǎng」，其中 muuet 未解。不能仅据 L 栏断定单字「将」在此的具体用法。"
+          }
+        },
+        {
+          "position": 2,
+          "old": {
+            "position": 2,
+            "zh": "将只：像这样，如此",
+            "en": "like this; thus",
+            "confidence": "high",
+            "notes": "R 栏另有 Puch ne.、chǔng 等未解读写法，不影响判定。"
+          },
+          "new": {
+            "position": 2,
+            "zh": "L 栏：像这样；H 栏：将只，词义及与 L 栏的对应待核。",
+            "en": "L: like this; H: 将只, whose sense and correspondence with L remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「como esto.」，R 栏作「Puch ne. chǔng chȳ」；R 栏各部分的关系及与 H 栏的对应待核。"
+          }
+        },
+        {
+          "position": 3,
+          "old": {
+            "position": 3,
+            "zh": "焉：怎么（文言疑问词）",
+            "en": "how? (classical interrogative)",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 3,
+            "zh": "L 栏：怎样？H 栏：焉，可作疑问或反诘词，本条用法待核。",
+            "en": "L: how? H: 焉 can be used in questions or rhetorical questions; its use here remains uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏还作「chǔng! chiàng hô.」，其作用及与其他栏的关系待核。焉的疑问及反诘用法参教育部《重编国语辞典修订本》：https://dict.revised.moe.edu.tw/dictView.jsp?ID=10967&la=0 。"
+          }
+        },
+        {
+          "position": 4,
+          "old": {
+            "position": 4,
+            "zh": "胡：怎么，为何（文言疑问词）",
+            "en": "how? why? (classical interrogative)",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 4,
+            "zh": "L 栏：怎样？如、正如。H 栏：胡，可作为何解，本条用法及两栏对应待核。",
+            "en": "L: how?; as, just as. H: 胡 can mean why; its use here and correspondence with L remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「como? asi como.」；其中疑问与比拟两种表达并列，不能将两者直接合并为 H 栏确定义。"
+          }
+        },
+        {
+          "position": 5,
+          "old": {
+            "position": 5,
+            "zh": "如：如同，像；例如",
+            "en": "like, as; just as, for example",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 5,
+            "zh": "如：如同、像；L 栏还有「像这样」之意。",
+            "en": "As, like; the L column also conveys 'like this'.",
+            "confidence": "high",
+            "notes": "H 栏为「如」，L 栏作「como, asi como esto」。"
+          }
+        },
+        {
+          "position": 6,
+          "old": {
+            "position": 6,
+            "zh": "将何：怎样，如何（发问用语）",
+            "en": "how? (interrogative)",
+            "confidence": "medium",
+            "notes": "『将何』今无惯用组合，释『怎样』系依 L 疑问义（pregunton）与本页问法词群推断。"
+          },
+          "new": {
+            "position": 6,
+            "zh": "L 栏：怎样？「pregunton」的具体作用待核；H 栏：将何，词义及两栏对应待核。",
+            "en": "L: how? The precise function of 'pregunton' is uncertain; H: 将何, whose sense and correspondence with L remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「como? pregunton」。现代西语 preguntón 可指爱追问的人，但不能据此断定本条历史用法（RAE：https://dle.rae.es/pregunt%C3%B3n）。M、R 栏均作「chiang hô」。"
+          }
+        },
+        {
+          "position": 7,
+          "old": {
+            "position": 7,
+            "zh": "几（幾）：多少，几何（问数量）",
+            "en": "how many; how much",
+            "confidence": "medium",
+            "notes": "L『como: casa casa』与幾义不合，疑为讹录（或系 cuanto 之误）；释义依汉字幾及音读 kuí。"
+          },
+          "new": {
+            "position": 7,
+            "zh": "H 栏：几，可指多少；L 栏 como 可表示如、像，也可能作疑问「怎样」；「casa casa」及两栏对应待核。",
+            "en": "H: 幾 can mean how many or how much; L: como may mean as or like, or may be interrogative “how”; “casa casa” and the correspondence remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「como: casa casa」；不能据此断言是 cuanto 之误。M 栏作「gûý」，R 栏作「gûì」，音写与汉字的具体对应待核。"
+          }
+        },
+        {
+          "position": 8,
+          "old": {
+            "position": 8,
+            "zh": "顺意：随你心意，随意；如你所愿",
+            "en": "as you wish; as you please",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 8,
+            "zh": "H 栏：顺意，顺从心意；L 栏可能涉及如你所愿，代词关系及句法待核。",
+            "en": "H: 順意, following one's wishes; L may convey 'as you wish', but the pronoun and syntax remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「como te quisieres.」，其中 te 的关系及全句用法待核；M 栏作「gūin ŷ」，R 栏作「guīn ŷ」。"
+          }
+        },
+        {
+          "position": 9,
+          "old": {
+            "position": 9,
+            "zh": "主宰：主宰，主宰者（主人／主宰之神，凭己意行事）",
+            "en": "sovereign, master, ruler; as he pleases",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 9,
+            "zh": "H 栏：主宰，支配、主导；L 栏含「如」和表示意愿或喜爱的词，主语、代词及句意待核。",
+            "en": "H: 主宰, to govern or control; L contains words for “as” and for wishing or loving, but its subject, pronoun relation, and full meaning remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「como te quisiere」；quisiere 是 querer 的变位（RAE：https://www.rae.es/diccionario-estudiante/docs/conjugaciones-verbales.pdf，条目 53），主语及 te 的关系待核，不可据此确定主语是主宰者或神。M、R 栏均作「chù chày」。"
+          }
+        },
+        {
+          "position": 10,
+          "old": {
+            "position": 10,
+            "zh": "旨意：旨意，谕旨；意旨，心愿",
+            "en": "decree, mandate; will, intention; as you will",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 10,
+            "zh": "H 栏：旨意，意旨、意愿；L 栏含「如」及表示意愿或喜爱的词，句法及两栏对应待核。",
+            "en": "H: 旨意, will or intention; L contains words for “as” and for wishing or loving; its syntax and correspondence with H remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「como tu quisiere.」，quisiere 是 querer 的变位（RAE：https://www.rae.es/diccionario-estudiante/docs/conjugaciones-verbales.pdf，条目 53），tu 的作用和 quisiere 的主语待核；M 栏作「chŷ ŷ」，R 栏作「chŷ ȳ」，两栏后段音写及其与汉字的对应待核。"
+          }
+        },
+        {
+          "position": 11,
+          "old": {
+            "position": 11,
+            "zh": "做：做，作，干",
+            "en": "to do, to make",
+            "confidence": "medium",
+            "notes": "L『como?』与做字义不合，疑条目错位或删节；释义依汉字。"
+          },
+          "new": {
+            "position": 11,
+            "zh": "H 栏：做，做、作；L 栏：怎样？两栏的对应待核。",
+            "en": "H: 做, to do or make; L: how? The correspondence between the columns remains uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「como?」，H 栏作「做」；不能仅据差异断定条目错位或删节。"
+          }
+        },
+        {
+          "position": 12,
+          "old": {
+            "position": 12,
+            "zh": "做年：怎样，如何（以何种方式）",
+            "en": "how? in what manner, in what way",
+            "confidence": "medium",
+            "notes": "M 音写 chî nȳ 与 H『做』读音不齐（chî 多对应只），字际关系存疑；语义依 L 及 R（chô niên）。"
+          },
+          "new": {
+            "position": 12,
+            "zh": "L 栏：怎样？以什么方式？H 栏：做年，词义及两栏对应待核。",
+            "en": "L: how? in what manner? H: 做年, whose sense and correspondence with L remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「como? de que manera.」；最新封存 M 栏作「chû nȳ」，R 栏作「masatiang chô niên」。R 栏首段含义及音写与 H 栏的对应待核。"
+          }
+        },
+        {
+          "position": 13,
+          "old": {
+            "position": 13,
+            "zh": "〔首字存疑（伯／佃？）〕年：怎样，以何种方式",
+            "en": "how? in what manner, in what way",
+            "confidence": "medium",
+            "notes": "首字原件即标注存疑（伯/佃未定）；语义依 L『de que manera』与音读 chāy nȳ。"
+          },
+          "new": {
+            "position": 13,
+            "zh": "L 栏：怎样？以什么方式？H 栏：〔伯／佃〕年，首字、词义及两栏对应待核。",
+            "en": "L: how? in what manner? H: 〔伯/佃〕年, with the first character, sense, and correspondence uncertain.",
+            "confidence": "low",
+            "notes": "封存 H 栏记作「伯[疑:伯/佃]年」；M 栏为「chāy nȳ」，R 栏为「chāy niên」，不能据 L 栏或音写强定首字。"
+          }
+        },
+        {
+          "position": 14,
+          "old": {
+            "position": 14,
+            "zh": "奚为：为何，为什么；何以（文言）",
+            "en": "why? for what reason; how? (classical)",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 14,
+            "zh": "L 栏：怎样？以什么方式？H 栏：奚为，可指为何、为什么；本条用法及两栏对应待核。",
+            "en": "L: how? in what manner? H: 奚為 can mean why or for what reason; its use here and correspondence with L remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「como? de que manera」；M 栏「Gēiȳ.」与 R 栏「hŷ nŷ」的分词及音字对应待核。"
+          }
+        },
+        {
+          "position": 15,
+          "old": {
+            "position": 15,
+            "zh": "何如：怎么样，如何；缘何（为何）",
+            "en": "how? what like?; why?, for what cause",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 15,
+            "zh": "H 栏：何如，怎样、如何；L 栏有「怎样？」及「porq cauza」，后者的缩写和句意待核。",
+            "en": "H: 何如, how or what is it like? L includes 'how?' and 'porq cauza', whose abbreviation and meaning remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「como? porq cauza.」，后段可能涉及缘故，但「porq」的展开和整句用法待核；不将「为何」直接定为 H 栏义。"
+          }
+        },
+        {
+          "position": 16,
+          "old": {
+            "position": 16,
+            "zh": "缘由：缘由，缘故；原因，来由",
+            "en": "reason, cause; wherefore",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 16,
+            "zh": "H 栏：缘由，缘故、原因；L 栏：「怎么！」两栏对应待核。",
+            "en": "H: 緣由, a reason or cause; L: 'how!' The correspondence between the columns remains uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「como!」，H 栏作「緣由」；感叹用法与汉字词义不宜直接合并。"
+          }
+        },
+        {
+          "position": 17,
+          "old": {
+            "position": 17,
+            "zh": "如常：照常，一如既往；像平常一样",
+            "en": "as usual; in the ordinary way",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 17,
+            "zh": "如常：照常，像平常一样。",
+            "en": "As usual; in the ordinary way.",
+            "confidence": "high",
+            "notes": "L 栏作「Como lo ordinario.」，H 栏作「如常」。"
+          }
+        },
+        {
+          "position": 18,
+          "old": {
+            "position": 18,
+            "zh": "宛然：仿佛，宛如；恰如",
+            "en": "just as if; exactly like, as though",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 18,
+            "zh": "宛然：仿佛、宛如；L 栏为如、正如。",
+            "en": "As if, as though; L gives 'as, just as'.",
+            "confidence": "high",
+            "notes": "L 栏作「Como. asi como.」，H 栏作「宛然」；不据此扩为完全相同的确定判断。"
+          }
+        },
+        {
+          "position": 19,
+          "old": {
+            "position": 19,
+            "zh": "如然：如此，这样；照这样",
+            "en": "like this, in this manner; thus",
+            "confidence": "medium",
+            "notes": "L『escota clara』疑为讹录、语义不明；释义依汉字如然（如此）。"
+          },
+          "new": {
+            "position": 19,
+            "zh": "H 栏：如然，一般可释为如此、这样；L 栏：怎样？「escota clara」及两栏对应待核。",
+            "en": "H: 如然 can mean 'thus' or 'like this'; L: how? 'escota clara' and the correspondence between the columns remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「como? escota clara.」，后段未解，不能断言为讹录；如然的词典义参汉典：https://zdic.net/hans/%E5%A6%82%E7%84%B6 ，本条具体用法仍待核。"
+          }
+        },
+        {
+          "position": 20,
+          "old": {
+            "position": 20,
+            "zh": "犹（猶）：犹如，如同；还，尚",
+            "en": "just as, like; still, yet",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 20,
+            "zh": "L 栏：如、正如；H 栏：犹，可有犹如或仍然之义，本条用法及两栏对应待核。",
+            "en": "L: as, just as; H: 猶 can mean 'like' or 'still', but its use here and correspondence with L remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「como, asi como –」；M 栏作「îû.」，R 栏作「yên」，两栏音写与 H 栏的对应待核。"
+          }
+        }
+      ],
+      "initial_review": "codex_M6_preview/batch05_review_p0274.json",
+      "final_review": "codex_M6_preview/batch05_review_p0274.json"
+    },
+    {
+      "page": 282,
+      "path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0282.json",
+      "sealed_sha256": "ecbafdec52c8ef6644116716ece221be797eb57398e59cad4a6f6c8e6712a724",
+      "old_sha256": "d3074491d00be5293c032babb757dda0d28f0c7affb87e0bb65335d513debb78",
+      "new_sha256": "e8d2b6ae174f8fefd3485de69043a20245a3ebb2dbd0b10abc994e13b8a603dc",
+      "entries": 18,
+      "changed_entries": 18,
+      "changes": [
+        {
+          "position": 1,
+          "old": {
+            "position": 1,
+            "zh": "尽：竭尽全力、尽力；耗尽、穷尽",
+            "en": "great effort; to do one's utmost, to exhaust, use up",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 1,
+            "zh": "L 栏：很大的努力或尝试；H 栏：尽、竭尽。两栏对应待核。",
+            "en": "L: a major effort or attempt; H: 尽, to exhaust or do one's utmost. Their correspondence remains uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「Conato grande」。conato 的历史释义可指努力、尽力；现代词典另有未完成的尝试义，本条具体义与 H 栏的对应待核。参考：https://www.unige.ch/grete/application/files/1816/7906/2892/Carrillo_Ceron_Jimenez_Virosta_Ediciones_GRETE.pdf；https://dle.rae.es/conato"
+          }
+        },
+        {
+          "position": 2,
+          "old": {
+            "position": 2,
+            "zh": "胎：胞胎、母胎；受孕之胎",
+            "en": "womb, embryo, fetus",
+            "confidence": "medium",
+            "notes": "西语头词 Conabir 疑为 concebir 之残误拼式，本条仅“胎”字之音义可靠"
+          },
+          "new": {
+            "position": 2,
+            "zh": "H 栏：胎、胎儿；L 栏「Conabir」可能指受孕，词形及两栏对应待核。",
+            "en": "H: fetus or embryo; L: Conabir may refer to conceiving, but its form and correspondence remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏「Conabir」可能与 concebir 有关，但不能径作确定的讹写；M 栏 tone_marks_M 字段中该记号记录为 T99。原始转录员认为小符号可能为鼻化钩或声调符，类型未定；不能单据该记录判定词义。"
+          }
+        },
+        {
+          "position": 3,
+          "old": {
+            "position": 3,
+            "zh": "投：投掷、投入；投奔、投靠；受孕投胎之“投”",
+            "en": "to throw, cast; to throw oneself into; to go to, take refuge; (with 胎) to enter the womb, conceive",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 3,
+            "zh": "H 栏：投、投入；L 栏「con çebir」可能指受孕，断写及两栏对应待核。",
+            "en": "H: 投, to throw or put in; L: con çebir may mean to conceive, but the word division and correspondence remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「con çebir」，可能对应 concebir；不能据邻条直接断定本条单字「投」必作受孕义。"
+          }
+        },
+        {
+          "position": 4,
+          "old": {
+            "position": 4,
+            "zh": "投胎：受孕成胎、入胎受生；转世投生",
+            "en": "to conceive; to enter the womb, be conceived; to reincarnate",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 4,
+            "zh": "L 栏：concebir 可指受孕；H 栏：投胎，词典释为转生人世。本条用义及两栏的对应待核。",
+            "en": "L: concebir can mean to conceive a child; H: 投胎 is defined in a dictionary as rebirth in the human world. The senses here and their correspondence remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏作「concebir」，H 栏作「投胎」；词典义不能单独证明本条的实际用义或两栏对应。M 栏 tone_marks_M 字段中第二记号记录为 T99；原始转录员认为小符号可能为鼻化钩或声调符，类型未定，不能单据该记录判定词义。参考：https://dle.rae.es/concebir；https://dict.revised.moe.edu.tw/dictView.jsp?ID=50572&la=0&powerMode=0"
+          }
+        },
+        {
+          "position": 5,
+          "old": {
+            "position": 5,
+            "zh": "头动：点头、动首示意（表应允、让步）",
+            "en": "to move the head; to nod in assent or concession",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 5,
+            "zh": "H 栏：头动；L 栏：应允，若「Bayando」读作 bajando，可能指低头应允。",
+            "en": "H: movement of the head; L: to concede, possibly while lowering the head if Bayando is read as bajando.",
+            "confidence": "medium",
+            "notes": "L 栏封存为「Conceder. Bayando la cabeza.」，Bayando 的读法待核；不把低头直接等同于点头。"
+          }
+        },
+        {
+          "position": 6,
+          "old": {
+            "position": 6,
+            "zh": "担头：挑担、负荷；担子",
+            "en": "a load, burden; to carry a load",
+            "confidence": "medium",
+            "notes": "西语短语沿上条“动头（bayando la cabeza）”重复，与“担头”字义不合，疑系串行误系"
+          },
+          "new": {
+            "position": 6,
+            "zh": "H 栏：「擔頭」，现代台语词典有担子、责任或抬头的用例，本条具体义待核；L 栏 con ceder 可能指应允，若「Bayando」读作 bajando，可能指低头应允。两栏对应待核。",
+            "en": "H: 擔頭 has modern Taiwanese dictionary senses or examples for a burden, responsibility, or raising the head; its sense here is uncertain. L: con ceder may mean to concede, possibly while lowering the head if Bayando is read as bajando. Their correspondence remains uncertain.",
+            "confidence": "low",
+            "notes": "现代台语辞典既列「擔頭」为担子或责任，也在「擔」下列「擔頭」为抬头；本条取义、L 栏 con ceder 是否连读为 conceder、Bayando 的读法及各栏对应均待核，不能径判串行。参考：https://sutian.moe.edu.tw/zh-hant/su/11696/；https://sutian.moe.edu.tw/zh-hant/su/11650/"
+          }
+        },
+        {
+          "position": 7,
+          "old": {
+            "position": 7,
+            "zh": "呾来呾去：说来说去，一言来一言去（互有应答驳难）",
+            "en": "to keep saying back and forth, bandy words (one grants, another denies)",
+            "confidence": "medium",
+            "notes": "“呾”“来”两字均带[疑]（或作咀/來），据 M 音 tâ/lāy 定为言语往来义"
+          },
+          "new": {
+            "position": 7,
+            "zh": "L 栏：应允与否认；后半句或指一人说、另一人说，或指说一件事、说另一件事，uno/otro 的指代、说话者及句间关系待核。H 栏：「〔呾/咀〕〔来/來〕〔呾/咀〕去」，疑字待核。",
+            "en": "L: conceding and denying; the latter phrase may mean that one person speaks and another speaks, or that one thing and another are said. The referents of uno/otro, the speakers, and the relationship between clauses remain uncertain. H: 〔呾/咀〕〔来/來〕〔呾/咀〕去, with the characters uncertain.",
+            "confidence": "low",
+            "notes": "L 栏作「Concede y niega, ya dice uno, ya dice otro -」；ya…ya… 可能表示分述（RAE：https://dle.rae.es/ya），uno/otro 指人还是所说的事、说话者及句间关系待核，不强定时序。H 栏第一、第三字各标疑「呾/咀」，第二字标疑「来/來」；不能据 M 音径定疑字。"
+          }
+        },
+        {
+          "position": 8,
+          "old": {
+            "position": 8,
+            "zh": "处：处理、安排、料理；处置",
+            "en": "to arrange, settle, manage, handle",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 8,
+            "zh": "L 栏：商定、安排；H 栏：处、处理。",
+            "en": "L: to agree or arrange; H: 處, to deal with or handle.",
+            "confidence": "high",
+            "notes": "L 栏为「Concertar.」，H 栏为「處」。"
+          }
+        },
+        {
+          "position": 9,
+          "old": {
+            "position": 9,
+            "zh": "品：品评、评定（货品）等级；评定价钱",
+            "en": "to grade, appraise; to settle or fix the price",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 9,
+            "zh": "L 栏：商定价钱；H 栏：品，具体义及两栏对应待核。",
+            "en": "L: to agree on a price; H: 品, with its precise sense and correspondence uncertain.",
+            "confidence": "medium",
+            "notes": "H 栏单字「品」可有评定等义，但本条是否指评定货品等级、进而定价，不能仅据西语推定。"
+          }
+        },
+        {
+          "position": 10,
+          "old": {
+            "position": 10,
+            "zh": "说合、合意成交：双方议定价钱",
+            "en": "to come to terms, agree on a price; mutual assent in bargaining",
+            "confidence": "medium",
+            "notes": "第二音节 gî 未证实（音注标 ?），首字“甲”疑为“合”之讹（kah-ì 合意），义据西语 concertar el precio 推断"
+          },
+          "new": {
+            "position": 10,
+            "zh": "L 栏：商定价钱；H 栏：甲，具体义及两栏对应待核。",
+            "en": "L: to agree on a price; H: 甲, with its precise sense and correspondence uncertain.",
+            "confidence": "low",
+            "notes": "M 栏为「ca gî.」，第二音节对应何字待核；H 栏仅记「甲」，不能径改为「合」并补作「合意」。"
+          }
+        },
+        {
+          "position": 11,
+          "old": {
+            "position": 11,
+            "zh": "讨：讨取、索要；此处配“合谋为恶”，谓谋求、图谋",
+            "en": "to demand, exact, beg; (here) to seek, scheme ill",
+            "confidence": "medium",
+            "notes": "R 对音 koû 与“讨”不叶，语义据西语短语 Concertar para mal 推断"
+          },
+          "new": {
+            "position": 11,
+            "zh": "L 栏：为恶谋划、商议；H 栏：讨，具体义及两栏对应待核。",
+            "en": "L: to plan or arrange for wrongdoing; H: 討, with its precise sense and correspondence uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏为「Concertar para mal.」，H 栏为「討」，R 栏为「koû.」；R 与 H 的具体对应待核，不据西语径定「討」在此作图谋义。"
+          }
+        },
+        {
+          "position": 12,
+          "old": {
+            "position": 12,
+            "zh": "度：揣度、估量；此处配“合谋为恶”，谓计度、谋算",
+            "en": "to estimate, gauge, consider; (here) to calculate, scheme",
+            "confidence": "medium",
+            "notes": "R 对音 chū 与“度”不叶，与上条“讨”共承西语“合谋为恶”之语境"
+          },
+          "new": {
+            "position": 12,
+            "zh": "L 栏：为恶谋划、商议；H 栏：度，具体义及两栏对应待核。",
+            "en": "L: to plan or arrange for wrongdoing; H: 度, with its precise sense and correspondence uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏为「Concertar para mal.」，H 栏为「度」，R 栏为「chū.」；R 与 H 的具体对应待核，不据西语径定「度」在此作谋算义。"
+          }
+        },
+        {
+          "position": 13,
+          "old": {
+            "position": 13,
+            "zh": "齐整：整齐、齐备；收拾整齐",
+            "en": "orderly, neat; to put in order, arrange",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 13,
+            "zh": "齐整；整理、安排。",
+            "en": "orderly or neat; to arrange or put in order.",
+            "confidence": "high",
+            "notes": "L 栏为「concertar, componer.」，H 栏为「齊整」；R 栏现封存为「chŷ chèng」，M 栏为「chěy chěng」，两栏音写的具体对应待核。"
+          }
+        },
+        {
+          "position": 14,
+          "old": {
+            "position": 14,
+            "zh": "齐应：齐声应答、一同应和",
+            "en": "to answer in unison, respond in accord",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 14,
+            "zh": "H 栏：齐应，可能指一起应答；L 栏「concertar ce」中 concertar 可指商定或整理，断词、具体义及两栏对应待核。",
+            "en": "H: 齊應, possibly answering together; L: in concertar ce, concertar can mean to agree or arrange, but the word division, sense here, and correspondence are uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏为「concertar ce -」，concertar 的一般词典义可参 https://dle.rae.es/concertar；ce 是否属于 concertarse 和本条具体用义待核。M 栏「ěng.」与 R 栏「ēng.」均只记一音节，其与 H 栏两字的对应待核。"
+          }
+        },
+        {
+          "position": 15,
+          "old": {
+            "position": 15,
+            "zh": "朴：质朴、朴实；朴直无饰",
+            "en": "plain, simple, honest; unadorned, straightforward",
+            "confidence": "medium",
+            "notes": "M 作两读 pag it / po it，与单字“朴”不合，疑杂有残文"
+          },
+          "new": {
+            "position": 15,
+            "zh": "H 栏：朴，可指朴实；L 栏：recto 可指直或正，concertad 的词形及两栏对应待核。",
+            "en": "H: 朴, potentially plain or simple; L: recto can mean straight or upright, while the form of concertad and the correspondence remain uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏为「concertad, recto.」，M 栏为「pag it, po it.」，R 栏为「pā.」；M 音写与 H 单字的对应及各栏词义待核。"
+          }
+        },
+        {
+          "position": 16,
+          "old": {
+            "position": 16,
+            "zh": "揽：包揽、承揽〔原件污损，释义存疑〕",
+            "en": "to take on, contract for, monopolize [uncertain, source damaged]",
+            "confidence": "low",
+            "notes": "M 声调记号 T99（污损难辨），且对音 mau/mān 与“攬”（lám）不叶，字义难定"
+          },
+          "new": {
+            "position": 16,
+            "zh": "H 栏：攬，可指收揽；L 栏 concertar 可指商定或整理，puntos 可指点或针脚，aderezo 可指装饰或配制；各词在本条的具体义及两栏对应待核。",
+            "en": "H: 攬, possibly to gather or take in; L: concertar can mean to agree or arrange, puntos can mean points or stitches, and aderezo can mean adornment or preparation. Their senses here and the correspondence remain uncertain.",
+            "confidence": "low",
+            "notes": "L 栏为「concertar puntos, aderezo.」；所列为一般词典义，具体词义、搭配、全句及与 H 栏的对应待核，不能据此确定缝纫或装饰场景。M 栏为「mau.」，其 tone_marks_M 字段中该记号记录为 T99；原始转录员认为小符号可能为鼻化钩或声调符，类型未定。R 栏为「mān.」。参考：https://dle.rae.es/concertar；https://dle.rae.es/punto；https://dle.rae.es/aderezo"
+          }
+        },
+        {
+          "position": 17,
+          "old": {
+            "position": 17,
+            "zh": "谋：谋划、图谋；计策",
+            "en": "to plan, devise; scheme, stratagem",
+            "confidence": "medium",
+            "notes": "R 对音 nêm 与“谋”（bōu/móu）不叶，字义据汉字与 M 音定，西语短语配合较松"
+          },
+          "new": {
+            "position": 17,
+            "zh": "H 栏：谋、谋划；L 栏「concertar defectos」可能指整治缺陷，两栏对应待核。",
+            "en": "H: 謀, to plan; L: concertar defectos may refer to putting defects right, but the correspondence is uncertain.",
+            "confidence": "medium",
+            "notes": "L 栏为「concertar defectos.」，是否指修整缺陷待核；R 栏为「nêm.」，其与 H 栏「謀」的具体对应待核。"
+          }
+        },
+        {
+          "position": 18,
+          "old": {
+            "position": 18,
+            "zh": "绵：绵连、连绵（接连不断）；绵软",
+            "en": "continuous, joined without break; soft",
+            "confidence": "high",
+            "notes": ""
+          },
+          "new": {
+            "position": 18,
+            "zh": "H 栏：绵，具体义待核；L 栏「concertad, cum puesto」的词形及两栏对应待核。",
+            "en": "H: 綿, with its precise sense uncertain; L: concertad, cum puesto, with word forms and correspondence uncertain.",
+            "confidence": "low",
+            "notes": "L 栏封存为「concertad, cum puesto.」；原始转录备注提出 concertad 或为 concertado 缩写、cum puesto 或为 compuesto 等读法，均待核，不能径定为「布置停当」。"
+          }
+        }
+      ],
+      "initial_review": "codex_M6_preview/batch05_review_p0282.json",
+      "final_review": "codex_M6_preview/batch05_review_p0282_verified.json"
+    }
+  ]
+}

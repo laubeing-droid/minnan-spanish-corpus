@@ -1,0 +1,23 @@
+{
+  "protocol": "BATCH05_WRONG_ROW_ROLLBACK_V1",
+  "status": "READY_FOR_SEAL",
+  "applied": [
+    {
+      "page": 265,
+      "position": 14,
+      "field": "source_M",
+      "old": "sám pàn",
+      "new": "pay ca lang.",
+      "reason": "原图目标行与审阅图中下一行错位，恢复本批修复前封存原值。"
+    },
+    {
+      "page": 265,
+      "position": 18,
+      "field": "source_M",
+      "old": "tiàm sím",
+      "new": "Te liau.",
+      "reason": "原图目标行与审阅图中下一行错位，恢复本批修复前封存原值。"
+    }
+  ],
+  "reason": "两处候选取自相邻下一视觉行；按修复批旧值恢复，不直接修改封存。"
+}

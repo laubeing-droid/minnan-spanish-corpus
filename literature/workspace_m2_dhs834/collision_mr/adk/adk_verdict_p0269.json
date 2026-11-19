@@ -1,0 +1,316 @@
+{
+  "protocol": "ADK_VERDICT_V1",
+  "page": 269,
+  "actor": "Codex 子代理",
+  "actor_id": "/root/adk_batch05_a",
+  "method": "对照 v1/rr 的原图裁决，非独立盲读",
+  "verdicts": [
+    {
+      "position": 3,
+      "field": "source_R",
+      "v1": "yěn chǔ fūn.",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "位置差",
+      "note": "第3行右栏第三词是长下行 f 起笔的 fun，u 上右斜画，非 V1 平横调；首二词含长下行 y，完整字形需另辨。"
+    },
+    {
+      "position": 6,
+      "field": "source_R",
+      "v1": "vàng.",
+      "rr": "",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "第6行右栏 v 起笔，接 ang 且 g 下行；a 上尖形，不是 V1 所写右斜。",
+      "ink": "vâng"
+    },
+    {
+      "position": 6,
+      "field": "R",
+      "v1": "vàng",
+      "rr": "",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "第6行右栏目标词为 v 起笔的 vang，a 上可见尖形调，不把清楚的 v 因音系规则改写。",
+      "ink": "vâng"
+    },
+    {
+      "position": 21,
+      "field": "R",
+      "v1": "cohom",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第21行右栏靠中分线的小字词尾有 m；起首连笔不似孤立 co，字母能否逐个读为 cohom 未定。"
+    },
+    {
+      "position": 21,
+      "field": "R",
+      "v1": "cohom",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第21行右栏靠中线的细字以 m 收尾，前半连笔有多次回转，不能确认 V1 的 -ohom 全部字母。"
+    },
+    {
+      "position": 1,
+      "field": "R",
+      "v1": "chong.",
+      "rr": "choàng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第1行右栏 cho 后有 a 形及下行 g，顶部有钩形和小 c 状笔画，不能确认候选的完整上标。"
+    },
+    {
+      "position": 2,
+      "field": "R",
+      "v1": "yěn chǔ.",
+      "rr": "iěn chý",
+      "verdict": "两皆误",
+      "letters": "两皆误",
+      "tone_mark": "位置差",
+      "note": "第2行右栏首词 y 下行，第二词末字也是 y 下行；两词上都是钩形，V1 末词作 u、重读首词作 i。",
+      "ink": "yěn chy̌"
+    },
+    {
+      "position": 3,
+      "field": "R",
+      "v1": "yěn chǔ fūn.",
+      "rr": "iěn chý fún",
+      "verdict": "两皆误",
+      "letters": "两皆误",
+      "tone_mark": "位置差",
+      "note": "第3行右栏依次 yen、chy、fun，首二词上钩形，末词上右斜；两案首字或次字与调号均有不合。",
+      "ink": "yěn chy̌ fùn"
+    },
+    {
+      "position": 4,
+      "field": "R",
+      "v1": "yěn chǔ hông.",
+      "rr": "iěn chý hồng",
+      "verdict": "两皆误",
+      "letters": "两皆误",
+      "tone_mark": "位置差",
+      "note": "第4行右栏首词以 y 下行，次词 chy 末字下行，上方均钩形，末词 hong 上尖形；两案均未覆盖完整字形。",
+      "ink": "yěn chy̌ hông"
+    },
+    {
+      "position": 5,
+      "field": "R",
+      "v1": "yān : yān.",
+      "rr": "iǎn : iǎn",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "第5行右栏两词均为 yan；前词为钩形调，后词为右斜调，V1 两处均写平横，重读首字写 i。",
+      "ink": "yǎn : yàn"
+    },
+    {
+      "position": 9,
+      "field": "M",
+      "v1": "chỹ çỹ.",
+      "rr": "chýⁿ",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第9行中栏第一词 chy 后还有浅淡笔画，可能为第二词；上方粗画与叠写使上置小字无法明确。"
+    },
+    {
+      "position": 10,
+      "field": "M",
+      "v1": "bīn seg.",
+      "rr": "bīn sék",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第10行中栏首词 bin，次词末字是长下行 g 而非 k；首词上波形和次词尖笔是否对应 V1 的调号待辨。"
+    },
+    {
+      "position": 11,
+      "field": "M",
+      "v1": "liō ny.",
+      "rr": "liô jõng",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第11行中栏首词末有明显长下行笔，后接 ny；V1 漏首词尾部，重读次词作 jong，首词上画较粗。"
+    },
+    {
+      "position": 12,
+      "field": "M",
+      "v1": "cám chêg.",
+      "rr": "cam chêk",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第12行中栏 cam 后接 cheg，首词上斜画，次词 e 上尖画，末字 g 有下行；与 V1 字母及调号相符。"
+    },
+    {
+      "position": 12,
+      "field": "R",
+      "v1": "càn chē.",
+      "rr": "càm chỹ",
+      "verdict": "两皆误",
+      "letters": "两皆误",
+      "tone_mark": "位置差",
+      "note": "第12行右栏第一词为 can，上有钩形；次词为 chy，y 下行且上横画，两案对尾字或调号均有偏差。",
+      "ink": "cǎn chȳ"
+    },
+    {
+      "position": 13,
+      "field": "M",
+      "v1": "chě camg.",
+      "rr": "che cang",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第13行中栏 che 后接 cang，第一词上有数字形小笔，第二词斜画之上另有 c 状小字，不能忽略上置笔画。"
+    },
+    {
+      "position": 13,
+      "field": "R",
+      "v1": "chàng cōng.",
+      "rr": "chěng còng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第13行右栏两词末均有下行 g，各有钩形及上方 c 状小笔；首词元音受连写影响，完整上置字母待核。"
+    },
+    {
+      "position": 15,
+      "field": "M",
+      "v1": "gûy seg.",
+      "rr": "guī sék",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第15行中栏首词 guy 末有 y 下行，次词 seg 末 g 下行；首词顶上粗画及小字不能合并作普通单一调号。"
+    },
+    {
+      "position": 16,
+      "field": "M",
+      "v1": "hūe seg.",
+      "rr": "hue sék",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第16行中栏 hue 后的 seg 有 g 下行，不是重读 k；两处上方细斜或尖画与候选调号未能完整对应。"
+    },
+    {
+      "position": 17,
+      "field": "M",
+      "v1": "chiò chiūy.",
+      "rr": "chiò chhùy",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第17行中栏 chio 与 chuy 两词，上方各有粗画和 c 状小字；次词 h 数目及上标不能凭两候选代定。"
+    },
+    {
+      "position": 17,
+      "field": "R",
+      "v1": "tiān gìùen.",
+      "rr": "siǎn giàn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第17行右栏首词起笔带长下行，似 s；次词 guien 形旁有上置小笔，元音连写和调号不能完整确认。"
+    },
+    {
+      "position": 18,
+      "field": "M",
+      "v1": "hōng chay.",
+      "rr": "hong chhay",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第18行中栏 hong 后接 chay，次词上斜画旁另有 c 状小字；不能只按第二词 h 的数量裁整串。"
+    },
+    {
+      "position": 18,
+      "field": "R",
+      "v1": "jǒng chǎy.",
+      "rr": "fěng chhay",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第18行右栏首词为长下行 f 起笔、后为 ong，非 jong 或 feng；次词 chay 上有细小附加笔画。"
+    },
+    {
+      "position": 19,
+      "field": "M",
+      "v1": "síang yō seg.",
+      "rr": "siang yo sek",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第19行中栏可见 siang、yo、seg，末字 g 下行，不是 k；首二词上方有粗墨及细笔，调号未能完整确认。"
+    },
+    {
+      "position": 19,
+      "field": "R",
+      "v1": "toǎng yāng sē.",
+      "rr": "goāng joāng sě",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第19行右栏为 toang、yang、se 形，前词起笔为大写样 t，后两词有横画；第三词顶部点与调号关系待辨。"
+    },
+    {
+      "position": 20,
+      "field": "M",
+      "v1": "chiū.",
+      "rr": "chû",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第20行中栏底行可见 chiu，但上方粗斜笔与上一行 y 的下行相交，不能确定该笔是否为目标词调号。"
+    },
+    {
+      "position": 21,
+      "field": "M",
+      "v1": "hīng tân",
+      "rr": "hong tan",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "第21行中栏首词 h 后有带点竖笔与 o 形，末有 ng 下行；两案分别缺 o 或缺 i，首词横画较粗。"
+    },
+    {
+      "position": 21,
+      "field": "R",
+      "v1": "cohom. hông tân.",
+      "rr": "guahom. hông tân",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第21行右栏先是靠分隔线的小字、后为 hong tan；小字末尾 m 清楚但首部连写难定，后词上亦有尖画和钩画。"
+    },
+    {
+      "position": 23,
+      "field": "M",
+      "v1": "hūe sio āng.",
+      "rr": "hue siū āng",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "第23行中栏 hue、sio、ang 可辨，中词是 o 非 u；首词上为右斜画，不同于 V1 横画，其他小笔待辨。"
+    },
+    {
+      "position": 23,
+      "field": "R",
+      "v1": "sò siān hông.",
+      "rr": "fô siaùn hông",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第23行右栏首词长下行 f、第二词 sian 形、末词 hong；V1 首字作 s，重读中词多一元音，调号与连写仍待辨。"
+    }
+  ]
+}

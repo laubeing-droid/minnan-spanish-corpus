@@ -1,0 +1,98 @@
+{
+  "page": 267,
+  "review_type": "NONBLIND_FOLLOWUP",
+  "scope": "仅复核初审后修订的第 2、5、6、10、12、17 条，以及第 9 条最新 R 栏文字与 tone_marks_R；非重新复核整页、非独立盲读或原图复裁。",
+  "candidate_path": "codex_M6_preview/batch05_refresh_p0267.json",
+  "candidate_sha256": "aa078a173b16f04e444b2e508b21307e6b8dee77e02d340e31239f5a83b8dae8",
+  "sealed_path": "literature/workspace_m2_dhs834/blind_read_p0267.json",
+  "sealed_sha256": "24a492d22567aeea95b5fd699c77f53998dfd287cf1818e5d69ce9f32b6ed0fa",
+  "original_gloss_path": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0267.json",
+  "original_gloss_sha256": "bc701e3a6426e7f6648fb05b5a69273da1e017e9b0a75ca80a5a5b57bb8f1025",
+  "previous_review_path": "codex_M6_preview/batch05_review_p0267.json",
+  "previous_review_sha256": "4bfc3fe0fe615b6f965ab55d84db624136f7d5d657fbee5895f0cd0f1c7d15e6",
+  "initial_candidate_path": "codex_M6_preview/batch05_refresh_initial_p0267.json",
+  "initial_candidate_sha256": "8acfd23d65407edef1c4ede18a2faaef821cfcd7f173e8fb6de7d2ecdf06de6b",
+  "previous_sealed_sha256": "c9be1118c646976c7215f1e602878437a03ac6a576200fba3595a68b789ad2a9",
+  "positions_reviewed": [
+    2,
+    5,
+    6,
+    9,
+    10,
+    12,
+    17
+  ],
+  "result": "PASS",
+  "issues": [],
+  "entry_reviews": [
+    {
+      "position": 2,
+      "result": "PASS",
+      "finding": "notes 说明现代西语 hiriendo 为 herir 的动副词及可能伤害义，同时保留 de ara con、具体义项、主客体与整段句法待核；R 栏 T99 和 low 均保留。",
+      "reference_check": "RAE 词条给出 hiriendo 为 herir 的动副词，且 herir 收伤害义；不据此确定本条历史用法。",
+      "reference": "https://dle.rae.es/herir"
+    },
+    {
+      "position": 5,
+      "result": "PASS",
+      "finding": "中英文和 notes 均将击打明确为 quiere dar 的可能解释；次字亮/凶、词义和对应关系仍待核。",
+      "reference_check": "RAE dar 收给予、击打等义；多义词典义不确定本条具体用法。",
+      "reference": "https://dle.rae.es/dar"
+    },
+    {
+      "position": 6,
+      "result": "PASS",
+      "finding": "L 栏明确承载天生/自然的限定，H 栏火性单列，notes 说明限定来源。"
+    },
+    {
+      "position": 9,
+      "result": "PASS",
+      "finding": "候选 notes 的 R 栏 hān lîn xīn 与最新封存相同；R 栏调号依次为 T05、T03、T05，中音 lîn 的尖顶符与 T03 标识一致；末音与院的对应仍待核。"
+    },
+    {
+      "position": 10,
+      "result": "PASS",
+      "finding": "中英文将 Coles 的甘蓝义与 Verços 的读法、所指待核分列，H 芥/隔疑字和品种待核保留。",
+      "reference_check": "RAE col 词条可支持其一般蔬菜义，不能证明 Verços 的字形或所指。",
+      "reference": "https://dle.rae.es/col"
+    },
+    {
+      "position": 12,
+      "result": "PASS",
+      "finding": "中英文和 notes 保留 colgadura 或 colgadura de Macama 的关系，Macama 及 de 的具体关系未定；H、R 空栏未被解释为原件残缺。",
+      "reference_check": "RAE colgadura 支持所列一般悬饰布义，不能确定 Macama 的含义。",
+      "reference": "https://dle.rae.es/colgadura"
+    },
+    {
+      "position": 17,
+      "result": "PASS",
+      "finding": "中英文将 cinta 的带子、腰带、腰部列为可能义，espadas 可译为剑，vt 的作用及音字对应待核。",
+      "reference_check": "RAE cinta 词条包含带子及旧义腰带、腰部，不能仅据词典确定本条取义。",
+      "reference": "https://dle.rae.es/cinta"
+    }
+  ],
+  "entry_9_update_check": {
+    "source_R": "hān lîn xīn",
+    "candidate_notes_match_source_R": true,
+    "old_tone_marks_R": [
+      "T05 (平橫)",
+      "T02 (降斜)",
+      "T05 (平橫)"
+    ],
+    "new_tone_marks_R": [
+      "T05 (平橫)",
+      "T03 (尖頂帽)",
+      "T05 (平橫)"
+    ],
+    "tone_array_matches_middle_circumflex": true,
+    "seal_change_scope": "相对于上次审阅封存，仅第 9 条 tone_marks_R 的第二个元素由 T02 (降斜) 改为 T03 (尖頂帽)；source_L、source_H、source_M、source_R 等原文字段均未变。",
+    "verification": "将当前封存字节中第 9 条调号数组的第二项在内存逆换为 T02 (降斜)，所得 SHA-256 与上次复核记录的封存 SHA-256 完全一致；逐字段比较亦仅发现该数组变化。",
+    "limit": "复核对象为封存与候选文字、调号数组及哈希；本复核未独立重读原图。"
+  },
+  "limitations": [
+    "本次仅复核列示的七个位置；其余位置沿用初审，不代表本轮重新复核全页。",
+    "词典只支持明确标为一般词典义的内容，不能单独裁定历史语义或跨栏对应。",
+    "PASS 绑定所列候选、封存与初审记录哈希；任一文件变化后需针对变化重新检查。"
+  ],
+  "previous_sealed_path": "codex_M6_preview/batch05_seal_before_tones_p0267.json"
+}

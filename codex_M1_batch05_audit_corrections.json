@@ -1,0 +1,339 @@
+{
+  "status": "CANDIDATES_DOWNGRADED",
+  "items": [
+    {
+      "page": 265,
+      "index_1based": 32,
+      "audit": "codex_M1_batch05_audit_ac.json",
+      "old": {
+        "position": 14,
+        "field": "R",
+        "v1": "pay guio xin",
+        "rr": "jà pàn",
+        "verdict": "两皆误",
+        "letters": "rr",
+        "tone_mark": "位置差",
+        "note": "杉板行右栏为 jǎ pàn，首词上折画、次词上反斜画；重读把首词折画记作斜画，v1 对应上一行。",
+        "ink": "jǎ pàn"
+      },
+      "new": {
+        "position": 14,
+        "field": "R",
+        "v1": "pay guio xin",
+        "rr": "jà pàn",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "杉板行右栏为 jǎ pàn，首词上折画、次词上反斜画；重读把首词折画记作斜画，v1 对应上一行。 五倍图复核：杉板行右栏第一词首笔是长下行的连笔，j 与长 s 形难以分定；a 上折画和 pan 上反斜画可见，不能据此确认完整的 jǎ pàn。"
+      }
+    },
+    {
+      "page": 265,
+      "index_1based": 35,
+      "audit": "codex_M1_batch05_audit_ac.json",
+      "old": {
+        "position": 16,
+        "field": "M",
+        "v1": "Bue",
+        "rr": "cá: cáû",
+        "verdict": "两皆误",
+        "letters": "rr",
+        "tone_mark": "位置差",
+        "note": "胶字行中栏两段 ca: cau 上各有向右上斜画；v1 的 Bue 在上一行，重读第二段多记折号。",
+        "ink": "cá: cáu"
+      },
+      "new": {
+        "position": 16,
+        "field": "M",
+        "v1": "Bue",
+        "rr": "cá: cáû",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "胶字行中栏两段 ca: cau 上各有向右上斜画；v1 的 Bue 在上一行，重读第二段多记折号。 五倍图复核：胶字行中栏是 ca: cau，两词均有正斜画，第二个画跨在 au 上方且偏向右侧，无法确定应落在 a 或 u，候选 cáu 的完整记号位置待核。"
+      }
+    },
+    {
+      "page": 271,
+      "index_1based": 10,
+      "audit": "codex_M1_batch05_audit_ac.json",
+      "old": {
+        "position": 2,
+        "field": "M",
+        "v1": "tō̃ tō [疑:鼻化号/g]",
+        "rr": "tòng toⁿ",
+        "verdict": "两皆误",
+        "letters": "两皆误",
+        "tone_mark": "位置差",
+        "note": "东道行中栏首词 tong 末 g 下伸，上方正斜画；第二词 to 上为折画，重读附上置 ⁿ 而原图未见，两个候选均与完整记号不合。",
+        "ink": "tóng tǒ"
+      },
+      "new": {
+        "position": 2,
+        "field": "M",
+        "v1": "tō̃ tō [疑:鼻化号/g]",
+        "rr": "tòng toⁿ",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "东道行中栏首词 tong 末 g 下伸，上方正斜画；第二词 to 上为折画，重读附上置 ⁿ 而原图未见，两个候选均与完整记号不合。 五倍图复核：东道行中栏首词末 g 下行，第二词 to 上为折画；首词正斜画旁还有一点状墨迹，不能确定是否为独立上置笔画，无法完全确认候选。"
+      }
+    },
+    {
+      "page": 280,
+      "index_1based": 15,
+      "audit": "codex_M1_batch05_audit_ac.json",
+      "old": {
+        "position": 12,
+        "field": "R",
+        "v1": "tīg",
+        "rr": "tī",
+        "verdict": "两皆误",
+        "letters": "两皆误",
+        "tone_mark": "位置差",
+        "note": "籴字行右栏为 Tȳ，T 后 y 下伸、上有横；两候选均把末字当 i，v1 又多 g。",
+        "ink": "Tȳ"
+      },
+      "new": {
+        "position": 12,
+        "field": "R",
+        "v1": "tīg",
+        "rr": "tī",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "籴字行右栏为 Tȳ，T 后 y 下伸、上有横；两候选均把末字当 i，v1 又多 g。 五倍图复核：该行右栏为 T 起笔，后部有下行闭环笔画及横画，T 右端还有点状墨迹；不能排除 i 与 g 连写，故不能确认候选 Tȳ。"
+      }
+    },
+    {
+      "page": 270,
+      "index_1based": 27,
+      "audit": "codex_M1_batch05_audit_b1.json",
+      "old": {
+        "position": 8,
+        "field": "R",
+        "v1": "chūn",
+        "rr": "siēnchhèng",
+        "verdict": "两皆误",
+        "letters": "两皆误",
+        "tone_mark": "一致",
+        "note": "第8位右栏：z 形起笔接 un，上有横线；v1 的 ch 不在该词，重读属下行。",
+        "ink": "zūn"
+      },
+      "new": {
+        "position": 8,
+        "field": "R",
+        "v1": "chūn",
+        "rr": "siēnchhèng",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第8位右栏：z 形起笔接 un，上有横线；v1 的 ch 不在该词，重读属下行。 五倍图复核：对应率字行右栏首字为 z 形、上有横画，但词尾黑色高竖与横划连写在一起，难定为 n 的收笔或另一个 t，不能确认完整 zūn；重读长串在下一行。"
+      }
+    },
+    {
+      "page": 273,
+      "index_1based": 19,
+      "audit": "codex_M1_batch05_audit_b1.json",
+      "old": {
+        "position": 5,
+        "field": "R",
+        "v1": "sīe pân [疑:pân/pān]",
+        "rr": "jiē pòn",
+        "verdict": "重读对",
+        "letters": "rr",
+        "tone_mark": "一致",
+        "note": "第5位右栏：首词为 jiē，第二词 pòn 上右下斜笔，符合重读。"
+      },
+      "new": {
+        "position": 5,
+        "field": "R",
+        "v1": "sīe pân [疑:pân/pān]",
+        "rr": "jiē pòn",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第5位右栏：首词为 jiē，第二词 pòn 上右下斜笔，符合重读。 五倍图复核：食饱行右栏次词 pon 上右下斜画清楚；首词长下行起笔与红线接近，j 与长 s 形不易分，不能确认 jiē pòn 的全部字母。"
+      }
+    },
+    {
+      "page": 276,
+      "index_1based": 8,
+      "audit": "codex_M1_batch05_audit_b2.json",
+      "old": {
+        "position": 1,
+        "field": "R",
+        "v1": "lôun",
+        "rr": "lôin",
+        "verdict": "两皆误",
+        "letters": "两皆误",
+        "tone_mark": "一致",
+        "note": "第1位右栏：l 后的 o 带尖形、后接 n；没有候选中的 u 或 i。",
+        "ink": "lôn"
+      },
+      "new": {
+        "position": 1,
+        "field": "R",
+        "v1": "lôun",
+        "rr": "lôin",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第1位右栏：l 后的 o 带尖形、后接 n；没有候选中的 u 或 i。 五倍图复核：劳字行右栏首字 l、圆腹 o 与上方折尖可见，o 后连续折笔可能包含 u 及末 n，也可能只是 n 的连接；无法确认候选排除了 u。"
+      }
+    },
+    {
+      "page": 276,
+      "index_1based": 28,
+      "audit": "codex_M1_batch05_audit_b2.json",
+      "old": {
+        "position": 19,
+        "field": "R",
+        "v1": "pōan.",
+        "rr": "pvān",
+        "verdict": "重读对",
+        "letters": "rr",
+        "tone_mark": "一致",
+        "note": "第19位右栏：p 后为 v 形、a 与 n，a 上横线；与重读 pvān 对应。"
+      },
+      "new": {
+        "position": 19,
+        "field": "R",
+        "v1": "pōan.",
+        "rr": "pvān",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第19位右栏：p 后为 v 形、a 与 n，a 上横线；与重读 pvān 对应。 五倍图复核：伴字行右栏 p 后有一个圆折形元音笔画，再接 a、n，词上横画可见；该连接笔是 v 还是 u 不能稳定分辨，不按音系替换。"
+      }
+    },
+    {
+      "page": 279,
+      "index_1based": 19,
+      "audit": "codex_M1_batch05_audit_b2.json",
+      "old": {
+        "position": 12,
+        "field": "R",
+        "v1": "chī yō lāu",
+        "rr": "tiē gìi",
+        "verdict": "两皆误",
+        "letters": "两皆误",
+        "tone_mark": "一致",
+        "note": "第12行右栏依次为 chy、yo、lau，三词各有上横；首词 y 明显下伸，rr 不对应此行。",
+        "ink": "chȳ yō lāu"
+      },
+      "new": {
+        "position": 12,
+        "field": "R",
+        "v1": "chī yō lāu",
+        "rr": "tiē gìi",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第12行右栏依次为 chy、yo、lau，三词各有上横；首词 y 明显下伸，rr 不对应此行。 五倍图复核：制药料行右栏有三词且均上横，首词 y 明显下伸、第二词为 yo；第三词 la 后末笔连写，u 与 n 尚不能可靠区分，因此完整候选待核。"
+      }
+    },
+    {
+      "page": 282,
+      "index_1based": 15,
+      "audit": "codex_M1_batch05_audit_b2.json",
+      "old": {
+        "position": 15,
+        "field": "R",
+        "v1": "pā.",
+        "rr": "pō",
+        "verdict": "两皆误",
+        "letters": "两皆误",
+        "tone_mark": "一致",
+        "note": "第15行右栏词为 p、o，o 上有横，横上另有小 c 形字；两候选均遗漏上置 c。",
+        "ink": "pōᶜ"
+      },
+      "new": {
+        "position": 15,
+        "field": "R",
+        "v1": "pā.",
+        "rr": "pō",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "第15行右栏词为 p、o，o 上有横，横上另有小 c 形字；两候选均遗漏上置 c。 五倍图复核：扑字行右栏 p 下伸，词上横画及横上小 c 清楚；其后的元音被黑墨连成团，o/a 尚不能稳分，不能确认完整候选 pōᶜ。"
+      }
+    },
+    {
+      "page": 274,
+      "index_1based": 7,
+      "audit": "codex_M1_batch05_audit_v1.json",
+      "old": {
+        "position": 18,
+        "field": "M",
+        "v1": "xiēn",
+        "rr": "",
+        "verdict": "V1对",
+        "letters": "V1",
+        "tone_mark": "一致",
+        "note": "宛然行中栏第二词 xiēn，x 形首笔及 e 上横清楚；仅核该局部词。"
+      },
+      "new": {
+        "position": 18,
+        "field": "M",
+        "v1": "xiēn",
+        "rr": "",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "宛然行中栏第二词 xiēn，x 形首笔及 e 上横清楚；仅核该局部词。 五倍图复核：宛然行中栏第二词可见 x、i、e、n 和上横；i 上方有分离点迹，横线末端靠分隔线，不能确认上部点迹是否仅为 i 点及完整符号。"
+      }
+    },
+    {
+      "page": 265,
+      "index_1based": 31,
+      "audit": "codex_M1_batch05_p0265_rollback_source.json",
+      "old": {
+        "position": 14,
+        "field": "M",
+        "v1": "pay ca lang.",
+        "rr": "sám pàn",
+        "verdict": "重读对",
+        "letters": "rr",
+        "tone_mark": "一致",
+        "note": "杉板行中栏为 sám pàn，首音上斜画、第二音上反斜画；v1 的 pay ca lang 位于上一行。"
+      },
+      "new": {
+        "position": 14,
+        "field": "M",
+        "v1": "pay ca lang.",
+        "rr": "sám pàn",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "杉板行中栏为 sám pàn，首音上斜画、第二音上反斜画；v1 的 pay ca lang 位于上一行。 复核发现先前取到下一视觉行，其位置与本条不对应，已撤回并恢复封存旧值。"
+      }
+    },
+    {
+      "page": 265,
+      "index_1based": 39,
+      "audit": "codex_M1_batch05_p0265_rollback_source.json",
+      "old": {
+        "position": 18,
+        "field": "M",
+        "v1": "Te liau.",
+        "rr": "tiam sīm",
+        "verdict": "两皆误",
+        "letters": "rr",
+        "tone_mark": "位置差",
+        "note": "点心行中栏为 tiàm sím，第一音上反斜画、第二音上正斜画；v1 茶料行在上，重读两处调号不同。",
+        "ink": "tiàm sím"
+      },
+      "new": {
+        "position": 18,
+        "field": "M",
+        "v1": "Te liau.",
+        "rr": "tiam sīm",
+        "verdict": "墨迹不明",
+        "letters": "待核",
+        "tone_mark": "存疑",
+        "note": "点心行中栏为 tiàm sím，第一音上反斜画、第二音上正斜画；v1 茶料行在上，重读两处调号不同。 复核发现先前取到下一视觉行，其位置与本条不对应，已撤回并恢复封存旧值。"
+      }
+    }
+  ]
+}

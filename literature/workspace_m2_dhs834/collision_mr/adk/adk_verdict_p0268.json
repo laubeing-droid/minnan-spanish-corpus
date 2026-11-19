@@ -1,0 +1,441 @@
+{
+  "protocol": "ADK_VERDICT_V1",
+  "page": 268,
+  "actor": "Codex 子代理",
+  "actor_id": "/root/adk_batch05_c",
+  "method": "对照 v1/rr 的原图裁决，非独立盲读",
+  "verdicts": [
+    {
+      "position": 2,
+      "field": "source_M",
+      "v1": "vn cūa [残]",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "第2行中栏有单独 vn 形小字，下面是 cua；右侧同一行有大片涂黑，不能确定其作用与完整声调。"
+    },
+    {
+      "position": 8,
+      "field": "source_M",
+      "v1": "pūe chīt [疑:chīt/fīt]",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "佩勒行中栏首词 pue 上有大折画，次词前笔细小、上有交叉及小 c；ch/f 和上置小字需核。"
+    },
+    {
+      "position": 13,
+      "field": "source_R",
+      "v1": "fōng lěng",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "风领行右栏首词为长 f 形开头、末 ng，第二词 leng；两个上方斜折的具体调值难定。"
+    },
+    {
+      "position": 15,
+      "field": "source_R",
+      "v1": "fōng siūⁿ",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "蜂岫行右栏首词长 f 形并接 ong，次词有长首笔与横画，尾部 u/n 和上置小字不稳。"
+    },
+    {
+      "position": 2,
+      "field": "M",
+      "v1": "vn",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "第2行中栏 cua 上方另写 vn 两个小字；其是否独立词和调符受涂黑影响。"
+    },
+    {
+      "position": 4,
+      "field": "R",
+      "v1": "quyě",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "打枷行右栏第二词 q 形下伸、后接 ui 与末笔，末字母及折号落点不稳，不能锁定 -uye。"
+    },
+    {
+      "position": 6,
+      "field": "R",
+      "v1": "tiām",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "割吊心行右栏中词有 t-iam 及词上横画，目标仅为 tiām，不延伸至相邻词。"
+    },
+    {
+      "position": 6,
+      "field": "R",
+      "v1": "sīm",
+      "rr": "",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "割吊心行右栏末词是 sim，上方为折画而非 v1 的横画。",
+      "ink": "sǐm"
+    },
+    {
+      "position": 17,
+      "field": "R",
+      "v1": "chìm",
+      "rr": "",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "后枕行右栏末词 chim 末 m 连笔可见，上方反斜画；c/h 笔与调号靠近，整体未完全锁定。"
+    },
+    {
+      "position": 1,
+      "field": "M",
+      "v1": "[残] cūa",
+      "rr": "cûy cûa",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "首行中栏首段被浓墨划除，右侧另见带折画的 cua；无法确认首词及其小字。"
+    },
+    {
+      "position": 1,
+      "field": "R",
+      "v1": "cūa",
+      "rr": "cūo",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "首行右栏为 cua，元音上长横；末笔为 a 而非 o。"
+    },
+    {
+      "position": 2,
+      "field": "R",
+      "v1": "cūa",
+      "rr": "cūn",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "第2行右栏同为 cua，元音上长横；末笔闭合形与 n 不同。"
+    },
+    {
+      "position": 3,
+      "field": "R",
+      "v1": "hiěn cūa",
+      "rr": "hiěn cūn",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "悬挂行右栏依次 hiěn、cūa，前词有折画、后词有横画；后词末为 a。"
+    },
+    {
+      "position": 4,
+      "field": "M",
+      "v1": "pà quie",
+      "rr": "pà quě",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "打枷行中栏 pa 上涂改，后词 que 上有横和两个小点；i 是否存在及全部小字需核。"
+    },
+    {
+      "position": 4,
+      "field": "R",
+      "v1": "hà quyě [疑:hà/tà]",
+      "rr": "fà guě",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "打枷行右栏首字有长竖横画，后接 a；第二词 q 形下伸、元音上折画，首字与后词元音未定。"
+    },
+    {
+      "position": 5,
+      "field": "M",
+      "v1": "quě hō",
+      "rr": "guě hō",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "枷号行中栏首词下伸笔近 q/g，元音上横及小点；后词 ho 上浓墨，难判完整符号。"
+    },
+    {
+      "position": 5,
+      "field": "R",
+      "v1": "quiě hō",
+      "rr": "guě hōn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "枷号行右栏首词 q 形长下伸、上折画，次词 hon 末笔与横画可见；首词是否多 i 尚难定。"
+    },
+    {
+      "position": 6,
+      "field": "M",
+      "v1": "cūa tâū sīm",
+      "rr": "cûa tiāu sīm",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "割吊心行中栏有 cua、tau、sim 三段，第二段上浓黑覆盖且各段有声符，tau/tiau 未定。"
+    },
+    {
+      "position": 7,
+      "field": "R",
+      "v1": "pūi yīn [疑:yīn/īn]",
+      "rr": "pūi īn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "佩印行右栏第一词 pui 上横，第二词首部有黑色涂块；是否存在 y 无法看清。"
+    },
+    {
+      "position": 8,
+      "field": "M",
+      "v1": "pūe chīt [疑:chīt/fīt]",
+      "rr": "puě fit",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "佩勒行中栏首词 pue 上折画，次词上方交叉笔和小 c、首笔拥挤；两候选均不足以确定全字面。"
+    },
+    {
+      "position": 9,
+      "field": "M",
+      "v1": "gī cūa zō",
+      "rr": "gûi cua gō",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "旗竿绳行中栏首词 gui/quy 后接 cua、z 形尾词；上有横、波形与折画，首词尾及小字需核。"
+    },
+    {
+      "position": 9,
+      "field": "R",
+      "v1": "gī cūa zō",
+      "rr": "gûi cua gō",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "旗竿绳行右栏首词上有折画与小 c，随后 cua 和 z 形词；候选均未完整呈现上置小笔。"
+    },
+    {
+      "position": 10,
+      "field": "M",
+      "v1": "hēng què cūa [疑:hēng/huān] / quiān què cuâ",
+      "rr": "huān gē cûa",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "悬块看行中栏同一单元上下两写，首写 huan 后接两词；黑墨遮后两词声符，不能把下行混为另一条。"
+    },
+    {
+      "position": 10,
+      "field": "R",
+      "v1": "hiěn cūay cān",
+      "rr": "hiěn cûay cām",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "悬块看行右栏三词可见，后两词各有横上小弧；末词 n/m 连笔与小字均需核。"
+    },
+    {
+      "position": 11,
+      "field": "M",
+      "v1": "soa ō",
+      "rr": "hiān kē cûa",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "山窝行中栏首词带长下伸笔，第二词为 o 并有上斜画；重读文字出现在上一单元附写。"
+    },
+    {
+      "position": 12,
+      "field": "M",
+      "v1": "tō [疑:tō/zō]",
+      "rr": "goa ó",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "链字行中栏为一个带下伸笔的 o 词，上方折画；首字 t/z 及完整声符不宜硬判。"
+    },
+    {
+      "position": 12,
+      "field": "R",
+      "v1": "liěn",
+      "rr": "sǎn ǒ",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "链字行右栏为 liēn，e 上长横；v1 将横记作折号，重读的两词属于上一行。",
+      "ink": "liēn"
+    },
+    {
+      "position": 13,
+      "field": "M",
+      "v1": "hong pn̄gia [残]",
+      "rr": "sō",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "风领行中栏首词 hong 后有被划线的词，再接 nia；中词及上方小字被黑线遮住。"
+    },
+    {
+      "position": 13,
+      "field": "R",
+      "v1": "fōng lěng",
+      "rr": "liēn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "风领行右栏 fong、leng 两词均有上方折斜画；重读 liēn 在上一行。"
+    },
+    {
+      "position": 14,
+      "field": "M",
+      "v1": "siū",
+      "rr": "hong gûy niâ",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "岫字行中栏为 siu 一词，u 上黑墨覆盖；重读 hong… 位于上一行。"
+    },
+    {
+      "position": 14,
+      "field": "R",
+      "v1": "chiū",
+      "rr": "sōng lēng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "岫字行右栏为单词，长首笔后接 i、末笔并有上横；chiū 与重读上一行文字均需再核。"
+    },
+    {
+      "position": 15,
+      "field": "M",
+      "v1": "pang siū̃",
+      "rr": "siū",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "蜂岫行中栏 pang 上有小弧及斜画，siu 上有粗波形；上置小字及波形的角色未明。"
+    },
+    {
+      "position": 15,
+      "field": "R",
+      "v1": "fōng siūⁿ",
+      "rr": "cīn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "蜂岫行右栏 fong 后接 s- 开头一词，末尾连笔与上横相近；重读单词对应上一行。"
+    },
+    {
+      "position": 16,
+      "field": "M",
+      "v1": "hū gē [疑:hū/hǖ]",
+      "rr": "pang siū",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "猪齿行中栏为 hu ge，首词上斜画、后词上有横和点；重读 pang siu 是上一行。"
+    },
+    {
+      "position": 16,
+      "field": "R",
+      "v1": "quien cun taman. chiang co. [残]",
+      "rr": "sōng sīn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "猪齿行右栏左侧跨两行细写 quien、cun、taman、chiang、co；个别小标与相接笔划难辨。"
+    },
+    {
+      "position": 17,
+      "field": "M",
+      "v1": "aū chìm",
+      "rr": "hú gē",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "后枕行中栏为 au chim，首词上折画、次词上反斜画；重读 hu ge 在上一行。"
+    },
+    {
+      "position": 17,
+      "field": "R",
+      "v1": "hēn chìm",
+      "rr": "quien cun taman chiāng co",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "后枕行右栏为 hen chim，首词上横与小点叠置，末词反斜画可见；首字 h/k 需核。"
+    },
+    {
+      "position": 18,
+      "field": "M",
+      "v1": "sēg.",
+      "rr": "āu chīm",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "色字行中栏 se 后有下伸笔，上方交叉形声符；重读 au chim 在上一单元。"
+    },
+    {
+      "position": 18,
+      "field": "R",
+      "v1": "sè.",
+      "rr": "kēn chīm",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "色字行右栏单词 se 上有短横及小点，v1 的斜调与原图是否对应不清；重读为上一行两词。"
+    },
+    {
+      "position": 19,
+      "field": "M",
+      "v1": "liog [残]",
+      "rr": "sēs",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "绿字行中栏 liog 末尾下伸笔和上方交叉声符可见；v1 未记可见符号，重读单词属上一行。"
+    },
+    {
+      "position": 19,
+      "field": "R",
+      "v1": "lō",
+      "rr": "sě",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "绿字行右栏为 lo，o 上长横；重读的 se 是上一行。"
+    },
+    {
+      "position": 20,
+      "field": "M",
+      "v1": "chong.",
+      "rr": "liōng",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "缺失",
+      "note": "苍字行中栏 chong 末 g 下伸、上方折画；v1 漏上方记号，重读 liōng 在上一行。"
+    },
+    {
+      "position": 20,
+      "field": "R",
+      "v1": "chàng",
+      "rr": "lō",
+      "verdict": "墨迹不明",
+      "letters": "V1",
+      "tone_mark": "存疑",
+      "note": "苍字行右栏 chang 末 g 下伸，上方折画外另有小弧；小弧性质未明，重读 lo 在上一行。"
+    }
+  ]
+}

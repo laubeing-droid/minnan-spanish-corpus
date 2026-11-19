@@ -1,0 +1,277 @@
+{
+  "protocol": "ADK_VERDICT_V1",
+  "page": 277,
+  "actor": "Codex 子代理",
+  "actor_id": "/root/adk_batch05_c",
+  "method": "对照 v1/rr 的原图裁决，非独立盲读",
+  "verdicts": [
+    {
+      "position": 3,
+      "field": "source_R",
+      "v1": "fāng fūn",
+      "rr": "",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "房分行右栏为 fâng fūn，两词首均为长 f 形，首词上折尖、第二词上横。",
+      "ink": "fâng fūn"
+    },
+    {
+      "position": 4,
+      "field": "source_R",
+      "v1": "fāng fā chûn chù,",
+      "rr": "",
+      "verdict": "两皆误",
+      "letters": "两皆误",
+      "tone_mark": "位置差",
+      "note": "帮发船主行右栏为 fǒng fā chûn chù，首词圆腹为 o 且上折画，后面依次横、折尖、反斜画。",
+      "ink": "fǒng fā chûn chù"
+    },
+    {
+      "position": 11,
+      "field": "R",
+      "v1": "pīt",
+      "rr": "",
+      "verdict": "两皆误",
+      "letters": "两皆误",
+      "tone_mark": "缺失",
+      "note": "匹配行右栏首词 pīt 上横之上另有小 c，v1 漏上置字母；只核此词的 t 韵尾。",
+      "ink": "pītᶜ"
+    },
+    {
+      "position": 12,
+      "field": "R",
+      "v1": "īt",
+      "rr": "",
+      "verdict": "V1对",
+      "letters": "V1",
+      "tone_mark": "一致",
+      "note": "一夥人行右栏首词为 īt，i 后有词末 t，上方为横画；t 位于词末。"
+    },
+    {
+      "position": 1,
+      "field": "M",
+      "v1": "pūy : pāng",
+      "rr": "muy kang",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "首行中栏圈内两词，首词下伸并有上置笔，第二词 pang 上斜画；圈线遮首尾笔，候选均未完整对应。"
+    },
+    {
+      "position": 3,
+      "field": "R",
+      "v1": "fāng fūn",
+      "rr": "fāng hūn",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "房分行右栏两词首均为 f，首词上折尖、次词上横；v1 调号及重读第二词首字不合。",
+      "ink": "fâng fūn"
+    },
+    {
+      "position": 4,
+      "field": "M",
+      "v1": "pāng huǎt chùn chù,",
+      "rr": "pōng huān chûn chù",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "帮发船主行中栏 pang、hua、chun、chu 连写，首词斜画，第二词折画；第二词末笔 t/n 难定。"
+    },
+    {
+      "position": 4,
+      "field": "R",
+      "v1": "fāng fā chûn chù,",
+      "rr": "fōng fā chûn chù",
+      "verdict": "两皆误",
+      "letters": "rr",
+      "tone_mark": "位置差",
+      "note": "帮发船主行右栏首词是 fǒng，后接 fā chûn chù；两个候选首词声符不符。",
+      "ink": "fǒng fā chûn chù"
+    },
+    {
+      "position": 6,
+      "field": "R",
+      "v1": "cûñ puān",
+      "rr": "cûn pōan",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "缺失",
+      "note": "群伴行右栏首词 cun 上折尖外另有小 c，次词 puan 上横；候选均未记小 c，末元音细节需核。"
+    },
+    {
+      "position": 8,
+      "field": "M",
+      "v1": "pōã gūia,",
+      "rr": "pòa guā",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "伴行行中栏 poa 上方粗墨与小笔叠置，后词 gui-a 上有横及小波形；鼻化小字和元音次序未定。"
+    },
+    {
+      "position": 8,
+      "field": "R",
+      "v1": "puān kêng",
+      "rr": "pōan kēng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "伴行行右栏首词 p-uan 上横，后词 keng 上折尖旁有小点；完整符号及元音序列需核。"
+    },
+    {
+      "position": 9,
+      "field": "M",
+      "v1": "pōã ī̃",
+      "rr": "pòa ŷ",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "伴院行中栏 poa 后接下伸 y，两个词上方皆有粗黑波形及小笔，无法完整判上置字母。"
+    },
+    {
+      "position": 9,
+      "field": "R",
+      "v1": "puān xīñ",
+      "rr": "pōan sīn",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "伴院行右栏为 puān xīn，前词上横，次词 x 形首笔、i 上横；v1 末 n 多记波号，重读首词元音及次词首字不同。",
+      "ink": "puān xīn"
+    },
+    {
+      "position": 11,
+      "field": "M",
+      "v1": "pit pūe.",
+      "rr": "chit pûē",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "匹配行中栏首词 pit 上有划改，次词 pue 上有折尖与小 c；词首及全体上置字母需核。"
+    },
+    {
+      "position": 11,
+      "field": "R",
+      "v1": "pīt gūi",
+      "rr": "chit gūi",
+      "verdict": "两皆误",
+      "letters": "两皆误",
+      "tone_mark": "缺失",
+      "note": "匹配行右栏为 pītᶜ gūiᶜ，两词横画上方各有小 c；两候选均漏小字，重读首词亦不同。",
+      "ink": "pītᶜ gūiᶜ"
+    },
+    {
+      "position": 12,
+      "field": "M",
+      "v1": "chĕt huè lâng.",
+      "rr": "chit hûe lâng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "一夥人行中栏首词 chet 上粗折画，后接 hue、lang，第二词反斜及首词元音需核。"
+    },
+    {
+      "position": 12,
+      "field": "R",
+      "v1": "īt hò xīñ",
+      "rr": "chīt kò xīn",
+      "verdict": "两皆误",
+      "letters": "V1",
+      "tone_mark": "位置差",
+      "note": "一夥人行右栏为 īt hò xîn，词末 t、第二词 h 和第三词折尖清楚；v1 第三词标号不同，重读多 ch 且第二词首字不同。",
+      "ink": "īt hò xîn"
+    },
+    {
+      "position": 14,
+      "field": "M",
+      "v1": "chǔi chǐp.",
+      "rr": "chū chîp",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "聚集行中栏第一词 chu 上有粗波形，次词 chip 上有小交叉画，是否含 i 与调号未定。"
+    },
+    {
+      "position": 14,
+      "field": "R",
+      "v1": "chū chiè",
+      "rr": "chū chī",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "聚集行右栏 chu 后接 chi-e 类连笔，首词横画上有点、次词上横；e 与上点性质需核。"
+    },
+    {
+      "position": 15,
+      "field": "M",
+      "v1": "huè quy",
+      "rr": "hûe gūy",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "缺失",
+      "note": "夥记行中栏圈内首词 hue 上反斜画，次词下伸首笔接 uy 且 y 上有折尖；该首笔 q/g 形相近，v1 漏次词折画。"
+    },
+    {
+      "position": 16,
+      "field": "R",
+      "v1": "hò tàng",
+      "rr": "hò tòng",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "一致",
+      "note": "夥党行右栏两词均有反斜画，第二词末 ng 下伸；放大后中间元音 a/o 仍难可靠区分。"
+    },
+    {
+      "position": 18,
+      "field": "R",
+      "v1": "zīñ ièn",
+      "rr": "sū iěu",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "师友行右栏首词 z 形起笔后连元音，上有折画和点，第二词 ien 上反斜画；首词末笔需核。"
+    },
+    {
+      "position": 19,
+      "field": "R",
+      "v1": "công liāñ",
+      "rr": "tòng liâu",
+      "verdict": "墨迹不明",
+      "letters": "两皆误",
+      "tone_mark": "存疑",
+      "note": "同僚行右栏首词末 g 下伸，上折尖旁有小 c；次词 lian 上折尖，首字及全部小字不能仅据候选判。"
+    },
+    {
+      "position": 20,
+      "field": "M",
+      "v1": "Hūe",
+      "rr": "Hūn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "核字行中栏大写 H 后紧连元音与末笔，上有交叉声符；e/n 及符号具体写法不稳。"
+    },
+    {
+      "position": 21,
+      "field": "M",
+      "v1": "lǎn huè",
+      "rr": "lan hûn",
+      "verdict": "墨迹不明",
+      "letters": "待核",
+      "tone_mark": "存疑",
+      "note": "生核行中栏 lan 上折画，第二词 hu- 上交叉笔、末笔连写；e/n 与声符未能全辨。"
+    },
+    {
+      "position": 21,
+      "field": "R",
+      "v1": "làn hùi",
+      "rr": "làn hūn",
+      "verdict": "重读对",
+      "letters": "rr",
+      "tone_mark": "一致",
+      "note": "生核行右栏为 làn hūn，前词反斜画，后词横画及词末 n 清楚。"
+    }
+  ]
+}

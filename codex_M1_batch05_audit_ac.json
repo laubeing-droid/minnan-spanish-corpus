@@ -1,0 +1,145 @@
+{
+  "method": "非盲审阅，逐项对照 ADK 任务、回执和原横带五倍局部图",
+  "records": [
+    {
+      "page": 265,
+      "index_1based": 31,
+      "candidate": "sám pàn",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0265/pdf_0265_band_y1_mid.png",
+      "bbox_xyxy": [
+        1120,
+        930,
+        1370,
+        1060
+      ],
+      "reason": "杉板行中栏可见 sam 和 pan 两词，首词上正斜画、次词上反斜画，底行与候选 sám pàn 相符；V1 字串位于上一行。"
+    },
+    {
+      "page": 265,
+      "index_1based": 32,
+      "candidate": "jǎ pàn",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0265/pdf_0265_band_y1_mid.png",
+      "bbox_xyxy": [
+        1580,
+        930,
+        1860,
+        1060
+      ],
+      "reason": "杉板行右栏第一词首笔是长下行的连笔，j 与长 s 形难以分定；a 上折画和 pan 上反斜画可见，不能据此确认完整的 jǎ pàn。"
+    },
+    {
+      "page": 265,
+      "index_1based": 35,
+      "candidate": "cá: cáu",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0265/pdf_0265_band_y2_bot.png",
+      "bbox_xyxy": [
+        1110,
+        245,
+        1400,
+        365
+      ],
+      "reason": "胶字行中栏是 ca: cau，两词均有正斜画，第二个画跨在 au 上方且偏向右侧，无法确定应落在 a 或 u，候选 cáu 的完整记号位置待核。"
+    },
+    {
+      "page": 265,
+      "index_1based": 39,
+      "candidate": "tiàm sím",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0265/pdf_0265_band_y2_bot.png",
+      "bbox_xyxy": [
+        1110,
+        560,
+        1410,
+        740
+      ],
+      "reason": "点心行中栏为 tiam、sim，首词上反斜画、次词上正斜画，i 点可见；与 tiàm sím 相符，V1 的茶料词段在上一行。"
+    },
+    {
+      "page": 271,
+      "index_1based": 10,
+      "candidate": "tóng tǒ",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0271/pdf_0271_band_y0_top.png",
+      "bbox_xyxy": [
+        1110,
+        615,
+        1340,
+        740
+      ],
+      "reason": "东道行中栏首词末 g 下行，第二词 to 上为折画；首词正斜画旁还有一点状墨迹，不能确定是否为独立上置笔画，无法完全确认候选。"
+    },
+    {
+      "page": 271,
+      "index_1based": 11,
+      "candidate": "tǒng tān",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0271/pdf_0271_band_y0_top.png",
+      "bbox_xyxy": [
+        1610,
+        615,
+        1880,
+        745
+      ],
+      "reason": "东道行右栏首词 tong 有底行 g 下行且上为折画，次词 tan 上为横画；候选 tǒng tān 的字母和两处调形相符。"
+    },
+    {
+      "page": 271,
+      "index_1based": 20,
+      "candidate": "yèn hȳ",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0271/pdf_0271_band_y1_mid.png",
+      "bbox_xyxy": [
+        1600,
+        840,
+        1860,
+        980
+      ],
+      "reason": "演戏行右栏首词 yen 有长下行 y 且上为反斜画，次词 hy 的 y 下行且上为横画；候选 yèn hȳ 覆盖两处字母及调形。"
+    },
+    {
+      "page": 274,
+      "index_1based": 20,
+      "candidate": "chû nȳ",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0274/pdf_0274_band_y1_mid.png",
+      "bbox_xyxy": [
+        1185,
+        930,
+        1440,
+        1080
+      ],
+      "reason": "做年行中栏首词 chu 上有尖形调，次词 ny 的 y 下行且上为横画；候选 chû nȳ 保留两词和各自的记号。"
+    },
+    {
+      "page": 277,
+      "index_1based": 26,
+      "candidate": "làn hūn",
+      "result": "SUPPORTED",
+      "image": "literature/tiles/01_DHS/page_0277/pdf_0277_band_y2_bot.png",
+      "bbox_xyxy": [
+        1580,
+        650,
+        1880,
+        920
+      ],
+      "reason": "生核行右栏为 lan hun，前词上反斜画，后词上横画，末尾 n 的连笔可见；与重读 làn hūn 相符。"
+    },
+    {
+      "page": 280,
+      "index_1based": 15,
+      "candidate": "Tȳ",
+      "result": "UNKNOWN",
+      "image": "literature/tiles/01_DHS/page_0280/pdf_0280_band_y2_bot.png",
+      "bbox_xyxy": [
+        1610,
+        60,
+        1810,
+        200
+      ],
+      "reason": "该行右栏为 T 起笔，后部有下行闭环笔画及横画，T 右端还有点状墨迹；不能排除 i 与 g 连写，故不能确认候选 Tȳ。"
+    }
+  ]
+}
