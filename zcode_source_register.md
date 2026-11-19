@@ -43,5 +43,19 @@
 3. 每条引用入库时记：来源名 + 版本/印页 + URL/路径 + 访问日期；释义刷新回执带引用字段。
 4. 每批 S0 步骤按需深挖本册入口；新来源先核可访问性再入库本册。
 
+## 六、独立把门专用（2026-11-19 增设）
+
+| 资源 | 位置 | 纪律 |
+| --- | --- | --- |
+| 甘为霖《厦门音新字典》本地库 | `_external_refs/campbell_amoy/main.csv`（[TongUanLab/CampbellAmoyDict](https://github.com/TongUanLab/CampbellAmoyDict) 深克隆，MIT 许可，24,387 条：白话字/汉字/文读/台罗/页码） | **未提交仓库**（本地参照）；检索工具 `literature/tools/campbell_lookup.py`；页码按 1961 年第 8 版/2006 年第 19 版 8 刷，**非 1913 原版页码**；台罗/白话字风格经库方校订，引用时注明「甘字典（TongUanLab 校订版）」 |
+| 《汇集雅俗通十五音》漳州版数位库 | [thothit/ngeesiokthong](https://github.com/thothit/ngeesiokthong)（整理方注明：现只出文读音、系多源参校，可能与原书有出入） | **备用**；正式判定等用户供料原件；⚠️ 同名潮州版（1915《十五音全本》/《击木知音》，潮汕音系）严禁混入 |
+
+## 七、待用户供料
+
+- 《汇音妙悟》（泉州/南安腔，黄谦 1800）：网络扫描未获可靠入口（[台湾学研究中心介绍](https://wwwacc.ntl.edu.tw/ct.asp?xItem=4012&ctNode=762&mp=5)、[维基条目](https://zh.wikipedia.org/zh-hans/%E5%BD%99%E9%9F%B3%E5%A6%99%E6%82%9F)仅背景）；等用户供料。
+- 《汇集雅俗通十五音》漳州版（谢秀岚 1818；增注红字版 1869 颜锦华）：等用户供料后接入把门。
+- MacGowan《厦英辞典》1883（带汉字对照，补 Douglas 无汉字之短）：[archive.org Cornell 扫描](https://archive.org/details/cu31924023550878)已核实，用时下载。
+
 ## 变更记录
 - 2026-11-19：建档；甘/Douglas/Medhurst/Sangley 辞书四处入口经 WebSearch 核实。
+- 2026-11-19（二）：增设独立把门专用区——甘字典本地库（TongUanLab 校订版，MIT）+ 检索工具；收录 MacGowan 1883、漳州版十五音数位库（备用）；《汇音妙悟》《十五音》漳州版原件待用户供料；潮州同名版警示入库。台日大辞典经 [ChhoeTaigi](https://github.com/ChhoeTaigi/ChhoeTaigi)（47 库）可查，用时取用。
