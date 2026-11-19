@@ -201,6 +201,15 @@ for pg in pages:
                 valid = False
                 break
             expected_by_pos[pos][field] = a["new"]
+            # 声调数组同步（2026-11-19 批准口径）：随同一条修复落地的调号改动
+            # 必须在 expected 推演中同步，否则 same_entries 会把新数组误判为漂移。
+            tnew = a.get("tone_marks_new")
+            if tnew is not None:
+                tfld = "tone_marks_" + str(field)[-1]
+                if tfld not in FIELDS or (expected_by_pos[pos].get(tfld) or []) != (a.get("tone_marks_old") or []):
+                    valid = False
+                    break
+                expected_by_pos[pos][tfld] = tnew
         if not valid or not same_entries(expected, raw_pages[0].get("entries") or []):
             defer_unexpected.append(pg)
             print("[seal] p%s 延迟：raw 与现封存及批次 old/new 不一致" % pk)

@@ -26,9 +26,9 @@ def item(pos=1, field="M", v1="ba", rr="ca"):
     return {"position": pos, "field": field, "kind": "letter", "v1": v1, "rr": rr}
 
 
-def verdict(it, ink="la", vd="两皆误", pos=None, rr=None):
+def verdict(it, ink="la", vd="两皆误", pos=None, rr=None, **extra):
     return {"position": it["position"] if pos is None else pos, "field": it["field"],
-            "v1": it["v1"], "rr": it["rr"] if rr is None else rr, "verdict": vd, "ink": ink}
+            "v1": it["v1"], "rr": it["rr"] if rr is None else rr, "verdict": vd, "ink": ink, **extra}
 
 
 def setup(root, pg, items, verdicts, entries, raw=None):
@@ -64,14 +64,15 @@ def batch_test(root):
     queues = []
     i, i2 = item(), item(2, "R", "ra", "sa")
     entries = [entry(), entry(2, m="bi")]
-    queues.append(setup(root, 50, [i, i2], [verdict(i), verdict(i2, None, "重读对")],
+    queues.append(setup(root, 50, [i, i2], [verdict(i, tone_marks_unchanged=True),
+                                            verdict(i2, None, "重读对", tone_marks_unchanged=True)],
                         entries, copy.deepcopy(entries)))
     i = item()
     queues.append(setup(root, 51, [i], [verdict(i)], [entry()], [entry(m="unsaved")]))
     entries = [entry(tones=["bad-tone"])]
     queues.append(setup(root, 52, [i], [verdict(i)], entries, copy.deepcopy(entries)))
     i = item(field="source_M")
-    queues.append(setup(root, 53, [i], [verdict(i, pos=9)], [entry()], [entry()]))
+    queues.append(setup(root, 53, [i], [verdict(i, pos=9, tone_marks_unchanged=True)], [entry()], [entry()]))
     a, b = item(rr="ca"), item(field="source_M", rr="da")
     queues.append(setup(root, 54, [a, b], [verdict(a), verdict(b, ink="ma")], [entry()], [entry()]))
     i = item(field="L", v1="L")
@@ -81,7 +82,7 @@ def batch_test(root):
     queues.append(setup(root, 57, [i], [verdict(i)], [entry(m="bá")], [entry(m="bá")]))
     queues.append(setup(root, 58, [i], [verdict(i, rr="wrong")], [entry()], [entry()]))
     i = item(field="source_R", v1="ra", rr="sa")
-    queues.append(setup(root, 59, [i], [verdict(i, None, "重读对")], [entry()], [entry()]))
+    queues.append(setup(root, 59, [i], [verdict(i, None, "重读对", tone_marks_unchanged=True)], [entry()], [entry()]))
 
     m = root / "literature/workspace_m2_dhs834"
     outside = m / "raw_blind/raw_part_p0060.json"
@@ -232,7 +233,8 @@ def sanitizer_guard_test(root):
         it = item()
         entries = [entry()]
         entries[0]["source_H"] = h
-        queues.append(setup(root, pg, [it], [verdict(it, ink=ink)], entries, copy.deepcopy(entries)))
+        queues.append(setup(root, pg, [it], [verdict(it, ink=ink, tone_marks_unchanged=True)],
+                            entries, copy.deepcopy(entries)))
     a, b = item(rr="ca"), item(field="source_M", rr="da")
     entries = [entry()]
     queues.append(setup(root, 115, [a, b], [verdict(a, ink="kiap"), verdict(b, ink="kiap")],
@@ -254,7 +256,7 @@ def duplicate_merge_test(root):
     queues = []
     for pg in range(70, 82):
         a, b = item(rr="ca"), item(field="source_M", rr="da")
-        va, vb = verdict(a), verdict(b)
+        va, vb = verdict(a, tone_marks_unchanged=True), verdict(b, tone_marks_unchanged=True)
         entries = [entry()]
         if pg == 71:
             vb["ink"] = "ma"
@@ -325,6 +327,8 @@ def token_repair_test(root):
     for pg, (old, v1, ink) in cases.items():
         i = item(v1=v1)
         v = verdict(i, ink=ink)
+        if pg in (90, 91, 100, 104):
+            v["tone_marks_unchanged"] = True
         items, verdicts = [i], [v]
         if pg == 95:
             v["note"] = "跨栏存疑"
@@ -373,9 +377,49 @@ def token_repair_test(root):
         assert any(r["page"] == pg and reason in r["reason"] for r in log["deferred"]), pg
 
 
+def tone_sync_test(root):
+    """声调数组同步口径（2026-11-19 批准）：新数组/不变确认/核查依据三选一，缺一延迟。"""
+    queues = []
+    base = ["T05 (平橫)"]
+    new_arr = ["T03 (尖頂帽)", "T05 (平橫)"]
+    cases = [
+        (117, {"tone_marks_new": new_arr}, True, "confirmed_new"),
+        (118, {"tone_basis": "甘为霖《厦门音新字典》(1913) 与 Douglas (1873) 均支持该音节拼读（隔离测试用例）"},
+         True, "released_with_basis"),
+        (119, {}, False, None),
+        (120, {"tone_marks_new": ["T07"]}, False, None),
+        (121, {"tone_marks_unchanged": True}, True, "confirmed_unchanged"),
+    ]
+    for pg, extra, *_ in cases:
+        i = item()
+        entries = [entry(tones=base)]
+        queues.append(setup(root, pg, [i], [verdict(i, **extra)], entries, copy.deepcopy(entries)))
+    freeze(root, queues)
+    assert run(root, "collect_adk_verdicts.py").returncode == 0
+    m = root / "literature/workspace_m2_dhs834"
+    result = run(root, "repair_batch_a.py", "--pages", "117,118,119,120,121")
+    assert result.returncode == 0, (result.stdout, result.stderr)
+    log = json.loads(next((m / "collision_mr").glob("REPAIR_BATCH_A_0117_0121_*.json")).read_text(encoding="utf-8"))
+    applied = {r["page"]: r for r in log["applied"]}
+    assert set(applied) == {117, 118, 121}
+    assert applied[117]["tone_check"] == "confirmed_new"
+    assert applied[117]["tone_marks_old"] == base and applied[117]["tone_marks_new"] == new_arr
+    raw117 = json.loads((m / "raw_blind/raw_part_p0117.json").read_text(encoding="utf-8"))
+    assert raw117["pages"][0]["entries"][0]["tone_marks_M"] == new_arr
+    assert applied[118]["tone_check"] == "released_with_basis" and "甘为霖" in applied[118]["tone_basis"]
+    assert "tone_marks_new" not in applied[118]
+    assert applied[121]["tone_check"] == "confirmed_unchanged" and "tone_basis" not in applied[121]
+    raw121 = json.loads((m / "raw_blind/raw_part_p0121.json").read_text(encoding="utf-8"))
+    assert raw121["pages"][0]["entries"][0]["tone_marks_M"] == base
+    for pg, kw in ((119, "处置未记录"), (120, "新数组无效")):
+        assert any(r["page"] == pg and kw in r["reason"] for r in log["deferred"]), pg
+        raw = json.loads((m / "raw_blind" / f"raw_part_p{pg:04}.json").read_text(encoding="utf-8"))
+        assert raw["pages"][0]["entries"][0]["source_M"] == "ba"
+
+
 if __name__ == "__main__":
     for test in (batch_test, threshold_test, frozen_test, outside_frozen_test, soup_test, modifier_deferred_test, sanitizer_guard_test,
-                 duplicate_merge_test, token_repair_test):
+                 duplicate_merge_test, token_repair_test, tone_sync_test):
         with tempfile.TemporaryDirectory() as td:
             test(Path(td))
         print(test.__name__, "PASS")

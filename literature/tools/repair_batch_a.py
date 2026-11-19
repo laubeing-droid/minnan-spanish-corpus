@@ -83,6 +83,27 @@ def nonstandard_tones(entries):
                for f in ("tone_marks_M", "tone_marks_R") for t in (e.get(f) or []))
 
 
+def tone_disposition(v):
+    """判读回执的声调处置声明；返回 (处置码, 新数组, 核查依据, 失败原因)。
+
+    口径（2026-11-19 用户批准，宽松版+置信度门槛）：每条 source_M/source_R
+    修复落地前，回执必须提供三者之一——原图核定的新数组（tone_marks_new）、
+    明确不变确认（tone_marks_unchanged=true）、或联网核查依据（tone_basis，
+    ≥2 个可核查来源一致支持）；三者缺一即延迟待核，不以程序推断放行。
+    """
+    codes = v.get("tone_marks_new")
+    if codes is not None:
+        if not isinstance(codes, list) or not codes or any(t not in ALLOWED for t in codes):
+            return None, None, None, "声调新数组无效（代码不在 T00–T99 允许清单）；待核"
+        return "confirmed_new", codes, None, None
+    if v.get("tone_marks_unchanged") is True:
+        return "confirmed_unchanged", None, None, None
+    basis = v.get("tone_basis")
+    if isinstance(basis, str) and basis.strip():
+        return "released_with_basis", None, basis.strip(), None
+    return None, None, None, "声调处置未记录（原图新数组/不变确认/核查依据三者缺一）；待核"
+
+
 def illegal_initial(ink, field):
     text = unicodedata.normalize("NFD", ink).lower()
     text = "".join(c for c in text if not unicodedata.combining(c))
@@ -380,11 +401,22 @@ def main():
                         deferred.append({**{k: original.get(k) for k in ("page", "position", "field", "v1", "rr", "verdict", "ink")},
                                          "receipt": original.get("receipt"), "reason": "重封净化会改写字面音写；待核"})
                     continue
+            check, new_tones, tone_basis, tone_reason = tone_disposition(v)
+            if check is None:
+                deferred.append({**row, "receipt": source, "reason": tone_reason})
+                continue
+            tone_field = "tone_marks_" + fld[-1]
+            old_tones = sealed_pos[pos].get(tone_field) or []
             raw_pos[pos][fld] = new
+            if new_tones is not None:
+                raw_pos[pos][tone_field] = new_tones
             dirty[pg] = (raw_path, raw)
             applied.append({"page": pg, "position": pos, "field": fld, "old": old, "new": new,
                             "task_field": task_field, "verdict": vd, "ink_source": ink_source, "queue_v1": row["v1"],
                             "queue_rr": row["rr"], "receipt": source, "match": match,
+                            "tone_check": check, "tone_marks_old": old_tones,
+                            **({"tone_marks_new": new_tones} if new_tones is not None else {}),
+                            **({"tone_basis": tone_basis} if tone_basis else {}),
                             **(token_change or {}),
                             **({"merged_receipts": [{k: r.get(k) for k in
                                  ("position", "field", "v1", "rr", "verdict", "ink", "receipt")} for r in group]}
