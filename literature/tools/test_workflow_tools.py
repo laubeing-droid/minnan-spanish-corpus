@@ -52,6 +52,23 @@ def apply_ok_test(root):
     assert rec["verdicts"][1]["tone_marks_unchanged"] is True
 
 
+def apply_empty_tones_test(root):
+    """空调号数组=确认无调号，合法（2026-11-20 校准盲验乙实证放开）。"""
+    base_setup(root)
+    jp = root / "_scratch/j_empty_tones.json"
+    write(jp, {"page": 700, "judgments": {
+        "1": {"verdict": "两皆误", "letters": "两皆误", "tone_mark": "缺失",
+              "ink": "la", "tone_marks_new": []},
+        "2": {"verdict": "重读对", "letters": "rr", "tone_mark": "一致",
+              "tone_basis": "甘字典(1913)页X+八音定訣摘要§7.2"}}})
+    out = root / "_scratch/receipt_empty.json"
+    r = run(root, "apply_verdicts.py", "--page", "700", "--judgments", str(jp), "--out", str(out))
+    assert r.returncode == 0, (r.stdout, r.stderr)
+    rec = json.loads(out.read_text(encoding="utf-8"))
+    assert rec["verdicts"][0]["tone_marks_new"] == []
+    assert "甘字典" in rec["verdicts"][1]["tone_basis"]
+
+
 def apply_reject_test(root):
     base_setup(root)
     cases = [
@@ -65,6 +82,7 @@ def apply_reject_test(root):
         {"1": j(1, tone_marks_new=["T99 (乱写)"]), "2": j(2)},                    # 调码非法
         {"1": j(1, tone_marks_unchanged="yes"), "2": j(2)},                       # unchanged 非 true
         {"1": j(1, tone_basis="  "), "2": j(2)},                                  # basis 空串
+        {"1": j(1, tone_marks_new="T05"), "2": j(2)},                             # 新数组非数组
     ]
     for i, judgments in enumerate(cases):
         jp = root / f"_scratch/j_bad{i}.json"
@@ -161,7 +179,8 @@ def extract_test(root):
 
 
 if __name__ == "__main__":
-    for test in (apply_ok_test, apply_reject_test, pending_letter_test, subset_test, diff_test, extract_test):
+    for test in (apply_ok_test, apply_reject_test, pending_letter_test, subset_test,
+                 apply_empty_tones_test, diff_test, extract_test):
         with tempfile.TemporaryDirectory() as td:
             test(Path(td))
         print(test.__name__, "PASS")

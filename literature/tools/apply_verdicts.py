@@ -40,6 +40,8 @@ def main():
     parser.add_argument("--out", help="回执输出路径（缺省=正式回执位置）")
     parser.add_argument("--allow-subset", action="store_true",
                         help="抽验模式：只校验提供的 queueIndex（不要求覆盖全页），输出亦仅含子集")
+    parser.add_argument("--require-full", action="store_true",
+                        help="显式声明全页覆盖校验（默认行为；供调用方标记模式）")
     args = parser.parse_args()
     pg = int(args.page)
     pk = f"{pg:04d}"
@@ -117,8 +119,13 @@ def main():
         # 声调处置三选一（可缺省；缺省由修复器延迟待核）
         tnew = j.get("tone_marks_new")
         if tnew is not None:
-            if not isinstance(tnew, list) or not tnew or any(t not in ALLOWED for t in tnew):
-                errors.append(f"q{idx}: tone_marks_new 非法（代码须在允许清单且非空）")
+            # 空数组=裁决员经原图确认该条目无调号（封存数据本存在空数组，如 p019 監定），
+            # 合法；非空时逐码校验。2026-11-20 校准盲验乙实证后放开。
+            if not isinstance(tnew, list):
+                errors.append(f"q{idx}: tone_marks_new 须为数组")
+                continue
+            if any(t not in ALLOWED for t in tnew):
+                errors.append(f"q{idx}: tone_marks_new 含允许清单外代码")
                 continue
             v["tone_marks_new"] = tnew
         if j.get("tone_marks_unchanged") is not None:
