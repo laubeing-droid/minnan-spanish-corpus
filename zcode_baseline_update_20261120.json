@@ -1,0 +1,22 @@
+{
+ "protocol": "SWEEP_BASELINE_UPDATE_V1",
+ "date": "2026-11-20",
+ "change": {
+  "hardTotal": [
+   3705,
+   3706
+  ],
+  "音系非法声母": [
+   1729,
+   1730
+  ]
+ },
+ "reason": "p0283 pos19「ca fia .」f 声母落地（initial_confirmed 常设规则首例）",
+ "evidence": [
+  "gold_standard/p0283_裁决表.md R5（用户金标 A=f）",
+  "gold_standard/p0283_丁读者判定.json R5=A 中置信",
+  "盲验甲/丙同判 f",
+  "repair_batch_a initial_confirmed 旁路（bb6f5b8）"
+ ],
+ "baseline_file_sha256_after": "f6acdf7c97e855c5115b9dfc4366bf8dd95c86951828a036d298a7819f86f191"
+}
