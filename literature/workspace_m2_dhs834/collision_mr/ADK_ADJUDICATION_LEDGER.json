@@ -4,15 +4,14 @@
  "queuePages": 1101,
  "queueItems": 26814,
  "stats": {
-  "judged": 5480,
-  "V1对": 1330,
-  "重读对": 167,
-  "两皆误": 3382,
-  "等价": 2,
-  "墨迹不明": 599,
-  "unjudged": 21334,
+  "judged": 5500,
+  "V1对": 1334,
+  "重读对": 170,
+  "两皆误": 3389,
+  "等价": 4,
+  "墨迹不明": 603,
+  "unjudged": 21314,
   "missingPages": [
-   "0283",
    "0284",
    "0285",
    "0286",
@@ -864,11 +863,11 @@
    "1140"
   ],
   "verdictBreakdown": {
-   "两皆误": 3382,
-   "墨迹不明": 599,
-   "V1对": 1330,
-   "重读对": 167,
-   "等价": 2
+   "两皆误": 3389,
+   "墨迹不明": 603,
+   "V1对": 1334,
+   "重读对": 170,
+   "等价": 4
   }
  },
  "rows": [
@@ -108731,6 +108730,495 @@
    },
    "letters": "V1",
    "tone_mark": "一致"
+  },
+  {
+   "page": 283,
+   "position": 1,
+   "field": "source_M",
+   "kind": "fv声母",
+   "v1": "iã vô .",
+   "rr": "",
+   "verdict": "墨迹不明",
+   "ink": null,
+   "note": "墨迹主行为连写 iagtio（带 ^ 记号与上置小字 'un'）；v1 'iã vô' 的分词与 v 声母均不见于墨迹，rr 'iagtio' 合主行字母，惟上置小字归属未定，完整墨迹不可判定，故整条记不明，不提供声调处置以免静默丢失上置字。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 1,
+    "position": 1,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "rr",
+     "tone_mark": "存疑"
+    }
+   },
+   "letters": "rr",
+   "tone_mark": "存疑"
+  },
+  {
+   "page": 283,
+   "position": 8,
+   "field": "source_M",
+   "kind": "fv声母",
+   "v1": "pâg fia .",
+   "rr": "",
+   "verdict": "V1对",
+   "ink": null,
+   "note": "放大4x：第二词首字母为 f 形（横穿笔+降部，与右栏 tēng 的平头 t 判然有别），v1 'fia' 属真实墨迹非误读；'pag' 上有 ^ 形调记（形近T03，未达确认）；另 fia 上方有上置小字，项目字串未录，归属未决，留残核查。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 2,
+    "position": 8,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "V1",
+     "tone_mark": "存疑"
+    }
+   },
+   "letters": "V1",
+   "tone_mark": "存疑"
+  },
+  {
+   "page": 283,
+   "position": 1,
+   "field": "M",
+   "kind": "音系非法声母:v",
+   "v1": "vô",
+   "rr": "",
+   "verdict": "墨迹不明",
+   "ink": null,
+   "note": "同 q1：v1 'vô' 之 v 不见于墨迹，主行合 rr 'iagtio'，上置小字未决整条记不明。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 3,
+    "position": 1,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "rr",
+     "tone_mark": "存疑"
+    }
+   },
+   "letters": "rr",
+   "tone_mark": "存疑"
+  },
+  {
+   "page": 283,
+   "position": 2,
+   "field": "M",
+   "kind": "稀有韵母:-yage(全库1次)",
+   "v1": "yǎge",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "yoge .",
+   "note": "放大4x：墨迹为 yoge（y-o-g-e），v1 第二字母 ǎ 不合（墨迹为圆 o），rr 'yoige' 多出 i；y 上方有粗重 ^ 形墨块/记号（污渍抑或调记未决）。声调处置不明，修复自然延迟待核。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 4,
+    "position": 2,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "两皆误",
+     "tone_mark": "存疑"
+    }
+   },
+   "letters": "两皆误",
+   "tone_mark": "存疑"
+  },
+  {
+   "page": 283,
+   "position": 8,
+   "field": "M",
+   "kind": "音系非法声母:f",
+   "v1": "fia",
+   "rr": "",
+   "verdict": "V1对",
+   "ink": null,
+   "note": "放大4x：v1 'fia' 之 f 为真实墨迹（字形同 q2），字面层忠于墨迹不以现代音系改写；调记与上置小字同 q2 存疑。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 5,
+    "position": 8,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "V1",
+     "tone_mark": "存疑"
+    }
+   },
+   "letters": "V1",
+   "tone_mark": "存疑"
+  },
+  {
+   "page": 283,
+   "position": 1,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "iã vô .",
+   "rr": "iagtio",
+   "verdict": "墨迹不明",
+   "ink": null,
+   "note": "同 q1：主行字母合 rr 'iagtio'，惟墨迹另有上置小字 'un' 与 ^ 记号，两读法均未录，完整墨迹归属未定，整条记不明以阻断会丢失上置字的落盘。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 6,
+    "position": 1,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "rr",
+     "tone_mark": "存疑"
+    }
+   },
+   "letters": "rr",
+   "tone_mark": "存疑"
+  },
+  {
+   "page": 283,
+   "position": 2,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "yǎge .",
+   "rr": "yoige",
+   "verdict": "两皆误",
+   "ink": "yoge .",
+   "note": "同 q4：墨迹 yoge，v1 ǎ 错、rr 多 i，两皆误；调记未决。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 7,
+    "position": 2,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "两皆误",
+     "tone_mark": "存疑"
+    }
+   },
+   "letters": "两皆误",
+   "tone_mark": "存疑"
+  },
+  {
+   "page": 283,
+   "position": 6,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "bûi guêy .",
+   "rr": "Bōu guey",
+   "verdict": "重读对",
+   "ink": null,
+   "note": "放大4x：首词墨迹为 bou（圆 o 带长横，非 ûi），rr 'Bōu guey' 字母合；封存调标首音节记 T03 尖頂帽而墨迹为长横（T05 形），第二音节 y 上另有小勾记号（调记抑或上置鼻符未决）——声调处置不明，修复延迟待核。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 8,
+    "position": 6,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "rr",
+     "tone_mark": "存疑"
+    }
+   },
+   "letters": "rr",
+   "tone_mark": "存疑"
+  },
+  {
+   "page": 283,
+   "position": 6,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "mùn guī",
+   "rr": "mên gūī",
+   "verdict": "V1对",
+   "ink": null,
+   "note": "首词元音为 u（mūn 形），v1 'mùn' 字母合、rr 'mên' 之 e 不合；首音节调记形状（∧/⌄）2x 下未达确认，封存记 T02 降斜存疑；次音节长横合 T05。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 9,
+    "position": 6,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "V1",
+     "tone_mark": "存疑"
+    }
+   },
+   "letters": "V1",
+   "tone_mark": "存疑"
+  },
+  {
+   "page": 283,
+   "position": 7,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "càng guêy .",
+   "rr": "cang gue",
+   "verdict": "重读对",
+   "ink": null,
+   "note": "墨迹为 cang gue（首词 a 上有调记，末尾 y 上有勾形记号）；rr 'cang gue' 字母合而 v1 'guêy' 的 y 未见于主行；记号形状与归属未达确认，声调处置不明，修复延迟待核。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 10,
+    "position": 7,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "rr",
+     "tone_mark": "存疑"
+    }
+   },
+   "letters": "rr",
+   "tone_mark": "存疑"
+  },
+  {
+   "page": 283,
+   "position": 7,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "giàng guī",
+   "rr": "ziang gūī",
+   "verdict": "两皆误",
+   "ink": "giàng guia",
+   "note": "放大3x：首词首字母有降部笔为 g（非 z）；次词墨迹为 guīā 形（g-u-i-a，尾有 a 且带上记号），v1 'guī' 与 rr 'gūī' 均缺尾 a；记号归属（单长横或双记号）未定，声调处置不明，修复延迟待核。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 11,
+    "position": 7,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "两皆误",
+     "tone_mark": "存疑"
+    }
+   },
+   "letters": "两皆误",
+   "tone_mark": "存疑"
+  },
+  {
+   "page": 283,
+   "position": 8,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "pâg fia .",
+   "rr": "pag̃tia",
+   "verdict": "V1对",
+   "ink": null,
+   "note": "放大4x：墨迹 'pag fia'，第二词首字母 f 形确凿，v1 'pâg fia' 字母合、rr 'pag̃tia' 之 t 不合（此手 t 无降部，右栏 tēng 可比）；fia 上方另有上置小字未决，调记存疑。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 12,
+    "position": 8,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "V1",
+     "tone_mark": "存疑"
+    }
+   },
+   "letters": "V1",
+   "tone_mark": "存疑"
+  },
+  {
+   "page": 283,
+   "position": 9,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "pō chō chiàng niên",
+   "rr": "pō chō chiàng mên",
+   "verdict": "两皆误",
+   "ink": "pō chō chiàng miên",
+   "note": "PDF直渲4x：末词为 miên（首字母双拱峰为 m，带点 i，^ 记号于 iên 上），v1 'niên' 之 n 不合、rr 'mên' 缺 i，两皆误；调标四记号中墨迹第3记号为 ^（尖頂帽形），封存记 T02 不合，故调号层记存疑，随修复以新数组同步（第1/2/4记号形状与封存一致）。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 14,
+    "position": 9,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "两皆误",
+     "tone_mark": "存疑",
+     "tone_marks_new": [
+      "T05 (平橫)",
+      "T05 (平橫)",
+      "T03 (尖頂帽)",
+      "T03 (尖頂帽)"
+     ]
+    }
+   },
+   "letters": "两皆误",
+   "tone_mark": "存疑"
+  },
+  {
+   "page": 283,
+   "position": 11,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "chō mên",
+   "rr": "chī mên",
+   "verdict": "两皆误",
+   "ink": "chā mēn",
+   "note": "放大2x：首词元音为开口 a（chā，官话詐 zhà 之形），v1 'chō' 与 rr 'chī' 之元音均不合；长横记号于 a 上合 T05、^ 记号于 ē 上合 T03，与封存调标形状一致，随修复原样保留数组。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 15,
+    "position": 11,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "两皆误",
+     "tone_mark": "一致",
+     "tone_marks_unchanged": true
+    }
+   },
+   "letters": "两皆误",
+   "tone_mark": "一致"
+  },
+  {
+   "page": 283,
+   "position": 15,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "iâg tôc .",
+   "rr": "iag hog",
+   "verdict": "两皆误",
+   "ink": "iag tog .",
+   "note": "放大4x：第2音节首字母有横穿笔为 t（rr 'hog' 之 h 不合，此手 h 如 châ 双柱无横穿），尾字母带圈尾为 g（v1 'tôc' 之 c 开口不合）；两音节上各有一 ^ 调记，形状与封存 T03/T03 一致，随修复保留数组。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 16,
+    "position": 15,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "两皆误",
+     "tone_mark": "一致",
+     "tone_marks_unchanged": true
+    }
+   },
+   "letters": "两皆误",
+   "tone_mark": "一致"
+  },
+  {
+   "page": 283,
+   "position": 15,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "yō zō",
+   "rr": "yō yō",
+   "verdict": "重读对",
+   "ink": null,
+   "note": "第2词首字母与第1词同为 y 形（带降部勾），墨迹为 yō yō；v1 'zō' 之 z 不合；两长横调记与封存 T05/T05 一致，随修复保留数组。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 17,
+    "position": 15,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "rr",
+     "tone_mark": "一致",
+     "tone_marks_unchanged": true
+    }
+   },
+   "letters": "rr",
+   "tone_mark": "一致"
+  },
+  {
+   "page": 283,
+   "position": 19,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "ca tĩ .",
+   "rr": "ca tia",
+   "verdict": "墨迹不明",
+   "ink": null,
+   "note": "放大4x：第2词首字母为 f 形（同 p8/p19 f 证据），v1 'ca tĩ' 与 rr 'ca tia' 之 t 均不合；惟词上方另有小字记号未决（同 p1 情形），整条记不明以阻断落盘。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 18,
+    "position": 19,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "两皆误",
+     "tone_mark": "存疑"
+    }
+   },
+   "letters": "两皆误",
+   "tone_mark": "存疑"
+  },
+  {
+   "page": 283,
+   "position": 19,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "guiĝn tēng",
+   "rr": "guiên tēng",
+   "verdict": "等价",
+   "ink": null,
+   "note": "两读法字母全同（guien teng），仅调符位置异（ĝ/ê）；首音节调记为 ∨/勾形，封存记 T04 凹角未达确认，存疑；次音节长横合 T05。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 19,
+    "position": 19,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "等价",
+     "tone_mark": "存疑"
+    }
+   },
+   "letters": "等价",
+   "tone_mark": "存疑"
+  },
+  {
+   "page": 283,
+   "position": 20,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "chēy chēŷng .",
+   "rr": "chey cheng",
+   "verdict": "等价",
+   "ink": null,
+   "note": "两读法字母全同（chey cheng），仅调符细节异；墨迹三记号（两长横+一勾）与封存 T05/T05/T03 一致；另有后出灰色横线穿过条目（似划线），字面未因之变，留注。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 20,
+    "position": 20,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "等价",
+     "tone_mark": "一致"
+    }
+   },
+   "letters": "等价",
+   "tone_mark": "一致"
+  },
+  {
+   "page": 283,
+   "position": 21,
+   "field": "R",
+   "kind": "两读字母差",
+   "v1": "chêng chīn",
+   "rr": "chēng chīû",
+   "verdict": "两皆误",
+   "ink": "chêng chīū",
+   "note": "放大2x：次词尾字母为 u 形（v1 'chīn' 之 n 不合，rr 字母合），惟 rr 'chīû' 之 ğ形扬符与墨迹长横不合（墨迹为平横，合封存 T05）；首词 ^ 调记合 T03；调符落点（i 或 u）未达确认，不提供声调处置，修复延迟待核。",
+   "receipt": {
+    "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+    "index": 21,
+    "position": 21,
+    "match": "position_and_values",
+    "legacyExempt": false,
+    "metadata": {
+     "letters": "rr",
+     "tone_mark": "存疑"
+    }
+   },
+   "letters": "rr",
+   "tone_mark": "存疑"
   }
  ],
  "pending": [
@@ -145478,6 +145966,34 @@
    "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0282.json",
    "candidateIndexes": [
     15
+   ]
+  },
+  {
+   "page": 283,
+   "queueIndex": 13,
+   "position": 9,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "pag châ tāy n̄y .",
+   "rr": "pagchittngny",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+   "candidateIndexes": [
+    13
+   ]
+  },
+  {
+   "page": 283,
+   "queueIndex": 22,
+   "position": 22,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "sia[g] iâg .",
+   "rr": "siang iag",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+   "candidateIndexes": [
+    22
    ]
   }
  ],
@@ -183851,6 +184367,36 @@
     "tone_mark": "存疑",
     "note": "第15行右栏词为 p、o，o 上有横，横上另有小 c 形字；两候选均遗漏上置 c。 五倍图复核：扑字行右栏 p 下伸，词上横画及横上小 c 清楚；其后的元音被黑墨连成团，o/a 尚不能稳分，不能确认完整候选 pōᶜ。"
    }
+  },
+  {
+   "page": 283,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+   "index": 13,
+   "value": {
+    "position": 9,
+    "field": "M",
+    "v1": "pag châ tāy n̄y .",
+    "rr": "pagchittngny",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "连写分词不明：v1 'tāy' 与 rr 'chittng' 之第3音节均与墨迹不合（墨迹近 tung）；上方另有 4 形记号（或为凹角 T04 调记，封存记 T99）归属未定；整条记不明。"
+   }
+  },
+  {
+   "page": 283,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+   "index": 22,
+   "value": {
+    "position": 22,
+    "field": "M",
+    "v1": "sia[g] iâg .",
+    "rr": "siang iag",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "首词中部有大块墨渍覆盖字母位，渍后可见 ng 形笔画，v1 以 [g] 记不确定字母、rr 读 siang，均无法对渍下字母作完整判定；^ 记号于次词可见，首词调记被渍，整条记不明。"
+   }
   }
  ],
  "receiptSources": [
@@ -186160,6 +186706,15 @@
     "actor": "Codex 子代理",
     "actor_id": "adk_batch05_b",
     "method": "对照 v1/rr 的原图裁决，非独立盲读"
+   }
+  },
+  {
+   "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+   "legacyExempt": false,
+   "metadata": {
+    "page": 283,
+    "arbiter": "zcode-main-20261119",
+    "method": "三栏拼条+定点放大2x-4x（tiles+PDF直渲），行锚经汉字栏核对"
    }
   }
  ],
