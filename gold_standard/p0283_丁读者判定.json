@@ -1,0 +1,88 @@
+{
+ "reader": "antigravity-gemini",
+ "role": "丁读者（第五源，跨模型家族）",
+ "date": "2026-11-20",
+ "method": "Antigravity 原生多模态 read_file 逐图读取（13 图全读，含 uz_ 前缀改名核对）；先笔画描述后判定；任务书=gold_standard/p0283_antigravity_prompt.md",
+ "could_read_images": true,
+ "verdicts": [
+  {
+   "id": "R1",
+   "choice": "B",
+   "confidence": "高",
+   "glyph_note": "g 收笔止于左下，与右侧 t 起笔间无连笔且有明显空白（中间有一道纵向浅褐色纸痕）"
+  },
+  {
+   "id": "R2",
+   "choice": "A",
+   "confidence": "高",
+   "glyph_note": "o 与 g 起笔环之间完全空白，无 i 的短竖笔画（o 右上黑点为声调或墨点）"
+  },
+  {
+   "id": "R3",
+   "choice": "B",
+   "confidence": "高",
+   "glyph_note": "m 后接顶部闭合小环状字母（上冠扬抑符），典型手写 e 环头而非开口碗状 u"
+  },
+  {
+   "id": "R4",
+   "choice": "A",
+   "confidence": "高",
+   "glyph_note": "g-u-i 之后长音横线右端下方清晰可见闭合椭圆肚+右下收笔尾钩的 a"
+  },
+  {
+   "id": "R5",
+   "choice": "A",
+   "confidence": "中",
+   "glyph_note": "顶端右弯弧钩，竖笔过横线后延伸至基线以下较长尖尾；参照 tēng 的 t 顶端平直无右弯钩且横线下极短齐基线即止"
+  },
+  {
+   "id": "R6",
+   "choice": "pag chô fung ny（或 pag chô tung ny）",
+   "confidence": "中",
+   "glyph_note": "pag(a 上短音符)与后段微距；chô(粗扬抑符)的 o 连接带顶钩与横线的长竖字母 f/t，后接 ung（上方横线与数字4）；末段小空档后接带长横线 ny"
+  },
+  {
+   "id": "R7",
+   "choice": "A",
+   "confidence": "中",
+   "glyph_note": "首部完整拱形（n），第二隆起上方正对清晰独立圆点（i），随后连入带扬抑符 e 与词尾单拱 n"
+  },
+  {
+   "id": "R8",
+   "choice": "A",
+   "confidence": "高",
+   "glyph_note": "元音左半椭圆、右侧明显竖直下引收笔并拖小尾，符合 a 结构而非闭合圆团 o"
+  },
+  {
+   "id": "R9",
+   "choice": "A",
+   "confidence": "中",
+   "glyph_note": "末字母顶部扁平折笔后向基线下垂直伸出与首词 g 下伸部等长的长竖尾，非停留在基线上的开口 c"
+  },
+  {
+   "id": "R10",
+   "choice": "A",
+   "confidence": "高",
+   "glyph_note": "起笔水平横画后向右下折转呈「3」字形斜钩（17世纪西语手写 z），与首词 y 的双叉凹槽起笔截然不同"
+  },
+  {
+   "id": "R11",
+   "choice": "B",
+   "confidence": "高",
+   "glyph_note": "ch 与 eng 间仅一道短竖笔（似 i），基线下方除词尾 g 大环外无 y 的斜下伸笔；铅笔线不遮挡基线下方"
+  },
+  {
+   "id": "R12",
+   "choice": "B",
+   "confidence": "高",
+   "glyph_note": "两尖峰夹底部圆润连通的凹谷，顶部开口底部碗形，典型 u"
+  },
+  {
+   "id": "R13",
+   "choice": "B",
+   "confidence": "高",
+   "glyph_note": "首词左侧 si、右侧 ng 可见，中间元音位置被浓重墨渍完全覆盖并向下晕染，仅凭本图无法辨认渍下字母"
+  }
+ ],
+ "notes": "目录中 R4/R5/R7/R9 四图实际文件名前缀为 uz_（任务书笔误），已定位读取"
+}
