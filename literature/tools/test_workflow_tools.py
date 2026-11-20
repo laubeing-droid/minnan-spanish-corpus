@@ -106,7 +106,7 @@ def diff_test(root):
     r = run(root, "calibration_diff.py", "--files", str(fa), str(fb), "--labels", "甲", "乙")
     assert r.returncode == 1, (r.stdout, r.stderr)
     payload = json.loads(r.stdout.splitlines()[0])
-    assert payload["total"] == 2 and payload["disagree"] == 1
+    assert payload["compared"] == 2 and payload["disagree"] == 1
     assert payload["disagreements"][0]["position"] == 2
     # 全一致路径
     r = run(root, "calibration_diff.py", "--files", str(fa), str(fa))

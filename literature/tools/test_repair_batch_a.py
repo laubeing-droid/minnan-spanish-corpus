@@ -417,9 +417,34 @@ def tone_sync_test(root):
         assert raw["pages"][0]["entries"][0]["source_M"] == "ba"
 
 
+def defer_ids_test(root):
+    """--defer-ids：指定候选延迟不落地；缺省时行为不变。"""
+    i = item()
+    q = setup(root, 122, [i], [verdict(i, tone_marks_unchanged=True)], [entry()], [entry()])
+    freeze(root, [q])
+    assert run(root, "collect_adk_verdicts.py").returncode == 0
+    m = root / "literature/workspace_m2_dhs834"
+    raw = m / "raw_blind/raw_part_p0122.json"
+    before = raw.read_bytes()
+    # 缺省：照常落地
+    r = run(root, "repair_batch_a.py", "--pages", "122")
+    assert r.returncode == 0 and r.stdout.count("应用 1"), (r.stdout, r.stderr)
+    log = json.loads(next((m / "collision_mr").glob("REPAIR_BATCH_A_0122_0122_*.json")).read_text(encoding="utf-8"))
+    assert len(log["applied"]) == 1
+    # 还原 raw 后再跑：带 --defer-ids 则该候选延迟
+    raw.write_bytes(before)
+    for old in (m / "collision_mr").glob("REPAIR_BATCH_A_0122_0122_*.json"):
+        old.unlink()
+    r = run(root, "repair_batch_a.py", "--pages", "122", "--defer-ids", "122:1:R,122:1:source_M")
+    assert r.returncode == 0, (r.stdout, r.stderr)
+    log = json.loads(next((m / "collision_mr").glob("REPAIR_BATCH_A_0122_0122_*.json")).read_text(encoding="utf-8"))
+    assert log["appliedCount"] == 0 and raw.read_bytes() == before
+    assert any("终审延迟" in d["reason"] for d in log["deferred"])
+
+
 if __name__ == "__main__":
     for test in (batch_test, threshold_test, frozen_test, outside_frozen_test, soup_test, modifier_deferred_test, sanitizer_guard_test,
-                 duplicate_merge_test, token_repair_test, tone_sync_test):
+                 duplicate_merge_test, token_repair_test, tone_sync_test, defer_ids_test):
         with tempfile.TemporaryDirectory() as td:
             test(Path(td))
         print(test.__name__, "PASS")

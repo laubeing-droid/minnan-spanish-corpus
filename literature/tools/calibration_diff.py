@@ -49,9 +49,11 @@ def main():
             print(f"[diff] FAIL 读取 {f}: {exc}")
             return 2
 
-    all_keys = set()
-    for s in sources:
-        all_keys |= set(s.keys())
+    # 交集语义：抽验/子集对比时只比各文件共有的 identity；覆盖率如实报告
+    all_keys = set(sources[0].keys())
+    per_file_keys = [set(s.keys()) for s in sources]
+    for s in sources[1:]:
+        all_keys &= set(s.keys())
     # identity 键含 v1/rr 字符串，可能含组合字符——排序仅作稳定输出
     items = []
     disagreements = 0
@@ -82,7 +84,9 @@ def main():
                       "ink_variants": sorted(inks) if not ink_uniform else []})
     total = len(items)
     print(json.dumps({"files": args.files, "labels": labels,
-                      "total": total, "agree": total - disagreements,
+                      "compared": total,
+                      "coverage": [len(k) for k in per_file_keys],
+                      "agree": total - disagreements,
                       "disagree": disagreements,
                       "disagreements": [it for it in items if not it["agree"]]},
                      ensure_ascii=False))

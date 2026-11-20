@@ -143,6 +143,9 @@ def token_offset(text, token):
 def main():
     parser = argparse.ArgumentParser(description="按冻结判决分批生成 raw；不直接修改封存件")
     parser.add_argument("--pages", required=True, help="逗号分隔 PDF 页码，最多 20 页")
+    parser.add_argument("--defer-ids", default="",
+                        help="终审延迟清单：逗号分隔 页:position:字段(M/R/source_M/source_R)；"
+                             "命中候选不落地、不参与合并，逐条入 deferred（默认空=行为不变）")
     args = parser.parse_args()
     try:
         pages = sorted({int(x.strip()) for x in args.pages.split(",")})
@@ -150,6 +153,21 @@ def main():
         parser.error("--pages 必须是逗号分隔的整数")
     if not pages or len(pages) > 20 or any(p < 30 or p > 1140 for p in pages):
         parser.error("--pages 需为 0030–1140 内最多 20 页")
+    defer_set = set()
+    for token in args.defer_ids.split(","):
+        token = token.strip()
+        if not token:
+            continue
+        parts = token.split(":")
+        if len(parts) != 3:
+            parser.error(f"--defer-ids 项格式须为 页:position:字段：{token}")
+        try:
+            defer_set.add((int(parts[0]), int(parts[1]), FIELD_MAP.get(parts[2], parts[2])))
+        except ValueError:
+            parser.error(f"--defer-ids 页/position 须为整数：{token}")
+    bad_fields = {f for (_, _, f) in defer_set if f not in ("source_M", "source_R")}
+    if bad_fields:
+        parser.error(f"--defer-ids 字段须为 M/R/source_M/source_R：{sorted(bad_fields)}")
 
     frozen = json.loads(FREEZE.read_text(encoding="utf-8"))
     manifests = verify_frozen(frozen)
@@ -265,6 +283,8 @@ def main():
         if pg not in range(30, 41) and raw_matches and not tone_problem and all(k is not None for k in item_keys):
             for target, group in groups.items():
                 pos, fld = target
+                if (pg, pos, fld) in defer_set:
+                    continue  # 终审延迟：不参与合并
                 if (len(group) < 2 or item_targets[target] != len(group) or
                         pos not in sealed_pos or pos not in raw_pos or fld not in ("source_M", "source_R") or
                         fld not in sealed_pos[pos] or fld not in raw_pos[pos]):
@@ -304,6 +324,9 @@ def main():
             key, source, v, match = matched
             pos, task_field, vd = key[0], key[1], v.get("verdict")
             fld = FIELD_MAP.get(task_field)
+            if fld is not None and vd in ("两皆误", "重读对") and (pg, pos, fld) in defer_set:
+                deferred.append({**row, "reason": "终审延迟（工作流终审未批准该候选）"})
+                continue
             if fld is None:
                 deferred.append({**row, "reason": "字段非 source_M/source_R"})
                 continue
