@@ -38,6 +38,8 @@ def main():
     parser.add_argument("--page", required=True, help="PDF 页码")
     parser.add_argument("--judgments", required=True, help="裁决员判定 JSON 路径")
     parser.add_argument("--out", help="回执输出路径（缺省=正式回执位置）")
+    parser.add_argument("--allow-subset", action="store_true",
+                        help="抽验模式：只校验提供的 queueIndex（不要求覆盖全页），输出亦仅含子集")
     args = parser.parse_args()
     pg = int(args.page)
     pk = f"{pg:04d}"
@@ -62,8 +64,12 @@ def main():
     errors = []
     expected = {str(i) for i in range(1, len(items) + 1)}
     got = set(judgments.keys())
-    if got != expected:
+    unknown = got - expected
+    if unknown:
+        errors.append(f"queueIndex 超出队列：{sorted(unknown)[:10]}")
+    if not args.allow_subset and got != expected:
         errors.append(f"queueIndex 覆盖不符：缺 {sorted(expected - got)[:10]} 多 {sorted(got - expected)[:10]}")
+    got = got & expected
 
     verdicts = []
     for idx, item in enumerate(items, 1):

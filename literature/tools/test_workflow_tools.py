@@ -89,6 +89,30 @@ def pending_letter_test(root):
     assert rec["verdicts"][0]["letters"] == "待核"
 
 
+def subset_test(root):
+    """--allow-subset：抽验子集合法；超出队列仍拒绝；缺旗时子集仍拒绝。"""
+    base_setup(root)
+    jp = root / "_scratch/j_subset.json"
+    write(jp, {"page": 700, "judgments": {
+        "1": {"verdict": "两皆误", "letters": "两皆误", "tone_mark": "存疑", "ink": "la"}}})
+    out = root / "_scratch/receipt_subset.json"
+    r = run(root, "apply_verdicts.py", "--page", "700", "--judgments", str(jp),
+            "--out", str(out), "--allow-subset")
+    assert r.returncode == 0, (r.stdout, r.stderr)
+    rec = json.loads(out.read_text(encoding="utf-8"))
+    assert len(rec["verdicts"]) == 1
+    # 缺旗：子集拒绝
+    r = run(root, "apply_verdicts.py", "--page", "700", "--judgments", str(jp), "--out", str(out))
+    assert r.returncode != 0
+    # 超出队列：即使 allow-subset 也拒绝
+    jp2 = root / "_scratch/j_over.json"
+    write(jp2, {"page": 700, "judgments": {"9": {"verdict": "两皆误", "letters": "两皆误",
+                                                 "tone_mark": "存疑", "ink": "la"}}})
+    r = run(root, "apply_verdicts.py", "--page", "700", "--judgments", str(jp2),
+            "--out", str(out), "--allow-subset")
+    assert r.returncode != 0
+
+
 def diff_test(root):
     a = {"verdicts": [
         {"position": 1, "field": "M", "v1": "ba", "rr": "ca", "verdict": "两皆误",
@@ -137,7 +161,7 @@ def extract_test(root):
 
 
 if __name__ == "__main__":
-    for test in (apply_ok_test, apply_reject_test, pending_letter_test, diff_test, extract_test):
+    for test in (apply_ok_test, apply_reject_test, pending_letter_test, subset_test, diff_test, extract_test):
         with tempfile.TemporaryDirectory() as td:
             test(Path(td))
         print(test.__name__, "PASS")
