@@ -128,6 +128,11 @@ def main():
                 errors.append(f"q{idx}: tone_marks_new 含允许清单外代码")
                 continue
             v["tone_marks_new"] = tnew
+        if j.get("initial_confirmed") is not None:
+            if j["initial_confirmed"] is not True:
+                errors.append(f"q{idx}: initial_confirmed 只接受 true（须金标/跨模型/放大复核背书）")
+                continue
+            v["initial_confirmed"] = True
         if j.get("tone_marks_unchanged") is not None:
             if j["tone_marks_unchanged"] is not True:
                 errors.append(f"q{idx}: tone_marks_unchanged 只接受 true")

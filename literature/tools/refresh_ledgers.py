@@ -53,6 +53,8 @@ def main():
                 continue
             if key == "adjudication" and source["path"].endswith("ADK_ADJUDICATION_LEDGER.json"):
                 source["_new_sha256"] = current  # 待刷新
+            elif source["path"].endswith("BLIND_READ_MANIFEST.json"):
+                source["_new_sha256"] = current  # 每次封存合法变化，待刷新
             else:
                 print(f"[refresh] FAIL 来源钉不匹配且非预期变化文件：{name}.sources.{key} "
                       f"({source['path']})")

@@ -407,7 +407,7 @@ def main():
                 token_change = {"old_token": row["v1"], "new_token": ink, "offset": offset,
                                 "offset_unit": "unicode_codepoint",
                                 "byte_offset": len(old[:offset].encode("utf-8"))}
-            if illegal_initial(ink, fld):
+            if illegal_initial(ink, fld) and not v.get("initial_confirmed"):
                 for r in (group or [collected]):
                     illegal_by_page[pg] += 1
                     deferred.append({**{k: r.get(k) for k in ("page", "position", "field", "v1", "rr", "verdict", "ink")},
@@ -438,6 +438,7 @@ def main():
                             "task_field": task_field, "verdict": vd, "ink_source": ink_source, "queue_v1": row["v1"],
                             "queue_rr": row["rr"], "receipt": source, "match": match,
                             "tone_check": check, "tone_marks_old": old_tones,
+                            **({"initial_confirmed": True} if v.get("initial_confirmed") is True else {}),
                             **({"tone_marks_new": new_tones} if new_tones is not None else {}),
                             **({"tone_basis": tone_basis} if tone_basis else {}),
                             **(token_change or {}),

@@ -107,6 +107,29 @@ def pending_letter_test(root):
     assert rec["verdicts"][0]["letters"] == "待核"
 
 
+def initial_confirmed_test(root):
+    """initial_confirmed 透传（供 repair 音系门禁旁路）；非法值拒绝。"""
+    base_setup(root)
+    jp = root / "_scratch/j_ic.json"
+    write(jp, {"page": 700, "judgments": {
+        "1": {"verdict": "两皆误", "letters": "两皆误", "tone_mark": "缺失",
+              "ink": "fa", "tone_marks_new": [], "initial_confirmed": True},
+        "2": {"verdict": "重读对", "letters": "rr", "tone_mark": "一致",
+              "tone_marks_unchanged": True}}})
+    out = root / "_scratch/receipt_ic.json"
+    r = run(root, "apply_verdicts.py", "--page", "700", "--judgments", str(jp), "--out", str(out))
+    assert r.returncode == 0, (r.stdout, r.stderr)
+    rec = json.loads(out.read_text(encoding="utf-8"))
+    assert rec["verdicts"][0]["initial_confirmed"] is True
+    jp2 = root / "_scratch/j_ic_bad.json"
+    write(jp2, {"page": 700, "judgments": {
+        "1": {"verdict": "两皆误", "letters": "两皆误", "tone_mark": "存疑",
+              "ink": "fa", "initial_confirmed": "yes"},
+        "2": {"verdict": "重读对", "letters": "rr", "tone_mark": "一致"}}})
+    r = run(root, "apply_verdicts.py", "--page", "700", "--judgments", str(jp2), "--out", str(out))
+    assert r.returncode != 0
+
+
 def subset_test(root):
     """--allow-subset：抽验子集合法；超出队列仍拒绝；缺旗时子集仍拒绝。"""
     base_setup(root)
@@ -179,7 +202,7 @@ def extract_test(root):
 
 
 if __name__ == "__main__":
-    for test in (apply_ok_test, apply_reject_test, pending_letter_test, subset_test,
+    for test in (apply_ok_test, apply_reject_test, pending_letter_test, initial_confirmed_test, subset_test,
                  apply_empty_tones_test, diff_test, extract_test):
         with tempfile.TemporaryDirectory() as td:
             test(Path(td))
