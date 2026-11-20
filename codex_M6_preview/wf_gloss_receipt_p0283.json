@@ -1,0 +1,66 @@
+{
+  "page": 283,
+  "date": "2026-11-20",
+  "task": "p0283 三条字面修复落地后的主释义刷新核对（old/new + 更新理由 + 来源留痕）",
+  "inputs": {
+    "blind_read_sealed": "literature/workspace_m2_dhs834/blind_read_p0283.json",
+    "gloss_file": "literature/workspace_m2_dhs834/gloss_layer/gloss_p0283.json",
+    "gold_standard": "gold_standard/p0283_金标判定.json",
+    "reader_D": "gold_standard/p0283_丁读者判定.json",
+    "adjudication_table": "gold_standard/p0283_裁决表.md",
+    "image_evidence": [
+      "_scratch_zcode_strips/deep_p0283_M_r7.png",
+      "_scratch_zcode_strips/uz_p0283_p15_tog.png",
+      "_scratch_zcode_strips/deep_p0283_M_r22.png"
+    ]
+  },
+  "literal_fixes_checked": [
+    {
+      "position": 7,
+      "hanzi": "講 價",
+      "old": "càng guêy .",
+      "new": "cang gue",
+      "authority": "五源收敛（任务书口径：字母层收敛）；封存 blind read source_M 已为 cang gue，并对图核实（deep_p0283_M_r7.png，清晰可读 cang gue）。另注：本条 R 栏另有金标 R4 裁定（详见 flags）。",
+      "gloss_action": "不更新",
+      "reason": "现释义「讲价；议定价钱、商定价钱」/ to bargain over the price 依据汉字「講價」与西语栏 concertarse en el precio，不依赖 M 栏具体拼写；notes 为空，未引用旧读法，与新字面无矛盾。"
+    },
+    {
+      "position": 15,
+      "hanzi": "約 束",
+      "old": "iâg tôc .",
+      "new": "iag tog .",
+      "authority": "金标 R9（choice A：次词末字母为 g（tog），基线读法确认；丁读者 R9=A、置信中，glyph_note 谓末字母有基线下长竖尾非开口 c）",
+      "gloss_action": "不更新",
+      "reason": "现释义「约束；受约制、循约而行」/ to be bound by agreement 依据汉字「約束」，notes 为空，不引用旧读法；末字母 c→g 只改音值细节（tog→tok），不影响词义。"
+    },
+    {
+      "position": 22,
+      "hanzi": "相 約",
+      "old": "sia[g] iâg .",
+      "new": "siang iâg .",
+      "authority": "金标 R13（choice A：采信同页互证读 siang，推定读法标注入库；丁读者 R13=B、置信高——渍下字母凭本图不可辨，与金标采信互证的口径相容）",
+      "gloss_action": "更新 notes 与 confidence（zh/en 不变）",
+      "old_gloss": {
+        "zh": "相约；互相邀约、约在某处会面",
+        "en": "to make an appointment with one another; to arrange to meet",
+        "confidence": "low",
+        "notes": "闽南栏首字作「sia[g]」且调符 T99 污损难辨；释义据汉字「相约」与官话对音 siǎng yō。"
+      },
+      "new_gloss": {
+        "zh": "相约；互相邀约、约在某处会面",
+        "en": "to make an appointment with one another; to arrange to meet",
+        "confidence": "medium",
+        "notes": "闽南栏首词字母层经金标 R13 采信同页互证判读为「siang」（与同页第12行「相處 siang chù」同字互证、右栏同行 siǎng 旁证；系推定读法，非直接目读），首音节调符仍污损（T99）、声调未决；释义据汉字「相约」及西语栏 concertarse en qualguier casa，词义不因字面修复改变。"
+      },
+      "reason": "原 notes 明文引用旧字面「sia[g]」并将首词判为不可辨，与新封存字面「siang iâg .」直接矛盾，必须改写。首词字母层既经金标采信同页互证落定（证据：同页 pos12 相處 siang chù、pos22 右栏 siǎng），原先压低 confidence 的主因消除，low 升 medium；但该读法系推定（非直接目读）且首音节调符仍为 T99 污损、声调未决，故不升 high。zh/en 释义依据汉字「相约」与西语栏，与拼写无关，保持不变。"
+    }
+  ],
+  "summary": {
+    "updated": 1,
+    "positions_changed": [22],
+    "positions_unchanged": [7, 15],
+    "gloss_file_json_valid": true,
+    "zh_en_nonempty_all_entries": true
+  },
+  "flags": "①pos7 同条 R 栏（官话栏）金标 R4 裁定次词有尾 a（giàng guia），但最新封存 blind read source_R 仍作「giàng guī」，R 栏字面修复尚未落地——不影响本页释义（释义不依赖 R 栏拼写），建议主会话在字面层跟进。②任务书所述 pos7「五源收敛：字母层 bou gue」在封存 blind read、金标判定、丁读者判定及各队列文件中均检索不到 bou gue 字样（疑为笔误）；封存值 cang gue 已对图独立核实无误。"
+}

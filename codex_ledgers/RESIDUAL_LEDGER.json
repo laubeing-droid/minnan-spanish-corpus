@@ -1,13 +1,13 @@
 {
  "status": "IN_PROGRESS",
- "snapshot_utc": "2026-11-20T03:50:56.944924+00:00",
- "git_head_at_snapshot": "086d9f3e7fb4d69f6a6a78d6a059189ecaa4c526",
+ "snapshot_utc": "2026-11-20T14:55:41.956409+00:00",
+ "git_head_at_snapshot": "b2924699caa6c5ee061eea65632b821ba37f3f9b",
  "protocol": "CODEX_RESIDUAL_LEDGER_IN_PROGRESS_V1",
  "scope": "交接时点尚待处理的裁决、校准、复核、互证与释义事项；跨模块计数可重叠，不得简单相加。",
  "sources": {
   "adjudication": {
    "path": "literature/workspace_m2_dhs834/collision_mr/ADK_ADJUDICATION_LEDGER.json",
-   "sha256": "9d897880bf8f627949e5a99096a66c046b41059bebeee711847b6a5b68eb6158"
+   "sha256": "cf4bbd1fcda93c18e3c520a318133f2f0326df60aa3ab39afc625e831dbe09fb"
   },
   "queue_freeze": {
    "path": "codex_M1_adk_queue_freeze.json",
@@ -43,7 +43,7 @@
   },
   "manifest": {
    "path": "literature/workspace_m2_dhs834/BLIND_READ_MANIFEST.json",
-   "sha256": "d7b1d9c9a9e3b4fc7bbff807a1c198d4063e5884187908b357d9bda29b642d80"
+   "sha256": "ca52e50eb07742b74fbe56379bb0f3e42ad89e3e0de7c9fa9eec4d7998de3e14"
   },
   "pipeline_audit": {
    "path": "codex_pipeline_literal_audit.md",
@@ -403,8 +403,8 @@
  "m1": {
   "queue_pages": 1101,
   "queue_items": 26814,
-  "uniquely_matched_judged": 5500,
-  "unjudged_total": 21314,
+  "uniquely_matched_judged": 5501,
+  "unjudged_total": 21313,
   "missing_verdict_pages_count": 849,
   "missing_verdict_pages": [
    "0284",
@@ -1257,7 +1257,7 @@
    "1139",
    "1140"
   ],
-  "ambiguous_pending_count": 2530,
+  "ambiguous_pending_count": 2529,
   "ambiguous_pending_items": [
    {
     "page": 32,
@@ -38018,20 +38018,6 @@
     "candidateIndexes": [
      13
     ]
-   },
-   {
-    "page": 283,
-    "queueIndex": 22,
-    "position": 22,
-    "field": "M",
-    "kind": "两读字母差",
-    "v1": "sia[g] iâg .",
-    "rr": "siang iag",
-    "reason": "双判级缺失或无效",
-    "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
-    "candidateIndexes": [
-     22
-    ]
    }
   ],
   "overlap_warning": "missing pages 和 pending 都属于未判范围；pending 包含重复身份及字母判级待核；matched unclear 属于唯一收集结果。跨模块及本批修复延迟可重叠，不可简单相加。",
@@ -38173,7 +38159,7 @@
   "pilot_items": 731,
   "pilot_unclear_items": 495,
   "pilot_limit": "此前 p0206 试点因分歧暂停；2026-11-19 用户调整顺序，M0 不阻挡逐页施工；具体不明项仍入账。",
-  "matched_unclear_count": 603,
+  "matched_unclear_count": 599,
   "matched_unclear_items": [
    {
     "page": 37,
@@ -51575,102 +51561,6 @@
     },
     "letters": "两皆误",
     "tone_mark": "缺失"
-   },
-   {
-    "page": 283,
-    "position": 1,
-    "field": "source_M",
-    "kind": "fv声母",
-    "v1": "iã vô .",
-    "rr": "",
-    "verdict": "墨迹不明",
-    "ink": null,
-    "note": "墨迹主行为连写 iagtio（带 ^ 记号与上置小字 'un'）；v1 'iã vô' 的分词与 v 声母均不见于墨迹，rr 'iagtio' 合主行字母，惟上置小字归属未定，完整墨迹不可判定，故整条记不明，不提供声调处置以免静默丢失上置字。",
-    "receipt": {
-     "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
-     "index": 1,
-     "position": 1,
-     "match": "position_and_values",
-     "legacyExempt": false,
-     "metadata": {
-      "letters": "rr",
-      "tone_mark": "存疑"
-     }
-    },
-    "letters": "rr",
-    "tone_mark": "存疑"
-   },
-   {
-    "page": 283,
-    "position": 1,
-    "field": "M",
-    "kind": "音系非法声母:v",
-    "v1": "vô",
-    "rr": "",
-    "verdict": "墨迹不明",
-    "ink": null,
-    "note": "同 q1：v1 'vô' 之 v 不见于墨迹，主行合 rr 'iagtio'，上置小字未决整条记不明。",
-    "receipt": {
-     "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
-     "index": 3,
-     "position": 1,
-     "match": "position_and_values",
-     "legacyExempt": false,
-     "metadata": {
-      "letters": "rr",
-      "tone_mark": "存疑"
-     }
-    },
-    "letters": "rr",
-    "tone_mark": "存疑"
-   },
-   {
-    "page": 283,
-    "position": 1,
-    "field": "M",
-    "kind": "两读字母差",
-    "v1": "iã vô .",
-    "rr": "iagtio",
-    "verdict": "墨迹不明",
-    "ink": null,
-    "note": "同 q1：主行字母合 rr 'iagtio'，惟墨迹另有上置小字 'un' 与 ^ 记号，两读法均未录，完整墨迹归属未定，整条记不明以阻断会丢失上置字的落盘。",
-    "receipt": {
-     "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
-     "index": 6,
-     "position": 1,
-     "match": "position_and_values",
-     "legacyExempt": false,
-     "metadata": {
-      "letters": "rr",
-      "tone_mark": "存疑"
-     }
-    },
-    "letters": "rr",
-    "tone_mark": "存疑"
-   },
-   {
-    "page": 283,
-    "position": 19,
-    "field": "M",
-    "kind": "两读字母差",
-    "v1": "ca tĩ .",
-    "rr": "ca tia",
-    "verdict": "墨迹不明",
-    "ink": null,
-    "note": "放大4x：第2词首字母为 f 形（同 p8/p19 f 证据），v1 'ca tĩ' 与 rr 'ca tia' 之 t 均不合；惟词上方另有小字记号未决（同 p1 情形），整条记不明以阻断落盘。",
-    "receipt": {
-     "file": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
-     "index": 18,
-     "position": 19,
-     "match": "position_and_values",
-     "legacyExempt": false,
-     "metadata": {
-      "letters": "两皆误",
-      "tone_mark": "存疑"
-     }
-    },
-    "letters": "两皆误",
-    "tone_mark": "存疑"
    }
   ],
   "late_R_audit": {

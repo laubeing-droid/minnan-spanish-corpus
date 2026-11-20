@@ -1,17 +1,19 @@
 {
  "page": 283,
- "arbiter": "zcode-main-20261119",
- "method": "三栏拼条+定点放大2x-4x（tiles+PDF直渲），行锚经汉字栏核对",
+ "arbiter": "zcode-main+金标+三盲验+丁读者",
+ "method": "三重盲验+跨模型丁读者+用户金标五源终审",
  "verdicts": [
   {
    "position": 1,
    "field": "source_M",
    "v1": "iã vô .",
    "rr": "",
-   "verdict": "墨迹不明",
-   "letters": "rr",
+   "verdict": "两皆误",
+   "letters": "两皆误",
    "tone_mark": "存疑",
-   "note": "墨迹主行为连写 iagtio（带 ^ 记号与上置小字 'un'）；v1 'iã vô' 的分词与 v 声母均不见于墨迹，rr 'iagtio' 合主行字母，惟上置小字归属未定，完整墨迹不可判定，故整条记不明，不提供声调处置以免静默丢失上置字。"
+   "ink": "iag tio .",
+   "note": "反拼+互证（规约四·6-7）：主行分写 iag tio（甲 ink+丁同判）；上置小字 un 注记不落串；封存 T03 单记号与墨迹单 ^ 一致。",
+   "tone_marks_unchanged": true
   },
   {
    "position": 8,
@@ -21,17 +23,19 @@
    "verdict": "V1对",
    "letters": "V1",
    "tone_mark": "存疑",
-   "note": "放大4x：第二词首字母为 f 形（横穿笔+降部，与右栏 tēng 的平头 t 判然有别），v1 'fia' 属真实墨迹非误读；'pag' 上有 ^ 形调记（形近T03，未达确认）；另 fia 上方有上置小字，项目字串未录，归属未决，留残核查。"
+   "note": "f 为真实墨迹（4倍核+丁读者同判）；fia 属实写。"
   },
   {
    "position": 1,
    "field": "M",
    "v1": "vô",
    "rr": "",
-   "verdict": "墨迹不明",
-   "letters": "rr",
+   "verdict": "两皆误",
+   "letters": "两皆误",
    "tone_mark": "存疑",
-   "note": "同 q1：v1 'vô' 之 v 不见于墨迹，主行合 rr 'iagtio'，上置小字未决整条记不明。"
+   "ink": "iag tio .",
+   "note": "反拼+互证（规约四·6-7）：主行分写 iag tio（甲 ink+丁同判）；上置小字 un 注记不落串；封存 T03 单记号与墨迹单 ^ 一致。",
+   "tone_marks_unchanged": true
   },
   {
    "position": 2,
@@ -41,8 +45,8 @@
    "verdict": "两皆误",
    "letters": "两皆误",
    "tone_mark": "存疑",
-   "note": "放大4x：墨迹为 yoge（y-o-g-e），v1 第二字母 ǎ 不合（墨迹为圆 o），rr 'yoige' 多出 i；y 上方有粗重 ^ 形墨块/记号（污渍抑或调记未决）。声调处置不明，修复自然延迟待核。",
-   "ink": "yoge ."
+   "ink": "yoge .",
+   "note": "五源收敛：yoge 无 i（基线+甲+丁）；声调层粗重记号（污渍抑或调记）未决，修复延迟。"
   },
   {
    "position": 8,
@@ -52,17 +56,19 @@
    "verdict": "V1对",
    "letters": "V1",
    "tone_mark": "存疑",
-   "note": "放大4x：v1 'fia' 之 f 为真实墨迹（字形同 q2），字面层忠于墨迹不以现代音系改写；调记与上置小字同 q2 存疑。"
+   "note": "同 q2。"
   },
   {
    "position": 1,
    "field": "M",
    "v1": "iã vô .",
    "rr": "iagtio",
-   "verdict": "墨迹不明",
-   "letters": "rr",
+   "verdict": "两皆误",
+   "letters": "两皆误",
    "tone_mark": "存疑",
-   "note": "同 q1：主行字母合 rr 'iagtio'，惟墨迹另有上置小字 'un' 与 ^ 记号，两读法均未录，完整墨迹归属未定，整条记不明以阻断会丢失上置字的落盘。"
+   "ink": "iag tio .",
+   "note": "反拼+互证（规约四·6-7）：主行分写 iag tio（甲 ink+丁同判）；上置小字 un 注记不落串；封存 T03 单记号与墨迹单 ^ 一致。",
+   "tone_marks_unchanged": true
   },
   {
    "position": 2,
@@ -72,8 +78,8 @@
    "verdict": "两皆误",
    "letters": "两皆误",
    "tone_mark": "存疑",
-   "note": "同 q4：墨迹 yoge，v1 ǎ 错、rr 多 i，两皆误；调记未决。",
-   "ink": "yoge ."
+   "ink": "yoge .",
+   "note": "同 q4。"
   },
   {
    "position": 6,
@@ -83,17 +89,17 @@
    "verdict": "重读对",
    "letters": "rr",
    "tone_mark": "存疑",
-   "note": "放大4x：首词墨迹为 bou（圆 o 带长横，非 ûi），rr 'Bōu guey' 字母合；封存调标首音节记 T03 尖頂帽而墨迹为长横（T05 形），第二音节 y 上另有小勾记号（调记抑或上置鼻符未决）——声调处置不明，修复延迟待核。"
+   "note": "五源收敛：字母层 bou gue（四方一致）；声调层：基线+甲+乙+丙四源均见首音节长横（T05形）vs 封存T03，次音节小勾（调记/上置鼻符）未决——声调处置不全，修复延迟待核。"
   },
   {
    "position": 6,
    "field": "R",
    "v1": "mùn guī",
    "rr": "mên gūī",
-   "verdict": "V1对",
-   "letters": "V1",
+   "verdict": "重读对",
+   "letters": "rr",
    "tone_mark": "存疑",
-   "note": "首词元音为 u（mūn 形），v1 'mùn' 字母合、rr 'mên' 之 e 不合；首音节调记形状（∧/⌄）2x 下未达确认，封存记 T02 降斜存疑；次音节长横合 T05。"
+   "note": "五源收敛：元音 e（甲乙丁+丙）；首音节调记形状未达确认（丙同存疑），声调处置不全，修复延迟待核。"
   },
   {
    "position": 7,
@@ -102,8 +108,9 @@
    "rr": "cang gue",
    "verdict": "重读对",
    "letters": "rr",
-   "tone_mark": "存疑",
-   "note": "墨迹为 cang gue（首词 a 上有调记，末尾 y 上有勾形记号）；rr 'cang gue' 字母合而 v1 'guêy' 的 y 未见于主行；记号形状与归属未达确认，声调处置不明，修复延迟待核。"
+   "tone_mark": "一致",
+   "note": "五源收敛：两长横调记与封存数组一致（甲乙丙独立确认）。",
+   "tone_marks_unchanged": true
   },
   {
    "position": 7,
@@ -113,8 +120,8 @@
    "verdict": "两皆误",
    "letters": "两皆误",
    "tone_mark": "存疑",
-   "note": "放大3x：首词首字母有降部笔为 g（非 z）；次词墨迹为 guīā 形（g-u-i-a，尾有 a 且带上记号），v1 'guī' 与 rr 'gūī' 均缺尾 a；记号归属（单长横或双记号）未定，声调处置不明，修复延迟待核。",
-   "ink": "giàng guia"
+   "ink": "giàng guia",
+   "note": "金标：有尾 a 确认（用户判 R4=A）；声调层次词双长横归属未决，修复延迟待核。"
   },
   {
    "position": 8,
@@ -124,7 +131,7 @@
    "verdict": "V1对",
    "letters": "V1",
    "tone_mark": "存疑",
-   "note": "放大4x：墨迹 'pag fia'，第二词首字母 f 形确凿，v1 'pâg fia' 字母合、rr 'pag̃tia' 之 t 不合（此手 t 无降部，右栏 tēng 可比）；fia 上方另有上置小字未决，调记存疑。"
+   "note": "f 为真实墨迹。"
   },
   {
    "position": 9,
@@ -134,36 +141,27 @@
    "verdict": "墨迹不明",
    "letters": "待核",
    "tone_mark": "存疑",
-   "note": "连写分词不明：v1 'tāy' 与 rr 'chittng' 之第3音节均与墨迹不合（墨迹近 tung）；上方另有 4 形记号（或为凹角 T04 调记，封存记 T99）归属未定；整条记不明。"
+   "note": "金标：约读 pag chou dung ny——v1 tāy 与 rr chittng 均不合；精确替换串各家不一（甲 tng/丁 fung-tung），落待核并留金标读法。"
   },
   {
    "position": 9,
    "field": "R",
    "v1": "pō chō chiàng niên",
    "rr": "pō chō chiàng mên",
-   "verdict": "两皆误",
-   "letters": "两皆误",
+   "verdict": "V1对",
+   "letters": "V1",
    "tone_mark": "存疑",
-   "note": "PDF直渲4x：末词为 miên（首字母双拱峰为 m，带点 i，^ 记号于 iên 上），v1 'niên' 之 n 不合、rr 'mên' 缺 i，两皆误；调标四记号中墨迹第3记号为 ^（尖頂帽形），封存记 T02 不合，故调号层记存疑，随修复以新数组同步（第1/2/4记号形状与封存一致）。",
-   "ink": "pō chō chiàng miên",
-   "tone_marks_new": [
-    "T05 (平橫)",
-    "T05 (平橫)",
-    "T03 (尖頂帽)",
-    "T03 (尖頂帽)"
-   ]
+   "note": "金标/五源收敛：niên 为封存现值正确（甲丙丁）；基线原两皆误修复候选否决。第三调记 T02 vs 墨迹^形差异仍未决，声调线另案。"
   },
   {
    "position": 11,
    "field": "R",
    "v1": "chō mên",
    "rr": "chī mên",
-   "verdict": "两皆误",
-   "letters": "两皆误",
+   "verdict": "V1对",
+   "letters": "V1",
    "tone_mark": "一致",
-   "note": "放大2x：首词元音为开口 a（chā，官话詐 zhà 之形），v1 'chō' 与 rr 'chī' 之元音均不合；长横记号于 a 上合 T05、^ 记号于 ē 上合 T03，与封存调标形状一致，随修复原样保留数组。",
-   "ink": "chā mēn",
-   "tone_marks_unchanged": true
+   "note": "金标：元音 o 确认（用户判 R8=B），封存 chō mên 正确；基线 chā 修复候选否决。"
   },
   {
    "position": 15,
@@ -173,8 +171,8 @@
    "verdict": "两皆误",
    "letters": "两皆误",
    "tone_mark": "一致",
-   "note": "放大4x：第2音节首字母有横穿笔为 t（rr 'hog' 之 h 不合，此手 h 如 châ 双柱无横穿），尾字母带圈尾为 g（v1 'tôc' 之 c 开口不合）；两音节上各有一 ^ 调记，形状与封存 T03/T03 一致，随修复保留数组。",
    "ink": "iag tog .",
+   "note": "金标：末字母 g 确认（用户判 R9=A）；首字母 t 四方一致；两处^调记与封存 T03/T03 一致。",
    "tone_marks_unchanged": true
   },
   {
@@ -182,21 +180,22 @@
    "field": "R",
    "v1": "yō zō",
    "rr": "yō yō",
-   "verdict": "重读对",
-   "letters": "rr",
+   "verdict": "V1对",
+   "letters": "V1",
    "tone_mark": "一致",
-   "note": "第2词首字母与第1词同为 y 形（带降部勾），墨迹为 yō yō；v1 'zō' 之 z 不合；两长横调记与封存 T05/T05 一致，随修复保留数组。",
-   "tone_marks_unchanged": true
+   "note": "金标/五源收敛：z 明确（甲乙丙丁 4:1），封存 yō zō 正确；基线原重读对修复候选否决。"
   },
   {
    "position": 19,
    "field": "M",
    "v1": "ca tĩ .",
    "rr": "ca tia",
-   "verdict": "墨迹不明",
+   "verdict": "两皆误",
    "letters": "两皆误",
    "tone_mark": "存疑",
-   "note": "放大4x：第2词首字母为 f 形（同 p8/p19 f 证据），v1 'ca tĩ' 与 rr 'ca tia' 之 t 均不合；惟词上方另有小字记号未决（同 p1 情形），整条记不明以阻断落盘。"
+   "ink": "ca fia .",
+   "note": "反拼+互证（规约四·6-7）：f 与 p8 同手同形（R5 金标 f 4:1），主行 ca fia 可判；上置小字注记不落串；封存空调号数组与主行一致。",
+   "tone_marks_unchanged": true
   },
   {
    "position": 19,
@@ -206,17 +205,17 @@
    "verdict": "等价",
    "letters": "等价",
    "tone_mark": "存疑",
-   "note": "两读法字母全同（guien teng），仅调符位置异（ĝ/ê）；首音节调记为 ∨/勾形，封存记 T04 凹角未达确认，存疑；次音节长横合 T05。"
+   "note": "纯标签差（基线等价/盲验rr实质同义）；首音节调记形状未达确认。"
   },
   {
    "position": 20,
    "field": "M",
    "v1": "chēy chēŷng .",
    "rr": "chey cheng",
-   "verdict": "等价",
-   "letters": "等价",
-   "tone_mark": "一致",
-   "note": "两读法字母全同（chey cheng），仅调符细节异；墨迹三记号（两长横+一勾）与封存 T05/T05/T03 一致；另有后出灰色横线穿过条目（似划线），字面未因之变，留注。"
+   "verdict": "重读对",
+   "letters": "rr",
+   "tone_mark": "存疑",
+   "note": "金标/五源收敛：次词无 y（甲丙丁）；声调层甲位置差/乙一致/丙存疑不一——保守延迟待核。"
   },
   {
    "position": 21,
@@ -226,18 +225,20 @@
    "verdict": "两皆误",
    "letters": "rr",
    "tone_mark": "存疑",
-   "note": "放大2x：次词尾字母为 u 形（v1 'chīn' 之 n 不合，rr 字母合），惟 rr 'chīû' 之 ğ形扬符与墨迹长横不合（墨迹为平横，合封存 T05）；首词 ^ 调记合 T03；调符落点（i 或 u）未达确认，不提供声调处置，修复延迟待核。",
-   "ink": "chêng chīū"
+   "ink": "chêng chīū",
+   "note": "五源：末字母 u（基线+甲+丁）；声调符落点（i/u）与形状未决，修复延迟待核。"
   },
   {
    "position": 22,
    "field": "M",
    "v1": "sia[g] iâg .",
    "rr": "siang iag",
-   "verdict": "墨迹不明",
-   "letters": "待核",
-   "tone_mark": "存疑",
-   "note": "首词中部有大块墨渍覆盖字母位，渍后可见 ng 形笔画，v1 以 [g] 记不确定字母、rr 读 siang，均无法对渍下字母作完整判定；^ 记号于次词可见，首词调记被渍，整条记不明。"
+   "verdict": "两皆误",
+   "letters": "rr",
+   "tone_mark": "一致",
+   "ink": "siang iâg .",
+   "note": "金标：采信同页互证读 siang（推定读法，标注入库）；墨渍下调记 T99 维持如封存。",
+   "tone_marks_unchanged": true
   }
  ]
 }

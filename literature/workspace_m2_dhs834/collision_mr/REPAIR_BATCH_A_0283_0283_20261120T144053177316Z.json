@@ -1,0 +1,222 @@
+{
+ "protocol": "REPAIR_BATCH_A_V4",
+ "selectedPages": [
+  283
+ ],
+ "status": "READY_FOR_SEAL",
+ "appliedCount": 0,
+ "pagesTouched": 0,
+ "dirtyPages": [],
+ "deferredCount": 16,
+ "deferred": [
+  {
+   "page": 283,
+   "position": 1,
+   "field": "source_M",
+   "v1": "iã vô .",
+   "rr": "",
+   "verdict": "墨迹不明",
+   "ink": null,
+   "reason": "任务或收集账目标重复"
+  },
+  {
+   "page": 283,
+   "position": 8,
+   "field": "source_M",
+   "v1": "pâg fia .",
+   "rr": "",
+   "verdict": "V1对",
+   "ink": null,
+   "reason": "任务或收集账目标重复"
+  },
+  {
+   "page": 283,
+   "position": 1,
+   "field": "M",
+   "v1": "vô",
+   "rr": "",
+   "verdict": "墨迹不明",
+   "ink": null,
+   "reason": "任务或收集账目标重复"
+  },
+  {
+   "page": 283,
+   "position": 2,
+   "field": "M",
+   "v1": "yǎge",
+   "rr": "",
+   "verdict": "两皆误",
+   "ink": "yoge .",
+   "reason": "任务或收集账目标重复"
+  },
+  {
+   "page": 283,
+   "position": 8,
+   "field": "M",
+   "v1": "fia",
+   "rr": "",
+   "verdict": "V1对",
+   "ink": null,
+   "reason": "任务或收集账目标重复"
+  },
+  {
+   "page": 283,
+   "position": 1,
+   "field": "M",
+   "v1": "iã vô .",
+   "rr": "iagtio",
+   "verdict": "墨迹不明",
+   "ink": null,
+   "reason": "任务或收集账目标重复"
+  },
+  {
+   "page": 283,
+   "position": 2,
+   "field": "M",
+   "v1": "yǎge .",
+   "rr": "yoige",
+   "verdict": "两皆误",
+   "ink": "yoge .",
+   "reason": "任务或收集账目标重复"
+  },
+  {
+   "page": 283,
+   "position": 6,
+   "field": "M",
+   "v1": "bûi guêy .",
+   "rr": "Bōu guey",
+   "verdict": "重读对",
+   "ink": "Bōu guey",
+   "reason": "现有 raw 与封存件不一致；未覆盖未封存工作"
+  },
+  {
+   "page": 283,
+   "position": 6,
+   "field": "R",
+   "v1": "mùn guī",
+   "rr": "mên gūī",
+   "verdict": "重读对",
+   "ink": "mên gūī",
+   "reason": "现有 raw 与封存件不一致；未覆盖未封存工作"
+  },
+  {
+   "page": 283,
+   "position": 7,
+   "field": "M",
+   "v1": "càng guêy .",
+   "rr": "cang gue",
+   "verdict": "重读对",
+   "ink": "cang gue",
+   "reason": "现有 raw 与封存件不一致；未覆盖未封存工作"
+  },
+  {
+   "page": 283,
+   "position": 7,
+   "field": "R",
+   "v1": "giàng guī",
+   "rr": "ziang gūī",
+   "verdict": "两皆误",
+   "ink": "giàng guia",
+   "reason": "现有 raw 与封存件不一致；未覆盖未封存工作"
+  },
+  {
+   "page": 283,
+   "position": 8,
+   "field": "M",
+   "v1": "pâg fia .",
+   "rr": "pag̃tia",
+   "verdict": "V1对",
+   "ink": null,
+   "reason": "任务或收集账目标重复"
+  },
+  {
+   "page": 283,
+   "position": 15,
+   "field": "M",
+   "v1": "iâg tôc .",
+   "rr": "iag hog",
+   "verdict": "两皆误",
+   "ink": "iag tog .",
+   "reason": "现有 raw 与封存件不一致；未覆盖未封存工作"
+  },
+  {
+   "page": 283,
+   "position": 20,
+   "field": "M",
+   "v1": "chēy chēŷng .",
+   "rr": "chey cheng",
+   "verdict": "重读对",
+   "ink": "chey cheng",
+   "reason": "现有 raw 与封存件不一致；未覆盖未封存工作"
+  },
+  {
+   "page": 283,
+   "position": 21,
+   "field": "R",
+   "v1": "chêng chīn",
+   "rr": "chēng chīû",
+   "verdict": "两皆误",
+   "ink": "chêng chīū",
+   "reason": "现有 raw 与封存件不一致；未覆盖未封存工作"
+  },
+  {
+   "page": 283,
+   "position": 22,
+   "field": "M",
+   "v1": "sia[g] iâg .",
+   "rr": "siang iag",
+   "verdict": "两皆误",
+   "ink": "siang iâg .",
+   "reason": "现有 raw 与封存件不一致；未覆盖未封存工作"
+  }
+ ],
+ "phonotacticDeferredByPage": {},
+ "upgrade": [],
+ "missingPages": [],
+ "receiptProblems": [],
+ "skipped": {
+  "V1对": 3,
+  "墨迹不明": 1,
+  "等价": 1
+ },
+ "unprocessedPages": [],
+ "collectorPending": [
+  {
+   "page": 283,
+   "queueIndex": 13,
+   "position": 9,
+   "field": "M",
+   "kind": "两读字母差",
+   "v1": "pag châ tāy n̄y .",
+   "rr": "pagchittngny",
+   "reason": "双判级缺失或无效",
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+   "candidateIndexes": [
+    13
+   ]
+  }
+ ],
+ "collectorUnmatched": [
+  {
+   "page": 283,
+   "receipt": "literature/workspace_m2_dhs834/collision_mr/adk/adk_verdict_p0283.json",
+   "index": 13,
+   "value": {
+    "position": 9,
+    "field": "M",
+    "v1": "pag châ tāy n̄y .",
+    "rr": "pagchittngny",
+    "verdict": "墨迹不明",
+    "letters": "待核",
+    "tone_mark": "存疑",
+    "note": "金标：约读 pag chou dung ny——v1 tāy 与 rr chittng 均不合；精确替换串各家不一（甲 tng/丁 fung-tung），落待核并留金标读法。"
+   }
+  }
+ ],
+ "batchB": {
+  "pages": [],
+  "rows": []
+ },
+ "applied": [],
+ "plannedNotWritten": []
+}

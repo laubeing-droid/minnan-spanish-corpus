@@ -1,0 +1,35 @@
+{
+ "page": 283,
+ "date": "2026-11-20",
+ "nature": "既存旧阶段 raw 与封存件净化差异基线对齐（L67 程序，同 codex_M1_batch04 先例）",
+ "caveat": "基线对齐不证明封存值已验真；本页封存值的当日图像核验另见金标/五源记录",
+ "alignments": [
+  {
+   "position": 1,
+   "field": "source_M",
+   "old_raw": "iaⁿ vô .",
+   "aligned_to_seal": "iã vô ."
+  },
+  {
+   "position": 15,
+   "field": "source_M",
+   "old_raw": "iâg tôk .",
+   "aligned_to_seal": "iâg tôc ."
+  },
+  {
+   "position": 19,
+   "field": "source_M",
+   "old_raw": "ca tiⁿ .",
+   "aligned_to_seal": "ca tĩ ."
+  },
+  {
+   "position": 20,
+   "field": "source_M",
+   "old_raw": "chēy chēŷng .",
+   "aligned_to_seal": "chēy chēŷng ."
+  }
+ ],
+ "raw_before_sha256": "021e114cfa17133184608a73014f315c2d50b67edda5f6f82f47b07f18beb027",
+ "raw_before_git": "92cd54a（初始备份以来未再变更多字段）",
+ "raw_after_sha256": "f83ac27bf1379f5441262d69a3f0cb5b2aef3bb3e5fea979df6f909a157a096b"
+}

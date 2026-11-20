@@ -1,13 +1,13 @@
 {
  "status": "IN_PROGRESS",
- "snapshot_utc": "2026-11-20T03:50:56.944924+00:00",
- "git_head_at_snapshot": "086d9f3e7fb4d69f6a6a78d6a059189ecaa4c526",
+ "snapshot_utc": "2026-11-20T14:55:41.956409+00:00",
+ "git_head_at_snapshot": "b2924699caa6c5ee061eea65632b821ba37f3f9b",
  "protocol": "CODEX_REPAIR_LEDGER_IN_PROGRESS_V1",
  "scope": "本次接手及其复核范围的 M2 字面修复，不等同于全库历史修改史。",
  "sources": {
   "adjudication": {
    "path": "literature/workspace_m2_dhs834/collision_mr/ADK_ADJUDICATION_LEDGER.json",
-   "sha256": "9d897880bf8f627949e5a99096a66c046b41059bebeee711847b6a5b68eb6158"
+   "sha256": "cf4bbd1fcda93c18e3c520a318133f2f0326df60aa3ab39afc625e831dbe09fb"
   },
   "historical_batch_a_v4": {
    "path": "literature/workspace_m2_dhs834/collision_mr/REPAIR_BATCH_A_V4.json",
